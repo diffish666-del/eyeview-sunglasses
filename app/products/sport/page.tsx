@@ -123,6 +123,11 @@ export default function SportPage() {
           </div>
         </section>
 
+        {/* Hero Image */}
+        <div className="mb-12">
+          <img src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop" alt="Wholesale Sport Sunglasses" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
+        </div>
+
         {/* Products with Unique Descriptions */}
         <section className="mb-16">
           <h2 className="text-3xl font-bold text-center mb-10">Sport Sunglasses by Activity</h2>

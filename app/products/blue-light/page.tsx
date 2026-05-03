@@ -119,6 +119,11 @@ export default function BlueLightPage() {
           </div>
         </section>
 
+        {/* Hero Image */}
+        <div className="mb-12">
+          <img src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop" alt="Wholesale Blue Light Sunglasses" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
+        </div>
+
         {/* Products */}
         <section className="mb-16">
           <h2 className="text-3xl font-bold text-center mb-10">Blue Light Collection</h2>

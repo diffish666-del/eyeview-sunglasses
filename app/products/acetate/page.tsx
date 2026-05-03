@@ -286,6 +286,11 @@ export default function AcetatePage() {
             </p>
           </section>
 
+        {/* Hero Image */}
+        <div className="mb-12">
+          <img src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=1200&h=500&fit=crop" alt="Wholesale Acetate Sunglasses" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
+        </div>
+
           {/* Products Grid */}
           <section className="mb-20">
             <h2 className="text-3xl font-bold text-center mb-10">Our Acetate Collection</h2>
