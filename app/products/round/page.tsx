@@ -79,7 +79,7 @@ export default function RoundPage() {
 
         {/* Hero Image */}
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
-          <img
+          <img loading="lazy"
             src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop"
             alt="Round Sunglasses Wholesale Collection - Vintage Circular Frames"
             className="w-full h-96 object-cover"
@@ -123,7 +123,7 @@ export default function RoundPage() {
             {products.map((product, index) => (
               <div key={index} className="card group">
                 <div className="aspect-video overflow-hidden">
-                  <img
+                  <img loading="lazy"
                     src={product.image}
                     alt={`${product.name} Wholesale - EyeView`}
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"

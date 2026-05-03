@@ -5,7 +5,7 @@ import CTASection from '@/components/CTASection';
 
 export const metadata: Metadata = {
   title: 'Wholesale Sunglasses Collection | All Styles & Categories',
-  description: 'Browse our complete wholesale sunglasses collection: Aviator, Wayfarer, Cat Eye, Sport, Round, Kids, Polarized & Blue Light glasses. OEM customization available. MOQ 50pcs.',
+  description: 'Browse our complete wholesale sunglasses collection: Aviator, Wayfarer, Cat Eye, Sport, Round, Kids, Polarized, Blue Light, Eco-Friendly, Acetate & TR90 glasses. OEM customization available. MOQ 50pcs.',
   alternates: { canonical: 'https://eyeviewsunglasses.com/products/' },
   openGraph: {
     title: 'Wholesale Sunglasses Collection | All Styles & Categories',
@@ -85,6 +85,33 @@ const products = [
     keywords: 'wholesale blue light glasses',
     description: 'Digital eye protection glasses with advanced blue light filtering technology. Block 30-50% of harmful blue light from computer screens, smartphones, and LED lighting. Available in prescription-ready and non-prescription frames. Growing demand from corporate, gaming, and wellness brands.',
     moq: 'MOQ: 50 pairs',
+    price: 'From $2.50/pair',
+  },
+  {
+    name: 'Eco-Friendly Sunglasses',
+    href: '/products/eco-friendly/',
+    emoji: '🌱',
+    keywords: 'sustainable sunglasses manufacturer',
+    description: 'Sustainable eyewear made from recycled ocean plastic (rPET), bamboo, bio-acetate, and recycled aluminum. Perfect for brands targeting eco-conscious consumers. Growing 30-50% premium retail positioning.',
+    moq: 'MOQ: 100 pairs',
+    price: 'From $3.00/pair',
+  },
+  {
+    name: 'Acetate Sunglasses',
+    href: '/products/acetate/',
+    emoji: '🎨',
+    keywords: 'acetate sunglasses manufacturer',
+    description: 'Handcrafted acetate frames in tortoiseshell, crystal, marble, and custom patterns. Premium Italian Mazzucchelli and high-quality Chinese acetate available. CNC cut and hand-polished for a luxury finish.',
+    moq: 'MOQ: 100 pairs',
+    price: 'From $4.00/pair',
+  },
+  {
+    name: 'TR90 Sunglasses',
+    href: '/products/tr90/',
+    emoji: '🏋️',
+    keywords: 'TR90 sunglasses manufacturer',
+    description: 'Ultra-lightweight TR90 nylon frames (15-20g) with memory flexibility and hypoallergenic properties. Made from Swiss EMS-Grivory Grilamid. Ideal for sports, kids, and everyday comfort lines.',
+    moq: 'MOQ: 100 pairs',
     price: 'From $2.50/pair',
   },
 ];

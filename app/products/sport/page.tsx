@@ -86,7 +86,7 @@ export default function SportPage() {
 
         {/* Hero Image */}
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
-          <img
+          <img loading="lazy"
             src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop"
             alt="Sport Sunglasses Collection - Polarized Athletic Eyewear for Cycling Running Fishing"
             className="w-full h-96 object-cover"
@@ -131,7 +131,7 @@ export default function SportPage() {
               <div key={index} className={`flex flex-col ${index % 2 === 0 ? 'md:flex-row' : 'md:flex-row-reverse'} gap-8 items-center`}>
                 <div className="md:w-1/2">
                   <div className="rounded-2xl overflow-hidden shadow-lg">
-                    <img
+                    <img loading="lazy"
                       src={product.image}
                       alt={`${product.name} Wholesale - EyeView`}
                       className="w-full h-72 object-cover"

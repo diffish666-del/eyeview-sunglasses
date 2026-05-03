@@ -68,6 +68,9 @@ const products = [
   { name: 'Kids Sunglasses', href: '/products/kids/', emoji: '👶', description: 'Safe, durable, and colorful sunglasses designed specifically for children aged 3-12.' },
   { name: 'Polarized Sunglasses', href: '/products/polarized/', emoji: '🌊', description: 'Premium polarized lenses that eliminate glare. Essential for outdoor and water sports.' },
   { name: 'Blue Light Glasses', href: '/products/blue-light/', emoji: '💻', description: 'Digital eye protection glasses that filter harmful blue light from screens and devices.' },
+  { name: 'Eco-Friendly Sunglasses', href: '/products/eco-friendly/', emoji: '🌱', description: 'Sustainable eyewear from recycled ocean plastic, bamboo, and bio-acetate materials.' },
+  { name: 'Acetate Sunglasses', href: '/products/acetate/', emoji: '🎨', description: 'Handcrafted acetate frames in premium patterns. Italian Mazzucchelli available.' },
+  { name: 'TR90 Sunglasses', href: '/products/tr90/', emoji: '🏋️', description: 'Ultra-lightweight TR90 nylon frames with memory flexibility for sports and everyday wear.' },
 ];
 
 const steps = [
@@ -113,9 +116,59 @@ const faqs = [
   },
 ];
 
+const howToJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'HowTo',
+  name: 'How to Order Wholesale Sunglasses from EyeView',
+  description: 'Our simple 5-step process makes ordering custom wholesale sunglasses easy and stress-free, from initial inquiry to doorstep delivery.',
+  totalTime: 'P25D',
+  estimatedCost: {
+    '@type': 'MonetaryAmount',
+    currency: 'USD',
+    value: '1.50',
+  },
+  step: [
+    {
+      '@type': 'HowToStep',
+      position: 1,
+      name: 'Inquiry & Consultation',
+      text: 'Share your requirements — style, quantity, customization needs, and budget. Our team provides expert guidance to help you choose the right products for your market.',
+      url: 'https://eyeviewsunglasses.com/contact/',
+    },
+    {
+      '@type': 'HowToStep',
+      position: 2,
+      name: 'Design & Sampling',
+      text: 'We create detailed designs based on your specifications. Receive physical samples within 5-7 business days for your review and approval before mass production begins.',
+    },
+    {
+      '@type': 'HowToStep',
+      position: 3,
+      name: 'Approval & Production',
+      text: 'Once you approve the samples, we begin full-scale production. Our factory capacity handles orders from 50 to 100,000+ pieces with consistent quality control.',
+    },
+    {
+      '@type': 'HowToStep',
+      position: 4,
+      name: 'Quality Inspection',
+      text: 'Every batch undergoes comprehensive 6-point quality inspection including UV protection testing, hinge durability, lens clarity, and frame alignment checks.',
+    },
+    {
+      '@type': 'HowToStep',
+      position: 5,
+      name: 'Shipping & Delivery',
+      text: 'We handle all packaging, labeling, and logistics. Choose from express air freight (5-7 days) or economical sea shipping (20-30 days) with full tracking and customs support.',
+    },
+  ],
+};
+
 export default function HomePage() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(howToJsonLd) }}
+      />
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-primary-900 via-primary-700 to-primary-600 text-white section-padding">
         <div className="container-custom">
