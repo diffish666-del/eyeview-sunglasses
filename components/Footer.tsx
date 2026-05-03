@@ -20,6 +20,9 @@ export default function Footer() {
               <li><Link href="/products/kids" className="hover:text-white">Kids</Link></li>
               <li><Link href="/products/polarized" className="hover:text-white">Polarized</Link></li>
               <li><Link href="/products/blue-light" className="hover:text-white">Blue Light</Link></li>
+              <li><Link href="/products/eco-friendly" className="hover:text-white">Eco-Friendly</Link></li>
+              <li><Link href="/products/acetate" className="hover:text-white">Acetate</Link></li>
+              <li><Link href="/products/tr90" className="hover:text-white">TR90</Link></li>
             </ul>
           </div>
           <div>
@@ -27,6 +30,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li><Link href="/blog" className="hover:text-white">Blog</Link></li>
               <li><Link href="/about" className="hover:text-white">About Us</Link></li>
+              <li><Link href="/certifications" className="hover:text-white">Certifications</Link></li>
               <li><Link href="/contact" className="hover:text-white">Contact</Link></li>
             </ul>
           </div>
