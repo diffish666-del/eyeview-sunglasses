@@ -116,6 +116,16 @@ export default function WayfarerPage() {
             </h1>
           </div>
 
+          {/* Hero Image */}
+          <div className="mb-12">
+            <img
+              src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=1200&h=500&fit=crop"
+              alt="Wholesale Wayfarer Sunglasses - Custom Acetate Frame Eyewear Manufacturer"
+              loading="lazy"
+              className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
+            />
+          </div>
+
           {/* Product Story / Overview */}
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">

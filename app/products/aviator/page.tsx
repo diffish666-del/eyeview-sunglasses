@@ -120,6 +120,16 @@ export default function AviatorPage() {
             </h1>
           </div>
 
+          {/* Hero Image */}
+          <div className="mb-12">
+            <img
+              src="https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=1200&h=500&fit=crop"
+              alt="Wholesale Aviator Sunglasses - Custom OEM Metal Frame Eyewear Manufacturer"
+              loading="lazy"
+              className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
+            />
+          </div>
+
           {/* Product Story / Overview */}
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">

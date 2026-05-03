@@ -113,6 +113,16 @@ export default function AcetatePage() {
             <span className="text-gray-900 font-medium">Acetate Sunglasses</span>
           </nav>
 
+          {/* Hero Image */}
+          <div className="mb-12">
+            <img
+              src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=1200&h=500&fit=crop"
+              alt="Acetate Sunglasses Manufacturer - Italian Mazzucchelli Handcrafted Eyewear Wholesale"
+              loading="lazy"
+              className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
+            />
+          </div>
+
           {/* Header */}
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">

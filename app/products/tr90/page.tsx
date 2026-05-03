@@ -113,6 +113,16 @@ export default function TR90Page() {
             <span className="text-gray-900 font-medium">TR90 Sunglasses</span>
           </nav>
 
+          {/* Hero Image */}
+          <div className="mb-12">
+            <img
+              src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop"
+              alt="TR90 Sunglasses Manufacturer - Lightweight Nylon Sports Eyewear Wholesale"
+              loading="lazy"
+              className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
+            />
+          </div>
+
           {/* Header */}
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">

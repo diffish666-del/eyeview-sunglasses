@@ -113,6 +113,16 @@ export default function EcoFriendlyPage() {
             <span className="text-gray-900 font-medium">Eco-Friendly Sunglasses</span>
           </nav>
 
+          {/* Hero Image */}
+          <div className="mb-12">
+            <img
+              src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop"
+              alt="Eco-Friendly Sustainable Sunglasses Wholesale - Bamboo and Recycled Materials"
+              loading="lazy"
+              className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
+            />
+          </div>
+
           {/* Header */}
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
