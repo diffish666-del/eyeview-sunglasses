@@ -1,0 +1,35 @@
+# EyeView Blog Publishing Schedule
+# Format: YYYY-MM-DD slug
+# Cron runs Mon & Thu at 9:00 AM Beijing time
+
+# Week 1 - 材质与技术
+2026-05-05 tr90-vs-acetate-vs-metal
+2026-05-08 uv400-vs-polarized
+
+# Week 2 - 材质与技术
+2026-05-12 sunglasses-coating-guide
+2026-05-15 update-lens-guide
+
+# Week 3 - 品牌商指南
+2026-05-19 sunglasses-brand-startup-cost
+2026-05-22 sunglasses-moq-guide
+
+# Week 4 - 品牌商指南
+2026-05-26 custom-sunglasses-packaging
+2026-05-29 update-oem-vs-odm
+
+# Week 5 - 行业趋势与合规
+2026-06-02 2026-sunglasses-design-trends
+2026-06-05 fda-ce-sunglasses-certification
+
+# Week 6 - 行业趋势与合规
+2026-06-09 sunglasses-import-guide
+2026-06-12 sustainable-eyewear-manufacturing
+
+# Week 7 - 补充内容
+2026-06-16 wholesale-sunglasses-pricing
+2026-06-19 update-start-sunglasses-brand
+
+# Week 8 - 销售辅助
+2026-06-23 sunglasses-face-shape-guide
+2026-06-26 sunglasses-quality-control
