@@ -1,0 +1,40 @@
+# robots.txt for EyeView Sunglasses
+# https://eyeviewsunglasses.com/robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://eyeviewsunglasses.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /_next/
+Disallow: /api/
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Allow SEO tools (fixed from previous config that blocked them)
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
