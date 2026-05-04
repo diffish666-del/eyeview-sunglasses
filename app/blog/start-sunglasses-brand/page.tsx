@@ -5,6 +5,13 @@ export const metadata: Metadata = {
   title: 'How to Start a Sunglasses Brand: Complete 2026 Guide',
   description: 'Complete step-by-step guide to starting your own sunglasses brand. Market research, sourcing, OEM manufacturing, branding, and marketing strategies.',
   keywords: 'start sunglasses brand, how to start eyewear brand, sunglasses business guide, OEM sunglasses, launch sunglasses line',
+  alternates: {
+    canonical: '/blog/start-sunglasses-brand',
+    languages: {
+      'en': '/blog/start-sunglasses-brand',
+      'es': '/es/blog/crear-marca-gafas',
+    },
+  },
 }
 
 export default function StartSunglassesBrandPage() {

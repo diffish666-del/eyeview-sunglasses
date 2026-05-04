@@ -5,6 +5,13 @@ export const metadata: Metadata = {
   title: 'How to Find a Reliable Sunglasses Manufacturer in 2026',
   description: 'A factory owner reveals how to find, evaluate, and choose a sunglasses manufacturer. 10 key criteria, common scams to avoid, and real negotiation tips from 20 years in the business.',
   keywords: 'find sunglasses manufacturer, sunglasses factory China, eyewear manufacturer, sunglasses supplier, OEM sunglasses factory, reliable manufacturer, sunglasses sourcing',
+  alternates: {
+    canonical: '/blog/find-sunglasses-manufacturer',
+    languages: {
+      'en': '/blog/find-sunglasses-manufacturer',
+      'es': '/es/blog/encontrar-fabricante-gafas',
+    },
+  },
 }
 
 export default function FindSunglassesManufacturerPage() {

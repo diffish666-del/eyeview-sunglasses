@@ -5,6 +5,13 @@ export const metadata: Metadata = {
   title: 'Sport Sunglasses Wholesale | Polarized Athletic Eyewear Manufacturer - EyeView',
   description: 'Wholesale sport sunglasses manufacturer. Polarized TAC lenses, TR90 frames, wraparound design for cycling, running, fishing, golf, ski & baseball. MOQ 100pcs. OEM/ODM available.',
   keywords: 'sport sunglasses wholesale, polarized sports glasses, athletic sunglasses manufacturer, cycling sunglasses wholesale, running sunglasses, fishing sunglasses bulk, TR90 sport frames, wraparound sunglasses OEM',
+  alternates: {
+    canonical: 'https://eyeviewsunglasses.com/products/sport',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/products/sport',
+      'es': 'https://eyeviewsunglasses.com/es/productos/deportivo',
+    },
+  },
 }
 
 const sportCategories = [

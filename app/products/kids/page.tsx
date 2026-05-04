@@ -5,6 +5,13 @@ export const metadata: Metadata = {
   title: 'Kids Sunglasses Wholesale | Children\'s UV Protection Eyewear Manufacturer - EyeView',
   description: 'Kids sunglasses wholesale manufacturer. Safe, BPA-free, CPSIA & EN71 certified children\'s eyewear for ages 0-12. Flexible unbreakable frames, UV400 protection. MOQ 100pcs.',
   keywords: 'kids sunglasses wholesale, children sunglasses manufacturer, baby sunglasses wholesale, toddler sunglasses, youth eyewear bulk, kids UV protection glasses, BPA-free kids sunglasses, CPSIA certified sunglasses',
+  alternates: {
+    canonical: 'https://eyeviewsunglasses.com/products/kids',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/products/kids',
+      'es': 'https://eyeviewsunglasses.com/es/productos/ninos',
+    },
+  },
 }
 
 const products = [

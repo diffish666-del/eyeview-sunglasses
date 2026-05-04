@@ -12,6 +12,13 @@ export const metadata: Metadata = {
     type: 'website',
     url: 'https://eyeviewsunglasses.com/products/aviator',
   },
+  alternates: {
+    canonical: 'https://eyeviewsunglasses.com/products/aviator',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/products/aviator',
+      'es': 'https://eyeviewsunglasses.com/es/productos/aviador',
+    },
+  },
 }
 
 const aviatorFaqs = [

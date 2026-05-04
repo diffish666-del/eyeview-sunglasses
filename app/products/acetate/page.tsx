@@ -12,6 +12,13 @@ export const metadata: Metadata = {
     type: 'website',
     url: 'https://eyeviewsunglasses.com/products/acetate',
   },
+  alternates: {
+    canonical: 'https://eyeviewsunglasses.com/products/acetate',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/products/acetate',
+      'es': 'https://eyeviewsunglasses.com/es/productos/acetato',
+    },
+  },
 }
 
 const acetateFaqs = [

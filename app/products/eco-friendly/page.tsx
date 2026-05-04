@@ -12,6 +12,13 @@ export const metadata: Metadata = {
     type: 'website',
     url: 'https://eyeviewsunglasses.com/products/eco-friendly',
   },
+  alternates: {
+    canonical: 'https://eyeviewsunglasses.com/products/eco-friendly',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/products/eco-friendly',
+      'es': 'https://eyeviewsunglasses.com/es/productos/ecologico',
+    },
+  },
 }
 
 const ecoFaqs = [

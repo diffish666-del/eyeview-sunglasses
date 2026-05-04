@@ -5,6 +5,13 @@ export const metadata: Metadata = {
   title: 'OEM vs ODM Sunglasses: What\'s the Difference? Complete Guide',
   description: 'A factory owner explains the real differences between OEM and ODM sunglasses manufacturing. Honest cost breakdowns, timelines, and advice on choosing the right model for your brand.',
   keywords: 'OEM vs ODM sunglasses, OEM sunglasses manufacturer, ODM eyewear, custom sunglasses manufacturing, private label sunglasses, OEM ODM difference',
+  alternates: {
+    canonical: '/blog/oem-vs-odm',
+    languages: {
+      'en': '/blog/oem-vs-odm',
+      'es': '/es/blog/oem-vs-odm',
+    },
+  },
 }
 
 export default function OemVsOdmPage() {

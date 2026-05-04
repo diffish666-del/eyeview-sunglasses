@@ -12,6 +12,13 @@ export const metadata: Metadata = {
     type: 'website',
     url: 'https://eyeviewsunglasses.com/products/tr90',
   },
+  alternates: {
+    canonical: 'https://eyeviewsunglasses.com/products/tr90',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/products/tr90',
+      'es': 'https://eyeviewsunglasses.com/es/productos/tr90',
+    },
+  },
 }
 
 const tr90Faqs = [

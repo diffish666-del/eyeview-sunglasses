@@ -12,6 +12,13 @@ export const metadata: Metadata = {
     type: 'website',
     url: 'https://eyeviewsunglasses.com/products/wayfarer',
   },
+  alternates: {
+    canonical: 'https://eyeviewsunglasses.com/products/wayfarer',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/products/wayfarer',
+      'es': 'https://eyeviewsunglasses.com/es/productos/wayfarer',
+    },
+  },
 }
 
 const wayfarerFaqs = [

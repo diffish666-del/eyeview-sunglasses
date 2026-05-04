@@ -6,7 +6,13 @@ import CTASection from '@/components/CTASection';
 export const metadata: Metadata = {
   title: 'Wholesale Sunglasses Collection | All Styles & Categories',
   description: 'Browse our complete wholesale sunglasses collection: Aviator, Wayfarer, Cat Eye, Sport, Round, Kids, Polarized, Blue Light, Eco-Friendly, Acetate & TR90 glasses. OEM customization available. MOQ 50pcs.',
-  alternates: { canonical: 'https://eyeviewsunglasses.com/products/' },
+  alternates: {
+    canonical: 'https://eyeviewsunglasses.com/products/',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/products/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/',
+    },
+  },
   openGraph: {
     title: 'Wholesale Sunglasses Collection | All Styles & Categories',
     description: 'Browse our complete wholesale sunglasses collection. OEM & ODM customization available for all styles.',

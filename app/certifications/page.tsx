@@ -6,6 +6,10 @@ export const metadata: Metadata = {
   description: 'EyeView sunglasses meet all international safety standards. FDA registered, CE certified, ISO 9001, UV400, ANSI Z80.3 compliant. Full documentation available.',
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/certifications',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/certifications',
+      'es': 'https://eyeviewsunglasses.com/es/certificaciones',
+    },
   },
 }
 

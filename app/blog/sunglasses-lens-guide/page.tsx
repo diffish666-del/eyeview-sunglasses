@@ -5,6 +5,13 @@ export const metadata: Metadata = {
   title: 'Sunglasses Lens Types: Complete Buyer\'s Guide for 2026',
   description: 'A factory owner breaks down sunglasses lens materials, colors, coatings, and polarization. Real costs, honest comparisons, and advice from 20 years on the production line.',
   keywords: 'sunglasses lens types, polarized lenses, lens materials, CR-39 vs polycarbonate, sunglasses lens colors, photochromic lenses, lens coatings, TAC lenses',
+  alternates: {
+    canonical: '/blog/sunglasses-lens-guide',
+    languages: {
+      'en': '/blog/sunglasses-lens-guide',
+      'es': '/es/blog/guia-lentes-gafas',
+    },
+  },
 }
 
 export default function SunglassesLensGuidePage() {

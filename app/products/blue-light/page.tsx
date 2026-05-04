@@ -5,6 +5,13 @@ export const metadata: Metadata = {
   title: 'Blue Light Blocking Glasses Wholesale | Computer Eyewear Manufacturer - EyeView',
   description: 'Wholesale blue light blocking glasses manufacturer. Computer glasses, gaming eyewear for digital eye strain relief. Clear & amber lens options. MOQ 100pcs. OEM/ODM factory direct.',
   keywords: 'blue light glasses wholesale, computer glasses manufacturer, gaming glasses wholesale, blue light blocking eyewear, screen protection glasses, anti blue light glasses bulk, digital eye strain glasses',
+  alternates: {
+    canonical: 'https://eyeviewsunglasses.com/products/blue-light',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/products/blue-light',
+      'es': 'https://eyeviewsunglasses.com/es/productos/luz-azul',
+    },
+  },
 }
 
 const products = [

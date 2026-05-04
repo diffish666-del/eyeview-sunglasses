@@ -1,6 +1,62 @@
+'use client'
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 
 export default function Footer() {
+  const pathname = usePathname()
+  const isSpanish = pathname.startsWith('/es')
+
+  if (isSpanish) {
+    return (
+      <footer className="bg-gray-900 text-gray-300">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          <div className="grid md:grid-cols-4 gap-8">
+            <div>
+              <h3 className="text-white text-lg font-bold mb-4">🕶️ EyeView</h3>
+              <p className="text-sm">Fabricante de gafas de sol OEM y al por mayor desde 2006. Más de 500 marcas confían en nosotros en más de 50 países.</p>
+            </div>
+            <div>
+              <h4 className="text-white font-semibold mb-3">Productos</h4>
+              <ul className="space-y-2 text-sm">
+                <li><Link href="/es/productos/aviador" className="hover:text-white">Aviador</Link></li>
+                <li><Link href="/es/productos/wayfarer" className="hover:text-white">Wayfarer</Link></li>
+                <li><Link href="/es/productos/ojo-de-gato" className="hover:text-white">Ojo de Gato</Link></li>
+                <li><Link href="/es/productos/deportivo" className="hover:text-white">Deportivo</Link></li>
+                <li><Link href="/es/productos/redondo" className="hover:text-white">Redondo</Link></li>
+                <li><Link href="/es/productos/ninos" className="hover:text-white">Niños</Link></li>
+                <li><Link href="/es/productos/polarizado" className="hover:text-white">Polarizado</Link></li>
+                <li><Link href="/es/productos/luz-azul" className="hover:text-white">Luz Azul</Link></li>
+                <li><Link href="/es/productos/ecologico" className="hover:text-white">Ecológico</Link></li>
+                <li><Link href="/es/productos/acetato" className="hover:text-white">Acetato</Link></li>
+                <li><Link href="/es/productos/tr90" className="hover:text-white">TR90</Link></li>
+              </ul>
+            </div>
+            <div>
+              <h4 className="text-white font-semibold mb-3">Recursos</h4>
+              <ul className="space-y-2 text-sm">
+                <li><Link href="/blog" className="hover:text-white">Blog</Link></li>
+                <li><Link href="/es/sobre-nosotros" className="hover:text-white">Sobre Nosotros</Link></li>
+                <li><Link href="/es/certificaciones" className="hover:text-white">Certificaciones</Link></li>
+                <li><Link href="/es/contacto" className="hover:text-white">Contacto</Link></li>
+              </ul>
+            </div>
+            <div>
+              <h4 className="text-white font-semibold mb-3">Contacto</h4>
+              <ul className="space-y-2 text-sm">
+                <li>📧 jacky@eyeviewsunglasses.com</li>
+                <li>📱 WhatsApp: +86-18850281211</li>
+                <li>⏰ Respuesta en 24 horas</li>
+              </ul>
+            </div>
+          </div>
+          <div className="border-t border-gray-800 mt-8 pt-8 text-sm text-center">
+            <p>&copy; {new Date().getFullYear()} EyeView Sunglasses. Todos los derechos reservados.</p>
+          </div>
+        </div>
+      </footer>
+    )
+  }
+
   return (
     <footer className="bg-gray-900 text-gray-300">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">

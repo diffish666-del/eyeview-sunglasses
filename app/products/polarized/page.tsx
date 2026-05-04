@@ -5,6 +5,13 @@ export const metadata: Metadata = {
   title: 'Polarized Sunglasses Wholesale | Premium TAC Lenses Manufacturer - EyeView',
   description: 'Wholesale polarized sunglasses manufacturer. Premium 7-layer TAC polarized lenses, 99% glare reduction, UV400 protection. Driving, fishing, sport styles. MOQ 100pcs. Factory direct.',
   keywords: 'polarized sunglasses wholesale, TAC polarized lenses, polarized sunglasses manufacturer, glare reduction sunglasses, polarized driving glasses, polarized fishing sunglasses, CR-39 polarized lenses bulk',
+  alternates: {
+    canonical: 'https://eyeviewsunglasses.com/products/polarized',
+    languages: {
+      'en': 'https://eyeviewsunglasses.com/products/polarized',
+      'es': 'https://eyeviewsunglasses.com/es/productos/polarizado',
+    },
+  },
 }
 
 const products = [
