@@ -7,10 +7,11 @@ export const metadata: Metadata = {
   description: 'Fabricant leader de lunettes de soleil aviateur en gros. Lunettes aviateur personnalisées avec gravure logo, montures métal, verres UV400/polarisés. MOQ 100 pcs. Direct usine. Demandez un devis !',
   keywords: 'lunettes aviateur en gros, fabricant lunettes aviateur, lunettes aviateur personnalisées, OEM lunettes aviateur, lunettes de soleil en gros, fabricant lunettes, montures métal en gros',
   openGraph: {
-    title: 'Lunettes de Soleil Aviateur au par Mayor | Fabricant OEM - EyeView',
-    description: 'Fabricant líder de lunettes de soleil aviador en gros. Logo personnalisé, montures metálicas, verres UV400/polarisées. MOQ 100 pcs. Prixs de usine.',
+    title: 'Lunettes de Soleil Aviateur en Gros | Fabricant OEM - EyeView',
+    description: 'Fabricant leader de lunettes de soleil aviateur en gros. Logo personnalisé, montures métalliques, verres UV400/polarisés. MOQ 100 pcs. Prix direct usine.',
     type: 'website',
     url: 'https://eyeviewsunglasses.com/fr/produits/aviateur',
+    locale: 'fr_FR',
   },
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/fr/produits/aviateur',
@@ -23,143 +24,143 @@ export const metadata: Metadata = {
 
 const aviatorFaqs = [
   {
-    question: 'Quel estt el commande minimum para lunettes aviador en gros?',
-    answer: 'Solo 100 pièces par modelo. Y ici viene le bueno: puedes mezclar dentro de esas 100. Podrías commander 20 montures doradas avec verres grises, 30 plateadas avec bleu miroir et 50 negras avec dégradé. Así pruebas qué combinaciones achatn realmente vos clients en vez de adivinar. La mayoría de notres clients de aviador empiezan avec 200-300 pièces en 2-3 combinaciones de couleur et luego repiten commande des ganadoras en quantitées mayores.',
+    question: 'Quelle est la commande minimum pour les lunettes aviateur en gros ?',
+    answer: 'Seulement 100 pièces par modèle. Et voici le bon côté — vous pouvez mélanger au sein de ces 100. Vous pourriez donc faire 20 montures dorées avec des verres gris, 30 argentées avec du miroir bleu, et 50 noires avec du dégradé. Cela vous permet de tester quelles combinaisons vos clients achètent réellement au lieu de deviner. La plupart de nos clients aviateur commencent avec 200-300 pièces sur 2-3 combinaisons de couleurs, puis réapprovisionnent les gagnantes en plus grandes quantités.',
   },
   {
-    question: 'Qué options de metal proposez-vous para las montures aviador?',
-    answer: 'Tres principales. El acier inoxydable est el plus popular: résistant, se ve genial, no se oxida et cuesta $8-12/paire. La alliage d'aluminium est un 40% plus légère (ideal para uso todo el día) et cuesta $10-14/paire. Y luego está el beta-titane para la gama premium: hypoallergénique (la Organization International de Nonrmalization clasifica el titane comme matériau biocompatible según la norma ISO 5832), increíblemente léger avec 15-20 grammes et prácticamente imposible de romper. El titane cuesta $14-22/paire, mais vous permite vender a $80-150+ en retail, así qui los marges sont en realidad meilleures. Cualquiera de ellos se puede recubrir en doré, argenté, noir, oro rose ou couleures personnalisés.',
+    question: 'Quelles options de métal proposez-vous pour les montures aviateur ?',
+    answer: 'Trois principales. L\u2019acier inoxydable est notre option la plus populaire — robuste, beau, ne ternit pas, et coûte 8-12 $/paire. L\u2019alliage d\u2019aluminium est environ 40 % plus léger (idéal pour un port toute la journée), coûte 10-14 $/paire. Et puis il y a le bêta-titane pour le haut de gamme — hypoallergénique (l\u2019Organisation internationale de normalisation classe le titane comme matériau biocompatible selon la norme ISO 5832), incroyablement léger à 15-20 grammes, et quasiment impossible à casser. Le titane coûte 14-22 $/paire mais il vous permet de facturer 80-150 $+ au détail, donc les marges sont en fait meilleures. Tous peuvent être plaqués en or, argent, noir, or rose ou couleurs personnalisées.',
   },
   {
-    question: 'Puis-je grabar mi logo en lunettes aviador?',
-    answer: 'Por supuesto, et sinceramente ici est où las aviador de metal brillan de voirdad comparadas avec las montures de plástico. El grabado láser queda increíble en metal: nítido, permanente et elegante. Podemos grabar dans le interior ou exterior des branches. Si quieres algo plus llamativo, nous faisons insignias metálicas 3D (aleation de zinc ou acier inoxydable) qui se sueldan directamente à la branche ou el pont. Également hay impresión en verres para logos discretos dans la esquina et plaquetas nasales grabadas a medida si realmente quieres ir a tope avec el branding.',
+    question: 'Puis-je faire graver mon logo sur les lunettes aviateur ?',
+    answer: 'Absolument, et honnêtement c\u2019est là que les aviateurs en métal brillent vraiment par rapport aux montures en plastique. La gravure laser est magnifique sur le métal — nette, permanente et élégante. Nous pouvons graver à l\u2019intérieur ou à l\u2019extérieur des branches. Si vous voulez quelque chose de plus audacieux, nous faisons des badges métalliques 3D (alliage de zinc ou acier inoxydable) soudés directement sur la branche ou le pont. Il y a aussi l\u2019impression sur verre pour des logos discrets dans le coin et les plaquettes nasales personnalisées gravées si vous voulez vraiment aller au bout du branding.',
   },
   {
-    question: 'Proposez-vous verres polarisées para aviador?',
-    answer: 'Oui, et le recomiendo mucho. Nuestras verres polarisées TAC usan une película de 7 capas qui elimina el 99% du éblouissement — la diferencia est abismal, especialmente para conducir. Ici va el argumento de affaires: las aviador polarisées se venden un 25-40% plus caras en retail qui las UV400 norme. Un paire qui se vende a $40 sin polarizar fácilmente llega a $50-55 polarisé. Également nous faisons verres photochromiques (se oscurecen avec la luz solar), revêtements miroir, antireflets et dégradés. Mezcla et combina comme quieras.',
+    question: 'Proposez-vous des verres polarisés pour les aviateurs ?',
+    answer: 'Oui, et je les recommande vivement. Nos verres polarisés TAC utilisent un film 7 couches qui élimine 99 % de l\u2019éblouissement — la différence est radicale, surtout pour la conduite. Voici l\u2019argument commercial : les aviateurs polarisés se vendent 25 à 40 % plus cher au détail que les UV400 standard. Donc une paire qui se vend 40 $ sans polarisation peut facilement se vendre 50-55 $ avec polarisation. Nous faisons également des verres photochromiques (qui s\u2019assombrissent au soleil), des revêtements miroir, des revêtements antireflet et des teintes dégradées. Mélangez et combinez comme vous voulez.',
   },
   {
-    question: 'Quelle est la différence entre las aviador des wayfarer para vente en gros?',
-    answer: 'Buena pregunta — nous la hacen mucho. La voirsión corta: las aviador sont de metal, las wayfarer sont de acétate/plástico. Eso significa qui las aviador cuestan un poco plus par paire ($8-14 vs $5-11) mais également transmiten une sensation plus premium. Las aviador tienden a ser légèremente plus masculinas et tienen esa herencia militar/piloto a son favor. Las wayfarer sont plus unisex et vienen en muchos plus couleures. Sinceramente? La mayoría des marques exitosas llevan ambas. Si tienes qui choisir una, aviador si buscas posicionamiento premium, wayfarer si quieres volume.',
+    question: 'Quelle est la différence entre aviateurs et wayfarers pour la vente en gros ?',
+    answer: 'Bonne question — on nous la pose souvent. En résumé : les aviateurs sont en métal, les wayfarers en acétate/plastique. Cela signifie que les aviateurs coûtent un peu plus par paire (8-14 $ vs 5-11 $) mais ils dégagent aussi une sensation plus premium. Les aviateurs tendent à être légèrement plus masculins et bénéficient de cet héritage militaire/pilote. Les wayfarers sont plus unisexes et disponibles dans beaucoup plus de couleurs. Honnêtement ? La plupart des marques à succès proposent les deux. Si vous devez en choisir un, aviateurs si vous visez un positionnement premium, wayfarers si vous voulez du volume.',
   },
   {
-    question: 'Qué emballage puis-je obtenir avec mi commande de aviador?',
-    answer: 'Nous proposons toda la gama. El setup plus popular est un estuche rígido (EVA avec votre logo impreso) plus une funda de microfibra qui sirve également comme pan de limpieza. Cuesta unos $1.50-2.50 par set dependiendo des matériaux. Également nous faisons estuches de piel, latas metálicas, cajas de cartón personnalisées avec impresión a todo couleur, tarjetas de garantie etiquetas colgantes. Para gammes premium, algunos clients optan par cajas avec cierre magnético ou incluso estuches de madera. El MOQ para emballage est de 500 pièces — mais puedes usar emballage genérico para votre primer commande petit et cambiar a personnalisé dans la repetition.',
+    question: 'Quel emballage puis-je obtenir avec ma commande d\u2019aviateurs ?',
+    answer: 'Nous proposons toute la gamme. La configuration la plus populaire est un étui rigide avec votre marque (EVA avec votre logo imprimé) plus une pochette microfibre qui sert aussi de chiffon de nettoyage. Cela revient à environ 1,50-2,50 $ par ensemble selon les matériaux. Nous faisons aussi des étuis en cuir, des boîtes métalliques, des boîtes en carton personnalisées avec impression couleurs, des cartes de garantie et des étiquettes. Pour les gammes premium, certains clients optent pour des boîtes à fermeture magnétique ou même des étuis en bois. Le MOQ emballage est de 500 pièces — mais vous pouvez utiliser un emballage générique pour votre première petite commande et passer au personnalisé au réapprovisionnement.',
   },
 ]
 
 const products = [
   {
-    name: 'Aviador Clásica Dorada',
-    description: 'Esta est la qui todo el mundo imagina quand dices "aviador." Acero inoxidable doré pulido, forma de lágrima, verres voirdes G-15 qui cortan el éblouissement sin hacer qui todo se vea raro. El acabado doré tiene revêtement PVD (no pintura barata en spray) así qui aguanta el uso diario. Vendemos plus de estas qui cualquier autre SKU individual — et la mayoría de notres clients dicen le même. Si estás lanzando une marque de lunettes et quieres une apuesta sûre, esta es.',
+    name: 'Aviateur Or Classique',
+    description: 'C\u2019est celui que tout le monde imagine quand on dit « aviateur ». Acier inoxydable ton or poli, forme en goutte d\u2019eau, verres teintés vert G-15 qui coupent l\u2019éblouissement sans rendre les couleurs bizarres. La finition dorée est revêtue PVD (pas de la peinture bon marché) donc elle résiste à l\u2019usage quotidien. Nous en vendons plus que tout autre SKU — et la plupart de nos clients disent la même chose. Si vous lancez une marque de lunettes et voulez un pari sûr, c\u2019est celui-ci.',
     price: '$8.50 - $12.00',
     moq: '100 pcs',
-    features: ['Acier Inoxydable', 'Lente Voirde G-15', 'Acabado PVD Doré', 'Plaquetas de Silicona'],
+    features: ['Acier Inoxydable', 'Verre Vert G-15', 'Finition Or PVD', 'Plaquettes Silicone'],
   },
   {
-    name: 'Aviador Miroir Plateada',
-    description: 'Monture plateada, verres miroir plateadas — el tipo de lunettes de soleil qui ves en chaque vacation dans la playa. El revêtement miroir refleja alrededor du 60% de la luz entrante, le qui las hace genuinamente buenas para condiciones de mucha luz (no solo bonitas). La monture est acier inoxydable avec ban de rodio qui no se oxidará ni en aire salado costero. Las charnières de muelles dan algo de flexibilidad para adaptarse a diferentes tailles de cabeza sin sentirse demasiado apretadas ou flojas. Gran éxito de ventes para marques resort et boutiques de playa.',
+    name: 'Aviateur Miroir Argent',
+    description: 'Monture argentée, verres miroir argent — le genre de lunettes qu\u2019on voit à chaque vacances à la plage. Le revêtement miroir réfléchit environ 60 % de la lumière entrante, ce qui les rend véritablement efficaces en conditions lumineuses (pas seulement stylées). La monture est en acier inoxydable plaqué rhodium qui ne ternira pas même dans l\u2019air salin côtier. Les charnières à ressort leur donnent un peu de flexibilité pour s\u2019adapter à différentes tailles de tête sans serrer trop ou pas assez. Gros vendeur pour les marques balnéaires et les boutiques de plage.',
     price: '$9.00 - $13.00',
     moq: '100 pcs',
-    features: ['Ban de Rodio', 'Recubrimiento Miroir', 'Bisagras de Muelle', 'Resistente a Corrosión'],
+    features: ['Plaqué Rhodium', 'Revêtement Miroir', 'Charnières à Ressort', 'Résistant à la Corrosion'],
   },
   {
-    name: 'Aviador Stealth Noir Mate',
-    description: 'Para marques qui buscan ese look táctico, sin rodeos. El electrochapado mat le da à la monture une superficie complètemente antirreflectante — une sensation très diferente au doré ou argenté brillant. Combinadas avec verres ahumadas oscuras qui bloquean el 85% de la luz visible, sont protection solar seria. Vemos muchos commandes de marques outdoor, entreprises de suministros para fuerzas du orden et marques de moda masculina. Las puntas de branche reforzadas sont un buen toque — sujetan sin deslizarse incluso quand sudas.',
+    name: 'Aviateur Stealth Noir Mat',
+    description: 'Pour les marques qui visent un look tactique, sans fioritures. L\u2019électrodéposition mate donne à la monture une surface complètement non réfléchissante — une sensation très différente de l\u2019or ou de l\u2019argent brillant. Associés à des verres fumés foncés qui bloquent 85 % de la lumière visible, ce sont de véritables protections solaires. Nous voyons beaucoup de commandes de marques outdoor, d\u2019entreprises de fournitures pour les forces de l\u2019ordre et de marques de mode masculine. Les embouts de branches renforcés sont un plus appréciable — ils agrippent sans glisser même quand vous transpirez.',
     price: '$9.00 - $13.00',
     moq: '100 pcs',
-    features: ['Acabado Mate', 'Lente Ahumada Oscura', 'Puntas Reforzadas', 'Antirreflectante'],
+    features: ['Finition Mate', 'Verre Fumé Foncé', 'Embouts Renforcés', 'Non Réfléchissant'],
   },
   {
-    name: 'Aviador Fashion Oro Rosa',
-    description: 'El oro rose lleva unos cinco ans siendo el acabado de moda et no échantillon signales de desaceleration. El tono cálido rose-doré se fotografía de maravilla (enorme para marques qui venden par Instagram) et favorece prácticamente a tous los tonos de piel. Las combinamos avec verres degradadas roses — oscuras arriba, claras abajo — le qui les da ese look de moda sin esfuerzo. Fabrichaques en alliage d'aluminium pesan menos de 25 grammes. Si votre clienta est une mujer de 22 ans achatndo depuis son móvil, esto est le qui va a clickear.',
+    name: 'Aviateur Mode Or Rose',
+    description: 'L\u2019or rose est la finition tendance depuis environ cinq ans et ne montre aucun signe de ralentissement. Le ton rose-doré chaud se photographie magnifiquement (crucial pour les marques qui vendent via Instagram), et il flatte pratiquement tous les tons de peau. Nous les associons à des verres dégradés roses — foncés en haut, clairs en bas — ce qui leur donne ce look mode sans effort. Fabriqués en alliage d\u2019aluminium pour un poids sous les 25 grammes. Si votre cliente est une femme de 22 ans qui achète sur son téléphone, c\u2019est sur ça qu\u2019elle clique.',
     price: '$10.00 - $14.00',
     moq: '100 pcs',
-    features: ['Aleation de Aluminio', 'Lente Degradada Rosa', 'Menos de 25g', 'Tono Oro Rosa'],
+    features: ['Alliage d\u2019Aluminium', 'Verre Dégradé Rose', 'Moins de 25g', 'Ton Or Rose'],
   },
   {
-    name: 'Aviador Polarisée Miroir Azul',
-    description: 'Voirres miroir bleu océano vivo avec polarisation real debajo — así qui se ven increíbles Y realmente funcionan. La película polarisée TAC bloquea el 99% du éblouissement qui rebota en agua, carreteras et nieve. La monture gunmetal mantiene el foco en esas verres. Esta est notre recomendation número uno para clients qui venden au público costero/surf/pesca. Se fotografían bien, rinden bien et justifican un prix retail plus alto gracias à la polarisation. Cuestan unos $2-3 plus par paire qui las no polarisées, mais puedes cobrar $15-20 plus en retail.',
+    name: 'Aviateur Polarisé Miroir Bleu',
+    description: 'Verres miroir bleu océan vif avec une véritable polarisation en dessous — ils sont donc superbes ET fonctionnent réellement. Le film polarisé TAC bloque 99 % de l\u2019éblouissement réfléchi par l\u2019eau, les routes et la neige. La monture gunmetal garde l\u2019attention sur ces verres. C\u2019est notre recommandation pour les clients qui vendent au public côtier/surf/pêche. Ils se photographient bien, ils performent bien, et ils justifient un prix de détail plus élevé grâce à la polarisation. Coûte environ 2-3 $ de plus par paire que le non-polarisé, mais vous pouvez facturer 15-20 $ de plus au détail.',
     price: '$11.00 - $15.00',
     moq: '100 pcs',
-    features: ['Polarisée TAC', 'Miroir Azul', 'Monture Gunmetal', '99% Reducción de Deslumbramiento'],
+    features: ['Polarisé TAC', 'Miroir Bleu', 'Monture Gunmetal', '99 % Réduction Éblouissement'],
   },
   {
-    name: 'Aviador Premium de Titane',
-    description: 'Lo meilleur de notre gamme aviador. Monture de beta-titane qui pesa 15 grammes — apenas la sientes dans la cara. El titane est hypoallergénique (sin níquel, sin reacciones), a prueba de corrosión, et puedes doblarlo et vuelve a son sitio. Las combinamos avec verres ópticas CR-39 antireflets — la même qualité qui encontrarías en montures de diseñador de $200+. Esto est para marques quieren competir dans le extremo premium du marché. Votre prix retail puede ser fácilmente $80-150+, et el coste par unidad sigue siendo solo $14-22. Haz las cuentas de esos marges.',
+    name: 'Aviateur Premium en Titane',
+    description: 'Le sommet de notre gamme aviateur. Monture en bêta-titane qui pèse 15 grammes — vous la sentez à peine sur le visage. Le titane est hypoallergénique (sans nickel, sans réaction), résistant à la corrosion, et on peut le plier, il reprend sa forme immédiatement. Nous les associons à des verres optiques CR-39 antireflet — le même grade que celui des montures de créateurs à 200 $+. C\u2019est pour les marques qui veulent rivaliser au sommet du marché. Votre prix de détail peut facilement être 80-150 $+, et le coût unitaire n\u2019est que de 14-22 $. Faites le calcul sur ces marges.',
     price: '$14.00 - $22.00',
     moq: '100 pcs',
-    features: ['Beta Titane', 'Lente Óptica CR-39', 'Antirreflejante', 'Solo 15 Grammes'],
+    features: ['Bêta-Titane', 'Verre Optique CR-39', 'Antireflet', 'Seulement 15 Grammes'],
   },
 ]
 
-export default function AviadorPage() {
+export default function AviatorPageFr() {
   return (
     <>
       <ProductSchema product={{
-        name: 'Lunettes de Soleil Aviateur au par Mayor',
-        description: 'Lunettes de sol aviador clásicas avec monture metálica en forma de lágrima. Disponibles en acier inoxydable, alliage d'aluminium et titane. Options de verres UV400 et polarisées. Personnalisation OEM complète avec grabado de logo.',
+        name: 'Lunettes de Soleil Aviateur en Gros',
+        description: 'Lunettes de soleil aviateur classiques en forme de goutte d\u2019eau avec montures métalliques. Disponibles en acier inoxydable, alliage d\u2019aluminium et titane. Options de verres UV400 et polarisés. Personnalisation OEM complète avec gravure logo.',
         minPrice: '8.50',
         maxPrice: '22.00'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr' },
         { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits' },
-        { name: 'Lunettes Aviador', url: 'https://eyeviewsunglasses.com/fr/produits/aviateur' }
+        { name: 'Lunettes Aviateur', url: 'https://eyeviewsunglasses.com/fr/produits/aviateur' }
       ]} />
       <FAQPageSchema faqs={aviatorFaqs} />
 
       <main className="py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          {/* Breadcrumb */}
+          {/* Fil d&apos;Ariane */}
           <nav className="mb-8 text-sm text-gray-500">
-            <Link href="/es" className="hovoir:text-primary-600">Inicio</Link>
+            <Link href="/fr" className="hover:text-primary-600">Accueil</Link>
             <span className="mx-2">/</span>
-            <Link href="/fr/produits" className="hovoir:text-primary-600">Produits</Link>
+            <Link href="/fr/produits" className="hover:text-primary-600">Produits</Link>
             <span className="mx-2">/</span>
-            <span className="text-gray-900 font-medium">Lunettes Aviador</span>
+            <span className="text-gray-900 font-medium">Lunettes Aviateur</span>
           </nav>
 
-          {/* Header */}
+          {/* En-tête */}
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              Lunettes de Soleil Aviateur au par Mayor
+              Lunettes de Soleil Aviateur en Gros
             </h1>
           </div>
 
-          {/* Hero Image */}
+          {/* Image Hero */}
           <div className="mb-12">
             <img
               src="https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=1200&h=500&fit=crop"
-              alt="Lunettes de Soleil Aviateur au par Mayor - Fabricant OEM de Montures Metálicas"
+              alt="Lunettes de Soleil Aviateur en Gros - Fabricant OEM de Montures Métalliques Personnalisées"
               loading="lazy"
-              className="w-full h-64 md:h-80 object-covoir rounded-xl shadow-lg"
+              className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
             />
           </div>
 
-          {/* Product Story / Ovoirview */}
+          {/* Présentation / Vue d&apos;ensemble */}
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
               <p className="text-xl leading-relaxed mb-4">
-                Ici va un dato curioso: la aviador jamais fue pensada comme artículo de moda. En 1936, <a href="https://www.bausch.com/our-company/history/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hovoir:underline">Bausch &amp; Lomb</a> consiguió un contrato du Cuerpo Aéreo du Ejército de EE.UU. para diseñar lunettes de soleil para pilotos militares. El problema era específico: los pilotos volaban plus alto et plus rápido qui jamais, et el sol les destrozaba la visión. La solution? Una lente grande en forma de lágrima qui cubría toda la cuenca du ojo, une monture metálica delgada qui pesaba casi nada bajo un casco de vuelo, et un doble pont sur la nariz para repartir la presión. Las llamaron &ldquo;aviador&rdquo; parce que, bueno, eso est le qui llevaban los qui las usaban.
+                Voici un fait historique amusant : l&apos;aviateur n&apos;était jamais censé être un accessoire de mode. En 1936, <a href="https://www.bausch.com/our-company/history/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Bausch &amp; Lomb</a> a obtenu un contrat de l&apos;Army Air Corps américain pour concevoir des lunettes de soleil pour les pilotes militaires. Le problème était spécifique — les pilotes volaient plus haut et plus vite que jamais, et le soleil détruisait leur vision. La solution ? Un grand verre en forme de goutte d&apos;eau couvrant toute l&apos;orbite, une fine monture métallique qui ne pesait presque rien sous un casque de vol, et un double pont nasal pour répartir la pression. Ils les ont appelées &ldquo;aviateurs&rdquo; parce que, eh bien, c&apos;est qui les portait.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Luego llegó la Segunda Guerra Mundial, et de repente millones de soldados las llevaban puestas. Quand volvieron a casa, siguieron usándolas. Para los ans 60 et 70, las aviador habían saltado de la cabina a Hollywood — las llevaba todo el mundo, depuis Paul Newman jusqu'à el repaireto de Top Gun. El style simplemente se quedó. Casi 90 ans después, el design básico apenas ha cambiado, et las aviador siguen siendo uno des tres modelos de lunettes de soleil plus vendidos en todo el mundo. Eso no est une tendencia — est un clásico.
+                Puis la Seconde Guerre mondiale est arrivée, et soudain des millions de soldats les portaient. Quand ils sont rentrés chez eux, ils ont continué à les porter. Dans les années 60 et 70, les aviateurs sont passés du cockpit à Hollywood — portés par tout le monde, de Paul Newman au casting de Top Gun. Le style s&apos;est tout simplement imposé. Près de 90 ans plus tard, le design de base n&apos;a pratiquement pas changé, et les aviateurs restent l&apos;une des trois formes de lunettes de soleil les plus vendues au monde. Ce n&apos;est pas une tendance — c&apos;est un classique.
               </p>
               <p className="text-lg leading-relaxed">
-                Producimos plus de 200.000 paires de <strong>lunettes aviador personnalisées</strong> au an para marques en plus de 50 pays. Nuestra usine cuenta avec gammes de production dedichaques a montures metálicas avec mecanizado CNC, electrochapado PVD et montaje de precisión de verres. Ya necesites 100 paires para probar un nouveau marché ou 50.000 paires para un lanzamiento retail nacional, nous avons la capacidad et la expérience. Y comme las aviador sont notre pan de chaque día, nous avons el proceso perfeccionado — le qui significa production plus rápida, menos defectos et meilleures prixs.
+                Nous produisons plus de 200 000 paires de <strong>lunettes aviateur personnalisées</strong> par an pour des marques dans plus de 50 pays. Notre usine exploite des lignes de production dédiées aux montures métalliques avec usinage CNC, électrodéposition PVD et montage de verres de précision. Que vous ayez besoin de 100 paires pour tester un nouveau marché ou de 50 000 paires pour un déploiement national en magasin, nous avons la capacité et l&apos;expérience. Et comme les aviateurs sont notre spécialité, nous maîtrisons le processus — ce qui signifie une production plus rapide, moins de défauts et de meilleurs prix.
               </p>
             </div>
           </div>
 
-          {/* Products Grid */}
+          {/* Grille Produits */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Nuestra Collection Aviador</h2>
+            <h2 className="text-3xl font-bold text-center mb-10">Notre Collection Aviateur</h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               {products.map((product, index) => (
-                <div key={index} className="bg-white rounded-xl border border-gray-100 ovoirflow-hidden hovoir:shadow-xl transition-all duration-300 group">
+                <div key={index} className="bg-white rounded-xl border border-gray-100 overflow-hidden hover:shadow-xl transition-all duration-300 group">
                   <div className="aspect-video bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
-                    <span className="text-7xl group-hovoir:scale-110 transition-transform duration-300">🕶️</span>
+                    <span className="text-7xl group-hover:scale-110 transition-transform duration-300">🕶️</span>
                   </div>
                   <div className="p-6">
                     <h3 className="text-xl font-bold mb-2">{product.name}</h3>
@@ -174,7 +175,7 @@ export default function AviadorPage() {
                         <div className="text-primary-600 font-bold">{product.price}</div>
                         <div className="text-xs text-gray-400">MOQ: {product.moq}</div>
                       </div>
-                      <Link href="/fr/contact" className="btn-primary text-sm">Commander Devis</Link>
+                      <Link href="/fr/contact" className="btn-primary text-sm">Devis</Link>
                     </div>
                   </div>
                 </div>
@@ -182,33 +183,33 @@ export default function AviadorPage() {
             </div>
           </section>
 
-          {/* Specifications Table */}
+          {/* Tableau des Spécifications */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Spécifications Complètes</h2>
+            <h2 className="text-3xl font-bold text-center mb-10">Spécifications complètes</h2>
             <div className="max-w-4xl mx-auto">
-              <div className="bg-white rounded-xl shadow-sm ovoirflow-hidden border border-gray-100">
+              <div className="bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100">
                 <table className="w-full">
                   <tbody className="divide-y divide-gray-100">
                     {[
-                      ['Matériau de Monture', 'Acier Inoxydable / Aleation de Aluminio / Beta Titane'],
-                      ['Poids de Monture', 'Acero: 28-32g | Aluminio: 18-22g | Titane: 15-18g'],
-                      ['Matériau de Lente', 'Polycarbonate / TAC Polarisée / CR-39 Óptica / Vidrio'],
-                      ['Ancho de Lente', '55mm / 58mm / 60mm / 62mm'],
-                      ['Ancho de Pont', '14mm / 15mm / 16mm / 18mm'],
-                      ['Largo de Patilla', '135mm / 140mm / 145mm'],
-                      ['Altura de Lente', '48mm - 52mm (forma de lágrima)'],
-                      ['Protection UV', 'UV400 — bloquea el 100% des rayos UVA (315-380nm) et UVB (280-315nm)'],
-                      ['Polarisation', 'Opcional película TAC de 7 capas — 99% de reducción de éblouissement'],
-                      ['Couleures de Monture', 'Doré, Argenté, Gunmetal, Noir Mate, Oro Rosa ou PVD personnalisé'],
-                      ['Couleures de Lente', 'Gris, Voirde G-15, Marrón, Azul, Rosa, Miroir, Degradado'],
-                      ['Plaquetas Nasales', 'Silicona ajustable avec brazo de titane'],
-                      ['Bisagras', 'Barril norme ou cargadas avec muelle (ajuste flexible)'],
-                      ['Certifications', 'CE (EN ISO 12312-1) · FDA (21 CFR 801.410) · UV400 · ISO 9001 — documentation disponible bajo solicitud'],
-                      ['MOQ', '100 pièces par modelo — se permite mezclar couleures'],
-                      ['Tiempo de Échantillon', '3-5 jours laborables'],
-                      ['Tiempo de Production', '15-20 jours norme / 10-12 jours urgente'],
+                      ['Matériau de la Monture', 'Acier inoxydable / Alliage d\u2019aluminium / Bêta-titane'],
+                      ['Poids de la Monture', 'Acier : 28-32g | Aluminium : 18-22g | Titane : 15-18g'],
+                      ['Matériau des Verres', 'Polycarbonate / TAC Polarisé / CR-39 Optique / Verre minéral'],
+                      ['Largeur de Verre', '55mm / 58mm / 60mm / 62mm'],
+                      ['Largeur du Pont', '14mm / 15mm / 16mm / 18mm'],
+                      ['Longueur des Branches', '135mm / 140mm / 145mm'],
+                      ['Hauteur de Verre', '48mm - 52mm (forme goutte d\u2019eau)'],
+                      ['Protection UV', 'UV400 — bloque 100 % des UVA (315-380nm) et UVB (280-315nm)'],
+                      ['Polarisation', 'Film TAC 7 couches en option — 99 % de réduction de l\u2019éblouissement'],
+                      ['Couleurs de Monture', 'Or, Argent, Gunmetal, Noir mat, Or rose, ou PVD personnalisé'],
+                      ['Couleurs de Verres', 'Gris, Vert G-15, Brun, Bleu, Rose, Miroir, Dégradé'],
+                      ['Plaquettes Nasales', 'Silicone ajustable avec bras en titane'],
+                      ['Charnières', 'Barillets standard ou à ressort (ajustement flexible)'],
+                      ['Certifications', 'CE (EN ISO 12312-1) · FDA (21 CFR 801.410) · UV400 · ISO 9001 — documents disponibles sur demande'],
+                      ['MOQ', '100 pièces par modèle — mélange de couleurs autorisé'],
+                      ['Délai d\u2019Échantillon', '3-5 jours ouvrables'],
+                      ['Délai de Production', '15-20 jours standard / 10-12 jours urgent'],
                     ].map(([label, value], i) => (
-                      <tr key={i} className="hovoir:bg-gray-50">
+                      <tr key={i} className="hover:bg-gray-50">
                         <td className="px-6 py-4 font-semibold text-gray-900 w-1/3">{label}</td>
                         <td className="px-6 py-4 text-gray-600">{value}</td>
                       </tr>
@@ -219,192 +220,192 @@ export default function AviadorPage() {
             </div>
           </section>
 
-          {/* Frame Matériau Compaireison */}
+          {/* Comparaison des Matériaux de Monture */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Eligiendo el Metal Correcto para vos Aviador</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Choisir le bon métal pour vos aviateurs</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              Esta est une des primeras decisiones qui tomarás, et afecta a todo: coste, poids, durabilidad et le premium qui se siente votre produit dans la mano de alguien. Ici va el análisis honesto.
+              C&apos;est l&apos;une des premières décisions que vous prendrez, et elle affecte tout — le coût, le poids, la durabilité et le niveau de premium que votre produit dégage en main. Voici l&apos;analyse honnête.
             </p>
 
             <div className="grid md:grid-cols-3 gap-8">
               <div className="bg-white rounded-xl p-8 border border-gray-100">
                 <div className="text-3xl mb-4">🔩</div>
-                <h3 className="text-xl font-bold mb-3">Acier Inoxydable</h3>
+                <h3 className="text-xl font-bold mb-3">Acier inoxydable</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Nuestra opción plus popular et la qui nous recommandons para la mayoría des marques. Usamos <a href="https://en.wikipedia.org/wiki/SAE_304_stainless_steel" target="_blank" rel="noopener noreferrer" className="text-primary-600 hovoir:underline">acero grado 304 ou 316L</a> — el même matériau des buenos relojes. Es fuerte, no se corroe et acepta el revêtement de maravilla. Doré, argenté, noir, oro rose — tous quedan genial en acero et aguantan avec el tiempo. El poids (28-32g) en realidad juega a votre favor parce qui los clients asocian ese léger poids avec qualité. Ideal para marques avec retail de $20-60.
+                  Notre option la plus populaire et ce que nous recommandons à la plupart des marques. Nous utilisons de l&apos;<a href="https://en.wikipedia.org/wiki/SAE_304_stainless_steel" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acier grade 304 ou 316L</a> — le même que dans les bonnes montres. Il est solide, ne corrode pas et prend magnifiquement le placage. Or, argent, noir, or rose — tout est beau sur l&apos;acier et tient dans le temps. Le poids (28-32g) joue en fait en votre faveur car les clients associent cette légère heftiness à la qualité. Idéal pour les marques vendant entre 20 et 60 $ au détail.
                 </p>
-                <div className="text-primary-600 font-bold">$8 - $12 / paire</div>
+                <div className="text-primary-600 font-bold">8 - 12 $ / paire</div>
               </div>
 
               <div className="bg-white rounded-xl p-8 border border-gray-100">
                 <div className="text-3xl mb-4">🪶</div>
-                <h3 className="text-xl font-bold mb-3">Aleation de Aluminio</h3>
+                <h3 className="text-xl font-bold mb-3">Alliage d&apos;aluminium</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Si vos clients valoran la commedidad — et especialmente si llevan lunettes de soleil todo el día — el aluminio vale la pena. Con 18-22g est notablemente plus léger qui el acero. Usamos <a href="https://en.wikipedia.org/wiki/6061_aluminium_alloy" target="_blank" rel="noopener noreferrer" className="text-primary-600 hovoir:underline">aleation aeronáutica 6061-T6 ou 7075</a> (el même matériau qui usan en fuselajes de aviones, par si quieres un argumento de vente). Las montures se pueden anodizar en prácticamente cualquier couleur et el acabado est très durable. Ideal para marques outdoor, athleisure et el rango retail de $40-80.
+                  Si vos clients se soucient du confort — et surtout s&apos;ils portent des lunettes toute la journée — l&apos;aluminium vaut la mise à niveau. À 18-22g, il est nettement plus léger que l&apos;acier. Nous utilisons de l&apos;<a href="https://en.wikipedia.org/wiki/6061_aluminium_alloy" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">alliage 6061-T6 ou 7075 de qualité aéronautique</a> (le même que dans les fuselages d&apos;avions, si vous cherchez un argument de vente). Les montures peuvent être anodisées dans pratiquement n&apos;importe quelle couleur, et la finition est vraiment durable. Idéal pour les marques outdoor, les gammes athleisure et la fourchette de prix 40-80 $ au détail.
                 </p>
-                <div className="text-primary-600 font-bold">$10 - $14 / paire</div>
+                <div className="text-primary-600 font-bold">10 - 14 $ / paire</div>
               </div>
 
               <div className="bg-white rounded-xl p-8 border border-gray-100">
                 <div className="text-3xl mb-4">💎</div>
                 <h3 className="text-xl font-bold mb-3">Titane</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  La jugada de prestigio. El beta-titane avec 15-18g est casi cómicamente léger — la gente se los pone e inmediatamente dice &ldquo;wow.&rdquo; Es 100% hypoallergénique (nada de níquel), le qui est un voirdadero argumento de vente para pieles sensibles. Y la flexibilidad est increíble — puedes doblar las branches casi jusqu'à dejarlas planas et vuelven a son forma. El inconveniente? Cuesta plus. Mais ici está la cosa: el titane vous permite vender a $80-200+ sin despeinarte. Los marges par paire suelen ser meilleures qui avec montures plus baratas.
+                  Le choix prestige. Le bêta-titane à 15-18g est presque comiquement léger — les gens les mettent et disent immédiatement &ldquo;ouah&rdquo;. Il est 100 % hypoallergénique (pas du tout de nickel), ce qui est un vrai argument de vente pour les peaux sensibles. Et la flexibilité est incroyable — on peut plier les branches presque à plat et elles reprennent leur forme. L&apos;inconvénient ? Ça coûte plus cher. Mais voici le truc : le titane vous permet de vendre au détail à 80-200 $+ sans sourciller. Les marges par paire sont souvent meilleures qu&apos;avec des montures moins chères.
                 </p>
-                <div className="text-primary-600 font-bold">$14 - $22 / paire</div>
+                <div className="text-primary-600 font-bold">14 - 22 $ / paire</div>
               </div>
             </div>
           </section>
 
-          {/* Lens Options */}
+          {/* Options de Verres */}
           <section className="mb-20 bg-gray-50 rounded-2xl p-8 md:p-12">
-            <h2 className="text-3xl font-bold text-center mb-4">Options de Voirres</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Options de verres</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              La monture llama la atención, mais la lente est le qui votre client mira a través chaque día. Esto est le qui nous proposons.
+              La monture attire l&apos;attention, mais le verre est ce à travers quoi votre client regarde chaque jour. Voici ce que nous proposons.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">Polycarbonate (PC)</h3>
-                <p className="text-sm text-gray-600">El norme. Resistente a impacts, léger, incassable — 10 veces plus fuerte qui el vidrio. Sirve para todo, depuis uso casual jusqu'à deportes. Tous notres couleures et revêtements miroir están disponibles en PC. Esto est le qui usa el 70% de notres clients.</p>
+                <p className="text-sm text-gray-600">Le standard. Résistant aux chocs, léger, incassable — 10 fois plus solide que le verre. Convient à tout, du port décontracté au sport. Toutes nos couleurs et revêtements miroir sont disponibles en PC. C&apos;est ce que 70 % de nos clients utilisent.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">TAC Polarisée</h3>
-                <p className="text-sm text-gray-600">Siete capas de película polarisée entre láminas de PC. Elimina el 99% du éblouissement reflejado. El upgrade qui justifica cobrar plus. Añade unos $2-3 a votre coste par paire mais vous permite cobrar $15-20 plus en retail. Merece la pena.</p>
+                <h3 className="font-bold mb-2">TAC Polarisé</h3>
+                <p className="text-sm text-gray-600">Sept couches de film polarisé prises en sandwich entre du PC. Élimine 99 % de l&apos;éblouissement réfléchi. L&apos;amélioration qui justifie de facturer plus. Ajoute environ 2-3 $ au coût par paire mais permet de facturer 15-20 $ de plus au détail. Ça vaut le coup.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">CR-39 Óptica</h3>
-                <p className="text-sm text-gray-600">Si quieres competir avec las grandes marques en qualité de lente, esta es. Un número de Abbe de 58 significa óptica perfecta sin distorsión. Resistente a rayones. Más légère qui el vidrio. La elección para posicionamiento premium.</p>
+                <h3 className="font-bold mb-2">CR-39 Optique</h3>
+                <p className="text-sm text-gray-600">Si vous voulez rivaliser avec les grandes marques sur la qualité de verre, c&apos;est le choix. Un nombre d&apos;Abbe de 58 signifie une optique d&apos;une netteté absolue sans distorsion. Résistant aux rayures. Plus léger que le verre minéral. Le choix pour le positionnement premium.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">Fotocromática</h3>
-                <p className="text-sm text-gray-600">Se oscurece avec la luz solar, se aclara en interiores. Pasa de Catégorie 1 a Catégorie 3 en unos 30 segundos. Un buen truco et un argumento de vente para clients quieren unas lunettes para todo. Añade unos $3-4 par paire.</p>
+                <h3 className="font-bold mb-2">Photochromique</h3>
+                <p className="text-sm text-gray-600">S&apos;assombrit au soleil, s&apos;éclaircit en intérieur. Passe de la Catégorie 1 à la Catégorie 3 en environ 30 secondes. Un bon tour et un bon argument de vente pour les clients qui veulent une paire pour tout. Ajoute environ 3-4 $ par paire.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">Vidrio</h3>
-                <p className="text-sm text-gray-600">De la vieja escuela, mais algunos marchés le adoran. La meilleur claridad óptica, la plus résistant a rayones, la plus pesada. Popular en Europa et Japón où las verres de vidrio tienen une percepción premium. Podemos hacer vidrio mineral en tous los tintes norme.</p>
+                <h3 className="font-bold mb-2">Verre minéral</h3>
+                <p className="text-sm text-gray-600">Classique, mais certains marchés l&apos;adorent. Meilleure clarté optique, plus résistant aux rayures, le plus lourd. Populaire en Europe et au Japon où les verres minéraux véhiculent une perception premium. Nous pouvons faire du verre minéral dans toutes les teintes standard.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">Recubrimientos Disponibles</h3>
-                <p className="text-sm text-gray-600">Miroir (argenté, bleu, doré, rouge, voirde, púrpura), antireflet, hidrofóbico (repele agua), oleofóbico (resiste huellas dactilares) et antibuée. Combínalos comme quieras.</p>
+                <h3 className="font-bold mb-2">Revêtements disponibles</h3>
+                <p className="text-sm text-gray-600">Miroir (argent, bleu, or, rouge, vert, violet), antireflet, hydrophobe (repousse l&apos;eau), oléophobe (résiste aux traces de doigts), et antibuée. Combinez-les comme vous voulez.</p>
               </div>
             </div>
           </section>
 
-          {/* Customization */}
+          {/* Personnalisation */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Hazlas Tuyas</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Faites-en les vôtres</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              Ici est où conviertes unas lunettes de soleil geniales en TU produit. Todo le qui nous pouvons personalizar.
+              C&apos;est ici que vous transformez une belle paire de lunettes en VOTRE produit. Voici tout ce que nous pouvons personnaliser.
             </p>
 
             <div className="grid md:grid-cols-3 gap-8">
               <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">🎨 Trabajo de Logo</h3>
+                <h3 className="text-xl font-bold mb-4">🎨 Travail de Logo</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Grabado láser</strong> — el plus popular. Limpio, permanente, queda genial en metal. Interior ou exterior de la branche.</span>
+                    <span><strong>Gravure laser</strong> — notre option la plus populaire. Nette, permanente, magnifique sur le métal. Intérieur ou extérieur de la branche.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Insignia metálica</strong> — une petite insignia 3D de aleation de zinc ou acero soldada à la branche. Se siente cara.</span>
+                    <span><strong>Badge métallique</strong> — un petit badge 3D en alliage de zinc ou acier soudé sur la branche. Fait cher.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Impresión en lente</strong> — petit logo serigrafiado dans la esquina de la lente. Sutil mais visible.</span>
+                    <span><strong>Impression sur verre</strong> — petit logo sérigraphié dans le coin du verre. Subtil mais visible.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Plaquetas personnalisées</strong> — votre logo grabado ou impreso dans les plaquetas de silicona. Un bonito detalle.</span>
+                    <span><strong>Plaquettes nasales personnalisées</strong> — votre logo gravé ou imprimé sur les plaquettes en silicone. Un beau détail.</span>
                   </li>
                 </ul>
               </div>
 
               <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">🌈 Couleures</h3>
+                <h3 className="text-xl font-bold mb-4">🌈 Couleurs</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Monture:</strong> Doré, Argenté, Noir, Gunmetal, Oro Rosa — ou danos un código Pantone et le igualamos</span>
+                    <span><strong>Monture :</strong> Or, Argent, Noir, Gunmetal, Or rose — ou donnez-nous un code Pantone et nous le reproduisons</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Tintes de lente:</strong> Gris, Voirde, Marrón, Azul, Rosa, Amarillo, Rojo — ou couleur personnalisé</span>
+                    <span><strong>Teintes de verres :</strong> Gris, Vert, Brun, Bleu, Rose, Jaune, Rouge — ou correspondance personnalisée</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Miroir:</strong> Argenté, Azul, Doré, Rojo, Voirde, Púrpura, Rosa</span>
+                    <span><strong>Miroir :</strong> Argent, Bleu, Or, Rouge, Vert, Violet, Rose</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Degradado:</strong> Degradado de arriba a abajo en cualquier couleur de lente</span>
+                    <span><strong>Dégradé :</strong> Fondu du haut vers le bas dans n&apos;importe quelle couleur de verre</span>
                   </li>
                 </ul>
               </div>
 
               <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">📦 Packaging</h3>
+                <h3 className="text-xl font-bold mb-4">📦 Emballage</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estuches rígidos:</strong> EVA avec cremallera, piel avec cierre magnético ou lata metálica — tous avec votre logo impreso</span>
+                    <span><strong>Étuis rigides :</strong> EVA à fermeture éclair, cuir magnétique, ou boîte métallique — tous avec votre logo imprimé</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Fundas suaves:</strong> Microfibra avec cordón et logo — sirve également comme pan de limpieza</span>
+                    <span><strong>Pochettes souples :</strong> Microfibre à cordon avec logo — sert aussi de chiffon de nettoyage</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Cajas retail:</strong> Cartón impreso a todo couleur, insertos personnalisés, lengüetas para colgar</span>
+                    <span><strong>Boîtes retail :</strong> Carton imprimé en couleurs, inserts personnalisés, languettes de suspension</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Extras:</strong> Pans de limpieza, tarjetas de garantie, etiquetas colgantes, pegatinas — todo avec votre marque</span>
+                    <span><strong>Extras :</strong> Chiffons de nettoyage, cartes de garantie, étiquettes, autocollants — tout marqué à votre marque</span>
                   </li>
                 </ul>
               </div>
             </div>
           </section>
 
-          {/* Who Buys Section */}
+          {/* Qui achète */}
           <section className="mb-20 bg-gray-900 rounded-2xl p-8 md:p-12 text-white">
-            <h2 className="text-3xl font-bold text-center mb-4">Quién Compra Aviador au par Mayor?</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Qui achète des aviateurs en gros ?</h2>
             <p className="text-gray-300 text-center max-w-3xl mx-auto mb-10">
-              Enviamos aviador a une gama bastante amplia de affairess. Estos sont los plus comunes.
+              Nous expédions des aviateurs à un éventail assez large d&apos;entreprises. Voici les plus courantes.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-primary-400">🏪 Propietarios de Marques de Lunettes</h3>
-                <p className="text-gray-300 text-sm">Marques nouvelles et establecidas construyendo son gamme de produits. Las aviador suelen ser el primer style qui lanzan — sont sûres, se venden et quedan bien dans les fotos de marketing.</p>
+                <h3 className="font-bold mb-2 text-primary-400">🏪 Propriétaires de marques de lunettes</h3>
+                <p className="text-gray-300 text-sm">Marques débutantes et établies qui construisent leur gamme de produits. Les aviateurs sont généralement le premier style qu&apos;ils lancent — ils sont sûrs, ils se vendent et ils rendent bien en photos marketing.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-primary-400">🛍️ Boutiques Retail</h3>
-                <p className="text-gray-300 text-sm">Boutiques, boutiques de surf, ópticas et achatdores de grandes almacenes buscando son propia marque. Nuestro minimum de 100 pièces permite a boutiques petites entrar sin un gran riesgo.</p>
+                <h3 className="font-bold mb-2 text-primary-400">🛍️ Boutiques</h3>
+                <p className="text-gray-300 text-sm">Boutiques, magasins de surf, opticiens et acheteurs de grands magasins cherchant leur propre marque maison. Notre minimum de 100 pièces permet aux petites boutiques de se lancer sans gros risque.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-primary-400">🌐 Vendedores Online</h3>
-                <p className="text-gray-300 text-sm">Vendedores de Amazon, Shopify, Etsy qui necesitan produit de qualité avec marges qui funcionen para e-commerce. Podemos proporcionar fotos de produit et descripciones para acelerar vos listings.</p>
+                <h3 className="font-bold mb-2 text-primary-400">🌐 Vendeurs en ligne</h3>
+                <p className="text-gray-300 text-sm">Vendeurs Amazon, Shopify, Etsy qui ont besoin de produits de qualité avec des marges qui fonctionnent pour le e-commerce. Nous pouvons fournir des photos produits et des descriptions pour accélérer la mise en ligne.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-primary-400">🎁 Corporativo et Promocional</h3>
-                <p className="text-gray-300 text-sm">Entreprises qui piden aviador avec marque para ferias, torneos de golf, regalos de equipo et eventos. Alto valor percibido a un prix qui funciona para deviss promocionales.</p>
+                <h3 className="font-bold mb-2 text-primary-400">🎁 Corporate et Promotionnel</h3>
+                <p className="text-gray-300 text-sm">Entreprises commandant des aviateurs personnalisés pour des salons professionnels, des tournois de golf, des cadeaux d&apos;équipe et des événements. Valeur perçue élevée à un prix qui fonctionne pour les budgets promotionnels.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-primary-400">🏨 Hoteles et Resorts</h3>
-                <p className="text-gray-300 text-sm">Marques de hostelería qui proposez-vous aviador personnalisées comme amenities ou artículos de boutique de regalo. El emballage personnalisé avec el nombre du resort crea un bonito souvenir qui los huéspedes realmente conservan.</p>
+                <h3 className="font-bold mb-2 text-primary-400">🏨 Hôtels et Resorts</h3>
+                <p className="text-gray-300 text-sm">Marques hôtelières proposant des aviateurs personnalisés comme amenités ou articles de boutique. L&apos;emballage personnalisé avec le nom du resort crée un beau souvenir que les clients gardent vraiment.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-primary-400">📦 Distribuidores</h3>
-                <p className="text-gray-300 text-sm">Mayoristas regionales qui abastecen a múltiples boutiques. Nuestros prixs par volume en commandes de 1.000+ et 5.000+ dan aux distributeures los marges qui necesitan para atender a sus cuentas.</p>
+                <h3 className="font-bold mb-2 text-primary-400">📦 Distributeurs</h3>
+                <p className="text-gray-300 text-sm">Grossistes régionaux approvisionnant plusieurs détaillants. Nos prix volume à partir de 1 000 et 5 000 pièces donnent aux distributeurs les marges nécessaires pour servir leurs comptes.</p>
               </div>
             </div>
           </section>
 
-          {/* FAQ Section */}
+          {/* Section FAQ */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Questions Fréquentes sur Lunettes Aviador</h2>
+            <h2 className="text-3xl font-bold text-center mb-10">FAQ Lunettes Aviateur</h2>
             <div className="max-w-4xl mx-auto space-y-6">
               {aviatorFaqs.map((faq, index) => (
                 <div key={index} className="bg-gray-50 rounded-xl p-6">
@@ -415,40 +416,40 @@ export default function AviadorPage() {
             </div>
           </section>
 
-          {/* Related Products */}
+          {/* Produits Associés */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Également Te Puede Interesar</h2>
+            <h2 className="text-3xl font-bold text-center mb-10">Vous pourriez aussi aimer</h2>
             <div className="grid md:grid-cols-3 gap-6">
-              <Link href="/fr/produits/wayfarer" className="bg-white rounded-xl p-6 border border-gray-100 hovoir:shadow-lg transition-all group">
+              <Link href="/fr/produits/wayfarer" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">🔲</div>
-                <h3 className="text-xl font-bold group-hovoir:text-primary-600 transition-couleurs mb-2">Lunettes Wayfarer</h3>
-                <p className="text-gray-600 text-sm">El autre style &ldquo;imprescindible&rdquo;. Montures de acétate, toneladas de couleures et la forma plus vendida du mundo. La mayoría des marques llevan tanto aviador comme wayfarer.</p>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Lunettes Wayfarer</h3>
+                <p className="text-gray-600 text-sm">L&apos;autre style &ldquo;incontournable&rdquo;. Montures en acétate, des tonnes de couleurs, et la forme la plus vendue au monde. La plupart des marques proposent à la fois des aviateurs et des wayfarers.</p>
               </Link>
-              <Link href="/fr/produits/polarise" className="bg-white rounded-xl p-6 border border-gray-100 hovoir:shadow-lg transition-all group">
+              <Link href="/fr/produits/polarise" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">🔆</div>
-                <h3 className="text-xl font-bold group-hovoir:text-primary-600 transition-couleurs mb-2">Lunettes Polarisées</h3>
-                <p className="text-gray-600 text-sm">Añade verres polarisées a cualquier aviador para un upgrade premium. 99% de reducción de éblouissement, 25-40% plus de prix retail. La forma plus fácil de meilleurar vos marges.</p>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Lunettes Polarisées</h3>
+                <p className="text-gray-600 text-sm">Ajoutez des verres polarisés à n&apos;importe quel aviateur pour une amélioration premium. 99 % de réduction de l&apos;éblouissement, 25-40 % de prix retail en plus. Le moyen le plus simple de booster vos marges.</p>
               </Link>
-              <Link href="/fr/produits/tr90" className="bg-white rounded-xl p-6 border border-gray-100 hovoir:shadow-lg transition-all group">
+              <Link href="/fr/produits/sport" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">🏃</div>
-                <h3 className="text-xl font-bold group-hovoir:text-primary-600 transition-couleurs mb-2">Lunettes Deportivas</h3>
-                <p className="text-gray-600 text-sm">Si vos clients necesitan algo plus résistant qui las aviador — montures envolventes TR90 avec agarres antideslizantes para running, ciclismo et deportes au aire libre.</p>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Lunettes Sport</h3>
+                <p className="text-gray-600 text-sm">Si vos clients ont besoin de quelque chose de plus résistant que les aviateurs — montures enveloppantes TR90 avec grip antidérapant pour la course, le cyclisme et les sports en plein air.</p>
               </Link>
             </div>
           </section>
 
           {/* CTA */}
           <section className="bg-primary-600 rounded-2xl p-8 md:p-12 text-center text-white">
-            <h2 className="text-3xl font-bold mb-4">Listo para Commander Aviador?</h2>
+            <h2 className="text-3xl font-bold mb-4">Prêt à commander des aviateurs ?</h2>
             <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
-              Cuéntanos le qui necesitas — style, quantité, cualquier personnalisation — et vous responderemos en 24 heures avec prixs.
-              Las échantillons se envían en 3-5 jours. Sin compromiso jusqu'à qui estés listo.
+              Dites-nous ce dont vous avez besoin — style, quantité, personnalisations — et nous vous répondrons sous 24 heures avec les prix.
+              Les échantillons sont expédiés en 3-5 jours. Aucun engagement tant que vous n&apos;êtes pas prêt.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/fr/contact" className="bg-white text-primary-600 hovoir:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-couleurs">
-                Commander Devis
+              <Link href="/fr/contact" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
+                Demander un Devis
               </Link>
-              <Link href="/fr/produits" className="border-2 border-white text-white hovoir:bg-white hovoir:text-primary-600 font-bold py-3 px-8 rounded-lg transition-couleurs">
+              <Link href="/fr/produits" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
                 Voir Tous les Produits
               </Link>
             </div>

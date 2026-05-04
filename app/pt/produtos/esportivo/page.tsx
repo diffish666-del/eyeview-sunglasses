@@ -2,9 +2,9 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Óculos de Sol Esportivos al por Mayor | Fabricante de Óculos Polarizados - EyeView',
-  description: 'Fabricante de óculos de sol esportivos no atacado. Lentes polarizados TAC, armações TR90, design envolvente para ciclismo, running, pesca, golf, esquí y béisbol. MOQ 100 pçs. OEM/ODM disponível.',
-  keywords: 'óculos de sol esportivos no atacado, óculos esportivos polarizados, fabricante óculos esportivos, óculos ciclismo no atacado, óculos running, óculos pesca mayorista, armações esportivos TR90, óculos envolventes OEM',
+  title: 'Óculos de Sol Esportivos no Atacado | Fabricante de Óculos Polarizados para Atletas - EyeView',
+  description: 'Fabricante de óculos de sol esportivos no atacado. Lentes polarizadas TAC, armações TR90, design envolvente para ciclismo, corrida, pesca, golfe, esqui e beisebol. MOQ 100 pçs. OEM/ODM disponível.',
+  keywords: 'óculos de sol esportivos no atacado, óculos esportivos polarizados, fabricante óculos esportivos, óculos ciclismo no atacado, óculos corrida, óculos pesca atacado, armações esportivas TR90, óculos envolventes OEM',
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/pt/produtos/esportivo',
     languages: {
@@ -20,48 +20,48 @@ const sportCategories = [
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$10.00 - $15.00',
     moq: '100 pçs',
-    description: 'Vas a 40 km/h en un descenso. Un insecto te golpea el ojo. Se acabó. Por eso todo ciclista serio necesita óculos adecuadas — no unas óculos de moda de una gasolinera. Nossas óculos de ciclismo envuelven la cara para bloquear viento, polvo e insectos a partir de todos los ángulos. El sistema de lentes intercambiables permite cambiar entre lentes transparentes para salidas al amanecer, amarillas para dias nublados y tintes oscuros para el mediodía. ¿Y las almofadas de goma antideslizante? Realmente se agarran más fuerte cuando sudas. Se acabó empujar las óculos hacia arriba en plena subida.',
-    features: ['Design aerodinámico envolvente', 'Sistema de 3 lentes intercambiables', 'Almofadas de goma activadas por sudor', 'Armação ventilada antivaho'],
+    description: 'Você está a 40 km/h em uma descida. Um inseto atinge seu olho. Acabou. É por isso que todo ciclista sério precisa de óculos adequados — não óculos fashion de posto de gasolina. Nossos óculos de ciclismo envolvem o rosto para bloquear vento, poeira e insetos de todos os ângulos. O sistema de lentes intercambiáveis permite trocar entre lentes transparentes para pedaladas ao amanhecer, amarelas para dias nublados e tons escuros para o sol do meio-dia. E as almofadas de borracha antideslizante? Elas realmente agarram mais firme quando você sua. Acabou a história de empurrar os óculos de volta no nariz no meio da subida.',
+    features: ['Design aerodinâmico envolvente', 'Sistema de 3 lentes intercambiáveis', 'Almofadas de borracha ativadas pelo suor', 'Armação ventilada antiembaçante'],
   },
   {
-    name: 'Óculos de Running',
+    name: 'Óculos de Corrida',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$9.50 - $14.00',
     moq: '100 pçs',
-    description: 'Aquí va lo importante sobre las óculos de running — si las sientes en la cara, son las equivocadas. Nossas armações para correr pesan menos de 25 gramos. Eso es más ligero que una pila AA. Los maratonistas las llevan durante mais de 4 horas sin siquiera notarlas. La armação flexible TR90 absorbe el rebote constante al correr, y las lentes anchas te dan visión periférica completa para detectar ese bache o ese perro suelto antes de que sea demasiado tarde. Hemos tenido dueños de clubes de running que han pedido mais de 500 pares de una vez para equipos completos.',
-    features: ['Menos de 25g — más ligeras que una pila', 'Almofadas hidrofílicas antideslizantes', 'Visión periférica completa', 'Armação flexible que absorbe impactos'],
+    description: 'O negócio com óculos de corrida é o seguinte — se você sente eles no rosto, estão errados. Nossas armações para corrida pesam menos de 25 gramas. Isso é mais leve que uma pilha AA. Maratonistas usam por mais de 4 horas sem sequer notar. A armação flexível TR90 absorve o salto constante da corrida, e as lentes largas dão visão periférica completa para detectar aquele buraco ou aquele cachorro solto antes que seja tarde demais. Já tivemos donos de clubes de corrida que pediram mais de 500 pares de uma vez para equipes completas.',
+    features: ['Menos de 25g — mais leves que uma pilha', 'Almofadas hidrofílicas antideslizantes', 'Visão periférica completa', 'Armação flexível que absorve impactos'],
   },
   {
     name: 'Óculos de Pesca',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$11.00 - $16.00',
     moq: '100 pçs',
-    description: 'Imagina esto — estás en el lago a las 6 de la mañana, el sol rebota en el agua y no puedes ver tu línea. Todo pescador conoce ese brillo cegador. Nossas óculos de pesca lo eliminan por completo. Las lentes polarizados eliminan el reflejo de la superficie para que puedas ver dentro del agua — localizar los peces, leer la estructura, observar tu señuelo. Los tintes ámbar y cobre mejoran el contraste tanto en agua dulce como salada. Un guía de pesca en Florida nos dijo que estas óculos "se pagaron solas en la primera salida." Também ofrecemos opciones de armação flotante porque, seamos honestos, las óculos de sol y los barcos no siempre se llevan bien.',
-    features: ['Lentes polarizados anti-reflejo', 'Tintes ámbar/cobre de alto contraste', 'Opción de armação flotante disponível', 'Dobradiças resistentes al agua salada'],
+    description: 'Imagine só — você está no lago às 6 da manhã, o sol rebatendo na água e você não consegue ver sua linha. Todo pescador conhece esse brilho cegante. Nossos óculos de pesca eliminam isso completamente. As lentes polarizadas removem o reflexo da superfície para que você possa ver dentro da água — localizar os peixes, ler a estrutura, observar sua isca. Os tons âmbar e cobre melhoram o contraste tanto em água doce quanto salgada. Um guia de pesca na Flórida nos disse que esses óculos "se pagaram na primeira saída." Também oferecemos opções de armação flutuante porque, sejamos honestos, óculos de sol e barcos nem sempre combinam bem.',
+    features: ['Lentes polarizadas anti-reflexo', 'Tons âmbar/cobre de alto contraste', 'Opção de armação flutuante disponível', 'Dobradiças resistentes à água salgada'],
   },
   {
-    name: 'Óculos de Golf',
+    name: 'Óculos de Golfe',
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$10.50 - $15.50',
     moq: '100 pçs',
-    description: 'El golf es un juego de centímetros, y no puedes jugar centímetros si no ves la bola. Nossas óculos de golf usan tintes de lente rosa y ámbar que hacen que una bola blanca destaque contra un fairway verde. ¿Seguir el vuelo de la bola contra un cielo brillante? Fácil. ¿Leer la caída en un green soleado? Mucho más claro. La armação es tan ligera que te olvidarás de que las llevas puestas en pleno swing — que es exactamente el objetivo. Suministramos a varias tiendas pro de resorts de golf en todo el sudeste asiático, y los comentarios son siempre los mismos: "Los jugadores realmente quieren comprarlas después de probárselas."',
-    features: ['Lentes rosa/ámbar para seguir la bola', 'Ajuste ultraligero para el swing', 'Proteção lateral de sol en las hastes', 'Probadas y aprobadas en tiendas pro'],
+    description: 'Golfe é um jogo de centímetros, e você não consegue jogar centímetros se não enxerga a bola. Nossos óculos de golfe usam tons de lente rosa e âmbar que fazem uma bola branca se destacar contra um fairway verde. Acompanhar o voo da bola contra um céu brilhante? Fácil. Ler a inclinação em um green ensolarado? Muito mais claro. A armação é tão leve que você esquece que está usando no meio do swing — que é exatamente o objetivo. Fornecemos para várias pro shops de resorts de golfe em todo o Sudeste Asiático, e o feedback é sempre o mesmo: "Os jogadores realmente querem comprá-los depois de experimentar."',
+    features: ['Lentes rosa/âmbar para rastrear a bola', 'Ajuste ultraleve para o swing', 'Proteção solar lateral nas hastes', 'Testados e aprovados em pro shops'],
   },
   {
-    name: 'Óculos de Esquí y Snowboard',
+    name: 'Óculos de Esqui e Snowboard',
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$12.00 - $17.00',
     moq: '100 pçs',
-    description: '¿Sabías que los niveles de UV aumentan un 10% por cada 1.000 metros de altitud? En la cima de una pista de esquí, tus ojos están recibiendo una paliza. La ceguera de nieve es real — y dolorosa. Nossas óculos de esquí usan lentes oscuras de Categoría 3-4 que bloquean el 92-97% de la luz visible. El design envolvente y ajustado mantiene el viento y la nieve fuera de tus ojos, mientras que los canales de ventilación antivaho evitan ese molesto empañamiento cuando respiras fuerte en un descenso de baches. Las puntas de las hastes compatibles con casco significan cero puntos de presión bajo el casco. Una tienda de alquiler de esquí en Hokkaido nos pide 2.000 pares cada temporada.',
-    features: ['Proteção Cat 3-4 contra ceguera de nieve', 'Canales de ventilación antivaho', 'Ajuste cerrado contra el viento', 'Design compatible con casco'],
+    description: 'Você sabia que os níveis de UV aumentam 10% a cada 1.000 metros de altitude? No topo de uma pista de esqui, seus olhos estão levando uma surra. A cegueira da neve é real — e dolorosa. Nossos óculos de esqui usam lentes escuras de Categoria 3-4 que bloqueiam 92-97% da luz visível. O design envolvente e ajustado mantém o vento e a neve fora dos seus olhos, enquanto os canais de ventilação antiembaçante evitam aquele embaçamento irritante quando você respira forte em uma descida de moguls. As pontas das hastes compatíveis com capacete significam zero pontos de pressão sob o capacete. Uma loja de aluguel de esqui em Hokkaido nos pede 2.000 pares a cada temporada.',
+    features: ['Proteção Cat 3-4 contra cegueira da neve', 'Canais de ventilação antiembaçante', 'Ajuste fechado contra o vento', 'Design compatível com capacete'],
   },
   {
-    name: 'Óculos de Béisbol',
+    name: 'Óculos de Beisebol',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$10.00 - $15.00',
     moq: '100 pçs',
-    description: 'Un jardinero mirando al sol en un fly ball — ese instante de ceguera puede costar el partido. Nossas óculos de béisbol están hechas exactamente para ese momento. Las lentes polarizados ámbar destacan una bola blanca contra el cielo azul como nada más. Y estas no son armações frágiles — cumplen los estándares de impacto ASTM F803, lo que significa que pueden aguantar un línea directa a la cara. El design envolvente seguro se mantiene fijo durante atrapadas en plancha y deslizamientos de cabeza. Hemos suministrado a equipos de Little League, programas universitarios y ligas recreativas en 12 países.',
-    features: ['Proteção de impacto ASTM F803', 'Polarizado ámbar para seguir la bola', 'Ajuste envolvente antideslizante', 'Lente de policarbonato irrompible'],
+    description: 'Um outfielder olhando para o sol em um fly ball — aquele instante de cegueira pode custar o jogo. Nossos óculos de beisebol são feitos exatamente para esse momento. As lentes polarizadas âmbar destacam uma bola branca contra o céu azul como nada mais. E estas não são armações frágeis — atendem aos padrões de impacto ASTM F803, o que significa que podem aguentar uma linha direta no rosto. O design envolvente seguro se mantém firme durante mergulhos de recepção e deslizamentos de cabeça. Já fornecemos para equipes de Little League, programas universitários e ligas recreativas em 12 países.',
+    features: ['Proteção de impacto ASTM F803', 'Polarizado âmbar para rastrear a bola', 'Ajuste envolvente antideslizante', 'Lente de policarbonato inquebrável'],
   },
 ]
 
@@ -81,13 +81,13 @@ export default function EsportivoPagePt() {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Óculos de Sol Esportivos al por Mayor
+            Óculos de Sol Esportivos no Atacado
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Diseñadas para atletas que realmente necesitan que sus óculos de sol rindan — no solo que se vean bien.
-            Lentes polarizados TAC, armações ultraligeras TR90 y designs envolventes que se mantienen en su sitio
-            cuando estás dando el máximo. A partir de clubes de ciclismo hasta chárteres de pesca, suministramos las
-            óculos que trabajan tan duro como la gente que las lleva.
+            Feitos para atletas que realmente precisam que seus óculos de sol tenham desempenho — não apenas que fiquem bonitos.
+            Lentes polarizadas TAC, armações ultraleves TR90 e designs envolventes que ficam no lugar
+            quando você está dando o máximo. De clubes de ciclismo a barcos de pesca, fornecemos os
+            óculos que trabalham tão duro quanto as pessoas que os usam.
           </p>
         </div>
 
@@ -95,49 +95,49 @@ export default function EsportivoPagePt() {
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
           <img loading="lazy"
             src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop"
-            alt="Coleção de Óculos de Sol Esportivos - Óculos Polarizados para Ciclismo Running Pesca"
+            alt="Coleção de Óculos de Sol Esportivos - Óculos Polarizados para Ciclismo Corrida Pesca"
             className="w-full h-96 object-cover"
           />
         </div>
 
         {/* Why Sport Sunglasses Matter */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-6">Por Qué las Óculos Baratas No Sirven para el Deporte</h2>
+          <h2 className="text-3xl font-bold text-center mb-6">Por Que Óculos Baratos Não Servem para Esportes</h2>
           <div className="max-w-4xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
-              Seamos directos: esas óculos de $3 del mostrador de la caja se caerán de tu cara
-              en cuanto empieces a sudar. Se empañarán cuando respires fuerte. Rebotarán
-              con cada zancada. Y lo peor de todo — algunas ni siquiera bloquean los UV correctamente,
-              lo que significa que son en realidad <em>más peligrosas</em> que no llevar nada. (Las
-              lentes oscuras sin proteção UV dilatan las pupilas, dejando entrar más radiación
-              dañina. Nada bueno.)
+              Vamos ser diretos: aqueles óculos de $3 do caixa da loja vão cair do seu rosto
+              no momento em que você começar a suar. Vão embaçar quando você respirar forte. Vão
+              pular a cada passada. E o pior de tudo — alguns deles nem bloqueiam UV direito,
+              o que significa que são na verdade <em>mais perigosos</em> do que não usar nada. (Lentes
+              escuras sem proteção UV dilatam as pupilas, deixando entrar mais radiação
+              prejudicial. Nada bom.)
             </p>
             <p>
-              Las óculos esportivos de verdad resuelven problemas que los atletas realmente tienen. ¿Deslumbramiento
-              en carreteras mojadas durante una salida matutina? Las lentes polarizados TAC lo eliminan. ¿Armações que
-              se rompen con un impacto? El nylon TR90 se dobla en vez de romperse — literalmente puedes torcerlas
-              90 grados y vuelven a su forma original. ¿Óculos que se deslizan por una nariz sudada? Las almofadas
-              de goma hidrofílica se agarran <em>más fuerte</em> cuando están mojadas. Esto no es marketing. Es la diferencia
-              entre un equipo que te ayuda a rendir y un equipo que se interpone en tu camino. La <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">Organización Mundial de la Salud</a> recomienda
-              óculos con proteção UV para cualquiera que pase tiempo prolongado al aire libre — y los atletas están en lo más alto de esa lista.
+              Óculos esportivos de verdade resolvem problemas que atletas realmente têm. Ofuscamento
+              em estradas molhadas durante uma pedalada matinal? As lentes polarizadas TAC eliminam. Armações que
+              quebram com impacto? O nylon TR90 dobra em vez de quebrar — você pode literalmente torcê-los
+              90 graus e eles voltam à forma original. Óculos que deslizam em nariz suado? As almofadas
+              de borracha hidrofílica agarram <em>mais firme</em> quando molhadas. Isso não é marketing. É a diferença
+              entre um equipamento que te ajuda a render e um equipamento que atrapalha. A <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">Organização Mundial da Saúde</a> recomenda
+              óculos com proteção UV para qualquer pessoa que passe tempo prolongado ao ar livre — e os atletas estão no topo dessa lista.
             </p>
             <p>
-              Llevamos mais de 8 anos fabricando óculos de sol esportivos, enviando a minoristas outdoor,
-              equipos esportivos, cadenas de gimnasios y empresas promocionales en mais de 50 países.
-              Ya sea que necesites 100 pares para un equipo de ciclismo o 10.000 para un lanzamiento retail,
-              te cubrimos — y também les ponemos tu logo.
+              Há mais de 8 anos fabricando óculos de sol esportivos, enviando para varejistas outdoor,
+              equipes esportivas, redes de academias e empresas promocionais em mais de 50 países.
+              Seja que você precise de 100 pares para um time de ciclismo ou 10.000 para um lançamento no varejo,
+              nós cobrimos — e também colocamos seu logo neles.
             </p>
           </div>
         </section>
 
         {/* Hero Image */}
         <div className="mb-12">
-          <img src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop" alt="Óculos de Sol Esportivos al por Mayor" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
+          <img src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop" alt="Óculos de Sol Esportivos no Atacado" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
         </div>
 
         {/* Products with Unique Descriptions */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-10">Óculos Esportivos por Actividad</h2>
+          <h2 className="text-3xl font-bold text-center mb-10">Óculos Esportivos por Atividade</h2>
           <div className="space-y-12">
             {sportCategories.map((product, index) => (
               <div key={index} className={`flex flex-col ${index % 2 === 0 ? 'md:flex-row' : 'md:flex-row-reverse'} gap-8 items-center`}>
@@ -145,7 +145,7 @@ export default function EsportivoPagePt() {
                   <div className="rounded-2xl overflow-hidden shadow-lg">
                     <img loading="lazy"
                       src={product.image}
-                      alt={`${product.name} al por Mayor - EyeView`}
+                      alt={`${product.name} no Atacado - EyeView`}
                       className="w-full h-72 object-cover"
                     />
                   </div>
@@ -176,41 +176,41 @@ export default function EsportivoPagePt() {
 
         {/* Materials & Technology */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">La Tecnología Detrás de la Resistencia</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">A Tecnologia por Trás da Resistência</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div>
-              <h3 className="text-xl font-semibold mb-4">🔬 Armações TR90 — Dóblalas, No Se Rompen</h3>
+              <h3 className="text-xl font-semibold mb-4">🔬 Armações TR90 — Dobre, Elas Não Quebram</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
-                TR90 es un nylon termoplástico desarrollado originalmente en Suiza. Es la misma
-                familia de materiales usados en equipamiento esportivo de alta gama. ¿Qué lo hace especial? Es
-                un 35% más ligero que las armações de plástico normales — la mayoría de nossas armações esportivos pesan
-                entre 22-28 gramos. Puedes doblar una armação TR90 90 grados y vuelve a su forma original. Intenta
-                eso con un par barato del mercado. Também es hipoalergénico, así que nada de marcas rojas con picor
-                después de una salida larga. Funciona perfectamente en condiciones de esquí bajo cero (-40°C) y no se
-                deforma en un coche caliente (hasta 120°C).
+                TR90 é um nylon termoplástico originalmente desenvolvido na Suíça. É a mesma
+                família de materiais usados em equipamentos esportivos de alta performance. O que o torna especial? É
+                35% mais leve que armações de plástico comuns — a maioria das nossas armações esportivas pesa
+                entre 22-28 gramas. Você pode dobrar uma armação TR90 90 graus e ela volta à forma original. Tente
+                fazer isso com um par barato do mercado. Também é hipoalergênico, então nada de marcas vermelhas com coceira
+                após uma pedalada longa. Funciona perfeitamente em condições de esqui abaixo de zero (-40°C) e não
+                deforma em um carro quente (até 120°C).
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>35% más ligero que el plástico estándar</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Soporta doblado de 90° — sin rotura</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>35% mais leve que plástico padrão</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Suporta dobra de 90° — sem quebrar</li>
                 <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Resiste de -40°C a 120°C</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Hipoalergénico y libre de BPA</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Hipoalergênico e livre de BPA</li>
               </ul>
             </div>
             <div>
-              <h3 className="text-xl font-semibold mb-4">🛡️ Lentes Polarizados TAC — 7 Capas de Impresionante</h3>
+              <h3 className="text-xl font-semibold mb-4">🛡️ Lentes Polarizadas TAC — 7 Camadas de Impressionar</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Nossas lentes TAC no son simplemente un trozo de plástico tintado. Son un sándwich de 7 capas:
-                recubrimiento duro en el exterior para resistencia a rayaduras, capas de material TAC para resistencia
-                estructural, una película polarizante en el centro que elimina el 99% del deslumbramiento, y recubrimiento
-                UV debajo que bloquea todo hasta 400nm. ¿El resultado? Te las pones y el mundo simplemente... se aclara.
-                El deslumbramiento de la carretera desaparece. El reflejo del agua se esfuma. Los colores se ven más ricos.
-                Es el tipo de diferencia que hace que la gente diga &quot;ya no puedo volver a las lentes normales.&quot;
+                Nossas lentes TAC não são simplesmente um pedaço de plástico tingido. São um sanduíche de 7 camadas:
+                revestimento duro na parte externa para resistência a arranhões, camadas de material TAC para resistência
+                estrutural, um filme polarizante no centro que elimina 99% do ofuscamento, e revestimento
+                UV por baixo que bloqueia tudo até 400nm. O resultado? Você coloca e o mundo simplesmente... fica nítido.
+                O ofuscamento da estrada desaparece. O reflexo da água some. As cores ficam mais ricas.
+                É o tipo de diferença que faz as pessoas dizerem &quot;não consigo mais voltar para lentes normais.&quot;
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Construcción polarizada de 7 capas</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>99% del deslumbramiento horizontal eliminado</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Construção polarizada de 7 camadas</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>99% do ofuscamento horizontal eliminado</li>
                 <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Proteção UV400 completa</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Opción de policarbonato resistente a impactos</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Opção de policarbonato resistente a impactos</li>
               </ul>
             </div>
           </div>
@@ -218,39 +218,39 @@ export default function EsportivoPagePt() {
 
         {/* Key Features */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Lo Que las Hace Diferentes</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">O Que as Torna Diferentes</h2>
           <div className="grid md:grid-cols-4 gap-6">
-            <FeatureCard icon="🏃" title="Increíblemente Ligeras" description="Menos de 28g. Te olvidarás de que las llevas puestas — hasta que alguien te pregunte dónde las conseguiste." />
-            <FeatureCard icon="🛡️" title="Resistentes al Impacto" description="Lentes de policarbonato que cumplen ANSI Z87.1. Una piedra no arruinará tu salida." />
-            <FeatureCard icon="💧" title="Sin Vaho, Nunca" description="Canales ventilados mantienen el aire en movimiento. Sube una cuesta esprintando — las lentes se mantienen claras." />
-            <FeatureCard icon="☀️" title="UV400 Real" description="Probado en laboratorio, certificado. Bloquea el 100% de UVA/UVB/UVC. No es solo una pegatina." />
+            <FeatureCard icon="🏃" title="Incrivelmente Leves" description="Menos de 28g. Você vai esquecer que está usando — até alguém perguntar onde comprou." />
+            <FeatureCard icon="🛡️" title="Resistentes a Impacto" description="Lentes de policarbonato que atendem ANSI Z87.1. Uma pedra não vai estragar sua pedalada." />
+            <FeatureCard icon="💧" title="Sem Embaçar, Nunca" description="Canais ventilados mantêm o ar circulando. Suba uma ladeira em sprint — as lentes ficam claras." />
+            <FeatureCard icon="☀️" title="UV400 Real" description="Testado em laboratório, certificado. Bloqueia 100% de UVA/UVB/UVC. Não é só um adesivo." />
           </div>
         </section>
 
         {/* Specifications Table */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Especificações de un Vistazo</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Especificações em um Relance</h2>
           <div className="max-w-4xl mx-auto overflow-x-auto">
             <table className="w-full bg-white rounded-xl shadow">
               <thead className="bg-gray-100">
                 <tr>
                   <th className="p-4 text-left font-semibold">Especificação</th>
-                  <th className="p-4 text-left font-semibold">Línea Estándar</th>
-                  <th className="p-4 text-left font-semibold">Línea Premium</th>
+                  <th className="p-4 text-left font-semibold">Linha Padrão</th>
+                  <th className="p-4 text-left font-semibold">Linha Premium</th>
                 </tr>
               </thead>
               <tbody className="divide-y">
-                <tr><td className="p-4 font-medium">Material de Armação</td><td className="p-4 text-gray-600">PC (Policarbonato)</td><td className="p-4 text-gray-600">Nylon TR90</td></tr>
-                <tr><td className="p-4 font-medium">Material de Lente</td><td className="p-4 text-gray-600">AC (Acrílico)</td><td className="p-4 text-gray-600">TAC Polarizado</td></tr>
-                <tr><td className="p-4 font-medium">Ancho de Lente</td><td className="p-4 text-gray-600">65-68mm</td><td className="p-4 text-gray-600">65-72mm</td></tr>
-                <tr><td className="p-4 font-medium">Ancho de Ponte</td><td className="p-4 text-gray-600">14-16mm</td><td className="p-4 text-gray-600">14-18mm</td></tr>
-                <tr><td className="p-4 font-medium">Largo de Haste</td><td className="p-4 text-gray-600">125-135mm</td><td className="p-4 text-gray-600">130-140mm</td></tr>
+                <tr><td className="p-4 font-medium">Material da Armação</td><td className="p-4 text-gray-600">PC (Policarbonato)</td><td className="p-4 text-gray-600">Nylon TR90</td></tr>
+                <tr><td className="p-4 font-medium">Material da Lente</td><td className="p-4 text-gray-600">AC (Acrílico)</td><td className="p-4 text-gray-600">TAC Polarizado</td></tr>
+                <tr><td className="p-4 font-medium">Largura da Lente</td><td className="p-4 text-gray-600">65-68mm</td><td className="p-4 text-gray-600">65-72mm</td></tr>
+                <tr><td className="p-4 font-medium">Largura da Ponte</td><td className="p-4 text-gray-600">14-16mm</td><td className="p-4 text-gray-600">14-18mm</td></tr>
+                <tr><td className="p-4 font-medium">Comprimento da Haste</td><td className="p-4 text-gray-600">125-135mm</td><td className="p-4 text-gray-600">130-140mm</td></tr>
                 <tr><td className="p-4 font-medium">Peso</td><td className="p-4 text-gray-600">28-35g</td><td className="p-4 text-gray-600">22-28g</td></tr>
                 <tr><td className="p-4 font-medium">Proteção UV</td><td className="p-4 text-gray-600">UV400</td><td className="p-4 text-gray-600">UV400</td></tr>
-                <tr><td className="p-4 font-medium">Polarización</td><td className="p-4 text-gray-600">Opcional</td><td className="p-4 text-gray-600">Estándar (TAC 1.1mm)</td></tr>
-                <tr><td className="p-4 font-medium">Colores de Lente</td><td className="p-4 text-gray-600">5 opciones</td><td className="p-4 text-gray-600">12+ opciones</td></tr>
-                <tr><td className="p-4 font-medium">Almofadas Nasales</td><td className="p-4 text-gray-600">Goma fija</td><td className="p-4 text-gray-600">Goma hidrofílica ajustable</td></tr>
-                <tr><td className="p-4 font-medium">Dobradiça</td><td className="p-4 text-gray-600">Barril estándar</td><td className="p-4 text-gray-600">Dobradiça de muelle</td></tr>
+                <tr><td className="p-4 font-medium">Polarização</td><td className="p-4 text-gray-600">Opcional</td><td className="p-4 text-gray-600">Padrão (TAC 1.1mm)</td></tr>
+                <tr><td className="p-4 font-medium">Cores de Lente</td><td className="p-4 text-gray-600">5 opções</td><td className="p-4 text-gray-600">12+ opções</td></tr>
+                <tr><td className="p-4 font-medium">Almofadas Nasais</td><td className="p-4 text-gray-600">Borracha fixa</td><td className="p-4 text-gray-600">Borracha hidrofílica ajustável</td></tr>
+                <tr><td className="p-4 font-medium">Dobradiça</td><td className="p-4 text-gray-600">Barril padrão</td><td className="p-4 text-gray-600">Dobradiça de mola</td></tr>
                 <tr><td className="p-4 font-medium">Certificações</td><td className="p-4 text-gray-600">CE, FDA</td><td className="p-4 text-gray-600">CE, FDA, ANSI Z87.1</td></tr>
               </tbody>
             </table>
@@ -259,68 +259,68 @@ export default function EsportivoPagePt() {
 
         {/* Internal Links */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Também Te Puede Interesar</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Você Também Pode se Interessar</h2>
           <div className="grid md:grid-cols-3 gap-6">
             <Link href="/pt/produtos/polarizado" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🔆</div>
               <h3 className="font-semibold mb-2">Óculos Polarizados</h3>
-              <p className="text-sm text-gray-600">Todos nossos estilos polarizados en un solo lugar</p>
+              <p className="text-sm text-gray-600">Todos os nossos estilos polarizados em um só lugar</p>
             </Link>
             <Link href="/pt/produtos/infantil" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">👶</div>
               <h3 className="font-semibold mb-2">Óculos Esportivos para Crianças</h3>
-              <p className="text-sm text-gray-600">Óculos seguras y resistentes para jóvenes atletas</p>
+              <p className="text-sm text-gray-600">Óculos seguros e resistentes para jovens atletas</p>
             </Link>
             <Link href="/pt/produtos/luz-azul" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">💻</div>
               <h3 className="font-semibold mb-2">Óculos de Luz Azul</h3>
-              <p className="text-sm text-gray-600">Para cuando el entrenamiento se traslada al interior</p>
+              <p className="text-sm text-gray-600">Para quando o treino se move para ambientes internos</p>
             </Link>
           </div>
         </section>
 
         {/* FAQ Section */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Preguntas Que Nos Hacen Todo el Tiempo</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Perguntas que Recebemos o Tempo Todo</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
-              question="¿Cuál es el pedido mínimo? ¿Puedo empezar con poco?"
-              answer="Sí — 100 unidades por estilo y color es nosso MOQ estándar. Si quieres tu propio logo y colores personalizados, sube a 300 unidades. Pero honestamente, la mayoría de los compradores primerizos empiezan con un pedido de amostras mixtas para probar el mercado. Solo dinos qué buscas y encontraremos la manera de hacerlo funcionar."
+              question="Qual é o pedido mínimo? Posso começar com pouco?"
+              answer="Sim — 100 peças por estilo e cor é nosso MOQ padrão. Se quiser seu próprio logo e cores personalizadas, sobe para 300 peças. Mas honestamente, a maioria dos compradores de primeira viagem começa com um pedido misto de amostras para testar o mercado. Só nos diga o que você busca e encontraremos um jeito de fazer funcionar."
             />
             <FaqItem
-              question="TR90 vs. policarbonato — ¿cuál debería elegir?"
-              answer="Respuesta corta: TR90 si puedes permitírtelo. Es un 35% más ligero, mucho más flexible (literalmente puedes doblarlo completamente y vuelve a su forma), y se siente premium. El policarbonato está totalmente bien para líneas económicas — sigue siendo resistente a impactos y cumple su función. Pero si tus clientes son atletas serios o te posicionas como marca premium, elige TR90. La diferencia de preço suele ser solo $1-2 por par."
+              question="TR90 vs. policarbonato — qual devo escolher?"
+              answer="Resposta curta: TR90 se puder investir. É 35% mais leve, muito mais flexível (você pode literalmente dobrá-lo completamente e ele volta à forma), e tem sensação premium. O policarbonato funciona perfeitamente para linhas econômicas — ainda é resistente a impactos e cumpre sua função. Mas se seus clientes são atletas sérios ou você se posiciona como marca premium, escolha TR90. A diferença de preço geralmente é de apenas $1-2 por par."
             />
             <FaqItem
-              question="¿Todas sus óculos esportivos son polarizados?"
-              answer="La polarización está disponível en todos los modelos, pero no siempre viene incluida por defecto en la línea estándar — es opcional. En nossa línea premium, las lentes polarizados TAC vienen de serie. Ofrecemos mais de 12 colores de lente incluindo gris, marrón, ámbar, amarillo (ideal para poca luz), espejo azul, espejo rojo y transparente. Também hacemos lentes fotocromáticas que se ajustan automáticamente a la luz solar. Son populares entre ciclistas que pedalean a partir de el amanecer hasta el mediodía."
+              question="Todos os seus óculos esportivos são polarizados?"
+              answer="A polarização está disponível em todos os modelos, mas nem sempre vem incluída por padrão na linha standard — é opcional. Na nossa linha premium, as lentes polarizadas TAC vêm de série. Oferecemos mais de 12 cores de lente incluindo cinza, marrom, âmbar, amarelo (ótimo para pouca luz), espelho azul, espelho vermelho e transparente. Também fazemos lentes fotocromáticas que se ajustam automaticamente à luz solar. São populares entre ciclistas que pedalam do amanhecer ao meio-dia."
             />
             <FaqItem
-              question="¿Pueden poner nosso logo?"
-              answer="Por supuesto. Hacemos impresión de logo en hastes (tampografía o grabado láser), grabado en lentes, colores de armação personalizados con coincidencia Pantone, embalagem personalizado — todo lo que necesites. Un cliente nos envió un boceto en una servilleta de un design de armação y lo convertimos en un prototipo 3D en dos semanas. Si puedes soñarlo, probablemente podemos hacerlo."
+              question="Podem colocar nosso logo?"
+              answer="Com certeza. Fazemos impressão de logo nas hastes (tampografia ou gravação a laser), gravação nas lentes, cores de armação personalizadas com correspondência Pantone, embalagem personalizada — tudo o que precisar. Um cliente nos enviou um rascunho em guardanapo de um design de armação e nós o transformamos em um protótipo 3D em duas semanas. Se você consegue sonhar, provavelmente conseguimos fazer."
             />
             <FaqItem
-              question="¿Qué certificacoes incluyen?"
-              answer="Cada par se envía con conformidade CE y FDA. Nossa línea premium também cumple ANSI Z87.1 — ese es el estándar de resistencia a impactos industriales, lo que significa que estas lentes pueden recibir el golpe de una bola de acero a alta velocidad sin romperse. Proporcionamos informes de pruebas UV400 de laboratorios independientes. Precisa de AS/NZS 1067 para el mercado australiano? Também podemos hacerlo."
+              question="Quais certificações vêm incluídas?"
+              answer="Cada par é enviado com conformidade CE e FDA. Nossa linha premium também atende ANSI Z87.1 — esse é o padrão de resistência a impactos industrial, o que significa que essas lentes podem receber o golpe de uma bola de aço em alta velocidade sem estilhaçar. Fornecemos relatórios de testes UV400 de laboratórios independentes. Precisa de AS/NZS 1067 para o mercado australiano? Também fazemos."
             />
             <FaqItem
-              question="¿Qué tan rápido pueden enviar?"
-              answer="Artículos en stock sin personalização: 3-5 dias hábiles. Pedidos personalizados con tu logo y colores: 15-25 dias de produção, luego 5-7 dias de flete aéreo a la mayoría de países. El flete marítimo es más barato pero tarda 20-35 dias. Enviamos por DHL, FedEx, UPS — tú eliges. ¿Pedidos urgentes? Habla con nosotros. Hemos logrado entregas en 10 dias cuando un cliente tenía una fecha límite."
+              question="Quão rápido conseguem enviar?"
+              answer="Itens em estoque sem personalização: 3-5 dias úteis. Pedidos personalizados com seu logo e cores: 15-25 dias de produção, depois 5-7 dias de frete aéreo para a maioria dos países. O frete marítimo é mais barato mas leva 20-35 dias. Enviamos por DHL, FedEx, UPS — você escolhe. Pedidos urgentes? Fale conosco. Já conseguimos entregas em 10 dias quando um cliente tinha um prazo apertado."
             />
           </div>
         </section>
 
         {/* CTA */}
         <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
-          <h2 className="text-3xl font-bold mb-4">Empecemos con Tu Línea Deportiva</h2>
+          <h2 className="text-3xl font-bold mb-4">Vamos Começar sua Linha Esportiva</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Equipos esportivos, tiendas outdoor, marcas fitness, empresas promocionales — hemos trabajado con todos.
-            Cuéntanos qué necesitas y te enviaremos amostras para que veas la qualidade por ti mismo.
-            Sin presión, sin compromiso en las amostras.
+            Times esportivos, lojas outdoor, marcas fitness, empresas promocionais — já trabalhamos com todos.
+            Conte-nos o que precisa e enviaremos amostras para que você veja a qualidade por conta própria.
+            Sem pressão, sem compromisso nas amostras.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/pt/contato" className="btn-primary">Preços para Equipos</Link>
-            <Link href="/pt/produtos" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors">Ver Todos los Produtos</Link>
+            <Link href="/pt/contato" className="btn-primary">Preços para Equipes</Link>
+            <Link href="/pt/produtos" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors">Ver Todos os Produtos</Link>
           </div>
         </section>
       </div>
@@ -341,33 +341,33 @@ export default function EsportivoPagePt() {
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "¿Cuál es el pedido mínimo? ¿Puedo empezar con poco?",
-            "acceptedAnswer": { "@type": "Answer", "text": "100 unidades por estilo y color es nosso MOQ estándar. Pedidos con logo personalizado empiezan en 300 unidades. La mayoría de compradores primerizos empiezan con un pedido de amostras mixtas para probar el mercado." }
+            "name": "Qual é o pedido mínimo? Posso começar com pouco?",
+            "acceptedAnswer": { "@type": "Answer", "text": "100 peças por estilo e cor é nosso MOQ padrão. Pedidos com logo personalizado começam em 300 peças. A maioria dos compradores de primeira viagem começa com um pedido misto de amostras para testar o mercado." }
           },
           {
             "@type": "Question",
-            "name": "TR90 vs. policarbonato — ¿cuál debería elegir?",
-            "acceptedAnswer": { "@type": "Answer", "text": "TR90 si puedes permitírtelo — es un 35% más ligero, mucho más flexible y se siente premium. El policarbonato está bien para líneas económicas. La diferencia de preço suele ser solo $1-2 por par." }
+            "name": "TR90 vs. policarbonato — qual devo escolher?",
+            "acceptedAnswer": { "@type": "Answer", "text": "TR90 se puder investir — é 35% mais leve, muito mais flexível e tem sensação premium. O policarbonato funciona bem para linhas econômicas. A diferença de preço geralmente é de apenas $1-2 por par." }
           },
           {
             "@type": "Question",
-            "name": "¿Todas sus óculos esportivos son polarizados?",
-            "acceptedAnswer": { "@type": "Answer", "text": "La polarización está disponível en todos los modelos. Es opcional en la línea estándar e incluida por defecto en la línea premium. Ofrecemos mais de 12 colores de lente incluindo opciones fotocromáticas." }
+            "name": "Todos os seus óculos esportivos são polarizados?",
+            "acceptedAnswer": { "@type": "Answer", "text": "A polarização está disponível em todos os modelos. É opcional na linha padrão e incluída por padrão na linha premium. Oferecemos mais de 12 cores de lente incluindo opções fotocromáticas." }
           },
           {
             "@type": "Question",
-            "name": "¿Pueden poner nosso logo?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Por supuesto — impresión de logo en hastes, grabado en lentes, colores de armação personalizados con coincidencia Pantone y embalagem personalizado. Também podemos crear designs de armação completamente nuevos a partir de tu concepto." }
+            "name": "Podem colocar nosso logo?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Com certeza — impressão de logo nas hastes, gravação nas lentes, cores de armação personalizadas com correspondência Pantone e embalagem personalizada. Também podemos criar designs de armação completamente novos a partir do seu conceito." }
           },
           {
             "@type": "Question",
-            "name": "¿Qué certificacoes incluyen?",
-            "acceptedAnswer": { "@type": "Answer", "text": "CE y FDA en cada par. La línea premium também cumple ANSI Z87.1 para resistencia a impactos. Informes de pruebas UV400 incluidos. AS/NZS 1067 disponível bajo pedido." }
+            "name": "Quais certificações vêm incluídas?",
+            "acceptedAnswer": { "@type": "Answer", "text": "CE e FDA em cada par. A linha premium também atende ANSI Z87.1 para resistência a impactos. Relatórios de testes UV400 incluídos. AS/NZS 1067 disponível sob pedido." }
           },
           {
             "@type": "Question",
-            "name": "¿Qué tan rápido pueden enviar?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Artículos en stock se envían en 3-5 dias hábiles. Pedidos personalizados tardan 15-25 dias de produção más 5-7 dias de flete aéreo. Pedidos urgentes posibles — hemos logrado entregas en 10 dias." }
+            "name": "Quão rápido conseguem enviar?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Itens em estoque enviam em 3-5 dias úteis. Pedidos personalizados levam 15-25 dias de produção mais 5-7 dias de frete aéreo. Pedidos urgentes possíveis — já conseguimos entregas em 10 dias." }
           }
         ]
       })}} />

@@ -16,50 +16,50 @@ export const metadata: Metadata = {
 
 const products = [
   {
-    name: 'Bloqueador de Luz Azul Clásico',
+    name: 'Klassischer Blaulichtfilter',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$6.00 - $10.00',
-    moq: '100 pzas',
-    description: 'Hersteller von Blaulichtfilter-Brillen im Großhandel. Digitaler Augenschutz, blockiert 30-50% Blaulicht. Gaming-, Büro- und Wellness-Brillen. OEM/ODM. MOQ 50 Stk.',
+    moq: '100 Stk.',
+    description: 'Klarer, professioneller Look mit transparenten Gläsern, die Blaulicht filtern, ohne sichtbaren Farbton. Ihre Kunden können diese in Meetings, bei Zoom-Calls oder den ganzen Tag am Schreibtisch tragen, ohne auszusehen, als trügen sie „Spezialbrillen". Dies ist unser meistverkauftes Blaulicht-Modell — es übertrifft alles andere in dieser Kategorie 3 zu 1, weil es wie eine normale Brille aussieht.',
   },
   {
-    name: 'Brillen de Luz Azul Gaming',
+    name: 'Gaming-Blaulichtbrille',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$7.00 - $11.00',
-    moq: '100 pzas',
-    description: 'Hersteller von Blaulichtfilter-Brillen im Großhandel. Digitaler Augenschutz, blockiert 30-50% Blaulicht. Gaming-, Büro- und Wellness-Brillen. OEM/ODM. MOQ 50 Stk.',
+    moq: '100 Stk.',
+    description: 'Gebaut für die Gaming-Community. Bernsteinfarbene Gläser blockieren mehr Blaulicht als klare Versionen (60–90 % vs. 30–40 %), und Gamer bevorzugen sogar den warmen Farbton — er verbessert den Kontrast in dunklen Spielumgebungen und reduziert die Härte heller Blitze. Leichte Fassung mit Gummi-Nasenpads für diese 6-Stunden-Valorant-Sessions. Ein Esports-Team in Korea bestellte 200 Stück als Team-Ausrüstung.',
   },
   {
-    name: 'Bloqueador de Luz Azul Glas Transparente',
+    name: 'Klarglas-Blaulichtfilter',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$6.50 - $10.50',
-    moq: '100 pzas',
-    description: 'Hersteller von Blaulichtfilter-Brillen im Großhandel. Digitaler Augenschutz, blockiert 30-50% Blaulicht. Gaming-, Büro- und Wellness-Brillen. OEM/ODM. MOQ 50 Stk.',
+    moq: '100 Stk.',
+    description: 'Die unauffällige Option. Diese Gläser haben eine dezente Blaulicht-Beschichtung, die nahezu unsichtbar ist — nur ein schwacher Schimmer, wenn Licht im richtigen Winkel auftrifft. Kein Gelbstich. Entwickelt für Menschen, die Schutz wollen, aber nicht möchten, dass jemand merkt, dass sie eine Blaulichtbrille tragen. Beliebt bei Berufstätigen, Anwälten, Führungskräften — den Leuten, die „keine Gimmick-Brillen tragen".',
   },
   {
-    name: 'Aviador con Filtro de Luz Azul',
+    name: 'Blaulicht-Flieger',
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
-    moq: '100 pzas',
-    description: 'Hersteller von Blaulichtfilter-Brillen im Großhandel. Digitaler Augenschutz, blockiert 30-50% Blaulicht. Gaming-, Büro- und Wellness-Brillen. OEM/ODM. MOQ 50 Stk.',
+    moq: '100 Stk.',
+    description: 'Wer sagt, dass Computerbrillen langweilig aussehen müssen? Diese Fliegerfassung mit Blaulichtgläsern bringt Stil in den Bildschirmschutz. Die Metallfassung sieht schick aus, die klaren Gläser filtern Blaulicht, und der Gesamteindruck ist „cooler Pilot, der sich auch um die Augengesundheit kümmert". Ideal für Kunden, die bereits eine Flieger-Sonnenbrille besitzen und ein passendes Indoor-Modell suchen.',
   },
   {
-    name: 'Wayfarer con Filtro de Luz Azul',
+    name: 'Blaulicht-Wayfarer',
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$7.50 - $11.50',
-    moq: '100 pzas',
-    description: 'Hersteller von Blaulichtfilter-Brillen im Großhandel. Digitaler Augenschutz, blockiert 30-50% Blaulicht. Gaming-, Büro- und Wellness-Brillen. OEM/ODM. MOQ 50 Stk.',
+    moq: '100 Stk.',
+    description: 'Die Wayfarer-Form in einer Blaulicht-Version. Acetat-Fassung, professioneller Look, echter Bildschirmschutz. Das ist die Fassung, die wir für Firmengeschenk-Programme empfehlen — Unternehmen kaufen 50–500 Stück mit ihrem Logo auf dem Bügel für Mitarbeiter-Wellness-Pakete. Ein Tech-Unternehmen in Bangalore bestellte 1.200 Stück für sein gesamtes Entwicklerteam.',
   },
   {
-    name: 'Brillen de Luz Azul para Kinder',
+    name: 'Kinder-Blaulichtbrille',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$5.50 - $9.00',
-    moq: '100 pzas',
-    description: 'Hersteller von Blaulichtfilter-Brillen im Großhandel. Digitaler Augenschutz, blockiert 30-50% Blaulicht. Gaming-, Büro- und Wellness-Brillen. OEM/ODM. MOQ 50 Stk.',
+    moq: '100 Stk.',
+    description: 'Kinder verbringen Stunden an Tablets, Handys und Laptops — für die Schule, zum Spielen, für YouTube. Eltern machen sich Sorgen. Diese Brillen geben ihnen eine Lösung. Flexible Fassungen für 5–12 Jahre, BPA-freie Materialien und Blaulichtfilter-Gläser. Schulen in drei Ländern haben diese für ihre Computerraum-Programme eingeführt. Beruhigung für besorgte Eltern, ab 5,50 $.',
   },
 ]
 
-export default function BlueLightPageEs() {
+export default function BlueLightPageDe() {
   return (
     <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -69,19 +69,19 @@ export default function BlueLightPageEs() {
           <span className="mx-2">/</span>
           <Link href="/de/produkte" className="hover:text-primary-600">Produkte</Link>
           <span className="mx-2">/</span>
-          <span className="text-gray-900">Brillen de Luz Azul</span>
+          <span className="text-gray-900">Blaulichtfilter-Brillen</span>
         </nav>
 
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Brillen con Filtro de Luz Azul im Großhandel
+            Blaulichtfilter-Brillen im Großhandel
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Siete horas. Eso es lo que el adulto promedio mira una pantalla cada día. Ojos secos,
-            dolores de cabeza, problemas para dormir — ¿te suena familiar? Las Brillen de luz azul
-            son la categoría de mayor crecimiento en Brillen, y las fabricamos para Markes en más de
-            40 países. Gläser transparentes, Gläser ámbar, Fassungen de moda, tallas Kinderes. MOQ 100 Stück.
+            Sieben Stunden. So lange starrt der durchschnittliche Erwachsene jeden Tag auf einen Bildschirm.
+            Trockene Augen, Kopfschmerzen, Schlafprobleme — kommt Ihnen das bekannt vor? Blaulichtbrillen sind
+            die am schnellsten wachsende Kategorie in der Brillenindustrie, und wir fertigen sie für Marken in
+            über 40 Ländern. Klare Gläser, bernsteinfarbene Gläser, modische Fassungen, Kindergrößen. MOQ 100 Stück.
           </p>
         </div>
 
@@ -89,59 +89,58 @@ export default function BlueLightPageEs() {
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
           <img loading="lazy"
             src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop"
-            alt="Brillen con Filtro de Luz Azul im Großhandel - Colección de Brillen para Computadora"
+            alt="Blaulichtfilter-Brillen Großhandel - Computerbrillen-Kollektion"
             className="w-full h-96 object-cover"
           />
         </div>
 
         {/* What Blue Light Does */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-6">¿Qué le Hace Realmente la Luz Azul a Tus Ojos?</h2>
+          <h2 className="text-3xl font-bold text-center mb-6">Was macht Blaulicht tatsächlich mit Ihren Augen?</h2>
           <div className="max-w-4xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
-              La luz azul está en todas partes. El sol la produce. Tu teléfono la produce. Tu
-              laptop, tu televisor, tus fluorescentes de oficina — todos bombardean tus ojos
-              con luz azul todo el día. Y aquí está la cuestión: nuestros ojos no son buenos
-              bloqueándola. La luz azul (longitudes de onda entre 380-500nm) pasa directamente
-              a través de la córnea y el cristalino para golpear la retina directamente.
+              Blaulicht ist überall. Die Sonne erzeugt es. Ihr Handy erzeugt es. Ihr
+              Laptop, Ihr Fernseher, Ihre Büro-Leuchtstoffröhren — alle bombardieren Ihre
+              Augen den ganzen Tag mit Blaulicht. Und hier ist das Problem: Unsere Augen
+              können es nicht gut blockieren. Blaulicht (Wellenlängen zwischen 380–500 nm)
+              dringt direkt durch die Hornhaut und Linse und trifft unmittelbar auf die Netzhaut.
             </p>
             <p>
-              La <a href="https://www.aao.org/eye-health/tips-prevention/blue-light-digital-eye-strain" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">Academia Americana de Oftalmología</a> señala
-              que la fatiga visual digital afecta aproximadamente al 65% de los adultos que usan
-              pantallas regularmente. Los síntomas incluyen ojos secos, visión borrosa, dolores de
-              cabeza y dolor de cuello/hombros. Pero el problema del sueño podría ser el más grave —
-              la luz azul suprime la Produktion de melatonina, la hormona que le dice a tu cerebro
-              &quot;hora de dormir.&quot; Mira tu teléfono a las 11pm y tu cerebro piensa que es
-              mediodía. No es de extrañar que la gente no pueda dormirse.
+              Die <a href="https://www.aao.org/eye-health/tips-prevention/blue-light-digital-eye-strain" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">American Academy of Ophthalmology</a> stellt fest,
+              dass digitale Augenbelastung etwa 65 % der Erwachsenen betrifft, die regelmäßig Bildschirme nutzen.
+              Symptome sind trockene Augen, verschwommenes Sehen, Kopfschmerzen und Nacken-/Schulterschmerzen.
+              Aber das Schlafproblem könnte das größte sein — Blaulicht unterdrückt die Melatonin-Produktion,
+              das Hormon, das Ihrem Gehirn sagt: „Zeit zum Schlafen." Scrollen Sie um 23 Uhr auf Ihrem Handy,
+              und Ihr Gehirn denkt, es ist Mittag. Kein Wunder, dass die Leute nicht einschlafen können.
             </p>
             <p>
-              Por eso las Brillen de luz azul han explotado. No son un dispositivo médico y no hacemos
-              afirmaciones médicas — pero millones de personas reportan menos fatiga visual, menos
-              dolores de cabeza y mejor sueño al usarlas durante el tiempo de pantalla. Se proyecta
-              que el mercado alcance los $4.5 mil millones globalmente para 2026, según investigaciones
-              de la industria. La <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">FDA</a> regula
-              las Sonnenbrillen y Brillen como dispositivos médicos, y todas nuestras Brillen de luz azul
-              cumplen sus estándares. Para compradores al por mayor, esta es una de las categorías de
-              mayor crecimiento en Brillen en este momento.
+              Deshalb sind Blaulichtbrillen explodiert. Sie sind kein Medizinprodukt und wir machen keine
+              medizinischen Aussagen — aber Millionen von Menschen berichten über weniger Augenermüdung,
+              weniger Kopfschmerzen und besseren Schlaf, wenn sie sie während der Bildschirmzeit tragen. Der
+              Markt wird laut Branchenforschung bis 2026 voraussichtlich 4,5 Milliarden Dollar weltweit erreichen.
+              Die <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">FDA</a> reguliert
+              Sonnenbrillen und Brillen als Medizinprodukte, und alle unsere Blaulichtbrillen erfüllen deren
+              Standards. Für Großhandelskäufer ist dies eine der stärksten Wachstumskategorien in der
+              Brillenbranche derzeit.
             </p>
           </div>
         </section>
 
         {/* Hero Image */}
         <div className="mb-12">
-          <img src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop" alt="Brillen con Filtro de Luz Azul im Großhandel" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
+          <img src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop" alt="Blaulichtfilter-Brillen Großhandel" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
         </div>
 
         {/* Products */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-10">Colección de Luz Azul</h2>
+          <h2 className="text-3xl font-bold text-center mb-10">Blaulicht-Kollektion</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {products.map((product, index) => (
               <div key={index} className="card group">
                 <div className="aspect-video overflow-hidden">
                   <img loading="lazy"
                     src={product.image}
-                    alt={`${product.name} im Großhandel - EyeView`}
+                    alt={`${product.name} Großhandel - EyeView`}
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                   />
                 </div>
@@ -149,9 +148,9 @@ export default function BlueLightPageEs() {
                   <h3 className="text-xl font-semibold mb-2">{product.name}</h3>
                   <p className="text-sm text-gray-600 mb-4 leading-relaxed">{product.description}</p>
                   <ul className="space-y-2 text-sm text-gray-600 mb-4">
-                    <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Tecnología de filtrado de luz azul</li>
-                    <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Recubrimiento antirreflejante</li>
-                    <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Logo personalizado disponible</li>
+                    <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Blaulicht-Filtertechnologie</li>
+                    <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Entspiegelungsbeschichtung</li>
+                    <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Individuelles Logo möglich</li>
                   </ul>
                   <div className="flex items-center justify-between mb-4">
                     <span className="text-primary-600 font-semibold">{product.price}</span>
@@ -166,40 +165,40 @@ export default function BlueLightPageEs() {
 
         {/* Lens Options */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Transparente vs. Ámbar — ¿Qué Glas Deberías Tener en Stock?</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Klar vs. Bernstein — Welches Glas sollten Sie führen?</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-white rounded-xl p-6 shadow-sm">
-              <h3 className="text-xl font-semibold mb-4">🔍 Gläser Transparentes</h3>
+              <h3 className="text-xl font-semibold mb-4">🔍 Klare Gläser</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Sin tinte visible. La protección está en el recubrimiento, no en el Farbe. Son
-                perfectas para personas que necesitan ver Farbees precisos — diseñadores, fotógrafos,
-                editores de video — y cualquiera que no quiera explicar por qué sus Brillen se ven
-                amarillas. Bloquean 30-40% de la luz azul en el rango de 415-455nm (las longitudes
-                de onda más dañinas). Esto es lo que se vende en entornos de oficina y profesionales.
+                Kein sichtbarer Farbton. Der Schutz liegt in der Beschichtung, nicht in der Farbe. Diese sind
+                perfekt für Menschen, die farbechtes Sehen brauchen — Designer, Fotografen,
+                Video-Editoren — und alle, die nicht erklären möchten, warum ihre Brille gelblich aussieht.
+                Blockiert 30–40 % des Blaulichts im 415–455-nm-Bereich (die schädlichsten
+                Wellenlängen). Das ist, was sich in Büro- und professionellen Umgebungen verkauft.
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li>• Protección invisible — sin tinte</li>
-                <li>• Precisión real de Farbe mantenida</li>
-                <li>• Bloquea 30-40% de luz azul dañina</li>
-                <li>• Mejor para: oficina, Design, uso profesional</li>
-                <li>• 70% de nuestros Bestellungs de luz azul son transparentes</li>
+                <li>• Unsichtbarer Schutz — kein Farbton</li>
+                <li>• Echte Farbgenauigkeit bleibt erhalten</li>
+                <li>• Blockiert 30–40 % des schädlichen Blaulichts</li>
+                <li>• Am besten für: Büro, Design, professionelle Nutzung</li>
+                <li>• 70 % unserer Blaulicht-Bestellungen sind klar</li>
               </ul>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-sm">
-              <h3 className="text-xl font-semibold mb-4">🟡 Gläser Ámbar / Amarillas</h3>
+              <h3 className="text-xl font-semibold mb-4">🟡 Bernstein- / Gelb-Gläser</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Tinte cálido visible. Bloquean significativamente más luz azul — 60-90% dependiendo
-                de la profundidad del tinte. El Farbe ámbar filtra las frecuencias azules duras y
-                crea una experiencia visual más cálida y confortable. A los gamers les encanta. A
-                las personas que usan pantallas de noche les encanta. El contraste mejorado es una
-                ventaja genuina para gaming y lectura en condiciones de poca luz.
+                Sichtbarer warmer Farbton. Blockiert deutlich mehr Blaulicht — 60–90 % je nach
+                Farbtiefe. Die Bernsteinfarbe filtert die harten blauen Frequenzen und
+                schafft ein wärmeres, angenehmeres Seherlebnis. Gamer lieben es. Menschen,
+                die abends Bildschirme nutzen, lieben es. Der verbesserte Kontrast ist ein echter Vorteil
+                beim Gaming und Lesen bei schwachem Licht.
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li>• Tinte ámbar visible — tono cálido</li>
-                <li>• Bloquea 60-90% de luz azul</li>
-                <li>• Contraste mejorado para gaming</li>
-                <li>• Mejor para: gaming, uso nocturno, lectura</li>
-                <li>• Crecimiento rápido — especialmente en mercado gaming</li>
+                <li>• Sichtbarer Bernsteinfarbton — warmer Ton</li>
+                <li>• Blockiert 60–90 % des Blaulichts</li>
+                <li>• Verbesserter Kontrast für Gaming</li>
+                <li>• Am besten für: Gaming, Abendnutzung, Lesen</li>
+                <li>• Wächst schnell — besonders im Gaming-Markt</li>
               </ul>
             </div>
           </div>
@@ -207,30 +206,30 @@ export default function BlueLightPageEs() {
 
         {/* Blue Light Technology */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Cómo Funciona el Bloqueo de Luz Azul</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Wie Blaulicht-Blockierung funktioniert</h2>
           <div className="max-w-4xl mx-auto">
             <div className="grid md:grid-cols-2 gap-8">
               <div className="bg-white rounded-xl p-6 shadow-sm">
-                <h3 className="text-lg font-semibold mb-4">🔬 Método de Recubrimiento (Gläser Transparentes)</h3>
+                <h3 className="text-lg font-semibold mb-4">🔬 Beschichtungsmethode (Klare Gläser)</h3>
                 <p className="text-gray-700 mb-3 leading-relaxed">
-                  Se aplica un recubrimiento antirreflejante multicapa a la superficie de la Glas. Una
-                  de estas capas está específicamente ajustada para reflejar las longitudes de onda de
-                  luz azul (415-455nm) lejos del ojo. Puedes verlo funcionando — inclina la Glas y
-                  notarás un leve reflejo azul-púrpura. Esa es la luz azul rebotando en vez de
-                  atravesar.
+                  Eine mehrschichtige Entspiegelungsbeschichtung wird auf die Glasoberfläche aufgetragen. Eine
+                  dieser Schichten ist speziell darauf abgestimmt, Blaulichtwellenlängen (415–455 nm)
+                  vom Auge weg zu reflektieren. Man kann es funktionieren sehen — kippen Sie das Glas und Sie
+                  bemerken eine schwache blau-violette Reflexion. Das ist das Blaulicht, das abprallt,
+                  anstatt durchzudringen.
                 </p>
-                <p className="text-sm text-gray-500">Mejor para: uso profesional, trabajo con Farbe preciso</p>
+                <p className="text-sm text-gray-500">Am besten für: professionelle Nutzung, farbechte Arbeit</p>
               </div>
               <div className="bg-white rounded-xl p-6 shadow-sm">
-                <h3 className="text-lg font-semibold mb-4">🧪 Método de Sustrato (Gläser Ámbar)</h3>
+                <h3 className="text-lg font-semibold mb-4">🧪 Substratmethode (Bernstein-Gläser)</h3>
                 <p className="text-gray-700 mb-3 leading-relaxed">
-                  El Material bloqueador de azul se mezcla directamente en la resina de la Glas durante
-                  la fabricación. Esto crea una Glas que absorbe la luz azul en todo su esGewichtr — no
-                  solo en la superficie. El resultado es un filtrado de luz azul más fuerte y un tinte
-                  ámbar visible. Como el filtrado está en el Material de la Glas mismo, no puede
-                  desgastarse ni rayarse.
+                  Das blaulichtblockierende Material wird direkt in das Glasharz während der
+                  Herstellung eingemischt. Das erzeugt ein Glas, das Blaulicht über seine
+                  gesamte Dicke absorbiert — nicht nur an der Oberfläche. Das Ergebnis ist eine stärkere
+                  Blaulichtfilterung und ein sichtbarer Bernsteinfarbton. Da die Filterung im Glasmaterial
+                  selbst steckt, kann sie nicht abgenutzt oder abgekratzt werden.
                 </p>
-                <p className="text-sm text-gray-500">Mejor para: gaming, tiempo de pantalla nocturno, máximo filtrado</p>
+                <p className="text-sm text-gray-500">Am besten für: Gaming, abendliche Bildschirmzeit, maximale Filterung</p>
               </div>
             </div>
           </div>
@@ -238,125 +237,122 @@ export default function BlueLightPageEs() {
 
         {/* Market Stats */}
         <section className="bg-primary-50 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Los Números No Mienten</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Die Zahlen sprechen für sich</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-            <StatCard number="$4.5B" label="Mercado global para 2026" />
-            <StatCard number="12%" label="Tasa de crecimiento anual" />
-            <StatCard number="7hrs+" label="Tiempo de pantalla diario promedio" />
-            <StatCard number="65%" label="Adultos reportan fatiga visual" />
+            <StatCard number="$4,5 Mrd." label="Globaler Markt bis 2026" />
+            <StatCard number="12 %" label="Jährliche Wachstumsrate" />
+            <StatCard number="7+ Std." label="Durchschn. tägliche Bildschirmzeit" />
+            <StatCard number="65 %" label="Erwachsene berichten von Augenbelastung" />
           </div>
           <p className="text-center text-sm text-gray-600 mt-6 max-w-2xl mx-auto">
-            Las Brillen de luz azul no son una moda pasajera — el tiempo de pantalla solo va en aumento.
-            Trabajo remoto, aprendizaje en línea, gaming móvil, streaming... el mercado sigue creciendo
-            porque el problema sigue creciendo.
+            Blaulichtbrillen sind kein vorübergehender Trend — die Bildschirmzeit nimmt nur zu. Remote-Arbeit,
+            Online-Lernen, Mobile Gaming, Streaming … der Markt wächst weiter, weil
+            das Problem weiter wächst.
           </p>
         </section>
 
         {/* Who Buys These */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Wer kauft Brillen de Luz Azul?</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Wer kauft Blaulichtbrillen?</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            <TargetCard icon="👨‍💼" title="Oficinistas" desc="El segmento más grande. 8 horas de tiempo de pantalla por día, todos los días." />
-            <TargetCard icon="🎮" title="Gamers" desc="Sesiones maratónicas de gaming. Las Gläser ámbar son prácticamente equipo estándar ahora." />
-            <TargetCard icon="📱" title="Estudiantes" desc="Clases en línea, tareas en laptop, luego tiempo de teléfono. Pantallas sin parar." />
-            <TargetCard icon="👶" title="Kinder" desc="Tabletas para la escuela, YouTube después de la escuela. Los padres quieren protección." />
+            <TargetCard icon="👨‍💼" title="Büroangestellte" desc="Das größte Segment. 8 Stunden Bildschirmzeit pro Tag, jeden Tag." />
+            <TargetCard icon="🎮" title="Gamer" desc="Marathon-Gaming-Sessions. Bernsteingläser sind praktisch Standard-Ausrüstung." />
+            <TargetCard icon="📱" title="Studierende" desc="Online-Kurse, Hausaufgaben am Laptop, dann Handy-Zeit. Non-Stop-Bildschirme." />
+            <TargetCard icon="👶" title="Kinder" desc="Tablets für die Schule, YouTube nach der Schule. Eltern wollen Schutz." />
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
-            <TargetCard icon="🏢" title="Regalos Corporativos" desc="Las empresas compran 50-1000 pares para programas de bienestar laboral." />
-            <TargetCard icon="🎓" title="Escuelas" desc="Laboratorios de computación adoptando Brillen de luz azul para estudiantes." />
-            <TargetCard icon="💻" title="Trabajadores Remotos" desc="Esenciales para la oficina en casa. Gran crecimiento post-2020." />
-            <TargetCard icon="📖" title="Lectores" desc="Usuarios de e-readers y tabletas que leen por horas en la noche." />
+            <TargetCard icon="🏢" title="Firmengeschenke" desc="Unternehmen kaufen 50–1.000 Stück für Mitarbeiter-Wellness-Programme." />
+            <TargetCard icon="🎓" title="Schulen" desc="Computerräume führen Blaulichtbrillen für Schüler ein." />
+            <TargetCard icon="💻" title="Remote-Arbeiter" desc="Essentials für das Home-Office. Großes Wachstum nach 2020." />
+            <TargetCard icon="📖" title="Leser" desc="E-Reader- und Tablet-Nutzer, die abends stundenlang lesen." />
           </div>
         </section>
 
         {/* Prescription Option */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-6">Opción Lista para Prescripción</h2>
+          <h2 className="text-3xl font-bold text-center mb-6">Brillenglas-fähige Option</h2>
           <div className="max-w-3xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
-              Aquí hay una gran oportunidad que la mayoría de los compradores al por mayor pasan por Höhe:
-              Brillen de luz azul con prescripción. Aproximadamente el 75% de los adultos necesitan alguna
-              forma de corrección visual. Eso significa que el 75% de los Kundes potenciales de luz
-              azul también necesitan Gläser con prescripción. Fabricamos todos nuestros Fassungen de
-              luz azul listos para Rx — los enviamos con Gläser de demostración para que las ópticas
-              puedan instalar prescripciones personalizadas. Monofocal, bifocal, progresivo — todos
-              compatibles.
+              Hier liegt eine große Chance, die die meisten Großhandelskäufer übersehen: Blaulichtbrillen mit Sehstärke.
+              Etwa 75 % der Erwachsenen benötigen eine Form der Sehkorrektur. Das bedeutet, 75 % der potenziellen
+              Blaulicht-Kunden brauchen auch Korrektionsgläser. Wir fertigen alle unsere Blaulicht-Fassungen
+              als Rx-ready — wir liefern sie mit Demo-Gläsern, damit Optiker individuelle
+              Sehstärken einsetzen können. Einstärke, Bifokal, Gleitsicht — alle kompatibel.
             </p>
             <p>
-              El margen en las Brillen de luz azul con prescripción es incluso mejor que las planas (sin
-              prescripción). Una óptica puede cobrar $80-150 por un par de Brillen de luz azul con
-              prescripción que les cuesta $8-12 al por mayor por el Fassung. Agrega una Glas con
-              prescripción de $15-25 de su laboratorio, y están viendo márgenes de 3-5x. Es una
-              exceGlas venta adicional para cualquier óptica que ya tenga nuestros Fassungen.
+              Der Aufschlag bei Blaulichtbrillen mit Sehstärke ist sogar besser als bei Plangläsern (ohne Sehstärke).
+              Ein Optiker kann 80–150 $ für ein Paar Blaulichtbrille mit Sehstärke verlangen, das
+              im Großhandel 8–12 $ für die Fassung kostet. Dazu ein 15–25-$-Korrektionsglas aus ihrem
+              Labor, und sie haben 3–5-fache Margen. Es ist ein großartiger Zusatzverkauf für jeden
+              Optik-Händler, der bereits unsere Fassungen führt.
             </p>
           </div>
         </section>
 
         {/* Internal Links */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Produkte Relacionados</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Verwandte Produkte</h2>
           <div className="grid md:grid-cols-3 gap-6">
-            <Link href="/de/produkte/redondo" className="card p-6 text-center hover:shadow-lg transition-shadow">
+            <Link href="/de/produkte/rund" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">⭕</div>
-              <h3 className="font-semibold mb-2">Redondas con Luz Azul</h3>
-              <p className="text-sm text-gray-600">Armazones redondos vintage con Gläser de luz azul</p>
+              <h3 className="font-semibold mb-2">Runde Blaulichtbrillen</h3>
+              <p className="text-sm text-gray-600">Vintage-Rundfassungen mit Blaulichtgläsern</p>
             </Link>
-            <Link href="/de/produkte/ninos" className="card p-6 text-center hover:shadow-lg transition-shadow">
+            <Link href="/de/produkte/kinder" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">👶</div>
-              <h3 className="font-semibold mb-2">Brillen para Kinder</h3>
-              <p className="text-sm text-gray-600">Colección completa de Brillen Kinderes con UV-Schutz</p>
+              <h3 className="font-semibold mb-2">Kinderbrillen</h3>
+              <p className="text-sm text-gray-600">Komplette Kinderbrillen-Kollektion mit UV-Schutz</p>
             </Link>
-            <Link href="/de/produkte/ojo-de-gato" className="card p-6 text-center hover:shadow-lg transition-shadow">
+            <Link href="/de/produkte/katzenaugen" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">😎</div>
-              <h3 className="font-semibold mb-2">Ojo de Gato con Luz Azul</h3>
-              <p className="text-sm text-gray-600">Armazones ojo de gato de moda con protección de pantalla</p>
+              <h3 className="font-semibold mb-2">Cat-Eye Blaulichtbrillen</h3>
+              <p className="text-sm text-gray-600">Modische Cat-Eye-Fassungen mit Bildschirmschutz</p>
             </Link>
           </div>
         </section>
 
         {/* FAQ */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Preguntas sobre Luz Azul — Sin Tecnicismos</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Blaulicht-Fragen — ohne Fachchinesisch</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
-              question="¿Las Brillen de luz azul realmente funcionan?"
-              answer="Aquí va la respuesta honesta: la ciencia aún debate si la luz azul en sí causa daño ocular a Länge plazo. Lo que SÍ está bien documentado es que el uso prolongado de pantallas causa fatiga visual digital — ojos secos, dolores de cabeza, visión borrosa. Muchos usuarios reportan alivio genuino al usar Brillen de luz azul. El beneficio para el sueño tiene evidencia más fuerte — la luz azul suprime la melatonina, y filtrarla por la noche puede ayudarte a dormirte más rápido. No hacemos afirmaciones médicas. Dejamos que los Kundes las prueben y decidan por sí mismos. La tasa de recompra habla por sí sola."
+              question="Funktionieren Blaulichtbrillen wirklich?"
+              answer="Hier ist die ehrliche Antwort: Die Wissenschaft diskutiert noch, ob Blaulicht selbst langfristige Augenschäden verursacht. Was GUT dokumentiert ist, ist, dass längere Bildschirmnutzung digitale Augenbelastung verursacht — trockene Augen, Kopfschmerzen, verschwommenes Sehen. Viele Nutzer berichten von echter Linderung beim Tragen von Blaulichtbrillen. Der Schlafvorteil hat stärkere Evidenz — Blaulicht unterdrückt Melatonin, und das Filtern am Abend kann helfen, schneller einzuschlafen. Wir machen keine medizinischen Aussagen. Wir lassen Kunden sie ausprobieren und selbst entscheiden. Die Nachbestellrate spricht für sich."
             />
             <FaqItem
-              question="Gläser transparentes o ámbar — ¿qué debería tener en stock?"
-              answer="Ambas, idealmente. Pero si solo puedes elegir una, ve por transparentes. Las Gläser transparentes representan aproximadamente el 70% de nuestros Bestellungs de luz azul porque parecen Brillen normales y no alteran los Farbees. Las Gläser ámbar son las favoritas de los gamers (filtrado más fuerte, contraste mejorado) y se venden bien en tiendas de gaming y para usuarios de pantalla nocturnos. Consejo profesional: ten transparentes para retail general, ámbar para audiencias gaming/tech."
+              question="Klare oder bernsteinfarbene Gläser — was sollte ich auf Lager haben?"
+              answer="Beides, idealerweise. Aber wenn Sie nur eines wählen können, nehmen Sie klar. Klare Gläser machen etwa 70 % unserer Blaulicht-Bestellungen aus, weil sie wie normale Brillen aussehen und keine Farben verändern. Bernsteingläser sind der Gaming-Favorit (stärkere Filterung, verbesserter Kontrast) und verkaufen sich gut in Gaming-Shops und an Abend-Bildschirmnutzer. Profi-Tipp: Führen Sie klar für den allgemeinen Einzelhandel, bernsteinfarben für Gaming-/Tech-Zielgruppen."
             />
             <FaqItem
-              question="¿Cuánta luz azul bloquean realmente?"
-              answer="Las Gläser transparentes bloquean 30-40% de la luz azul en el rango de 415-455nm (las longitudes de onda potencialmente más dañinas). Las Gläser ámbar bloquean 60-90% dependiendo de la profundidad del tinte. Proporcionamos informes de transmisión espectral con Bestellungs a granel para que puedas mostrar a los Kundes exactamente lo que están obteniendo. Sin afirmaciones vagas de 'bloquea luz azul' — números reales, datos de prueba reales."
+              question="Wie viel Blaulicht blockieren diese tatsächlich?"
+              answer="Klare Gläser blockieren 30–40 % des Blaulichts im 415–455-nm-Bereich (die potenziell schädlichsten Wellenlängen). Bernsteingläser blockieren 60–90 % je nach Farbtiefe. Wir liefern spektrale Transmissionsberichte bei Großbestellungen, damit Sie Kunden genau zeigen können, was sie bekommen. Keine vagen ‚blockiert Blaulicht'-Behauptungen — echte Zahlen, echte Testdaten."
             />
             <FaqItem
-              question="¿Se pueden combinar con Gläser de prescripción?"
-              answer="Absolutamente — ¡y deberías! Aproximadamente el 75% de los adultos necesitan corrección visual, así que los Fassungen de luz azul listos para Rx son un mercado enorme. Todos nuestros Fassungen se envían con Gläser de demostración que las ópticas pueden reemplazar con Gläser de luz azul con prescripción. Funciona con monofocal, bifocal y progresivo. El margen en Brillen de luz azul con prescripción es sobresaliente — $80-150 al detalle en un Fassung de $10 al por mayor."
+              question="Können diese mit Korrektionsgläsern kombiniert werden?"
+              answer="Absolut — und das sollten Sie! Etwa 75 % der Erwachsenen brauchen Sehkorrektur, also sind Rx-fähige Blaulicht-Fassungen ein riesiger Markt. Alle unsere Fassungen werden mit Demo-Gläsern geliefert, die Optiker durch Blaulicht-Korrektionsgläser ersetzen können. Funktioniert mit Einstärke, Bifokal und Gleitsicht. Die Marge bei Blaulichtbrillen mit Sehstärke ist hervorragend — 80–150 $ Verkaufspreis bei einer 10-$-Großhandelsfassung."
             />
             <FaqItem
-              question="¿Cuál es la mejor manera de vender Brillen de luz azul?"
-              answer="La demostración definitiva: pon un par a tu Kunde y haz que mire su teléfono durante 30 segundos. Luego quítaselas. La mayoría de la gente nota inmediatamente la diferencia — la pantalla se ve más dura sin ellas. Ese momento de 'ahá' cierra la venta. Para tiendas en línea, enfócate en el problema (dolores de cabeza, ojos secos, mal sueño) y la solución. Los programas de regalos corporativos también son masivos — las empresas compran cientos de pares para bienestar laboral. Podemos personalizar con logotipos de empresa."
+              question="Was ist der beste Weg, Blaulichtbrillen zu verkaufen?"
+              answer="Die Killer-Demo: Setzen Sie Ihrem Kunden ein Paar auf und lassen Sie ihn 30 Sekunden auf sein Handy schauen. Dann nehmen Sie sie ab. Die meisten Menschen bemerken sofort den Unterschied — der Bildschirm sieht ohne sie härter aus. Dieser ‚Aha-Moment' schließt den Verkauf ab. Für Online-Shops: Konzentrieren Sie sich auf das Problem (Kopfschmerzen, trockene Augen, schlechter Schlaf) und die Lösung. Firmengeschenk-Programme sind ebenfalls riesig — Unternehmen kaufen Hunderte von Stücken für Mitarbeiter-Wellness. Wir können mit Firmenlogos individualisieren."
             />
             <FaqItem
-              question="¿Cuál es el MOQ y tiempo de Lieferung?"
-              answer="100 Stück por Stil y Farbe. Artículos en stock se envían en 3-5 días. Bestellungs personalizados con tu logotipo y branding toman 15-25 días. También hacemos Verpackungs de regalo corporativo — cajas personalizadas con el nombre de tu empresa, paños de microfibra con Marke, todo incluido. Una startup de tecnología ordenó 500 pares en Verpackung personalizado como regalos de bienvenida para nuevos empleados. Les costó aproximadamente $9 pro Paar todo incluido. ¿Valor al detalle del regalo percibido? $30-40 fácilmente."
+              question="Wie hoch ist die Mindestbestellmenge und Lieferzeit?"
+              answer="100 Stück pro Stil und Farbe. Lagerartikel werden in 3–5 Tagen versendet. Individuelle Bestellungen mit Ihrem Logo und Branding dauern 15–25 Tage. Wir machen auch Firmengeschenk-Verpackungen — individuelle Boxen mit Ihrem Firmennamen, gebrandete Mikrofasertücher, das volle Programm. Ein Tech-Startup bestellte 500 Stück in individueller Verpackung als Willkommensgeschenke für neue Mitarbeiter. Kostete sie etwa 9 $ pro Paar alles inklusive. Wahrgenommener Einzelhandelswert des Geschenks? Locker 30–40 $."
             />
           </div>
         </section>
 
         {/* CTA */}
         <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
-          <h2 className="text-3xl font-bold mb-4">El Mercado que Sigue Creciendo</h2>
+          <h2 className="text-3xl font-bold mb-4">Der Markt, der weiter wächst</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            El tiempo de pantalla no va a bajar. El trabajo remoto no se va a ir. El gaming solo
-            se hace más grande. Las Brillen de luz azul son una de las apuestas más seguras en Brillen
-            en este momento. Obtén Muster, pruébalas tú mismo, y descubre por qué esta categoría
-            convierte tan bien.
+            Die Bildschirmzeit geht nicht zurück. Remote-Arbeit verschwindet nicht. Gaming wird nur
+            größer. Blaulichtbrillen sind eine der sichersten Wetten in der Brillenbranche
+            derzeit. Bestellen Sie Muster, testen Sie sie selbst und sehen Sie, warum diese Kategorie so gut konvertiert.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/de/kontakt" className="btn-primary">Obtener Catálogo de Luz Azul</Link>
-            <Link href="/de/produkte" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-Farbes">Ver Todos los Produkte</Link>
+            <Link href="/de/kontakt" className="btn-primary">Blaulicht-Katalog anfordern</Link>
+            <Link href="/de/produkte" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors">Alle Produkte ansehen</Link>
           </div>
         </section>
       </div>
@@ -366,9 +362,9 @@ export default function BlueLightPageEs() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://eyeviewglasses.com/es" },
+          { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://eyeviewglasses.com/de" },
           { "@type": "ListItem", "position": 2, "name": "Produkte", "item": "https://eyeviewglasses.com/de/produkte" },
-          { "@type": "ListItem", "position": 3, "name": "Brillen de Luz Azul", "item": "https://eyeviewglasses.com/de/produkte/blaulicht" }
+          { "@type": "ListItem", "position": 3, "name": "Blaulichtfilter-Brillen", "item": "https://eyeviewglasses.com/de/produkte/blaulicht" }
         ]
       })}} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -377,33 +373,33 @@ export default function BlueLightPageEs() {
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "¿Las Brillen de luz azul realmente funcionan?",
-            "acceptedAnswer": { "@type": "Answer", "text": "La ciencia sobre el daño a Länge plazo de la luz azul aún se debate, pero el alivio de la fatiga visual digital está bien documentado. Muchos usuarios reportan menos fatiga ocular, menos dolores de cabeza y mejor sueño. El beneficio para el sueño tiene evidencia más fuerte — la luz azul suprime la Produktion de melatonina." }
+            "name": "Funktionieren Blaulichtbrillen wirklich?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Die Wissenschaft zum langfristigen Blaulichtschaden wird noch diskutiert, aber die Linderung digitaler Augenbelastung ist gut dokumentiert. Viele Nutzer berichten über weniger Augenermüdung, weniger Kopfschmerzen und besseren Schlaf. Der Schlafvorteil hat stärkere Evidenz — Blaulicht unterdrückt die Melatonin-Produktion." }
           },
           {
             "@type": "Question",
-            "name": "Gläser transparentes o ámbar — ¿qué debería tener en stock?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Ambas idealmente, pero las Gläser transparentes representan el 70% de los Bestellungs. Parecen Brillen normales y no alteran los Farbees. Las Gläser ámbar son populares entre gamers por su filtrado más fuerte y contraste mejorado." }
+            "name": "Klare oder bernsteinfarbene Gläser — was sollte ich auf Lager haben?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Beides idealerweise, aber klare Gläser machen 70 % der Bestellungen aus. Sie sehen wie normale Brillen aus und verändern keine Farben. Bernsteingläser sind bei Gamern wegen stärkerer Filterung und verbessertem Kontrast beliebt." }
           },
           {
             "@type": "Question",
-            "name": "¿Cuánta luz azul bloquean estas Brillen?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Las Gläser transparentes bloquean 30-40% de la luz azul en el rango de 415-455nm. Las Gläser ámbar bloquean 60-90% dependiendo de la profundidad del tinte. Proporcionamos informes de transmisión espectral con Bestellungs a granel." }
+            "name": "Wie viel Blaulicht blockieren diese Brillen?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Klare Gläser blockieren 30–40 % des Blaulichts im 415–455-nm-Bereich. Bernsteingläser blockieren 60–90 % je nach Farbtiefe. Wir liefern spektrale Transmissionsberichte bei Großbestellungen." }
           },
           {
             "@type": "Question",
-            "name": "¿Se pueden combinar las Brillen de luz azul con Gläser de prescripción?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Sí — todos los Fassungen se envían listos para Rx con Gläser de demostración. Aproximadamente el 75% de los adultos necesitan corrección visual, haciendo de las Brillen de luz azul con prescripción un mercado enorme con márgenes sobresalientes." }
+            "name": "Können Blaulichtbrillen mit Korrektionsgläsern kombiniert werden?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Ja — alle Fassungen werden Rx-fertig mit Demo-Gläsern geliefert. Etwa 75 % der Erwachsenen benötigen Sehkorrektur, was Blaulichtbrillen mit Sehstärke zu einem riesigen Markt mit hervorragenden Margen macht." }
           },
           {
             "@type": "Question",
-            "name": "¿Cuál es la mejor manera de vender Brillen de luz azul?",
-            "acceptedAnswer": { "@type": "Answer", "text": "La demostración definitiva: haz que los Kundes miren su teléfono con las Brillen puestas, luego sin ellas. La diferencia se nota inmediatamente. Para tiendas en línea, enfócate en el problema (dolores de cabeza, ojos secos, mal sueño). Los programas de regalos corporativos también son un canal masivo." }
+            "name": "Was ist der beste Weg, Blaulichtbrillen zu verkaufen?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Die Killer-Demo: Lassen Sie Kunden mit der Brille auf ihr Handy schauen, dann ohne. Der Unterschied ist sofort spürbar. Online: Konzentrieren Sie sich auf das Problem (Kopfschmerzen, trockene Augen, schlechter Schlaf). Firmengeschenk-Programme sind ebenfalls ein riesiger Kanal." }
           },
           {
             "@type": "Question",
-            "name": "¿Cuál es el MOQ y tiempo de Lieferung?",
-            "acceptedAnswer": { "@type": "Answer", "text": "100 Stück por Stil. Artículos en stock se envían en 3-5 días. Bestellungs personalizados con logotipo y branding toman 15-25 días. Verpackung de regalo corporativo disponible." }
+            "name": "Wie hoch ist die Mindestbestellmenge und Lieferzeit?",
+            "acceptedAnswer": { "@type": "Answer", "text": "100 Stück pro Stil. Lagerartikel werden in 3–5 Tagen versendet. Individuelle Bestellungen mit Logo und Branding dauern 15–25 Tage. Firmengeschenk-Verpackung verfügbar." }
           }
         ]
       })}} />

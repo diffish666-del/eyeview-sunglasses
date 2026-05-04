@@ -3,12 +3,12 @@ import type { Metadata } from 'next'
 import { ProductSchema, BreadcrumbListSchema, FAQPageSchema } from '../../../components/SchemaMarkup'
 
 export const metadata: Metadata = {
-  title: 'Fabricante de Óculos de Sol de Acetato | Fábrica de Óculos Artesanales - EyeView',
-  description: 'Fabricante de óculos de sol de acetato personalizadas. Acetato italiano Mazzucchelli y acetato chino premium. Armações pulidas a mano, mais de 200 colores. MOQ 100 pçs. Corte CNC, tamboreado, direto de fábrica.',
-  keywords: 'fabricante óculos acetato, fábrica óculos acetato personalizadas, óculos acetato italiano, óculos Mazzucchelli, óculos pulidas a mano, óculos acetato de celulosa, armações acetato no atacado',
+  title: 'Fabricante de Óculos de Sol de Acetato | Fábrica de Óculos Artesanais - EyeView',
+  description: 'Fabricante de óculos de sol de acetato personalizados. Acetato italiano Mazzucchelli e acetato chinês premium. Armações polidas à mão, mais de 200 cores. MOQ 100 pçs. Corte CNC, tamboreamento, direto de fábrica.',
+  keywords: 'fabricante óculos acetato, fábrica óculos acetato personalizados, óculos acetato italiano, óculos Mazzucchelli, óculos polidos à mão, óculos acetato de celulose, armações acetato no atacado',
   openGraph: {
-    title: 'Fabricante de Óculos de Sol de Acetato | Fábrica de Óculos Artesanales - EyeView',
-    description: 'Fabricante de óculos de sol de acetato personalizadas. Acetato italiano Mazzucchelli y acetato chino premium. Pulidas a mano, mais de 200 colores. MOQ 100 pçs. Direto de fábrica.',
+    title: 'Fabricante de Óculos de Sol de Acetato | Fábrica de Óculos Artesanais - EyeView',
+    description: 'Fabricante de óculos de sol de acetato personalizados. Acetato italiano Mazzucchelli e acetato chinês premium. Polidos à mão, mais de 200 cores. MOQ 100 pçs. Direto de fábrica.',
     type: 'website',
     url: 'https://eyeviewsunglasses.com/pt/produtos/acetato',
   },
@@ -23,82 +23,82 @@ export const metadata: Metadata = {
 
 const acetateFaqs = [
   {
-    question: '¿Cuál es la diferencia entre el acetato italiano Mazzucchelli y el acetato chino?',
-    answer: 'La respuesta honesta es que la brecha se ha reducido significativamente en la última década, pero todavía hay diferencias reales. Mazzucchelli (y otros fabricantes italianos como Lapo) usa un proceso de extrusión más lento y controlado que produce planchas con profundidad de color y distribución de patrón más consistente — especialmente visible en patrones complejos como carey multicapa o colores transparentes tipo cristal. El acetato italiano também tiende a pulirse a un brillo ligeramente superior. El acetato chino de productores de primera línea como Shenzhen Xin Rui o Taizhou Huangyan ha mejorado dramáticamente y es genuinamente bueno — excelente gama de colores, buena consistencia, y un 30-40% más barato. Para la mayoría de preços retail por debajo de $80, el acetato chino de alta qualidade es la elección inteligente. Para marcas premium con retail por encima de $100 donde el cliente podría comparar tu armação lado a lado con Céline o Tom Ford, el acetato italiano te da ese último 10% de refinamiento.',
+    question: 'Qual é a diferença entre o acetato italiano Mazzucchelli e o acetato chinês?',
+    answer: 'A resposta honesta é que a diferença diminuiu significativamente na última década, mas ainda existem diferenças reais. A Mazzucchelli (e outros fabricantes italianos como a Lapo) usa um processo de extrusão mais lento e controlado que produz chapas com maior consistência na profundidade de cor e distribuição de padrões — especialmente visível em padrões complexos como tartaruga multicamada ou cores transparentes cristalinas. O acetato italiano também tende a polir com um brilho ligeiramente superior. O acetato chinês de produtores de primeira linha como Shenzhen Xin Rui ou Taizhou Huangyan melhorou dramaticamente e é genuinamente bom — excelente variedade de cores, boa consistência e cerca de 30-40% mais barato. Para a maioria dos preços de varejo abaixo de US$80, o acetato chinês de alta qualidade é a escolha inteligente. Para marcas premium com varejo acima de US$100, onde o cliente pode comparar sua armação lado a lado com Céline ou Tom Ford, o acetato italiano oferece aquele último 10% de refinamento.',
   },
   {
-    question: '¿Cuánto tarda el proceso de produção de acetato?',
-    answer: 'Mais de lo que podrías pensar — y eso es realmente lo que hace especial al acetato. A partir de el corte CNC hasta el control de qualidade final, un solo par toma 5-7 dias de tiempo de procesamiento real. Los grandes consumidores de tiempo son el tamboreado (3-5 dias para suavizar todas las marcas del mecanizado) y el pulido a mano (20-30 minutos por par por trabajadores cualificados). El tiempo total de produção para un pedido es típicamente 20-28 dias porque procesamos por lotes en cada etapa. Los pedidos urgentes se pueden hacer en 14-18 dias pero cobramos un recargo del 15% porque tenemos que interrumpir otras tiradas de produção. Los pares de amostra tardan 5-7 dias hábiles.',
+    question: 'Quanto tempo leva o processo de produção do acetato?',
+    answer: 'Mais do que você imagina — e é exatamente isso que torna o acetato especial. Do corte CNC ao controle de qualidade final, um único par leva de 5 a 7 dias de processamento efetivo. O grande consumidor de tempo é o tamboreamento (3-5 dias para suavizar todas as marcas de usinagem) e o polimento manual (20-30 minutos por par por trabalhadores qualificados). O prazo total de produção de um pedido é tipicamente de 20-28 dias porque processamos em lotes em cada etapa. Pedidos urgentes podem ser feitos em 14-18 dias, mas cobramos uma sobretaxa de 15% porque precisamos interromper outras linhas de produção. Pares de amostra levam de 5 a 7 dias úteis.',
   },
   {
-    question: '¿Qué colores y patrones pueden hacer en acetato?',
-    answer: 'Esencialmente ilimitados. Tenemos en stock mais de 200 colores y patrones de planchas de acetato de nossos proveedores — colores sólidos, carey (clásico marrón, rubio, oscuro), cristal/transparente (transparente, gris, champán, azul), mármol, veta de madera, efecto cuerno, degradado y patrones laminados multicapa. Para colores personalizados, nos das un código Pantone y el proveedor de acetato produce una plancha a medida. El desarrollo de patrones personalizados (como una mezcla de carey única o un patrón con tu marca) também es posible — el pedido mínimo de planchas es normalmente 50-100kg, lo que se traduce en aproximadamente 500-1.000 pares dependiendo del tamaño de la armação. Para pedidos más pequeños, recomendamos encarecidamente elegir de los colores en stock — hay tantos que casi seguro encontrarás lo que necesitas.',
+    question: 'Quais cores e padrões vocês fazem em acetato?',
+    answer: 'Essencialmente ilimitadas. Temos mais de 200 cores e padrões de chapas de acetato em estoque de nossos fornecedores — cores sólidas, tartaruga (marrom clássico, loiro, escuro), cristal/transparente (transparente, cinza, champanhe, azul), mármore, grão de madeira, efeito chifre, degradê e padrões laminados multicamada. Para cores personalizadas, você nos fornece um código Pantone e o fornecedor de acetato produz uma chapa correspondente. O desenvolvimento de padrões personalizados (como uma mistura exclusiva de tartaruga ou um padrão com marca) também é possível — o pedido mínimo de chapa é geralmente de 50-100kg, o que se traduz em aproximadamente 500-1.000 pares, dependendo do tamanho da armação. Para pedidos menores, recomendamos fortemente escolher entre as cores em estoque — há tantas que você quase certamente encontrará o que precisa.',
   },
   {
-    question: 'Como deben cuidar los clientes las óculos de acetato?',
-    answer: 'El acetato es más resistente de lo que la mayoría piensa, pero hay algunas cosas que saber. Primero, mantenerlas alejadas del calor extremo — no las dejes en el salpicadero del coche en verano. El acetato se ablanda alrededor de 70-80°C (158-176°F), así que el calor sostenido puede deformar la armação. Segundo, evitar acetona y solventes fuertes — el quitaesmalte dañará la superficie. Tercero, limpiar con agua tibia y jabón suave, luego secar con un paño suave. Nada de limpiadores de lentes a base de alcohol. La buena noticia es que las armações de acetato pueden ser ajustadas por tu óptico con calor suave, y los arañazos menores a menudo pueden pulirse. Incluimos tarjetas de instrucciones de cuidado con cada pedido sin cargo extra — evita a tus clientes los errores más comunes y reduce tu tasa de devolución.',
+    question: 'Como os clientes devem cuidar dos óculos de acetato?',
+    answer: 'O acetato é mais resistente do que a maioria das pessoas imagina, mas há algumas coisas a saber. Primeiro, mantenha-os longe de calor extremo — não os deixe no painel do carro no verão. O acetato amolece em torno de 70-80°C (158-176°F), então o calor sustentado pode deformar a armação. Segundo, evite acetona e solventes fortes — removedor de esmalte danificará a superfície. Terceiro, limpe com água morna e sabão neutro, depois seque com um pano macio. Sem limpadores de lentes à base de álcool. A boa notícia é que armações de acetato podem ser ajustadas por seu óptico com calor suave, e arranhões menores podem frequentemente ser polidos. Incluímos cartões de instruções de cuidados com cada pedido sem custo adicional — isso evita que seus clientes cometam os erros mais comuns e reduz sua taxa de devolução.',
   },
   {
-    question: '¿Cuál es el MOQ para óculos de acetato personalizadas?',
-    answer: 'El MOQ estándar es 100 unidades por modelo. Puedes mezclar colores dentro de esas 100 — así que 30 negro, 30 carey y 40 cristal transparente funciona bien. Si quieres un design de armação completamente personalizado (tu propia forma, no uno de nossos moldes existentes), hay una tarifa única de molde de $800-1.500 dependiendo de la complejidad, y el MOQ para formas personalizadas es 300 unidades en el primer pedido. Después de eso, los repedidos vuelven a 100 unidades. Para colores de plancha de acetato personalizados (coincidencia Pantone), el MOQ de la plancha del proveedor es típicamente 50-100kg. Mantenemos una gran biblioteca de colores en stock para evitar este mínimo para marcas más pequeñas.',
+    question: 'Qual é o MOQ para óculos de acetato personalizados?',
+    answer: 'O MOQ padrão é de 100 peças por modelo. Você pode misturar cores dentro dessas 100 — então 30 pretos, 30 tartaruga e 40 cristal transparente funciona perfeitamente. Se você quer um design de armação completamente personalizado (seu próprio formato, não um dos nossos moldes existentes), há uma taxa única de molde de US$800-1.500 dependendo da complexidade, e o MOQ para formatos personalizados é de 300 peças no primeiro pedido. Depois disso, reposições voltam a 100 peças. Para cores de chapa de acetato personalizadas (correspondência Pantone), o MOQ de chapa do fornecedor é tipicamente de 50-100kg. Mantemos uma grande biblioteca de cores em estoque para evitar esse mínimo para marcas menores.',
   },
   {
-    question: '¿Por qué el acetato es más caro que el plástico inyectado?',
-    answer: 'Porque casi cada paso requiere manos humanas cualificadas. Las armações inyectadas (nylon, TR90, PC) las hace una máquina en unos 30 segundos — inyectar plástico caliente en un molde, enfriar, sacarlo, listo. Las armações de acetato empiezan como planchas planas que se cortan por CNC en formas toscas, luego se tamborean durante 3-5 dias, luego se pulen a mano una por una durante 20-30 minutos. El contenido de mano de obra es dramáticamente mayor. El costo del material também es mayor — un kilogramo de plancha de acetato de qualidade cuesta 3-5 veces más que pellets de nylon de grado inyección. La recompensa es que las armações de acetato se ven y se sienten premium de una manera que el plástico inyectado simplemente no puede igualar. Los colores son más ricos, la superficie tiene más profundidad, y hay una calidez y peso en el acetato que los clientes asocian con qualidade. Por eso las armações de acetato se venden a $60-200+ mientras que las inyectadas típicamente alcanzan un máximo de $40-60.',
+    question: 'Por que o acetato é mais caro que o plástico injetado?',
+    answer: 'Porque quase todas as etapas requerem mãos humanas qualificadas. Armações injetadas (nylon, TR90, PC) são feitas por uma máquina em cerca de 30 segundos — injeta plástico quente em um molde, resfria, retira, pronto. Armações de acetato começam como chapas planas que são cortadas por CNC em formatos brutos, depois tamboreadas por 3-5 dias, depois polidas à mão uma a uma por 20-30 minutos. O conteúdo de mão de obra é dramaticamente maior. O custo do material também é mais alto — um quilograma de chapa de acetato de qualidade custa 3-5x mais que pellets de nylon para injeção. A recompensa é que armações de acetato parecem e se sentem premium de uma forma que o plástico injetado simplesmente não consegue igualar. As cores são mais ricas, a superfície tem mais profundidade e há um calor e peso no acetato que os clientes associam com qualidade. É por isso que armações de acetato têm varejo de US$60-200+ enquanto armações injetadas tipicamente chegam no máximo a US$40-60.',
   },
 ]
 
 const products = [
   {
-    name: 'Wayfarer Clásico Carey',
-    description: 'El wayfarer carey es la armação de acetato más solicitada en la industria de las óculos — y con razón. El patrón ámbar y marrón favorece todos los tonos de piel, fotografía maravillosamente y transmite percepción premium instantánea. Lo producimos tanto en acetato italiano Mazzucchelli (para líneas premium) como en acetato chino de alta qualidade (para posicionamiento de gama media). Cada par se pule a mano hasta un brillo profundo que capta la luz de una manera que el plástico inyectado simplemente no puede replicar. Si estás construyendo una marca de óculos y necesitas un primer SKU seguro, probablemente sea este.',
+    name: 'Wayfarer Tartaruga Clássico',
+    description: 'O wayfarer tartaruga é a armação de acetato mais solicitada na indústria óptica — e com razão. O padrão âmbar e marrom favorece todos os tons de pele, fotografa lindamente e transmite uma percepção premium instantânea. Produzimos este em acetato italiano Mazzucchelli (para linhas premium) e acetato chinês de alta qualidade (para posicionamento intermediário). Cada par é polido à mão para um brilho profundo que captura a luz de uma forma que o plástico injetado simplesmente não consegue replicar. Se você está construindo uma marca de óculos e precisa de um primeiro SKU seguro, provavelmente é este.',
     price: '$6.00 - $11.00',
     moq: '100 pçs',
-    features: ['Patrón Carey', 'Pulido a Mano', 'Lentes UV400', 'Dobradiça de 5 Barriles'],
+    features: ['Padrão Tartaruga', 'Polido à Mão', 'Lentes UV400', 'Dobradiça 5 Barricas'],
   },
   {
     name: 'Redondo Cristal Transparente',
-    description: 'El acetato transparente lleva tres anos en tendencia fuerte y no amostra señales de frenarse. Nossa armação redondo cristal transparente es ópticamente clara — sin tinte amarillo, sin turbidez — con ese satisfactorio peso de acetato que le dice al cliente que está sosteniendo algo real. La forma redondo es enorme con el público indie/vintage y funciona especialmente bien en mercados asiáticos donde las formas más redondos se adaptan a más tipos de cara. Podemos hacer totalmente transparente, o un sutil cristal gris, cristal champán o cristal azul si quieres un toque de color.',
+    description: 'O acetato transparente está em alta há três anos seguidos e não mostra sinais de desaceleração. Nossa armação redonda cristal transparente é opticamente clara — sem tom amarelado, sem opacidade — com aquele peso satisfatório do acetato que diz ao cliente que ele está segurando algo real. O formato redondo é enorme com o público indie/vintage e tem desempenho especialmente bom nos mercados asiáticos, onde formatos mais redondos se adequam a mais tipos de rosto. Podemos fazer totalmente transparente, ou um cristal cinza sutil, cristal champanhe ou cristal azul se você quer um toque de cor.',
     price: '$7.00 - $11.00',
     moq: '100 pçs',
-    features: ['Cristal Transparente', 'Forma Redondo', 'Claridad Óptica', 'Múltiples Opciones de Tinte'],
+    features: ['Cristal Transparente', 'Formato Redondo', 'Clareza Óptica', 'Múltiplas Opções de Tonalidade'],
   },
   {
-    name: 'Cat-Eye Efecto Mármol',
-    description: 'El patrón de mármol se hace laminando dos o tres planchas de acetato de diferentes colores y prensándolas juntas, creando un efecto de piedra arremolinada que es completamente único para cada par. Combinado con la forma cat-eye — que ha estado dominando las óculos de mujer a partir de su regreso alrededor de 2018 — esta es una pieza declaración. Vemos que estas funcionan especialmente bien con marcas DTC de moda vanguardista y retailers boutique. El patrón de mármol está disponível en blanco/gris, negro/gris, verde/oro y rosa/blanco, o podemos desarrollar una mezcla de mármol personalizada.',
+    name: 'Olho de Gato Efeito Mármore',
+    description: 'O padrão mármore é feito pela sobreposição de duas ou três chapas de acetato de cores diferentes, prensadas juntas, criando um efeito de pedra espiralado completamente único em cada par. Combinado com o formato olho de gato — que domina os óculos femininos desde seu retorno por volta de 2018 — esta é uma peça statement. Vemos estes tendo desempenho especialmente bom com marcas DTC fashion-forward e varejistas boutique. O padrão mármore está disponível em branco/cinza, preto/cinza, verde/dourado e rosa/branco, ou podemos desenvolver uma mistura de mármore personalizada.',
     price: '$8.00 - $12.00',
     moq: '100 pçs',
-    features: ['Patrón Mármol', 'Forma Cat-Eye', 'Acetato Multicapa', 'Único por Par'],
+    features: ['Padrão Mármore', 'Formato Olho de Gato', 'Acetato Multicamada', 'Único Por Par'],
   },
   {
-    name: 'Oversize Acetato Degradado',
-    description: 'Acetato degradado bicolor — oscuro arriba, aclarándose hacia abajo. Esto se logra laminando dos planchas de acetato de diferentes colores y controlando la proporción de espesor. La armação oversize proporciona excelente cobertura solar y tiene ese look de marca de lujo que funciona bien en Instagram y en editoriales de moda. Disponível en degradados de negro a transparente, marrón a miel, azul a transparente y vino a rosa. Este estilo se vende fácilmente a $80-150 retail y el costo por par aún empieza por debajo de $10. Los márgenes son excelentes.',
+    name: 'Acetato Degradê Oversized',
+    description: 'Acetato degradê bicolor — escuro no topo, clareando na parte inferior. Isso é alcançado laminando duas chapas de acetato de cores diferentes e controlando a proporção de espessura. A armação oversized proporciona excelente cobertura solar e tem aquele visual de marca de luxo que funciona bem no Instagram e em editoriais de moda. Disponível em degradês preto para transparente, marrom para mel, azul para transparente e vinho para rosa. Este estilo tem varejo facilmente de US$80-150 e o custo por par ainda começa abaixo de US$10. As margens são excelentes.',
     price: '$8.00 - $13.00',
     moq: '100 pçs',
-    features: ['Degradado Bicolor', 'Armação Oversize', 'Acetato Laminado', 'Posicionamiento Premium'],
+    features: ['Degradê Bicolor', 'Armação Oversized', 'Acetato Laminado', 'Posicionamento Premium'],
   },
   {
-    name: 'Cuadrada Premium Acetato Italiano',
-    description: 'Para marcas que compiten en el extremo superior del mercado. Esta armação usa exclusivamente acetato Mazzucchelli M49 — el mismo grado usado por Tom Ford, Céline y Oliver Peoples. La diferencia es visible en la profundidad de color y la qualidade del pulido. Nossos trabajadores dedican mais de 30 minutos puliendo a mano cada par para lograr ese acabado de cristal líquido. Dobradiças de cinco barriles con hilo de alma personalizado con tu logo. La forma cuadrada es versátil — funciona tanto para hombres como para mujeres — y las proporciones están calibradas para un look moderno, ligeramente oversize, que fotografía bien. Este es el par que hace que un comprador tome tu armação en una feria y diga "oh, esto está bien."',
+    name: 'Quadrado Premium em Acetato Italiano',
+    description: 'Para marcas que competem no topo do mercado. Esta armação usa exclusivamente acetato Mazzucchelli M49 — o mesmo grau usado por Tom Ford, Céline e Oliver Peoples. A diferença é visível na profundidade de cor e na qualidade do polimento. Nossos trabalhadores gastam mais de 30 minutos polindo à mão cada par para alcançar aquele acabamento de vidro líquido. Dobradiças de cinco barricas com fio de núcleo personalizado com logo. O formato quadrado é versátil — funciona tanto para homens quanto para mulheres — e as proporções são calibradas para um visual moderno, ligeiramente oversized, que fotografa bem. Este é o par que faz um comprador pegar sua armação em uma feira e dizer "uau, isso é bonito."',
     price: '$10.00 - $16.00',
     moq: '100 pçs',
-    features: ['Mazzucchelli M49', 'Pulido Premium', 'Dobradiças de 5 Barriles', 'Hilo de Alma Personalizado'],
+    features: ['Mazzucchelli M49', 'Polimento Premium', 'Dobradiças 5 Barricas', 'Fio de Núcleo Personalizado'],
   },
   {
-    name: 'Browline Acetato Efecto Cuerno',
-    description: 'El patrón efecto cuerno imita el cuerno de búfalo natural — estrías oscuras sobre una base más clara que crean una textura orgánica, casi de madera. Combinado con la forma browline (clubmaster), donde la mitad superior de la armação es acetato más grueso y la inferior es alambre metálico fino, este es un design híbrido distintivo. El patrón de cuerno es especialmente popular en los mercados japonés y coreano donde transmite una estética sofisticada e intelectual. Cada par tiene un patrón ligeramente diferente debido a la variación natural en la plancha de acetato. Usamos acero inoxidable de fabricação alemana para el aro de alambre inferior.',
+    name: 'Browline Acetato Efeito Chifre',
+    description: 'O padrão efeito chifre imita o chifre de búfalo natural — estrias escuras sobre uma base mais clara que criam uma textura orgânica, quase amadeirada. Combinado com o formato browline (clubmaster), onde a metade superior da armação é acetato mais grosso e a inferior é fio de metal fino, este é um design híbrido diferenciado. O padrão chifre é especialmente popular nos mercados japonês e coreano, onde carrega uma estética sofisticada e intelectual. Cada par tem um padrão ligeiramente diferente por causa da variação natural na chapa de acetato. Usamos aço inoxidável alemão para o aro inferior de fio.',
     price: '$9.00 - $14.00',
     moq: '100 pçs',
-    features: ['Patrón Efecto Cuerno', 'Forma Browline', 'Híbrido Acetato + Metal', 'Acero Alemán'],
+    features: ['Padrão Efeito Chifre', 'Formato Browline', 'Híbrido Acetato + Metal', 'Fio de Aço Alemão'],
   },
 ]
 
-export default function AcetatoPagePt() {
+export default function AcetatoPage() {
   return (
     <>
       <ProductSchema product={{
-        name: 'Óculos de Sol de Acetato Personalizadas',
-        description: 'Óculos de sol de acetato artesanales fabricadas con acetato italiano Mazzucchelli y acetato chino premium. Corte CNC, tamboreado, pulido a mano. Mais de 200 colores y patrones. Personalização OEM completa.',
+        name: 'Óculos de Sol de Acetato Personalizados',
+        description: 'Óculos de sol de acetato artesanais fabricados com acetato italiano Mazzucchelli e acetato chinês premium. Corte CNC, tamboreamento, polimento à mão. Mais de 200 cores e padrões. Personalização OEM completa.',
         minPrice: '6.00',
         maxPrice: '16.00'
       }} />
@@ -124,7 +124,7 @@ export default function AcetatoPagePt() {
           <div className="mb-12">
             <img
               src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=1200&h=500&fit=crop"
-              alt="Fabricante de Óculos de Sol de Acetato - Óculos Artesanales Mazzucchelli al por Mayor"
+              alt="Fabricante de Óculos de Sol de Acetato - Óculos Artesanais Italianos Mazzucchelli no Atacado"
               loading="lazy"
               className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
             />
@@ -141,34 +141,34 @@ export default function AcetatoPagePt() {
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
               <p className="text-xl leading-relaxed mb-4">
-                Si alguna vez has cogido un par de óculos de sol y has pensado inmediatamente &ldquo;estas se sienten caras,&rdquo; casi seguro estabas sosteniendo <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acetato de celulosa</a>. Hay una razón por la que cada gran marca de óculos de lujo — a partir de Tom Ford hasta Chanel pasando por Oliver Peoples — construye sus armações con este material. El acetato tiene una profundidad y riqueza que el plástico inyectado no puede alcanzar. Los colores están en capas, no pintados en la superficie. El pulido tiene una calidez. Y el peso — unos 25-35 gramos para una armação típica — se asienta en tu cara con una sustancia que dice &ldquo;esto cuesta mais de $20.&rdquo;
+                Se você já pegou um par de óculos de sol e imediatamente pensou &ldquo;estes parecem caros&rdquo;, você quase certamente estava segurando <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acetato de celulose</a>. Há uma razão pela qual toda grande marca de óculos de luxo — de Tom Ford a Chanel a Oliver Peoples — constrói suas armações com este material. O acetato tem uma profundidade e riqueza que o plástico injetado não consegue tocar. As cores são em camadas, não pintadas na superfície. O polimento tem um calor. E o peso — cerca de 25-35 gramas para uma armação típica — assenta no seu rosto com uma substância que diz &ldquo;isso custa mais de US$20.&rdquo;
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Llevo 14 anos fabricando óculos de sol de acetato, y el proceso aún me fascina. A diferencia del moldeo por inyección — donde inyectas plástico caliente en un molde y sacas una armação terminada en 30 segundos — las armações de acetato empiezan como planchas planas de material que pasan por un viaje de produção de varios dias: corte CNC, tamboreado, pulido a mano, ensamblaje y control de qualidade. Cada par pasa por manos humanas múltiples veces. Eso es lo que hace que las armações de acetato sean más caras, y também lo que las hace mejores.
+                Fabrico óculos de sol de acetato há 14 anos, e o processo ainda me fascina. Diferente da moldagem por injeção — onde você injeta plástico quente em um molde e retira uma armação pronta em 30 segundos — armações de acetato começam como chapas planas de material que passam por uma jornada de produção de vários dias: corte CNC, tamboreamento, polimento manual, montagem e controle de qualidade. Cada par passa pelas mãos humanas múltiplas vezes. É isso que torna as armações de acetato mais caras, e também é o que as torna melhores.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Trabajamos con dos categorías de acetato. Para marcas premium, usamos acetato italiano de <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Mazzucchelli</a> — llevan fabricando el material a partir de 1849 y son el estándar de oro. Su biblioteca de colores tiene mais de 2.000 patrones y su control de qualidade es meticuloso. Para marcas posicionadas en la gama media ($40-80 retail), usamos acetato chino de primera línea de proveedores como Shenzhen Xin Rui, que ha mejorado enormemente en la última década y ofrece un gran valor. Ambos funcionan. Cuál elijas depende de tu punto de preço y tu competencia.
+                Trabalhamos com duas categorias de acetato. Para marcas premium, usamos acetato italiano <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Mazzucchelli</a> — eles fazem isso desde 1849 e são o padrão ouro. Sua biblioteca de cores tem mais de 2.000 padrões e seu controle de qualidade é meticuloso. Para marcas posicionadas na faixa intermediária (US$40-80 no varejo), usamos acetato chinês de primeira linha de fornecedores como Shenzhen Xin Rui, que melhorou enormemente na última década e oferece ótimo custo-benefício. Ambos funcionam. Qual você escolhe depende do seu ponto de preço e da sua concorrência.
               </p>
               <p className="text-lg leading-relaxed">
-                Nossa fábrica produce unas 300.000 óculos de acetato al año en todos los estilos — <Link href="/pt/produtos/wayfarer" className="text-primary-600 hover:underline">wayfarers</Link>, <Link href="/pt/produtos/olho-de-gato" className="text-primary-600 hover:underline">cat-eyes</Link>, <Link href="/pt/produtos/redondo" className="text-primary-600 hover:underline">redondos</Link>, cuadradas, browlines y formas personalizadas. Tenemos 12 máquinas CNC, 6 tambores de pulido y empleamos a 45 trabajadores de pulido a mano. Déjame explicarte exactamente cómo convertimos una plancha plana de acetato en un par de óculos terminado.
+                Nossa fábrica produz cerca de 300.000 pares de óculos de sol de acetato por ano em todos os estilos — <Link href="/pt/produtos/wayfarer" className="text-primary-600 hover:underline">wayfarers</Link>, <Link href="/pt/produtos/olho-de-gato" className="text-primary-600 hover:underline">olho de gato</Link>, <Link href="/pt/produtos/redondo" className="text-primary-600 hover:underline">redondos</Link>, quadrados, browlines e formatos personalizados. Operamos 12 máquinas CNC, 6 tambores e empregamos 45 trabalhadores de polimento manual. Deixe-me mostrar exatamente como transformamos uma chapa plana de acetato em um par de óculos de sol acabado.
               </p>
             </div>
           </div>
 
           {/* Production Process */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Como Fabricamos las Óculos de Acetato</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Como Fabricamos Óculos de Sol de Acetato</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              De plancha plana a armação terminada en 5-7 dias. Aquí va cada paso — sin atajos, sin secretos.
+              De chapa plana a armação acabada em 5-7 dias. Aqui está cada etapa — sem atalhos, sem segredos.
             </p>
 
             <div className="max-w-4xl mx-auto space-y-8">
               <div className="flex gap-6 items-start">
                 <div className="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-lg">1</div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Selección de Plancha y Corte CNC</h3>
+                  <h3 className="text-xl font-bold mb-2">Seleção da Chapa e Corte CNC</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Todo empieza con la plancha de acetato — un bloque de material de aproximadamente 6mm de espesor en el color o patrón que hayas elegido. Cargamos la plancha en una fresadora CNC (control numérico por computadora) que corta la armação frontal y las hastes con especificaciones precisas. La CNC sigue el archivo CAD 3D de tu armação, cortando las ranuras de las lentes, la forma del ponte y las cavidades de las dobradiças en una sola operación. Un operador CNC cualificado puede cortar unas 40-50 armações frontales por hora. En esta etapa, la armação está tosca — puedes ver las marcas del mecanizado y los bordes están afilados.
+                    Começa com a chapa de acetato — um bloco de material de aproximadamente 6mm de espessura na cor ou padrão que você escolheu. Carregamos a chapa em uma máquina de fresagem CNC (controle numérico computadorizado) que corta a frente da armação e as hastes com especificações precisas. O CNC segue o arquivo CAD 3D da sua armação, cortando as ranhuras das lentes, formato da ponte e encaixes das dobradiças em uma única operação. Um operador CNC qualificado pode cortar cerca de 40-50 frentes de armação por hora. Nesta fase, a armação é bruta — você pode ver as marcas de usinagem e as bordas são afiadas.
                   </p>
                 </div>
               </div>
@@ -176,9 +176,9 @@ export default function AcetatoPagePt() {
               <div className="flex gap-6 items-start">
                 <div className="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-lg">2</div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Tamboreado (3-5 Dias)</h3>
+                  <h3 className="text-xl font-bold mb-2">Tamboreamento (3-5 Dias)</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Este es el paso que sorprende a la gente — las armações van a un tambor rotatorio lleno de virutas de madera, piedra pómez y una pequeña cantidad de agua. El tambor gira lentamente durante 3-5 dias, y la fricción gradualmente suaviza todas las marcas del mecanizado y redondea los bordes. Es esencialmente un proceso de lijado muy lento y muy suave. No puedes acelerarlo. Lo hemos intentado. Si acortas el tamboreado, la superficie no está lo suficientemente suave para que el pulido final quede bien. Diferentes patrones requieren diferentes medios de tamboreado — por ejemplo, el acetato cristal transparente necesita medios más finos para evitar micro-rayaduras.
+                    Esta é a etapa que surpreende as pessoas — as armações vão para um tambor rotativo cheio de lascas de madeira, pedra-pomes e uma pequena quantidade de água. O tambor gira lentamente por 3-5 dias, e o atrito gradualmente suaviza todas as marcas de usinagem e arredonda as bordas. É essencialmente um processo de lixamento muito lento e muito suave. Você não pode apressar isso. Nós tentamos. Se você encurtar o tamboreamento, a superfície não fica suave o suficiente para o polimento final ficar correto. Padrões diferentes requerem meios de tamboreamento diferentes — por exemplo, acetato cristal transparente precisa de meios mais finos para evitar micro-arranhões.
                   </p>
                 </div>
               </div>
@@ -186,9 +186,9 @@ export default function AcetatoPagePt() {
               <div className="flex gap-6 items-start">
                 <div className="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-lg">3</div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Pulido a Mano (20-30 Minutos por Par)</h3>
+                  <h3 className="text-xl font-bold mb-2">Polimento Manual (20-30 Minutos Por Par)</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Aquí es donde ocurre la magia y de donde viene la mayor parte del costo. Un trabajador cualificado toma cada armação y la pule a mano contra una serie de ruedas de algodón para pulir, usando compuestos de pulido progresivamente más finos. La primera rueda elimina las marcas de tamboreado restantes. La segunda genera un semi-brillo. La tercera y última rueda produce ese brillo profundo de cristal líquido que hace que las armações de acetato se vean tan premium. Nossos trabajadores de pulido tienen una media de 6 anos de experiencia — se necesita aproximadamente un año de formación antes de que alguien pueda pulir consistentemente a nosso estándar. Este es el paso que las armações de plástico de mercado masivo se saltan por completo, y es la razón por la que las armações de acetato se ven y se sienten fundamentalmente diferentes.
+                    É aqui que a mágica acontece e de onde vem a maior parte do custo. Um trabalhador qualificado pega cada armação e a polia à mão contra uma série de rodas de polimento de algodão, usando compostos de polimento progressivamente mais finos. A primeira roda remove quaisquer marcas de tamboreamento restantes. A segunda traz um semi-brilho. A terceira e última roda produz aquele brilho profundo, de vidro líquido, que faz as armações de acetato parecerem tão premium. Nossos trabalhadores de polimento têm em média 6 anos de experiência — leva cerca de um ano de treinamento antes que alguém possa polir consistentemente no nosso padrão. Esta é a etapa que armações de plástico do mercado de massa pulam inteiramente, e é a razão pela qual armações de acetato parecem e se sentem fundamentalmente diferentes.
                   </p>
                 </div>
               </div>
@@ -196,9 +196,9 @@ export default function AcetatoPagePt() {
               <div className="flex gap-6 items-start">
                 <div className="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-lg">4</div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Ensamblaje de Dobradiças y Montaje de Lentes</h3>
+                  <h3 className="text-xl font-bold mb-2">Montagem de Dobradiças e Encaixe das Lentes</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Insertamos las dobradiças (típicamente de acero inoxidable de 5 barriles con hilo de alma personalizado para tu logo), fijamos las hastes y montamos las lentes. Para armações de acetato, las lentes se cortan para coincidir con la forma de la ranura y se insertan calentando suavemente la armação a unos 60°C, lo que hace que el acetato sea lo suficientemente flexible para aceptar la lente sin agrietamiento por estrés. Cada dobradiça se prueba para acción suave y tensión adecuada. La alineación de las hastes se verifica para asegurar que la armação se asiente nivelada en una superficie plana.
+                    Inserimos as dobradiças (tipicamente 5 barricas de aço inoxidável com fio de núcleo personalizado para seu logo), fixamos as hastes e montamos as lentes. Para armações de acetato, as lentes são cortadas para corresponder ao formato da ranhura e inseridas aquecendo suavemente a armação a cerca de 60°C, o que torna o acetato flexível o suficiente para aceitar a lente sem rachaduras por estresse. Cada dobradiça é testada quanto à ação suave e tensão adequada. O alinhamento das hastes é verificado para garantir que a armação assente nivelada em uma superfície plana.
                   </p>
                 </div>
               </div>
@@ -206,9 +206,9 @@ export default function AcetatoPagePt() {
               <div className="flex gap-6 items-start">
                 <div className="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-lg">5</div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Control de Qualidade</h3>
+                  <h3 className="text-xl font-bold mb-2">Controle de Qualidade</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Cada par pasa por una inspección de 15 puntos: alineación de lentes, tensión de dobradiça, simetría de hastes, acabado de superficie (comprobando rayaduras, picaduras o pulido desigual), consistencia de color, verificación de proteção UV (probada con espectrómetro UV) y mediciones físicas contra la hoja de especificaciones. Nossa tasa de rechazo en QC para armações de acetato es de aproximadamente 3-5% — más alta que las armações inyectadas (que rondan el 1-2%) porque los procesos manuales introducen más variabilidad. Los pares rechazados vuelven para re-pulido o se descartan por completo. No enviamos segundas qualidadees.
+                    Cada par passa por uma inspeção de 15 pontos: alinhamento das lentes, tensão das dobradiças, simetria das hastes, acabamento da superfície (verificando arranhões, marcas ou polimento irregular), consistência de cor, verificação de proteção UV (testada com um espectrômetro UV) e medições físicas contra a folha de especificações. Nossa taxa de rejeição no CQ de armações de acetato é de cerca de 3-5% — mais alta que armações injetadas (que ficam em torno de 1-2%) porque os processos manuais introduzem mais variabilidade. Pares rejeitados voltam para repolimento ou são descartados inteiramente. Não enviamos produtos de segunda.
                   </p>
                 </div>
               </div>
@@ -217,9 +217,9 @@ export default function AcetatoPagePt() {
 
           {/* Italian vs Chinese Acetate */}
           <section className="mb-20 bg-gray-50 rounded-2xl p-8 md:p-12">
-            <h2 className="text-3xl font-bold text-center mb-4">Acetato Italiano vs. Chino: La Verdadera Historia</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Acetato Italiano vs. Chinês: A Verdade</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              Me preguntan esto en casi cada llamada. Aquí va una comparación honesta de alguien que trabaja con ambos todos los dias.
+              Me perguntam isso em quase toda ligação. Aqui está uma comparação honesta de alguém que trabalha com ambos todos os dias.
             </p>
 
             <div className="grid md:grid-cols-2 gap-8">
@@ -229,73 +229,73 @@ export default function AcetatoPagePt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Profundidad de color y consistencia de patrón superiores — especialmente en patrones complejos multicapa</span>
+                    <span>Profundidade de cor e consistência de padrão superiores — especialmente em padrões multicamada complexos</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Se pule a un brillo ligeramente superior con menos esfuerzo</span>
+                    <span>Polia para um brilho ligeiramente mais alto com menos esforço</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Biblioteca de mais de 2.000 patrones con décadas de I+D detrás de cada uno</span>
+                    <span>Biblioteca de mais de 2.000 padrões com décadas de P&amp;D por trás de cada um</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>&ldquo;Fabricado con acetato italiano&rdquo; es una declaración de marketing legítima que resuena con compradores premium</span>
+                    <span>&ldquo;Feito com acetato italiano&rdquo; é uma alegação de marketing legítima que ressoa com compradores premium</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-amber-500 mt-1">⚠</span>
-                    <span>30-40% más caro que acetato chino equivalente</span>
+                    <span>30-40% mais caro que acetato chinês equivalente</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-amber-500 mt-1">⚠</span>
-                    <span>Plazos de entrega más largos para colores personalizados (6-8 semanas a partir de pedido hasta entrega de plancha)</span>
+                    <span>Prazos de entrega mais longos para cores personalizadas (6-8 semanas do pedido à entrega da chapa)</span>
                   </li>
                 </ul>
-                <div className="mt-4 text-primary-600 font-bold">Mejor para: Retail $80+</div>
+                <div className="mt-4 text-primary-600 font-bold">Melhor para: Varejo US$80+</div>
               </div>
 
               <div className="bg-white rounded-xl p-8">
                 <div className="text-3xl mb-4">🇨🇳</div>
-                <h3 className="text-xl font-bold mb-3">Acetato Chino Premium</h3>
+                <h3 className="text-xl font-bold mb-3">Acetato Chinês Premium</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Excelente qualidade de productores de primera línea — genuinamente bueno, no un compromiso</span>
+                    <span>Excelente qualidade de produtores de primeira linha — genuinamente bom, não um compromisso</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>30-40% menos costo por kilogramo</span>
+                    <span>Custo 30-40% menor por quilograma</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Plazo más rápido para colores personalizados (3-4 semanas)</span>
+                    <span>Prazo mais rápido para cores personalizadas (3-4 semanas)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>MOQ de plancha más bajo para colores personalizados (50kg vs 100kg para italiano)</span>
+                    <span>MOQ de chapa menor para cores personalizadas (50kg vs 100kg para italiano)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-amber-500 mt-1">⚠</span>
-                    <span>Los patrones complejos (carey multicapa) pueden tener distribución ligeramente menos consistente</span>
+                    <span>Padrões complexos (tartaruga multicamada) podem ter distribuição ligeiramente menos consistente</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-amber-500 mt-1">⚠</span>
-                    <span>Sin historia de marketing &ldquo;italiano&rdquo; (aunque &ldquo;acetato de celulosa premium&rdquo; sigue funcionando)</span>
+                    <span>Sem a história de marketing &ldquo;italiano&rdquo; (embora &ldquo;acetato de celulose premium&rdquo; ainda funcione)</span>
                   </li>
                 </ul>
-                <div className="mt-4 text-primary-600 font-bold">Mejor para: Retail $40-80</div>
+                <div className="mt-4 text-primary-600 font-bold">Melhor para: Varejo US$40-80</div>
               </div>
             </div>
 
             <p className="text-gray-500 text-center mt-8 text-sm">
-              Mi recomendación: empieza con acetato chino para validar tus designs y puntos de preço. Cambia a italiano para tus produtos estrella una vez que hayas confirmado la demanda. Muchas marcas exitosas usan ambos — italiano para su línea insignia, chino para su coleção diaria.
+              Minha recomendação: comece com acetato chinês para validar seus designs e pontos de preço. Mude para italiano para seus produtos estrela depois de confirmar a demanda. Muitas marcas de sucesso usam ambos — italiano para sua linha principal, chinês para sua coleção do dia a dia.
             </p>
           </section>
 
         {/* Hero Image */}
         <div className="mb-12">
-          <img src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=1200&h=500&fit=crop" alt="Óculos de Sol de Acetato al por Mayor" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
+          <img src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=1200&h=500&fit=crop" alt="Óculos de Sol de Acetato no Atacado" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
         </div>
 
           {/* Products Grid */}
@@ -336,23 +336,23 @@ export default function AcetatoPagePt() {
                 <table className="w-full">
                   <tbody className="divide-y divide-gray-100">
                     {[
-                      ['Material de Armação', 'Acetato de celulosa — Italiano (Mazzucchelli/Lapo) o chino premium'],
-                      ['Peso de Armação', '25-35g dependiendo del tamaño y grosor de la armação'],
-                      ['Grosor de Plancha', '5mm / 6mm / 8mm (más común: 6mm)'],
-                      ['Patrones Disponívels', '200+ colores en stock: sólido, carey, cristal, mármol, degradado, cuerno, veta de madera, laminado'],
-                      ['Colores Personalizados', 'Coincidencia Pantone disponível — MOQ de plancha 50kg (chino) / 100kg (italiano)'],
-                      ['Material de Lente', 'Policarbonato / TAC Polarizado / CR-39 Óptico / Cristal'],
-                      ['Ancho de Lente', '48mm - 58mm (varía según estilo de armação)'],
-                      ['Ancho de Ponte', '16mm - 22mm'],
-                      ['Largo de Haste', '140mm / 145mm / 150mm'],
-                      ['Dobradiças', 'Acero inoxidable de 5 barriles estándar / dobradiças de muelle opcionales (+$0.30/par)'],
-                      ['Proteção UV', 'UV400 — bloquea el 100% de radiación UVA y UVB'],
-                      ['Proceso de Produção', 'Corte CNC → tamboreado (3-5 dias) → pulido a mano (20-30 min) → ensamblaje → QC'],
+                      ['Material da Armação', 'Acetato de celulose — Italiano (Mazzucchelli/Lapo) ou chinês premium'],
+                      ['Peso da Armação', '25-35g dependendo do tamanho e espessura da armação'],
+                      ['Espessura da Chapa', '5mm / 6mm / 8mm (mais comum: 6mm)'],
+                      ['Padrões Disponíveis', 'Mais de 200 cores em estoque: sólidas, tartaruga, cristal, mármore, degradê, chifre, grão de madeira, laminados'],
+                      ['Cores Personalizadas', 'Correspondência Pantone disponível — MOQ de chapa 50kg (chinês) / 100kg (italiano)'],
+                      ['Material das Lentes', 'Policarbonato / TAC Polarizado / CR-39 Óptico / Vidro'],
+                      ['Largura das Lentes', '48mm - 58mm (varia conforme o estilo da armação)'],
+                      ['Largura da Ponte', '16mm - 22mm'],
+                      ['Comprimento das Hastes', '140mm / 145mm / 150mm'],
+                      ['Dobradiças', '5 barricas em aço inoxidável padrão / dobradiças com mola opcionais (+$0.30/par)'],
+                      ['Proteção UV', 'UV400 — bloqueia 100% da radiação UVA e UVB'],
+                      ['Processo de Produção', 'Corte CNC → tamboreamento (3-5 dias) → polimento manual (20-30 min) → montagem → CQ'],
                       ['Certificações', 'CE (EN ISO 12312-1) · FDA (21 CFR 801.410) · UV400 · ISO 9001'],
-                      ['MOQ', '100 unidades por modelo — mezcla de colores permitida / 300 pçs para formas personalizadas'],
-                      ['Tarifa de Molde (Forma Personalizada)', '$800 - $1.500 único — exento en pedidos superiores a 1.000 pçs'],
-                      ['Tiempo de Amostra', '5-7 dias hábiles'],
-                      ['Tiempo de Produção', '20-28 dias estándar / 14-18 dias urgente (+15%)'],
+                      ['MOQ', '100 peças por modelo — mistura de cores permitida / 300 pçs para formatos personalizados'],
+                      ['Taxa de Molde (Formato Personalizado)', '$800 - $1.500 única — dispensada em pedidos acima de 1.000 pçs'],
+                      ['Prazo de Amostra', '5-7 dias úteis'],
+                      ['Prazo de Produção', '20-28 dias padrão / 14-18 dias urgente (+15%)'],
                     ].map(([label, value], i) => (
                       <tr key={i} className="hover:bg-gray-50">
                         <td className="px-6 py-4 font-semibold text-gray-900 w-1/3">{label}</td>
@@ -367,87 +367,87 @@ export default function AcetatoPagePt() {
 
           {/* Color and Pattern Options */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Colores y Patrones</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Cores e Padrões</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              Aquí es donde el acetato realmente brilla comparado con otros materiales. La gama de colores y patrones que puedes conseguir es esencialmente ilimitada.
+              É aqui que o acetato realmente brilha comparado a outros materiais. A variedade de cores e padrões que você pode alcançar é essencialmente ilimitada.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">🐢 Carey</h3>
-                <p className="text-sm text-gray-600">El clásico. Disponível en marrón/ámbar (tradicional), rubio/miel (más claro, más trendy), Havana oscuro (rico, casi negro) y verde/oliva (único). El carey multicapa italiano tiene más profundidad y variación.</p>
+                <h3 className="font-bold mb-2">🐢 Tartaruga</h3>
+                <p className="text-sm text-gray-600">O clássico. Disponível em marrom/âmbar (tradicional), loiro/mel (mais claro, mais moderno), Havana escuro (rico, quase preto) e verde/oliva (único). A tartaruga multicamada italiana tem mais profundidade e variação.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
                 <h3 className="font-bold mb-2">💎 Cristal / Transparente</h3>
-                <p className="text-sm text-gray-600">Totalmente transparente o con un tinte sutil. Cristal transparente, cristal gris, cristal champán, cristal azul, cristal rosa. La clave es la claridad óptica — el acetato transparente barato se ve lechoso. El nosso no.</p>
+                <p className="text-sm text-gray-600">Totalmente transparente ou com um tom sutil. Cristal transparente, cristal cinza, cristal champanhe, cristal azul, cristal rosa. O segredo é a clareza óptica — acetato transparente barato parece leitoso. O nosso não.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">🪨 Mármol y Piedra</h3>
-                <p className="text-sm text-gray-600">Se consigue laminando y prensando planchas de acetato de diferentes colores. Mármol blanco, mármol negro, jade verde, ónix rosa. Cada par tiene patrones de remolino ligeramente diferentes — cada armação es única.</p>
+                <h3 className="font-bold mb-2">🪨 Mármore e Pedra</h3>
+                <p className="text-sm text-gray-600">Alcançado pela sobreposição e prensagem de chapas de acetato de cores diferentes. Mármore branco, mármore preto, jade verde, ônix rosa. Cada par tem padrões de espiral ligeiramente diferentes — cada armação é única.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">🌅 Degradado / Bicolor</h3>
-                <p className="text-sm text-gray-600">Oscuro arriba, claro abajo (o de lado a lado). Negro a transparente, marrón a miel, azul marino a azul cielo, vino a rosa. Se crea laminando dos planchas de acetato en diferentes proporciones de espesor.</p>
+                <h3 className="font-bold mb-2">🌅 Degradê / Bicolor</h3>
+                <p className="text-sm text-gray-600">Escuro no topo, claro na parte inferior (ou lado a lado). Preto para transparente, marrom para mel, marinho para azul céu, vinho para rosa. Criado pela laminação de duas chapas de acetato em proporções de espessura diferentes.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">🎨 Colores Sólidos</h3>
-                <p className="text-sm text-gray-600">Negro mate, negro brillante, azul marino, verde bosque, burdeos, crema, rosa pastel, azul cielo — y todo lo intermedio. Coincidencia Pantone para colores personalizados. La profundidad del pulido en acetato sólido es impresionante.</p>
+                <h3 className="font-bold mb-2">🎨 Cores Sólidas</h3>
+                <p className="text-sm text-gray-600">Preto fosco, preto brilhante, marinho, verde floresta, bordô, creme, rosa pastel, azul céu — e qualquer coisa entre eles. Correspondência Pantone para cores personalizadas. A profundidade do polimento em acetato sólido é deslumbrante.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">🦌 Efecto Cuerno y Madera</h3>
-                <p className="text-sm text-gray-600">Patrones de acetato que imitan cuerno de búfalo natural o veta de madera. Populares en mercados japonés y coreano. Cada par se ve único debido a la variación natural en el patrón de la plancha de acetato.</p>
+                <h3 className="font-bold mb-2">🦌 Efeito Chifre e Madeira</h3>
+                <p className="text-sm text-gray-600">Padrões de acetato que imitam chifre de búfalo natural ou grão de madeira. Popular nos mercados japonês e coreano. Cada par parece único devido à variação natural no padrão da chapa de acetato.</p>
               </div>
             </div>
           </section>
 
           {/* Customization */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Opciones de Personalização</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Opções de Personalização</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              Las armações de acetato ofrecen la mayor gama de personalização de cualquier material de armação. Esto es lo que podemos hacer.
+              Armações de acetato oferecem a mais ampla variedade de personalização de qualquer material de armação. Aqui está o que podemos fazer.
             </p>
 
             <div className="grid md:grid-cols-3 gap-8">
               <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">🎨 Branding</h3>
+                <h3 className="text-xl font-bold mb-4">🎨 Marca</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estampado en caliente</strong> — lámina dorada, plateada o de color en el interior de la haste. Clásico, elegante.</span>
+                    <span><strong>Hot stamping</strong> — folha de ouro, prata ou colorida no interior da haste. Clássico, elegante.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>En relieve/bajo relieve</strong> — prensado en la superficie del acetato. Sutil y permanente.</span>
+                    <span><strong>Relevo/baixo-relevo</strong> — prensado na superfície do acetato. Sutil e permanente.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Hilo de alma personalizado</strong> — tu logo grabado a láser en el alambre metálico de la dobradiça, visible cuando la haste se despliega.</span>
+                    <span><strong>Fio de núcleo personalizado</strong> — seu logo gravado a laser no fio de metal da dobradiça, visível quando a haste é aberta.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Placa metálica en haste</strong> — placa de logo en aleación de zinc o acero inoxidable remachada a la haste.</span>
+                    <span><strong>Placa metálica na haste</strong> — placa de logo em liga de zinco ou aço inoxidável rebitada na haste.</span>
                   </li>
                 </ul>
               </div>
 
               <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">📐 Design de Armação</h3>
+                <h3 className="text-xl font-bold mb-4">📐 Design da Armação</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Formas personalizadas</strong> — envíanos un boceto o archivo CAD y cortaremos un molde CNC ($800-1.500 único)</span>
+                    <span><strong>Formatos personalizados</strong> — envie-nos um esboço ou arquivo CAD e cortaremos um molde CNC ($800-1.500 único)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Ancho de haste</strong> — fina (4mm) para look minimal, gruesa (6-8mm) para declaración atrevida</span>
+                    <span><strong>Largura da haste</strong> — fina (4mm) para visual minimalista, grossa (6-8mm) para declaração ousada</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Ponte keyhole vs silla</strong> — diferentes estilos de ponte nasal para diferentes formas de cara</span>
+                    <span><strong>Ponte keyhole vs sela</strong> — diferentes estilos de ponte nasal para diferentes formatos de rosto</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estilo de punta de haste</strong> — recta, curvada o tipo pala</span>
+                    <span><strong>Estilo da ponta da haste</strong> — reta, curvada ou tipo raquete</span>
                   </li>
                 </ul>
               </div>
@@ -457,19 +457,19 @@ export default function AcetatoPagePt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estuches de piel</strong> — cierre magnético, logo en bajo relieve. La opción premium.</span>
+                    <span><strong>Estojos de couro</strong> — fecho magnético, logo em relevo. A escolha premium.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estuches rígidos EVA</strong> — duraderos, ligeros, impresión de logo a todo color.</span>
+                    <span><strong>Estojos rígidos EVA</strong> — duráveis, leves, impressão de logo em cores completas.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Bolsa de microfibra</strong> — impresa personalizada, sirve também como paño de limpieza.</span>
+                    <span><strong>Bolsa de microfibra</strong> — impressa personalizada, funciona também como pano de limpeza.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Cajas listas para retail</strong> — impresión a todo color, inserto personalizado, pestaña colgante, etiqueta con código de barras.</span>
+                    <span><strong>Caixas para varejo</strong> — impressão em cores completas, insert personalizado, aba de exposição, etiqueta com código de barras.</span>
                   </li>
                 </ul>
               </div>
@@ -478,35 +478,35 @@ export default function AcetatoPagePt() {
 
           {/* Why Acetate */}
           <section className="mb-20 bg-gray-900 rounded-2xl p-8 md:p-12 text-white">
-            <h2 className="text-3xl font-bold text-center mb-4">Por Qué el Acetato Tiene Preço Premium</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Por Que o Acetato Comanda Preços Premium</h2>
             <p className="text-gray-300 text-center max-w-3xl mx-auto mb-10">
-              Las armações de acetato se venden a $60-200+. Aquí está por qué los clientes pagan ese premium — y por qué funciona para tus márgenes.
+              Armações de acetato têm varejo de US$60-200+. Aqui está por que os clientes pagam esse premium — e por que funciona para suas margens.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">✋ Proceso Artesanal</h3>
-                <p className="text-gray-300 text-sm">Cada par es tocado por manos humanas múltiples veces. En un mundo de produção masiva, eso importa. Los clientes pueden sentir la diferencia — y pagarán por ella. &ldquo;Pulido a mano&rdquo; es una declaración de marketing genuina que resuena.</p>
+                <h3 className="font-bold mb-2 text-amber-400">✋ Processo Artesanal</h3>
+                <p className="text-gray-300 text-sm">Cada par é tocado por mãos humanas múltiplas vezes. Em um mundo de produção em massa, isso importa. Os clientes podem sentir a diferença — e vão pagar por isso. &ldquo;Polido à mão&rdquo; é uma alegação de marketing genuína que ressoa.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">🎨 Profundidad de Color</h3>
-                <p className="text-gray-300 text-sm">Los colores del acetato están en capas a través del material, no pintados en la superficie. Un patrón carey tiene profundidad real — puedes ver diferentes capas a partir de diferentes ángulos. Esto es físicamente imposible con plástico inyectado.</p>
+                <h3 className="font-bold mb-2 text-amber-400">🎨 Profundidade de Cor</h3>
+                <p className="text-gray-300 text-sm">As cores do acetato são em camadas através do material, não pintadas na superfície. Um padrão tartaruga tem profundidade real — você pode ver diferentes camadas em diferentes ângulos. Isso é fisicamente impossível com plástico injetado.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">⚖️ Qualidade Percibida</h3>
-                <p className="text-gray-300 text-sm">El peso (25-35g), la calidez del material contra la piel, la profundidad del pulido — todo en el acetato comunica qualidade. Tu cliente lo coge y sabe que esto no es un par de óculos de $15.</p>
+                <h3 className="font-bold mb-2 text-amber-400">⚖️ Qualidade Percebida</h3>
+                <p className="text-gray-300 text-sm">O peso (25-35g), o calor do material contra a pele, a profundidade do polimento — tudo no acetato comunica qualidade. Seu cliente pega e sabe que este não é um par de óculos de US$15.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">🌿 Origen Natural</h3>
-                <p className="text-gray-300 text-sm">El acetato de celulosa se deriva de fibras de algodón y pulpa de madera — es un material de origen vegetal, no derivado del petróleo. Eso importa cada vez más a los consumidores eco-conscientes y te da un ángulo de sostenibilidad.</p>
+                <h3 className="font-bold mb-2 text-amber-400">🌿 Origem Natural</h3>
+                <p className="text-gray-300 text-sm">O acetato de celulose é derivado de línter de algodão e polpa de madeira — é um material de base vegetal, não derivado de petróleo. Isso importa cada vez mais para consumidores eco-conscientes e dá a você um ângulo de sustentabilidade.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">🔧 Ajustabilidad</h3>
-                <p className="text-gray-300 text-sm">El acetato puede ser ajustado por cualquier óptico con calor suave. La armação puede remodelarse para un ajuste personalizado. Intenta eso con nylon inyectado — se rompe. Esta ajustabilidad extiende la vida útil del producto y reduce devoluciones.</p>
+                <h3 className="font-bold mb-2 text-amber-400">🔧 Ajustabilidade</h3>
+                <p className="text-gray-300 text-sm">O acetato pode ser ajustado por qualquer óptico com calor suave. A armação pode ser remodelada para um ajuste personalizado. Tente isso com nylon injetado — ele quebra. Essa ajustabilidade estende a vida útil do produto e reduz devoluções.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">💰 Matemática de Márgenes</h3>
-                <p className="text-gray-300 text-sm">Una armação de acetato cuesta $6-16 por par de producir. Se vende al retail a $60-200. Eso es un margen de 4-12x — mejor que la mayoría de produtos de consumo. Incluso después de contabilizar marketing, embalagem y distribución, los márgenes en óculos de acetato son excelentes.</p>
+                <h3 className="font-bold mb-2 text-amber-400">💰 Matemática das Margens</h3>
+                <p className="text-gray-300 text-sm">Uma armação de acetato custa US$6-16 por par para produzir. Tem varejo de US$60-200. Isso é um markup de 4-12x — melhor que a maioria dos produtos de consumo. Mesmo considerando marketing, embalagem e distribuição, as margens em óculos de acetato são excelentes.</p>
               </div>
             </div>
           </section>
@@ -530,39 +530,39 @@ export default function AcetatoPagePt() {
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
               <Link href="/pt/produtos/olho-de-gato" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">😸</div>
-                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Óculos Cat-Eye</h3>
-                <p className="text-gray-600 text-sm">Nosso estilo de acetato más popular para marcas de mujer. Disponível en todos los colores y patrones de acetato.</p>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Óculos Olho de Gato</h3>
+                <p className="text-gray-600 text-sm">Nosso estilo de acetato mais popular para marcas femininas. Disponível em todas as cores e padrões de acetato.</p>
               </Link>
               <Link href="/pt/produtos/wayfarer" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">🔲</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Óculos Wayfarer</h3>
-                <p className="text-gray-600 text-sm">La forma de acetato más vendida a nivel mundial. Clásica, versátil, y el primer producto más seguro para nuevas marcas.</p>
+                <p className="text-gray-600 text-sm">O formato de acetato mais vendido no mundo. Clássico, versátil e a aposta mais segura para novas marcas.</p>
               </Link>
               <Link href="/pt/produtos/redondo" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">⭕</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Óculos Redondos</h3>
-                <p className="text-gray-600 text-sm">Redondos de inspiración vintage en cristal, carey y acetato sólido. En fuerte tendencia en mercados asiáticos.</p>
+                <p className="text-gray-600 text-sm">Redondos vintage em cristal, tartaruga e acetato sólido. Em forte tendência nos mercados asiáticos.</p>
               </Link>
               <Link href="/pt/blog/oem-vs-odm" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">📖</div>
-                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Guía OEM vs ODM</h3>
-                <p className="text-gray-600 text-sm">¿No sabes si usar nossos designs existentes o crear los tuyos propios? Esta guía desglosa los pros, contras y costos.</p>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Guia OEM vs ODM</h3>
+                <p className="text-gray-600 text-sm">Não sabe se deve usar nossos designs existentes ou criar o seu próprio? Este guia detalha os prós, contras e custos.</p>
               </Link>
             </div>
           </section>
 
           {/* CTA */}
           <section className="bg-primary-600 rounded-2xl p-8 md:p-12 text-center text-white">
-            <h2 className="text-3xl font-bold mb-4">Pronto para Crear Tu Coleção de Acetato?</h2>
+            <h2 className="text-3xl font-bold mb-4">Pronto para Criar Sua Coleção de Acetato?</h2>
             <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
-              Envíanos tus ideas de armação, preferencias de color y punto de preço objetivo. Te recomendaremos el grado de acetato adecuado, te enviaremos amostras de material y tendrás amostras en tus manos en una semana. Acetato italiano o chino — te ayudaremos a tomar la decisión correcta.
+              Envie-nos suas ideias de armação, preferências de cores e ponto de preço alvo. Recomendaremos o grau de acetato certo, enviaremos amostras de materiais e teremos amostras nas suas mãos dentro de uma semana. Acetato italiano ou chinês — vamos ajudá-lo a tomar a decisão certa.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/pt/contato" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
                 Solicitar Orçamento
               </Link>
               <Link href="/pt/produtos" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
-                Ver Todos los Produtos
+                Ver Todos os Produtos
               </Link>
             </div>
           </section>

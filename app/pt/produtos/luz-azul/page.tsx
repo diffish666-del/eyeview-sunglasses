@@ -2,9 +2,9 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Óculos con Filtro de Luz Azul no Atacado | Fabricante de Óculos para Computadora - EyeView',
-  description: 'Fabricante de óculos con filtro de luz azul no atacado. Óculos para computadora, óculos gaming para alivio de fatiga visual digital. Opciones de lentes transparentes y ámbar. MOQ 100 pçs. OEM/ODM direto de fábrica.',
-  keywords: 'óculos luz azul no atacado, fabricante óculos para computadora, óculos gaming no atacado, óculos filtro luz azul, óculos proteção de pantalla, óculos anti luz azul a granel, óculos fatiga visual digital',
+  title: 'Óculos com Filtro de Luz Azul no Atacado | Fabricante de Óculos para Computador - EyeView',
+  description: 'Fabricante de óculos com filtro de luz azul no atacado. Óculos para computador, óculos gamer para alívio de fadiga visual digital. Opções de lentes transparentes e âmbar. MOQ 100 pçs. OEM/ODM direto de fábrica.',
+  keywords: 'óculos luz azul no atacado, fabricante óculos para computador, óculos gamer no atacado, óculos filtro luz azul, óculos proteção de tela, óculos anti luz azul a granel, óculos fadiga visual digital',
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/pt/produtos/luz-azul/',
     languages: {
@@ -16,46 +16,46 @@ export const metadata: Metadata = {
 
 const products = [
   {
-    name: 'Bloqueador de Luz Azul Clásico',
+    name: 'Bloqueador de Luz Azul Clássico',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$6.00 - $10.00',
     moq: '100 pçs',
-    description: 'Aspecto limpio y profesional con lentes transparentes que filtran la luz azul sin ningún tinte visible. Tus clientes pueden usarlas en reuniones, en videollamadas de Zoom, o en su escritorio todo el día sin parecer que llevan óculos "especiales." Este es nosso modelo de luz azul más vendido — supera en ventas a todo lo demás en esta categoría 3 a 1 porque parece óculos normales.',
+    description: 'Visual limpo e profissional com lentes transparentes que filtram a luz azul sem nenhum tom visível. Seus clientes podem usar em reuniões, em chamadas de Zoom, ou na mesa o dia inteiro sem parecer que estão usando óculos "especiais." Este é nosso modelo de luz azul mais vendido — supera tudo mais nesta categoria numa proporção de 3 para 1 porque parece óculos normais.',
   },
   {
-    name: 'Óculos de Luz Azul Gaming',
+    name: 'Óculos de Luz Azul Gamer',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$7.00 - $11.00',
     moq: '100 pçs',
-    description: 'Diseñadas para el público gamer. Las lentes con tinte ámbar bloquean más luz azul que las versiones transparentes (60-90% vs 30-40%), y los gamers en realidad prefieren el tinte cálido — mejora el contraste en entornos de juego oscuros y reduce la dureza de los destellos brillantes. Armação ligero con almofadas nasales de goma para esas sesiones de 6 horas de Valorant. Un equipo de esports en Corea ordenó 200 pares como equipamiento del equipo.',
+    description: 'Feitos para o público gamer. As lentes com tom âmbar bloqueiam mais luz azul que as versões transparentes (60-90% vs 30-40%), e os gamers na verdade preferem o tom quente — melhora o contraste em ambientes de jogo escuros e reduz a intensidade de flashes brilhantes. Armação leve com almofadas nasais de borracha para aquelas sessões de 6 horas de Valorant. Um time de esports na Coreia encomendou 200 pares como equipamento da equipe.',
   },
   {
     name: 'Bloqueador de Luz Azul Lente Transparente',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$6.50 - $10.50',
     moq: '100 pçs',
-    description: 'La opción sigilosa. Estas lentes tienen un recubrimiento sutil de luz azul que es casi invisible — solo un leve reflejo cuando la luz incide en el ángulo correcto. Sin tinte amarillo en absoluto. Diseñadas para personas que quieren proteção pero no quieren que nadie sepa que llevan óculos de luz azul. Populares entre profesionales, abogados, ejecutivos — el público de "yo no uso óculos de moda."',
+    description: 'A opção discreta. Essas lentes têm um revestimento sutil de luz azul que é quase invisível — apenas um leve reflexo quando a luz incide no ângulo certo. Sem tom amarelado algum. Projetadas para pessoas que querem proteção mas não querem que ninguém saiba que estão usando óculos de luz azul. Populares entre profissionais, advogados, executivos — o público de "eu não uso óculos da moda."',
   },
   {
-    name: 'Aviador con Filtro de Luz Azul',
+    name: 'Aviador com Filtro de Luz Azul',
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 pçs',
-    description: '¿Quién dijo que las óculos para computadora tienen que verse aburridas? Este armação aviador con lentes de luz azul trae estilo a la proteção de pantalla. El armação metálico se ve elegante, las lentes transparentes filtran la luz azul, y el efecto general es "piloto cool que também se preocupa por la salud visual." Ideal para clientes que ya tienen óculos de sol aviador y quieren un par de interiores a juego.',
+    description: 'Quem disse que óculos para computador têm que ser sem graça? Esta armação aviador com lentes de luz azul traz estilo para a proteção de tela. A armação metálica fica elegante, as lentes transparentes filtram a luz azul, e o efeito geral é "piloto estiloso que também se preocupa com saúde visual." Ideal para clientes que já têm óculos de sol aviador e querem um par de ambientes internos combinando.',
   },
   {
-    name: 'Wayfarer con Filtro de Luz Azul',
+    name: 'Wayfarer com Filtro de Luz Azul',
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$7.50 - $11.50',
     moq: '100 pçs',
-    description: 'La forma wayfarer en versión luz azul. Armação de acetato, aspecto profesional, proteção genuina de pantalla. Este es el armação que recomendamos para programas de regalos corporativos — las empresas compran de 50 a 500 pares con su logotipo en la haste para paquetes de bienestar laboral. Una empresa de tecnología en Bangalore ordenó 1,200 pares para todo su equipo de ingeniería.',
+    description: 'A forma wayfarer em versão luz azul. Armação de acetato, visual profissional, proteção de tela genuína. Esta é a armação que recomendamos para programas de brindes corporativos — empresas compram de 50 a 500 pares com seu logo na haste para pacotes de bem-estar dos funcionários. Uma empresa de tecnologia em Bangalore encomendou 1.200 pares para toda a equipe de engenharia.',
   },
   {
-    name: 'Óculos de Luz Azul para Crianças',
+    name: 'Óculos de Luz Azul Infantis',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$5.50 - $9.00',
     moq: '100 pçs',
-    description: 'Los crianças pasan horas en tabletas, teléfonos y laptops — para la escuela, para juegos, para YouTube. Los padres se preocupan por eso. Estas óculos les dan una solución. Armações flexibles dimensionados para edades 5-12, materiales libres de BPA, y lentes con filtro de luz azul. Escuelas en tres países han adoptado estas para sus programas de laboratorio de computación. La tranquilidad de un padre preocupado, a partir de $5.50.',
+    description: 'Crianças passam horas em tablets, celulares e notebooks — para escola, para jogos, para YouTube. Os pais se preocupam com isso. Esses óculos dão uma solução. Armações flexíveis dimensionadas para idades 5-12, materiais livres de BPA, e lentes com filtro de luz azul. Escolas em três países adotaram esses para seus programas de laboratório de informática. A tranquilidade de um pai preocupado, a partir de $5,50.',
   },
 ]
 
@@ -75,13 +75,13 @@ export default function BlueLightPagePt() {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Óculos con Filtro de Luz Azul no Atacado
+            Óculos com Filtro de Luz Azul no Atacado
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Siete horas. Eso es lo que el adulto promedio mira una pantalla cada día. Ojos secos,
-            dolores de cabeza, problemas para dormir — ¿te suena familiar? Las óculos de luz azul
-            son la categoría de mayor crecimiento en óculos, y las fabricamos para marcas en mais de
-            40 países. Lentes transparentes, lentes ámbar, armações de moda, tallas infantiles. MOQ 100 peças.
+            Sete horas. É quanto tempo o adulto médio olha para uma tela por dia. Olhos secos,
+            dores de cabeça, dificuldade para dormir — parece familiar? Óculos de luz azul são
+            a categoria de maior crescimento em óculos, e os fabricamos para marcas em mais de
+            40 países. Lentes transparentes, lentes âmbar, armações fashion, tamanhos infantis. MOQ 100 peças.
           </p>
         </div>
 
@@ -89,47 +89,47 @@ export default function BlueLightPagePt() {
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
           <img loading="lazy"
             src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop"
-            alt="Óculos con Filtro de Luz Azul no Atacado - Coleção de Óculos para Computadora"
+            alt="Óculos com Filtro de Luz Azul no Atacado - Coleção de Óculos para Computador"
             className="w-full h-96 object-cover"
           />
         </div>
 
         {/* What Blue Light Does */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-6">¿Qué le Hace Realmente la Luz Azul a Tus Ojos?</h2>
+          <h2 className="text-3xl font-bold text-center mb-6">O Que a Luz Azul Realmente Faz com Seus Olhos?</h2>
           <div className="max-w-4xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
-              La luz azul está en todas partes. El sol la produce. Tu teléfono la produce. Tu
-              laptop, tu televisor, tus fluorescentes de oficina — todos bombardean tus ojos
-              con luz azul todo el día. Y aquí está la cuestión: nossos ojos no son buenos
-              bloqueándola. La luz azul (longitudes de onda entre 380-500nm) pasa directamente
-              a través de la córnea y el cristalino para golpear la retina directamente.
+              A luz azul está em toda parte. O sol a produz. Seu celular a produz. Seu
+              notebook, sua TV, seus fluorescentes do escritório — todos bombardeiam seus olhos
+              com luz azul o dia todo. E o problema é: nossos olhos não são bons em
+              bloqueá-la. A luz azul (comprimentos de onda entre 380-500nm) passa direto
+              pela córnea e cristalino para atingir a retina diretamente.
             </p>
             <p>
-              La <a href="https://www.aao.org/eye-health/tips-prevention/blue-light-digital-eye-strain" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">Academia Americana de Oftalmología</a> señala
-              que la fatiga visual digital afecta aproximadamente al 65% de los adultos que usan
-              pantallas regularmente. Los síntomas incluyen ojos secos, visión borrosa, dolores de
-              cabeza y dolor de cuello/hombros. Pero el problema del sueño podría ser el más grave —
-              la luz azul suprime la produção de melatonina, la hormona que le dice a tu cerebro
-              &quot;hora de dormir.&quot; Mira tu teléfono a las 11pm y tu cerebro piensa que es
-              mediodía. No es de extrañar que la gente no pueda dormirse.
+              A <a href="https://www.aao.org/eye-health/tips-prevention/blue-light-digital-eye-strain" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">Academia Americana de Oftalmologia</a> aponta
+              que a fadiga visual digital afeta aproximadamente 65% dos adultos que usam
+              telas regularmente. Os sintomas incluem olhos secos, visão embaçada, dores de
+              cabeça e dor no pescoço/ombros. Mas o problema do sono pode ser o mais grave —
+              a luz azul suprime a produção de melatonina, o hormônio que diz ao seu cérebro
+              &quot;hora de dormir.&quot; Mexer no celular às 23h e seu cérebro acha que é
+              meio-dia. Não é de se espantar que as pessoas não consigam dormir.
             </p>
             <p>
-              Por eso las óculos de luz azul han explotado. No son un dispositivo médico y no hacemos
-              afirmaciones médicas — pero millones de personas reportan menos fatiga visual, menos
-              dolores de cabeza y mejor sueño al usarlas durante el tiempo de pantalla. Se proyecta
-              que el mercado alcance los $4.5 mil millones globalmente para 2026, según investigaciones
-              de la industria. La <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">FDA</a> regula
-              las óculos de sol y óculos como dispositivos médicos, y todas nossas óculos de luz azul
-              cumplen sus estándares. Para compradores no atacado, esta es una de las categorías de
-              mayor crecimiento en óculos en este momento.
+              É por isso que óculos de luz azul explodiram. Não são um dispositivo médico e não fazemos
+              declarações médicas — mas milhões de pessoas relatam menos fadiga visual, menos
+              dores de cabeça e melhor sono ao usá-los durante o tempo de tela. Projeta-se
+              que o mercado atinja $4,5 bilhões globalmente até 2026, segundo pesquisas
+              do setor. A <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">FDA</a> regula
+              óculos de sol e óculos como dispositivos médicos, e todos os nossos óculos de luz azul
+              atendem seus padrões. Para compradores no atacado, esta é uma das categorias de
+              maior crescimento em óculos neste momento.
             </p>
           </div>
         </section>
 
         {/* Hero Image */}
         <div className="mb-12">
-          <img src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop" alt="Óculos con Filtro de Luz Azul no Atacado" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
+          <img src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop" alt="Óculos com Filtro de Luz Azul no Atacado" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
         </div>
 
         {/* Products */}
@@ -149,8 +149,8 @@ export default function BlueLightPagePt() {
                   <h3 className="text-xl font-semibold mb-2">{product.name}</h3>
                   <p className="text-sm text-gray-600 mb-4 leading-relaxed">{product.description}</p>
                   <ul className="space-y-2 text-sm text-gray-600 mb-4">
-                    <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Tecnología de filtrado de luz azul</li>
-                    <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Recubrimiento antirreflejante</li>
+                    <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Tecnologia de filtragem de luz azul</li>
+                    <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Revestimento antirreflexo</li>
                     <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Logo personalizado disponível</li>
                   </ul>
                   <div className="flex items-center justify-between mb-4">
@@ -166,40 +166,40 @@ export default function BlueLightPagePt() {
 
         {/* Lens Options */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Transparente vs. Ámbar — ¿Qué Lente Deberías Tener en Stock?</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Transparente vs. Âmbar — Qual Lente Ter em Estoque?</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🔍 Lentes Transparentes</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Sin tinte visible. La proteção está en el recubrimiento, no en el color. Son
-                perfectas para personas que necesitan ver colores precisos — diseñadores, fotógrafos,
-                editores de video — y cualquiera que no quiera explicar por qué sus óculos se ven
-                amarillas. Bloquean 30-40% de la luz azul en el rango de 415-455nm (las longitudes
-                de onda más dañinas). Esto es lo que se vende en entornos de oficina y profesionales.
+                Sem tom visível. A proteção está no revestimento, não na cor. São
+                perfeitas para pessoas que precisam ver cores precisas — designers, fotógrafos,
+                editores de vídeo — e qualquer um que não queira explicar por que seus óculos parecem
+                amarelados. Bloqueiam 30-40% da luz azul na faixa de 415-455nm (os comprimentos
+                de onda mais prejudiciais). Isso é o que vende em ambientes de escritório e profissionais.
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li>• Proteção invisible — sin tinte</li>
-                <li>• Precisión real de color mantenida</li>
-                <li>• Bloquea 30-40% de luz azul dañina</li>
-                <li>• Mejor para: oficina, design, uso profesional</li>
-                <li>• 70% de nossos pedidos de luz azul son transparentes</li>
+                <li>• Proteção invisível — sem tom</li>
+                <li>• Precisão real de cor mantida</li>
+                <li>• Bloqueia 30-40% de luz azul prejudicial</li>
+                <li>• Melhor para: escritório, design, uso profissional</li>
+                <li>• 70% dos nossos pedidos de luz azul são transparentes</li>
               </ul>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-sm">
-              <h3 className="text-xl font-semibold mb-4">🟡 Lentes Ámbar / Amarillas</h3>
+              <h3 className="text-xl font-semibold mb-4">🟡 Lentes Âmbar / Amarelas</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Tinte cálido visible. Bloquean significativamente más luz azul — 60-90% dependiendo
-                de la profundidad del tinte. El color ámbar filtra las frecuencias azules duras y
-                crea una experiencia visual más cálida y confortable. A los gamers les encanta. A
-                las personas que usan pantallas de noche les encanta. El contraste mejorado es una
-                ventaja genuina para gaming y lectura en condiciones de poca luz.
+                Tom quente visível. Bloqueiam significativamente mais luz azul — 60-90% dependendo
+                da profundidade do tom. A cor âmbar filtra as frequências azuis intensas e
+                cria uma experiência visual mais quente e confortável. Os gamers adoram. Pessoas
+                que usam telas à noite adoram. O contraste aprimorado é uma
+                vantagem genuína para gaming e leitura em condições de pouca luz.
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li>• Tinte ámbar visible — tono cálido</li>
-                <li>• Bloquea 60-90% de luz azul</li>
-                <li>• Contraste mejorado para gaming</li>
-                <li>• Mejor para: gaming, uso nocturno, lectura</li>
-                <li>• Crecimiento rápido — especialmente en mercado gaming</li>
+                <li>• Tom âmbar visível — tonalidade quente</li>
+                <li>• Bloqueia 60-90% de luz azul</li>
+                <li>• Contraste aprimorado para gaming</li>
+                <li>• Melhor para: gaming, uso noturno, leitura</li>
+                <li>• Crescimento rápido — especialmente no mercado gamer</li>
               </ul>
             </div>
           </div>
@@ -207,30 +207,30 @@ export default function BlueLightPagePt() {
 
         {/* Blue Light Technology */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Como Funciona el Bloqueo de Luz Azul</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Como Funciona o Bloqueio de Luz Azul</h2>
           <div className="max-w-4xl mx-auto">
             <div className="grid md:grid-cols-2 gap-8">
               <div className="bg-white rounded-xl p-6 shadow-sm">
-                <h3 className="text-lg font-semibold mb-4">🔬 Método de Recubrimiento (Lentes Transparentes)</h3>
+                <h3 className="text-lg font-semibold mb-4">🔬 Método de Revestimento (Lentes Transparentes)</h3>
                 <p className="text-gray-700 mb-3 leading-relaxed">
-                  Se aplica un recubrimiento antirreflejante multicapa a la superficie de la lente. Una
-                  de estas capas está específicamente ajustada para reflejar las longitudes de onda de
-                  luz azul (415-455nm) lejos del ojo. Puedes verlo funcionando — inclina la lente y
-                  notarás un leve reflejo azul-púrpura. Esa es la luz azul rebotando en vez de
-                  atravesar.
+                  Um revestimento antirreflexo multicamadas é aplicado à superfície da lente. Uma
+                  dessas camadas é especificamente ajustada para refletir os comprimentos de onda de
+                  luz azul (415-455nm) para longe do olho. Você pode ver funcionando — incline a lente e
+                  notará um leve reflexo azul-roxo. Essa é a luz azul ricocheteando em vez de
+                  atravessar.
                 </p>
-                <p className="text-sm text-gray-500">Mejor para: uso profesional, trabajo con color preciso</p>
+                <p className="text-sm text-gray-500">Melhor para: uso profissional, trabalho com cor precisa</p>
               </div>
               <div className="bg-white rounded-xl p-6 shadow-sm">
-                <h3 className="text-lg font-semibold mb-4">🧪 Método de Sustrato (Lentes Ámbar)</h3>
+                <h3 className="text-lg font-semibold mb-4">🧪 Método de Substrato (Lentes Âmbar)</h3>
                 <p className="text-gray-700 mb-3 leading-relaxed">
-                  El material bloqueador de azul se mezcla directamente en la resina de la lente durante
-                  la fabricação. Esto crea una lente que absorbe la luz azul en todo su espesor — no
-                  solo en la superficie. El resultado es un filtrado de luz azul más fuerte y un tinte
-                  ámbar visible. Como el filtrado está en el material de la lente mismo, no puede
-                  desgastarse ni rayarse.
+                  O material bloqueador de azul é misturado diretamente na resina da lente durante
+                  a fabricação. Isso cria uma lente que absorve luz azul em toda a sua espessura — não
+                  apenas na superfície. O resultado é uma filtragem de luz azul mais forte e um tom
+                  âmbar visível. Como a filtragem está no material da lente em si, não pode
+                  desgastar nem ser arranhada.
                 </p>
-                <p className="text-sm text-gray-500">Mejor para: gaming, tiempo de pantalla nocturno, máximo filtrado</p>
+                <p className="text-sm text-gray-500">Melhor para: gaming, tempo de tela noturno, filtragem máxima</p>
               </div>
             </div>
           </div>
@@ -238,56 +238,55 @@ export default function BlueLightPagePt() {
 
         {/* Market Stats */}
         <section className="bg-primary-50 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Los Números No Mienten</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Os Números Não Mentem</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-            <StatCard number="$4.5B" label="Mercado global para 2026" />
-            <StatCard number="12%" label="Tasa de crecimiento anual" />
-            <StatCard number="7hrs+" label="Tiempo de pantalla diario promedio" />
-            <StatCard number="65%" label="Adultos reportan fatiga visual" />
+            <StatCard number="$4,5B" label="Mercado global até 2026" />
+            <StatCard number="12%" label="Taxa de crescimento anual" />
+            <StatCard number="7h+" label="Tempo de tela diário médio" />
+            <StatCard number="65%" label="Adultos relatam fadiga visual" />
           </div>
           <p className="text-center text-sm text-gray-600 mt-6 max-w-2xl mx-auto">
-            Las óculos de luz azul no son una moda pasajera — el tiempo de pantalla solo va en aumento.
-            Trabajo remoto, aprendizaje en línea, gaming móvil, streaming... el mercado sigue creciendo
-            porque el problema sigue creciendo.
+            Óculos de luz azul não são modismo — o tempo de tela só vai aumentar.
+            Trabalho remoto, ensino online, gaming mobile, streaming... o mercado continua crescendo
+            porque o problema continua crescendo.
           </p>
         </section>
 
         {/* Who Buys These */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">¿Quién Compra Óculos de Luz Azul?</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Quem Compra Óculos de Luz Azul?</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            <TargetCard icon="👨‍💼" title="Oficinistas" desc="El segmento más grande. 8 horas de tiempo de pantalla por día, todos los dias." />
-            <TargetCard icon="🎮" title="Gamers" desc="Sesiones maratónicas de gaming. Las lentes ámbar son prácticamente equipo estándar ahora." />
-            <TargetCard icon="📱" title="Estudiantes" desc="Clases en línea, tareas en laptop, luego tiempo de teléfono. Pantallas sin parar." />
-            <TargetCard icon="👶" title="Crianças" desc="Tabletas para la escuela, YouTube después de la escuela. Los padres quieren proteção." />
+            <TargetCard icon="👨‍💼" title="Trabalhadores de Escritório" desc="O maior segmento. 8 horas de tempo de tela por dia, todos os dias." />
+            <TargetCard icon="🎮" title="Gamers" desc="Sessões maratona de gaming. Lentes âmbar são praticamente equipamento padrão agora." />
+            <TargetCard icon="📱" title="Estudantes" desc="Aulas online, lição de casa no notebook, depois tempo de celular. Telas sem parar." />
+            <TargetCard icon="👶" title="Crianças" desc="Tablets para escola, YouTube depois da escola. Pais querem proteção." />
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
-            <TargetCard icon="🏢" title="Regalos Corporativos" desc="Las empresas compran 50-1000 pares para programas de bienestar laboral." />
-            <TargetCard icon="🎓" title="Escuelas" desc="Laboratorios de computación adoptando óculos de luz azul para estudiantes." />
-            <TargetCard icon="💻" title="Trabajadores Remotos" desc="Esenciales para la oficina en casa. Gran crecimiento post-2020." />
-            <TargetCard icon="📖" title="Lectores" desc="Usuarios de e-readers y tabletas que leen por horas en la noche." />
+            <TargetCard icon="🏢" title="Brindes Corporativos" desc="Empresas compram 50-1000 pares para programas de bem-estar dos funcionários." />
+            <TargetCard icon="🎓" title="Escolas" desc="Laboratórios de informática adotando óculos de luz azul para alunos." />
+            <TargetCard icon="💻" title="Trabalhadores Remotos" desc="Essenciais para o home office. Grande crescimento pós-2020." />
+            <TargetCard icon="📖" title="Leitores" desc="Usuários de e-readers e tablets que leem por horas à noite." />
           </div>
         </section>
 
         {/* Prescription Option */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-6">Opción Lista para Prescripción</h2>
+          <h2 className="text-3xl font-bold text-center mb-6">Opção Pronta para Prescrição</h2>
           <div className="max-w-3xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
-              Aquí hay una gran oportunidad que la mayoría de los compradores no atacado pasan por alto:
-              óculos de luz azul con prescripción. Aproximadamente el 75% de los adultos necesitan alguna
-              forma de corrección visual. Eso significa que el 75% de los clientes potenciales de luz
-              azul também necesitan lentes con prescripción. Fabricamos todos nossos armações de
-              luz azul listos para Rx — los enviamos con lentes de demostración para que las ópticas
-              puedan instalar prescripciones personalizadas. Monofocal, bifocal, progresivo — todos
-              compatibles.
+              Aqui está uma grande oportunidade que a maioria dos compradores no atacado perde:
+              óculos de luz azul com prescrição. Aproximadamente 75% dos adultos precisam de alguma
+              forma de correção visual. Isso significa que 75% dos clientes potenciais de luz
+              azul também precisam de lentes com prescrição. Fabricamos todas as nossas armações de
+              luz azul prontas para Rx — enviamos com lentes de demonstração para que as óticas
+              possam instalar prescrições personalizadas. Monofocal, bifocal, progressivo — todos
+              compatíveis.
             </p>
             <p>
-              El margen en las óculos de luz azul con prescripción es incluso mejor que las planas (sin
-              prescripción). Una óptica puede cobrar $80-150 por un par de óculos de luz azul con
-              prescripción que les cuesta $8-12 no atacado por el armação. Agrega una lente con
-              prescripción de $15-25 de su laboratorio, y están viendo márgenes de 3-5x. Es una
-              excelente venta adicional para cualquier óptica que ya tenga nossos armações.
+              A margem em óculos de luz azul com prescrição é ainda melhor que os sem grau. Uma ótica pode cobrar $80-150 por um par de óculos de luz azul com
+              prescrição que custa $8-12 no atacado pela armação. Adicione uma lente com
+              prescrição de $15-25 do laboratório, e estão olhando para margens de 3-5x. É uma
+              excelente venda adicional para qualquer ótica que já tenha nossas armações.
             </p>
           </div>
         </section>
@@ -298,65 +297,65 @@ export default function BlueLightPagePt() {
           <div className="grid md:grid-cols-3 gap-6">
             <Link href="/pt/produtos/redondo" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">⭕</div>
-              <h3 className="font-semibold mb-2">Redondos con Luz Azul</h3>
-              <p className="text-sm text-gray-600">Armações redondos vintage con lentes de luz azul</p>
+              <h3 className="font-semibold mb-2">Redondos com Luz Azul</h3>
+              <p className="text-sm text-gray-600">Armações redondas vintage com lentes de luz azul</p>
             </Link>
             <Link href="/pt/produtos/infantil" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">👶</div>
-              <h3 className="font-semibold mb-2">Óculos para Crianças</h3>
-              <p className="text-sm text-gray-600">Coleção completa de óculos infantiles con proteção UV</p>
+              <h3 className="font-semibold mb-2">Óculos Infantis</h3>
+              <p className="text-sm text-gray-600">Coleção completa de óculos infantis com proteção UV</p>
             </Link>
             <Link href="/pt/produtos/olho-de-gato" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">😎</div>
-              <h3 className="font-semibold mb-2">Olho de Gato con Luz Azul</h3>
-              <p className="text-sm text-gray-600">Armações olho de gato de moda con proteção de pantalla</p>
+              <h3 className="font-semibold mb-2">Olho de Gato com Luz Azul</h3>
+              <p className="text-sm text-gray-600">Armações olho de gato fashion com proteção de tela</p>
             </Link>
           </div>
         </section>
 
         {/* FAQ */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Preguntas sobre Luz Azul — Sin Tecnicismos</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Perguntas sobre Luz Azul — Sem Jargão</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
-              question="¿Las óculos de luz azul realmente funcionan?"
-              answer="Aquí va la respuesta honesta: la ciencia aún debate si la luz azul en sí causa daño ocular a largo plazo. Lo que SÍ está bien documentado es que el uso prolongado de pantallas causa fatiga visual digital — ojos secos, dolores de cabeza, visión borrosa. Muchos usuarios reportan alivio genuino al usar óculos de luz azul. El beneficio para el sueño tiene evidencia más fuerte — la luz azul suprime la melatonina, y filtrarla por la noche puede ayudarte a dormirte más rápido. No hacemos afirmaciones médicas. Dejamos que los clientes las prueben y decidan por sí mismos. La tasa de recompra habla por sí sola."
+              question="Óculos de luz azul realmente funcionam?"
+              answer="Aqui vai a resposta honesta: a ciência ainda debate se a luz azul em si causa dano ocular a longo prazo. O que ESTÁ bem documentado é que o uso prolongado de telas causa fadiga visual digital — olhos secos, dores de cabeça, visão embaçada. Muitos usuários relatam alívio genuíno ao usar óculos de luz azul. O benefício para o sono tem evidências mais fortes — a luz azul suprime a melatonina, e filtrá-la à noite pode ajudá-lo a pegar no sono mais rápido. Não fazemos declarações médicas. Deixamos os clientes experimentar e decidir por si mesmos. A taxa de recompra fala por si."
             />
             <FaqItem
-              question="Lentes transparentes o ámbar — ¿qué debería tener en stock?"
-              answer="Ambas, idealmente. Pero si solo puedes elegir una, ve por transparentes. Las lentes transparentes representan aproximadamente el 70% de nossos pedidos de luz azul porque parecen óculos normales y no alteran los colores. Las lentes ámbar son las favoritas de los gamers (filtrado más fuerte, contraste mejorado) y se venden bien en tiendas de gaming y para usuarios de pantalla nocturnos. Consejo profesional: ten transparentes para retail general, ámbar para audiencias gaming/tech."
+              question="Lentes transparentes ou âmbar — o que devo ter em estoque?"
+              answer="Ambas, idealmente. Mas se só puder escolher uma, vá de transparentes. As lentes transparentes representam aproximadamente 70% dos nossos pedidos de luz azul porque parecem óculos normais e não alteram as cores. As lentes âmbar são as favoritas dos gamers (filtragem mais forte, contraste aprimorado) e vendem bem em lojas de gaming e para usuários de tela noturnos. Dica profissional: tenha transparentes para varejo geral, âmbar para públicos gamer/tech."
             />
             <FaqItem
-              question="¿Cuánta luz azul bloquean realmente?"
-              answer="Las lentes transparentes bloquean 30-40% de la luz azul en el rango de 415-455nm (las longitudes de onda potencialmente más dañinas). Las lentes ámbar bloquean 60-90% dependiendo de la profundidad del tinte. Proporcionamos informes de transmisión espectral con pedidos a granel para que puedas mostrar a los clientes exactamente lo que están obteniendo. Sin afirmaciones vagas de 'bloquea luz azul' — números reales, datos de prueba reales."
+              question="Quanta luz azul eles realmente bloqueiam?"
+              answer="As lentes transparentes bloqueiam 30-40% da luz azul na faixa de 415-455nm (os comprimentos de onda potencialmente mais prejudiciais). As lentes âmbar bloqueiam 60-90% dependendo da profundidade do tom. Fornecemos relatórios de transmissão espectral com pedidos em grandes quantidades para que você possa mostrar aos clientes exatamente o que estão recebendo. Sem declarações vagas de 'bloqueia luz azul' — números reais, dados de teste reais."
             />
             <FaqItem
-              question="¿Se pueden combinar con lentes de prescripción?"
-              answer="Absolutamente — ¡y deberías! Aproximadamente el 75% de los adultos necesitan corrección visual, así que los armações de luz azul listos para Rx son un mercado enorme. Todos nossos armações se envían con lentes de demostración que las ópticas pueden reemplazar con lentes de luz azul con prescripción. Funciona con monofocal, bifocal y progresivo. El margen en óculos de luz azul con prescripción es sobresaliente — $80-150 al detalle en un armação de $10 no atacado."
+              question="Podem ser combinados com lentes de prescrição?"
+              answer="Com certeza — e você deveria! Aproximadamente 75% dos adultos precisam de correção visual, então armações de luz azul prontas para Rx são um mercado enorme. Todas as nossas armações são enviadas com lentes de demonstração que as óticas podem substituir por lentes de luz azul com prescrição. Funciona com monofocal, bifocal e progressivo. A margem em óculos de luz azul com prescrição é excepcional — $80-150 no varejo em uma armação de $10 no atacado."
             />
             <FaqItem
-              question="¿Cuál es la mejor manera de vender óculos de luz azul?"
-              answer="La demostración definitiva: pon un par a tu cliente y haz que mire su teléfono durante 30 segundos. Luego quítaselas. La mayoría de la gente nota inmediatamente la diferencia — la pantalla se ve más dura sin ellas. Ese momento de 'ahá' cierra la venta. Para tiendas en línea, enfócate en el problema (dolores de cabeza, ojos secos, mal sueño) y la solución. Los programas de regalos corporativos também son masivos — las empresas compran cientos de pares para bienestar laboral. Podemos personalizar con logotipos de empresa."
+              question="Qual a melhor forma de vender óculos de luz azul?"
+              answer="A demonstração matadora: coloque um par no seu cliente e peça para olhar o celular por 30 segundos. Depois tire. A maioria das pessoas nota a diferença imediatamente — a tela parece mais dura sem eles. Esse momento de 'ahá' fecha a venda. Para lojas online, foque no problema (dores de cabeça, olhos secos, sono ruim) e na solução. Programas de brindes corporativos também são enormes — empresas compram centenas de pares para bem-estar dos funcionários. Podemos personalizar com logos de empresas."
             />
             <FaqItem
-              question="¿Cuál es el MOQ y tiempo de entrega?"
-              answer="100 peças por estilo y color. Artículos en stock se envían en 3-5 dias. Pedidos personalizados con tu logotipo y branding toman 15-25 dias. Também hacemos embalagems de regalo corporativo — cajas personalizadas con el nombre de tu empresa, panos de microfibra con marca, todo incluido. Una startup de tecnología ordenó 500 pares en embalagem personalizado como regalos de bienvenida para nuevos empleados. Les costó aproximadamente $9 por par todo incluido. ¿Valor al detalle del regalo percibido? $30-40 fácilmente."
+              question="Qual o MOQ e prazo de entrega?"
+              answer="100 peças por estilo e cor. Itens em estoque enviam em 3-5 dias. Pedidos personalizados com seu logo e branding levam 15-25 dias. Também fazemos embalagem de brinde corporativo — caixas personalizadas com o nome da sua empresa, panos de microfibra com marca, o pacote completo. Uma startup de tecnologia encomendou 500 pares em embalagem personalizada como presentes de boas-vindas para novos funcionários. Custou aproximadamente $9 por par tudo incluso. Valor de varejo do presente percebido? $30-40 fácil."
             />
           </div>
         </section>
 
         {/* CTA */}
         <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
-          <h2 className="text-3xl font-bold mb-4">El Mercado que Sigue Creciendo</h2>
+          <h2 className="text-3xl font-bold mb-4">O Mercado que Continua Crescendo</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            El tiempo de pantalla no va a bajar. El trabajo remoto no se va a ir. El gaming solo
-            se hace más grande. Las óculos de luz azul son una de las apuestas más seguras en óculos
-            en este momento. Obtén amostras, pruébalas tú mismo, y descubre por qué esta categoría
-            convierte tan bien.
+            O tempo de tela não vai diminuir. O trabalho remoto não vai embora. O gaming só
+            fica maior. Óculos de luz azul são uma das apostas mais seguras em óculos
+            neste momento. Peça amostras, teste você mesmo, e veja por que essa categoria
+            converte tão bem.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/pt/contato" className="btn-primary">Obter Catálogo de Luz Azul</Link>
-            <Link href="/pt/produtos" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors">Ver Todos los Produtos</Link>
+            <Link href="/pt/produtos" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors">Ver Todos os Produtos</Link>
           </div>
         </section>
       </div>
@@ -377,33 +376,33 @@ export default function BlueLightPagePt() {
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "¿Las óculos de luz azul realmente funcionan?",
-            "acceptedAnswer": { "@type": "Answer", "text": "La ciencia sobre el daño a largo plazo de la luz azul aún se debate, pero el alivio de la fatiga visual digital está bien documentado. Muchos usuarios reportan menos fatiga ocular, menos dolores de cabeza y mejor sueño. El beneficio para el sueño tiene evidencia más fuerte — la luz azul suprime la produção de melatonina." }
+            "name": "Óculos de luz azul realmente funcionam?",
+            "acceptedAnswer": { "@type": "Answer", "text": "A ciência sobre dano a longo prazo pela luz azul ainda é debatida, mas o alívio da fadiga visual digital é bem documentado. Muitos usuários relatam menos fadiga ocular, menos dores de cabeça e melhor sono. O benefício para o sono tem evidências mais fortes — a luz azul suprime a produção de melatonina." }
           },
           {
             "@type": "Question",
-            "name": "Lentes transparentes o ámbar — ¿qué debería tener en stock?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Ambas idealmente, pero las lentes transparentes representan el 70% de los pedidos. Parecen óculos normales y no alteran los colores. Las lentes ámbar son populares entre gamers por su filtrado más fuerte y contraste mejorado." }
+            "name": "Lentes transparentes ou âmbar — o que devo ter em estoque?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Ambas idealmente, mas as lentes transparentes representam 70% dos pedidos. Parecem óculos normais e não alteram as cores. As lentes âmbar são populares entre gamers pela filtragem mais forte e contraste aprimorado." }
           },
           {
             "@type": "Question",
-            "name": "¿Cuánta luz azul bloquean estas óculos?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Las lentes transparentes bloquean 30-40% de la luz azul en el rango de 415-455nm. Las lentes ámbar bloquean 60-90% dependiendo de la profundidad del tinte. Proporcionamos informes de transmisión espectral con pedidos a granel." }
+            "name": "Quanta luz azul esses óculos bloqueiam?",
+            "acceptedAnswer": { "@type": "Answer", "text": "As lentes transparentes bloqueiam 30-40% da luz azul na faixa de 415-455nm. As lentes âmbar bloqueiam 60-90% dependendo da profundidade do tom. Fornecemos relatórios de transmissão espectral com pedidos em grandes quantidades." }
           },
           {
             "@type": "Question",
-            "name": "¿Se pueden combinar las óculos de luz azul con lentes de prescripción?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Sí — todos los armações se envían listos para Rx con lentes de demostración. Aproximadamente el 75% de los adultos necesitan corrección visual, haciendo de las óculos de luz azul con prescripción un mercado enorme con márgenes sobresalientes." }
+            "name": "Óculos de luz azul podem ser combinados com lentes de prescrição?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Sim — todas as armações são enviadas prontas para Rx com lentes de demonstração. Aproximadamente 75% dos adultos precisam de correção visual, tornando óculos de luz azul com prescrição um mercado enorme com margens excepcionais." }
           },
           {
             "@type": "Question",
-            "name": "¿Cuál es la mejor manera de vender óculos de luz azul?",
-            "acceptedAnswer": { "@type": "Answer", "text": "La demostración definitiva: haz que los clientes miren su teléfono con las óculos puestas, luego sin ellas. La diferencia se nota inmediatamente. Para tiendas en línea, enfócate en el problema (dolores de cabeza, ojos secos, mal sueño). Los programas de regalos corporativos também son un canal masivo." }
+            "name": "Qual a melhor forma de vender óculos de luz azul?",
+            "acceptedAnswer": { "@type": "Answer", "text": "A demonstração matadora: peça aos clientes para olhar o celular com os óculos, depois sem. A diferença é notada imediatamente. Para lojas online, foque no problema (dores de cabeça, olhos secos, sono ruim). Programas de brindes corporativos também são um canal enorme." }
           },
           {
             "@type": "Question",
-            "name": "¿Cuál es el MOQ y tiempo de entrega?",
-            "acceptedAnswer": { "@type": "Answer", "text": "100 peças por estilo. Artículos en stock se envían en 3-5 dias. Pedidos personalizados con logotipo y branding toman 15-25 dias. Embalagem de regalo corporativo disponível." }
+            "name": "Qual o MOQ e prazo de entrega?",
+            "acceptedAnswer": { "@type": "Answer", "text": "100 peças por estilo. Itens em estoque enviam em 3-5 dias. Pedidos personalizados com logo e branding levam 15-25 dias. Embalagem de brinde corporativo disponível." }
           }
         ]
       })}} />

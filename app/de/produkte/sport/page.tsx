@@ -16,56 +16,56 @@ export const metadata: Metadata = {
 
 const sportCategories = [
   {
-    name: 'Brillen de Ciclismo',
+    name: 'Radsport-Sonnenbrillen',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$10.00 - $15.00',
     moq: '100 Stk.',
-    description: 'Vas a 40 km/h en un descenso. Un insecto te golpea el ojo. Se acabó. Por eso todo ciclista serio necesita Brillen adecuadas — no unas Brillen de moda de una gasolinera. Nuestras Brillen de ciclismo envuelven la cara para bloquear viento, polvo e insectos ab todos los ángulos. El sistema de Gläser intercambiables permite cambiar entre Gläser transparentes para salidas al amanecer, amarillas para días nublados y tintes oscuros para el mediodía. ¿Y las almohadillas de goma antideslizante? Realmente se agarran más fuerte cuando sudas. Se acabó empujar las Brillen hacia arriba en plena subida.',
-    features: ['Design aerodinámico envolvente', 'Sistema de 3 Gläser intercambiables', 'Almohadillas de goma activadas por sudor', 'Fassung ventilada antivaho'],
+    description: 'Sie fahren 40 km/h bergab. Ein Insekt trifft Ihr Auge. Aus und vorbei. Deshalb braucht jeder ernsthafte Radfahrer eine vernünftige Brille — keine Modebrillen von der Tankstelle. Unsere Radsport-Sonnenbrillen umschließen das Gesicht und blocken Wind, Staub und Insekten aus jedem Winkel. Das Wechselglas-System ermöglicht den Tausch zwischen klaren Gläsern für Morgenfahrten, gelben für bewölkte Tage und dunklen Tönungen für die Mittagshitze. Und die Anti-Rutsch-Gummipads? Die greifen tatsächlich fester, wenn Sie schwitzen. Kein Brillen-Hochschieben mehr mitten im Anstieg.',
+    features: ['Aerodynamisches Wraparound-Design', 'Wechselbares 3-Gläser-System', 'Schweiß-aktivierte Gummipads', 'Belüftete Anti-Beschlag-Fassung'],
   },
   {
-    name: 'Brillen de Running',
+    name: 'Lauf-Sonnenbrillen',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$9.50 - $14.00',
     moq: '100 Stk.',
-    description: 'Aquí va lo importante sobre las Brillen de running — si las sientes en la cara, son las equivocadas. Nuestras Fassungs para correr pesan menos de 25 gramos. Eso es más leicht que una pila AA. Los maratonistas las llevan durante más de 4 horas sin siquiera notarlas. La Fassung flexibel TR90 absorbe el rebote constante al correr, y las Gläser anchas te dan visión periférica completa para detectar ese bache o ese perro suelto antes de que sea demasiado tarde. Hemos tenido dueños de clubes de running que han Bestellung más de 500 pares de una vez para equipos completos.',
-    features: ['Menos de 25g — más ligeras que una pila', 'Almohadillas hidrofílicas antideslizantes', 'Visión periférica completa', 'Fassung flexibel que absorbe impactos'],
+    description: 'Die Sache mit Lauf-Sonnenbrillen ist — wenn Sie sie im Gesicht spüren, sind sie falsch. Unsere Lauffassungen wiegen unter 25 Gramm. Das ist leichter als eine AA-Batterie. Marathonläufer tragen sie über 4 Stunden, ohne es zu bemerken. Die flexible TR90-Fassung absorbiert das ständige Auf und Ab beim Laufen, und die breiten Gläser geben Ihnen volles peripheres Sehen, damit Sie das Schlagloch oder den freilaufenden Hund rechtzeitig sehen. Laufclub-Besitzer bestellen regelmäßig über 500 Paar für Team-Ausstattungen.',
+    features: ['Unter 25g — leichter als eine Batterie', 'Hydrophile Schweiß-Grip-Pads', 'Volles peripheres Sehen', 'Stoßabsorbierende flexible Fassung'],
   },
   {
-    name: 'Brillen de Pesca',
+    name: 'Angel-Sonnenbrillen',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$11.00 - $16.00',
     moq: '100 Stk.',
-    description: 'Imagina esto — estás en el lago a las 6 de la mañana, el sol rebota en el agua y no puedes ver tu línea. Todo pescador conoce ese brillo cegador. Nuestras Brillen de pesca lo eliminan por completo. Las Gläser polarisierts eliminan el reflejo de la superficie para que puedas ver dentro del agua — localizar los peces, leer la estructura, observar tu señuelo. Los tintes ámbar y cobre mejoran el contraste tanto en agua dulce como salada. Un guía de pesca en Florida nos dijo que estas Brillen "se pagaron solas en la primera salida." También ofrecemos opciones de Fassung flotante porque, seamos honestos, las Sonnenbrillen y los barcos no siempre se llevan bien.',
-    features: ['Gläser polarisierts anti-reflejo', 'Tintes ámbar/cobre de Höhe contraste', 'Opción de Fassung flotante disponible', 'Scharniere beständigs al agua salada'],
+    description: 'Stellen Sie sich vor — Sie sind um 6 Uhr morgens auf dem See, die Sonne reflektiert auf dem Wasser und Sie können Ihre Schnur nicht sehen. Jeder Angler kennt diese blendende Spiegelung. Unsere Angel-Sonnenbrillen schneiden direkt durch. Die polarisierten Gläser entfernen die Oberflächenreflexion, sodass Sie tatsächlich ins Wasser sehen können — Fische erkennen, Strukturen lesen, den Köder beobachten. Bernstein- und Kupfertönungen verstärken den Kontrast in Süß- und Salzwasser. Ein Angelführer in Florida sagte uns, diese Brillen „haben sich bei der ersten Charter bezahlt gemacht." Wir bieten auch schwimmende Fassungsoptionen an, denn seien wir ehrlich — Sonnenbrillen und Boote vertragen sich nicht immer gut.',
+    features: ['Polarisierte Blendschutz-Gläser', 'Bernstein/Kupfer Kontrast-Tönungen', 'Schwimmende Fassungsoption verfügbar', 'Salzwasserresistente Scharniere'],
   },
   {
-    name: 'Brillen de Golf',
+    name: 'Golf-Sonnenbrillen',
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$10.50 - $15.50',
     moq: '100 Stk.',
-    description: 'El golf es un juego de centímetros, y no puedes jugar centímetros si no ves la bola. Nuestras Brillen de golf usan tintes de Glas rosa y ámbar que hacen que una bola blanca destaque contra un fairway verde. ¿Seguir el vuelo de la bola contra un cielo brillante? Fácil. ¿Leer la caída en un green soleado? Mucho más claro. La Fassung es tan ligera que te olvidarás de que las llevas puestas en pleno swing — que es exactamente el objetivo. Suministramos a varias tiendas pro de resorts de golf en todo el sudeste asiático, y los comentarios son siempre los mismos: "Los jugadores realmente quieren comprarlas después de probárselas."',
-    features: ['Gläser rosa/ámbar para seguir la bola', 'Ajuste ultraleicht para el swing', 'Protección lateral de sol en las Bügels', 'Probadas y aprobadas en tiendas pro'],
+    description: 'Golf ist ein Spiel der Zentimeter, und Sie können keine Zentimeter spielen, wenn Sie den Ball nicht sehen. Unsere Golf-Sonnenbrillen verwenden Rosé- und Bernstein-Glastönungen, die einen weißen Ball vor grünem Fairway hervorstechen lassen. Den Ballflug vor hellem Himmel verfolgen? Leicht. Den Break auf einem sonnenbeschienenen Grün lesen? Viel klarer. Die Fassung ist so leicht, dass Sie sie beim Schwung vergessen — genau das ist der Punkt. Wir beliefern mehrere Golf-Resort-Pro-Shops in Südostasien, und das Feedback ist immer dasselbe: „Spieler wollen sie tatsächlich kaufen, nachdem sie sie probiert haben."',
+    features: ['Rosé/Bernstein Ball-Tracking-Gläser', 'Federleichter schwungfreundlicher Sitz', 'Breiter Bügel-Sonnenschutz', 'Im Pro-Shop getestet und bewährt'],
   },
   {
-    name: 'Brillen de Esquí y Snowboard',
+    name: 'Ski- & Snowboard-Sonnenbrillen',
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$12.00 - $17.00',
     moq: '100 Stk.',
-    description: '¿Sabías que los niveles de UV aumentan un 10% por cada 1.000 metros de altitud? En la cima de una pista de esquí, tus ojos están recibiendo una paliza. La ceguera de nieve es real — y dolorosa. Nuestras Brillen de esquí usan Gläser oscuras de Categoría 3-4 que bloquean el 92-97% de la luz visible. El Design envolvente y ajustado mantiene el viento y la nieve fuera de tus ojos, mientras que los canales de ventilación antivaho evitan ese molesto empañamiento cuando respiras fuerte en un descenso de baches. Las puntas de las Bügels compatibles con casco significan cero puntos de presión bajo el casco. Una tienda de alquiler de esquí en Hokkaido nos pide 2.000 pares cada temporada.',
-    features: ['Protección Cat 3-4 contra ceguera de nieve', 'Canales de ventilación antivaho', 'Ajuste cerrado contra el viento', 'Design compatible con casco'],
+    description: 'Wussten Sie, dass UV-Werte um 10% pro 1.000 Höhenmeter steigen? Oben an der Skipiste werden Ihre Augen regelrecht bombardiert. Schneeblindheit ist real — und schmerzhaft. Unsere Ski-Sonnenbrillen verwenden Kategorie 3-4 dunkle Gläser, die 92-97% des sichtbaren Lichts blockieren. Das enganliegende Wraparound-Design hält Wind und Schnee von Ihren Augen fern, während Anti-Beschlag-Belüftungskanäle das nervige Beschlagen verhindern, wenn Sie auf der Buckelpiste hart atmen. Helmkompatible Bügelspitzen bedeuten keine Druckstellen unter dem Helm. Ein Skiverleih in Hokkaido bestellt jede Saison 2.000 Paar bei uns.',
+    features: ['Kat. 3-4 Schneeblindheitsschutz', 'Anti-Beschlag-Belüftungskanäle', 'Windblockierender enger Sitz', 'Helmkompatibles Design'],
   },
   {
-    name: 'Brillen de Béisbol',
+    name: 'Baseball-Sonnenbrillen',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$10.00 - $15.00',
     moq: '100 Stk.',
-    description: 'Un jardinero mirando al sol en un fly ball — ese instante de ceguera puede costar el partido. Nuestras Brillen de béisbol están hechas exactamente para ese momento. Las Gläser polarisierts ámbar destacan una bola blanca contra el cielo azul como nada más. Y estas no son Fassungs frágiles — cumplen los estándares de impacto ASTM F803, lo que significa que pueden aguantar un línea directa a la cara. El Design envolvente sicher se mantiene fijo durante atrapadas en plancha y deslizamientos de cabeza. Hemos suministrado a equipos de Little League, programas universitarios y ligas recreativas en 12 países.',
-    features: ['Protección de impacto ASTM F803', 'Polarisiert ámbar para seguir la bola', 'Ajuste envolvente antideslizante', 'Glas de policarbonato irrompible'],
+    description: 'Ein Außenfeldspieler, der in die Sonne starrt bei einem Fly Ball — dieser Sekundenbruchteil der Blindheit kann das Spiel kosten. Unsere Baseball-Sonnenbrillen sind genau für diesen Moment gebaut. Die bernsteinfarbenen polarisierten Gläser schärfen einen weißen Ball vor blauem Himmel wie nichts anderes. Und das sind keine dünnen Fassungen — sie erfüllen ASTM F803 Stoßfestigkeitsstandards, können also einen Line Drive ins Gesicht verkraften. Das sichere Wraparound bleibt bei Hechtfängen und Kopfvoran-Slides an Ort und Stelle. Wir haben Little-League-Teams, College-Programme und Freizeitligen in 12 Ländern beliefert.',
+    features: ['ASTM F803 Aufprallschutz', 'Bernstein-polarisiertes Ball-Tracking', 'Sicherer rutschfester Wraparound', 'Splitterfestes Polycarbonat-Glas'],
   },
 ]
 
-export default function SportPageDe() {
+export default function SportPage() {
   return (
     <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -75,19 +75,19 @@ export default function SportPageDe() {
           <span className="mx-2">/</span>
           <Link href="/de/produkte" className="hover:text-primary-600">Produkte</Link>
           <span className="mx-2">/</span>
-          <span className="text-gray-900">Sonnenbrillen Deportivas</span>
+          <span className="text-gray-900">Sport-Sonnenbrillen</span>
         </nav>
 
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Sonnenbrillen Deportivas im Großhandel
+            Sport-Sonnenbrillen Großhandel
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Diseñadas para atletas que realmente necesitan que sus Sonnenbrillen rindan — no solo que se vean bien.
-            Gläser polarisierts TAC, Fassungs ultraligeras TR90 y Designs envolventes que se mantienen en su sitio
-            cuando estás dando el máximo. Ab clubes de ciclismo hasta chárteres de pesca, suministramos las
-            Brillen que trabajan tan duro como la gente que las lleva.
+            Gebaut für Athleten, die ihre Sonnenbrillen wirklich brauchen — nicht nur gut aussehen
+            wollen. Polarisierte TAC-Gläser, federleichte TR90-Fassungen und Wraparound-Designs,
+            die bei Höchstleistung an Ort und Stelle bleiben. Von Radsportclubs bis zu Angel-Chartern
+            liefern wir die Brillen, die genauso hart arbeiten wie die Menschen, die sie tragen.
           </p>
         </div>
 
@@ -95,49 +95,52 @@ export default function SportPageDe() {
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
           <img loading="lazy"
             src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop"
-            alt="Colección de Sonnenbrillen Deportivas - Brillen Polarisierts para Ciclismo Running Pesca"
+            alt="Sport-Sonnenbrillen Kollektion - Polarisierte Sportbrillen für Radfahren Laufen Angeln"
             className="w-full h-96 object-cover"
           />
         </div>
 
         {/* Why Sport Sunglasses Matter */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-6">Por Qué las Brillen Baratas No Sirven para el Sport</h2>
+          <h2 className="text-3xl font-bold text-center mb-6">Warum billige Sonnenbrillen es für Sport nicht bringen</h2>
           <div className="max-w-4xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
-              Seamos directos: esas Brillen de $3 del mostrador de la caja se caerán de tu cara
-              en cuanto empieces a sudar. Se empañarán cuando respires fuerte. Rebotarán
-              con cada zancada. Y lo peor de todo — algunas ni siquiera bloquean los UV correctamente,
-              lo que significa que son en realidad <em>más peligrosas</em> que no llevar nada. (Las
-              Gläser oscuras sin UV-Schutz dilatan las pupilas, dejando entrar más radiación
-              dañina. Nada bueno.)
+              Seien wir direkt: Diese 3-€-Sonnenbrillen von der Kasse fallen Ihnen vom Gesicht,
+              sobald Sie anfangen zu schwitzen. Sie beschlagen beim harten Atmen. Sie hüpfen bei
+              jedem Schritt. Und das Schlimmste — manche blocken nicht einmal UV richtig, was
+              bedeutet, sie sind tatsächlich <em>gefährlicher</em> als gar keine Brille. (Dunkle
+              Gläser ohne UV-Schutz weiten die Pupillen und lassen mehr schädliche Strahlung ein.
+              Nicht gut.)
             </p>
             <p>
-              Las Brillen deportivas de verdad resuelven problemas que los atletas realmente tienen. ¿Deslumbramiento
-              en carreteras mojadas durante una salida matutina? Las Gläser polarisierts TAC lo eliminan. ¿Fassungs que
-              se rompen con un impacto? El nylon TR90 se dobla en vez de romperse — literalmente puedes torcerlas
-              90 grados y vuelven a su forma original. ¿Brillen que se deslizan por una nariz sudada? Las almohadillas
-              de goma hidrofílica se agarran <em>más fuerte</em> cuando están mojadas. Esto no es marketing. Es la diferencia
-              entre un equipo que te ayuda a rendir y un equipo que se interpone en tu camino. La <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">Organización Mundial de la Salud</a> recomienda
-              Brillen con UV-Schutz para cualquiera que pase tiempo prolongado al aire libre — y los atletas están en lo más Höhe de esa lista.
+              Echte Sport-Sonnenbrillen lösen Probleme, die Athleten tatsächlich haben. Blendung
+              von nassen Straßen bei der Morgenfahrt? Polarisierte TAC-Gläser eliminieren sie.
+              Fassungen, die bei Aufprall splittern? TR90-Nylon biegt sich, statt zu brechen —
+              Sie können sie buchstäblich 90 Grad verdrehen und sie springen zurück. Brillen,
+              die eine verschwitzte Nase hinunterrutschen? Hydrophile Gummipads greifen
+              <em> fester</em>, wenn sie nass sind. Das sind keine Spielereien. Es ist der
+              Unterschied zwischen Ausrüstung, die Leistung unterstützt, und Ausrüstung, die
+              im Weg steht. Die <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">Weltgesundheitsorganisation</a> empfiehlt
+              UV-schützende Brillen für jeden, der längere Zeit im Freien verbringt — und Athleten
+              stehen ganz oben auf dieser Liste.
             </p>
             <p>
-              Llevamos más de 8 años fabricando Sonnenbrillen deportivas, enviando a minoristas outdoor,
-              equipos Sports, cadenas de gimnasios y empresas promocionales en más de 50 países.
-              Ya sea que necesites 100 pares para un equipo de ciclismo o 10.000 para un lanzamiento retail,
-              te cubrimos — y también les ponemos tu logo.
+              Wir fertigen Sport-Sonnenbrillen seit über 8 Jahren und liefern an Outdoor-Händler,
+              Sportteams, Fitnessstudio-Ketten und Werbeartikel-Unternehmen in über 50 Ländern.
+              Ob Sie 100 Paar für ein Radsportteam oder 10.000 für einen Retail-Launch brauchen —
+              wir haben Sie abgedeckt, und wir bringen auch Ihr Logo drauf.
             </p>
           </div>
         </section>
 
         {/* Hero Image */}
         <div className="mb-12">
-          <img src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop" alt="Sonnenbrillen Deportivas im Großhandel" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
+          <img src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop" alt="Sport-Sonnenbrillen Großhandel" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
         </div>
 
-        {/* Products with Unique Descriptions */}
+        {/* Products */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-10">Brillen Deportivas por Actividad</h2>
+          <h2 className="text-3xl font-bold text-center mb-10">Sport-Sonnenbrillen nach Aktivität</h2>
           <div className="space-y-12">
             {sportCategories.map((product, index) => (
               <div key={index} className={`flex flex-col ${index % 2 === 0 ? 'md:flex-row' : 'md:flex-row-reverse'} gap-8 items-center`}>
@@ -145,7 +148,7 @@ export default function SportPageDe() {
                   <div className="rounded-2xl overflow-hidden shadow-lg">
                     <img loading="lazy"
                       src={product.image}
-                      alt={`${product.name} im Großhandel - EyeView`}
+                      alt={`${product.name} Großhandel - EyeView`}
                       className="w-full h-72 object-cover"
                     />
                   </div>
@@ -176,41 +179,43 @@ export default function SportPageDe() {
 
         {/* Materials & Technology */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">La Tecnología Detrás de la Resistencia</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Die Technik hinter der Robustheit</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div>
-              <h3 className="text-xl font-semibold mb-4">🔬 Fassungs TR90 — Dóblalas, No Se Rompen</h3>
+              <h3 className="text-xl font-semibold mb-4">🔬 TR90-Fassungen — Biegen, ohne zu brechen</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
-                TR90 es un nylon termoplástico desarrollado originalmente en Suiza. Es la misma
-                familia de Materiales usados en equipamiento Sport de alta gama. ¿Qué lo hace especial? Es
-                un 35% más leicht que las Fassungs de plástico normales — la mayoría de nuestras Fassungs deportivas pesan
-                entre 22-28 gramos. Puedes doblar una Fassung TR90 90 grados y vuelve a su forma original. Intenta
-                eso con un par barato del mercado. También es hipoalergénico, así que nada de Markes rojas con picor
-                después de una salida larga. Funciona perfectamente en condiciones de esquí bajo cero (-40°C) y no se
-                deforma en un coche caliente (hasta 120°C).
+                TR90 ist ein thermoplastisches Nylon, das ursprünglich in der Schweiz entwickelt
+                wurde. Es gehört zur gleichen Materialfamilie wie Hochleistungs-Sportgeräte. Was
+                es besonders macht? Es ist 35% leichter als normale Kunststofffassungen — die
+                meisten unserer Sportfassungen wiegen zwischen 22-28 Gramm. Sie können eine
+                TR90-Fassung 90 Grad biegen und sie springt sofort zurück. Versuchen Sie das mal
+                mit einem Billigpaar vom Markt. Zudem hypoallergen — also keine juckenden roten
+                Stellen nach einer langen Fahrt. Funktioniert bei eisigen Skibedingungen (-40°C)
+                und verformt sich nicht im heißen Auto (bis 120°C).
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>35% más leicht que el plástico estándar</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Soporta doblado de 90° — sin rotura</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Resiste de -40°C a 120°C</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Hipoalergénico y libre de BPA</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>35% leichter als Standardkunststoff</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Übersteht 90°-Biegung — kein Bruch</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Hält -40°C bis 120°C aus</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Hypoallergen & BPA-frei</li>
               </ul>
             </div>
             <div>
-              <h3 className="text-xl font-semibold mb-4">🛡️ Gläser Polarisierts TAC — 7 Capas de Impresionante</h3>
+              <h3 className="text-xl font-semibold mb-4">🛡️ TAC-Polarisationsgläser — 7 Schichten &quot;Wow&quot;</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Nuestras Gläser TAC no son simplemente un trozo de plástico tintado. Son un sándwich de 7 capas:
-                recubrimiento duro en el exterior para resistencia a rayaduras, capas de Material TAC para resistencia
-                estructural, una película polarizante en el centro que elimina el 99% del deslumbramiento, y recubrimiento
-                UV debajo que bloquea todo hasta 400nm. ¿El resultado? Te las pones y el mundo simplemente... se aclara.
-                El deslumbramiento de la carretera desaparece. El reflejo del agua se esfuma. Los Farbees se ven más ricos.
-                Es el tipo de diferencia que hace que la gente diga &quot;ya no puedo volver a las Gläser normales.&quot;
+                Unsere TAC-Gläser sind nicht einfach ein getöntes Stück Plastik. Sie sind ein
+                7-Schicht-Sandwich: Hartbeschichtung außen für Kratzfestigkeit, TAC-Materialschichten
+                für strukturelle Stärke, eine Polarisationsfolie im Zentrum, die 99% der Blendung
+                eliminiert, und UV-Beschichtung darunter, die alles bis 400nm blockiert. Das Ergebnis?
+                Sie setzen sie auf und die Welt wird einfach... klar. Straßenblendung verschwindet.
+                Wasserreflexion löst sich auf. Farben wirken satter. Es ist die Art Unterschied, die
+                Leute sagen lässt: &quot;Ich kann nie wieder normale Gläser tragen.&quot;
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Construcción polarisiert de 7 capas</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>99% del deslumbramiento horizontal eliminado</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>UV-Schutz400 completa</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Opción de policarbonato beständig a impactos</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>7-Schicht-Polarisationskonstruktion</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>99% horizontale Blendung eliminiert</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Vollständiger UV400-Schutz</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Stoßfeste Polycarbonat-Option</li>
               </ul>
             </div>
           </div>
@@ -218,39 +223,39 @@ export default function SportPageDe() {
 
         {/* Key Features */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Lo Que las Hace Diferentes</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Was diese Brillen auszeichnet</h2>
           <div className="grid md:grid-cols-4 gap-6">
-            <FeatureCard icon="🏃" title="Increíblemente Ligeras" description="Menos de 28g. Te olvidarás de que las llevas puestas — hasta que alguien te pregunte dónde las conseguiste." />
-            <FeatureCard icon="🛡️" title="Beständigs al Impacto" description="Gläser de policarbonato que cumplen ANSI Z87.1. Una piedra no arruinará tu salida." />
-            <FeatureCard icon="💧" title="Sin Vaho, Nunca" description="Canales ventilados mantienen el aire en movimiento. Sube una cuesta esprintando — las Gläser se mantienen claras." />
-            <FeatureCard icon="☀️" title="UV400 Real" description="Probado en laboratorio, certificado. Bloquea el 100% de UVA/UVB/UVC. No es solo una pegatina." />
+            <FeatureCard icon="🏃" title="Unfassbar leicht" description="Unter 28g. Sie vergessen, dass sie auf Ihrer Nase sitzen — bis jemand fragt, wo Sie die herhaben." />
+            <FeatureCard icon="🛡️" title="Stoßfest" description="Polycarbonat-Gläser nach ANSI Z87.1. Ein Steinschlag ruiniert nicht Ihre Fahrt." />
+            <FeatureCard icon="💧" title="Nie beschlagen" description="Belüftungskanäle halten die Luft in Bewegung. Sprinten Sie den Berg hoch — Gläser bleiben klar." />
+            <FeatureCard icon="☀️" title="Echtes UV400" description="Laborgeprüft, zertifiziert. Blockiert 100% UVA/UVB/UVC. Nicht nur ein Aufkleber." />
           </div>
         </section>
 
         {/* Specifications Table */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Especificaciones de un Vistazo</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Technische Daten auf einen Blick</h2>
           <div className="max-w-4xl mx-auto overflow-x-auto">
             <table className="w-full bg-white rounded-xl shadow">
               <thead className="bg-gray-100">
                 <tr>
-                  <th className="p-4 text-left font-semibold">Especificación</th>
-                  <th className="p-4 text-left font-semibold">Línea Estándar</th>
-                  <th className="p-4 text-left font-semibold">Línea Premium</th>
+                  <th className="p-4 text-left font-semibold">Spezifikation</th>
+                  <th className="p-4 text-left font-semibold">Standard-Linie</th>
+                  <th className="p-4 text-left font-semibold">Premium-Linie</th>
                 </tr>
               </thead>
               <tbody className="divide-y">
-                <tr><td className="p-4 font-medium">Material de Fassung</td><td className="p-4 text-gray-600">PC (Policarbonato)</td><td className="p-4 text-gray-600">Nylon TR90</td></tr>
-                <tr><td className="p-4 font-medium">Material de Glas</td><td className="p-4 text-gray-600">AC (Acrílico)</td><td className="p-4 text-gray-600">TAC Polarisiert</td></tr>
-                <tr><td className="p-4 font-medium">Breite de Glas</td><td className="p-4 text-gray-600">65-68mm</td><td className="p-4 text-gray-600">65-72mm</td></tr>
-                <tr><td className="p-4 font-medium">Breite de Steg</td><td className="p-4 text-gray-600">14-16mm</td><td className="p-4 text-gray-600">14-18mm</td></tr>
-                <tr><td className="p-4 font-medium">Länge de Bügel</td><td className="p-4 text-gray-600">125-135mm</td><td className="p-4 text-gray-600">130-140mm</td></tr>
+                <tr><td className="p-4 font-medium">Fassungsmaterial</td><td className="p-4 text-gray-600">PC (Polycarbonat)</td><td className="p-4 text-gray-600">TR90 Nylon</td></tr>
+                <tr><td className="p-4 font-medium">Glasmaterial</td><td className="p-4 text-gray-600">AC (Acryl)</td><td className="p-4 text-gray-600">TAC Polarisiert</td></tr>
+                <tr><td className="p-4 font-medium">Glasbreite</td><td className="p-4 text-gray-600">65-68mm</td><td className="p-4 text-gray-600">65-72mm</td></tr>
+                <tr><td className="p-4 font-medium">Stegbreite</td><td className="p-4 text-gray-600">14-16mm</td><td className="p-4 text-gray-600">14-18mm</td></tr>
+                <tr><td className="p-4 font-medium">Bügellänge</td><td className="p-4 text-gray-600">125-135mm</td><td className="p-4 text-gray-600">130-140mm</td></tr>
                 <tr><td className="p-4 font-medium">Gewicht</td><td className="p-4 text-gray-600">28-35g</td><td className="p-4 text-gray-600">22-28g</td></tr>
                 <tr><td className="p-4 font-medium">UV-Schutz</td><td className="p-4 text-gray-600">UV400</td><td className="p-4 text-gray-600">UV400</td></tr>
-                <tr><td className="p-4 font-medium">Polarización</td><td className="p-4 text-gray-600">Opcional</td><td className="p-4 text-gray-600">Estándar (TAC 1.1mm)</td></tr>
-                <tr><td className="p-4 font-medium">Farbees de Glas</td><td className="p-4 text-gray-600">5 opciones</td><td className="p-4 text-gray-600">12+ opciones</td></tr>
-                <tr><td className="p-4 font-medium">Almohadillas Nasales</td><td className="p-4 text-gray-600">Goma fija</td><td className="p-4 text-gray-600">Goma hidrofílica ajustable</td></tr>
-                <tr><td className="p-4 font-medium">Bisagra</td><td className="p-4 text-gray-600">Barril estándar</td><td className="p-4 text-gray-600">Bisagra de muelle</td></tr>
+                <tr><td className="p-4 font-medium">Polarisation</td><td className="p-4 text-gray-600">Optional</td><td className="p-4 text-gray-600">Standard (TAC 1,1mm)</td></tr>
+                <tr><td className="p-4 font-medium">Glasfarben</td><td className="p-4 text-gray-600">5 Optionen</td><td className="p-4 text-gray-600">12+ Optionen</td></tr>
+                <tr><td className="p-4 font-medium">Nasenpads</td><td className="p-4 text-gray-600">Festes Gummi</td><td className="p-4 text-gray-600">Verstellbares hydrophiles Gummi</td></tr>
+                <tr><td className="p-4 font-medium">Scharnier</td><td className="p-4 text-gray-600">Standard-Zylinder</td><td className="p-4 text-gray-600">Federscharnier</td></tr>
                 <tr><td className="p-4 font-medium">Zertifizierungen</td><td className="p-4 text-gray-600">CE, FDA</td><td className="p-4 text-gray-600">CE, FDA, ANSI Z87.1</td></tr>
               </tbody>
             </table>
@@ -261,66 +266,67 @@ export default function SportPageDe() {
         <section className="mb-16">
           <h2 className="text-3xl font-bold text-center mb-8">Das könnte Sie auch interessieren</h2>
           <div className="grid md:grid-cols-3 gap-6">
-            <Link href="/de/produkte/polarizado" className="card p-6 text-center hover:shadow-lg transition-shadow">
+            <Link href="/de/produkte/polarisiert" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🔆</div>
-              <h3 className="font-semibold mb-2">Brillen Polarisierts</h3>
-              <p className="text-sm text-gray-600">Todos nuestros Stils polarizados en un solo lugar</p>
+              <h3 className="font-semibold mb-2">Polarisierte Sonnenbrillen</h3>
+              <p className="text-sm text-gray-600">Alle unsere polarisierten Stile an einem Ort</p>
             </Link>
-            <Link href="/de/produkte/ninos" className="card p-6 text-center hover:shadow-lg transition-shadow">
+            <Link href="/de/produkte/kinder" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">👶</div>
-              <h3 className="font-semibold mb-2">Brillen Deportivas para Kinder</h3>
-              <p className="text-sm text-gray-600">Brillen seguras y beständigs para jóvenes atletas</p>
+              <h3 className="font-semibold mb-2">Kinder-Sport-Sonnenbrillen</h3>
+              <p className="text-sm text-gray-600">Sichere, robuste Brillen für junge Athleten</p>
             </Link>
-            <Link href="/de/produkte/luz-azul" className="card p-6 text-center hover:shadow-lg transition-shadow">
+            <Link href="/de/produkte" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">💻</div>
-              <h3 className="font-semibold mb-2">Brillen de Luz Azul</h3>
-              <p className="text-sm text-gray-600">Para cuando el entrenamiento se traslada al interior</p>
+              <h3 className="font-semibold mb-2">Blaulichtbrillen</h3>
+              <p className="text-sm text-gray-600">Für wenn das Training nach drinnen verlegt wird</p>
             </Link>
           </div>
         </section>
 
         {/* FAQ Section */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Preguntas Que Nos Hacen Todo el Tiempo</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Fragen, die wir ständig bekommen</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
-              question="¿Cuál es el Mindestbestellmenge? ¿Puedo empezar con poco?"
-              answer="Sí — 100 unidades por Stil y Farbe es nuestro MOQ estándar. Si quieres tu propio logo y Farbees personalizados, sube a 300 unidades. Pero honestamente, la mayoría de los compradores primerizos empiezan con un Bestellung de Muster mixtas para probar el mercado. Solo dinos qué buscas y encontraremos la manera de hacerlo funcionar."
+              question="Wie hoch ist die Mindestbestellmenge? Kann ich klein anfangen?"
+              answer="Ja — 100 Stück pro Stil und Farbe ist unsere Standard-MOQ. Wenn Sie Ihr eigenes Logo und individuelle Farben wollen, erhöht sich das auf 300 Stück. Aber ehrlich gesagt beginnen die meisten Erstkäufer mit einer gemischten Musterbestellung, um den Markt zu testen. Sagen Sie uns einfach, was Sie suchen, und wir finden einen Weg, es möglich zu machen."
             />
             <FaqItem
-              question="TR90 vs. policarbonato — ¿cuál debería elegir?"
-              answer="Respuesta corta: TR90 si puedes permitírtelo. Es un 35% más leicht, mucho más flexibel (literalmente puedes doblarlo completamente y vuelve a su forma), y se siente Premium. El policarbonato está totalmente bien para líneas económicas — sigue siendo beständig a impactos y cumple su función. Pero si tus Kundes son atletas serios o te posicionas como Marke Premium, elige TR90. La diferencia de Preis suele ser solo $1-2 pro Paar."
+              question="TR90 vs. Polycarbonat — was soll ich nehmen?"
+              answer="Kurze Antwort: TR90, wenn Sie es sich leisten können. Es ist 35% leichter, viel flexibler (Sie können es buchstäblich flach biegen und es springt zurück) und fühlt sich premium an. Polycarbonat ist völlig in Ordnung für Budget-Linien — es ist trotzdem stoßfest und erfüllt seinen Zweck. Aber wenn Ihre Kunden ernsthafte Athleten sind oder Sie sich als Premium-Marke positionieren, nehmen Sie TR90. Der Preisunterschied beträgt meist nur $1-2 pro Paar."
             />
             <FaqItem
-              question="¿Todas sus Brillen deportivas son polarisierts?"
-              answer="La polarización está disponible en todos los modelos, pero no siempre viene incluida por defecto en la línea estándar — es opcional. En nuestra línea Premium, las Gläser polarisierts TAC vienen de serie. Ofrecemos más de 12 Farbees de Glas incluyendo gris, marrón, ámbar, amarillo (ideal para poca luz), espejo azul, espejo rojo y transparente. También hacemos Gläser fotocromáticas que se ajustan automáticamente a la luz solar. Son populares entre ciclistas que pedalean ab el amanecer hasta el mediodía."
+              question="Sind alle Ihre Sport-Sonnenbrillen polarisiert?"
+              answer="Polarisation ist bei jedem Modell verfügbar, aber nicht immer standardmäßig in der Standard-Linie enthalten — es ist optional. Bei unserer Premium-Linie sind TAC-polarisierte Gläser Standard. Wir bieten über 12 Glasfarben an, darunter Grau, Braun, Bernstein, Gelb (toll bei wenig Licht), Blau-Spiegel, Rot-Spiegel und Klar. Wir machen auch photochrome Gläser, die sich automatisch ans Sonnenlicht anpassen. Die sind bei Radfahrern beliebt, die von der Dämmerung bis zum Mittag fahren."
             />
             <FaqItem
-              question="¿Pueden poner nuestro logo?"
-              answer="Por supuesto. Hacemos impresión de logo en Bügels (tampografía o grabado láser), grabado en Gläser, Farbees de Fassung personalizados con coincidencia Pantone, Verpackung personalizado — todo lo que necesites. Un Kunde nos envió un boceto en una servilleta de un Design de Fassung y lo convertimos en un prototipo 3D en dos semanas. Si puedes soñarlo, probablemente podemos hacerlo."
+              question="Können Sie unser Logo darauf bringen?"
+              answer="Absolut. Wir machen Logodruck auf Bügeln (Tampondruck oder Lasergravur), Glasgravur, individuelle Fassungsfarben mit Pantone-Abgleich, individuelle Verpackung — das volle Programm. Ein Kunde schickte uns eine Serviettenskizze eines Fassungsdesigns und wir haben daraus in zwei Wochen einen 3D-Prototyp gemacht. Wenn Sie es sich vorstellen können, können wir es wahrscheinlich herstellen."
             />
             <FaqItem
-              question="¿Qué Zertifizierungen incluyen?"
-              answer="Cada par se envía con cumplimiento CE y FDA. Nuestra línea Premium también cumple ANSI Z87.1 — ese es el estándar de resistencia a impactos industriales, lo que significa que estas Gläser pueden recibir el golpe de una bola de acero a alta velocidad sin romperse. Proporcionamos informes de pruebas UV400 de laboratorios independientes. ¿Necesitas AS/NZS 1067 para el mercado australiano? También podemos hacerlo."
+              question="Welche Zertifizierungen kommen mit?"
+              answer="Jedes Paar wird mit CE- und FDA-Konformität geliefert. Unsere Premium-Linie erfüllt auch ANSI Z87.1 — das ist der industrielle Stoßfestigkeitsstandard, der bedeutet, dass diese Gläser einen Treffer von einer Stahlkugel bei hoher Geschwindigkeit aushalten, ohne zu splittern. Wir liefern UV400-Laborprüfberichte von unabhängigen Labors. Brauchen Sie AS/NZS 1067 für den australischen Markt? Können wir auch."
             />
             <FaqItem
-              question="¿Qué tan rápido pueden enviar?"
-              answer="Artículos en stock sin Individualisierung: 3-5 Werktage. Bestellungs personalizados con tu logo y Farbees: 15-25 días de Produktion, luego 5-7 días de flete aéreo a la mayoría de países. El flete marítimo es más barato pero tarda 20-35 días. Enviamos por DHL, FedEx, UPS — tú eliges. ¿Bestellungs urgentes? Habla con nosotros. Hemos logrado Lieferungs en 10 días cuando un Kunde tenía una fecha límite."
+              question="Wie schnell können Sie liefern?"
+              answer="Lagerartikel ohne Individualisierung? 3-5 Werktage. Individualbestellungen mit Ihrem Logo und Farben? 15-25 Tage Produktion, dann 5-7 Tage Luftfracht in die meisten Länder. Seefracht ist günstiger, dauert aber 20-35 Tage. Wir versenden per DHL, FedEx, UPS — Ihre Wahl. Eilbestellungen? Sprechen Sie uns an. Wir haben schon 10-Tage-Durchlaufzeiten geschafft, wenn ein Kunde eine Deadline hatte."
             />
           </div>
         </section>
 
         {/* CTA */}
         <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
-          <h2 className="text-3xl font-bold mb-4">Empecemos con Tu Línea Deportiva</h2>
+          <h2 className="text-3xl font-bold mb-4">Starten Sie Ihre Sport-Linie</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Equipos Sports, tiendas outdoor, Markes fitness, empresas promocionales — hemos trabajado con todos.
-            Sagen Sie uns qué necesitas y te enviaremos Muster para que veas la Qualität por ti mismo.
-            Sin presión, sin compromiso en las Muster.
+            Sportteams, Outdoor-Shops, Fitnessmarken, Werbeartikel-Firmen — wir haben mit
+            allen gearbeitet. Sagen Sie uns, was Sie brauchen, und wir schicken Ihnen Muster,
+            damit Sie die Qualität selbst sehen können. Kein Druck, keine Verpflichtung bei
+            Mustern.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/de/kontakt" className="btn-primary">Preiss para Equipos</Link>
-            <Link href="/de/produkte" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-Farbes">Ver Todos los Produkte</Link>
+            <Link href="/de/kontakt" className="btn-primary">Team-Preise anfordern</Link>
+            <Link href="/de/produkte" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors">Alle Produkte ansehen</Link>
           </div>
         </section>
       </div>
@@ -330,9 +336,9 @@ export default function SportPageDe() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://eyeviewglasses.com/es" },
+          { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://eyeviewglasses.com/de" },
           { "@type": "ListItem", "position": 2, "name": "Produkte", "item": "https://eyeviewglasses.com/de/produkte" },
-          { "@type": "ListItem", "position": 3, "name": "Sonnenbrillen Deportivas", "item": "https://eyeviewglasses.com/de/produkte/sport" }
+          { "@type": "ListItem", "position": 3, "name": "Sport-Sonnenbrillen", "item": "https://eyeviewglasses.com/de/produkte/sport" }
         ]
       })}} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -341,33 +347,33 @@ export default function SportPageDe() {
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "¿Cuál es el Mindestbestellmenge? ¿Puedo empezar con poco?",
-            "acceptedAnswer": { "@type": "Answer", "text": "100 unidades por Stil y Farbe es nuestro MOQ estándar. Bestellungs con logo personalizado empiezan en 300 unidades. La mayoría de compradores primerizos empiezan con un Bestellung de Muster mixtas para probar el mercado." }
+            "name": "Wie hoch ist die Mindestbestellmenge? Kann ich klein anfangen?",
+            "acceptedAnswer": { "@type": "Answer", "text": "100 Stück pro Stil und Farbe ist unsere Standard-MOQ. Individualbestellungen mit Logo ab 300 Stück. Die meisten Erstkäufer beginnen mit einer gemischten Musterbestellung, um den Markt zu testen." }
           },
           {
             "@type": "Question",
-            "name": "TR90 vs. policarbonato — ¿cuál debería elegir?",
-            "acceptedAnswer": { "@type": "Answer", "text": "TR90 si puedes permitírtelo — es un 35% más leicht, mucho más flexibel y se siente Premium. El policarbonato está bien para líneas económicas. La diferencia de Preis suele ser solo $1-2 pro Paar." }
+            "name": "TR90 vs. Polycarbonat — was soll ich wählen?",
+            "acceptedAnswer": { "@type": "Answer", "text": "TR90, wenn Sie können — es ist 35% leichter, viel flexibler und fühlt sich premium an. Polycarbonat ist für Budget-Linien in Ordnung. Der Preisunterschied beträgt meist nur $1-2 pro Paar." }
           },
           {
             "@type": "Question",
-            "name": "¿Todas sus Brillen deportivas son polarisierts?",
-            "acceptedAnswer": { "@type": "Answer", "text": "La polarización está disponible en todos los modelos. Es opcional en la línea estándar e incluida por defecto en la línea Premium. Ofrecemos más de 12 Farbees de Glas incluyendo opciones fotocromáticas." }
+            "name": "Sind alle Sport-Sonnenbrillen polarisiert?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Polarisation ist bei jedem Modell verfügbar. Optional bei der Standard-Linie, standardmäßig bei der Premium-Linie. Wir bieten über 12 Glasfarben an, einschließlich photochromer Optionen." }
           },
           {
             "@type": "Question",
-            "name": "¿Pueden poner nuestro logo?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Por supuesto — impresión de logo en Bügels, grabado en Gläser, Farbees de Fassung personalizados con coincidencia Pantone y Verpackung personalizado. También podemos crear Designs de Fassung completamente nuevos ab tu concepto." }
+            "name": "Können Sie unser Logo anbringen?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Absolut — Logodruck auf Bügeln, Glasgravur, individuelle Fassungsfarben mit Pantone-Abgleich und individuelle Verpackung. Wir können auch komplett neue Fassungsdesigns nach Ihrem Konzept erstellen." }
           },
           {
             "@type": "Question",
-            "name": "¿Qué Zertifizierungen incluyen?",
-            "acceptedAnswer": { "@type": "Answer", "text": "CE y FDA en cada par. La línea Premium también cumple ANSI Z87.1 para resistencia a impactos. Informes de pruebas UV400 incluidos. AS/NZS 1067 disponible bajo Bestellung." }
+            "name": "Welche Zertifizierungen sind enthalten?",
+            "acceptedAnswer": { "@type": "Answer", "text": "CE und FDA bei jedem Paar. Premium-Linie erfüllt auch ANSI Z87.1 für Stoßfestigkeit. UV400-Laborprüfberichte inklusive. AS/NZS 1067 auf Anfrage verfügbar." }
           },
           {
             "@type": "Question",
-            "name": "¿Qué tan rápido pueden enviar?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Artículos en stock se envían en 3-5 Werktage. Bestellungs personalizados tardan 15-25 días de Produktion más 5-7 días de flete aéreo. Bestellungs urgentes posibles — hemos logrado Lieferungs en 10 días." }
+            "name": "Wie schnell können Sie liefern?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Lagerartikel in 3-5 Werktagen. Individualbestellungen 15-25 Tage Produktion plus 5-7 Tage Luftfracht. Eilbestellungen möglich — wir haben schon 10-Tage-Durchlaufzeiten geschafft." }
           }
         ]
       })}} />

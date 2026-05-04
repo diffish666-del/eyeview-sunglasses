@@ -3,12 +3,12 @@ import type { Metadata } from 'next'
 import { ProductSchema, BreadcrumbListSchema, FAQPageSchema } from '../../../components/SchemaMarkup'
 
 export const metadata: Metadata = {
-  title: 'Fabricante de Óculos de Sol TR90 | Fábrica de Óculos Ultraligeras TR90 - EyeView',
-  description: 'Fabricante de óculos de sol TR90. Armações ultraligeros de Grilamid TR90 (15-20g), material con memoria flexible, hipoalergénico. Esportivos, infantiles, uso diario. MOQ 100 peças. Direto de fábrica.',
-  keywords: 'fabricante óculos TR90, óculos TR90 no atacado, fábrica óculos ultraligeras, Grilamid TR90, óculos flexibles, fabricante óculos esportivos, óculos infantiles no atacado',
+  title: 'Fabricante de Óculos de Sol TR90 | Fábrica de Óculos Ultraleves TR90 - EyeView',
+  description: 'Fabricante de óculos de sol TR90. Armações ultraleves de Grilamid TR90 (15-20g), material com memória flexível, hipoalergênico. Esportivos, infantis, uso diário. MOQ 100 peças. Direto de fábrica.',
+  keywords: 'fabricante óculos TR90, óculos TR90 no atacado, fábrica óculos ultraleves, Grilamid TR90, óculos flexíveis, fabricante óculos esportivos, óculos infantis no atacado',
   openGraph: {
-    title: 'Fabricante de Óculos de Sol TR90 | Fábrica de Óculos Ultraligeras TR90 - EyeView',
-    description: 'Fabricante de óculos de sol TR90. Armações ultraligeros de Grilamid TR90 (15-20g), flexibles, hipoalergénicos. Óculos esportivos e infantiles. MOQ 100 peças.',
+    title: 'Fabricante de Óculos de Sol TR90 | Fábrica de Óculos Ultraleves TR90 - EyeView',
+    description: 'Fabricante de óculos de sol TR90. Armações ultraleves de Grilamid TR90 (15-20g), flexíveis, hipoalergênicos. Óculos esportivos e infantis. MOQ 100 peças.',
     type: 'website',
     url: 'https://eyeviewsunglasses.com/pt/produtos/tr90',
     locale: 'pt_BR',
@@ -24,82 +24,82 @@ export const metadata: Metadata = {
 
 const tr90Faqs = [
   {
-    question: '¿Qué es exactamente el TR90 y por qué se usa para óculos de sol?',
-    answer: 'El TR90 es una poliamida termoplástica (nylon) desarrollada originalmente por EMS-Grivory en Suiza bajo la marca Grilamid TR90. Fue diseñado específicamente para aplicaciones ópticas — es decir, se creó a partir de cero para fabricar armações de óculos. Las propiedades clave son: ultraligero (un armação terminado pesa solo 15-20 gramos), extrema flexibilidad (puedes doblarlo casi por la mitad y vuelve a su forma original), memoria (mantiene su forma durante anos de uso diario), hipoalergénico (sin níquel, sin BPA, sin reacciones en la piel) y alta resistencia al calor (temperatura de deformación de aproximadamente 120°C). Se fabrica por moldeo por inyección, así que la produção es rápida y consistente — lo que mantiene los costos bajos. Básicamente, el TR90 te da un armação que no pesa nada, nunca se rompe y nunca irrita la piel sensible. Por eso se ha convertido en el material preferido para óculos esportivos, óculos infantiles y armações ligeros de uso diario.',
+    question: 'O que é exatamente o TR90 e por que é usado para óculos de sol?',
+    answer: 'O TR90 é uma poliamida termoplástica (nylon) originalmente desenvolvida pela EMS-Grivory na Suíça sob a marca Grilamid TR90. Foi projetado especificamente para aplicações ópticas — ou seja, foi criado do zero para fabricar armações de óculos. As propriedades principais são: ultraleve (uma armação finalizada pesa apenas 15-20 gramas), extrema flexibilidade (você pode dobrá-lo quase ao meio e ele volta à forma original), memória (mantém sua forma durante anos de uso diário), hipoalergênico (sem níquel, sem BPA, sem reações na pele) e alta resistência ao calor (temperatura de deformação de aproximadamente 120°C). É fabricado por moldagem por injeção, então a produção é rápida e consistente — o que mantém os custos baixos. Basicamente, o TR90 dá a você uma armação que não pesa nada, nunca quebra e nunca irrita pele sensível. Por isso se tornou o material preferido para óculos esportivos, óculos infantis e armações leves de uso diário.',
   },
   {
-    question: 'Como se compara el TR90 con los armações de acetato y metal?',
-    answer: 'La forma más fácil de entender el TR90 es compararlo directamente. Peso: los armações TR90 pesan 15-20 gramos, los de acetato pesan 25-35 gramos y los de metal pesan 28-35 gramos. Así que el TR90 es aproximadamente un 40-50% más ligero que el acetato. Flexibilidad: el TR90 se dobla y vuelve a su forma; el acetato se parte si lo doblas demasiado; el metal se deforma permanentemente. Durabilidad: el TR90 es prácticamente irrompible en uso normal; el acetato puede astillarse o agrietarse; el metal puede deformarse. Opciones de color: el acetato gana aquí con sus ricos patrones en capas; el TR90 está más limitado a colores sólidos y acabados superficiales. Percepción premium: el acetato tiene una sensación de lujo que el TR90 no puede igualar; el TR90 se siente técnico y esportivo. Costo: los armações TR90 cuestan $4-8 por par, el acetato $6-16 y el metal $8-22. Conclusión: TR90 para rendimiento y valor, acetato para lujo y estética, metal para estilo clásico.',
+    question: 'Como o TR90 se compara com armações de acetato e metal?',
+    answer: 'A maneira mais fácil de entender o TR90 é compará-lo diretamente. Peso: armações TR90 pesam 15-20 gramas, as de acetato pesam 25-35 gramas e as de metal pesam 28-35 gramas. Então o TR90 é aproximadamente 40-50% mais leve que o acetato. Flexibilidade: o TR90 dobra e volta à forma; o acetato quebra se você dobrar demais; o metal deforma permanentemente. Durabilidade: o TR90 é praticamente inquebrável em uso normal; o acetato pode lascar ou rachar; o metal pode entortar. Opções de cor: o acetato ganha aqui com seus ricos padrões em camadas; o TR90 é mais limitado a cores sólidas e acabamentos de superfície. Percepção premium: o acetato tem uma sensação de luxo que o TR90 não consegue igualar; o TR90 parece técnico e esportivo. Custo: armações TR90 custam $4-8 por par, acetato $6-16 e metal $8-22. Conclusão: TR90 para desempenho e valor, acetato para luxo e estética, metal para estilo clássico.',
   },
   {
-    question: '¿Se pueden imprimir o colorear los armações TR90 con designs personalizados?',
-    answer: 'Sí, pero las opciones son diferentes al acetato. El color del TR90 se determina durante el moldeo por inyección — añadimos pellets de color masterbatch a la resina Grilamid cruda, así que el color penetra todo el material. Tenemos aproximadamente 30 colores estándar (negro mate, negro brillo, azul marino mate, gris, rojo, naranja, blanco, transparente, etc.) y podemos igualar colores Pantone personalizados con un mínimo de 500 peças. Para decoración superficial, ofrecemos tampografía (logos, patrones, gráficos multicolor en la haste), impresión UV (impresión de qualidade fotográfica a todo color en superficies planas), transferencia hidrográfica (impresión por inmersión en agua para patrones de camuflaje, fibra de carbono, veta de madera que envuelven las curvas) y grabado láser. Também hacemos recubrimiento de caucho (un acabado mate de tacto suave que añade agarre y sensación premium) y recubrimiento PVD metálico en acentos de haste. Lo único que el TR90 no puede hacer es replicar la profundidad de color en capas del acetato — los patrones de carey, mármol y cristal no son posibles en material moldeado por inyección.',
+    question: 'As armações TR90 podem ser impressas ou coloridas com designs personalizados?',
+    answer: 'Sim, mas as opções são diferentes do acetato. A cor do TR90 é determinada durante a moldagem por injeção — adicionamos pellets de cor masterbatch à resina Grilamid crua, então a cor penetra todo o material. Temos aproximadamente 30 cores padrão (preto fosco, preto brilhante, azul marinho fosco, cinza, vermelho, laranja, branco, transparente, etc.) e podemos igualar cores Pantone personalizadas com um mínimo de 500 peças. Para decoração de superfície, oferecemos tampografia (logos, padrões, gráficos multicoloridos na haste), impressão UV (impressão de qualidade fotográfica em cores completas em superfícies planas), transferência hidrográfica (impressão por imersão em água para padrões de camuflagem, fibra de carbono, veio de madeira que envolvem curvas) e gravação a laser. Também fazemos revestimento de borracha (um acabamento fosco de toque suave que adiciona aderência e sensação premium) e revestimento PVD metálico em detalhes da haste. A única coisa que o TR90 não pode fazer é replicar a profundidade de cor em camadas do acetato — padrões de tartaruga, mármore e cristal não são possíveis em material moldado por injeção.',
   },
   {
-    question: '¿Es seguro el TR90 para óculos de sol infantiles?',
-    answer: 'El TR90 es probablemente el mejor material para óculos infantiles, y aquí explico por qué. Primero, es virtualmente irrompible — los crianças son duros con las óculos, y el TR90 se flexiona en vez de partirse. Hemos probado nossos armações infantiles con mais de 5,000 ciclos de apertura y cierre de dobradiça sin ningún fallo. Segundo, es hipoalergénico — sin níquel, sin BPA, sin ftalatos, sin látex. Los crianças tienen piel más sensible que los adultos, y los armações metálicos con contenido de níquel pueden causar dermatitis de contato. Tercero, es ultraligero con 12-15 gramos para armações de tamaño infantil — las óculos pesadas se resbalan por las narices pequeñas y los crianças simplemente se las quitan. Cuarto, el TR90 cumple con los estándares de seguridad de juguetes EN 71 (podemos proporcionar documentación de pruebas), que algunos mercados requieren para óculos vendidas a menores de 14 anos. Y quinto, el bajo costo ($3.50-6.00 por par para armações infantiles) lo hace económico para padres que saben que su hijo probablemente las perderá o romperá en seis meses de todas formas.',
+    question: 'O TR90 é seguro para óculos de sol infantis?',
+    answer: 'O TR90 é provavelmente o melhor material para óculos infantis, e aqui está o porquê. Primeiro, é virtualmente inquebrável — crianças são duras com óculos, e o TR90 flexiona em vez de partir. Testamos nossas armações infantis com mais de 5.000 ciclos de abertura e fechamento de dobradiça sem nenhuma falha. Segundo, é hipoalergênico — sem níquel, sem BPA, sem ftalatos, sem látex. Crianças têm pele mais sensível que adultos, e armações metálicas com teor de níquel podem causar dermatite de contato. Terceiro, é ultraleve com 12-15 gramas para armações de tamanho infantil — óculos pesados escorregam de narizes pequenos e as crianças simplesmente os tiram. Quarto, o TR90 atende os padrões de segurança de brinquedos EN 71 (podemos fornecer documentação de testes), que alguns mercados exigem para óculos vendidos para menores de 14 anos. E quinto, o baixo custo ($3,50-6,00 por par para armações infantis) o torna econômico para pais que sabem que seu filho provavelmente vai perder ou quebrar em seis meses de qualquer forma.',
   },
   {
-    question: '¿Qué temperatura puede soportar el TR90?',
-    answer: 'El TR90 tiene una temperatura de deflexión térmica (HDT) de aproximadamente 120°C (248°F) a 1.8 MPa — significativamente más alta que el nylon estándar (alrededor de 75°C) y mucho más alta que el acetato (que se ablanda a 70-80°C). En términos prácticos, esto significa que los armações TR90 pueden sobrevivir sin problemas al ser dejados en el salpicadero de un coche en verano (que puede alcanzar 70-90°C), al ser usados en una sauna, o al ser expuestos a agua caliente sin deformarse. Este es un punto de venta real, especialmente para marcas esportivos y de actividades al aire libre — los atletas dejan sus óculos en coches calientes, en salpicaderos de barcos y en bolsas de gimnasio junto a ropa sudada. El TR90 aguanta todo eso. El extremo frío es igualmente impresionante: el TR90 mantiene su flexibilidad hasta -40°C, así que no se vuelve quebradizo en condiciones invernales. Para comparar, los armações baratos de policarbonato pueden volverse quebradizos por debajo de 0°C.',
+    question: 'Qual temperatura o TR90 suporta?',
+    answer: 'O TR90 tem uma temperatura de deflexão térmica (HDT) de aproximadamente 120°C (248°F) a 1,8 MPa — significativamente mais alta que o nylon padrão (cerca de 75°C) e muito mais alta que o acetato (que amolece a 70-80°C). Em termos práticos, isso significa que armações TR90 podem sobreviver sem problemas a serem deixadas no painel de um carro no verão (que pode chegar a 70-90°C), a serem usadas em uma sauna, ou a serem expostas a água quente sem deformar. Este é um ponto de venda real, especialmente para marcas esportivas e de atividades ao ar livre — atletas deixam seus óculos em carros quentes, em painéis de barcos e em bolsas de academia junto a roupas suadas. O TR90 aguenta tudo isso. A extremidade fria é igualmente impressionante: o TR90 mantém sua flexibilidade até -40°C, então não fica quebradiço em condições de inverno. Para comparar, armações baratas de policarbonato podem ficar quebradiças abaixo de 0°C.',
   },
   {
-    question: '¿Cuál es la cantidad mínima de pedido para óculos de sol TR90?',
-    answer: 'El MOQ estándar es de 100 peças por modelo usando nossa biblioteca de moldes existentes — tenemos mais de 80 designs de armações TR90 en stock que cubren envolventes esportivos, wayfarers, redondos, rectangulares, estilo aviador y formas infantiles. Puedes mezclar colores dentro de esas 100 peças. Para un design de armação completamente personalizado, cobramos una tarifa de molde de $1,500-3,000 dependiendo de la complejidad (los moldes TR90 son más caros que el mecanizado CNC de acetato porque los moldes de inyección son de acero y mecanizados con precisión). El MOQ para molde personalizado es de 500 peças en el primer pedido. Para colores Pantone personalizados, el mínimo es 500 peças porque necesitamos mezclar y probar el masterbatch. Para colores estándar en stock, no hay mínimo más allá de las 100 peças base.',
+    question: 'Qual é a quantidade mínima de pedido para óculos de sol TR90?',
+    answer: 'O MOQ padrão é de 100 peças por modelo usando nossa biblioteca de moldes existentes — temos mais de 80 designs de armações TR90 em estoque cobrindo esportivos envolventes, wayfarers, redondos, retangulares, estilo aviador e formas infantis. Você pode misturar cores dentro dessas 100 peças. Para um design de armação completamente personalizado, cobramos uma taxa de molde de $1.500-3.000 dependendo da complexidade (os moldes TR90 são mais caros que a usinagem CNC de acetato porque os moldes de injeção são de aço e usinados com precisão). O MOQ para molde personalizado é de 500 peças no primeiro pedido. Para cores Pantone personalizadas, o mínimo é 500 peças porque precisamos misturar e testar o masterbatch. Para cores padrão em estoque, não há mínimo além das 100 peças base.',
   },
 ]
 
 const products = [
   {
     name: 'Sport Wrap TR90',
-    description: 'Nosso modelo TR90 más vendido. Design envolvente completo que bloquea el viento, el polvo y la luz periférica. Las almofadas nasales de caucho y las puntas de haste proporcionan agarre antideslizante incluso cuando estás sudando. La forma envolvente sigue la curvatura del rostro, proporcionando cobertura de 180 grados sin el aspecto de "ojo de insecto". Pesa solo 18 gramos — la mayoría de los clientes olvidan que las llevan puestas en cinco minutos. Este es el armação que equipos de ciclismo, clubes de running y marcas de pesca piden en grandes cantidades. Disponível en 15 colores estándar con opciones de lentes polarizados.',
-    price: '$4.50 - $7.50',
+    description: 'Nosso modelo TR90 mais vendido. Design envolvente completo que bloqueia vento, poeira e luz periférica. As plaquetas nasais de borracha e as ponteiras da haste proporcionam aderência antiderrapante mesmo quando você está suando. A forma envolvente acompanha a curvatura do rosto, proporcionando cobertura de 180 graus sem o visual de "olho de inseto". Pesa apenas 18 gramas — a maioria dos clientes esquece que está usando em cinco minutos. Esta é a armação que equipes de ciclismo, clubes de corrida e marcas de pesca pedem em grandes quantidades. Disponível em 15 cores padrão com opções de lentes polarizadas.',
+    price: '$4,50 - $7,50',
     moq: '100 pçs',
-    features: ['Design Envolvente', 'Agarre de Caucho', '18g Ultraligero', 'Haste Antideslizante'],
+    features: ['Design Envolvente', 'Aderência de Borracha', '18g Ultraleve', 'Haste Antiderrapante'],
   },
   {
     name: 'TR90 Wayfarer',
-    description: 'La clásica forma wayfarer en TR90 en vez de acetato. Pierdes la profundidad de color en capas del acetato, pero ganas un armação que pesa 16 gramos en vez de 30, cuesta un 40% menos y es prácticamente imposible de romper. Para marcas que apuntan al rango retail de $20-40 donde el preço del acetato no funciona, este es el punto óptimo. Podemos recubrir la superficie con caucho para un acabado mate de tacto suave que añade agarre y sensación premium. Popular entre marcas DTC, empresas promocionales y librerías universitarias.',
-    price: '$4.00 - $6.50',
+    description: 'A clássica forma wayfarer em TR90 em vez de acetato. Você perde a profundidade de cor em camadas do acetato, mas ganha uma armação que pesa 16 gramas em vez de 30, custa 40% menos e é praticamente impossível de quebrar. Para marcas que miram na faixa de varejo de $20-40 onde o preço do acetato não funciona, este é o ponto ideal. Podemos revestir a superfície com borracha para um acabamento fosco de toque suave que adiciona aderência e sensação premium. Popular entre marcas DTC, empresas promocionais e livrarias universitárias.',
+    price: '$4,00 - $6,50',
     moq: '100 pçs',
-    features: ['Forma Wayfarer', '16g de Peso', 'Opción Recubrimiento Caucho', 'Preço Accesible'],
+    features: ['Forma Wayfarer', '16g de Peso', 'Opção Revestimento Borracha', 'Preço Acessível'],
   },
   {
     name: 'Kids Flex TR90',
-    description: 'Diseñado para edades de 4 a 12 anos con flexibilidad extra incorporada en el design. Las hastes tienen una zona de flexión integrada que les permite doblarse hacia afuera sin romperse — importante porque los crianças agarran sus óculos por un brazo y tiran. Hipoalergénico, libre de BPA, libre de ftalatos. Almofadas nasales de caucho dimensionadas para pontes más pequeños. Disponível en colores brillantes y divertidos — azul eléctrico, rosa intenso, verde lima, naranja atardecer, negro mate (para el mercado del "niño cool"). Pesa solo 12 gramos. Los padres las compran porque saben que los crianças las maltratarán. Tenemos clientes que las venden en packs de 3 porque los padres esperan reemplazarlas.',
-    price: '$3.50 - $6.00',
+    description: 'Projetado para idades de 4 a 12 anos com flexibilidade extra incorporada no design. As hastes têm uma zona de flexão integrada que permite que se dobrem para fora sem quebrar — importante porque crianças pegam seus óculos por um braço e puxam. Hipoalergênico, livre de BPA, livre de ftalatos. Plaquetas nasais de borracha dimensionadas para pontes menores. Disponível em cores brilhantes e divertidas — azul elétrico, rosa intenso, verde limão, laranja pôr do sol, preto fosco (para o mercado do "garoto descolado"). Pesa apenas 12 gramas. Os pais compram porque sabem que as crianças vão maltratar. Temos clientes que vendem em packs de 3 porque os pais esperam ter que substituí-los.',
+    price: '$3,50 - $6,00',
     moq: '100 pçs',
-    features: ['Edades 4-12', 'Hastes Extra Flex', '12g de Peso', 'Sin BPA/Ftalatos'],
+    features: ['Idades 4-12', 'Hastes Extra Flex', '12g de Peso', 'Sem BPA/Ftalatos'],
   },
   {
     name: 'TR90 Half-Frame Sport',
-    description: 'Design semi al aire donde el armação TR90 sujeta la parte superior de la lente y un cordón de nylon fino sujeta el borde inferior. Esto elimina otros 3-4 gramos comparado con el armação completo, llevando el peso total a unos 14 gramos. El borde inferior abierto também mejora la visibilidad hacia abajo, lo cual es importante para corredores y ciclistas que necesitan ver la carretera debajo de ellos. El borde expuesto de la lente les da un aspecto técnico y orientado al rendimiento. Popular entre marcas de running, triatlón y líneas de óculos de golf.',
-    price: '$5.00 - $8.00',
+    description: 'Design semi-aro onde a armação TR90 segura a parte superior da lente e um fio de nylon fino segura a borda inferior. Isso elimina outros 3-4 gramas comparado com a armação completa, levando o peso total para cerca de 14 gramas. A borda inferior aberta também melhora a visibilidade para baixo, o que é importante para corredores e ciclistas que precisam ver a estrada abaixo deles. A borda exposta da lente dá um visual técnico e orientado para desempenho. Popular entre marcas de corrida, triathlon e linhas de óculos de golfe.',
+    price: '$5,00 - $8,00',
     moq: '100 pçs',
-    features: ['Semi al Aire', '14g de Peso', 'Visión Inferior Mejorada', 'Cordón de Nylon Inferior'],
+    features: ['Semi-Aro', '14g de Peso', 'Visão Inferior Aprimorada', 'Fio de Nylon Inferior'],
   },
   {
     name: 'TR90 + Metal Combo',
-    description: 'Armação frontal TR90 con hastes de acero inoxidable o titanio. Este híbrido te da la flexibilidad ligera del TR90 donde más importa (el armação frontal que toca tu cara) y el aspecto premium de las hastes metálicas. Las hastes de metal pueden grabarse con láser con tu logo — lo cual se ve mucho más nítido que imprimir sobre plástico. Pesa unos 20 gramos en total. Esta es nossa recomendación favorita para marcas que quieren un look de transición deporte-casual — suficientemente técnico para uso al aire libre, suficientemente elegante para una cena.',
-    price: '$7.00 - $11.00',
+    description: 'Armação frontal TR90 com hastes de aço inoxidável ou titânio. Este híbrido dá a você a flexibilidade leve do TR90 onde mais importa (a armação frontal que toca seu rosto) e o visual premium das hastes metálicas. As hastes de metal podem ser gravadas a laser com seu logo — o que fica muito mais nítido do que imprimir sobre plástico. Pesa cerca de 20 gramas no total. Esta é nossa recomendação favorita para marcas que querem um visual de transição esporte-casual — técnico o suficiente para uso ao ar livre, elegante o suficiente para um jantar.',
+    price: '$7,00 - $11,00',
     moq: '100 pçs',
-    features: ['Híbrido TR90 + Metal', 'Grabado Láser', '20g de Peso', 'Crossover Deporte-Casual'],
+    features: ['Híbrido TR90 + Metal', 'Gravação a Laser', '20g de Peso', 'Crossover Esporte-Casual'],
   },
   {
     name: 'TR90 Shield / Visor',
-    description: 'Design de pantalla con lente única en TR90 — una lente continua que cubre ambos ojos con un armação superior TR90 y sistema de hastes. Este es el estilo que ves en ciclistas profesionales, patinadores de velocidad y esquiadores de competición. Máximo campo de visión, cero obstrucción del armação en la vista central y estilo aerodinámico agresivo. La lente única es de policarbonato con recubrimientos opcionales de espejo, polarizado o fotocromático. Almohadilla nasal ajustable y puertos de ventilación para prevenir el empañamiento. Si tu marca se dirige a atletas serios, este es el armação que gana credibilidad.',
-    price: '$6.00 - $9.00',
+    description: 'Design de viseira com lente única em TR90 — uma lente contínua que cobre ambos os olhos com uma armação superior TR90 e sistema de hastes. Este é o estilo que você vê em ciclistas profissionais, patinadores de velocidade e esquiadores de competição. Máximo campo de visão, zero obstrução da armação na visão central e estilo aerodinâmico agressivo. A lente única é de policarbonato com revestimentos opcionais de espelho, polarizado ou fotocromático. Plaqueta nasal ajustável e portas de ventilação para prevenir embaçamento. Se sua marca mira em atletas sérios, esta é a armação que ganha credibilidade.',
+    price: '$6,00 - $9,00',
     moq: '100 pçs',
-    features: ['Lente Pantalla Única', 'Ventilación Anti-Vaho', 'Máximo Campo Visual', 'Design Aerodinámico'],
+    features: ['Lente Viseira Única', 'Ventilação Anti-Embaçamento', 'Máximo Campo Visual', 'Design Aerodinâmico'],
   },
 ]
 
-export default function TR90PagePtPt() {
+export default function TR90PagePt() {
   return (
     <>
       <ProductSchema product={{
-        name: 'Óculos de Sol Ultraligeras TR90',
-        description: 'Óculos de sol ultraligeras de Grilamid TR90. Armações de 15-20g, material con memoria flexible, hipoalergénico. Estilos esportivos, infantiles y de uso diario. Personalização OEM completa.',
+        name: 'Óculos de Sol Ultraleves TR90',
+        description: 'Óculos de sol ultraleves de Grilamid TR90. Armações de 15-20g, material com memória flexível, hipoalergênico. Estilos esportivos, infantis e de uso diário. Personalização OEM completa.',
         minPrice: '3.50',
         maxPrice: '11.00'
       }} />
@@ -125,7 +125,7 @@ export default function TR90PagePtPt() {
           <div className="mb-12">
             <img
               src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop"
-              alt="Fabricante de Óculos de Sol TR90 - Óculos Esportivos de Nylon Ligero no Atacado"
+              alt="Fabricante de Óculos de Sol TR90 - Óculos Esportivos de Nylon Leve no Atacado"
               loading="lazy"
               className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
             />
@@ -142,25 +142,25 @@ export default function TR90PagePtPt() {
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
               <p className="text-xl leading-relaxed mb-4">
-                Déjame mostrarte algo. Toma un par de óculos de sol normales — de las que compras en una gasolinera. Ahora dobla las hastes. ¿Escuchas ese crujido? Eso es policarbonato barato diciéndote que está a punto de partirse. Ahora intenta lo mismo con un armação TR90. Puedes prácticamente doblarlo por la mitad. Vuelve a su forma al instante. Sin crujido, sin grieta, sin deformación permanente. Esa flexibilidad no es un truco — es la ventaja ingenieril fundamental del <a href="https://www.emsgrivory.com/en/products/grilamid-tr/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Grilamid TR90</a>, una <a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">poliamida</a> termoplástica desarrollada por la empresa química suiza EMS-Grivory específicamente para aplicaciones ópticas.
+                Deixe-me mostrar uma coisa. Pegue um par de óculos de sol comuns — daqueles que você compra em um posto de gasolina. Agora dobre as hastes. Ouviu aquele estalo? Isso é policarbonato barato dizendo que está prestes a partir. Agora tente o mesmo com uma armação TR90. Você pode praticamente dobrá-la ao meio. Ela volta à forma instantaneamente. Sem estalo, sem rachadura, sem deformação permanente. Essa flexibilidade não é um truque — é a vantagem de engenharia fundamental do <a href="https://www.emsgrivory.com/en/products/grilamid-tr/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Grilamid TR90</a>, uma <a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">poliamida</a> termoplástica desenvolvida pela empresa química suíça EMS-Grivory especificamente para aplicações ópticas.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Estos son los números que importan: un armação TR90 terminado pesa 15-20 gramos. Para comparar, los armações de acetato pesan 25-35 gramos y los de metal pesan 28-35 gramos. Esa diferencia de 10-15 gramos puede no sonar a mucho en papel, pero ponte un armação TR90 en la cara después de llevar acetato todo el día y entenderás inmediatamente por qué atletas, profesionales al aire libre y cada vez más consumidores cotidianos están cambiando. Te olvidas de que las llevas puestas. Sin presión en la nariz, sin deslizamiento, sin marcas rojas detrás de las orejas. Para <Link href="/pt/produtos/esportivo" className="text-primary-600 hover:underline">marcas esportivos</Link> y <Link href="/pt/produtos/infantil" className="text-primary-600 hover:underline">óculos infantiles</Link>, el TR90 no es solo una buena opción — es la opción obvia.
+                Aqui estão os números que importam: uma armação TR90 finalizada pesa 15-20 gramas. Para comparar, armações de acetato pesam 25-35 gramas e as de metal pesam 28-35 gramas. Essa diferença de 10-15 gramas pode não parecer muito no papel, mas coloque uma armação TR90 no rosto depois de usar acetato o dia todo e você vai entender imediatamente por que atletas, profissionais ao ar livre e cada vez mais consumidores comuns estão mudando. Você esquece que está usando. Sem pressão no nariz, sem escorregar, sem marcas vermelhas atrás das orelhas. Para <Link href="/pt/produtos/esportivo" className="text-primary-600 hover:underline">marcas esportivas</Link> e <Link href="/pt/produtos/infantil" className="text-primary-600 hover:underline">óculos infantis</Link>, o TR90 não é apenas uma boa opção — é a escolha óbvia.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                A partir de el punto de vista de fabricação, el TR90 se moldea por inyección — lo que significa que alimentamos pellets de Grilamid en un cilindro calentado, inyectamos el material fundido en un molde de acero de precisión bajo alta presión y sacamos un armação terminado en unos 45 segundos. Compara eso con los armações de acetato que tardan 5-7 dias de corte, pulido en tambor y pulido a mano. El resultado es una produção más rápida, menor costo unitario y qualidade extremadamente consistente. Nossa tasa de defectos en TR90 es inferior al 0.5% — frente al 3-5% del acetato. Si necesitas grandes volúmenes a preços competitivos sin sacrificar qualidade, el TR90 es el material que lo hace posible.
+                Do ponto de vista de fabricação, o TR90 é moldado por injeção — o que significa que alimentamos pellets de Grilamid em um cilindro aquecido, injetamos o material fundido em um molde de aço de precisão sob alta pressão e retiramos uma armação finalizada em cerca de 45 segundos. Compare isso com armações de acetato que levam 5-7 dias de corte, tamboreamento e polimento à mão. O resultado é produção mais rápida, menor custo unitário e qualidade extremamente consistente. Nossa taxa de defeitos em TR90 é inferior a 0,5% — contra 3-5% do acetato. Se você precisa de grandes volumes a preços competitivos sem sacrificar qualidade, o TR90 é o material que torna isso possível.
               </p>
               <p className="text-lg leading-relaxed">
-                Producimos alrededor de 500,000 armações TR90 por año entre envolventes esportivos, wayfarers casuales, estilos infantiles y designs híbridos deporte-casual. Nossa biblioteca de moldes tiene mais de 80 designs listos para usar, y operamos cuatro máquinas de moldeo por inyección dedicadas a la produção de TR90. Ya sea que estés lanzando una marca de óculos esportivos, añadiendo una línea infantil o construyendo una coleção ligera de uso diario, aquí tienes todo lo que necesitas saber.
+                Produzimos cerca de 500.000 armações TR90 por ano entre esportivos envolventes, wayfarers casuais, estilos infantis e designs híbridos esporte-casual. Nossa biblioteca de moldes tem mais de 80 designs prontos para uso, e operamos quatro máquinas de moldagem por injeção dedicadas à produção de TR90. Seja você lançando uma marca de óculos esportivos, adicionando uma linha infantil ou construindo uma coleção leve de uso diário, aqui está tudo o que você precisa saber.
               </p>
             </div>
           </div>
 
           {/* Weight Comparison */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">La Ventaja del Peso</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">A Vantagem do Peso</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              El peso es la razón principal por la que las marcas eligen TR90. Así es como se compara con todos los demás materiales de armação que ofrecemos.
+              O peso é a principal razão pela qual as marcas escolhem TR90. Veja como ele se compara a todos os outros materiais de armação que oferecemos.
             </p>
 
             <div className="max-w-4xl mx-auto">
@@ -173,18 +173,18 @@ export default function TR90PagePtPt() {
                   <div className="w-full bg-gray-100 rounded-full h-4">
                     <div className="bg-primary-500 h-4 rounded-full" style={{ width: '30%' }}></div>
                   </div>
-                  <p className="text-sm text-gray-500 mt-2">La opción más ligera. Apenas se nota en el rostro. Ideal para uso durante todo el día y actividad física.</p>
+                  <p className="text-sm text-gray-500 mt-2">A opção mais leve. Quase imperceptível no rosto. Ideal para uso o dia todo e atividade física.</p>
                 </div>
 
                 <div className="bg-white rounded-xl p-6 border border-gray-100">
                   <div className="flex items-center justify-between mb-2">
-                    <span className="font-bold text-gray-900">Aleación de Aluminio</span>
+                    <span className="font-bold text-gray-900">Liga de Alumínio</span>
                     <span className="text-gray-600 font-bold">18 - 22g</span>
                   </div>
                   <div className="w-full bg-gray-100 rounded-full h-4">
                     <div className="bg-gray-400 h-4 rounded-full" style={{ width: '40%' }}></div>
                   </div>
-                  <p className="text-sm text-gray-500 mt-2">Cercano al TR90 en peso, pero rígido — sin flexión. Sensación metálica premium con buena ligereza.</p>
+                  <p className="text-sm text-gray-500 mt-2">Próximo ao TR90 em peso, mas rígido — sem flexão. Sensação metálica premium com boa leveza.</p>
                 </div>
 
                 <div className="bg-white rounded-xl p-6 border border-gray-100">
@@ -195,29 +195,29 @@ export default function TR90PagePtPt() {
                   <div className="w-full bg-gray-100 rounded-full h-4">
                     <div className="bg-gray-400 h-4 rounded-full" style={{ width: '60%' }}></div>
                   </div>
-                  <p className="text-sm text-gray-500 mt-2">El material de lujo. Hermoso pero más pesado. Ese peso es parte de su &ldquo;sensación premium&rdquo; — pero no es ideal para deportes.</p>
+                  <p className="text-sm text-gray-500 mt-2">O material de luxo. Bonito mas mais pesado. Esse peso faz parte da &ldquo;sensação premium&rdquo; — mas não é ideal para esportes.</p>
                 </div>
 
                 <div className="bg-white rounded-xl p-6 border border-gray-100">
                   <div className="flex items-center justify-between mb-2">
-                    <span className="font-bold text-gray-900">Acero Inoxidable</span>
+                    <span className="font-bold text-gray-900">Aço Inoxidável</span>
                     <span className="text-gray-600 font-bold">28 - 35g</span>
                   </div>
                   <div className="w-full bg-gray-100 rounded-full h-4">
                     <div className="bg-gray-400 h-4 rounded-full" style={{ width: '65%' }}></div>
                   </div>
-                  <p className="text-sm text-gray-500 mt-2">Armações metálicos clásicos. El peso comunica qualidade pero puede causar fatiga durante el uso prolongado.</p>
+                  <p className="text-sm text-gray-500 mt-2">Armações metálicas clássicas. O peso comunica qualidade mas pode causar fadiga durante uso prolongado.</p>
                 </div>
 
                 <div className="bg-white rounded-xl p-6 border border-gray-100">
                   <div className="flex items-center justify-between mb-2">
-                    <span className="font-bold text-gray-900">Policarbonato Estándar</span>
+                    <span className="font-bold text-gray-900">Policarbonato Padrão</span>
                     <span className="text-gray-600 font-bold">22 - 28g</span>
                   </div>
                   <div className="w-full bg-gray-100 rounded-full h-4">
                     <div className="bg-gray-400 h-4 rounded-full" style={{ width: '50%' }}></div>
                   </div>
-                  <p className="text-sm text-gray-500 mt-2">Más barato que el TR90 pero más pesado, menos flexible y más frágil. La opción económica que el TR90 supera.</p>
+                  <p className="text-sm text-gray-500 mt-2">Mais barato que o TR90 mas mais pesado, menos flexível e mais frágil. A opção econômica que o TR90 supera.</p>
                 </div>
               </div>
             </div>
@@ -250,7 +250,7 @@ export default function TR90PagePtPt() {
                         <div className="text-primary-600 font-bold">{product.price}</div>
                         <div className="text-xs text-gray-400">MOQ: {product.moq}</div>
                       </div>
-                      <Link href="/pt/contato" className="btn-primary text-sm">Cotización</Link>
+                      <Link href="/pt/contato" className="btn-primary text-sm">Solicitar Orçamento</Link>
                     </div>
                   </div>
                 </div>
@@ -266,25 +266,25 @@ export default function TR90PagePtPt() {
                 <table className="w-full">
                   <tbody className="divide-y divide-gray-100">
                     {[
-                      ['Material del Armação', 'EMS-Grivory Grilamid TR90 (poliamida termoplástica de ingeniería suiza)'],
-                      ['Peso del Armação', '15-20g (armação completo) / 12-15g (infantil) / 14g (semi al aire)'],
-                      ['Flexibilidad', 'Material con memoria — se dobla a 90°+ y vuelve a su forma original. Mais de 5,000 ciclos de flexión probados.'],
-                      ['Resistencia al Calor', 'HDT 120°C (248°F) — sobrevive a salpicaderos de coche, saunas, agua caliente'],
-                      ['Resistencia al Frío', 'Mantiene la flexibilidad hasta -40°C (-40°F) — sin fragilidad en invierno'],
-                      ['Hipoalergénico', 'Sí — sin níquel, sin BPA, sin ftalatos, sin látex'],
-                      ['Material de Lente', 'Policarbonato / TAC Polarizado / Fotocromático'],
-                      ['Proteção UV', 'UV400 — bloquea el 100% de UVA (315-380nm) y UVB (280-315nm)'],
-                      ['Almofadas Nasales', 'Caucho TPE integrado (antideslizante) o almofadas de silicona ajustables'],
-                      ['Puntas de Haste', 'Agarre de caucho TPE co-moldeado — antideslizante incluso mojado'],
-                      ['Colores en Stock', '30+ estándar: negro mate, negro brillo, azul marino, gris, rojo, naranja, blanco, transparente, etc.'],
-                      ['Colores Personalizados', 'Igualación Pantone disponível — MOQ 500 pçs para masterbatch personalizado'],
-                      ['Acabados Superficiales', 'Mate, brillo, recubrimiento de caucho (tacto suave), acentos PVD metálicos'],
-                      ['Opciones de Impresión', 'Tampografía, impresión UV, transferencia hidrográfica (camuflaje, fibra de carbono), grabado láser'],
+                      ['Material da Armação', 'EMS-Grivory Grilamid TR90 (poliamida termoplástica de engenharia suíça)'],
+                      ['Peso da Armação', '15-20g (armação completa) / 12-15g (infantil) / 14g (semi-aro)'],
+                      ['Flexibilidade', 'Material com memória — dobra a 90°+ e retorna à forma original. Mais de 5.000 ciclos de flexão testados.'],
+                      ['Resistência ao Calor', 'HDT 120°C (248°F) — sobrevive a painéis de carro, saunas, água quente'],
+                      ['Resistência ao Frio', 'Mantém a flexibilidade até -40°C (-40°F) — sem fragilidade no inverno'],
+                      ['Hipoalergênico', 'Sim — sem níquel, sem BPA, sem ftalatos, sem látex'],
+                      ['Material da Lente', 'Policarbonato / TAC Polarizado / Fotocromático'],
+                      ['Proteção UV', 'UV400 — bloqueia 100% de UVA (315-380nm) e UVB (280-315nm)'],
+                      ['Plaquetas Nasais', 'Borracha TPE integrada (antiderrapante) ou plaquetas de silicone ajustáveis'],
+                      ['Ponteiras da Haste', 'Aderência de borracha TPE co-moldada — antiderrapante mesmo molhado'],
+                      ['Cores em Estoque', '30+ padrão: preto fosco, preto brilhante, azul marinho, cinza, vermelho, laranja, branco, transparente, etc.'],
+                      ['Cores Personalizadas', 'Igualação Pantone disponível — MOQ 500 pçs para masterbatch personalizado'],
+                      ['Acabamentos de Superfície', 'Fosco, brilhante, revestimento de borracha (toque suave), detalhes PVD metálicos'],
+                      ['Opções de Impressão', 'Tampografia, impressão UV, transferência hidrográfica (camuflagem, fibra de carbono), gravação a laser'],
                       ['Certificações', 'CE (EN ISO 12312-1) · FDA · UV400 · ISO 9001 · EN 71 (infantil)'],
-                      ['MOQ', '100 pçs por modelo (moldes en stock) / 500 pçs (moldes personalizados)'],
-                      ['Tarifa de Molde (Personalizado)', '$1,500 - $3,000 único pago — molde de inyección de acero'],
-                      ['Tiempo de Amostra', '3-5 dias hábiles'],
-                      ['Tiempo de Produção', '12-18 dias estándar / 8-10 dias urgente'],
+                      ['MOQ', '100 pçs por modelo (moldes em estoque) / 500 pçs (moldes personalizados)'],
+                      ['Taxa de Molde (Personalizado)', '$1.500 - $3.000 pagamento único — molde de injeção de aço'],
+                      ['Prazo de Amostra', '3-5 dias úteis'],
+                      ['Prazo de Produção', '12-18 dias padrão / 8-10 dias urgente'],
                     ].map(([label, value], i) => (
                       <tr key={i} className="hover:bg-gray-50">
                         <td className="px-6 py-4 font-semibold text-gray-900 w-1/3">{label}</td>
@@ -299,105 +299,105 @@ export default function TR90PagePtPt() {
 
           {/* Key Properties Deep Dive */}
           <section className="mb-20 bg-gray-50 rounded-2xl p-8 md:p-12">
-            <h2 className="text-3xl font-bold text-center mb-4">Por Qué el TR90 Supera a Otros Plásticos</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Por Que o TR90 Supera Outros Plásticos</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              No todos los armações de plástico son iguales. Esto es lo que separa al TR90 del policarbonato estándar y el nylon barato.
+              Nem todas as armações de plástico são iguais. Aqui está o que separa o TR90 do policarbonato padrão e do nylon barato.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">🪶 Ultraligero</h3>
-                <p className="text-sm text-gray-600">Con una densidad de 1.14 g/cm³, el TR90 es uno de los materiales de armação más ligeros disponívels. Un envolvente esportivo de armação completo pesa solo 18 gramos — aproximadamente lo mismo que tres hojas de papel. Los clientes literalmente olvidan que las llevan puestas, que es exactamente lo que los atletas necesitan.</p>
+                <h3 className="font-bold mb-2">🪶 Ultraleve</h3>
+                <p className="text-sm text-gray-600">Com uma densidade de 1,14 g/cm³, o TR90 é um dos materiais de armação mais leves disponíveis. Um esportivo envolvente de armação completa pesa apenas 18 gramas — aproximadamente o mesmo que três folhas de papel. Os clientes literalmente esquecem que estão usando, que é exatamente o que atletas precisam.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">💪 Flexibilidad con Memoria</h3>
-                <p className="text-sm text-gray-600">El TR90 tiene verdadera memoria de forma — dóblalo, tuércelo, siéntate sobre él, y vuelve a su forma original. Probamos cada design de armação con mais de 5,000 ciclos de apertura-cierre y flexión de haste a 90 grados sin deformación permanente. El policarbonato estándar falla esta prueba a los 500 ciclos aproximadamente.</p>
+                <h3 className="font-bold mb-2">💪 Flexibilidade com Memória</h3>
+                <p className="text-sm text-gray-600">O TR90 tem verdadeira memória de forma — dobre-o, torça-o, sente-se sobre ele, e volta à forma original. Testamos cada design de armação com mais de 5.000 ciclos de abertura-fechamento e flexão de haste a 90 graus sem deformação permanente. O policarbonato padrão falha neste teste por volta de 500 ciclos.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">🌡️ Resistente a la Temperatura</h3>
-                <p className="text-sm text-gray-600">La deflexión térmica a 120°C significa que el TR90 sobrevive a situaciones que destruyen otros plásticos. ¿Dejadas en el salpicadero de un coche en Phoenix? Sin problema. ¿Caídas en un jacuzzi? Sin problema. ¿Guardadas en una taquilla de sauna? Sin problema. El acetato se deformaría. El PC estándar podría deformarse. Al TR90 le da igual.</p>
+                <h3 className="font-bold mb-2">🌡️ Resistente à Temperatura</h3>
+                <p className="text-sm text-gray-600">A deflexão térmica a 120°C significa que o TR90 sobrevive a situações que destroem outros plásticos. Deixou no painel do carro em Phoenix? Sem problema. Caiu em uma banheira de hidromassagem? Sem problema. Guardou em um armário de sauna? Sem problema. O acetato deformaria. O PC padrão poderia deformar. O TR90 não se importa.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">🧪 Resistente a Químicos</h3>
-                <p className="text-sm text-gray-600">Resistente a protector solar, repelente de insectos, sudor, agua salada y la mayoría de químicos comunes. Esto importa para uso esportivo y al aire libre donde los armações están constantemente expuestos a estas sustancias. El acetato, por el contrario, puede dañarse con los químicos del protector solar con el tiempo.</p>
+                <h3 className="font-bold mb-2">🧪 Resistente a Produtos Químicos</h3>
+                <p className="text-sm text-gray-600">Resistente a protetor solar, repelente de insetos, suor, água salgada e a maioria dos produtos químicos comuns. Isso importa para uso esportivo e ao ar livre onde as armações estão constantemente expostas a essas substâncias. O acetato, por outro lado, pode ser danificado pelos químicos do protetor solar com o tempo.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🛡️ Resistente a Impactos</h3>
-                <p className="text-sm text-gray-600">El TR90 absorbe la energía del impacto mediante la flexión en vez de agrietarse. Deja caer un armação TR90 a partir de la altura de la cabeza sobre concreto y rebota. Deja caer un armação de acetato y puede astillarse. Para óculos esportivos e infantiles, esta es una característica de seguridad, no solo durabilidad.</p>
+                <p className="text-sm text-gray-600">O TR90 absorve a energia do impacto através da flexão em vez de rachar. Deixe cair uma armação TR90 da altura da cabeça no concreto e ela quica. Deixe cair uma armação de acetato e pode lascar. Para óculos esportivos e infantis, esta é uma característica de segurança, não apenas durabilidade.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">🏭 Eficiencia de Produção</h3>
-                <p className="text-sm text-gray-600">El tiempo de ciclo de moldeo por inyección es de unos 45 segundos por armação — frente a 5-7 dias para acetato. Esto significa entrega más rápida (12-18 dias vs 20-28 dias), menor costo unitario y tasas de defectos por debajo del 0.5%. Para pedidos de volumen, la ventaja en costo y velocidad es significativa.</p>
+                <h3 className="font-bold mb-2">🏭 Eficiência de Produção</h3>
+                <p className="text-sm text-gray-600">O tempo de ciclo de moldagem por injeção é de cerca de 45 segundos por armação — contra 5-7 dias para acetato. Isso significa entrega mais rápida (12-18 dias vs 20-28 dias), menor custo unitário e taxas de defeitos abaixo de 0,5%. Para pedidos de volume, a vantagem em custo e velocidade é significativa.</p>
               </div>
             </div>
           </section>
 
           {/* Best Use Cases */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">¿Quién Debería Usar TR90?</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Quem Deve Usar TR90?</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              El TR90 no es el material adecuado para todas las marcas. Aquí es donde destaca y dónde podrías querer algo diferente.
+              O TR90 não é o material certo para todas as marcas. Aqui é onde ele se destaca e onde você pode querer algo diferente.
             </p>
 
             <div className="grid md:grid-cols-3 gap-8">
               <div className="bg-white rounded-xl p-8 border border-green-200">
-                <h3 className="text-xl font-bold mb-4 text-green-600">✅ Perfecto Para</h3>
+                <h3 className="text-xl font-bold mb-4 text-green-600">✅ Perfeito Para</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Marcas esportivos</strong> — ciclismo, running, pesca, golf, esquí. El TR90 es el estándar de la industria para óculos de rendimiento.</span>
+                    <span><strong>Marcas esportivas</strong> — ciclismo, corrida, pesca, golfe, esqui. O TR90 é o padrão da indústria para óculos de desempenho.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Óculos infantiles</strong> — irrompibles, ultraligeras, hipoalergénicas. El material fue prácticamente diseñado para crianças.</span>
+                    <span><strong>Óculos infantis</strong> — inquebráveis, ultraleves, hipoalergênicos. O material foi praticamente projetado para crianças.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Líneas de confort diario</strong> — para marcas que se posicionan en torno a la comodidad todo el día y el mensaje de &ldquo;te olvidas de que las llevas&rdquo;.</span>
+                    <span><strong>Linhas de conforto diário</strong> — para marcas que se posicionam em torno da comodidade o dia todo e da mensagem de &ldquo;você esquece que está usando&rdquo;.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Marcas de volumen/valor</strong> — bajo costo unitario con qualidade genuina. Punto óptimo retail de $20-50.</span>
+                    <span><strong>Marcas de volume/valor</strong> — baixo custo unitário com qualidade genuína. Faixa de varejo ideal de $20-50.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Promocional / corporativo</strong> — suficientemente asequible para regalos pero con qualidade suficiente para que la gente realmente las use.</span>
+                    <span><strong>Promocional / corporativo</strong> — acessível o suficiente para brindes mas com qualidade suficiente para que as pessoas realmente usem.</span>
                   </li>
                 </ul>
               </div>
 
               <div className="bg-white rounded-xl p-8 border border-yellow-200">
-                <h3 className="text-xl font-bold mb-4 text-yellow-600">⚡ Buena Opción Híbrida</h3>
+                <h3 className="text-xl font-bold mb-4 text-yellow-600">⚡ Boa Opção Híbrida</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-yellow-600 mt-1">•</span>
-                    <span><strong>Combos TR90 + metal</strong> — frente TR90 con hastes metálicas para un look de transición deporte-casual.</span>
+                    <span><strong>Combos TR90 + metal</strong> — frente TR90 com hastes metálicas para um visual de transição esporte-casual.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-yellow-600 mt-1">•</span>
-                    <span><strong>Esportivos con prescripción</strong> — TR90 con ranuras de lente compatibles con RX para inserto óptico o montaje directo.</span>
+                    <span><strong>Esportivos com prescrição</strong> — TR90 com ranhuras de lente compatíveis com Rx para inserto óptico ou montagem direta.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-yellow-600 mt-1">•</span>
-                    <span><strong>Marcas multi-línea</strong> — muchos de nossos clientes usan TR90 para su línea deportiva/activa y acetato para su línea de moda.</span>
+                    <span><strong>Marcas multi-linha</strong> — muitos dos nossos clientes usam TR90 para sua linha esportiva/ativa e acetato para sua linha de moda.</span>
                   </li>
                 </ul>
               </div>
 
               <div className="bg-white rounded-xl p-8 border border-red-200">
-                <h3 className="text-xl font-bold mb-4 text-red-600">❌ No Ideal Para</h3>
+                <h3 className="text-xl font-bold mb-4 text-red-600">❌ Não Ideal Para</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-red-500 mt-1">•</span>
-                    <span><strong>Lujo / alta moda</strong> — el TR90 carece de la riqueza visual del acetato. Sin carey, sin mármol, sin profundidad de cristal.</span>
+                    <span><strong>Luxo / alta moda</strong> — o TR90 carece da riqueza visual do acetato. Sem tartaruga, sem mármore, sem profundidade de cristal.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-red-500 mt-1">•</span>
-                    <span><strong>Posicionamiento retail de $100+</strong> — el material no transmite la sensación premium necesaria a este preço (a menos que sea una marca de rendimiento/tecnología).</span>
+                    <span><strong>Posicionamento de varejo $100+</strong> — o material não transmite a sensação premium necessária nessa faixa de preço (a menos que seja uma marca de desempenho/tecnologia).</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-red-500 mt-1">•</span>
-                    <span><strong>Estilo clásico/heritage</strong> — aviadores y wayfarers en TR90 funcionan pero carecen de la calidez y el carácter del metal o acetato.</span>
+                    <span><strong>Estilo clássico/heritage</strong> — aviadores e wayfarers em TR90 funcionam mas carecem da calorosidade e caráter do metal ou acetato.</span>
                   </li>
                 </ul>
               </div>
@@ -406,52 +406,52 @@ export default function TR90PagePtPt() {
 
           {/* Customization */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Opciones de Personalização TR90</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Opções de Personalização TR90</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              El TR90 puede ser moldeado por inyección, pero eso no significa genérico. Así es como hacemos que cada par sea tuyo.
+              O TR90 pode ser moldado por injeção, mas isso não significa genérico. Veja como tornamos cada par exclusivamente seu.
             </p>
 
             <div className="grid md:grid-cols-3 gap-8">
               <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">🎨 Colores y Acabados</h3>
+                <h3 className="text-xl font-bold mb-4">🎨 Cores e Acabamentos</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Color integral</strong> — 30+ colores estándar, o igualación Pantone (MOQ 500 pçs)</span>
+                    <span><strong>Cor integral</strong> — 30+ cores padrão, ou igualação Pantone (MOQ 500 pçs)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Recubrimiento de caucho</strong> — acabado mate de tacto suave que añade agarre y sensación premium</span>
+                    <span><strong>Revestimento de borracha</strong> — acabamento fosco de toque suave que adiciona aderência e sensação premium</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Hidrográfico</strong> — impresión por transferencia en agua para patrones de camuflaje, fibra de carbono, veta de madera</span>
+                    <span><strong>Hidrográfico</strong> — impressão por transferência em água para padrões de camuflagem, fibra de carbono, veio de madeira</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Bicolor</strong> — diferentes colores para el frente y las hastes usando moldeo multi-disparo</span>
+                    <span><strong>Bicolor</strong> — cores diferentes para frente e hastes usando moldagem multi-disparo</span>
                   </li>
                 </ul>
               </div>
 
               <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">🏷️ Logo y Branding</h3>
+                <h3 className="text-xl font-bold mb-4">🏷️ Logo e Branding</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Tampografía</strong> — logo multicolor en hastes, hasta 4 colores</span>
+                    <span><strong>Tampografia</strong> — logo multicolorido nas hastes, até 4 cores</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Impresión UV</strong> — qualidade fotográfica, a todo color, detalle fino en superficies planas</span>
+                    <span><strong>Impressão UV</strong> — qualidade fotográfica, cores completas, detalhe fino em superfícies planas</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Grabado láser</strong> — permanente, funciona também en superficies recubiertas de caucho</span>
+                    <span><strong>Gravação a laser</strong> — permanente, funciona também em superfícies revestidas de borracha</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Placa metálica</strong> — placa de logo de aleación de zinc incrustada en la haste durante el moldeo</span>
+                    <span><strong>Placa metálica</strong> — placa de logo de liga de zinco embutida na haste durante a moldagem</span>
                   </li>
                 </ul>
               </div>
@@ -461,19 +461,19 @@ export default function TR90PagePtPt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estuche esportivo</strong> — EVA semi-rígido con clip mosquetón, con marca. $1.00-1.80 por set.</span>
+                    <span><strong>Estojo esportivo</strong> — EVA semi-rígido com clipe mosquetão, com marca. $1,00-1,80 por conjunto.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Funda de microfibra</strong> — con cordón y logo impreso. $0.30-0.60 cada una.</span>
+                    <span><strong>Bolsa de microfibra</strong> — com cordão e logo impresso. $0,30-0,60 cada.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Cordón de sujeción</strong> — cordón de neopreno con marca. Excelente complemento para líneas esportivos. $0.40-0.80.</span>
+                    <span><strong>Cordão de segurança</strong> — cordão de neoprene com marca. Excelente complemento para linhas esportivas. $0,40-0,80.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Caja retail</strong> — impresión a todo color, inserto personalizado, tarjeta de especificaciones. $0.80-1.50.</span>
+                    <span><strong>Caixa de varejo</strong> — impressão em cores completas, inserto personalizado, cartão de especificações. $0,80-1,50.</span>
                   </li>
                 </ul>
               </div>
@@ -482,35 +482,35 @@ export default function TR90PagePtPt() {
 
           {/* Lens Options for Sport */}
           <section className="mb-20 bg-gray-900 rounded-2xl p-8 md:p-12 text-white">
-            <h2 className="text-3xl font-bold text-center mb-4">Opciones de Lentes para Armações TR90</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Opções de Lentes para Armações TR90</h2>
             <p className="text-gray-300 text-center max-w-3xl mx-auto mb-10">
-              La lente importa tanto como el armação. Estas son las opciones que combinamos con TR90 — especialmente para uso esportivo y activo.
+              A lente importa tanto quanto a armação. Estas são as opções que combinamos com TR90 — especialmente para uso esportivo e ativo.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-blue-400">🔵 TAC Polarizado</h3>
-                <p className="text-gray-300 text-sm">La mejora más popular para armações TR90 esportivos. La película polarizada de 7 capas elimina el 99% del resplandor reflejado del agua, carreteras y nieve. Esencial para pesca, ciclismo y conducción. Añade $2-3 por par pero te permite cobrar $15-20 más en retail. Lee nossa <Link href="/pt/produtos/polarizado" className="text-blue-400 hover:underline">guía de lentes</Link> para el desglose completo.</p>
+                <p className="text-gray-300 text-sm">A melhoria mais popular para armações TR90 esportivas. A película polarizada de 7 camadas elimina 99% do reflexo refletido da água, estradas e neve. Essencial para pesca, ciclismo e direção. Adiciona $2-3 por par mas permite cobrar $15-20 a mais no varejo. Leia nosso <Link href="/pt/produtos/polarizado" className="text-blue-400 hover:underline">guia de lentes</Link> para o detalhamento completo.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-blue-400">🌗 Fotocromático</h3>
-                <p className="text-gray-300 text-sm">Se oscurece con la luz solar, se aclara en interiores. De Categoría 0-1 en interiores a Categoría 2-3 en exteriores en unos 30 segundos. Gran punto de venta para uso esportivo durante todo el día — empieza tu carrera al amanecer, termina al mediodía, un solo par lo maneja todo. Añade $3-4 por par.</p>
+                <p className="text-gray-300 text-sm">Escurece com a luz solar, clareia em ambientes internos. De Categoria 0-1 em interiores para Categoria 2-3 ao ar livre em cerca de 30 segundos. Ótimo ponto de venda para uso esportivo o dia todo — comece sua corrida ao amanhecer, termine ao meio-dia, um único par dá conta de tudo. Adiciona $3-4 por par.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-blue-400">🪞 Recubrimientos Espejo</h3>
-                <p className="text-gray-300 text-sm">Plata, azul, rojo, dorado, verde, púrpura, rosa — aplicados sobre lentes polarizados o de PC estándar. El look agresivo combina perfectamente con armações TR90 esportivos. Espejo azul sobre un envolvente TR90 negro mate es uno de nossos produtos más vendidos de todos los tiempos.</p>
+                <h3 className="font-bold mb-2 text-blue-400">🪞 Revestimentos Espelhados</h3>
+                <p className="text-gray-300 text-sm">Prata, azul, vermelho, dourado, verde, roxo, rosa — aplicados sobre lentes polarizadas ou de PC padrão. O visual agressivo combina perfeitamente com armações TR90 esportivas. Espelhado azul em um envolvente TR90 preto fosco é um dos nossos produtos mais vendidos de todos os tempos.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-blue-400">🟡 Amarillo/Ámbar (Baja Luz)</h3>
-                <p className="text-gray-300 text-sm">Tinte de Categoría 1 que mejora el contraste en condiciones nubladas, con niebla o poca luz. Popular para ciclismo, tiro, esquí y conducción al atardecer. No es suficientemente oscuro para sol intenso — se comercializa como una opción de lente dedicada para poca luz.</p>
+                <h3 className="font-bold mb-2 text-blue-400">🟡 Amarelo/Âmbar (Pouca Luz)</h3>
+                <p className="text-gray-300 text-sm">Tingimento de Categoria 1 que melhora o contraste em condições nubladas, com neblina ou pouca luz. Popular para ciclismo, tiro, esqui e direção ao entardecer. Não é escuro o suficiente para sol forte — comercializado como uma opção de lente dedicada para pouca luz.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-blue-400">💧 Hidrofóbico + Oleofóbico</h3>
-                <p className="text-gray-300 text-sm">Recubrimientos repelentes al agua y resistentes a huellas dactilares. La lluvia forma gotas, el sudor se limpia fácilmente, las manchas no se adhieren. Añade $0.50-1.00 por par. Muy recomendado para lentes esportivos que recibirán lluvia, sudor y serán manipuladas con dedos sucios.</p>
+                <p className="text-gray-300 text-sm">Revestimentos repelentes à água e resistentes a impressões digitais. A chuva escorre, o suor limpa fácil, manchas não grudam. Adiciona $0,50-1,00 por par. Fortemente recomendado para lentes esportivas que vão receber chuva, suor e ser manuseadas com dedos sujos.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-blue-400">🌫️ Anti-Vaho</h3>
-                <p className="text-gray-300 text-sm">Recubrimiento hidrofílico que previene la condensación. Crítico para deportes en clima frío (esquí, snowboard) y actividades de alto esfuerzo donde el calor corporal se encuentra con el aire frío. Funciona durante unos 6-12 meses de uso regular. Añade $1-2 por par.</p>
+                <h3 className="font-bold mb-2 text-blue-400">🌫️ Anti-Embaçamento</h3>
+                <p className="text-gray-300 text-sm">Revestimento hidrofílico que previne condensação. Crítico para esportes em clima frio (esqui, snowboard) e atividades de alto esforço onde o calor corporal encontra ar frio. Funciona por cerca de 6-12 meses de uso regular. Adiciona $1-2 por par.</p>
               </div>
             </div>
           </section>
@@ -535,17 +535,17 @@ export default function TR90PagePtPt() {
               <Link href="/pt/produtos/esportivo" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">🏃</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Óculos de Sol Esportivos</h3>
-                <p className="text-gray-600 text-sm">Nossa coleção completa de óculos esportivos — envolventes, pantallas, semi al aire. La mayoría de estilos disponívels en TR90 con opciones de lentes polarizados y fotocromáticas.</p>
+                <p className="text-gray-600 text-sm">Nossa coleção completa de óculos esportivos — envolventes, viseiras, semi-aro. A maioria dos estilos disponíveis em TR90 com opções de lentes polarizadas e fotocromáticas.</p>
               </Link>
               <Link href="/pt/produtos/infantil" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">👶</div>
-                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Óculos de Sol Infantiles</h3>
-                <p className="text-gray-600 text-sm">El TR90 es el material ideal para óculos infantiles — irrompibles, ultraligeras, hipoalergénicas. Tallas para edades de 0 a 14 anos.</p>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Óculos de Sol Infantis</h3>
+                <p className="text-gray-600 text-sm">O TR90 é o material ideal para óculos infantis — inquebráveis, ultraleves, hipoalergênicos. Tamanhos para idades de 0 a 14 anos.</p>
               </Link>
               <Link href="/pt/produtos/polarizado" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">📖</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Óculos Polarizados</h3>
-                <p className="text-gray-600 text-sm">Guía completa de lentes para óculos de sol — polarizados, fotocromáticas, espejo, CR-39. Descubre qué opciones de lentes combinan mejor con armações TR90.</p>
+                <p className="text-gray-600 text-sm">Guia completo de lentes para óculos de sol — polarizadas, fotocromáticas, espelhadas, CR-39. Descubra quais opções de lentes combinam melhor com armações TR90.</p>
               </Link>
             </div>
           </section>
@@ -554,14 +554,14 @@ export default function TR90PagePtPt() {
           <section className="bg-primary-600 rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-3xl font-bold mb-4">Pronto para Pedir Armações TR90?</h2>
             <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
-              Cuéntanos lo que necesitas — envolventes esportivos, armações infantiles, estilos casuales o algo personalizado. Te enviaremos amostras de nossa biblioteca de mais de 80 moldes en 3-5 dias. Preços, cronograma de produção y opciones de personalização incluidos. Sin compromiso hasta que estés listo para ordenar.
+              Conte-nos o que você precisa — esportivos envolventes, armações infantis, estilos casuais ou algo personalizado. Enviaremos amostras da nossa biblioteca de mais de 80 moldes em 3-5 dias. Preços, cronograma de produção e opções de personalização incluídos. Sem compromisso até que você esteja pronto para pedir.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/pt/contato" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
                 Solicitar Orçamento
               </Link>
               <Link href="/pt/produtos" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
-                Ver Todos los Produtos
+                Ver Todos os Produtos
               </Link>
             </div>
           </section>

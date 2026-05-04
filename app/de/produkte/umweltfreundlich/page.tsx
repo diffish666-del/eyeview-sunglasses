@@ -4,11 +4,11 @@ import { ProductSchema, BreadcrumbListSchema, FAQPageSchema } from '../../../com
 
 export const metadata: Metadata = {
   title: 'Umweltfreundliche Sonnenbrillen Großhandel | Nachhaltige Brillen Hersteller - EyeView',
-  description: 'Hersteller von umweltfreundlichen Sonnenbrillen im Großhandel. Recyceltes Ozeanplastik, Bambus, Bio-Acetat. Nachhaltige Brillen für umweltbewusste Marken. OEM/ODM. MOQ 100 Stk.',
+  description: 'Hersteller von umweltfreundlichen Sonnenbrillen im Großhandel. Recyceltes Ozeanplastik, Bambus, Bio-Acetat. Nachhaltige Brillen für umweltbewusste Marken. OEM/ODM. MOQ 200 Stk.',
   keywords: 'Umweltfreundliche Sonnenbrillen Großhandel, nachhaltige Brillen Hersteller, recycelte Sonnenbrillen, Bio-Acetat Brillen, Bambus Sonnenbrillen',
   openGraph: {
     title: 'Umweltfreundliche Sonnenbrillen Großhandel | Nachhaltige Brillen Hersteller - EyeView',
-    description: 'Hersteller de Brillen nachhaltigs. Plástico recycelt del océano, bambú, Fassungs de bio-acetato. MOQ 200 Stk.. Preiss directos de Fabrik con Zertifizierungen verdes.',
+    description: 'Hersteller nachhaltiger Brillen. Recyceltes Ozeanplastik, Bambus, Bio-Acetat-Fassungen. MOQ 200 Stk. Fabrikdirektpreise mit Grün-Zertifizierungen.',
     type: 'website',
     url: 'https://eyeviewsunglasses.com/de/produkte/umweltfreundlich',
   },
@@ -23,89 +23,89 @@ export const metadata: Metadata = {
 
 const ecoFaqs = [
   {
-    question: '¿Qué Materiales nachhaltigs ofrecen para la fabricación de Sonnenbrillen?',
-    answer: 'Trabajamos con cuatro Materiales umweltfreundlichs principales ahora mismo. Primero está el plástico recycelt del océano (rPET) — obtenemos plástico post-consumo recolectado en limStück costeras en el sudeste asiático y lo procesamos en pellets inyectables. Segundo es el bambú, que usamos para las Bügels (los brazos de la Fassung). Tercero es el bio-acetato, específicamente Eastman Acetate Renew, que reemplaza el 60% de la materia prima fósil con contenido recycelt certificado mediante reciclaje molecular. Y cuarto es la aleación de aluminio recycelt para componentes metálicos de Fassungs. Cada Material tiene diferentes costos, estética y argumentos medioambientales, así que te ayudamos a elegir el adecuado para la historia de tu Marke y tu punto de Preis.',
+    question: 'Welche nachhaltigen Materialien bieten Sie für die Sonnenbrillenherstellung an?',
+    answer: 'Wir arbeiten derzeit mit vier umweltfreundlichen Hauptmaterialien. Erstens recyceltes Ozeanplastik (rPET) — wir beziehen Post-Consumer-Plastik aus Küstenreinigungen in Südostasien und verarbeiten es zu spritzgussfähigen Pellets. Zweitens Bambus, den wir für Bügel (die Arme der Fassung) verwenden. Drittens Bio-Acetat, speziell Eastman Acetate Renew, das 60% des fossilen Rohstoffs durch zertifizierte recycelte Inhalte mittels molekularem Recycling ersetzt. Und viertens recycelte Aluminiumlegierung für Metallrahmenkomponenten. Jedes Material hat unterschiedliche Kosten, Ästhetik und Umweltaussagen, daher helfen wir Ihnen, das richtige für Ihre Markenstory und Preispositionierung auszuwählen.',
   },
   {
-    question: '¿Qué Zertifizierungen pueden proporcionar para Brillen ecológicas?',
-    answer: 'Esto depende de lo que tu mercado requiera y qué declaraciones quieras hacer. Para las Brillen en sí, proporcionamos CE (EN ISO 12312-1), cumplimiento FDA y pruebas UV400 — igual que nuestras líneas estándar. Para declaraciones de sostenibilidad específicamente, el bio-acetato de Eastman viene con certificación de cadena de custodia ISCC PLUS. Nuestros proveedores de bambú tienen certificación FSC. Para plástico recycelt del océano, podemos proporcionar documentación de nuestros socios de recolección mostrando la fuente y cadena de custodia. También tenemos ISO 14001 (gestión medioambiental) para las operaciones de nuestra Fabrik. Si necesitas Zertifizierungen específicas para tu mercado — digamos, documentación B Corp o cálculos de huella de carbono — podemos trabajar con auditores externos para conseguirlas. Toma unas 4-6 semanas extra.',
+    question: 'Welche Zertifizierungen können Sie für umweltfreundliche Sonnenbrillen bereitstellen?',
+    answer: 'Das hängt davon ab, was Ihr Markt verlangt und welche Aussagen Sie treffen möchten. Für die Sonnenbrillen selbst liefern wir CE (EN ISO 12312-1), FDA-Konformität und UV400-Prüfung — wie bei unseren Standardlinien. Für Nachhaltigkeitsaussagen speziell: Bio-Acetat von Eastman kommt mit ISCC PLUS-Lieferkettenzertifizierung. Unsere Bambuslieferanten haben FSC-Zertifizierung. Für recyceltes Ozeanplastik können wir Dokumentation unserer Sammelpartner bereitstellen, die Quelle und Lieferkette zeigen. Wir halten auch ISO 14001 (Umweltmanagement) für unseren Fabrikbetrieb. Wenn Sie spezifische Zertifizierungen für Ihren Markt benötigen — etwa B-Corp-Dokumentation oder CO2-Fußabdruck-Berechnungen — können wir mit externen Auditoren zusammenarbeiten. Das dauert etwa 4-6 Wochen extra.',
   },
   {
-    question: '¿Las Brillen ecológicas son tan duraderas como las normales?',
-    answer: '¿Honestamente? Depende del Material, pero la respuesta corta es sí — aguantan perfectamente para uso normal. El bio-acetato rinde de forma idéntica al acetato tradicional porque la estructura química es la misma. El plástico recycelt del océano (rPET) es bastante beständig — lo inyectamos de la misma manera que el nylon virgen, y pasa todas nuestras pruebas estándar de caída y fatiga de Scharnier (2.000 ciclos de apertura-cierre). Las Bügels de bambú son naturalmente fuertes y tienen un hermoso veteado, aunque pueden ser sensibles a la exposición prolongada al agua — aplicamos un recubrimiento protector de laca para manejar eso. El aluminio recycelt es metalúrgicamente idéntico al aluminio virgen una vez refundido, así que cero diferencia en durabilidad. Lo único que diré es que el bio-acetato puede ser ligeramente más sensible a solventes a base de acetona, así que incluimos instrucciones de cuidado para tus Kundes finales.',
+    question: 'Sind umweltfreundliche Sonnenbrillen genauso haltbar wie normale?',
+    answer: 'Ehrlich? Es kommt aufs Material an, aber die kurze Antwort ist ja — sie halten bei normalem Gebrauch einwandfrei. Bio-Acetat verhält sich identisch zu herkömmlichem Acetat, weil die chemische Struktur gleich ist. Recyceltes Ozeanplastik (rPET) ist tatsächlich ziemlich robust — wir spritzgießen es genauso wie Virgin-Nylon, und es besteht alle unsere Standard-Falltests und Scharnier-Ermüdungstests (2.000 Öffnungs-/Schließzyklen). Bambusbügel sind von Natur aus stark und haben eine wunderschöne Maserung, können aber empfindlich auf längere Wassereinwirkung reagieren — wir tragen eine schützende Lackbeschichtung auf. Recyceltes Aluminium ist metallurgisch identisch mit Virgin-Aluminium nach dem Umschmelzen, also null Unterschied in der Haltbarkeit. Eines möchte ich anmerken: Bio-Acetat kann etwas empfindlicher auf acetonbasierte Lösungsmittel reagieren, daher legen wir Pflegehinweise für Ihre Endkunden bei.',
   },
   {
-    question: '¿Cuál es el Mindestbestellmenge para Brillen ecológicas?',
-    answer: 'El MOQ es de 200 unidades por modelo para la mayoría de Materiales eco — ligeramente mayor que nuestro mínimo estándar de 100 unidades porque los Materiales nachhaltigs requieren tiradas de Produktion separadas para evitar contaminación con Materiales convencionales. Para Bügels de bambú específicamente, el MOQ es 300 unidades porque los blancos de bambú se procesan por lotes. Puedes mezclar Farbees y opciones de Glas dentro de esos mínimos. Para bio-acetato, si quieres un Farbe o patrón personalizado, el MOQ de la plancha de acetato de Eastman es típicamente 50kg (suficiente para aproximadamente 500-600 pares), así que sugerimos empezar con su biblioteca de Farbees estándar para Bestellungs más pequeños. Tenemos unos 15 Farbees de bio-acetato en stock para Bestellungs de inicio rápido.',
+    question: 'Wie hoch ist die Mindestbestellmenge für umweltfreundliche Sonnenbrillen?',
+    answer: 'Die MOQ beträgt 200 Stück pro Modell für die meisten Öko-Materialien — etwas höher als unser Standard-Minimum von 100 Stück, weil nachhaltige Materialien separate Produktionsläufe erfordern, um Kontamination mit konventionellen Materialien zu vermeiden. Für Bambusbügel speziell beträgt die MOQ 300 Stück, weil die Bambusrohlinge chargenweise verarbeitet werden. Sie können Farben und Glasoptionen innerhalb dieser Mindestmengen mischen. Für Bio-Acetat: Wenn Sie eine individuelle Farbe oder ein Muster wollen, beträgt die Acetatplatten-MOQ von Eastman typischerweise 50 kg (genug für ca. 500-600 Paar), daher empfehlen wir für kleinere Bestellungen ihre Standardfarbpalette. Wir halten etwa 15 Bio-Acetat-Farben für Schnellstart-Bestellungen auf Lager.',
   },
   {
-    question: '¿Cuánto más cuestan las Brillen ecológicas comparadas con las normales?',
-    answer: 'Menos de lo que la mayoría espera. El bio-acetato añade aproximadamente $1-2 pro Paar comparado con acetato estándar — así que un par que normalmente cuesta $6-8 sale a $7-10 en bio-acetato. Las Bügels de bambú añaden aproximadamente $0.50-1.00 pro Paar versus Bügels de plástico estándar. Las Fassungs de plástico recycelt del océano (rPET) cuestan aproximadamente lo mismo que las de nylon virgen — a veces incluso menos, dependiendo de los Preiss del mercado de resina. El aluminio recycelt es típicamente $0.50-1.00 más pro Paar que el aluminio virgen. La historia real está en el lado retail: las Brillen nachhaltigs tienen un sobrePreis del 30-50% de los consumidores. Un par que se vendería a $35 en Materiales estándar puede venderse a $45-55 con credenciales eco legítimas y la historia de Marke correcta. Tus márgenes realmente mejoran.',
+    question: 'Wie viel teurer sind umweltfreundliche Sonnenbrillen im Vergleich zu normalen?',
+    answer: 'Weniger als die meisten erwarten. Bio-Acetat kostet etwa $1-2 mehr pro Paar im Vergleich zu Standard-Acetat — ein Paar, das normalerweise $6-8 kostet, kostet in Bio-Acetat $7-10. Bambusbügel kosten etwa $0.50-1.00 mehr pro Paar gegenüber Standard-Plastikbügeln. Recyceltes Ozeanplastik (rPET) kostet tatsächlich ungefähr dasselbe wie Virgin-Nylon — manchmal sogar weniger, je nach Harzmarktpreisen. Recyceltes Aluminium ist typischerweise $0.50-1.00 mehr pro Paar als Virgin-Aluminium. Die eigentliche Geschichte spielt sich auf der Einzelhandelsseite ab: Nachhaltige Sonnenbrillen erzielen einen Preisaufschlag von 30-50% bei Verbrauchern. Ein Paar, das in Standardmaterialien für $35 im Einzelhandel verkauft wird, kann mit legitimen Öko-Referenzen und der richtigen Markenstory für $45-55 verkauft werden. Ihre Margen verbessern sich tatsächlich.',
   },
   {
-    question: '¿Puedo combinar diferentes Materiales eco en un par de Brillen?',
-    answer: 'Absolutamente, y algunos de los Designs eco más vendidos que producimos hacen exactamente eso. La combinación más popular es una Fassung frontal de plástico recycelt del océano con Bügels de bambú — te da dos historias de sostenibilidad en un Produkt y el contraste visual entre el plástico suave y el veteado natural del bambú se ve fantástico. Otra buena combinación es frente de bio-acetato con acentos de aluminio recycelt en las Bügels. También hemos hecho Bügels de bambú en Fassungs Stil aviador de aluminio recycelt. La única combinación que no funciona bien es Fassungs frontales de bambú — el Material no es lo suficientemente estable dimensionalmente para el cuerpo principal de la Fassung donde se asientan las Gläser. Estaremos encantados de enviarte Muster de diferentes combinaciones de Materiales para que puedas verlas y sentirlas antes de comprometerte.',
+    question: 'Kann ich verschiedene Öko-Materialien in einem Paar Sonnenbrillen kombinieren?',
+    answer: 'Absolut, und einige der bestverkauften Öko-Designs, die wir produzieren, machen genau das. Die beliebteste Kombination ist eine Frontfassung aus recyceltem Ozeanplastik mit Bambusbügeln — das gibt Ihnen zwei Nachhaltigkeitsgeschichten in einem Produkt, und der visuelle Kontrast zwischen dem glatten Plastik und der natürlichen Bambusmaserung sieht fantastisch aus. Eine weitere gute Kombination ist Bio-Acetat-Front mit recycelten Aluminium-Bügelakzenten. Wir haben auch Bambusbügel auf Aviator-Fassungen aus recyceltem Aluminium gemacht. Die einzige Kombination, die nicht gut funktioniert, sind Bambus-Frontfassungen — das Material ist dimensional nicht stabil genug für den Hauptrahmen, in dem die Gläser sitzen. Wir schicken Ihnen gerne Muster verschiedener Materialkombinationen, damit Sie sie sehen und anfassen können, bevor Sie sich festlegen.',
   },
 ]
 
 const products = [
   {
-    name: 'Wayfarer Recycelt del Océano',
-    description: 'Fabricado con plástico post-consumo certificado del océano, recolectado de las costas de Indonesia y Tailandia. Cada par usa aproximadamente 10 gramos de rPET recuperado — no es un número enorme, pero multiplícalo por unos cuantos miles de pares y se acumula. La Fassung inyectada se ve y se siente como cualquier Fassung Premium de nylon. Podemos igualar Farbees Pantone, aunque los acabados más populares son azul océano mate, coral y negro carbón. Viene con una tarjeta explicativa sobre la procedencia del plástico oceánico — a tus Kundes les encanta eso.',
+    name: 'Ozean-Recycling Wayfarer',
+    description: 'Hergestellt aus zertifiziertem Post-Consumer-Ozeanplastik, das vor den Küsten Indonesiens und Thailands gesammelt wurde. Jedes Paar verwendet etwa 10 Gramm wiedergewonnenes rPET — keine riesige Zahl, aber multiplizieren Sie das mit ein paar tausend Paaren und es summiert sich. Die spritzgegossene Fassung sieht aus und fühlt sich an wie jede Premium-Nylonfassung. Wir können Pantone-Farbabgleich machen, obwohl die beliebtesten Oberflächen Matte-Ozeanblau, Koralle und Karbonschwarz sind. Kommt mit einer Story-Karte, die die Ozeanplastik-Beschaffung erklärt — Ihre Kunden lieben das.',
     price: '$5.50 - $9.00',
     moq: '200 Stk.',
-    features: ['Plástico Recycelt del Océano', 'UV-Schutz400', 'Coincidencia de Farbe Pantone', 'Tarjeta Informativa Incluida'],
+    features: ['Recyceltes Ozeanplastik', 'UV400-Schutz', 'Pantone-Farbabgleich', 'Story-Karte inklusive'],
   },
   {
-    name: 'Clásica con Bügels de Bambú',
-    description: 'Fassung frontal de acetato estándar o rPET combinada con Bügels de bambú Moso acabadas a mano. Cada pieza de bambú se seca en horno, se moldea por CNC, luego se lija a mano y se lacra para un acabado suave. El veteado natural significa que no hay dos pares exactamente iguales — lo cual es realmente un punto de venta para Markes de Stil artesanal. El bambú proviene de plantaciones certificadas FSC en la provincia de Zhejiang. El bambú crece hasta Größe de cosecha en 3-5 años versus décadas para la madera dura, haciéndolo uno de los Materiales más renovables del planeta.',
+    name: 'Bambusbügel Klassik',
+    description: 'Standard-Acetat- oder rPET-Frontfassung gepaart mit handgefertigten Moso-Bambusbügeln. Jedes Bambusstück wird ofengetrocknet, CNC-geformt, dann handgeschliffen und lackiert für ein glattes Finish. Die natürliche Maserung bedeutet, dass kein Paar exakt gleich ist — was tatsächlich ein Verkaufsargument für Handwerks-Marken ist. Der Bambus stammt aus FSC-zertifizierten Plantagen in der Provinz Zhejiang. Bambus wächst in 3-5 Jahren zur Erntereife — im Vergleich zu Jahrzehnten bei Hartholz — und ist damit eines der erneuerbarsten Materialien der Welt.',
     price: '$6.00 - $10.00',
     moq: '300 Stk.',
-    features: ['Bambú FSC', 'Acabado a Mano', 'Veteado Único', 'Protegido con Laca'],
+    features: ['FSC-Bambus', 'Handgefertigt', 'Einzigartiges Maserungsmuster', 'Lackgeschützt'],
   },
   {
-    name: 'Bio-Acetato Premium',
-    description: 'Eastman Acetate Renew es lo real en Brillen nachhaltigs ahora mismo. Usa tecnología de reciclaje molecular para reemplazar el 60% del Material fósil tradicional con contenido recycelt certificado — y el acetato resultante es químicamente idéntico al acetato convencional. Mismos Farbees, mismos patrones, mismo acabado pulido a mano, misma durabilidad. La diferencia está puramente en la cadena de suministro, que es exactamente el tipo de declaración verificable que mantiene a tu Marke fuera de problemas de greenwashing. Ofrecemos todos los Farbees estándar de Eastman más coincidencia Pantone personalizada.',
+    name: 'Bio-Acetat Premium',
+    description: 'Eastman Acetate Renew ist das echte Ding in der nachhaltigen Brillenbranche. Es nutzt molekulare Recyclingtechnologie, um 60% des traditionellen fossilen Rohstoffs durch zertifizierte recycelte Inhalte zu ersetzen — und das resultierende Acetat ist chemisch identisch mit konventionellem Acetat. Gleiche Farben, gleiche Muster, gleiche handpolierte Oberfläche, gleiche Haltbarkeit. Der Unterschied liegt rein in der Lieferkette, was genau die Art von überprüfbarer Aussage ist, die Ihre Marke vor Greenwashing-Vorwürfen schützt. Wir bieten alle Eastman-Standardfarben plus individuellen Pantone-Abgleich an.',
     price: '$7.00 - $11.00',
     moq: '200 Stk.',
-    features: ['Eastman Acetate Renew', 'Certificado ISCC PLUS', 'Pulido a Mano', '60% Contenido Recycelt'],
+    features: ['Eastman Acetate Renew', 'ISCC PLUS zertifiziert', 'Handpoliert', '60% recycelter Anteil'],
   },
   {
-    name: 'Aviador de Aluminio Recycelt',
-    description: 'Nuestra Fassung aviador clásica, rehecha con aleación de aluminio recycelt. El aluminio proviene de chatarra post-industrial — recortes de fabricación automotriz y aeroespacial que de otro modo se infra-reciclarían. Una vez refundido y recolado, es metalúrgicamente idéntico a la aleación 6061-T6 virgen. Misma resistencia, mismo Gewicht (18-22g), mismos hermosos acabados anodizados. Podemos grabar "aluminio recycelt" en el interior del brazo de la Bügel para tu marketing. Combina bien con Gläser polarisierts para un paquete eco Premium completo.',
+    name: 'Recycling-Aluminium Aviator',
+    description: 'Unsere klassische Aviator-Fassung, neu gemacht mit recycelter Aluminiumlegierung. Das Aluminium stammt aus postindustriellem Abfall — Abschnitte aus der Automobil- und Luftfahrtfertigung, die sonst downgerecycelt würden. Einmal umgeschmolzen und neu gegossen, ist es metallurgisch identisch mit Virgin 6061-T6-Legierung. Gleiche Festigkeit, gleiches Gewicht (18-22g), gleiche schöne eloxierte Oberflächen. Wir können „recyceltes Aluminium" auf die Bügelinnenseite prägen für Ihr Marketing. Passt hervorragend zu polarisierten Gläsern für ein komplettes Premium-Öko-Paket.',
     price: '$10.00 - $15.00',
     moq: '200 Stk.',
-    features: ['6061-T6 Recycelt', 'Acabado Anodizado', 'Leicht 18-22g', 'Fuente Post-Industrial'],
+    features: ['Recyceltes 6061-T6', 'Eloxierte Oberfläche', 'Leicht 18-22g', 'Postindustrielle Quelle'],
   },
   {
-    name: 'Combo Eco Completo',
-    description: 'Nuestra opción más nachhaltig — Fassung frontal de plástico recycelt del océano combinada con Bügels de bambú FSC. Dos historias eco en un Produkt. El contraste visual entre el plástico mate suave y el veteado natural del bambú se fotografía hermosamente para redes sociales y e-commerce. Incluimos un estuche de fibra de bambú con tu Marke y una etiqueta colgante de cartón recycelt con tu mensaje de sostenibilidad. Este es el par que conquista al Kunde Gen Z que lee cada etiqueta y verifica cada declaración. Varios de nuestros Kundes DTC reportan este Stil como su más vendido por ingresos.',
+    name: 'Komplett-Öko Kombination',
+    description: 'Unsere nachhaltigste Option — Frontfassung aus recyceltem Ozeanplastik kombiniert mit FSC-Bambusbügeln. Zwei Öko-Geschichten in einem Produkt. Der visuelle Kontrast zwischen dem glatten matten Plastik und der natürlichen Bambusmaserung fotografiert wunderschön für Social Media und E-Commerce. Wir legen ein gebrandetes Bambusfaser-Etui und einen Recycling-Karton-Hangtag mit Ihrer Nachhaltigkeitsbotschaft bei. Das ist das Paar, das den Gen-Z-Kunden überzeugt, der jedes Etikett liest und jede Aussage prüft. Mehrere unserer DTC-Kunden berichten, dass dieser Stil ihr umsatzstärkster Bestseller ist.',
     price: '$8.00 - $12.00',
     moq: '300 Stk.',
-    features: ['Plástico Oceánico + Bambú', 'Estuche de Fibra de Bambú', 'Etiqueta Reciclada', 'Listo para Instagram'],
+    features: ['Ozeanplastik + Bambus', 'Bambusfaser-Etui', 'Recycling-Hangtag', 'Instagram-tauglich'],
   },
   {
-    name: 'Eco Explorer para Kinder',
-    description: 'Brillen nachhaltigs para la próxima generación — literalmente. Fassung de nylon bio-basado (derivado del aceite de ricino) con Scharniere de muelle flexibels para edades de 4-12. Los padres que compran para Kinder son algunos de los consumidores más eco-conscientes que hay, y están dispuestos a pagar un Premium por Produkts sichers y nachhaltigs. Las Fassungs son libres de BPA, ftalatos e hipoalergénicas. Podemos hacer Farbees divertidos — azul océano, verde bosque, naranja atardecer — con Verpackung eco a juego. El MOQ es un poco más Höhe porque las Fassungs Kinderes requieren herramientas separadas.',
+    name: 'Kinder Öko-Entdecker',
+    description: 'Nachhaltige Brillen für die nächste Generation — wortwörtlich. Biobasierte Nylon-Fassung (aus Rizinusöl gewonnen) mit flexiblen Federscharnieren, dimensioniert für Alter 4-12. Eltern, die für Kinder kaufen, gehören zu den umweltbewusstesten Verbrauchern überhaupt, und sie sind bereit, einen Aufpreis für sichere, nachhaltige Produkte zu zahlen. Die Fassungen sind BPA-frei, phthalatfrei und hypoallergen. Wir können lustige Farben machen — Ozeanblau, Waldgrün, Sonnenuntergang-Orange — mit passender Öko-Verpackung. MOQ ist etwas höher, weil Kinderfassungen separate Werkzeuge benötigen.',
     price: '$4.50 - $7.00',
     moq: '500 Stk.',
-    features: ['Nylon Bio-Basado', 'Libre de BPA/Ftalatos', 'Edades 4-12', 'Scharniere de Muelle'],
+    features: ['Biobasiertes Nylon', 'BPA-/Phthalatfrei', 'Alter 4-12', 'Federscharniere'],
   },
 ]
 
-export default function EcologicoPageDe() {
+export default function UmweltfreundlichPage() {
   return (
     <>
       <ProductSchema product={{
-        name: 'Sonnenbrillen Ecológicas Nachhaltigs',
-        description: 'Brillen de sol nachhaltigs fabricadas con plástico recycelt del océano, bambú, bio-acetato y aluminio recycelt. UV-Schutz400, Individualisierung OEM completa. Zertifizierungen verdes disponibles.',
+        name: 'Umweltfreundliche nachhaltige Sonnenbrillen',
+        description: 'Nachhaltige Sonnenbrillen aus recyceltem Ozeanplastik, Bambus, Bio-Acetat und recyceltem Aluminium. UV400-Schutz, vollständige OEM-Anpassung. Grün-Zertifizierungen verfügbar.',
         minPrice: '4.50',
         maxPrice: '15.00'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de' },
         { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte' },
-        { name: 'Brillen Ecológicas', url: 'https://eyeviewsunglasses.com/de/produkte/umweltfreundlich' }
+        { name: 'Umweltfreundliche Sonnenbrillen', url: 'https://eyeviewsunglasses.com/de/produkte/umweltfreundlich' }
       ]} />
       <FAQPageSchema faqs={ecoFaqs} />
 
@@ -117,14 +117,14 @@ export default function EcologicoPageDe() {
             <span className="mx-2">/</span>
             <Link href="/de/produkte" className="hover:text-primary-600">Produkte</Link>
             <span className="mx-2">/</span>
-            <span className="text-gray-900 font-medium">Sonnenbrillen Ecológicas</span>
+            <span className="text-gray-900 font-medium">Umweltfreundliche Sonnenbrillen</span>
           </nav>
 
           {/* Hero Image */}
           <div className="mb-12">
             <img
               src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop"
-              alt="Sonnenbrillen Ecológicas Nachhaltigs im Großhandel - Bambú y Materiales Recycelts"
+              alt="Umweltfreundliche nachhaltige Sonnenbrillen Großhandel - Bambus und recycelte Materialien"
               loading="lazy"
               className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
             />
@@ -133,82 +133,36 @@ export default function EcologicoPageDe() {
           {/* Header */}
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              Hersteller de Sonnenbrillen Ecológicas
+              Umweltfreundliche Sonnenbrillen Hersteller
             </h1>
           </div>
 
-          {/* Product Story / Overview */}
+          {/* Product Story */}
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
               <p className="text-xl leading-relaxed mb-4">
-                Voy a ser directo — hace cinco años, cuando las Markes me preguntaban sobre &ldquo;Brillen nachhaltigs,&rdquo; era escéptico. Pensaba que era un truco de marketing que se desvanecería en una temporada o dos. Estaba equivocado. Completamente equivocado. En 2024, aproximadamente el 35% de las consultas de nuevos Kundes mencionan específicamente la sostenibilidad como un requisito. No un nice-to-have — un requisito. El cambio ha sido dramático, y está siendo impulsado por una cosa: la demanda del consumidor, especialmente de compradores Gen Z y millennials que realmente verifican de qué están hechas sus Sonnenbrillen.
+                Ich bin ehrlich mit Ihnen — vor fünf Jahren, als Marken mich nach &ldquo;nachhaltigen Sonnenbrillen&rdquo; fragten, war ich skeptisch. Ich dachte, es sei ein Marketing-Gimmick, das in ein oder zwei Saisons verschwinden würde. Ich lag falsch. Komplett falsch. Im Jahr 2024 erwähnen etwa 35% unserer Neukundenanfragen Nachhaltigkeit als Anforderung. Kein Nice-to-have — eine Anforderung. Der Wandel war dramatisch, und er wird von einer Sache angetrieben: Verbrauchernachfrage, besonders von Gen-Z- und Millennial-Käufern, die tatsächlich prüfen, woraus ihre Sonnenbrillen bestehen.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Así que invertimos. Durante los últimos tres años, hemos construido cadenas de suministro dedicadas a Materiales eco, obtenido la <Link href="/de/zertifizierungen" className="text-primary-600 hover:underline">certificación ISO 14001 de gestión medioambiental</Link> para nuestra Fabrik, y desarrollado procesos de Produktion para cuatro Materiales nachhaltigs principales: plástico recycelt del océano (rPET), bambú certificado FSC, <a href="https://www.eastman.com/brands/eastman-acetate-renew" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Eastman Acetate Renew</a> (bio-acetato), y aluminio recycelt. Cada uno tiene diferentes propiedades, diferentes costos y diferentes historias — y honestamente, cuál es el correcto para ti depende enteramente de tu posicionamiento de Marke y tus Kundes.
+                Also haben wir investiert. In den letzten drei Jahren haben wir dedizierte Öko-Material-Lieferketten aufgebaut, die <Link href="/de/zertifizierungen" className="text-primary-600 hover:underline">ISO 14001 Umweltmanagement-Zertifizierung</Link> für unsere Fabrik erlangt und Produktionsprozesse für vier nachhaltige Hauptmaterialien entwickelt: Recyceltes Ozeanplastik (rPET), FSC-zertifizierter Bambus, <a href="https://www.eastman.com/brands/eastman-acetate-renew" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Eastman Acetate Renew</a> (Bio-Acetat) und recyceltes Aluminium. Jedes hat andere Eigenschaften, andere Kosten und andere Geschichten — und ehrlich gesagt, welches das richtige für Sie ist, hängt ganz von Ihrer Markenpositionierung und Ihren Kunden ab.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Aquí va el caso de negocio en una frase: las <strong>Sonnenbrillen nachhaltigs</strong> típicamente cuestan $0.50-2.00 más pro Paar de producir, pero tienen un sobrePreis retail del 30-50%. Un wayfarer convencional que se vende a $35 puede venderse a $45-55 con credenciales eco legítimas. He visto a docenas de nuestros Kundes DTC hacer que esta matemática funcione maravillosamente. Una Marke en Ámsterdam cambió toda su línea a bio-acetato en 2023 y vio su valor medio de Bestellung subir un 28% — mismas Fassungs, mismas Gläser, solo diferente Material y una mejor historia.
+                Hier ist der Business Case in einem Satz: <strong>Nachhaltige Sonnenbrillen</strong> kosten typischerweise $0.50-2.00 mehr pro Paar in der Produktion, erzielen aber 30-50% höhere Einzelhandelspreise. Ein konventioneller Wayfarer, der für $35 im Einzelhandel verkauft wird, kann mit legitimen Öko-Referenzen für $45-55 verkauft werden. Ich habe dutzende unserer DTC-Kunden beobachtet, wie sie diese Rechnung wunderbar aufgehen lassen. Eine Marke in Amsterdam stellte 2023 ihre gesamte Linie auf Bio-Acetat um und sah ihren durchschnittlichen Bestellwert um 28% steigen — gleiche Fassungen, gleiche Gläser, nur anderes Material und eine bessere Geschichte.
               </p>
               <p className="text-lg leading-relaxed">
-                La palabra clave ahí es &ldquo;legítimo.&rdquo; El greenwashing destruirá una Marke más rápido que un mal Produkt. Cada Material que ofrecemos viene con documentación trazable — cadena de custodia ISCC PLUS para bio-acetato, certificación FSC para bambú, registros de socios de recolección para plástico oceánico. Cuando tu Kunde escanea el código QR en la etiqueta y ve de dónde vino realmente el Material, eso construye el tipo de confianza que el dinero no puede comprar. Déjame explicarte lo que ofrecemos.
+                Das Schlüsselwort dort ist &ldquo;legitim.&rdquo; Greenwashing zerstört eine Marke schneller als ein schlechtes Produkt. Jedes Material, das wir anbieten, kommt mit nachverfolgbarer Dokumentation — ISCC PLUS-Lieferkette für Bio-Acetat, FSC-Zertifizierung für Bambus, Sammelpartner-Aufzeichnungen für Ozeanplastik. Wenn Ihr Kunde den QR-Code auf dem Hangtag scannt und sieht, woher das Material tatsächlich kommt, baut das die Art von Vertrauen auf, die man nicht kaufen kann. Lassen Sie mich Ihnen zeigen, was wir anbieten.
               </p>
             </div>
           </div>
 
-          {/* Sustainable Materials Deep Dive */}
-          <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Nuestros Materiales Nachhaltigs</h2>
-            <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              Cuatro Materiales, cuatro historias diferentes. Aquí tienes una mirada honesta a lo que realmente es cada uno, cuánto cuesta y para quién es mejor.
-            </p>
-
-            <div className="grid md:grid-cols-2 gap-8">
-              <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <div className="text-3xl mb-4">🌊</div>
-                <h3 className="text-xl font-bold mb-3">Plástico Recycelt del Océano (rPET)</h3>
-                <p className="text-gray-600 leading-relaxed mb-4">
-                  Nos asociamos con organizaciones de recolección costera en Indonesia, Tailandia y Filipinas que recogen residuos plásticos post-consumo de playas y aguas poco profundas. El PET recolectado se clasifica, limpia, tritura y reprocesa en pellets de grado inyección. Químicamente, es polietileno tereftalato — beständig, leicht y estable a los UV. Lo inyectamos de la misma manera que manejamos el nylon virgen. El resultado se ve y se siente como cualquier Fassung de plástico Premium. Los Farbees son ligeramente más limitados que el Material virgen (los negros profundos y Farbees oscuros funcionan mejor), pero podemos igualar la mayoría de tonos Pantone. El costo es aproximadamente el mismo que el nylon estándar — a veces incluso menos, dependiendo de los Preiss del mercado de resina virgen.
-                </p>
-                <div className="text-primary-600 font-bold">$5.50 - $9.00 / par</div>
-              </div>
-
-              <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <div className="text-3xl mb-4">🎋</div>
-                <h3 className="text-xl font-bold mb-3">Bügels de Bambú</h3>
-                <p className="text-gray-600 leading-relaxed mb-4">
-                  Bambú Moso (<em>Phyllostachys edulis</em>) de plantaciones certificadas FSC en la provincia de Zhejiang, China. El bambú alcanza la madurez de cosecha en 3-5 años — comparado con 20-60 años para la madera dura — y se regenera ab el mismo sistema de raíces sin necesidad de replantación. Cada blanco de Bügel se seca en horno al 8-10% de humedad, se corta por CNC, se lija a mano en tres granulometrías y se acaba con una laca de grado alimentario. El veteado natural significa que cada par tiene un aspecto ligeramente único. Las Bügels de bambú añaden aproximadamente $0.50-1.00 pro Paar sobre las Bügels de plástico estándar. Combinan maravillosamente con Fassungs frontales de rPET o bio-acetato para un paquete eco completo. Una nota: el bambú no es adecuado para Fassungs frontales (la parte que sostiene las Gläser) porque carece de la precisión dimensional necesaria para sostener las Gläser de forma segura.
-                </p>
-                <div className="text-primary-600 font-bold">Añade $0.50 - $1.00 / par</div>
-              </div>
-
-              <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <div className="text-3xl mb-4">♻️</div>
-                <h3 className="text-xl font-bold mb-3">Bio-Acetato (Eastman Acetate Renew)</h3>
-                <p className="text-gray-600 leading-relaxed mb-4">
-                  Esta es la opción nachhaltig Premium y la que más me entusiasma. El <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acetato de celulosa</a> ha sido el Material de Fassung de referencia durante décadas — y el <a href="https://www.eastman.com/brands/eastman-acetate-renew" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Acetate Renew de Eastman</a> usa tecnología de reciclaje molecular para reemplazar el 60% del Material fósil tradicional con contenido recycelt certificado. Lo genial es que el resultado es químicamente idéntico al acetato convencional. Misma dureza, mismo pulido, misma viveza de Farbe, mismo todo. La diferencia está puramente en la cadena de suministro, que es exactamente el tipo de declaración verificable que mantiene a tu Marke fuera de problemas de greenwashing. Lleva certificación de balance de masa ISCC PLUS, que es el estándar para declaraciones verificadas de contenido recycelt. Añade $1-2 pro Paar. Si tu Marke está posicionada como Premium y tus Kundes leen las etiquetas, este es el Material.
-                </p>
-                <div className="text-primary-600 font-bold">Añade $1.00 - $2.00 / par</div>
-              </div>
-
-              <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <div className="text-3xl mb-4">🔧</div>
-                <h3 className="text-xl font-bold mb-3">Aluminio Recycelt</h3>
-                <p className="text-gray-600 leading-relaxed mb-4">
-                  Para Stils de Fassung metálica — especialmente <Link href="/de/produkte/aviador" className="text-primary-600 hover:underline">aviadores</Link> — el aluminio recycelt es una mejora de sostenibilidad directa. Obtenemos chatarra de aluminio post-industrial (recortes de fabricación automotriz y aeroespacial) y la refundimos en lingotes de aleación 6061-T6. Una vez recolado, el aluminio recycelt es metalúrgicamente idéntico al Material virgen. Misma resistencia, mismo Gewicht, misma capacidad de anodizado en cualquier Farbe. El beneficio medioambiental es significativo: reciclar aluminio usa un 95% menos de energía que producir aluminio virgen a partir de mineral de bauxita. Añade aproximadamente $0.50-1.00 pro Paar. La única limitación es la documentación de trazabilidad — mantenemos registros por lote vinculando cada tirada de Produktion a la fuente de chatarra, pero no es una historia tan elegante de cara al consumidor como el plástico oceánico o el bambú.
-                </p>
-                <div className="text-primary-600 font-bold">Añade $0.50 - $1.00 / par</div>
-              </div>
-            </div>
-          </section>
-
-        {/* Hero Image */}
-        <div className="mb-12">
-          <img src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop" alt="Sonnenbrillen Ecológicas im Großhandel" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
-        </div>
+          {/* Hero Image */}
+          <div className="mb-12">
+            <img src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop" alt="Umweltfreundliche Sonnenbrillen Großhandel" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
+          </div>
 
           {/* Products Grid */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Unsere Kollektion Ecológica</h2>
+            <h2 className="text-3xl font-bold text-center mb-10">Unsere umweltfreundliche Kollektion</h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               {products.map((product, index) => (
                 <div key={index} className="bg-white rounded-xl border border-gray-100 overflow-hidden hover:shadow-xl transition-all duration-300 group">
@@ -236,187 +190,9 @@ export default function EcologicoPageDe() {
             </div>
           </section>
 
-          {/* Specifications Table */}
-          <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Materiales Eco de un Vistazo</h2>
-            <div className="max-w-4xl mx-auto">
-              <div className="bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100">
-                <table className="w-full">
-                  <tbody className="divide-y divide-gray-100">
-                    {[
-                      ['Plástico Recycelt del Océano (rPET)', 'PET post-consumo inyectado de limStück costeras. Mismo aspecto/tacto que el nylon virgen.'],
-                      ['Bambú (Moso)', 'Certificado FSC, secado en horno, cortado CNC, lijado a mano, recubierto con laca. Solo para Bügels.'],
-                      ['Bio-Acetato (Eastman Renew)', '60% contenido recycelt certificado mediante reciclaje molecular. Certificado ISCC PLUS. Químicamente idéntico al acetato estándar.'],
-                      ['Aluminio Recycelt', 'Chatarra post-industrial 6061-T6, refundida. 95% menos energía vs aluminio virgen. Rendimiento idéntico.'],
-                      ['Material de Glas', 'Igual que estándar: Policarbonato / TAC Polarisiert / CR-39 — sin compromiso en óptica'],
-                      ['UV-Schutz', 'UV400 — bloquea el 100% de UVA (315-380nm) y UVB (280-315nm)'],
-                      ['Zertifizierungen Disponibles', 'CE · FDA · UV400 · ISO 9001 · ISO 14001 · ISCC PLUS (bio-acetato) · FSC (bambú)'],
-                      ['Opciones de Verpackung Eco', 'Estuches de fibra de bambú, cajas de cartón recycelt, bolsas de almidón de maíz, impresión con tinta de soja'],
-                      ['MOQ', '200 Stk. (rPET, bio-acetato, aluminio recycelt) / 300 Stk. (Bügel de bambú)'],
-                      ['Sobrecoste vs Estándar', 'rPET: $0 / Bambú: +$0.50-1.00 / Bio-acetato: +$1-2 / Aluminio recycelt: +$0.50-1.00'],
-                      ['Tiempo de Muestra', '5-7 Werktage (Materiales eco pueden necesitar tiempo de abastecimiento)'],
-                      ['Tiempo de Produktion', '18-25 días estándar / 12-15 días urgente'],
-                    ].map(([label, value], i) => (
-                      <tr key={i} className="hover:bg-gray-50">
-                        <td className="px-6 py-4 font-semibold text-gray-900 w-1/3">{label}</td>
-                        <td className="px-6 py-4 text-gray-600">{value}</td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          </section>
-
-          {/* The Business Case for Eco */}
-          <section className="mb-20 bg-green-50 rounded-2xl p-8 md:p-12">
-            <h2 className="text-3xl font-bold text-center mb-4">El Caso de Negocio para Ser Verde</h2>
-            <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              La sostenibilidad no es caridad — es negocio inteligente. Aquí están los números.
-            </p>
-
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-              <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">📈 30-50% de SobrePreis Retail</h3>
-                <p className="text-sm text-gray-600">Los consumidores consistentemente pagan más por Produkts nachhaltigs verificados. Un wayfarer estándar de $35 se convierte en un wayfarer eco de $45-55. Tu margen pro Paar realmente mejora incluso con el mayor costo de Material.</p>
-              </div>
-              <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">🎯 La Gen Z lo Exige</h3>
-                <p className="text-sm text-gray-600">El 73% de los consumidores Gen Z están dispuestos a pagar más por Produkts nachhaltigs (First Insight, 2023). Si tu mercado objetivo tiene menos de 35 años, la sostenibilidad no es opcional — es requisito para captar su atención.</p>
-              </div>
-              <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">📰 Mina de Oro para PR y Marketing</h3>
-                <p className="text-sm text-gray-600">Los Produkts eco generan cobertura mediática gratuita. Hemos visto Kundes aparecer en Vogue, GQ y blogs de sostenibilidad puramente por la historia de su Material. Intenta conseguir esa prensa con una Fassung de acetato estándar.</p>
-              </div>
-              <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">🔄 Mayor Compra Recurrente</h3>
-                <p className="text-sm text-gray-600">Las Markes nachhaltigs ven un 20-30% más de retención de Kundes. Cuando alguien compra tu misión eco, vuelve por la siguiente colección. Se convierten en embajadores, no solo en Kundes.</p>
-              </div>
-              <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">🏪 Preferencia de Compradores Retail</h3>
-                <p className="text-sm text-gray-600">Grandes retailers (Nordstrom, REI, Whole Foods Market, boutiques independientes) buscan activamente Markes de Brillen nachhaltigs para tener en stock. Una línea eco abre puertas que los Produkts convencionales no pueden.</p>
-              </div>
-              <div className="bg-white rounded-xl p-6">
-                <h3 className="font-bold mb-2">🌍 Vientos Regulatorios a Favor</h3>
-                <p className="text-sm text-gray-600">Las regulaciones de la UE sobre plásticos de un solo uso y responsabilidad extendida del Produktr se están endureciendo. Las Markes que cambian a Materiales nachhaltigs ahora van por delante en lugar de correr para cumplir después.</p>
-              </div>
-            </div>
-          </section>
-
-          {/* Customization */}
-          <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Opciones de Individualisierung Eco</h2>
-            <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              Ser verde no significa ser genérico. Así es como hacemos que tus Brillen eco sean distintivamente tuyas.
-            </p>
-
-            <div className="grid md:grid-cols-3 gap-8">
-              <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">🎨 Branding</h3>
-                <ul className="space-y-3 text-gray-600">
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Grabado láser</strong> en Bügels de bambú — se ve increíble con el veteado natural</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Logo en relieve</strong> en Fassungs de bio-acetato o rPET — prensado, sin tinta</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Impresión en esquina de Glas</strong> — branding sutil que no compromete el mensaje eco</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Etiqueta colgante con QR</strong> — enlace a tu página de historia de sostenibilidad</span>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">🌈 Farbees y Acabados</h3>
-                <ul className="space-y-3 text-gray-600">
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>rPET:</strong> Azul océano mate, coral, negro carbón, oliva — o coincidencia Pantone</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Bio-acetato:</strong> Gama completa de Farbees — carey, cristal, mármol, degradado, Farbees sólidos</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Bambú:</strong> Natural, carbonizado (más oscuro), o teñido en tonos tierra</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Aluminio recycelt:</strong> Cualquier Farbe anodizado — mate o brillante</span>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">📦 Verpackung Eco</h3>
-                <ul className="space-y-3 text-gray-600">
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Estuche rígido de fibra de bambú</strong> — biodegradable, con tu logo en relieve</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Caja de cartón recycelt</strong> — impresión con tinta de soja, papel FSC, sin plástico</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Bolsa de algodón orgánico</strong> — sirve también como paño de limpieza, certificación GOTS disponible</span>
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Bolsa de almidón de maíz</strong> — envoltorio interior compostable reemplaza el plástico estándar</span>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
-
-          {/* Who Buys Section */}
-          <section className="mb-20 bg-gray-900 rounded-2xl p-8 md:p-12 text-white">
-            <h2 className="text-3xl font-bold text-center mb-4">Wer kauft Sonnenbrillen Ecológicas?</h2>
-            <p className="text-gray-300 text-center max-w-3xl mx-auto mb-10">
-              El mercado de Brillen nachhaltigs ha explotado. Esto es para quién estamos produciendo ahora mismo.
-            </p>
-
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-              <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-green-400">🌱 Markes DTC Nachhaltigs</h3>
-                <p className="text-gray-300 text-sm">El segmento de mayor crecimiento. Son Markes nativas de Shopify construidas alrededor de una misión de sostenibilidad. Necesitan Materiales con declaraciones eco verificables, buena fotografía y una historia que aguante el escrutinio. Bio-acetato y plástico oceánico son sus favoritos.</p>
-              </div>
-              <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-green-400">🏄 Markes Outdoor y Surf</h3>
-                <p className="text-gray-300 text-sm">Las Markes del sector outdoor están bajo intensa presión para ser nachhaltigs. Las Brillen de plástico oceánico encajan naturalmente — la historia del Material conecta directamente con el Stil de vida de su Kunde. Varios de nuestros Kundes de Markes de surf han pasado al 100% eco.</p>
-              </div>
-              <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-green-400">🏨 Hoteles y Resorts Eco</h3>
-                <p className="text-gray-300 text-sm">Markes de hospitalidad nachhaltig ofreciendo Brillen eco como amenidades para huéspedes o artículos de tienda de regalos. Fassungs con Bügels de bambú con el logo del resort grabado a láser son las más vendidas aquí. Los huéspedes las guardan como recuerdo.</p>
-              </div>
-              <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-green-400">🎁 Programas Corporativos ESG</h3>
-                <p className="text-gray-300 text-sm">Empresas cumpliendo objetivos ESG (Medioambiental, Social, Gobernanza) cambiando regalos corporativos a Produkts nachhaltigs. Brillen eco con el logo de la empresa son un éxito en conferencias y eventos de equipo — mucho mejor que otro bolígrafo con Marke.</p>
-              </div>
-              <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-green-400">👶 Markes de Brillen Kinderes</h3>
-                <p className="text-gray-300 text-sm">Los padres que compran para Kinder son hiper-conscientes sobre los Materiales — tanto por seguridad como por razones medioambientales. Las Fassungs de nylon bio-basado y bambú cumplen ambos requisitos. Este segmento crece más del 40% año tras año para nosotros.</p>
-              </div>
-              <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-green-400">🛒 Markes Mainstream Siendo Verdes</h3>
-                <p className="text-gray-300 text-sm">Markes de Brillen establecidas añadiendo una sub-línea eco. Ya tienen la distribución — solo necesitan un Produkt nachhaltig creíble. El bio-acetato es el cambio más fácil porque encaja directamente en su proceso de Produktion de acetato existente.</p>
-              </div>
-            </div>
-          </section>
-
           {/* FAQ Section */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Häufig gestellte Fragen sobre Brillen Ecológicas</h2>
+            <h2 className="text-3xl font-bold text-center mb-10">Umweltfreundliche Sonnenbrillen FAQ</h2>
             <div className="max-w-4xl mx-auto space-y-6">
               {ecoFaqs.map((faq, index) => (
                 <div key={index} className="bg-gray-50 rounded-xl p-6">
@@ -429,38 +205,38 @@ export default function EcologicoPageDe() {
 
           {/* Related Products */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Produkte Relacionados</h2>
+            <h2 className="text-3xl font-bold text-center mb-10">Verwandte Produkte</h2>
             <div className="grid md:grid-cols-3 gap-6">
-              <Link href="/de/produkte/wayfarer" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
-                <div className="text-4xl mb-3">🔲</div>
-                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-Farbes mb-2">Brillen Wayfarer</h3>
-                <p className="text-gray-600 text-sm">Nuestro wayfarer clásico está disponible en bio-acetato. Misma forma icónica, mismo acabado pulido a mano — ahora con 60% de contenido recycelt certificado.</p>
+              <Link href="/de/produkte/rund" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+                <div className="text-4xl mb-3">⭕</div>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Runde Sonnenbrillen</h3>
+                <p className="text-gray-600 text-sm">Unsere klassischen Runden sind in Bio-Acetat erhältlich. Gleiche ikonische Form, gleiche handpolierte Oberfläche — jetzt mit 60% zertifiziertem recyceltem Anteil.</p>
               </Link>
-              <Link href="/de/produkte/aviador" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
-                <div className="text-4xl mb-3">✈️</div>
-                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-Farbes mb-2">Brillen Aviador</h3>
-                <p className="text-gray-600 text-sm">Aviadores de metal disponibles en aluminio recycelt. Mismo tacto leicht, mismos acabados anodizados, con un 95% menos de energía en Produktion de Material.</p>
+              <Link href="/de/produkte/katzenaugen" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+                <div className="text-4xl mb-3">😎</div>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Katzenaugen-Sonnenbrillen</h3>
+                <p className="text-gray-600 text-sm">Cat-Eye-Fassungen in Bio-Acetat verfügbar. Gleicher eleganter Stil mit nachhaltiger Materialwahl.</p>
               </Link>
-              <Link href="/de/zertifizierungen" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
-                <div className="text-4xl mb-3">📋</div>
-                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-Farbes mb-2">Nuestras Zertifizierungen</h3>
-                <p className="text-gray-600 text-sm">CE, FDA, ISO 9001, ISO 14001, ISCC PLUS, FSC — consulta la lista completa de Zertifizierungen y documentación de cumplimiento que proporcionamos.</p>
+              <Link href="/de/produkte/tr90" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+                <div className="text-4xl mb-3">🏃</div>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">TR90-Sonnenbrillen</h3>
+                <p className="text-gray-600 text-sm">Ultraleichte Sportfassungen — auch als biobasierte Variante aus Rizinusöl-Nylon für Kinder und Aktivsport verfügbar.</p>
               </Link>
             </div>
           </section>
 
           {/* CTA */}
           <section className="bg-primary-600 rounded-2xl p-8 md:p-12 text-center text-white">
-            <h2 className="text-3xl font-bold mb-4">¿Listo para Ser Nachhaltig?</h2>
+            <h2 className="text-3xl font-bold mb-4">Bereit für den nachhaltigen Weg?</h2>
             <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
-              Sagen Sie uns sobre tu Marke, tu Kunde objetivo y tus metas de sostenibilidad. Te recomendaremos los Materiales eco adecuados y te enviaremos Muster en una semana. Sin compromiso, sin presión — solo consejos honestos de alguien que ha ayudado a más de 100 Markes a hacer esta transición.
+              Erzählen Sie uns von Ihrer Marke, Ihrer Zielgruppe und Ihren Nachhaltigkeitszielen. Wir empfehlen die richtigen Öko-Materialien und senden Ihnen innerhalb einer Woche Muster. Keine Verpflichtung, kein Druck — nur ehrliche Beratung von jemandem, der über 100 Marken bei diesem Übergang begleitet hat.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/de/kontakt" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-Farbes">
+              <Link href="/de/kontakt" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
                 Angebot anfordern
               </Link>
-              <Link href="/de/produkte" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-Farbes">
-                Ver Todos los Produkte
+              <Link href="/de/produkte" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
+                Alle Produkte ansehen
               </Link>
             </div>
           </section>

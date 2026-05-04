@@ -23,89 +23,89 @@ export const metadata: Metadata = {
 
 const acetateFaqs = [
   {
-    question: '¿Cuál es la diferencia entre el acetato italiano Mazzucchelli y el acetato chino?',
-    answer: 'La respuesta honesta es que la brecha se ha reducido significativamente en la última década, pero todavía hay diferencias reales. Mazzucchelli (y otros Herstellers italianos como Lapo) usa un proceso de extrusión más lento y controlado que produce planchas con profundidad de Farbe y distribución de patrón más consistente — especialmente visible en patrones complejos como carey multicapa o Farbees transparentes tipo cristal. El acetato italiano también tiende a pulirse a un brillo ligeramente superior. El acetato chino de Produktres de primera línea como Shenzhen Xin Rui o Taizhou Huangyan ha mejorado dramáticamente y es genuinamente bueno — exceGlas gama de Farbees, buena consistencia, y un 30-40% más barato. Para la mayoría de Preiss retail por debajo de $80, el acetato chino de alta Qualität es la elección inteligente. Para Markes Premium con retail por encima de $100 donde el Kunde podría comparar tu Fassung lado a lado con Céline o Tom Ford, el acetato italiano te da ese último 10% de refinamiento.',
+    question: 'Was ist der Unterschied zwischen italienischem Mazzucchelli-Acetat und chinesischem Acetat?',
+    answer: 'Die ehrliche Antwort ist, dass der Unterschied in den letzten zehn Jahren deutlich kleiner geworden ist, aber es gibt immer noch echte Unterschiede. Mazzucchelli (und andere italienische Hersteller wie Lapo) verwenden einen langsameren, kontrollierteren Extrusionsprozess, der Platten mit gleichmäßigerer Farbtiefe und Musterverteilung erzeugt — besonders sichtbar bei komplexen Mustern wie mehrschichtigem Schildpatt oder kristallklaren transparenten Farben. Italienisches Acetat lässt sich auch zu einem etwas höheren Glanz polieren. Chinesisches Acetat von Top-Herstellern wie Shenzhen Xin Rui oder Taizhou Huangyan hat sich dramatisch verbessert und ist wirklich gut — hervorragende Farbauswahl, gute Konsistenz und etwa 30–40 % günstiger. Für die meisten Verkaufspreise unter 80 $ ist hochwertiges chinesisches Acetat die kluge Wahl. Für Premium-Marken mit Verkaufspreisen über 100 $, bei denen der Kunde Ihre Fassung direkt neben Céline oder Tom Ford vergleichen könnte, gibt Ihnen italienisches Acetat die letzten 10 % Verfeinerung.',
   },
   {
-    question: '¿Cuánto tarda el proceso de Produktion de acetato?',
-    answer: 'Más de lo que podrías pensar — y eso es realmente lo que hace especial al acetato. Ab el corte CNC hasta el Qualitätskontrolle final, un solo par toma 5-7 días de tiempo de procesamiento real. Los grandes consumidores de tiempo son el tamboreado (3-5 días para suavizar todas las Markes del mecanizado) y el pulido a mano (20-30 minutos pro Paar por trabajadores cualificados). El tiempo total de Produktion para un Bestellung es típicamente 20-28 días porque procesamos por lotes en cada etapa. Los Bestellungs urgentes se pueden hacer en 14-18 días pero cobramos un recargo del 15% porque tenemos que interrumpir otras tiradas de Produktion. Los pares de Muster tardan 5-7 Werktage.',
+    question: 'Wie lange dauert der Acetat-Produktionsprozess?',
+    answer: 'Länger als man denkt — und genau das macht Acetat besonders. Vom CNC-Schnitt bis zur finalen Qualitätskontrolle dauert die tatsächliche Bearbeitungszeit eines einzelnen Paares 5–7 Tage. Die größten Zeitfresser sind das Trommelpolieren (3–5 Tage zum Glätten aller Bearbeitungsspuren) und das Handpolieren (20–30 Minuten pro Paar durch erfahrene Arbeiter). Die gesamte Produktionsvorlaufzeit für eine Bestellung beträgt typischerweise 20–28 Tage, da wir in jeder Phase chargenweise arbeiten. Eilaufträge können in 14–18 Tagen erledigt werden, aber wir berechnen einen Aufpreis von 15 %, da wir andere Produktionsläufe unterbrechen müssen. Musterpaare benötigen 5–7 Werktage.',
   },
   {
-    question: '¿Qué Farbees y patrones pueden hacer en acetato?',
-    answer: 'Esencialmente ilimitados. Tenemos en stock más de 200 Farbees y patrones de planchas de acetato de nuestros proveedores — Farbees sólidos, carey (clásico marrón, rubio, oscuro), cristal/transparente (transparente, gris, champán, azul), mármol, veta de madera, efecto cuerno, degradado y patrones laminados multicapa. Para Farbees personalizados, nos das un código Pantone y el proveedor de acetato produce una plancha a medida. El desarrollo de patrones personalizados (como una mezcla de carey única o un patrón con tu Marke) también es posible — el Mindestbestellmenge de planchas es normalmente 50-100kg, lo que se traduce en aproximadamente 500-1.000 pares dependiendo del Größe de la Fassung. Para Bestellungs más pequeños, recomendamos encarecidamente elegir de los Farbees en stock — hay tantos que casi sicher encontrarás lo que necesitas.',
+    question: 'Welche Farben und Muster können Sie in Acetat herstellen?',
+    answer: 'Im Grunde unbegrenzt. Wir haben über 200 Acetat-Plattenfarben und -muster unserer Lieferanten auf Lager — Volltonfarben, Schildpatt (klassisches Braun, Blond, Dunkel), Kristall/Transparent (Klar, Grau, Champagner, Blau), Marmor, Holzmaserung, Horn-Effekt, Verlauf und mehrschichtige laminierte Muster. Für individuelle Farben geben Sie uns einen Pantone-Code und der Acetat-Lieferant produziert eine passende Platte. Die Entwicklung individueller Muster (wie eine einzigartige Schildpatt-Mischung oder ein Marken-Muster) ist ebenfalls möglich — die Mindestbestellmenge für Platten beträgt in der Regel 50–100 kg, was je nach Fassungsgröße etwa 500–1.000 Paaren entspricht. Für kleinere Bestellungen empfehlen wir dringend, aus den vorhandenen Lagerfarben zu wählen — es gibt so viele, dass Sie mit ziemlicher Sicherheit finden werden, was Sie brauchen.',
   },
   {
-    question: '¿Cómo deben cuidar los Kundes las Brillen de acetato?',
-    answer: 'El acetato es más beständig de lo que la mayoría piensa, pero hay algunas cosas que saber. Primero, mantenerlas alejadas del calor extremo — no las dejes en el salpicadero del coche en verano. El acetato se ablanda alrededor de 70-80°C (158-176°F), así que el calor sostenido puede deformar la Fassung. Segundo, evitar acetona y solventes fuertes — el quitaesmalte dañará la superficie. Tercero, limpiar con agua tibia y jabón suave, luego secar con un paño suave. Nada de limpiadores de Gläser a base de alcohol. La buena noticia es que las Fassungs de acetato pueden ser ajustadas por tu óptico con calor suave, y los arañazos menores a menudo pueden pulirse. Incluimos tarjetas de instrucciones de cuidado con cada Bestellung sin cargo extra — evita a tus Kundes los errores más comunes y reduce tu tasa de devolución.',
+    question: 'Wie sollten Kunden Acetat-Sonnenbrillen pflegen?',
+    answer: 'Acetat ist widerstandsfähiger als die meisten Leute denken, aber es gibt ein paar Dinge zu beachten. Erstens: Halten Sie sie von extremer Hitze fern — lassen Sie sie nicht im Sommer auf dem Armaturenbrett liegen. Acetat wird bei etwa 70–80 °C (158–176 °F) weich, sodass anhaltende Hitze die Fassung verformen kann. Zweitens: Vermeiden Sie Aceton und aggressive Lösungsmittel — Nagellackentferner beschädigt die Oberfläche. Drittens: Mit warmem Wasser und milder Seife reinigen, dann mit einem weichen Tuch trocknen. Keine alkoholhaltigen Linsenreiniger. Die gute Nachricht ist, dass Acetat-Fassungen von jedem Optiker mit sanfter Wärme angepasst werden können und kleinere Kratzer oft auspoliert werden können. Wir legen jeder Bestellung kostenlos Pflegekarten bei — das bewahrt Ihre Kunden vor den häufigsten Fehlern und reduziert Ihre Rücksendequote.',
   },
   {
-    question: '¿Cuál es el MOQ para Brillen de acetato personalizadas?',
-    answer: 'El MOQ estándar es 100 unidades por modelo. Puedes mezclar Farbees dentro de esas 100 — así que 30 negro, 30 carey y 40 cristal transparente funciona bien. Si quieres un Design de Fassung completamente personalizado (tu propia forma, no uno de nuestros moldes existentes), hay una tarifa única de molde de $800-1.500 dependiendo de la complejidad, y el MOQ para formas personalizadas es 300 unidades en el primer Bestellung. Después de eso, los reBestellungs vuelven a 100 unidades. Para Farbees de plancha de acetato personalizados (coincidencia Pantone), el MOQ de la plancha del proveedor es típicamente 50-100kg. Mantenemos una gran biblioteca de Farbees en stock para evitar este mínimo para Markes más pequeñas.',
+    question: 'Wie hoch ist die Mindestbestellmenge für individuelle Acetat-Sonnenbrillen?',
+    answer: 'Die Standard-Mindestbestellmenge beträgt 100 Stück pro Modell. Sie können innerhalb dieser 100 Farben mischen — also 30 Schwarz, 30 Schildpatt und 40 Kristallklar funktioniert einwandfrei. Wenn Sie ein komplett individuelles Fassungsdesign möchten (Ihre eigene Form, nicht einer unserer vorhandenen Formen), fällt eine einmalige Formgebühr von 800–1.500 $ an, je nach Komplexität, und die Mindestbestellmenge für individuelle Formen beträgt 300 Stück bei der ersten Bestellung. Danach sinken Nachbestellungen wieder auf 100 Stück. Für individuelle Acetat-Plattenfarben (Pantone-Abgleich) beträgt die Platten-Mindestbestellmenge beim Lieferanten typischerweise 50–100 kg. Wir führen eine große Bibliothek an Lagerfarben, um dieses Minimum für kleinere Marken zu umgehen.',
   },
   {
-    question: '¿Por qué el acetato es más caro que el plástico inyectado?',
-    answer: 'Porque casi cada paso requiere manos humanas cualificadas. Las Fassungs inyectadas (nylon, TR90, PC) las hace una máquina en unos 30 segundos — inyectar plástico caliente en un molde, enfriar, sacarlo, listo. Las Fassungs de acetato empiezan como planchas planas que se cortan por CNC en formas toscas, luego se tamborean durante 3-5 días, luego se pulen a mano una por una durante 20-30 minutos. El contenido de mano de obra es dramáticamente mayor. El costo del Material también es mayor — un kilogramo de plancha de acetato de Qualität cuesta 3-5 veces más que pellets de nylon de grado inyección. La recompensa es que las Fassungs de acetato se ven y se sienten Premium de una manera que el plástico inyectado simplemente no puede igualar. Los Farbees son más ricos, la superficie tiene más profundidad, y hay una calidez y Gewicht en el acetato que los Kundes asocian con Qualität. Por eso las Fassungs de acetato se venden a $60-200+ mientras que las inyectadas típicamente alcanzan un máximo de $40-60.',
+    question: 'Warum ist Acetat teurer als spritzgegossener Kunststoff?',
+    answer: 'Weil fast jeder Schritt geschickte menschliche Hände erfordert. Spritzgegossene Fassungen (Nylon, TR90, PC) werden von einer Maschine in etwa 30 Sekunden hergestellt — heißen Kunststoff in eine Form spritzen, abkühlen, herausnehmen, fertig. Acetat-Fassungen beginnen als flache Platten, die per CNC in Rohformen geschnitten, dann 3–5 Tage trommelpoliert und anschließend einzeln 20–30 Minuten handpoliert werden. Der Arbeitsanteil ist dramatisch höher. Auch die Materialkosten sind höher — ein Kilogramm hochwertige Acetat-Platte kostet 3–5-mal mehr als Nylon-Granulat für den Spritzguss. Der Lohn dafür ist, dass Acetat-Fassungen auf eine Weise hochwertig aussehen und sich anfühlen, die spritzgegossener Kunststoff einfach nicht erreichen kann. Die Farben sind satter, die Oberfläche hat mehr Tiefe, und es gibt eine Wärme und ein Gewicht beim Acetat, das Kunden mit Qualität verbinden. Deshalb werden Acetat-Fassungen für 60–200 $+ verkauft, während spritzgegossene Fassungen typischerweise bei maximal 40–60 $ liegen.',
   },
 ]
 
 const products = [
   {
-    name: 'Wayfarer Clásico Carey',
-    description: 'Hersteller von Acetat-Sonnenbrillen im Großhandel. Handgefertigte Fassungen, italienisches Mazzucchelli-Acetat, über 200 Farben und Muster. CNC-Schnitt, Handpolitur. OEM/ODM. MOQ 100 Stk.',
+    name: 'Klassische Schildpatt-Wayfarer',
+    description: 'Die Schildpatt-Wayfarer ist die am häufigsten nachgefragte Acetat-Fassung der Brillenindustrie — und das aus gutem Grund. Das bernstein-braune Muster schmeichelt jedem Hautton, sieht auf Fotos wunderschön aus und vermittelt sofort einen Premium-Eindruck. Wir produzieren diese sowohl in italienischem Mazzucchelli-Acetat (für Premium-Linien) als auch in hochwertigem chinesischem Acetat (für die mittlere Preispositionierung). Jedes Paar wird von Hand auf einen tiefen Glanz poliert, der Licht auf eine Weise einfängt, die spritzgegossener Kunststoff einfach nicht nachahmen kann. Wenn Sie eine Brillenmarke aufbauen und eine sichere erste Artikelnummer brauchen, ist dies wahrscheinlich die richtige.',
     price: '$6.00 - $11.00',
     moq: '100 Stk.',
-    features: ['Patrón Carey', 'Pulido a Mano', 'Gläser UV400', 'Bisagra de 5 Barriles'],
+    features: ['Schildpatt-Muster', 'Handpoliert', 'UV400-Gläser', '5-Zylinder-Scharnier'],
   },
   {
-    name: 'Redonda Cristal Transparente',
-    description: 'Hersteller von Acetat-Sonnenbrillen im Großhandel. Handgefertigte Fassungen, italienisches Mazzucchelli-Acetat, über 200 Farben und Muster. CNC-Schnitt, Handpolitur. OEM/ODM. MOQ 100 Stk.',
+    name: 'Kristallklare Runde',
+    description: 'Transparentes Acetat ist seit drei Jahren im Trend und zeigt keine Anzeichen einer Verlangsamung. Unsere kristallklare runde Fassung ist optisch klar — kein Gelbstich, keine Trübung — mit dem zufriedenstellenden Acetat-Gewicht, das dem Kunden sagt, dass er etwas Echtes in der Hand hält. Die runde Form ist bei der Indie-/Vintage-Szene sehr beliebt und schneidet besonders gut auf asiatischen Märkten ab, wo rundere Formen zu mehr Gesichtstypen passen. Wir können komplett klar oder mit einem dezenten Kristallgrau, Kristallchampagner oder Kristallblau liefern, wenn Sie einen Hauch von Farbe möchten.',
     price: '$7.00 - $11.00',
     moq: '100 Stk.',
-    features: ['Cristal Transparente', 'Forma Redonda', 'Claridad Óptica', 'Múltiples Opciones de Tinte'],
+    features: ['Kristallklar', 'Runde Form', 'Optische Klarheit', 'Mehrere Tönungsoptionen'],
   },
   {
-    name: 'Cat-Eye Efecto Mármol',
-    description: 'Hersteller von Acetat-Sonnenbrillen im Großhandel. Handgefertigte Fassungen, italienisches Mazzucchelli-Acetat, über 200 Farben und Muster. CNC-Schnitt, Handpolitur. OEM/ODM. MOQ 100 Stk.',
+    name: 'Marmor-Effekt Cat-Eye',
+    description: 'Das Marmor-Muster entsteht durch das Schichten von zwei oder drei verschiedenfarbigen Acetat-Platten, die zusammengepresst werden, wodurch ein gewirbelter, steinartiger Effekt entsteht, der bei jedem Paar einzigartig ist. Kombiniert mit der Cat-Eye-Form — die seit ihrem Comeback um 2018 die Damen-Brillenmode dominiert — ist dies ein echtes Statement-Stück. Wir sehen diese besonders gut bei modebewussten DTC-Marken und Boutique-Einzelhändlern laufen. Das Marmor-Muster ist in Weiß/Grau, Schwarz/Grau, Grün/Gold und Rosa/Weiß erhältlich, oder wir können eine individuelle Marmor-Mischung entwickeln.',
     price: '$8.00 - $12.00',
     moq: '100 Stk.',
-    features: ['Patrón Mármol', 'Forma Cat-Eye', 'Acetato Multicapa', 'Único por Par'],
+    features: ['Marmor-Muster', 'Cat-Eye-Form', 'Mehrschichtiges Acetat', 'Jedes Paar einzigartig'],
   },
   {
-    name: 'Oversize Acetato Degradado',
-    description: 'Hersteller von Acetat-Sonnenbrillen im Großhandel. Handgefertigte Fassungen, italienisches Mazzucchelli-Acetat, über 200 Farben und Muster. CNC-Schnitt, Handpolitur. OEM/ODM. MOQ 100 Stk.',
+    name: 'Acetat-Verlauf Oversized',
+    description: 'Zweifarbiges Verlauf-Acetat — oben dunkel, nach unten hell auslaufend. Dies wird durch das Laminieren von zwei Acetat-Platten verschiedener Farben und die Steuerung des Dickenverhältnisses erreicht. Die übergroße Fassung bietet hervorragenden Sonnenschutz und hat den Luxusmarken-Look, der auf Instagram und in Mode-Editorials gut ankommt. Erhältlich in Schwarz-zu-Klar, Braun-zu-Honig, Blau-zu-Klar und Wein-zu-Rosa Verläufen. Dieser Stil lässt sich leicht für 80–150 $ verkaufen, und die Stückkosten beginnen immer noch unter 10 $. Die Margen sind hervorragend.',
     price: '$8.00 - $13.00',
     moq: '100 Stk.',
-    features: ['Degradado BiFarbe', 'Fassung Oversize', 'Acetato Laminado', 'Posicionamiento Premium'],
+    features: ['Zweifarbiger Verlauf', 'Oversize-Fassung', 'Laminiertes Acetat', 'Premium-Positionierung'],
   },
   {
-    name: 'Cuadrada Premium Acetato Italiano',
-    description: 'Hersteller von Acetat-Sonnenbrillen im Großhandel. Handgefertigte Fassungen, italienisches Mazzucchelli-Acetat, über 200 Farben und Muster. CNC-Schnitt, Handpolitur. OEM/ODM. MOQ 100 Stk.',
+    name: 'Italienische Acetat Premium-Eckig',
+    description: 'Für Marken, die im oberen Marktsegment konkurrieren. Diese Fassung verwendet ausschließlich Mazzucchelli M49-Acetat — die gleiche Qualität, die von Tom Ford, Céline und Oliver Peoples verwendet wird. Der Unterschied ist in der Farbtiefe und der Politurqualität sichtbar. Unsere Arbeiter verbringen 30+ Minuten mit dem Handpolieren jedes Paares, um diesen flüssig-glatten Glanz zu erzielen. Fünf-Zylinder-Scharniere mit individuellem Logo-Kerndraht. Die eckige Form ist vielseitig — funktioniert für Damen und Herren — und die Proportionen sind auf einen modernen, leicht übergroßen Look kalibriert, der gut auf Fotos wirkt. Das ist das Paar, bei dem ein Einkäufer auf einer Messe die Fassung in die Hand nimmt und sagt: „Oh, die ist schön."',
     price: '$10.00 - $16.00',
     moq: '100 Stk.',
-    features: ['Mazzucchelli M49', 'Pulido Premium', 'Scharniere de 5 Barriles', 'Hilo de Alma Individualisierendo'],
+    features: ['Mazzucchelli M49', 'Premium-Politur', '5-Zylinder-Scharniere', 'Individueller Kerndraht'],
   },
   {
-    name: 'Browline Acetato Efecto Cuerno',
-    description: 'Hersteller von Acetat-Sonnenbrillen im Großhandel. Handgefertigte Fassungen, italienisches Mazzucchelli-Acetat, über 200 Farben und Muster. CNC-Schnitt, Handpolitur. OEM/ODM. MOQ 100 Stk.',
+    name: 'Horn-Effekt Acetat Browline',
+    description: 'Das Horn-Effekt-Muster ahmt natürliches Büffelhorn nach — dunkle Streifen auf einem helleren Grund, die eine organische, fast holzartige Textur erzeugen. Kombiniert mit der Browline-Form (Clubmaster), bei der die obere Hälfte der Fassung aus dickerem Acetat und die untere aus dünnem Metalldraht besteht, ist dies ein markantes Hybrid-Design. Das Horn-Muster ist besonders auf dem japanischen und koreanischen Markt beliebt, wo es eine anspruchsvolle, intellektuelle Ästhetik vermittelt. Jedes Paar hat ein leicht anderes Muster aufgrund natürlicher Variationen in der Acetat-Platte. Wir verwenden deutschen Edelstahl für den unteren Drahtrand.',
     price: '$9.00 - $14.00',
     moq: '100 Stk.',
-    features: ['Patrón Efecto Cuerno', 'Forma Browline', 'Híbrido Acetato + Metal', 'Acero Alemán'],
+    features: ['Horn-Effekt-Muster', 'Browline-Form', 'Acetat + Metall Hybrid', 'Deutscher Edelstahl-Draht'],
   },
 ]
 
-export default function AcetatoPageDe() {
+export default function AcetatPageDe() {
   return (
     <>
       <ProductSchema product={{
-        name: 'Sonnenbrillen de Acetato Individualisierendas',
-        description: 'Hersteller von Acetat-Sonnenbrillen im Großhandel. Handgefertigte Fassungen, italienisches Mazzucchelli-Acetat, über 200 Farben und Muster. CNC-Schnitt, Handpolitur. OEM/ODM. MOQ 100 Stk.',
+        name: 'Individuelle Acetat-Sonnenbrillen',
+        description: 'Handgefertigte Acetat-Sonnenbrillen aus italienischem Mazzucchelli- und Premium-chinesischem Acetat. CNC-geschnitten, trommelpoliert, handpoliert. Über 200 Farben und Muster. Vollständige OEM-Individualisierung.',
         minPrice: '6.00',
         maxPrice: '16.00'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de' },
         { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte' },
-        { name: 'Brillen de Acetato', url: 'https://eyeviewsunglasses.com/de/produkte/acetat' }
+        { name: 'Acetat-Sonnenbrillen', url: 'https://eyeviewsunglasses.com/de/produkte/acetat' }
       ]} />
       <FAQPageSchema faqs={acetateFaqs} />
 
@@ -117,14 +117,14 @@ export default function AcetatoPageDe() {
             <span className="mx-2">/</span>
             <Link href="/de/produkte" className="hover:text-primary-600">Produkte</Link>
             <span className="mx-2">/</span>
-            <span className="text-gray-900 font-medium">Sonnenbrillen de Acetato</span>
+            <span className="text-gray-900 font-medium">Acetat-Sonnenbrillen</span>
           </nav>
 
           {/* Hero Image */}
           <div className="mb-12">
             <img
               src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=1200&h=500&fit=crop"
-              alt="Hersteller de Sonnenbrillen de Acetato - Brillen Artesanales Mazzucchelli im Großhandel"
+              alt="Acetat-Sonnenbrillen Hersteller - Italienische Mazzucchelli handgefertigte Brillen Großhandel"
               loading="lazy"
               className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
             />
@@ -133,7 +133,7 @@ export default function AcetatoPageDe() {
           {/* Header */}
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              Hersteller de Sonnenbrillen de Acetato
+              Acetat-Sonnenbrillen Hersteller
             </h1>
           </div>
 
@@ -141,34 +141,34 @@ export default function AcetatoPageDe() {
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
               <p className="text-xl leading-relaxed mb-4">
-                Si alguna vez has cogido un par de Sonnenbrillen y has pensado inmediatamente &ldquo;estas se sienten caras,&rdquo; casi sicher estabas sosteniendo <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acetato de celulosa</a>. Hay una razón por la que cada gran Marke de Brillen de lujo — ab Tom Ford hasta Chanel pasando por Oliver Peoples — construye sus Fassungs con este Material. El acetato tiene una profundidad y riqueza que el plástico inyectado no puede alcanzar. Los Farbees están en capas, no pintados en la superficie. El pulido tiene una calidez. Y el Gewicht — unos 25-35 gramos para una Fassung típica — se asienta en tu cara con una sustancia que dice &ldquo;esto cuesta más de $20.&rdquo;
+                Wenn Sie jemals eine Sonnenbrille in die Hand genommen und sofort gedacht haben &ldquo;die fühlt sich teuer an&rdquo;, dann hielten Sie mit ziemlicher Sicherheit <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Zelluloseacetat</a> in der Hand. Es gibt einen Grund, warum jede große Luxus-Brillenmarke — von Tom Ford über Chanel bis Oliver Peoples — ihre Fassungen aus diesem Material fertigt. Acetat hat eine Tiefe und Reichhaltigkeit, die spritzgegossener Kunststoff nicht erreichen kann. Die Farben sind geschichtet, nicht oberflächlich aufgemalt. Die Politur hat eine Wärme. Und das Gewicht — etwa 25–35 Gramm für eine typische Fassung — sitzt mit einer Substanz auf Ihrem Gesicht, die sagt &ldquo;das kostet mehr als 20 $&rdquo;.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Llevo 14 años fabricando Sonnenbrillen de acetato, y el proceso aún me fascina. A diferencia del moldeo por inyección — donde inyectas plástico caliente en un molde y sacas una Fassung terminada en 30 segundos — las Fassungs de acetato empiezan como planchas planas de Material que pasan por un viaje de Produktion de varios días: corte CNC, tamboreado, pulido a mano, ensamblaje y Qualitätskontrolle. Cada par pasa por manos humanas múltiples veces. Eso es lo que hace que las Fassungs de acetato sean más caras, y también lo que las hace mejores.
+                Ich fertige seit 14 Jahren Acetat-Sonnenbrillen, und der Prozess fasziniert mich immer noch. Im Gegensatz zum Spritzguss — wo man heißen Kunststoff in eine Form spritzt und in 30 Sekunden eine fertige Fassung herausholt — beginnen Acetat-Fassungen als flache Materialplatten, die eine mehrtägige Produktionsreise durchlaufen: CNC-Schnitt, Trommelpolieren, Handpolieren, Montage und Qualitätskontrolle. Jedes einzelne Paar geht mehrfach durch menschliche Hände. Das ist es, was Acetat-Fassungen teurer macht, und es ist auch das, was sie besser macht.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Trabajamos con dos categorías de acetato. Para Markes Premium, usamos acetato italiano de <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Mazzucchelli</a> — llevan fabricando el Material ab 1849 y son el estándar de oro. Su biblioteca de Farbees tiene más de 2.000 patrones y su Qualitätskontrolle es meticuloso. Para Markes posicionadas en la gama media ($40-80 retail), usamos acetato chino de primera línea de proveedores como Shenzhen Xin Rui, que ha mejorado enormemente en la última década y ofrece un gran valor. Ambos funcionan. Cuál elijas depende de tu punto de Preis y tu competencia.
+                Wir arbeiten mit zwei Kategorien von Acetat. Für Premium-Marken verwenden wir italienisches <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Mazzucchelli</a>-Acetat — sie stellen das Material seit 1849 her und sind der Goldstandard. Ihre Farbbibliothek umfasst über 2.000 Muster und ihre Qualitätskontrolle ist akribisch. Für Marken im mittleren Preissegment (40–80 $ Verkaufspreis) verwenden wir erstklassiges chinesisches Acetat von Lieferanten wie Shenzhen Xin Rui, das sich im letzten Jahrzehnt enorm verbessert hat und ein hervorragendes Preis-Leistungs-Verhältnis bietet. Beides funktioniert. Welches Sie wählen, hängt von Ihrem Preispunkt und Ihrer Konkurrenz ab.
               </p>
               <p className="text-lg leading-relaxed">
-                Nuestra Fabrik produce unas 300.000 Brillen de acetato al año en todos los Stils — <Link href="/de/produkte/wayfarer" className="text-primary-600 hover:underline">wayfarers</Link>, <Link href="/de/produkte/ojo-de-gato" className="text-primary-600 hover:underline">cat-eyes</Link>, <Link href="/de/produkte/redondo" className="text-primary-600 hover:underline">redondas</Link>, cuadradas, browlines y formas personalizadas. Tenemos 12 máquinas CNC, 6 tambores de pulido y empleamos a 45 trabajadores de pulido a mano. Déjame explicarte exactamente cómo convertimos una plancha plana de acetato en un par de Brillen terminado.
+                Unsere Fabrik produziert etwa 300.000 Paar Acetat-Sonnenbrillen pro Jahr in allen Stilen — <Link href="/de/produkte/wayfarer" className="text-primary-600 hover:underline">Wayfarers</Link>, <Link href="/de/produkte/katzenaugen" className="text-primary-600 hover:underline">Cat-Eyes</Link>, <Link href="/de/produkte/rund" className="text-primary-600 hover:underline">Runde</Link>, Eckige, Browlines und individuelle Formen. Wir betreiben 12 CNC-Maschinen, 6 Poliertrommeln und beschäftigen 45 Handpolierer. Lassen Sie mich Ihnen genau zeigen, wie wir eine flache Acetat-Platte in ein fertiges Paar Sonnenbrillen verwandeln.
               </p>
             </div>
           </div>
 
           {/* Production Process */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Cómo Fabricamos las Brillen de Acetato</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">So fertigen wir Acetat-Sonnenbrillen</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              De plancha plana a Fassung terminada en 5-7 días. Aquí va cada paso — sin atajos, sin secretos.
+              Von der flachen Platte zur fertigen Fassung in 5–7 Tagen. Hier ist jeder Schritt — ohne Abkürzungen, ohne Geheimnisse.
             </p>
 
             <div className="max-w-4xl mx-auto space-y-8">
               <div className="flex gap-6 items-start">
                 <div className="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-lg">1</div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Selección de Plancha y Corte CNC</h3>
+                  <h3 className="text-xl font-bold mb-2">Plattenauswahl &amp; CNC-Schnitt</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Todo empieza con la plancha de acetato — un bloque de Material de aproximadamente 6mm de esGewichtr en el Farbe o patrón que hayas elegido. Cargamos la plancha en una fresadora CNC (control numérico por computadora) que corta la Fassung frontal y las Bügels con especificaciones precisas. La CNC sigue el archivo CAD 3D de tu Fassung, cortando las ranuras de las Gläser, la forma del Steg y las cavidades de las Scharniere en una sola operación. Un operador CNC cualificado puede cortar unas 40-50 Fassungs frontales por hora. En esta etapa, la Fassung está tosca — puedes ver las Markes del mecanizado y los bordes están afilados.
+                    Es beginnt mit der Acetat-Platte — einem Materialblock von etwa 6 mm Dicke in der von Ihnen gewählten Farbe oder dem gewählten Muster. Wir laden die Platte in eine CNC-Fräsmaschine (computergesteuerte numerische Steuerung), die die Frontfassung und Bügel nach genauen Spezifikationen schneidet. Die CNC folgt der 3D-CAD-Datei Ihrer Fassung und schneidet die Glasnuten, Stegform und Scharniertaschen in einem Arbeitsgang. Ein erfahrener CNC-Bediener kann etwa 40–50 Frontfassungen pro Stunde schneiden. In diesem Stadium ist die Fassung roh — man kann die Bearbeitungsspuren sehen und die Kanten sind scharf.
                   </p>
                 </div>
               </div>
@@ -176,9 +176,9 @@ export default function AcetatoPageDe() {
               <div className="flex gap-6 items-start">
                 <div className="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-lg">2</div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Tamboreado (3-5 Días)</h3>
+                  <h3 className="text-xl font-bold mb-2">Trommelpolieren (3–5 Tage)</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Este es el paso que sorprende a la gente — las Fassungs van a un tambor rotatorio lleno de virutas de madera, piedra pómez y una pequeña cantidad de agua. El tambor gira lentamente durante 3-5 días, y la fricción gradualmente suaviza todas las Markes del mecanizado y redondea los bordes. Es esencialmente un proceso de lijado muy lento y muy suave. No puedes acelerarlo. Lo hemos intentado. Si acortas el tamboreado, la superficie no está lo suficientemente suave para que el pulido final quede bien. Diferentes patrones requieren diferentes medios de tamboreado — por ejemplo, el acetato cristal transparente necesita medios más finos para evitar micro-rayaduras.
+                    Das ist der Schritt, der die Leute überrascht — die Fassungen kommen in eine rotierende Trommel, gefüllt mit Holzspänen, Bimsstein und einer kleinen Menge Wasser. Die Trommel dreht sich langsam 3–5 Tage lang, und die Reibung glättet nach und nach alle Bearbeitungsspuren und rundet die Kanten ab. Es ist im Wesentlichen ein sehr langsamer, sehr schonender Schleifprozess. Man kann das nicht beschleunigen. Wir haben es versucht. Wenn man die Trommelzeit verkürzt, ist die Oberfläche nicht glatt genug, damit die finale Politur gut aussieht. Verschiedene Muster erfordern unterschiedliche Trommelmedien — zum Beispiel benötigt kristallklares Acetat feinere Medien, um Mikrokratzer zu vermeiden.
                   </p>
                 </div>
               </div>
@@ -186,9 +186,9 @@ export default function AcetatoPageDe() {
               <div className="flex gap-6 items-start">
                 <div className="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-lg">3</div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Pulido a Mano (20-30 Minutos por Par)</h3>
+                  <h3 className="text-xl font-bold mb-2">Handpolitur (20–30 Minuten pro Paar)</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Aquí es donde ocurre la magia y de donde viene la mayor parte del costo. Un trabajador cualificado toma cada Fassung y la pule a mano contra una serie de ruedas de algodón para pulir, usando compuestos de pulido progresivamente más finos. La primera rueda elimina las Markes de tamboreado restantes. La segunda genera un semi-brillo. La tercera y última rueda produce ese brillo profundo de cristal líquido que hace que las Fassungs de acetato se vean tan Premium. Nuestros trabajadores de pulido tienen una media de 6 años de experiencia — se necesita aproximadamente un año de formación antes de que alguien pueda pulir consistentemente a nuestro estándar. Este es el paso que las Fassungs de plástico de mercado masivo se saltan por completo, y es la razón por la que las Fassungs de acetato se ven y se sienten fundamentalmente diferentes.
+                    Hier passiert die Magie und hier entsteht der größte Teil der Kosten. Ein erfahrener Arbeiter nimmt jede Fassung und poliert sie von Hand an einer Reihe von Baumwoll-Polierscheiben mit zunehmend feineren Poliermitteln. Die erste Scheibe entfernt alle verbliebenen Trommelspuren. Die zweite bringt einen Halbglanz hervor. Die dritte und letzte Scheibe erzeugt diesen tiefen, flüssig-glasartigen Glanz, der Acetat-Fassungen so hochwertig aussehen lässt. Unsere Polierarbeiter haben durchschnittlich 6 Jahre Erfahrung — es dauert etwa ein Jahr Ausbildung, bevor jemand konstant auf unserem Standard polieren kann. Das ist der Schritt, den Massenfassungen aus Kunststoff komplett überspringen, und es ist der Grund, warum Acetat-Fassungen sich grundlegend anders anfühlen und aussehen.
                   </p>
                 </div>
               </div>
@@ -196,9 +196,9 @@ export default function AcetatoPageDe() {
               <div className="flex gap-6 items-start">
                 <div className="flex-shrink-0 w-12 h-12 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center font-bold text-lg">4</div>
                 <div>
-                  <h3 className="text-xl font-bold mb-2">Ensamblaje de Scharniere y Montaje de Gläser</h3>
+                  <h3 className="text-xl font-bold mb-2">Scharniermontage &amp; Glaseinpassung</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Insertamos las Scharniere (típicamente de acero inoxidable de 5 barriles con hilo de alma personalizado para tu logo), fijamos las Bügels y montamos las Gläser. Para Fassungs de acetato, las Gläser se cortan para coincidir con la forma de la ranura y se insertan calentando suavemente la Fassung a unos 60°C, lo que hace que el acetato sea lo suficientemente flexibel para aceptar la Glas sin agrietamiento por estrés. Cada Scharnier se prueba para acción suave y tensión adecuada. La alineación de las Bügels se verifica para asegurar que la Fassung se asiente nivelada en una superficie plana.
+                    Wir setzen die Scharniere ein (typischerweise 5-Zylinder-Edelstahl mit individuellem Kerndraht für Ihr Logo), befestigen die Bügel und montieren die Gläser. Bei Acetat-Fassungen werden die Gläser passend zur Nutform geschnitten und durch sanftes Erwärmen der Fassung auf etwa 60 °C eingesetzt, was das Acetat flexibel genug macht, um das Glas ohne Spannungsrisse aufzunehmen. Jedes Scharnier wird auf reibungslosen Lauf und richtige Spannung getestet. Die Bügelausrichtung wird überprüft, um sicherzustellen, dass die Fassung eben auf einer flachen Oberfläche aufliegt.
                   </p>
                 </div>
               </div>
@@ -208,7 +208,7 @@ export default function AcetatoPageDe() {
                 <div>
                   <h3 className="text-xl font-bold mb-2">Qualitätskontrolle</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Cada par pasa por una Inspektion de 15 puntos: alineación de Gläser, tensión de Scharnier, simetría de Bügels, acabado de superficie (comprobando rayaduras, picaduras o pulido desigual), consistencia de Farbe, verificación de UV-Schutz (probada con espectrómetro UV) y mediciones físicas contra la hoja de especificaciones. Nuestra tasa de rechazo en QC para Fassungs de acetato es de aproximadamente 3-5% — más alta que las Fassungs inyectadas (que rondan el 1-2%) porque los procesos manuales introducen más variabilidad. Los pares rechazados vuelven para re-pulido o se descartan por completo. No enviamos segundas Qualitätes.
+                    Jedes Paar durchläuft eine 15-Punkte-Inspektion: Glasausrichtung, Scharnierspannung, Bügelsymmetrie, Oberflächenfinish (Prüfung auf Kratzer, Vertiefungen oder ungleichmäßige Politur), Farbkonsistenz, UV-Schutz-Verifizierung (getestet mit einem UV-Spektrometer) und physische Messungen gegen das Datenblatt. Unsere QC-Ablehnungsrate bei Acetat-Fassungen liegt bei etwa 3–5 % — höher als bei spritzgegossenen Fassungen (die bei etwa 1–2 % liegen), da die manuellen Prozesse mehr Variabilität einführen. Abgelehnte Paare gehen zum Nachpolieren zurück oder werden komplett aussortiert. Wir versenden keine B-Ware.
                   </p>
                 </div>
               </div>
@@ -217,90 +217,90 @@ export default function AcetatoPageDe() {
 
           {/* Italian vs Chinese Acetate */}
           <section className="mb-20 bg-gray-50 rounded-2xl p-8 md:p-12">
-            <h2 className="text-3xl font-bold text-center mb-4">Acetato Italiano vs. Chino: La Verdadera Historia</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Italienisches vs. chinesisches Acetat: Die wahre Geschichte</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              Me preguntan esto en casi cada llamada. Aquí va una comparación honesta de alguien que trabaja con ambos todos los días.
+              Diese Frage bekomme ich bei fast jedem Gespräch. Hier ist ein ehrlicher Vergleich von jemandem, der täglich mit beidem arbeitet.
             </p>
 
             <div className="grid md:grid-cols-2 gap-8">
               <div className="bg-white rounded-xl p-8">
                 <div className="text-3xl mb-4">🇮🇹</div>
-                <h3 className="text-xl font-bold mb-3">Acetato Italiano (Mazzucchelli, Lapo)</h3>
+                <h3 className="text-xl font-bold mb-3">Italienisches Acetat (Mazzucchelli, Lapo)</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Profundidad de Farbe y consistencia de patrón superiores — especialmente en patrones complejos multicapa</span>
+                    <span>Überlegene Farbtiefe und Musterkonsistenz — besonders bei komplexen mehrschichtigen Mustern</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Se pule a un brillo ligeramente superior con menos esfuerzo</span>
+                    <span>Lässt sich mit weniger Aufwand zu einem etwas höheren Glanz polieren</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Biblioteca de más de 2.000 patrones con décadas de I+D detrás de cada uno</span>
+                    <span>Bibliothek mit über 2.000 Mustern, hinter denen Jahrzehnte Forschung &amp; Entwicklung stecken</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>&ldquo;Fabricado con acetato italiano&rdquo; es una declaración de marketing legítima que resuena con compradores Premium</span>
+                    <span>&ldquo;Hergestellt mit italienischem Acetat&rdquo; ist ein berechtigter Marketing-Claim, der bei Premium-Käufern ankommt</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-amber-500 mt-1">⚠</span>
-                    <span>30-40% más caro que acetato chino equivaGlas</span>
+                    <span>30–40 % teurer als vergleichbares chinesisches Acetat</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-amber-500 mt-1">⚠</span>
-                    <span>Plazos de Lieferung más Länges para Farbees personalizados (6-8 semanas ab Bestellung hasta Lieferung de plancha)</span>
+                    <span>Längere Lieferzeiten für individuelle Farben (6–8 Wochen von Bestellung bis Plattenlieferung)</span>
                   </li>
                 </ul>
-                <div className="mt-4 text-primary-600 font-bold">Mejor para: Retail $80+</div>
+                <div className="mt-4 text-primary-600 font-bold">Am besten für: Verkaufspreis ab 80 $</div>
               </div>
 
               <div className="bg-white rounded-xl p-8">
                 <div className="text-3xl mb-4">🇨🇳</div>
-                <h3 className="text-xl font-bold mb-3">Acetato Chino Premium</h3>
+                <h3 className="text-xl font-bold mb-3">Premium chinesisches Acetat</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>ExceGlas Qualität de Produktres de primera línea — genuinamente bueno, no un compromiso</span>
+                    <span>Hervorragende Qualität von Top-Herstellern — wirklich gut, kein Kompromiss</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>30-40% menos costo por kilogramo</span>
+                    <span>30–40 % geringere Kosten pro Kilogramm</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Plazo más rápido para Farbees personalizados (3-4 semanas)</span>
+                    <span>Schnellere Lieferung individueller Farben (3–4 Wochen)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>MOQ de plancha más bajo para Farbees personalizados (50kg vs 100kg para italiano)</span>
+                    <span>Geringere Platten-Mindestbestellmenge für individuelle Farben (50 kg vs. 100 kg bei italienischem)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-amber-500 mt-1">⚠</span>
-                    <span>Los patrones complejos (carey multicapa) pueden tener distribución ligeramente menos consistente</span>
+                    <span>Komplexe Muster (mehrschichtiges Schildpatt) können eine etwas weniger konsistente Verteilung aufweisen</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-amber-500 mt-1">⚠</span>
-                    <span>Sin historia de marketing &ldquo;italiano&rdquo; (aunque &ldquo;acetato de celulosa Premium&rdquo; sigue funcionando)</span>
+                    <span>Keine &ldquo;italienische&rdquo; Marketing-Story (obwohl &ldquo;Premium-Zelluloseacetat&rdquo; immer noch funktioniert)</span>
                   </li>
                 </ul>
-                <div className="mt-4 text-primary-600 font-bold">Mejor para: Retail $40-80</div>
+                <div className="mt-4 text-primary-600 font-bold">Am besten für: Verkaufspreis 40–80 $</div>
               </div>
             </div>
 
             <p className="text-gray-500 text-center mt-8 text-sm">
-              Mi recomendación: empieza con acetato chino para validar tus Designs y puntos de Preis. Cambia a italiano para tus Produkts estrella una vez que hayas confirmado la demanda. Muchas Markes exitosas usan ambos — italiano para su línea insignia, chino para su colección diaria.
+              Meine Empfehlung: Beginnen Sie mit chinesischem Acetat, um Ihre Designs und Preispunkte zu validieren. Wechseln Sie zu italienischem für Ihre Flaggschiff-Produkte, sobald Sie die Nachfrage bestätigt haben. Viele erfolgreiche Marken verwenden beides — Italienisches für ihre Premium-Linie, Chinesisches für ihre Alltagskollektion.
             </p>
           </section>
 
         {/* Hero Image */}
         <div className="mb-12">
-          <img src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=1200&h=500&fit=crop" alt="Sonnenbrillen de Acetato im Großhandel" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
+          <img src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=1200&h=500&fit=crop" alt="Acetat-Sonnenbrillen Großhandel" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
         </div>
 
           {/* Products Grid */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Unsere Kollektion de Acetato</h2>
+            <h2 className="text-3xl font-bold text-center mb-10">Unsere Acetat-Kollektion</h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               {products.map((product, index) => (
                 <div key={index} className="bg-white rounded-xl border border-gray-100 overflow-hidden hover:shadow-xl transition-all duration-300 group">
@@ -336,23 +336,23 @@ export default function AcetatoPageDe() {
                 <table className="w-full">
                   <tbody className="divide-y divide-gray-100">
                     {[
-                      ['Material de Fassung', 'Acetato de celulosa — Italiano (Mazzucchelli/Lapo) o chino Premium'],
-                      ['Gewicht de Fassung', '25-35g dependiendo del Größe y grosor de la Fassung'],
-                      ['Grosor de Plancha', '5mm / 6mm / 8mm (más común: 6mm)'],
-                      ['Patrones Disponibles', '200+ Farbees en stock: sólido, carey, cristal, mármol, degradado, cuerno, veta de madera, laminado'],
-                      ['Farbees Individualisierendos', 'Coincidencia Pantone disponible — MOQ de plancha 50kg (chino) / 100kg (italiano)'],
-                      ['Material de Glas', 'Policarbonato / TAC Polarisiert / CR-39 Óptico / Cristal'],
-                      ['Breite de Glas', '48mm - 58mm (varía según Stil de Fassung)'],
-                      ['Breite de Steg', '16mm - 22mm'],
-                      ['Länge de Bügel', '140mm / 145mm / 150mm'],
-                      ['Scharniere', 'Acero inoxidable de 5 barriles estándar / Scharniere de muelle opcionales (+$0.30/par)'],
-                      ['UV-Schutz', 'UV400 — bloquea el 100% de radiación UVA y UVB'],
-                      ['Proceso de Produktion', 'Corte CNC → tamboreado (3-5 días) → pulido a mano (20-30 min) → ensamblaje → QC'],
+                      ['Fassungsmaterial', 'Zelluloseacetat — Italienisch (Mazzucchelli/Lapo) oder Premium-chinesisch'],
+                      ['Fassungsgewicht', '25–35 g je nach Fassungsgröße und -dicke'],
+                      ['Plattendicke', '5 mm / 6 mm / 8 mm (am häufigsten: 6 mm)'],
+                      ['Verfügbare Muster', '200+ Lagerfarben: Uni, Schildpatt, Kristall, Marmor, Verlauf, Horn, Holzmaserung, laminiert'],
+                      ['Individuelle Farben', 'Pantone-Abgleich verfügbar — Platten-MOQ 50 kg (chinesisch) / 100 kg (italienisch)'],
+                      ['Glasmaterial', 'Polycarbonat / TAC polarisiert / CR-39 optisch / Mineralglas'],
+                      ['Glasbreite', '48 mm – 58 mm (variiert je nach Fassungsstil)'],
+                      ['Stegbreite', '16 mm – 22 mm'],
+                      ['Bügellänge', '140 mm / 145 mm / 150 mm'],
+                      ['Scharniere', '5-Zylinder-Edelstahl Standard / Federscharniere optional (+0,30 $/Paar)'],
+                      ['UV-Schutz', 'UV400 — blockiert 100 % der UVA- und UVB-Strahlung'],
+                      ['Produktionsprozess', 'CNC-Schnitt → Trommelpolieren (3–5 Tage) → Handpolitur (20–30 Min.) → Montage → QK'],
                       ['Zertifizierungen', 'CE (EN ISO 12312-1) · FDA (21 CFR 801.410) · UV400 · ISO 9001'],
-                      ['MOQ', '100 unidades por modelo — mezcla de Farbees permitida / 300 Stk. para formas personalizadas'],
-                      ['Tarifa de Molde (Forma Individualisierenda)', '$800 - $1.500 único — exento en Bestellungs superiores a 1.000 Stk.'],
-                      ['Tiempo de Muestra', '5-7 Werktage'],
-                      ['Tiempo de Produktion', '20-28 días estándar / 14-18 días urgente (+15%)'],
+                      ['MOQ', '100 Stück pro Modell — Farbmischung erlaubt / 300 Stk. für individuelle Fassungsformen'],
+                      ['Formgebühr (Individuelle Form)', '800 – 1.500 $ einmalig — entfällt bei Bestellungen über 1.000 Stk.'],
+                      ['Musterzeit', '5–7 Werktage'],
+                      ['Produktionszeit', '20–28 Tage Standard / 14–18 Tage Eilauftrag (+15 %)'],
                     ].map(([label, value], i) => (
                       <tr key={i} className="hover:bg-gray-50">
                         <td className="px-6 py-4 font-semibold text-gray-900 w-1/3">{label}</td>
@@ -365,46 +365,46 @@ export default function AcetatoPageDe() {
             </div>
           </section>
 
-          {/* Farbe and Pattern Options */}
+          {/* Color and Pattern Options */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Farbees y Patrones</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Farben &amp; Muster</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              Aquí es donde el acetato realmente brilla comparado con otros Materiales. La gama de Farbees y patrones que puedes conseguir es esencialmente ilimitada.
+              Hier zeigt Acetat im Vergleich zu anderen Materialien seine wahre Stärke. Die Bandbreite an Farben und Mustern, die Sie erzielen können, ist praktisch grenzenlos.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">🐢 Carey</h3>
-                <p className="text-sm text-gray-600">El clásico. Disponible en marrón/ámbar (tradicional), rubio/miel (más claro, más trendy), Havana oscuro (rico, casi negro) y verde/oliva (único). El carey multicapa italiano tiene más profundidad y variación.</p>
+                <h3 className="font-bold mb-2">🐢 Schildpatt</h3>
+                <p className="text-sm text-gray-600">Der Klassiker. Erhältlich in Braun/Bernstein (traditionell), Blond/Honig (heller, trendiger), dunklem Havanna (satt, fast schwarz) und Grün/Oliv (einzigartig). Mehrschichtiges italienisches Schildpatt hat die meiste Tiefe und Variation.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">💎 Cristal / Transparente</h3>
-                <p className="text-sm text-gray-600">Totalmente transparente o con un tinte sutil. Cristal transparente, cristal gris, cristal champán, cristal azul, cristal rosa. La clave es la claridad óptica — el acetato transparente barato se ve lechoso. El nuestro no.</p>
+                <h3 className="font-bold mb-2">💎 Kristall / Transparent</h3>
+                <p className="text-sm text-gray-600">Vollständig transparent oder mit einem dezenten Farbton. Kristallklar, Kristallgrau, Kristallchampagner, Kristallblau, Kristallrosa. Entscheidend ist die optische Klarheit — billiges klares Acetat sieht milchig aus. Unseres nicht.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">🪨 Mármol y Piedra</h3>
-                <p className="text-sm text-gray-600">Se consigue laminando y prensando planchas de acetato de diferentes Farbees. Mármol blanco, mármol negro, jade verde, ónix rosa. Cada par tiene patrones de remolino ligeramente diferentes — cada Fassung es única.</p>
+                <h3 className="font-bold mb-2">🪨 Marmor &amp; Stein</h3>
+                <p className="text-sm text-gray-600">Wird durch Schichten und Pressen verschiedenfarbiger Acetat-Platten erzeugt. Weißer Marmor, schwarzer Marmor, grüne Jade, rosa Onyx. Jedes Paar hat leicht unterschiedliche Wirbelmuster — jede Fassung ist ein Unikat.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">🌅 Degradado / BiFarbe</h3>
-                <p className="text-sm text-gray-600">Oscuro arriba, claro abajo (o de lado a lado). Negro a transparente, marrón a miel, azul marino a azul cielo, vino a rosa. Se crea laminando dos planchas de acetato en diferentes proporciones de esGewichtr.</p>
+                <h3 className="font-bold mb-2">🌅 Verlauf / Zweifarbig</h3>
+                <p className="text-sm text-gray-600">Oben dunkel, unten hell (oder seitlich). Schwarz zu Klar, Braun zu Honig, Marineblau zu Himmelblau, Wein zu Rosa. Wird durch Laminieren von zwei Acetat-Platten in unterschiedlichen Dickenverhältnissen erzeugt.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">🎨 Farbees Sólidos</h3>
-                <p className="text-sm text-gray-600">Negro mate, negro brillante, azul marino, verde bosque, burdeos, crema, rosa pastel, azul cielo — y todo lo intermedio. Coincidencia Pantone para Farbees personalizados. La profundidad del pulido en acetato sólido es impresionante.</p>
+                <h3 className="font-bold mb-2">🎨 Unifarben</h3>
+                <p className="text-sm text-gray-600">Mattschwarz, Glanzschwarz, Marineblau, Waldgrün, Burgunder, Creme, Pastellrosa, Himmelblau — und alles dazwischen. Pantone-Abgleich für individuelle Farben. Die Politurtiefe bei unifarbenem Acetat ist beeindruckend.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
-                <h3 className="font-bold mb-2">🦌 Efecto Cuerno y Madera</h3>
-                <p className="text-sm text-gray-600">Patrones de acetato que imitan cuerno de búfalo natural o veta de madera. Populares en mercados japonés y coreano. Cada par se ve único debido a la variación natural en el patrón de la plancha de acetato.</p>
+                <h3 className="font-bold mb-2">🦌 Horn- &amp; Holz-Effekt</h3>
+                <p className="text-sm text-gray-600">Acetat-Muster, die natürliches Büffelhorn oder Holzmaserung nachahmen. Beliebt auf dem japanischen und koreanischen Markt. Jedes Paar sieht aufgrund natürlicher Variationen im Acetat-Plattenmuster einzigartig aus.</p>
               </div>
             </div>
           </section>
 
           {/* Customization */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-4">Opciones de Individualisierung</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Individualisierungsoptionen</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              Las Fassungs de acetato ofrecen la mayor gama de Individualisierung de cualquier Material de Fassung. Esto es lo que podemos hacer.
+              Acetat-Fassungen bieten die größte Bandbreite an Individualisierungsmöglichkeiten aller Fassungsmaterialien. Hier ist, was wir können.
             </p>
 
             <div className="grid md:grid-cols-3 gap-8">
@@ -413,41 +413,41 @@ export default function AcetatoPageDe() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estampado en caliente</strong> — lámina dorada, plateada o de Farbe en el interior de la Bügel. Clásico, elegante.</span>
+                    <span><strong>Heißprägung</strong> — Gold-, Silber- oder Farbfolie auf der Bügelinnenseite. Klassisch, elegant.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>En relieve/bajo relieve</strong> — prensado en la superficie del acetato. Sutil y permanente.</span>
+                    <span><strong>Prägung/Einprägung</strong> — in die Acetat-Oberfläche gepresst. Dezent und dauerhaft.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Hilo de alma personalizado</strong> — tu logo grabado a láser en el alambre metálico de la Scharnier, visible cuando la Bügel se despliega.</span>
+                    <span><strong>Individueller Kerndraht</strong> — Ihr Logo lasergraviert auf dem Metall-Scharnierdraht, sichtbar wenn der Bügel ausgeklappt wird.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Placa metálica en Bügel</strong> — placa de logo en aleación de zinc o acero inoxidable remachada a la Bügel.</span>
+                    <span><strong>Metall-Bügelplakette</strong> — Zinklegierung- oder Edelstahl-Logoplatte, am Bügel genietet.</span>
                   </li>
                 </ul>
               </div>
 
               <div className="bg-white rounded-xl p-8 border border-gray-100">
-                <h3 className="text-xl font-bold mb-4">📐 Design de Fassung</h3>
+                <h3 className="text-xl font-bold mb-4">📐 Fassungsdesign</h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Formas personalizadas</strong> — envíanos un boceto o archivo CAD y cortaremos un molde CNC ($800-1.500 único)</span>
+                    <span><strong>Individuelle Formen</strong> — senden Sie uns eine Skizze oder CAD-Datei und wir schneiden eine CNC-Form (800–1.500 $ einmalig)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Breite de Bügel</strong> — fina (4mm) para look minimal, gruesa (6-8mm) para declaración atrevida</span>
+                    <span><strong>Bügelbreite</strong> — dünn (4 mm) für einen minimalen Look, dick (6–8 mm) für ein markantes Statement</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Steg keyhole vs silla</strong> — diferentes Stils de Steg nasal para diferentes formas de cara</span>
+                    <span><strong>Schlüsselloch- vs. Sattelsteg</strong> — verschiedene Nasensteg-Stile für verschiedene Gesichtsformen</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Stil de punta de Bügel</strong> — recta, curvada o tipo pala</span>
+                    <span><strong>Bügelenden-Stil</strong> — gerade, gebogen oder paddelförmig</span>
                   </li>
                 </ul>
               </div>
@@ -457,19 +457,19 @@ export default function AcetatoPageDe() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estuches de piel</strong> — cierre magnético, logo en bajo relieve. La opción Premium.</span>
+                    <span><strong>Lederetuis</strong> — Magnetverschluss, geprägtes Logo. Die Premium-Wahl.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estuches rígidos EVA</strong> — langlebigs, leichts, impresión de logo a todo Farbe.</span>
+                    <span><strong>Hartschalen-EVA-Etuis</strong> — langlebig, leicht, Vollfarbdruck des Logos.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Bolsa de microfibra</strong> — impresa personalizada, sirve también como paño de limpieza.</span>
+                    <span><strong>Mikrofaserbeutel</strong> — individuell bedruckt, dient auch als Reinigungstuch.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Cajas listas para retail</strong> — impresión a todo Farbe, inserto personalizado, pestaña colgante, etiqueta con código de barras.</span>
+                    <span><strong>Verkaufsfertige Boxen</strong> — Vollfarbdruck, individuelle Einlage, Aufhängelasche, Barcode-Etikett.</span>
                   </li>
                 </ul>
               </div>
@@ -478,42 +478,42 @@ export default function AcetatoPageDe() {
 
           {/* Why Acetate */}
           <section className="mb-20 bg-gray-900 rounded-2xl p-8 md:p-12 text-white">
-            <h2 className="text-3xl font-bold text-center mb-4">Por Qué el Acetato Tiene Preis Premium</h2>
+            <h2 className="text-3xl font-bold text-center mb-4">Warum Acetat Premium-Preise erzielt</h2>
             <p className="text-gray-300 text-center max-w-3xl mx-auto mb-10">
-              Las Fassungs de acetato se venden a $60-200+. Aquí está por qué los Kundes pagan ese Premium — y por qué funciona para tus márgenes.
+              Acetat-Fassungen werden für 60–200 $+ verkauft. Hier ist, warum Kunden diesen Aufpreis zahlen — und warum es für Ihre Margen funktioniert.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">✋ Proceso Artesanal</h3>
-                <p className="text-gray-300 text-sm">Cada par es tocado por manos humanas múltiples veces. En un mundo de Produktion masiva, eso importa. Los Kundes pueden sentir la diferencia — y pagarán por ella. &ldquo;Pulido a mano&rdquo; es una declaración de marketing genuina que resuena.</p>
+                <h3 className="font-bold mb-2 text-amber-400">✋ Handwerklicher Prozess</h3>
+                <p className="text-gray-300 text-sm">Jedes Paar wird mehrfach von menschlichen Händen berührt. In einer Welt der Massenproduktion zählt das. Kunden spüren den Unterschied — und sie zahlen dafür. &ldquo;Handpoliert&rdquo; ist ein echtes Marketing-Argument, das ankommt.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">🎨 Profundidad de Farbe</h3>
-                <p className="text-gray-300 text-sm">Los Farbees del acetato están en capas a través del Material, no pintados en la superficie. Un patrón carey tiene profundidad real — puedes ver diferentes capas ab diferentes ángulos. Esto es físicamente imposible con plástico inyectado.</p>
+                <h3 className="font-bold mb-2 text-amber-400">🎨 Farbtiefe</h3>
+                <p className="text-gray-300 text-sm">Acetat-Farben sind durch das Material geschichtet, nicht auf die Oberfläche gemalt. Ein Schildpatt-Muster hat echte Tiefe — man sieht verschiedene Schichten aus verschiedenen Winkeln. Das ist mit spritzgegossenem Kunststoff physisch unmöglich.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">⚖️ Qualität Percibida</h3>
-                <p className="text-gray-300 text-sm">El Gewicht (25-35g), la calidez del Material contra la piel, la profundidad del pulido — todo en el acetato comunica Qualität. Tu Kunde lo coge y sabe que esto no es un par de Brillen de $15.</p>
+                <h3 className="font-bold mb-2 text-amber-400">⚖️ Wahrgenommene Qualität</h3>
+                <p className="text-gray-300 text-sm">Das Gewicht (25–35 g), die Wärme des Materials auf der Haut, die Tiefe der Politur — alles an Acetat kommuniziert Qualität. Ihr Kunde nimmt es in die Hand und weiß: Das ist keine 15-Dollar-Sonnenbrille.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">🌿 Origen Natural</h3>
-                <p className="text-gray-300 text-sm">El acetato de celulosa se deriva de fibras de algodón y pulpa de madera — es un Material de origen vegetal, no derivado del petróleo. Eso importa cada vez más a los consumidores eco-conscientes y te da un ángulo de sostenibilidad.</p>
+                <h3 className="font-bold mb-2 text-amber-400">🌿 Natürlicher Ursprung</h3>
+                <p className="text-gray-300 text-sm">Zelluloseacetat wird aus Baumwollfasern und Holzzellstoff gewonnen — es ist ein pflanzliches Material, nicht erdölbasiert. Das ist für umweltbewusste Verbraucher zunehmend wichtig und gibt Ihnen einen Nachhaltigkeitsaspekt.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">🔧 Ajustabilidad</h3>
-                <p className="text-gray-300 text-sm">El acetato puede ser ajustado por cualquier óptico con calor suave. La Fassung puede remodelarse para un ajuste personalizado. Intenta eso con nylon inyectado — se rompe. Esta ajustabilidad extiende la vida útil del Produkt y reduce devoluciones.</p>
+                <h3 className="font-bold mb-2 text-amber-400">🔧 Anpassbarkeit</h3>
+                <p className="text-gray-300 text-sm">Acetat kann von jedem Optiker mit sanfter Wärme angepasst werden. Die Fassung kann für eine individuelle Passform umgeformt werden. Versuchen Sie das mit spritzgegossenem Nylon — es bricht. Diese Anpassbarkeit verlängert die Nutzungsdauer des Produkts und reduziert Retouren.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
-                <h3 className="font-bold mb-2 text-amber-400">💰 Matemática de Márgenes</h3>
-                <p className="text-gray-300 text-sm">Una Fassung de acetato cuesta $6-16 pro Paar de producir. Se vende al retail a $60-200. Eso es un margen de 4-12x — mejor que la mayoría de Produkts de consumo. Incluso después de contabilizar marketing, Verpackung y distribución, los márgenes en Brillen de acetato son exceGläser.</p>
+                <h3 className="font-bold mb-2 text-amber-400">💰 Margen-Rechnung</h3>
+                <p className="text-gray-300 text-sm">Eine Acetat-Fassung kostet 6–16 $ pro Paar in der Herstellung. Sie wird für 60–200 $ verkauft. Das ist ein 4–12-facher Aufschlag — besser als die meisten Konsumgüter. Selbst nach Abzug von Marketing, Verpackung und Distribution sind die Margen bei Acetat-Brillen hervorragend.</p>
               </div>
             </div>
           </section>
 
           {/* FAQ Section */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Häufig gestellte Fragen sobre Brillen de Acetato</h2>
+            <h2 className="text-3xl font-bold text-center mb-10">Häufig gestellte Fragen zu Acetat-Sonnenbrillen</h2>
             <div className="max-w-4xl mx-auto space-y-6">
               {acetateFaqs.map((faq, index) => (
                 <div key={index} className="bg-gray-50 rounded-xl p-6">
@@ -526,43 +526,43 @@ export default function AcetatoPageDe() {
 
           {/* Related Products */}
           <section className="mb-20">
-            <h2 className="text-3xl font-bold text-center mb-10">Produkte Relacionados</h2>
+            <h2 className="text-3xl font-bold text-center mb-10">Verwandte Produkte</h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-              <Link href="/de/produkte/ojo-de-gato" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+              <Link href="/de/produkte/katzenaugen" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">😸</div>
-                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-Farbes mb-2">Brillen Cat-Eye</h3>
-                <p className="text-gray-600 text-sm">Nuestro Stil de acetato más popular para Markes de mujer. Disponible en todos los Farbees y patrones de acetato.</p>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Katzenaugen-Sonnenbrillen</h3>
+                <p className="text-gray-600 text-sm">Unser beliebtester Acetat-Stil für Damenmarken. In allen Acetat-Farben und -Mustern erhältlich.</p>
               </Link>
               <Link href="/de/produkte/wayfarer" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">🔲</div>
-                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-Farbes mb-2">Brillen Wayfarer</h3>
-                <p className="text-gray-600 text-sm">La forma de acetato más vendida a nivel mundial. Clásica, versátil, y el primer Produkt más sicher para nuevas Markes.</p>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Wayfarer-Sonnenbrillen</h3>
+                <p className="text-gray-600 text-sm">Die meistverkaufte Acetat-Form weltweit. Klassisch, vielseitig und das sicherste Erstprodukt für neue Marken.</p>
               </Link>
-              <Link href="/de/produkte/redondo" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+              <Link href="/de/produkte/rund" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">⭕</div>
-                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-Farbes mb-2">Brillen Redondas</h3>
-                <p className="text-gray-600 text-sm">Redondas de inspiración vintage en cristal, carey y acetato sólido. En fuerte tendencia en mercados asiáticos.</p>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Runde Sonnenbrillen</h3>
+                <p className="text-gray-600 text-sm">Vintage-inspirierte Runde in Kristall, Schildpatt und Uni-Acetat. Stark im Trend auf asiatischen Märkten.</p>
               </Link>
               <Link href="/de/produkte" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">📖</div>
-                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-Farbes mb-2">Guía OEM vs ODM</h3>
-                <p className="text-gray-600 text-sm">¿No sabes si usar nuestros Designs existentes o crear los tuyos propios? Esta guía desglosa los pros, contras y costos.</p>
+                <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">OEM vs. ODM Leitfaden</h3>
+                <p className="text-gray-600 text-sm">Nicht sicher, ob Sie unsere vorhandenen Designs nutzen oder eigene erstellen sollen? Dieser Leitfaden erläutert die Vor- und Nachteile sowie Kosten.</p>
               </Link>
             </div>
           </section>
 
           {/* CTA */}
           <section className="bg-primary-600 rounded-2xl p-8 md:p-12 text-center text-white">
-            <h2 className="text-3xl font-bold mb-4">¿Listo para Crear Tu Colección de Acetato?</h2>
+            <h2 className="text-3xl font-bold mb-4">Bereit, Ihre Acetat-Kollektion zu erstellen?</h2>
             <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
-              Envíanos tus ideas de Fassung, preferencias de Farbe y punto de Preis objetivo. Te recomendaremos el grado de acetato adecuado, te enviaremos Muster de Material y tendrás Muster en tus manos en una semana. Acetato italiano o chino — te ayudaremos a tomar la decisión correcta.
+              Senden Sie uns Ihre Fassungsideen, Farbpräferenzen und Ihren Zielpreis. Wir empfehlen Ihnen die richtige Acetat-Qualität, senden Ihnen Materialmuster und haben innerhalb einer Woche Proben in Ihren Händen. Italienisches oder chinesisches Acetat — wir helfen Ihnen bei der richtigen Entscheidung.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/de/kontakt" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-Farbes">
+              <Link href="/de/kontakt" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
                 Angebot anfordern
               </Link>
-              <Link href="/de/produkte" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-Farbes">
-                Ver Todos los Produkte
+              <Link href="/de/produkte" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
+                Alle Produkte ansehen
               </Link>
             </div>
           </section>

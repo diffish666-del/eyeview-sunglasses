@@ -2,9 +2,9 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'À Propos d\'EyeView | Fabricant de Lunettes de Soleil Depuis 2006 | Usine OEM et ODM'EyeView | Fabricant de Lunettes de Soleil Depuis 2006 | Usine OEM et ODM',
-  description: 'EyeView Sunglasses est un fabricant leader de lunettes de soleil OEM/ODM fondé en 2006. Plus de 500 clients de marques dans plus de 50 pays. Certifié CE, FDA, ISO 9001. Prix direct usine.',
-  keywords: 'fabricant lunettes de soleil, usine lunetterie, entreprise lunettes OEM, fournisseur lunettes Chine, à propos EyeView, fabricant lunettes',
+  title: '\u00c0 Propos d\u2019EyeView | Fabricant de Lunettes de Soleil Depuis 2006 | Usine OEM et ODM',
+  description: 'EyeView Sunglasses est un fabricant leader de lunettes de soleil OEM/ODM fond\u00e9 en 2006. Plus de 500 clients de marques dans plus de 50 pays. Certifi\u00e9 CE, FDA, ISO 9001. Prix direct usine.',
+  keywords: 'fabricant lunettes de soleil, usine lunetterie, entreprise lunettes OEM, fournisseur lunettes Chine, \u00e0 propos EyeView, fabricant lunettes',
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/fr/a-propos',
     languages: {
@@ -13,8 +13,8 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: 'À Propos d'EyeView | Fabricant de Lunettes de Soleil Depuis 2006',
-    description: 'EyeView Sunglasses est un fabricant líder de lunettes de soleil OEM/ODM fundado en 2006. Plus de 500 clients de marques en plus de 50 pays.',
+    title: '\u00c0 Propos d\u2019EyeView | Fabricant de Lunettes de Soleil Depuis 2006',
+    description: 'EyeView Sunglasses est un fabricant leader de lunettes de soleil OEM/ODM fond\u00e9 en 2006. Plus de 500 clients de marques dans plus de 50 pays.',
     type: 'website',
     url: 'https://eyeviewsunglasses.com/fr/a-propos',
     locale: 'fr_FR',
@@ -35,21 +35,21 @@ export default function AboutPageFr() {
           "logo": "https://eyeviewsunglasses.com/logo.png",
           "foundingDate": "2006",
           "founder": { "@type": "Person", "name": "Jacky Chen" },
-          "description": "Fabricant líder de lunettes de soleil OEM/ODM avec plus de 500 clients de marques en plus de 50 pays. Usine certifichaque CE, FDA, ISO 9001.",
+          "description": "Fabricant leader de lunettes de soleil OEM/ODM avec plus de 500 clients de marques dans plus de 50 pays. Usine certifi\u00e9e CE, FDA, ISO 9001.",
           "address": { "@type": "PostalAddress", "addressCountry": "CN" },
           "numberOfEmployees": { "@type": "QuantitativeValue", "minValue": 100, "maxValue": 200 },
           "sameAs": [],
-          "contactPoint": { "@type": "ContactPoint", "contactType": "sales", "availableLanguage": ["English", "Chinese", "Spanish"] }
+          "contactPoint": { "@type": "ContactPoint", "contactType": "sales", "availableLanguage": ["English", "Chinese", "French"] }
         })}} />
 
         {/* Hero */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            À Propos d'EyeView Sunglasses
+            &Agrave; Propos d&apos;EyeView Sunglasses
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            De un taller de dos personas en 2006 a une usine moderna qui sirve a plus de 500 marques en todo el mundo. 
-            Esto est quiénes somos et par qué nous faisons le qui nous faisons.
+            D&apos;un atelier de deux personnes en 2006 &agrave; une usine moderne au service de plus de 500 marques dans le monde entier.
+            Voici qui nous sommes et pourquoi nous faisons ce que nous faisons.
           </p>
         </div>
 
@@ -60,24 +60,24 @@ export default function AboutPageFr() {
               <h2 className="text-3xl font-bold mb-6">Notre Histoire</h2>
               <div className="space-y-4 text-gray-600">
                 <p>
-                  EyeView comenzó en 2006 en un taller que, honestamente, no era mucho plus grande qui 
-                  un garaje para dos coches. Éramos yo — Jacky Chen — et un técnico, puliendo montures 
-                  de acétate a mano et ensamblando charnières manualmente. Nuestra primera &quot;production&quot; 
-                  fue de 200 paires para une boutique de surf en Ouidney. Empaqué chaque caja personalmente.
+                  EyeView a d&eacute;marr&eacute; en 2006 dans un atelier qui, honn&ecirc;tement, n&apos;&eacute;tait pas beaucoup plus grand qu&apos;un
+                  garage pour deux voitures. C&apos;&eacute;tait moi — Jacky Chen — et un technicien, polissant des montures
+                  en ac&eacute;tate &agrave; la main et assemblant des charni&egrave;res manuellement. Notre premi&egrave;re &quot;production&quot;
+                  &eacute;tait de 200 paires pour une boutique de surf &agrave; Sydney. J&apos;ai emball&eacute; chaque bo&icirc;te personnellement.
                 </p>
                 <p>
-                  Para 2010, habíamos superado el garaje et nous mudamos a notre primer espacio de usine 
-                  real. Añadimos moldeo par inyección, achatmos notre primera máquina CNC et contratamos 
-                  un petit equipo de control de qualité. La boutique de surf en Ouidney? Siguen siendo 
-                  clients. Sus commandes sont un poco plus grandes maintenant.
+                  En 2010, nous avions d&eacute;pass&eacute; le garage et avons emm&eacute;nag&eacute; dans notre premier v&eacute;ritable espace d&apos;usine.
+                  Nous avons ajout&eacute; le moulage par injection, achet&eacute; notre premi&egrave;re machine CNC et embauch&eacute;
+                  une petite &eacute;quipe de contr&ocirc;le qualit&eacute;. La boutique de surf &agrave; Sydney ? Ils sont toujours
+                  clients. Leurs commandes sont un peu plus importantes maintenant.
                 </p>
                 <p>
-                  Aujourd'hui, operamos une instalation de 5,000 m² avec 5 gammes de production, plus de 150 
-                  empleados et la capacidad de producir 10,000 paires par día. Hemos servido a plus de 
-                  500 marques en plus de 50 pays — depuis startups de Kickstarter qui piden 100 paires 
-                  jusqu'à cadenas retail qui piden 50,000. El taller desapaireeció hace tiempo, mais la 
-                  mentalidad no: chaque paire sigue siendo inspeccionado comme si fuera para esa boutique de 
-                  surf en Ouidney.
+                  Aujourd&apos;hui, nous exploitons une installation de 5 000 m&sup2; avec 5 lignes de production, plus de 150
+                  employ&eacute;s et la capacit&eacute; de produire 10 000 paires par jour. Nous avons servi plus de
+                  500 marques dans plus de 50 pays — des startups Kickstarter commandant 100 paires
+                  aux cha&icirc;nes de distribution commandant 50 000. L&apos;atelier a disparu depuis longtemps, mais pas
+                  l&apos;&eacute;tat d&apos;esprit : chaque paire est toujours inspect&eacute;e comme si elle &eacute;tait destin&eacute;e &agrave; cette boutique de
+                  surf &agrave; Sydney.
                 </p>
               </div>
             </div>
@@ -96,20 +96,19 @@ export default function AboutPageFr() {
             <div>
               <h2 className="text-2xl font-bold mb-4">Notre Mission</h2>
               <p className="text-gray-600">
-                Hacer qui la fabrication de lunettes de soleil de qualité sea accesible para marques de tous 
-                los tailles. Ya seas un emprendedor individual avec un boceto en une servilleta ou une 
-                cadena retail escalando a 100,000 unidades, mereces un socio de fabrication qui trate 
-                votre marque comme la suya propia. Sin devis minimum requerido. Sin actitud. Solo buen 
-                produit et comunication honesta.
+                Rendre la fabrication de lunettes de soleil de qualit&eacute; accessible aux marques de toutes tailles. Que vous soyez
+                un entrepreneur solo avec un croquis sur une serviette ou une cha&icirc;ne de distribution passant &agrave; 100 000 unit&eacute;s,
+                vous m&eacute;ritez un partenaire de fabrication qui traite votre marque comme la sienne. Pas de budget minimum
+                requis. Pas d&apos;attitude. Juste un bon produit et une communication honn&ecirc;te.
               </p>
             </div>
             <div>
               <h2 className="text-2xl font-bold mb-4">Notre Vision</h2>
               <p className="text-gray-600">
-                Ser la usine à la qui la próxima generation de grandes marques de lunettes signale et diga: 
-                &quot;Ellos nous ayudaron a empezar.&quot; Ya hemos ayudado a lanzar cientos de marques. 
-                Queremos ayudar a lanzar miles plus — et mantener creciendo a las qui ya hemos lanzado. 
-                Votre éxito est notre meilleur marketing.
+                &Ecirc;tre l&apos;usine que la prochaine g&eacute;n&eacute;ration de grandes marques de lunettes d&eacute;signera en disant :
+                &quot;Ils nous ont aid&eacute;s &agrave; d&eacute;marrer.&quot; Nous avons d&eacute;j&agrave; aid&eacute; &agrave; lancer des centaines de marques.
+                Nous voulons en aider des milliers d&apos;autres — et continuer &agrave; faire grandir celles que nous avons d&eacute;j&agrave; lanc&eacute;es.
+                Votre succ&egrave;s est notre meilleur marketing.
               </p>
             </div>
           </div>
@@ -121,19 +120,19 @@ export default function AboutPageFr() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             <div>
               <div className="text-4xl md:text-5xl font-bold mb-2">19+</div>
-              <div className="text-primary-100">Ans dans le Negocio</div>
+              <div className="text-primary-100">Ann&eacute;es d&apos;activit&eacute;</div>
             </div>
             <div>
               <div className="text-4xl md:text-5xl font-bold mb-2">500+</div>
-              <div className="text-primary-100">Clients de Marques</div>
+              <div className="text-primary-100">Clients de marques</div>
             </div>
             <div>
               <div className="text-4xl md:text-5xl font-bold mb-2">50+</div>
-              <div className="text-primary-100">Países Atendidos</div>
+              <div className="text-primary-100">Pays desservis</div>
             </div>
             <div>
               <div className="text-4xl md:text-5xl font-bold mb-2">1M+</div>
-              <div className="text-primary-100">Paires Produites / An</div>
+              <div className="text-primary-100">Paires produites / an</div>
             </div>
           </div>
         </section>
@@ -141,42 +140,42 @@ export default function AboutPageFr() {
         {/* Factory Capabilities */}
         <section className="mb-20">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Capacidades de la Usine</h2>
+            <h2 className="text-3xl font-bold mb-4">Capacit&eacute;s de l&apos;Usine</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Nuestra instalation está construida para la flexibilidad — producciones petites et commandes 
-              grandes, OEM et ODM, designs simples e ingeniería compleja.
+              Notre installation est con&ccedil;ue pour la flexibilit&eacute; — petites s&eacute;ries et grandes commandes, OEM et ODM,
+              designs simples et ing&eacute;nierie complexe.
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             <CapabilityCard
               icon="⚙️"
-              title="5 Gammes de Production"
-              description="Gammes dedichaques para montures de acétate, metal, TR90/inyección et matériaux mixtos. Chaque gamme optimizada para son tipo de matériau."
+              title="5 Lignes de Production"
+              description="Lignes d&eacute;di&eacute;es pour les montures en ac&eacute;tate, m&eacute;tal, TR90/injection et mat&eacute;riaux mixtes. Chaque ligne optimis&eacute;e pour son type de mat&eacute;riau."
             />
             <CapabilityCard
               icon="📦"
-              title="10,000 Pares / Día"
-              description="Capacidad de production diaria en toutes las gammes. Podemos escalar jusqu'à 15,000/día durante la temporada alta avec turnos extra."
+              title="10 000 Paires / Jour"
+              description="Capacit&eacute; de production quotidienne sur toutes les lignes. Nous pouvons monter &agrave; 15 000/jour en haute saison avec des &eacute;quipes suppl&eacute;mentaires."
             />
             <CapabilityCard
               icon="📐"
-              title="Instalation de 5,000 m²"
-              description="Planta de production moderna avec zonas separadas para corte, ensamblaje, pulido, control de qualité et emballage. Limpia, organizada et eficiente."
+              title="Installation de 5 000 m&sup2;"
+              description="Usine moderne avec des zones s&eacute;par&eacute;es pour la d&eacute;coupe, l&apos;assemblage, le polissage, le contr&ocirc;le qualit&eacute; et l&apos;emballage. Propre, organis&eacute;e et efficace."
             />
             <CapabilityCard
               icon="🔬"
-              title="Laboratorio de QC Interno"
-              description="Pruebas de transmisión UV, pruebas de impact, pruebas de ciclos de charnière et voirification dimensional — todo se realiza internamente antes de cualquier expédition."
+              title="Laboratoire CQ Interne"
+              description="Tests de transmission UV, tests d&apos;impact, tests de cycles de charni&egrave;re et v&eacute;rification dimensionnelle — tout est r&eacute;alis&eacute; sur place avant toute exp&eacute;dition."
             />
             <CapabilityCard
               icon="🎨"
               title="400+ Designs ODM"
-              description="Catálogo de montures listos para marquer qui abarca aviadores, wayfarers, ojo de gato, envolventes deportivos, redondos, ovoirsized et styles infantiles."
+              description="Catalogue de montures pr&ecirc;tes &agrave; marquer couvrant aviateurs, wayfarers, &oelig;il-de-chat, sport enveloppants, ronds, oversize et styles enfants."
             />
             <CapabilityCard
               icon="🛠️"
-              title="Capacidad OEM Complète"
-              description="Depuis votre archivo CAD jusqu'à el produit terminado. Fabrication de moldes personnalisés, prototipado CNC et muestreo de petits lotes antes de la production en masa."
+              title="Capacit&eacute; OEM Compl&egrave;te"
+              description="De votre fichier CAO au produit fini. Fabrication de moules personnalis&eacute;s, prototypage CNC et &eacute;chantillonnage en petites s&eacute;ries avant la production de masse."
             />
           </div>
         </section>
@@ -184,21 +183,21 @@ export default function AboutPageFr() {
         {/* Certifications */}
         <section className="mb-20">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Certifications et Conformité</h2>
+            <h2 className="text-3xl font-bold mb-4">Certifications et Conformit&eacute;</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Chaque produit qui nous expédions cumple avec los normees internationales de sécurité et qualité. 
-              Estas no sont insignias qui coleccionamos — sont exigences qui nous tomamos en serio.
+              Chaque produit que nous exp&eacute;dions respecte les normes internationales de s&eacute;curit&eacute; et de qualit&eacute;.
+              Ce ne sont pas des badges que nous collectionnons — ce sont des exigences que nous prenons au s&eacute;rieux.
             </p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
             <CertCard
               name="CE"
-              description="Conformidad Europea"
+              description="Conformit&eacute; Europ&eacute;enne"
               link="https://single-market-economy.ec.europa.eu/single-market/ce-marking_en"
             />
             <CertCard
               name="FDA"
-              description="Conformité EE.UU."
+              description="Conformit&eacute; &Eacute;tats-Unis"
               link="https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/sunglasses"
             />
             <CertCard
@@ -207,12 +206,12 @@ export default function AboutPageFr() {
             />
             <CertCard
               name="ISO 9001"
-              description="Gestión de Qualité"
+              description="Management Qualit&eacute;"
               link="https://www.iso.org/iso-9001-quality-management.html"
             />
             <CertCard
               name="ANSI Z80.3"
-              description="Nonrme Óptico EE.UU."
+              description="Norme Optique US"
             />
           </div>
         </section>
@@ -220,36 +219,36 @@ export default function AboutPageFr() {
         {/* Team */}
         <section className="mb-20">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">L'Équipe Derrière le Produit</h2>
+            <h2 className="text-3xl font-bold mb-4">L&apos;&Eacute;quipe Derri&egrave;re le Produit</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Somos plus de 150 personas apasionadas par fabricar exceverres lunettes de soleil. Ici están 
-              algunas des caras avec las qui trabajarás directamente.
+              Nous sommes plus de 150 personnes passionn&eacute;es par la fabrication de lunettes de soleil de qualit&eacute;. Voici
+              quelques-uns des visages avec lesquels vous travaillerez directement.
             </p>
           </div>
           <div className="grid md:grid-cols-4 gap-8">
             <TeamCard
               initials="JC"
               name="Jacky Chen"
-              role="Fundador et CEO"
-              bio="Fundó EyeView en 2006 depuis un taller en un garaje. 20 ans de expérience en fabrication de lunettes. Sigue inspeccionando las échantillons personalmente."
+              role="Fondateur et PDG"
+              bio="A fond&eacute; EyeView en 2006 depuis un atelier-garage. 20 ans d&apos;exp&eacute;rience dans la fabrication de lunettes. Inspecte toujours les &eacute;chantillons personnellement."
             />
             <TeamCard
               initials="LW"
               name="Lisa Wang"
-              role="Directora de Design"
-              bio="Ex diseñadora de une importante casa de lunettes italiana. Se unió a EyeView en 2014. Lidera notre equipo de design de 8 personas et gestiona tous los proyectos OEM."
+              role="Directrice du Design"
+              bio="Ancienne designer dans une grande maison de lunettes italienne. A rejoint EyeView en 2014. Dirige notre &eacute;quipe de design de 8 personnes et g&egrave;re tous les projets OEM."
             />
             <TeamCard
               initials="DZ"
               name="David Zhang"
-              role="Gerente de Production"
-              bio="15 ans dans la planta de production. Supervisa las 5 gammes de production et plus de 80 trabajadores de production. Conocido par son obsesión avec la eficiencia."
+              role="Directeur de Production"
+              bio="15 ans sur le terrain de production. Supervise les 5 lignes de production et plus de 80 ouvriers de production. Connu pour son obsession de l&apos;efficacit&eacute;."
             />
             <TeamCard
               initials="SC"
               name="Sarah Chen"
-              role="Directora de Control de Qualité"
-              bio="Formada en pruebas ópticas en un laboratorio suizo. Dirige notre depairetamento de QC avec un objetivo de tasa de defectos du 0.5%. Nada se envía sin son aprobation."
+              role="Directrice du Contr&ocirc;le Qualit&eacute;"
+              bio="Form&eacute;e aux tests optiques dans un laboratoire suisse. Dirige notre d&eacute;partement CQ avec un objectif de taux de d&eacute;fauts de 0,5 %. Rien ne part sans son approbation."
             />
           </div>
         </section>
@@ -257,32 +256,32 @@ export default function AboutPageFr() {
         {/* Client Testimonials */}
         <section className="mb-20 bg-gray-50 rounded-2xl p-8 md:p-12">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Ce Que Disent Nons Clients</h2>
+            <h2 className="text-3xl font-bold mb-4">Ce Que Disent Nos Clients</h2>
           </div>
           <div className="grid md:grid-cols-2 gap-8">
             <TestimonialCard
-              quote="Empezamos avec 200 paires ODM comme prueba. Tres ans después, pedimos 5,000 paires OEM personnalisés par trimestre. EyeView creció avec nosautres — jamais nous presionaron para commander plus de le qui estábamos preparados."
+              quote="Nous avons commenc&eacute; avec 200 paires ODM comme test. Trois ans plus tard, nous commandons 5 000 paires OEM personnalis&eacute;es par trimestre. EyeView a grandi avec nous — ils ne nous ont jamais pouss&eacute;s &agrave; commander plus que ce que nous &eacute;tions pr&ecirc;ts &agrave; absorber."
               name="Rachel M."
-              title="Fundadora, Coastal Shade Co."
-              location="Melbourne, Australia"
+              title="Fondatrice, Coastal Shade Co."
+              location="Melbourne, Australie"
             />
             <TestimonialCard
-              quote="Había tenido malas expériences avec dos usines antes de encontrar EyeView. La diferencia fue inmediata — el equipo de Jacky realmente escuchó le qui necesitaba en vez de simplemente cotizarme la opción plus barata. La qualité ha sido consistente en 12 commandes."
+              quote="J&apos;avais eu de mauvaises exp&eacute;riences avec deux autres usines avant de trouver EyeView. La diff&eacute;rence a &eacute;t&eacute; imm&eacute;diate — l&apos;&eacute;quipe de Jacky a vraiment &eacute;cout&eacute; ce dont j&apos;avais besoin au lieu de simplement me proposer l&apos;option la moins ch&egrave;re. La qualit&eacute; est constante sur 12 commandes."
               name="Marcus T."
-              title="CEO, Elevate Eyewear"
-              location="Atlanta, EE.UU."
+              title="PDG, Elevate Eyewear"
+              location="Atlanta, &Eacute;tats-Unis"
             />
             <TestimonialCard
-              quote="El proceso de muestreo me convenció. Envoyeron cinco paires en diferentes matériaux para qui pudiera comparar lado a lado. Ninguna autre usine ofreció eso. Llevamos cuatro ans trabajando juntos et no tengo ninguna queja."
+              quote="Le processus d&apos;&eacute;chantillonnage m&apos;a convaincu. Ils ont envoy&eacute; cinq paires dans diff&eacute;rents mat&eacute;riaux pour que je puisse comparer c&ocirc;te &agrave; c&ocirc;te. Aucune autre usine n&apos;a propos&eacute; cela. Nous travaillons ensemble depuis quatre ans et je n&apos;ai aucune plainte."
               name="Henrik S."
-              title="Comprador, Nonrdic Optics"
-              location="Estocolmo, Suecia"
+              title="Acheteur, Nordic Optics"
+              location="Stockholm, Su&egrave;de"
             />
             <TestimonialCard
-              quote="Comme startup sin expérience en lunettes, esperaba ser ignorado par las usines reales. EyeView trató mi primer commande de 100 pièces avec la même seriedad qui sus clients grandes. Esa lealtad funciona en ambas direcciones — maintenant somos une de sus cuentas plus grandes."
+              quote="En tant que startup sans exp&eacute;rience dans la lunetterie, je m&apos;attendais &agrave; &ecirc;tre ignor&eacute; par les vraies usines. EyeView a trait&eacute; ma premi&egrave;re commande de 100 pi&egrave;ces avec le m&ecirc;me s&eacute;rieux que ses gros clients. Cette loyaut&eacute; fonctionne dans les deux sens — nous sommes maintenant l&apos;un de leurs plus gros comptes."
               name="Priya K."
-              title="Fundadora, Dusk & Dawn Eyewear"
-              location="Toronto, Canadá"
+              title="Fondatrice, Dusk &amp; Dawn Eyewear"
+              location="Toronto, Canada"
             />
           </div>
         </section>
@@ -290,40 +289,39 @@ export default function AboutPageFr() {
         {/* Values */}
         <section className="mb-20">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Nons Valeurs</h2>
+            <h2 className="text-3xl font-bold mb-4">Nos Valeurs</h2>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             <ValueCard
               icon="🎯"
-              title="Qualité Sin Excusas"
-              description="Chaque paire se inspecciona. Chaque lente se prueba avec UV. Chaque charnière se somete a ciclos. Non nous expédions produit qui no pondríamos bajo notre propio nombre."
+              title="La Qualit&eacute; Sans Excuses"
+              description="Chaque paire est inspect&eacute;e. Chaque verre est test&eacute; aux UV. Chaque charni&egrave;re est soumise &agrave; des cycles. Nous n&apos;exp&eacute;dions pas un produit sur lequel nous ne mettrions pas notre propre nom."
             />
             <ValueCard
               icon="🤝"
-              title="Alianzas, Non Transacciones"
-              description="El 80% de notres ingresos proviene de clients recurrentes. Preferimos ganarnos votre quinto commande a través de un gran servicio qui exprimir votre primer commande para el máximo marge."
+              title="Des Partenariats, Pas des Transactions"
+              description="80 % de notre chiffre d&apos;affaires provient de clients r&eacute;currents. Nous pr&eacute;f&eacute;rons gagner votre cinqui&egrave;me commande gr&acirc;ce &agrave; un excellent service plut&ocirc;t que de pressurer votre premi&egrave;re commande pour la marge maximale."
             />
             <ValueCard
               icon="💬"
-              title="Comunication Directa"
-              description="Si algo va a tardar 60 jours, decimos 60 jours — no 30. Si un matériau no funciona para votre design, vous le decimos antes de qui desperdicies dinero en un molde. Sin sorpresas."
+              title="La Franchise"
+              description="Si quelque chose prendra 60 jours, nous disons 60 jours — pas 30. Si un mat&eacute;riau ne convient pas &agrave; votre design, nous vous le disons avant que vous ne gaspilliez de l&apos;argent dans un moule. Pas de surprises."
             />
           </div>
         </section>
 
         {/* CTA */}
         <section className="bg-gray-900 text-white rounded-2xl p-8 md:p-12 text-center">
-          <h2 className="text-3xl font-bold mb-4">Quieres Voir Lo Que Podemos Hacer par Votre Marque?</h2>
+          <h2 className="text-3xl font-bold mb-4">Envie de voir ce que nous pouvons faire pour votre marque ?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
-            Ya sea qui estés lanzando votre primera gamme ou escalando une marque existente, nous encantaría 
-            convoirsar. Sin compromiso, sin presión de vente — solo une convoirsation honesta sur le qui 
-            est posible.
+            Que vous lanciez votre premi&egrave;re collection ou que vous d&eacute;veloppiez une marque existante, nous serions ravis d&apos;&eacute;changer.
+            Aucun engagement, aucune pression commerciale — juste une conversation honn&ecirc;te sur ce qui est possible.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/fr/contact" className="btn-primary">
               Contactez-nous
             </Link>
-            <Link href="/fr/produits" className="border-2 border-white text-white font-semibold px-6 py-3 rounded-lg hovoir:bg-white hovoir:text-gray-900 transition-couleurs">
+            <Link href="/fr/produits" className="border-2 border-white text-white font-semibold px-6 py-3 rounded-lg hover:bg-white hover:text-gray-900 transition-colors">
               Voir les Produits
             </Link>
           </div>
@@ -363,7 +361,7 @@ function CertCard({ name, description, link }: { name: string; description: stri
 
   if (link) {
     return (
-      <a href={link} target="_blank" rel="noopener" className="bg-white rounded-xl p-6 text-center shadow hovoir:shadow-md transition-shadow block">
+      <a href={link} target="_blank" rel="noopener" className="bg-white rounded-xl p-6 text-center shadow hover:shadow-md transition-shadow block">
         {content}
       </a>
     )
