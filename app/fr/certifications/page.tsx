@@ -356,7 +356,7 @@ function CertificationCard({ icon, name, standard, description, link, linkText }
   icon: string
   name: string
   standard: string
-  description: string | React.ReactNonde
+  description: string | React.ReactNode
   link?: string
   linkText?: string
 }) {
@@ -383,7 +383,7 @@ function CertificationCard({ icon, name, standard, description, link, linkText }
 function InspectionCard({ step, title, description }: {
   step: number
   title: string
-  description: string | React.ReactNonde
+  description: string | React.ReactNode
 }) {
   return (
     <div className="bg-white rounded-xl p-6 shadow">
