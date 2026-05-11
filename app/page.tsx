@@ -19,6 +19,10 @@ export const metadata: Metadata = {
     languages: {
       'en': 'https://eyeviewsunglasses.com',
       'es': 'https://eyeviewsunglasses.com/es',
+      'fr': 'https://eyeviewsunglasses.com/fr',
+      'de': 'https://eyeviewsunglasses.com/de',
+      'pt': 'https://eyeviewsunglasses.com/pt',
+      'it': 'https://eyeviewsunglasses.com/it',
     },
   },
 };

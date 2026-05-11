@@ -18,6 +18,53 @@ export default function StartSunglassesBrandPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+
+        {/* JSON-LD Article Schema */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": "How to Start a Sunglasses Brand: Complete 2026 Guide",
+          "datePublished": "2026-03-28",
+          "dateModified": "2026-03-28",
+          "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
+          "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
+          "description": "Complete step-by-step guide to starting your own sunglasses brand. Market research, sourcing, OEM manufacturing, branding, and marketing strategies.",
+          "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/start-sunglasses-brand" }
+        })}} />
+
+        {/* FAQ Schema */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does it cost to start a sunglasses brand?",
+              "acceptedAnswer": { "@type": "Answer", "text": "A typical startup cost ranges from $2,000 to $15,000 depending on your approach. Manufacturing costs run $8-15 per unit, shipping and duties add $2-4, and packaging $1-2 per unit. Starting with ODM (existing designs with your logo) minimizes upfront investment compared to full OEM custom designs." }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between OEM and ODM sunglasses manufacturing?",
+              "acceptedAnswer": { "@type": "Answer", "text": "OEM (Original Equipment Manufacturer) means you provide the design and the factory produces to your specifications — offering full customization but higher MOQ (300-500pcs) and longer development time. ODM (Original Design Manufacturer) means you choose from existing designs and add your branding — with lower MOQ (100-200pcs), faster time to market, and lower costs." }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the minimum order quantity to start a sunglasses brand?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Most manufacturers offer MOQ starting at 100-200 pieces per style for ODM orders. For custom OEM designs, the MOQ typically ranges from 300-500 pieces. Many brands start with 200-500 total units across 2-3 styles to test the market before scaling up." }
+            },
+            {
+              "@type": "Question",
+              "name": "What certifications do sunglasses need?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Sunglasses should meet UV400 protection standards (blocking 99.9% of UVA and UVB rays), CE certification for European markets, FDA compliance for the United States, and ANSI Z80.3 standards. EN ISO 12312-1 certification is also recommended for international sales." }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the typical profit margins for a sunglasses brand?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Sunglasses typically offer gross margins of 60-80%. With a total cost of $11-21 per unit (manufacturing, shipping, packaging) and retail prices of $49-129, the margin is very healthy. DTC (direct-to-consumer) brands achieve the highest margins by cutting out middlemen." }
+            }
+          ]
+        })}} />
+
         {/* Article Header */}
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
