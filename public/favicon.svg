@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Sunglasses icon for EyeView -->
+  <defs>
+    <linearGradient id="lensGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a5f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2563eb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Left lens -->
+  <rect x="4" y="22" width="24" height="18" rx="5" ry="5" fill="url(#lensGrad)" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- Right lens -->
+  <rect x="36" y="22" width="24" height="18" rx="5" ry="5" fill="url(#lensGrad)" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- Bridge -->
+  <path d="M28 28 Q32 24 36 28" fill="none" stroke="#1e3a5f" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Left temple -->
+  <path d="M4 28 L1 26" fill="none" stroke="#1e3a5f" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right temple -->
+  <path d="M60 28 L63 26" fill="none" stroke="#1e3a5f" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Lens shine -->
+  <rect x="8" y="25" width="6" height="3" rx="1.5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="40" y="25" width="6" height="3" rx="1.5" fill="rgba(255,255,255,0.3)"/>
+</svg>

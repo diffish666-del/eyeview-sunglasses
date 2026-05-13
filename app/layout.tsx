@@ -15,6 +15,13 @@ export const metadata: Metadata = {
   },
   description: 'EyeView is a leading wholesale sunglasses manufacturer offering OEM & ODM custom sunglasses. 15+ years experience, 500+ global clients. Get a free quote today.',
   keywords: ['wholesale sunglasses', 'sunglasses manufacturer', 'OEM sunglasses', 'custom sunglasses factory', 'bulk sunglasses supplier'],
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: '16x16 32x32' },
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+    ],
+    apple: '/favicon.svg',
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',
@@ -22,6 +29,14 @@ export const metadata: Metadata = {
     siteName: 'EyeView Sunglasses',
     title: 'Wholesale Sunglasses Manufacturer | OEM Custom Sunglasses Factory - EyeView',
     description: 'EyeView is a leading wholesale sunglasses manufacturer offering OEM & ODM custom sunglasses. 15+ years experience, 500+ global clients.',
+    images: [
+      {
+        url: '/og-image.svg',
+        width: 1200,
+        height: 630,
+        alt: 'EyeView Sunglasses - Wholesale Manufacturer',
+      },
+    ],
   },
   robots: {
     index: true,
