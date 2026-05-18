@@ -13,14 +13,6 @@ export const metadata: Metadata = {
     description: 'EyeView is a leading wholesale sunglasses manufacturer offering OEM & ODM custom sunglasses. 15+ years experience, 500+ global clients.',
     type: 'website',
     url: 'https://eyeviewsunglasses.com',
-    images: [
-      {
-        url: 'https://eyeviewsunglasses.com/og-image.svg',
-        width: 1200,
-        height: 630,
-        alt: 'EyeView Sunglasses - Wholesale OEM Custom Sunglasses Manufacturer',
-      },
-    ],
   },
   alternates: {
     canonical: 'https://eyeviewsunglasses.com',
