@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Fabricación Sostenible de Gafas de Sol: Materiales y Procesos Ecológicos',
-  description: 'Un dueño de fábrica explica la fabricación sostenible de gafas — bio-acetato, nylon reciclado, plástico oceánico, empaque ecológico y qué significa realmente "sostenible" en la producción de gafas.',
+  description: 'Un dueño de fábrica explica la fabricación sostenible de gafas — bio-acetato, nylon reciclado, plástico oceánico, empaque ecológico y qué significa realmente sostenible en la producción de gafas.',
   keywords: 'gafas sostenibles, fabricación ecológica gafas, gafas recicladas, bio-acetato gafas, plástico oceánico gafas',
   alternates: {
     canonical: '/es/blog/fabricacion-sostenible-gafas',
@@ -27,7 +27,7 @@ export default function Page() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un dueño de fábrica explica la fabricación sostenible de gafas — bio-acetato, nylon reciclado, plástico oceánico, empaque ecológico y qué significa realmente "sostenible" en la producción de gafas.",
+          "description": "Un dueño de fábrica explica la fabricación sostenible de gafas — bio-acetato, nylon reciclado, plástico oceánico, empaque ecológico y qué significa realmente sostenible en la producción de gafas.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/fabricacion-sostenible-gafas" },
           "inLanguage": "es"
         })}} />
