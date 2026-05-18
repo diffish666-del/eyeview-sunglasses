@@ -595,6 +595,25 @@ export default function FindSunglassesManufacturerPage() {
             </div>
           </div>
 
+          {/* Related Products */}
+          <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link href="/products" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">All Products</h3>
+                <p className="text-gray-600 text-sm">Browse our complete collection — 13 product categories, all customizable with your branding.</p>
+              </Link>
+              <Link href="/certifications" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Our Certifications</h3>
+                <p className="text-gray-600 text-sm">FDA, CE, ISO 9001, UV400 — see the compliance standards we meet.</p>
+              </Link>
+              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Contact Us</h3>
+                <p className="text-gray-600 text-sm">Get a custom quote — tell us about your brand and we'll recommend the right products.</p>
+              </Link>
+            </div>
+          </div>
+
           {/* Related Articles */}
           <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">More From the Factory Floor</h2>

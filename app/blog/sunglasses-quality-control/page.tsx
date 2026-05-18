@@ -388,6 +388,24 @@ export default function SunglassesQualityControlPage() {
           </div>
 
           <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Premium metal frames — 6-point quality inspection, FDA/CE certified.</p>
+              </Link>
+              <Link href="/products/polarized" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Polarized Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Polarization tested for clarity and UV protection — meets ANSI Z80.3 standards.</p>
+              </Link>
+              <Link href="/certifications" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Our Certifications</h3>
+                <p className="text-gray-600 text-sm">FDA, CE, UV400, ISO 9001 — see the full compliance documentation.</p>
+              </Link>
+            </div>
+          </div>
+
+          <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">More From the Factory Floor</h2>
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/blog/fda-ce-certification-sunglasses" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">

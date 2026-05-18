@@ -674,6 +674,25 @@ export default function SunglassesLensGuidePage() {
             </div>
           </div>
 
+          {/* Related Products */}
+          <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link href="/products/polarized" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Polarized Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Premium polarized lenses — eliminates glare for outdoor and water activities.</p>
+              </Link>
+              <Link href="/products/prescription" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Prescription Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Custom Rx lenses with polarized, photochromic, and blue light options.</p>
+              </Link>
+              <Link href="/products/blue-light" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Blue Light Glasses</h3>
+                <p className="text-gray-600 text-sm">Digital eye protection — filters harmful blue light from screens and devices.</p>
+              </Link>
+            </div>
+          </div>
+
           {/* Related Articles */}
           <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">More From the Factory Floor</h2>

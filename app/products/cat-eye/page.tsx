@@ -371,6 +371,28 @@ export default function CatEyePage() {
           }
         ]
       })}} />
+
+      {/* Related Products */}
+      <section className="mb-20">
+        <h2 className="text-3xl font-bold text-center mb-10">Related Products</h2>
+        <div className="grid md:grid-cols-3 gap-6">
+          <Link href="/products/wayfarer" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+            <div className="text-4xl mb-3">🎸</div>
+            <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Wayfarer Sunglasses</h3>
+            <p className="text-gray-600 text-sm">The iconic wayfarer silhouette in premium acetate. Universally flattering, available in solid colors and tortoiseshell patterns.</p>
+          </Link>
+          <Link href="/products/prescription" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+            <div className="text-4xl mb-3">👓</div>
+            <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Prescription Sunglasses</h3>
+            <p className="text-gray-600 text-sm">Cat eye frames available with custom Rx lenses — single vision, progressive, and polarized prescription options.</p>
+          </Link>
+          <Link href="/products/acetate" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+            <div className="text-4xl mb-3">🎨</div>
+            <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Acetate Sunglasses</h3>
+            <p className="text-gray-600 text-sm">Handcrafted acetate frames in premium patterns. Italian Mazzucchelli available with custom color matching.</p>
+          </Link>
+        </div>
+      </section>
     </main>
   )
 }

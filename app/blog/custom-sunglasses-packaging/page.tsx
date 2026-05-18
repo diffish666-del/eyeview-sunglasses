@@ -613,6 +613,25 @@ export default function CustomSunglassesPackagingPage() {
             </div>
           </div>
 
+          {/* Related Products */}
+          <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link href="/products/promotional" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Promotional Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Custom packaging included — branded boxes, pouches, and hang tags for events.</p>
+              </Link>
+              <Link href="/products/acetate" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Acetate Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Premium frames — perfect for luxury packaging with hard cases and premium boxes.</p>
+              </Link>
+              <Link href="/products/eco-friendly" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Eco-Friendly Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Sustainable packaging — bamboo fiber cases, recycled cardboard, soy ink printing.</p>
+              </Link>
+            </div>
+          </div>
+
           {/* Related Articles */}
           <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">More From the Factory Floor</h2>

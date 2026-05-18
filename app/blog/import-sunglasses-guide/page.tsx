@@ -387,6 +387,24 @@ export default function ImportSunglassesGuidePage() {
           </div>
 
           <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link href="/products/wayfarer" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Wayfarer Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Best-selling style for retail — available in acetate, TR90, and custom materials.</p>
+              </Link>
+              <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Classic metal frames — perfect for men's collections and premium branding.</p>
+              </Link>
+              <Link href="/products/cat-eye" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Cat Eye Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Trending feminine style — bold designs for women's fashion market.</p>
+              </Link>
+            </div>
+          </div>
+
+          <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">More From the Factory Floor</h2>
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/blog/find-sunglasses-manufacturer" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">

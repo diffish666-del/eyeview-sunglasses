@@ -372,6 +372,28 @@ export default function SportPage() {
           }
         ]
       })}} />
+
+      {/* Related Products */}
+      <section className="mb-20">
+        <h2 className="text-3xl font-bold text-center mb-10">Related Products</h2>
+        <div className="grid md:grid-cols-3 gap-6">
+          <Link href="/products/tr90" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+            <div className="text-4xl mb-3">🏋️</div>
+            <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">TR90 Sunglasses</h3>
+            <p className="text-gray-600 text-sm">Ultra-lightweight TR90 nylon frames with memory flexibility. Ideal for sports and active lifestyles.</p>
+          </Link>
+          <Link href="/products/polarized" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+            <div className="text-4xl mb-3">🌊</div>
+            <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Polarized Sunglasses</h3>
+            <p className="text-gray-600 text-sm">Premium polarized lenses that eliminate glare. Essential for outdoor sports and water activities.</p>
+          </Link>
+          <Link href="/products/prescription" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+            <div className="text-4xl mb-3">👓</div>
+            <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Prescription Sunglasses</h3>
+            <p className="text-gray-600 text-sm">Sport frames available with prescription inserts. Perfect for athletes who need vision correction.</p>
+          </Link>
+        </div>
+      </section>
     </main>
   )
 }

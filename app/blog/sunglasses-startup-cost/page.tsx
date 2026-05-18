@@ -493,6 +493,25 @@ export default function SunglassesStartupCostPage() {
             </Link>
           </div>
 
+          {/* Related Products */}
+          <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link href="/products/promotional" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Promotional Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Starting from $0.80/pair — perfect for brand launches and event marketing.</p>
+              </Link>
+              <Link href="/products/prescription" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Prescription Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Custom Rx options — single vision, progressive, polarized. 2-3x retail price.</p>
+              </Link>
+              <Link href="/products/eco-friendly" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Eco-Friendly Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Sustainable materials — 30-50% retail premium with verified eco credentials.</p>
+              </Link>
+            </div>
+          </div>
+
           {/* Related Articles */}
           <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">More From the Factory Floor</h2>

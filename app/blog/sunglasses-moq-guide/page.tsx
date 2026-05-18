@@ -586,6 +586,25 @@ export default function SunglassesMoqGuidePage() {
             </div>
           </div>
 
+          {/* Related Products */}
+          <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link href="/products/wayfarer" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Wayfarer Sunglasses</h3>
+                <p className="text-gray-600 text-sm">MOQ 50 pairs — the best-selling style for retail and promotional campaigns.</p>
+              </Link>
+              <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
+                <p className="text-gray-600 text-sm">MOQ 50 pairs — classic metal frames with teardrop lenses. Perfect for men's collections.</p>
+              </Link>
+              <Link href="/products/cat-eye" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Cat Eye Sunglasses</h3>
+                <p className="text-gray-600 text-sm">MOQ 50 pairs — bold feminine frames dominating the women's fashion market.</p>
+              </Link>
+            </div>
+          </div>
+
           {/* Related Articles */}
           <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">More From the Factory Floor</h2>

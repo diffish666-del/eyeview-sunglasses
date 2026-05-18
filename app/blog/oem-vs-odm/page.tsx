@@ -520,6 +520,25 @@ export default function OemVsOdmPage() {
             </div>
           </div>
 
+          {/* Related Products */}
+          <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link href="/products/acetate" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Acetate Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Handcrafted premium frames — perfect for OEM custom designs with your branding.</p>
+              </Link>
+              <Link href="/products/tr90" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">TR90 Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Ultra-lightweight memory frames — ideal for ODM quick-start orders.</p>
+              </Link>
+              <Link href="/products/promotional" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Promotional Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Bulk orders from $0.80/pair — perfect for event marketing and brand awareness.</p>
+              </Link>
+            </div>
+          </div>
+
           {/* Related Articles */}
           <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">More From the Factory Floor</h2>

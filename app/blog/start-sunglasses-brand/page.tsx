@@ -291,6 +291,25 @@ export default function StartSunglassesBrandPage() {
           </p>
         </div>
 
+        {/* Related Products */}
+        <section className="mt-16 pt-8 border-t">
+          <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+          <div className="grid md:grid-cols-3 gap-6">
+            <Link href="/products/promotional" className="card p-4">
+              <h3 className="font-semibold mb-2">Promotional Sunglasses</h3>
+              <p className="text-sm text-gray-600">From $0.80/pair — perfect for brand launches and event marketing.</p>
+            </Link>
+            <Link href="/products/prescription" className="card p-4">
+              <h3 className="font-semibold mb-2">Prescription Sunglasses</h3>
+              <p className="text-sm text-gray-600">Custom Rx options — 2-3x retail price, highest margin category.</p>
+            </Link>
+            <Link href="/products/eco-friendly" className="card p-4">
+              <h3 className="font-semibold mb-2">Eco-Friendly Sunglasses</h3>
+              <p className="text-sm text-gray-600">Sustainable materials — 30-50% retail premium with verified eco credentials.</p>
+            </Link>
+          </div>
+        </section>
+
         {/* Related Posts */}
         <section className="mt-16 pt-8 border-t">
           <h2 className="text-2xl font-bold mb-6">Related Articles</h2>

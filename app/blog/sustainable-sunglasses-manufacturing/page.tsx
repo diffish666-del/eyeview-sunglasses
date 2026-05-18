@@ -384,6 +384,24 @@ export default function SustainableSunglassesPage() {
           </div>
 
           <div className="mt-16 pt-8 border-t border-gray-200">
+            <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link href="/products/eco-friendly" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Eco-Friendly Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Recycled ocean plastic, bamboo, bio-acetate — sustainable materials with verified eco credentials.</p>
+              </Link>
+              <Link href="/products/acetate" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Acetate Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Handcrafted premium frames — available in bio-acetate with 60% recycled content.</p>
+              </Link>
+              <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Metal frames available in recycled aluminum — 95% less energy than virgin material.</p>
+              </Link>
+            </div>
+          </div>
+
+          <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">More From the Factory Floor</h2>
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/blog/frame-material-comparison" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
