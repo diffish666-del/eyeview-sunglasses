@@ -79,6 +79,8 @@ const products = [
   { name: 'Eco-Friendly Sunglasses', href: '/products/eco-friendly/', emoji: '🌱', description: 'Sustainable eyewear from recycled ocean plastic, bamboo, and bio-acetate materials.' },
   { name: 'Acetate Sunglasses', href: '/products/acetate/', emoji: '🎨', description: 'Handcrafted acetate frames in premium patterns. Italian Mazzucchelli available.' },
   { name: 'TR90 Sunglasses', href: '/products/tr90/', emoji: '🏋️', description: 'Ultra-lightweight TR90 nylon frames with memory flexibility for sports and everyday wear.' },
+  { name: 'Prescription Sunglasses', href: '/products/prescription/', emoji: '👓', description: 'Custom Rx sunglasses with single vision, progressive, and polarized options. Digital free-form surfacing.' },
+  { name: 'Promotional Sunglasses', href: '/products/promotional/', emoji: '🎯', description: 'Custom branded sunglasses for events and campaigns. Bulk pricing from $0.80/pair with fast turnaround.' },
 ];
 
 const steps = [

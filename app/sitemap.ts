@@ -160,6 +160,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry(`${baseUrl}/products/sport`, 'weekly', 0.8),
     entry(`${baseUrl}/products/tr90`, 'weekly', 0.8),
     entry(`${baseUrl}/products/wayfarer`, 'weekly', 0.8),
+    entry(`${baseUrl}/products/prescription`, 'weekly', 0.8),
+    entry(`${baseUrl}/products/promotional`, 'weekly', 0.8),
     entry(`${baseUrl}/blog`, 'weekly', 0.7),
     ...enBlogSlugs.map(slug => entry(`${baseUrl}/blog/${slug}`, 'monthly', 0.6)),
 

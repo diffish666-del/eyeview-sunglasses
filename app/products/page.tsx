@@ -131,6 +131,26 @@ const products = [
     moq: 'MOQ: 100 pairs',
     price: 'From $2.50/pair',
   },
+  {
+    name: 'Prescription Sunglasses',
+    href: '/products/prescription/',
+    emoji: '👓',
+    image: 'https://images.unsplash.com/photo-1574258495973-f0100a8c79b1?w=400&h=300&fit=crop',
+    keywords: 'prescription sunglasses manufacturer',
+    description: 'Custom Rx sunglasses with single vision, progressive, and bifocal lenses. Polarized and photochromic options available. Digital free-form surfacing for precision optics. UV400 protection with full OEM customization.',
+    moq: 'MOQ: 100 pairs',
+    price: 'From $8.00/pair',
+  },
+  {
+    name: 'Promotional Sunglasses',
+    href: '/products/promotional/',
+    emoji: '🎯',
+    image: 'https://images.unsplash.com/photo-1511499767442-68b526219ea7?w=400&h=300&fit=crop',
+    keywords: 'promotional sunglasses manufacturer',
+    description: 'Custom branded sunglasses for events, trade shows, and brand campaigns. Bulk pricing from $0.80/pair with UV400 protection. Fast turnaround for event deadlines. Lens printing, laser engraving, and custom packaging.',
+    moq: 'MOQ: 500 pairs',
+    price: 'From $0.80/pair',
+  },
 ];
 
 export default function ProductsPage() {
