@@ -23,6 +23,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'sunglasses-startup-cost',
     'sustainable-sunglasses-manufacturing',
     'uv400-vs-polarized',
+    'how-to-choose-sunglasses-manufacturer',
   ]
 
   // --- Spanish blog slugs ---
