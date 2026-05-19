@@ -38,21 +38,20 @@ export default function ContactPage() {
       formData.append('Quantity', data.quantity || 'N/A')
       formData.append('Message', data.message)
 
-      const res = await fetch('https://formsubmit.co/ajax/jacky@eyeviewsunglasses.com', {
+      const response = await fetch('https://formsubmit.co/ajax/jacky@eyeviewsunglasses.com', {
         method: 'POST',
         body: formData,
       })
-      const result = await res.json()
-      if (res.ok && result.success) {
+      const json = await response.json()
+      if (response.ok && json.success) {
         setSucceeded(true)
       } else {
-        setError(result.message || 'Failed to send message. Please try again.')
+        setError(json.message || 'Failed to send message. Please try again.')
       }
     } catch (err) {
       setError('Network error. Please try again or email us directly.')
-    } finally {
-      setSubmitting(false)
     }
+    setSubmitting(false)
   }
 
   if (succeeded) {
