@@ -24,16 +24,29 @@ export default function ContactPage() {
     }
 
     try {
-      const res = await fetch('/api/contact', {
+      const formData = new FormData()
+      formData.append('_subject', `New Inquiry from ${data.name} - EyeView Website`)
+      formData.append('_captcha', 'false')
+      formData.append('_template', 'table')
+      formData.append('_ajax', 'true')
+      formData.append('_next', 'https://eyeviewsunglasses.com/contact/thanks/')
+      formData.append('Name', data.name)
+      formData.append('Email', data.email)
+      formData.append('Company', data.company || 'N/A')
+      formData.append('Phone', data.phone || 'N/A')
+      formData.append('Interest', data.interest || 'N/A')
+      formData.append('Quantity', data.quantity || 'N/A')
+      formData.append('Message', data.message)
+
+      const res = await fetch('https://formsubmit.co/ajax/jacky@eyeviewsunglasses.com', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(data),
+        body: formData,
       })
       const result = await res.json()
       if (res.ok && result.success) {
         setSucceeded(true)
       } else {
-        setError(result.error || 'Failed to send message. Please try again.')
+        setError(result.message || 'Failed to send message. Please try again.')
       }
     } catch (err) {
       setError('Network error. Please try again or email us directly.')
