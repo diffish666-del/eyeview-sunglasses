@@ -301,6 +301,62 @@ export default function AboutPage() {
           </div>
         </section>
 
+        {/* FAQ Schema for GEO */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How long has EyeView been manufacturing sunglasses?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "EyeView was founded in 2006, giving us over 19 years of experience in sunglasses manufacturing. We started as a small workshop and have grown into a 5,000 m² factory with 5 production lines and 150+ employees."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is EyeView's minimum order quantity (MOQ)?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Our MOQ starts at 100 pieces for OEM custom orders and 50 pieces for ODM ready-made designs. We work with startups ordering 100 pairs up to retail chains ordering 50,000."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What certifications does EyeView hold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "EyeView holds CE (European Conformity), FDA (US Compliance), ISO 9001 (Quality Management), UV400 (100% UV Protection), and ANSI Z80.3 (US Optical Standard) certifications."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many countries does EyeView ship to?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "We have served over 500 brand clients in 50+ countries worldwide, from Australia and Europe to North America and beyond."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is EyeView's daily production capacity?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Our factory can produce 10,000 pairs per day across 5 production lines, with the ability to scale up to 15,000 pairs per day during peak season."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does EyeView offer OEM and ODM services?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, we offer both OEM (custom manufacturing from your designs) and ODM (choosing from our 400+ ready-made designs to brand as your own). We also provide full prototyping and sampling services."
+              }
+            }
+          ]
+        })}} />
+
         {/* CTA */}
         <section className="bg-gray-900 text-white rounded-2xl p-8 md:p-12 text-center">
           <h2 className="text-3xl font-bold mb-4">Want to See What We Can Do for Your Brand?</h2>

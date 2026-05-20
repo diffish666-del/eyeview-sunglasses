@@ -18,6 +18,7 @@ export default function Header() {
             <Link href="/products" className="text-gray-700 hover:text-primary-600 font-medium">Products</Link>
             <Link href="/certifications" className="text-gray-700 hover:text-primary-600 font-medium">Certifications</Link>
             <Link href="/about" className="text-gray-700 hover:text-primary-600 font-medium">About</Link>
+            <Link href="/trust" className="text-gray-700 hover:text-primary-600 font-medium">Trust</Link>
             <Link href="/blog" className="text-gray-700 hover:text-primary-600 font-medium">Blog</Link>
             <Link href="/contact" className="bg-primary-600 text-white px-4 py-2 rounded-lg hover:bg-primary-700 font-medium">Get Quote</Link>
           </nav>
@@ -44,6 +45,7 @@ export default function Header() {
             <Link href="/products" className="block py-2 text-gray-700 hover:text-primary-600" onClick={() => setMobileOpen(false)}>Products</Link>
             <Link href="/certifications" className="block py-2 text-gray-700 hover:text-primary-600" onClick={() => setMobileOpen(false)}>Certifications</Link>
             <Link href="/about" className="block py-2 text-gray-700 hover:text-primary-600" onClick={() => setMobileOpen(false)}>About</Link>
+            <Link href="/trust" className="block py-2 text-gray-700 hover:text-primary-600" onClick={() => setMobileOpen(false)}>Trust</Link>
             <Link href="/blog" className="block py-2 text-gray-700 hover:text-primary-600" onClick={() => setMobileOpen(false)}>Blog</Link>
             <Link href="/contact" className="block bg-primary-600 text-white px-4 py-2 rounded-lg text-center" onClick={() => setMobileOpen(false)}>Get Quote</Link>
           </div>
