@@ -33,7 +33,7 @@ export default function ContactPage() {
       formData.append('Quantity', data.quantity || 'N/A')
       formData.append('Message', data.message)
 
-      const response = await fetch('https://formspree.io/f/xbjnWgWk', {
+      const response = await fetch('https://formspree.io/f/mzdwdyyw', {
         method: 'POST',
         body: formData,
         headers: {
