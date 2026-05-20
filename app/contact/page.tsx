@@ -25,11 +25,6 @@ export default function ContactPage() {
 
     try {
       const formData = new FormData()
-      formData.append('_subject', `New Inquiry from ${data.name} - EyeView Website`)
-      formData.append('_captcha', 'false')
-      formData.append('_template', 'table')
-      formData.append('_ajax', 'true')
-      formData.append('_next', 'https://eyeviewsunglasses.com/contact/thanks/')
       formData.append('Name', data.name)
       formData.append('Email', data.email)
       formData.append('Company', data.company || 'N/A')
@@ -38,15 +33,18 @@ export default function ContactPage() {
       formData.append('Quantity', data.quantity || 'N/A')
       formData.append('Message', data.message)
 
-      const response = await fetch('https://formsubmit.co/ajax/jacky@eyeviewsunglasses.com', {
+      const response = await fetch('https://formspree.io/f/xbjnWgWk', {
         method: 'POST',
         body: formData,
+        headers: {
+          'Accept': 'application/json',
+        },
       })
-      const json = await response.json()
-      if (response.ok && json.success) {
+      if (response.ok) {
         setSucceeded(true)
       } else {
-        setError(json.message || 'Failed to send message. Please try again.')
+        const json = await response.json().catch(() => ({}))
+        setError(json.error || 'Failed to send message. Please try again.')
       }
     } catch (err) {
       setError('Network error. Please try again or email us directly.')
