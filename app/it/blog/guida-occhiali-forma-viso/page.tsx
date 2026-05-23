@@ -10,6 +10,14 @@ export const metadata: Metadata = {
 
 export default function GuidaFormaVisoPage() {
   return (
+    <>
+      {/* FAQPage Schema */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      }) }} />
+  return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "I Migliori Occhiali da Sole per la Tua Forma del Viso: Guida Completa", "datePublished": "2026-05-04", "dateModified": "2026-05-04", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Trova gli occhiali perfetti per viso rotondo, ovale, quadrato, a cuore e oblungo. Consigli esperti con esempi reali.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/guida-occhiali-forma-viso" }, "inLanguage": "it" })}} />
