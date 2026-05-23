@@ -2,6 +2,10 @@
 # Track keyword rankings
 # Runs weekly on Friday at 4:00 PM Beijing time
 
+# Proxy settings for accessing Google from China
+export ALL_PROXY="socks5h://127.0.0.1:7890"
+export all_proxy="socks5h://127.0.0.1:7890"
+
 SITE_DIR="/home/admin/.openclaw/workspace/eyeview-site"
 LOG_FILE="$SITE_DIR/scripts/rankings.log"
 DATE=$(date '+%Y-%m-%d %H:%M:%S')
@@ -36,7 +40,7 @@ for KEYWORD in "${KEYWORDS[@]}"; do
     SEARCH_URL="https://www.google.com/search?q=$ENCODED_KEYWORD&num=100&hl=en"
     
     # Try to get results
-    RESULT=$(curl -s -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" --connect-timeout 10 --max-time 30 "$SEARCH_URL" 2>/dev/null)
+    RESULT=$(curl -s -x socks5h://127.0.0.1:7890 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" --connect-timeout 15 --max-time 30 "$SEARCH_URL" 2>/dev/null)
     
     if [ -n "$RESULT" ]; then
         # Check if eyeviewsunglasses.com is in results
