@@ -24,6 +24,14 @@ cat > "$PLAN_FILE" << EOF
 
 ## This Week's Tasks
 
+### Priority 0: Multilingual Schema (NEW!)
+- [ ] Add LocalBusiness Schema to all language layouts (es, fr, de, pt, it)
+- [ ] Add Product Schema to all multilingual product pages
+- [ ] Add FAQPage Schema to all multilingual blog posts
+- [ ] Verify hreflang tags on all multilingual pages
+- [ ] Add Organization Schema to multilingual pages
+- [ ] Create multilingual sitemap with proper language annotations
+
 ### Priority 1: Schema Enhancement
 - [ ] Add Organization Schema to all product pages
 - [ ] Add Review Schema to top 5 product pages

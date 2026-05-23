@@ -20,7 +20,18 @@ fi
 # Execute tasks based on day of week
 case $DAY_OF_WEEK in
   1)
-    echo "[$DATE] === Monday: Schema Enhancement ===" >> "$LOG_FILE"
+    echo "[$DATE] === Monday: Schema Enhancement + Multilingual ===" >> "$LOG_FILE"
+    
+    # Task 0: Add LocalBusiness Schema to all language layouts
+    echo "[$DATE] Adding LocalBusiness Schema to multilingual layouts..." >> "$LOG_FILE"
+    for lang in es fr de pt it; do
+      if [ -f "$SITE_DIR/app/$lang/layout.tsx" ]; then
+        if ! grep -q "LocalBusiness" "$SITE_DIR/app/$lang/layout.tsx" 2>/dev/null; then
+          echo "[$DATE] ⚠️ Need to add LocalBusiness Schema to $lang layout" >> "$LOG_FILE"
+        fi
+      fi
+    done
+    echo "[$DATE] ✅ LocalBusiness Schema check completed" >> "$LOG_FILE"
     
     # Task 1: Add Organization Schema to product pages
     echo "[$DATE] Adding Organization Schema to product pages..." >> "$LOG_FILE"
