@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { ProductSchema, BreadcrumbListSchema, FAQPageSchema } from '../../components/SchemaMarkup'
 
 export const metadata: Metadata = {
   title: 'Polarized Sunglasses Wholesale | Premium TAC Lenses Manufacturer - EyeView',
@@ -61,7 +62,41 @@ const products = [
 
 export default function PolarizedPage() {
   return (
-    <main className="py-12">
+    <>
+      {/* Product Schema */}
+      <ProductSchema product={{
+        name: 'Polarized Sunglasses',
+        description: 'Wholesale polarized sunglasses manufacturer. TAC polarized lenses, UV400 protection, anti-glare for driving, fishing, and outdoor sports. OEM/ODM factory direct.',
+        minPrice: '5.00',
+        maxPrice: '15.00',
+        currency: 'USD',
+        moq: '100 pcs',
+      }} />
+
+      {/* BreadcrumbList Schema */}
+      <BreadcrumbListSchema items={[
+        { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
+        { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Polarized Sunglasses', item: 'https://eyeviewsunglasses.com/products/polarized' },
+      ]} />
+
+      {/* FAQPage Schema */}
+      <FAQPageSchema faqs={[
+        {
+          question: 'What is the difference between polarized and UV400 sunglasses?',
+          answer: 'UV400 protection blocks harmful ultraviolet radiation (UVA and UVB) to protect eye health. Polarization reduces glare from reflective surfaces like water, roads, and snow to improve visual comfort and clarity. They serve different purposes — UV400 is health protection, polarization is visual performance. The best sunglasses have both.',
+        },
+        {
+          question: 'What lens material is best for polarized sunglasses?',
+          answer: 'TAC (Triacetate Cellulose) is the most popular polarized lens material — lightweight, scratch-resistant, and affordable ($3-5/pair). CR-39 offers better optical clarity but costs more ($5-8/pair). Polycarbonate is impact-resistant and ideal for sports. Glass offers the best optical quality but is heavy and expensive ($10-20/pair).',
+        },
+        {
+          question: 'What is the MOQ for custom polarized sunglasses?',
+          answer: 'Standard MOQ is 100 pieces per model. You can mix lens colors and frame styles within that 100. For custom lens tints or branded polarization patterns, the MOQ is 300 pieces.',
+        },
+      ]} />
+
+      <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Breadcrumb */}
         <nav className="mb-8 text-sm text-gray-500">

@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { ProductSchema, BreadcrumbListSchema, FAQPageSchema } from '../../components/SchemaMarkup'
 
 export const metadata: Metadata = {
   title: 'Round Sunglasses Wholesale | Vintage Circular Frames Manufacturer - EyeView',
@@ -61,7 +62,41 @@ const products = [
 
 export default function RoundPage() {
   return (
-    <main className="py-12">
+    <>
+      {/* Product Schema */}
+      <ProductSchema product={{
+        name: 'Round Sunglasses',
+        description: 'Wholesale round sunglasses manufacturer. Vintage-inspired and modern round styles. Metal and acetate options. OEM/ODM factory direct.',
+        minPrice: '5.00',
+        maxPrice: '15.00',
+        currency: 'USD',
+        moq: '100 pcs',
+      }} />
+
+      {/* BreadcrumbList Schema */}
+      <BreadcrumbListSchema items={[
+        { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
+        { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Round Sunglasses', item: 'https://eyeviewsunglasses.com/products/round' },
+      ]} />
+
+      {/* FAQPage Schema */}
+      <FAQPageSchema faqs={[
+        {
+          question: 'What face shapes suit round sunglasses?',
+          answer: 'Round sunglasses flatter square, rectangular, and heart-shaped faces. The round shape softens angular jawlines and balances wider foreheads. People with round or oval faces can also wear round sunglasses — just choose a slightly angular or oversized round style to avoid looking too circular.',
+        },
+        {
+          question: 'What is the difference between vintage and modern round sunglasses?',
+          answer: 'Vintage round styles (1960s-1970s) feature thin metal frames, small lens sizes (45-49mm), and subtle upsweeps. Modern round styles are bolder — thicker acetate frames, larger lens sizes (50-54mm), and more dramatic shapes. Both styles are popular, with vintage appealing to retro/fashion markets and modern appealing to mainstream fashion.',
+        },
+        {
+          question: 'What is the MOQ for custom round sunglasses?',
+          answer: 'Standard MOQ is 100 pieces per model. You can mix colors and lens types within that 100. For custom frame designs, the MOQ is 300 pieces with a one-time mold fee of $800-1,500.',
+        },
+      ]} />
+
+      <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Breadcrumb */}
         <nav className="mb-8 text-sm text-gray-500">

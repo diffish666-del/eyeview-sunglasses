@@ -61,7 +61,41 @@ const products = [
 
 export default function BlueLightPage() {
   return (
-    <main className="py-12">
+    <>
+      {/* Product Schema */}
+      <ProductSchema product={{
+        name: 'Blue Light Blocking Glasses',
+        description: 'Wholesale blue light blocking glasses manufacturer. Computer glasses, gaming eyewear for digital eye strain relief. Clear & amber lens options.',
+        minPrice: '6.00',
+        maxPrice: '12.00',
+        currency: 'USD',
+        moq: '100 pcs',
+      }} />
+
+      {/* BreadcrumbList Schema */}
+      <BreadcrumbListSchema items={[
+        { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
+        { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Blue Light Blocking Glasses', item: 'https://eyeviewsunglasses.com/products/blue-light' },
+      ]} />
+
+      {/* FAQPage Schema */}
+      <FAQPageSchema faqs={[
+        {
+          question: 'What is the difference between clear and amber blue light glasses?',
+          answer: 'Clear blue light glasses block 30-40% of blue light with no visible tint, making them suitable for professional environments. Amber lenses block 60-90% of blue light with a warm tint that enhances contrast but changes color perception. Choose clear for office work and meetings, amber for gaming and extended screen time.',
+        },
+        {
+          question: 'Do blue light glasses really work?',
+          answer: 'Yes, but manage expectations. They reduce digital eye strain symptoms (headaches, dry eyes, fatigue) by 40-60% according to most studies. They do not prevent myopia or completely eliminate screen fatigue. The best blue light glasses also have anti-reflective coating and proper UV protection.',
+        },
+        {
+          question: 'What is the MOQ for custom blue light glasses?',
+          answer: 'Standard MOQ is 100 pieces per model. You can mix frame colors within that 100 — so 50 clear lenses with black frames, 30 with tortoiseshell frames, and 20 with crystal frames works fine. For custom lens tints or branding, the MOQ is 300 pieces.',
+        },
+      ]} />
+
+      <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Breadcrumb */}
         <nav className="mb-8 text-sm text-gray-500">

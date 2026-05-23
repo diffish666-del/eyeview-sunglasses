@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { ProductSchema, BreadcrumbListSchema, FAQPageSchema } from '../../components/SchemaMarkup'
 
 export const metadata: Metadata = {
   title: 'Sport Sunglasses Wholesale | Polarized Athletic Eyewear Manufacturer - EyeView',
@@ -67,7 +68,41 @@ const sportCategories = [
 
 export default function SportPage() {
   return (
-    <main className="py-12">
+    <>
+      {/* Product Schema */}
+      <ProductSchema product={{
+        name: 'Sport Sunglasses',
+        description: 'Wholesale sport sunglasses manufacturer. Wraparound design, impact-resistant, UV400 protection. For cycling, running, fishing, skiing, and outdoor sports. OEM/ODM factory direct.',
+        minPrice: '6.00',
+        maxPrice: '15.00',
+        currency: 'USD',
+        moq: '100 pcs',
+      }} />
+
+      {/* BreadcrumbList Schema */}
+      <BreadcrumbListSchema items={[
+        { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
+        { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Sport Sunglasses', item: 'https://eyeviewsunglasses.com/products/sport' },
+      ]} />
+
+      {/* FAQPage Schema */}
+      <FAQPageSchema faqs={[
+        {
+          question: 'What is the best lens material for sport sunglasses?',
+          answer: 'Polycarbonate is the best lens material for sport sunglasses — it\'s impact-resistant, lightweight, and naturally UV protective. TAC is a good alternative for casual sports (walking, cycling) but polycarbonate is essential for high-impact sports (baseball, basketball, skiing). All our sport sunglasses use polycarbonate lenses as standard.',
+        },
+        {
+          question: 'What frame material is best for sport sunglasses?',
+          answer: 'TR90 is the best frame material for sport sunglasses. It\'s lightweight (15-20g), flexible, unbreakable, and hypoallergenic. Athletes can bend, drop, or sit on TR90 frames without breaking them. For premium sport lines, we also offer nylon frames (slightly heavier but more rigid) and titanium (ultra-lightweight but more expensive).',
+        },
+        {
+          question: 'What is the MOQ for custom sport sunglasses?',
+          answer: 'Standard MOQ is 100 pieces per model. You can mix colors and lens types within that 100. For custom frame designs or branded packaging, the MOQ is 300 pieces with a one-time mold fee of $800-1,500.',
+        },
+      ]} />
+
+      <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Breadcrumb */}
         <nav className="mb-8 text-sm text-gray-500">

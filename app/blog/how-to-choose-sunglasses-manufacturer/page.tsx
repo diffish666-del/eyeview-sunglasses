@@ -16,6 +16,43 @@ export const metadata: Metadata = {
 export default function HowToChooseManufacturer() {
   return (
     <article className="max-w-4xl mx-auto px-4 py-12">
+      
+        {/* Article Schema */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": "How to Choose the Right Sunglasses Manufacturer in 2026",
+          "datePublished": "2026-05-18",
+          "dateModified": "2026-05-18",
+          "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
+          "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
+          "description": "A factory owner reveals 10 things to check before choosing a sunglasses manufacturer. Red flags, quality indicators, and how to avoid costly mistakes.",
+          "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/how-to-choose-sunglasses-manufacturer" }
+        })}} />
+
+        {/* FAQ Schema */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How long does it take to evaluate a sunglasses manufacturer?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Plan for 2-4 weeks. Week 1: research and shortlist 5-10 factories. Week 2: request samples and quotes. Week 3: evaluate samples and check references. Week 4: negotiate terms and place trial order. Don't rush this — a bad manufacturer choice costs thousands." }
+            },
+            {
+              "@type": "Question",
+              "name": "Should I visit the factory in person?",
+              "acceptedAnswer": { "@type": "Answer", "text": "If your order is over $10,000, yes. A factory visit takes 1-2 days and tells you more than any email exchange. You'll see the production line, meet the team, and verify they're actually a manufacturer (not a trading company operating from an office). Many factories will reimburse the visit cost if you place an order." }
+            },
+            {
+              "@type": "Question",
+              "name": "What's the difference between OEM and ODM when choosing a manufacturer?",
+              "acceptedAnswer": { "@type": "Answer", "text": "OEM manufacturers need your designs and specifications — they manufacture to your blueprint. ODM manufacturers have existing designs you can customize with your branding. For new brands, ODM is faster and cheaper to start. For established brands with unique designs, OEM gives you full control. Choose a manufacturer that offers the model that fits your needs." }
+            }
+          ]
+        })}} />
+
       <div className="mb-8">
         <Link href="/blog" className="text-primary-600 hover:underline text-sm">← Back to Blog</Link>
       </div>

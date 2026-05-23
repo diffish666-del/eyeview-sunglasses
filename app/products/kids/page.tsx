@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { ProductSchema, BreadcrumbListSchema, FAQPageSchema } from '../../components/SchemaMarkup'
 
 export const metadata: Metadata = {
   title: 'Kids Sunglasses Wholesale | Children\'s UV Protection Eyewear Manufacturer - EyeView',
@@ -61,7 +62,41 @@ const products = [
 
 export default function KidsPage() {
   return (
-    <main className="py-12">
+    <>
+      {/* Product Schema */}
+      <ProductSchema product={{
+        name: 'Kids Sunglasses',
+        description: 'Wholesale kids sunglasses manufacturer. UV400 protection, unbreakable TR90 frames, fun designs for children ages 2-12. Safety-tested and CPSIA compliant.',
+        minPrice: '5.00',
+        maxPrice: '12.00',
+        currency: 'USD',
+        moq: '100 pcs',
+      }} />
+
+      {/* BreadcrumbList Schema */}
+      <BreadcrumbListSchema items={[
+        { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
+        { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Kids Sunglasses', item: 'https://eyeviewsunglasses.com/products/kids' },
+      ]} />
+
+      {/* FAQPage Schema */}
+      <FAQPageSchema faqs={[
+        {
+          question: 'What age range do your kids sunglasses cover?',
+          answer: 'Our kids sunglasses cover ages 2-12, divided into three age groups: toddlers (2-4 years), kids (5-7 years), and pre-teens (8-12 years). Each age group has appropriately sized frames and age-appropriate styling.',
+        },
+        {
+          question: 'Are your kids sunglasses UV400 protected?',
+          answer: 'Yes, all our kids sunglasses have UV400 protection as standard. Children\'s eyes are more vulnerable to UV damage than adults\' eyes, so we never compromise on this. All lenses meet or exceed ANSI Z80.3 and EN ISO 12312-1 standards for UV protection.',
+        },
+        {
+          question: 'What is the safest material for kids sunglasses?',
+          answer: 'TR90 is the safest material for kids sunglasses. It\'s unbreakable, flexible, lightweight (15-20g), and hypoallergenic. Kids can bend, sit on, or step on TR90 frames without breaking them. Polycarbonate lenses are also essential — they\'re impact-resistant and won\'t shatter like glass or standard plastic lenses.',
+        },
+      ]} />
+
+      <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Breadcrumb */}
         <nav className="mb-8 text-sm text-gray-500">

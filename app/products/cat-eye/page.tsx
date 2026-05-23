@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { ProductSchema, BreadcrumbListSchema, FAQPageSchema } from '../../components/SchemaMarkup'
 
 export const metadata: Metadata = {
   title: 'Wholesale Cat Eye Sunglasses | Cat Eye Sunglasses Manufacturer - EyeView',
@@ -61,7 +62,41 @@ const products = [
 
 export default function CatEyePage() {
   return (
-    <main className="py-12">
+    <>
+      {/* Product Schema */}
+      <ProductSchema product={{
+        name: 'Cat-Eye Sunglasses',
+        description: 'Wholesale cat-eye sunglasses manufacturer. Vintage-inspired and modern cat-eye styles for women\'s fashion brands. Acetate and metal options.',
+        minPrice: '6.00',
+        maxPrice: '15.00',
+        currency: 'USD',
+        moq: '100 pcs',
+      }} />
+
+      {/* BreadcrumbList Schema */}
+      <BreadcrumbListSchema items={[
+        { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
+        { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Cat-Eye Sunglasses', item: 'https://eyeviewsunglasses.com/products/cat-eye' },
+      ]} />
+
+      {/* FAQPage Schema */}
+      <FAQPageSchema faqs={[
+        {
+          question: 'What face shapes suit cat-eye sunglasses?',
+          answer: 'Cat-eye sunglasses flatter round, square, and heart-shaped faces. The upward angles balance round faces, soften square jawlines, and complement heart-shaped faces by drawing attention upward. Oval faces can wear almost any cat-eye style.',
+        },
+        {
+          question: 'What is the difference between vintage and modern cat-eye styles?',
+          answer: 'Vintage cat-eye styles (1950s-1960s) feature sharper angles, thicker acetate, and more dramatic upsweeps. Modern cat-eye styles are more subtle, with thinner frames, mixed materials (acetate front with metal temples), and smaller upsweeps. Both styles are popular — vintage for fashion-forward brands, modern for everyday wear.',
+        },
+        {
+          question: 'What is the MOQ for custom cat-eye sunglasses?',
+          answer: 'Standard MOQ is 100 pieces per model. You can mix colors within that 100. For custom frame designs (your own shape), the MOQ is 300 pieces with a one-time mold fee of $800-1,200.',
+        },
+      ]} />
+
+      <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Breadcrumb */}
         <nav className="mb-8 text-sm text-gray-500">

@@ -77,6 +77,47 @@ const organizationJsonLd = {
   },
 };
 
+const localBusinessJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  'name': 'EyeView Sunglasses Factory',
+  'description': 'Leading wholesale sunglasses manufacturer offering OEM & ODM custom sunglasses with 15+ years of experience. CE/FDA/ISO 9001 certified.',
+  'url': 'https://eyeviewsunglasses.com',
+  'telephone': '+86-18850281211',
+  'email': 'jacky@eyeviewsunglasses.com',
+  'address': {
+    '@type': 'PostalAddress',
+    'addressCountry': 'CN',
+  },
+  'geo': {
+    '@type': 'GeoCoordinates',
+    'latitude': '26.5988',
+    'longitude': '110.3036',
+  },
+  'openingHours': 'Mo-Fr 08:00-18:00',
+  'priceRange': '$$',
+  'image': 'https://eyeviewsunglasses.com/logo.png',
+  'sameAs': [],
+  'makesOffer': [
+    {
+      '@type': 'Offer',
+      'itemOffered': {
+        '@type': 'Product',
+        'name': 'Custom Sunglasses Manufacturing',
+        'description': 'OEM & ODM sunglasses manufacturing with full customization services',
+      },
+    },
+    {
+      '@type': 'Offer',
+      'itemOffered': {
+        '@type': 'Product',
+        'name': 'Wholesale Sunglasses',
+        'description': 'Bulk sunglasses supplier with competitive pricing and fast delivery',
+      },
+    },
+  ],
+};
+
 // Critical CSS for above-the-fold content (hero section)
 const criticalCss = `
 @keyframes fadeIn{from{opacity:0}to{opacity:1}}
@@ -128,6 +169,10 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessJsonLd) }}
         />
       </head>
       <body className={inter.className}>
