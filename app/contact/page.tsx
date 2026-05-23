@@ -25,29 +25,47 @@ export default function ContactPage() {
 
     try {
       const formData = new FormData()
-      formData.append('Name', data.name)
-      formData.append('Email', data.email)
-      formData.append('Company', data.company || 'N/A')
-      formData.append('Phone', data.phone || 'N/A')
-      formData.append('Interest', data.interest || 'N/A')
-      formData.append('Quantity', data.quantity || 'N/A')
-      formData.append('Message', data.message)
+      formData.append('name', data.name)
+      formData.append('email', data.email)
+      formData.append('company', data.company || 'N/A')
+      formData.append('phone', data.phone || 'N/A')
+      formData.append('interest', data.interest || 'N/A')
+      formData.append('quantity', data.quantity || 'N/A')
+      formData.append('message', data.message)
 
-      const response = await fetch('https://formspree.io/f/mzdwdyyw', {
+      // Try Formspree first
+      let response = await fetch('https://formspree.io/f/mzdwdyyw', {
         method: 'POST',
         body: formData,
         headers: {
           'Accept': 'application/json',
         },
       })
+      
+      // If Formspree fails, try backup endpoint
+      if (!response.ok) {
+        console.warn('Formspree failed, trying backup...')
+        response = await fetch('https://formsubmit.co/ajax/jacky@eyeviewsunglasses.com', {
+          method: 'POST',
+          body: formData,
+          headers: {
+            'Accept': 'application/json',
+          },
+        })
+      }
+      
       if (response.ok) {
         setSucceeded(true)
       } else {
         const json = await response.json().catch(() => ({}))
-        setError(json.error || 'Failed to send message. Please try again.')
+        setError(json.error || 'Failed to send message. Please try again or email us directly.')
       }
     } catch (err) {
-      setError('Network error. Please try again or email us directly.')
+      // Final fallback: open email client
+      const subject = encodeURIComponent('Sunglasses Inquiry from ' + data.name)
+      const body = encodeURIComponent(`Name: ${data.name}\nEmail: ${data.email}\nCompany: ${data.company || 'N/A'}\nPhone: ${data.phone || 'N/A'}\nInterest: ${data.interest || 'N/A'}\nQuantity: ${data.quantity || 'N/A'}\n\nMessage:\n${data.message}`)
+      window.location.href = `mailto:jacky@eyeviewsunglasses.com?subject=${subject}&body=${body}`
+      setError('Form submission failed. Your email client should open now. If not, please email us directly at jacky@eyeviewsunglasses.com')
     }
     setSubmitting(false)
   }
