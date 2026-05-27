@@ -89,6 +89,7 @@ const products = [
   { name: 'TR90 Sunglasses', href: '/products/tr90/', emoji: '🏋️', description: 'Ultra-lightweight TR90 nylon frames with memory flexibility for sports and everyday wear.' },
   { name: 'Prescription Sunglasses', href: '/products/prescription/', emoji: '👓', description: 'Custom Rx sunglasses with single vision, progressive, and polarized options. Digital free-form surfacing.' },
   { name: 'Promotional Sunglasses', href: '/products/promotional/', emoji: '🎯', description: 'Custom branded sunglasses for events and campaigns. Bulk pricing from $0.80/pair with fast turnaround.' },
+  { name: 'Sunglasses Cases', href: '/products/sunglasses-case/', emoji: '👜', description: 'Custom sunglass cases and packaging. EVA hard cases, leather cases, microfiber pouches, and custom shapes.' },
 ];
 
 const steps = [

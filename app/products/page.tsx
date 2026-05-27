@@ -151,6 +151,16 @@ const products = [
     moq: 'MOQ: 500 pairs',
     price: 'From $0.80/pair',
   },
+  {
+    name: 'Sunglasses Cases',
+    href: '/products/sunglasses-case/',
+    emoji: '👜',
+    image: 'https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400&h=300&fit=crop',
+    keywords: 'wholesale sunglasses cases manufacturer',
+    description: 'Custom sunglass cases and eyewear packaging. EVA hard cases, ABS hard cases, microfiber pouches, leather cases, silicone cases, and custom shapes. Full OEM branding with logo printing and embossing.',
+    moq: 'MOQ: 100 pieces',
+    price: 'From $0.30/piece',
+  },
 ];
 
 export default function ProductsPage() {

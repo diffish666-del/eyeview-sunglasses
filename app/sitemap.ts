@@ -163,6 +163,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry(`${baseUrl}/products/wayfarer`, 'weekly', 0.8),
     entry(`${baseUrl}/products/prescription`, 'weekly', 0.8),
     entry(`${baseUrl}/products/promotional`, 'weekly', 0.8),
+    entry(`${baseUrl}/products/sunglasses-case`, 'weekly', 0.8),
     entry(`${baseUrl}/blog`, 'weekly', 0.7),
     ...enBlogSlugs.map(slug => entry(`${baseUrl}/blog/${slug}`, 'monthly', 0.6)),
 
@@ -183,6 +184,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry(`${baseUrl}/es/productos/redondo`, 'weekly', 0.8),
     entry(`${baseUrl}/es/productos/tr90`, 'weekly', 0.8),
     entry(`${baseUrl}/es/productos/wayfarer`, 'weekly', 0.8),
+    entry(`${baseUrl}/es/productos/funda-gafas`, 'weekly', 0.8),
     entry(`${baseUrl}/es/blog`, 'weekly', 0.7),
     ...esBlogSlugs.map(slug => entry(`${baseUrl}/es/blog/${slug}`, 'monthly', 0.6)),
 
@@ -203,6 +205,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry(`${baseUrl}/fr/produits/sport`, 'weekly', 0.8),
     entry(`${baseUrl}/fr/produits/tr90`, 'weekly', 0.8),
     entry(`${baseUrl}/fr/produits/wayfarer`, 'weekly', 0.8),
+    entry(`${baseUrl}/fr/produits/etui-lunettes`, 'weekly', 0.8),
     entry(`${baseUrl}/fr/blog`, 'weekly', 0.7),
     ...frBlogSlugs.map(slug => entry(`${baseUrl}/fr/blog/${slug}`, 'monthly', 0.6)),
 
@@ -223,6 +226,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry(`${baseUrl}/de/produkte/tr90`, 'weekly', 0.8),
     entry(`${baseUrl}/de/produkte/umweltfreundlich`, 'weekly', 0.8),
     entry(`${baseUrl}/de/produkte/wayfarer`, 'weekly', 0.8),
+    entry(`${baseUrl}/de/produkte/sonnenbrillen-etui`, 'weekly', 0.8),
     entry(`${baseUrl}/de/blog`, 'weekly', 0.7),
     ...deBlogSlugs.map(slug => entry(`${baseUrl}/de/blog/${slug}`, 'monthly', 0.6)),
 
@@ -243,6 +247,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry(`${baseUrl}/pt/produtos/redondo`, 'weekly', 0.8),
     entry(`${baseUrl}/pt/produtos/tr90`, 'weekly', 0.8),
     entry(`${baseUrl}/pt/produtos/wayfarer`, 'weekly', 0.8),
+    entry(`${baseUrl}/pt/produtos/capa-oculos`, 'weekly', 0.8),
     entry(`${baseUrl}/pt/blog`, 'weekly', 0.7),
     ...ptBlogSlugs.map(slug => entry(`${baseUrl}/pt/blog/${slug}`, 'monthly', 0.6)),
 
@@ -263,6 +268,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry(`${baseUrl}/it/prodotti/sportivo`, 'weekly', 0.8),
     entry(`${baseUrl}/it/prodotti/tr90`, 'weekly', 0.8),
     entry(`${baseUrl}/it/prodotti/wayfarer`, 'weekly', 0.8),
+    entry(`${baseUrl}/it/prodotti/fedora-occhiali`, 'weekly', 0.8),
     entry(`${baseUrl}/it/blog`, 'weekly', 0.7),
     ...itBlogSlugs.map(slug => entry(`${baseUrl}/it/blog/${slug}`, 'monthly', 0.6)),
   ]

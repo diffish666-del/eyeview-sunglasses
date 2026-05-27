@@ -15,7 +15,7 @@
 2026-05-21 sunglasses-moq-guide
 
 # Week 4 - 品牌商指南
-2026-05-25 custom-sunglasses-packaging
+#DONE 2026-05-25 custom-sunglasses-packaging
 2026-05-28 oem-vs-odm
 
 # Week 5 - 行业趋势与合规
