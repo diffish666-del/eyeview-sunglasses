@@ -15,7 +15,7 @@ export default function EsLayout({
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={ __html: JSON.stringify({
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "name": "EyeView Sunglasses Factory",

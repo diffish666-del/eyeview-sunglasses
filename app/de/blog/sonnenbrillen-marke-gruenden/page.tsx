@@ -23,8 +23,7 @@ export default function SonnenbrillenMarkeGruendenPage() {
         "@type": "FAQPage",
         "mainEntity": []
       }) }} />
-  return (
-    <article className="py-12">
+      <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

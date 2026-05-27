@@ -23,8 +23,7 @@ export default function CrearMarcaGafasPage() {
         "@type": "FAQPage",
         "mainEntity": []
       }) }} />
-  return (
-    <article className="py-12">
+      <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Article Header */}
         <header className="mb-12">
