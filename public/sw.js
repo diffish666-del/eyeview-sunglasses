@@ -1,5 +1,5 @@
 // Service Worker for caching static assets
-const CACHE_NAME = 'eyeview-v1';
+const CACHE_NAME = 'eyeview-v2';
 const STATIC_ASSETS = [
   '/',
   '/products/',
