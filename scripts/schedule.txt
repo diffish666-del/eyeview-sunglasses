@@ -16,7 +16,7 @@
 
 # Week 4 - 品牌商指南
 #DONE 2026-05-25 custom-sunglasses-packaging
-2026-05-28 oem-vs-odm
+#DONE 2026-05-28 oem-vs-odm
 
 # Week 5 - 行业趋势与合规
 2026-06-01 sunglasses-design-trends-2026

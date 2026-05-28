@@ -23,7 +23,7 @@ export default function CreareBrandOcchialiPage() {
         "@type": "FAQPage",
         "mainEntity": []
       }) }} />
-  return (
+
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 

@@ -17,7 +17,7 @@ export default function TendenzeDesign2026Page() {
         "@type": "FAQPage",
         "mainEntity": []
       }) }} />
-  return (
+
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Tendenze Design Occhiali da Sole 2026: Cosa Si Vende Adesso", "datePublished": "2026-05-04", "dateModified": "2026-05-04", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica rivela le tendenze più calde dell'eyewear design per il 2026 con dati di vendita reali.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/tendenze-design-occhiali-2026" }, "inLanguage": "it" })}} />

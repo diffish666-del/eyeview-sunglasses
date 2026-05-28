@@ -17,7 +17,7 @@ export default function GuidaRivestimentiPage() {
         "@type": "FAQPage",
         "mainEntity": []
       }) }} />
-  return (
+
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Guida ai Rivestimenti per Occhiali da Sole: Specchio, Anti-Riflesso, Idrofobico e Altro", "datePublished": "2026-05-03", "dateModified": "2026-05-03", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica analizza ogni tipo di rivestimento per lenti — specchio, AR, idrofobico, oleofobico, anti-appannamento, hard coat. Costi reali e quali si combinano.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/guida-rivestimenti-occhiali" }, "inLanguage": "it" })}} />
