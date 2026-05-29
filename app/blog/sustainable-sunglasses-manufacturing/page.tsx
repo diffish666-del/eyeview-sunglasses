@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Sustainable Sunglasses Manufacturing: Eco-Friendly Materials & Processes',
-  description: 'A factory owner explains sustainable sunglasses manufacturing — bio-acetate, recycled nylon, ocean plastic, eco-friendly packaging, and what "sustainable" actually means in eyewear production.',
+  description: 'A factory owner explains sustainable sunglasses manufacturing -- bio-acetate, recycled nylon, ocean plastic, eco-friendly packaging, and what "sustainable" actually means in eyewear production.',
   keywords: 'sustainable sunglasses, eco-friendly eyewear manufacturing, recycled sunglasses, bio-acetate sunglasses, ocean plastic sunglasses, sustainable eyewear',
   alternates: {
     canonical: '/blog/sustainable-sunglasses-manufacturing',
@@ -27,7 +27,7 @@ export default function SustainableSunglassesPage() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "A factory owner explains sustainable sunglasses manufacturing — materials, processes, and honest cost comparisons.",
+          "description": "A factory owner explains sustainable sunglasses manufacturing -- materials, processes, and honest cost comparisons.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/sustainable-sunglasses-manufacturing" }
         })}} />
 
@@ -48,17 +48,17 @@ export default function SustainableSunglassesPage() {
             {
               "@type": "Question",
               "name": "Is bio-acetate as durable as regular acetate?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Yes. Bio-based acetate from reputable suppliers (like Mazzucchelli M49 or Eastman Acetate Renew) has virtually identical mechanical properties to traditional acetate — same hardness, flexibility, polishing quality, and lifespan. The difference is in the raw material source (plant-based vs petroleum-based), not the finished product performance." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Yes. Bio-based acetate from reputable suppliers (like Mazzucchelli M49 or Eastman Acetate Renew) has virtually identical mechanical properties to traditional acetate -- same hardness, flexibility, polishing quality, and lifespan. The difference is in the raw material source (plant-based vs petroleum-based), not the finished product performance." }
             },
             {
               "@type": "Question",
               "name": "Are 'ocean plastic' sunglasses really made from ocean plastic?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Some are, but many use 'ocean-bound' plastic — waste collected from coastal areas before it enters the ocean. True ocean-retrieved plastic requires extensive cleaning and processing, making it significantly more expensive. Both approaches are legitimate and environmentally beneficial, but the distinction matters for honest marketing. Always verify your supplier's certification (look for Ocean Bound Plastic Certification or similar third-party verification)." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Some are, but many use 'ocean-bound' plastic -- waste collected from coastal areas before it enters the ocean. True ocean-retrieved plastic requires extensive cleaning and processing, making it significantly more expensive. Both approaches are legitimate and environmentally beneficial, but the distinction matters for honest marketing. Always verify your supplier's certification (look for Ocean Bound Plastic Certification or similar third-party verification)." }
             },
             {
               "@type": "Question",
               "name": "What certifications should sustainable sunglasses have?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Key certifications to look for: GRS (Global Recycled Standard) for recycled materials, ISCC PLUS for bio-based content verification, FSC for wood/bamboo sourcing, OEKO-TEX for harmful substance testing, and ISO 14001 for the factory's environmental management system. Be cautious of brands claiming 'eco-friendly' without any third-party certification — greenwashing is rampant in eyewear." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Key certifications to look for: GRS (Global Recycled Standard) for recycled materials, ISCC PLUS for bio-based content verification, FSC for wood/bamboo sourcing, OEKO-TEX for harmful substance testing, and ISO 14001 for the factory's environmental management system. Be cautious of brands claiming 'eco-friendly' without any third-party certification -- greenwashing is rampant in eyewear." }
             }
           ]
         })}} />
@@ -107,7 +107,7 @@ export default function SustainableSunglassesPage() {
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-600 mb-8">
             Five years ago, maybe 2% of our clients asked about sustainable materials. In 2026, it&apos;s 
-            closer to 30% — and rising. Sustainability has gone from a niche selling point to a genuine 
+            closer to 30% -- and rising. Sustainability has gone from a niche selling point to a genuine 
             market demand, especially for brands targeting consumers under 35.
           </p>
 
@@ -115,7 +115,7 @@ export default function SustainableSunglassesPage() {
           <p>
             Before we dive in, I need to say something that might be unpopular: <strong>no sunglasses 
             are truly &quot;zero impact.&quot;</strong> Manufacturing anything requires energy, materials, 
-            and transportation. The goal isn&apos;t perfection — it&apos;s meaningful improvement.
+            and transportation. The goal isn&apos;t perfection -- it&apos;s meaningful improvement.
           </p>
           <p>
             Here&apos;s what the sunglasses industry&apos;s environmental footprint actually looks like:
@@ -123,7 +123,7 @@ export default function SustainableSunglassesPage() {
           <ul>
             <li><strong>Materials:</strong> Traditional acetate comes from petroleum-derived cellulose acetate. Traditional nylon and polycarbonate are petroleum-based plastics. Metal frames require mining and refining.</li>
             <li><strong>Manufacturing:</strong> CNC cutting, polishing, and coating processes consume energy and water. Chemical solvents are used in finishing. Waste material from cutting (30-40% of raw material becomes scrap).</li>
-            <li><strong>Packaging:</strong> Plastic pouches, foam inserts, blister packs — most conventional packaging is single-use plastic.</li>
+            <li><strong>Packaging:</strong> Plastic pouches, foam inserts, blister packs -- most conventional packaging is single-use plastic.</li>
             <li><strong>Transportation:</strong> Shipping from China to global markets adds carbon footprint.</li>
           </ul>
           <p>
@@ -140,7 +140,7 @@ export default function SustainableSunglassesPage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What Is Bio-Acetate?</h3>
           <p>
-            Traditional acetate is technically already plant-derived — it&apos;s cellulose acetate, made 
+            Traditional acetate is technically already plant-derived -- it&apos;s cellulose acetate, made 
             from cotton linters and wood pulp. But the plasticizers used to make it flexible are 
             petroleum-based (diethyl phthalate). Bio-acetate replaces these petroleum plasticizers 
             with plant-based alternatives, making the entire material bio-sourced.
@@ -150,7 +150,7 @@ export default function SustainableSunglassesPage() {
           <ul>
             <li><strong>Mazzucchelli M49:</strong> Italian-made bio-acetate. Premium quality, wide color range. The gold standard. About 20% more expensive than standard Mazzucchelli acetate.</li>
             <li><strong>Eastman Acetate Renew:</strong> Uses molecular recycling technology to incorporate recycled content. Growing fast in the market.</li>
-            <li><strong>Chinese bio-acetate manufacturers:</strong> Several domestic suppliers now offer bio-acetate at more competitive prices. Quality varies — we test every batch.</li>
+            <li><strong>Chinese bio-acetate manufacturers:</strong> Several domestic suppliers now offer bio-acetate at more competitive prices. Quality varies -- we test every batch.</li>
           </ul>
 
           <div className="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg my-8">
@@ -160,14 +160,14 @@ export default function SustainableSunglassesPage() {
               <li><strong>Durability:</strong> Identical to standard acetate</li>
               <li><strong>Color range:</strong> Full range available, including tortoiseshell patterns</li>
               <li><strong>Biodegradability:</strong> Biodegrades in industrial composting conditions (not in your drawer or a landfill)</li>
-              <li><strong>Supply availability:</strong> Good — most major suppliers stock it</li>
+              <li><strong>Supply availability:</strong> Good -- most major suppliers stock it</li>
             </ul>
           </div>
 
           <h2 id="recycled-nylon" className="text-3xl font-bold mt-16 mb-6">Recycled Nylon &amp; TR90</h2>
           <p>
             For sport and lightweight frames, recycled nylon is the leading sustainable option. It&apos;s 
-            made from post-consumer waste — typically discarded fishing nets, carpet fibers, or 
+            made from post-consumer waste -- typically discarded fishing nets, carpet fibers, or 
             industrial nylon scrap.
           </p>
           <p>
@@ -196,7 +196,7 @@ export default function SustainableSunglassesPage() {
           </p>
           <ol>
             <li className="mb-4"><strong>True ocean-retrieved plastic:</strong> Literally pulled from the ocean. Requires extensive cleaning, sorting, and processing. Very expensive. Very limited supply. Maybe 5% of &quot;ocean plastic&quot; products actually use this.</li>
-            <li className="mb-4"><strong>Ocean-bound plastic:</strong> Waste collected from coastal areas within 50km of waterways, before it enters the ocean. This is what most &quot;ocean plastic&quot; products use. It&apos;s legitimate and environmentally meaningful — preventing plastic from reaching the ocean is arguably more impactful than retrieving it after.</li>
+            <li className="mb-4"><strong>Ocean-bound plastic:</strong> Waste collected from coastal areas within 50km of waterways, before it enters the ocean. This is what most &quot;ocean plastic&quot; products use. It&apos;s legitimate and environmentally meaningful -- preventing plastic from reaching the ocean is arguably more impactful than retrieving it after.</li>
             <li className="mb-4"><strong>&quot;Ocean-inspired&quot; recycled plastic:</strong> Regular recycled plastic with ocean-themed marketing. This is where greenwashing happens. The material might be recycled (good!) but has nothing to do with oceans.</li>
           </ol>
 
@@ -229,7 +229,7 @@ export default function SustainableSunglassesPage() {
           </p>
           <ul>
             <li><strong>Bio-based nylon lenses:</strong> Emerging option using plant-derived nylon. Optical quality matches conventional nylon lenses. 20-30% cost premium.</li>
-            <li><strong>Recycled polycarbonate:</strong> Available from some suppliers. Properties are close to virgin polycarbonate but not identical — minor differences in optical clarity that most consumers won&apos;t notice.</li>
+            <li><strong>Recycled polycarbonate:</strong> Available from some suppliers. Properties are close to virgin polycarbonate but not identical -- minor differences in optical clarity that most consumers won&apos;t notice.</li>
             <li><strong>Glass lenses:</strong> Technically the most recyclable option and made from abundant natural materials (sand). But heavier and more fragile than plastic alternatives. For lens details, check our{' '}
               <Link href="/blog/lens-guide-update" className="text-primary-600 hover:underline">advanced lens guide</Link>.
             </li>
@@ -280,19 +280,19 @@ export default function SustainableSunglassesPage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">Acetate frame</td><td className="px-6 py-4">$2.50–$4.00</td><td className="px-6 py-4">$3.00–$5.00 (bio)</td><td className="px-6 py-4">+15-20%</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">TR90/nylon frame</td><td className="px-6 py-4">$1.50–$3.00</td><td className="px-6 py-4">$1.80–$3.75 (recycled)</td><td className="px-6 py-4">+15-25%</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Polarized lenses (pair)</td><td className="px-6 py-4">$1.50–$3.00</td><td className="px-6 py-4">$2.00–$4.00 (bio-nylon)</td><td className="px-6 py-4">+20-30%</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Hard case</td><td className="px-6 py-4">$1.00–$2.50</td><td className="px-6 py-4">$1.20–$3.00 (cork/bamboo)</td><td className="px-6 py-4">+15-25%</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Cloth/pouch</td><td className="px-6 py-4">$0.30–$0.80</td><td className="px-6 py-4">$0.40–$1.00 (organic cotton)</td><td className="px-6 py-4">+10-25%</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Box/packaging</td><td className="px-6 py-4">$0.50–$1.50</td><td className="px-6 py-4">$0.50–$1.50 (recycled kraft)</td><td className="px-6 py-4">+0-5%</td></tr>
-                <tr className="bg-white font-bold"><td className="px-6 py-4">Total per pair</td><td className="px-6 py-4">$7.30–$14.80</td><td className="px-6 py-4">$8.90–$18.25</td><td className="px-6 py-4">+15-25%</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Acetate frame</td><td className="px-6 py-4">$2.50-$4.00</td><td className="px-6 py-4">$3.00-$5.00 (bio)</td><td className="px-6 py-4">+15-20%</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">TR90/nylon frame</td><td className="px-6 py-4">$1.50-$3.00</td><td className="px-6 py-4">$1.80-$3.75 (recycled)</td><td className="px-6 py-4">+15-25%</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Polarized lenses (pair)</td><td className="px-6 py-4">$1.50-$3.00</td><td className="px-6 py-4">$2.00-$4.00 (bio-nylon)</td><td className="px-6 py-4">+20-30%</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Hard case</td><td className="px-6 py-4">$1.00-$2.50</td><td className="px-6 py-4">$1.20-$3.00 (cork/bamboo)</td><td className="px-6 py-4">+15-25%</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Cloth/pouch</td><td className="px-6 py-4">$0.30-$0.80</td><td className="px-6 py-4">$0.40-$1.00 (organic cotton)</td><td className="px-6 py-4">+10-25%</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Box/packaging</td><td className="px-6 py-4">$0.50-$1.50</td><td className="px-6 py-4">$0.50-$1.50 (recycled kraft)</td><td className="px-6 py-4">+0-5%</td></tr>
+                <tr className="bg-white font-bold"><td className="px-6 py-4">Total per pair</td><td className="px-6 py-4">$7.30-$14.80</td><td className="px-6 py-4">$8.90-$18.25</td><td className="px-6 py-4">+15-25%</td></tr>
               </tbody>
             </table>
           </div>
 
           <p>
-            The sustainability premium is real but manageable — typically 15-25% on manufacturing costs. 
+            The sustainability premium is real but manageable -- typically 15-25% on manufacturing costs. 
             And here&apos;s the business case: sustainable sunglasses retail at a 30-50% premium over 
             comparable non-sustainable products. A pair that costs $10 to make sustainably might retail 
             for $55-$65 instead of $40-$45. The margin actually improves. For the full pricing picture, 
@@ -308,16 +308,16 @@ export default function SustainableSunglassesPage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Do ✅</h3>
           <ul>
-            <li>Specify exactly what&apos;s sustainable — &quot;frames made from bio-based acetate&quot; is better than &quot;eco-friendly sunglasses&quot;</li>
+            <li>Specify exactly what&apos;s sustainable -- &quot;frames made from bio-based acetate&quot; is better than &quot;eco-friendly sunglasses&quot;</li>
             <li>Get third-party certification (GRS, ISCC PLUS, FSC)</li>
-            <li>Be transparent about what&apos;s <em>not</em> sustainable in your product (maybe the lenses are standard polycarbonate — that&apos;s okay, just don&apos;t claim the whole product is eco)</li>
+            <li>Be transparent about what&apos;s <em>not</em> sustainable in your product (maybe the lenses are standard polycarbonate -- that&apos;s okay, just don&apos;t claim the whole product is eco)</li>
             <li>Share your factory&apos;s environmental certifications</li>
-            <li>Quantify impact when possible — &quot;each pair uses 15g of recycled ocean-bound plastic&quot;</li>
+            <li>Quantify impact when possible -- &quot;each pair uses 15g of recycled ocean-bound plastic&quot;</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Don&apos;t ❌</h3>
           <ul>
-            <li>Claim &quot;100% sustainable&quot; — nothing is</li>
+            <li>Claim &quot;100% sustainable&quot; -- nothing is</li>
             <li>Use vague terms like &quot;earth-friendly&quot; or &quot;green&quot; without specifics</li>
             <li>Claim &quot;biodegradable&quot; unless the product actually biodegrades in realistic conditions (most bio-acetate only biodegrades in industrial composting facilities)</li>
             <li>Use ocean imagery if your product doesn&apos;t actually use ocean-sourced materials</li>
@@ -346,7 +346,7 @@ export default function SustainableSunglassesPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Is bio-acetate as durable as regular acetate?</h3>
               <p className="text-gray-600">
-                Yes. From reputable suppliers, bio-acetate has identical mechanical properties — same 
+                Yes. From reputable suppliers, bio-acetate has identical mechanical properties -- same 
                 hardness, flexibility, polish quality, and lifespan. The difference is in raw material 
                 source, not finished product performance.
               </p>
@@ -388,15 +388,15 @@ export default function SustainableSunglassesPage() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/products/eco-friendly" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Eco-Friendly Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Recycled ocean plastic, bamboo, bio-acetate — sustainable materials with verified eco credentials.</p>
+                <p className="text-gray-600 text-sm">Recycled ocean plastic, bamboo, bio-acetate -- sustainable materials with verified eco credentials.</p>
               </Link>
               <Link href="/products/acetate" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Acetate Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Handcrafted premium frames — available in bio-acetate with 60% recycled content.</p>
+                <p className="text-gray-600 text-sm">Handcrafted premium frames -- available in bio-acetate with 60% recycled content.</p>
               </Link>
               <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Metal frames available in recycled aluminum — 95% less energy than virgin material.</p>
+                <p className="text-gray-600 text-sm">Metal frames available in recycled aluminum -- 95% less energy than virgin material.</p>
               </Link>
             </div>
           </div>
@@ -410,7 +410,7 @@ export default function SustainableSunglassesPage() {
               </Link>
               <Link href="/blog/sunglasses-design-trends-2026" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Sunglasses Design Trends for 2026</h3>
-                <p className="text-gray-600 text-sm">Sustainability is one of the biggest trends — see what else is hot.</p>
+                <p className="text-gray-600 text-sm">Sustainability is one of the biggest trends -- see what else is hot.</p>
               </Link>
             </div>
           </div>

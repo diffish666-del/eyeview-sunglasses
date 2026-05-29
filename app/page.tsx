@@ -46,7 +46,7 @@ const features = [
   {
     emoji: '🎨',
     title: 'Full Customization',
-    description: 'From frame design and lens color to logo engraving and custom packaging — we bring your unique sunglasses vision to life with complete OEM and ODM manufacturing capabilities.',
+    description: 'From frame design and lens color to logo engraving and custom packaging -- we bring your unique sunglasses vision to life with complete OEM and ODM manufacturing capabilities.',
   },
   {
     emoji: '💰',
@@ -66,7 +66,7 @@ const features = [
   {
     emoji: '📦',
     title: 'Low Minimum Order Quantity',
-    description: 'Start with as few as 50 pieces per style — perfect for new brands testing the market, boutique retailers, and promotional campaigns. No massive inventory commitments required.',
+    description: 'Start with as few as 50 pieces per style -- perfect for new brands testing the market, boutique retailers, and promotional campaigns. No massive inventory commitments required.',
   },
   {
     emoji: '🌍',
@@ -93,7 +93,7 @@ const products = [
 ];
 
 const steps = [
-  { step: '01', title: 'Inquiry & Consultation', description: 'Share your requirements — style, quantity, customization needs, and budget. Our team provides expert guidance to help you choose the right products for your market.' },
+  { step: '01', title: 'Inquiry & Consultation', description: 'Share your requirements -- style, quantity, customization needs, and budget. Our team provides expert guidance to help you choose the right products for your market.' },
   { step: '02', title: 'Design & Sampling', description: 'We create detailed designs based on your specifications. Receive physical samples within 5-7 business days for your review and approval before mass production begins.' },
   { step: '03', title: 'Approval & Production', description: 'Once you approve the samples, we begin full-scale production. Our factory capacity handles orders from 50 to 100,000+ pieces with consistent quality control.' },
   { step: '04', title: 'Quality Inspection', description: 'Every batch undergoes comprehensive 6-point quality inspection including UV protection testing, hinge durability, lens clarity, and frame alignment checks.' },
@@ -131,7 +131,7 @@ const faqs = [
   },
   {
     question: 'How do I get started with a wholesale sunglasses order?',
-    answer: 'Getting started is simple: 1) Contact us via email at jacky@eyeviewsunglasses.com or WhatsApp at +86-18850281211 with your requirements. 2) Our team will provide a detailed quote within 24 hours. 3) Review and approve samples. 4) Place your order and we handle the rest. We welcome both first-time buyers and established brands.',
+    answer: 'Getting started is simple: 1) Contact us via email at sales@eyeviewsunglasses.com or WhatsApp at +86-18850281211 with your requirements. 2) Our team will provide a detailed quote within 24 hours. 3) Review and approve samples. 4) Place your order and we handle the rest. We welcome both first-time buyers and established brands.',
   },
 ];
 
@@ -151,7 +151,7 @@ const howToJsonLd = {
       '@type': 'HowToStep',
       position: 1,
       name: 'Inquiry & Consultation',
-      text: 'Share your requirements — style, quantity, customization needs, and budget. Our team provides expert guidance to help you choose the right products for your market.',
+      text: 'Share your requirements -- style, quantity, customization needs, and budget. Our team provides expert guidance to help you choose the right products for your market.',
       url: 'https://eyeviewsunglasses.com/contact/',
     },
     {

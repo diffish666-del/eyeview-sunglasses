@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'UV400 vs Polarizado: Qual a Diferença e Você Precisa dos Dois?',
-  description: 'Um dono de fábrica de óculos explica a diferença real entre lentes UV400 e polarizadas — what each does, wholesale cost impact, and when your brand needs one, both, or neither.',
+  description: 'Um dono de fábrica de óculos explica a diferença real entre lentes UV400 e polarizadas -- what each does, wholesale cost impact, and when your brand needs one, both, or neither.',
   keywords: 'UV400 vs polarizado, proteção UV400, lentes polarizadas, proteção lentes óculos, UV vs polarizado diferença',
   alternates: {
     canonical: '/pt/blog/uv400-vs-polarizado',
@@ -28,7 +28,7 @@ export default function Uv400VsPolarizedPage() {
           "dateModified": "2026-05-03",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Um dono de fábrica explica UV400 vs lentes polarizadas — o que cada uma faz, impacto no custo atacado e quando sua marca precisa de uma ou ambas.",
+          "description": "Um dono de fábrica explica UV400 vs lentes polarizadas -- o que cada uma faz, impacto no custo atacado e quando sua marca precisa de uma ou ambas.",
           "inLanguage": "pt",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/pt/blog/uv400-vs-polarizado" }
         })}} />
@@ -41,22 +41,22 @@ export default function Uv400VsPolarizedPage() {
             {
               "@type": "Question",
               "name": "What is the difference between UV400 and polarized sunglasses?",
-              "acceptedAnswer": { "@type": "Answer", "text": "UV400 blocks harmful ultraviolet radiation up to 400 nanometers — it protects your eyes from sun damage. Polarized lenses reduce glare from reflective surfaces like water, roads, and snow — they improve visual comfort and clarity. UV400 is about health protection. Polarization is about visual performance. They solve completely different problems and are not interchangeable." }
+              "acceptedAnswer": { "@type": "Answer", "text": "UV400 blocks harmful ultraviolet radiation up to 400 nanometers -- it protects your eyes from sun damage. Polarized lenses reduce glare from reflective surfaces like water, roads, and snow -- they improve visual comfort and clarity. UV400 is about health protection. Polarization is about visual performance. They solve completely different problems and are not interchangeable." }
             },
             {
               "@type": "Question",
               "name": "Do polarized sunglasses have UV protection?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Not automatically. Polarization and UV protection are separate technologies. A polarized lens without UV coating will reduce glare beautifully but still let harmful UV rays through — which is actually dangerous because the darkened lens causes your pupils to dilate, letting in more UV. Any reputable manufacturer adds UV400 to polarized lenses, but always verify. We test every batch with a UV spectrometer." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Not automatically. Polarization and UV protection are separate technologies. A polarized lens without UV coating will reduce glare beautifully but still let harmful UV rays through -- which is actually dangerous because the darkened lens causes your pupils to dilate, letting in more UV. Any reputable manufacturer adds UV400 to polarized lenses, but always verify. We test every batch with a UV spectrometer." }
             },
             {
               "@type": "Question",
               "name": "How much more do polarized lenses cost than UV400?",
-              "acceptedAnswer": { "@type": "Answer", "text": "At factory wholesale: basic UV400 lenses cost $1.50-2 por par. Polarized TAC lenses run $3-5 por par. Polarized CR-39 (optical-grade) costs $5-8 por par. So polarized adds $1.50-6 to your per-unit cost depending on the lens material. For a brand retailing at $79+, that $3-5 upgrade to polarized TAC is a no-brainer — customers expect it." }
+              "acceptedAnswer": { "@type": "Answer", "text": "At factory wholesale: basic UV400 lenses cost $1.50-2 por par. Polarized TAC lenses run $3-5 por par. Polarized CR-39 (optical-grade) costs $5-8 por par. So polarized adds $1.50-6 to your per-unit cost depending on the lens material. For a brand retailing at $79+, that $3-5 upgrade to polarized TAC is a no-brainer -- customers expect it." }
             },
             {
               "@type": "Question",
               "name": "When should I recommend polarized vs UV400-only sunglasses?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Polarized is worth it for: driving, fishing, water sports, skiing, golf — any activity where glare is a problem. UV400-only is fine for: fashion/casual wear, indoor-outdoor use, customers who use screens frequently (polarization can interfere with LCD displays), and budget-conscious lines where you need to keep costs down. Every pair should have UV400 regardless." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Polarized is worth it for: driving, fishing, water sports, skiing, golf -- any activity where glare is a problem. UV400-only is fine for: fashion/casual wear, indoor-outdoor use, customers who use screens frequently (polarization can interfere with LCD displays), and budget-conscious lines where you need to keep costs down. Every pair should have UV400 regardless." }
             },
             {
               "@type": "Question",
@@ -117,9 +117,9 @@ export default function Uv400VsPolarizedPage() {
           </p>
           <p>
             Ele não está sozinho. Vejo essa confusão em cerca de 70% dos donos de marca de primeira viagem. E não é culpa 
-            deles — a indústria de óculos fez um péssimo trabalho explicando a diferença. A maioria das páginas de produto 
+            deles -- a indústria de óculos fez um péssimo trabalho explicando a diferença. A maioria das páginas de produto 
             joga os dois termos como se fossem chavores intercambiáveis. Não são. Entender o que 
-            cada um faz — e quanto custa — pode economizar milhares no seu pedido e evitar que você 
+            cada um faz -- e quanto custa -- pode economizar milhares no seu pedido e evitar que você 
             pague demais por recursos desnecessários ou pague de menos e lance um produto que 
             pode realmente prejudicar os olhos dos seus clientes.
           </p>
@@ -142,14 +142,14 @@ export default function Uv400VsPolarizedPage() {
           <p>
             A confusão existe porque a maioria dos óculos de qualidade tem ambas as funcionalidades, então os clientes experimentam 
             juntas e assumem que são uma coisa só. É como assumir que tração nas quatro rodas e airbags são a mesma 
-            coisa porque toda caminhonete tem os dois. Não são — um te mantém andando, o outro te mantém vivo.
+            coisa porque toda caminhonete tem os dois. Não são -- um te mantém andando, o outro te mantém vivo.
           </p>
 
           {/* UV400 Explained */}
           <h2 id="uv400-explained" className="text-3xl font-bold mt-16 mb-6">UV400: O que Realmente Faz</h2>
           <p>
             O sol emite radiação eletromagnética em um amplo espectro. A parte que nos preocupa 
-            no negócio de óculos é a radiação ultravioleta — comprimentos de onda entre 100 e 400 nanômetros. 
+            no negócio de óculos é a radiação ultravioleta -- comprimentos de onda entre 100 e 400 nanômetros. 
             A <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Organização Mundial da Saúde classifica a radiação UV</a> como 
             carcinógeno do Grupo 1, e seus olhos são uma das partes mais vulneráveis do corpo a ela.
           </p>
@@ -162,7 +162,7 @@ export default function Uv400VsPolarizedPage() {
             <li><strong>UVA (315-400nm):</strong> O sorrateiro. Penetra mais profundamente no olho, contribui para catarata e degeneração macular ao longo do tempo. Você não sente acontecendo, o que o torna mais perigoso.</li>
           </ul>
           <p>
-            Quando uma lente é classificada como &quot;UV400&quot;, significa que bloqueia radiação até 400 nanômetros — cobrindo 
+            Quando uma lente é classificada como &quot;UV400&quot;, significa que bloqueia radiação até 400 nanômetros -- cobrindo 
             todo o espectro UVA, UVB e UVC. Esse número &quot;400&quot; é o ponto de corte do comprimento de onda. Tudo abaixo de 400nm 
             é absorvido ou refletido pela lente em vez de passar para seus olhos.
           </p>
@@ -174,18 +174,18 @@ export default function Uv400VsPolarizedPage() {
           <p>
             <strong>Aditivos absorventes de UV:</strong> Compostos químicos misturados ao material da lente durante a fabricação. 
             Essas moléculas absorvem fótons UV e os convertem em calor inofensivo. Este é o método mais comum 
-            para lentes plásticas — a proteção está literalmente incorporada ao material e não se desgasta.
+            para lentes plásticas -- a proteção está literalmente incorporada ao material e não se desgasta.
           </p>
           <p>
             <strong>Revestimento UV:</strong> Uma camada fina aplicada à superfície da lente que reflete ou absorve UV. 
-            É mais barato, mas menos durável — o revestimento pode se desgastar com arranhões ao longo do tempo, reduzindo a proteção. 
+            É mais barato, mas menos durável -- o revestimento pode se desgastar com arranhões ao longo do tempo, reduzindo a proteção. 
             Usamos este método em linhas econômicas básicas, mas não em nada que leve nosso nome.
           </p>
           <p>
             Aqui está algo que confunde as pessoas: <strong>a escuridão da lente não tem nada a ver com proteção UV.</strong> 
             Uma lente completamente transparente pode bloquear 100% da radiação UV se tiver os aditivos certos. Uma lente 
             muito escura sem tratamento UV bloqueia zero UV. Na verdade, lentes escuras sem proteção UV são 
-            <em>piores</em> do que não usar óculos — a tonalidade escura faz suas pupilas dilatarem, deixando 
+            <em>piores</em> do que não usar óculos -- a tonalidade escura faz suas pupilas dilatarem, deixando 
             entrar mais UV do que você receberia com os olhos nus.
           </p>
 
@@ -193,11 +193,11 @@ export default function Uv400VsPolarizedPage() {
             <h3 className="font-bold text-red-900 mb-2">⚠️ Isso Não É Opcional</h3>
             <p className="text-red-800">
               Cada par de óculos de sol que você vende deve ter proteção UV400. Ponto final. Isso não é um recurso 
-              premium — é um requisito básico de segurança. A{' '}
+              premium -- é um requisito básico de segurança. A{' '}
               <a href="https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/sunglasses" target="_blank" rel="noopener" className="text-primary-600 hover:underline">FDA classifica óculos de sol como dispositivos médicos</a> e 
               exige que alegações de proteção UV sejam verdadeiras. Na UE, a marcação CE para óculos (EN ISO 12312-1) 
               determina limites específicos de transmissão UV. Vender óculos sem proteção UV adequada não é 
-              apenas irresponsável — pode ter seu produto apreendido na alfândega e expor você a processos.
+              apenas irresponsável -- pode ter seu produto apreendido na alfândega e expor você a processos.
             </p>
           </div>
 
@@ -215,16 +215,16 @@ export default function Uv400VsPolarizedPage() {
             A polarização resolve um problema completamente diferente: o ofuscamento.
           </p>
           <p>
-            Quando a luz do sol atinge uma superfície plana — água, estrada, capô de carro, neve, janela de prédio — a 
+            Quando a luz do sol atinge uma superfície plana -- água, estrada, capô de carro, neve, janela de prédio -- a 
             luz refletida se torna &quot;polarizada&quot;, ou seja, as ondas de luz se alinham horizontalmente. Isso cria 
             aquele ofuscamento branco cegante que você vê ao dirigir em direção ao sol baixo ou ao olhar para a água em um 
-            dia claro. Não é apenas irritante — é perigoso. O ofuscamento causa acidentes, dores de cabeça 
+            dia claro. Não é apenas irritante -- é perigoso. O ofuscamento causa acidentes, dores de cabeça 
             e fadiga ocular.
           </p>
           <p>
             Uma lente polarizada contém um filtro fino (embutido na lente ou sanduichado entre camadas) 
             com fendas verticais microscópicas. Essas fendas deixam passar a luz orientada verticalmente, mas bloqueiam 
-            a luz orientada horizontalmente — o ofuscamento. O efeito é dramático: coloque um par de óculos 
+            a luz orientada horizontalmente -- o ofuscamento. O efeito é dramático: coloque um par de óculos 
             polarizados perto da água e a superfície passa de um espelho cegante para transparente. Você pode 
             ver peixes, pedras, o fundo. É genuinamente impressionante na primeira vez que você experimenta.
           </p>
@@ -266,7 +266,7 @@ export default function Uv400VsPolarizedPage() {
           <p>
             Já vi donos de marca divulgar óculos polarizados como &quot;proteção máxima para os olhos&quot; sem mencionar 
             UV400. Isso é ao contrário. Uma lente polarizada sem proteção UV é como um carro com um 
-            ótimo sistema de som mas sem freios — torna a viagem mais agradável sem fazer nada 
+            ótimo sistema de som mas sem freios -- torna a viagem mais agradável sem fazer nada 
             sobre o que pode realmente te machucar.
           </p>
 
@@ -286,10 +286,10 @@ export default function Uv400VsPolarizedPage() {
                 <tr className="bg-white"><td className="px-6 py-4 font-medium">Finalidade Principal</td><td className="px-6 py-4">Bloquear radiação UV (saúde ocular)</td><td className="px-6 py-4">Reduzir ofuscamento (conforto visual)</td></tr>
                 <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">O que Bloqueia</td><td className="px-6 py-4">Raios UV invisíveis (100-400nm)</td><td className="px-6 py-4">Ondas de luz horizontais (ofuscamento)</td></tr>
                 <tr className="bg-white"><td className="px-6 py-4 font-medium">Benefício para Saúde</td><td className="px-6 py-4">Previne catarata, degeneração macular</td><td className="px-6 py-4">Reduz fadiga ocular, dores de cabeça</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Efeito Visual</td><td className="px-6 py-4">Nenhum visível (lentes transparentes podem ter UV400)</td><td className="px-6 py-4">Dramático — ofuscamento desaparece, cores se destacam</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Efeito Visual</td><td className="px-6 py-4">Nenhum visível (lentes transparentes podem ter UV400)</td><td className="px-6 py-4">Dramático -- ofuscamento desaparece, cores se destacam</td></tr>
                 <tr className="bg-white"><td className="px-6 py-4 font-medium">Custo de Atacado</td><td className="px-6 py-4">$1,50-2 por par</td><td className="px-6 py-4">$3-8 por par (depende do material)</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Obrigatório?</td><td className="px-6 py-4">Sim — padrão de segurança inegociável</td><td className="px-6 py-4">Não — recurso premium, não obrigatório</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Pode Existir Sem o Outro?</td><td className="px-6 py-4">Sim — a maioria dos óculos tem apenas UV400</td><td className="px-6 py-4">Tecnicamente sim, mas nunca deveria</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Obrigatório?</td><td className="px-6 py-4">Sim -- padrão de segurança inegociável</td><td className="px-6 py-4">Não -- recurso premium, não obrigatório</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Pode Existir Sem o Outro?</td><td className="px-6 py-4">Sim -- a maioria dos óculos tem apenas UV400</td><td className="px-6 py-4">Tecnicamente sim, mas nunca deveria</td></tr>
                 <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Melhor Para</td><td className="px-6 py-4">Cada par de óculos de sol</td><td className="px-6 py-4">Dirigir, esportes aquáticos, neve, ar livre</td></tr>
               </tbody>
             </table>
@@ -305,7 +305,7 @@ export default function Uv400VsPolarizedPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Lentes Apenas UV400</h3>
           <ul>
             <li><strong>AC básico (acrilato) com revestimento UV400:</strong> $1,50 por par. Este é o mínimo absoluto. Funciona para óculos com varejo abaixo de $25. O revestimento pode se degradar em 1-2 anos.</li>
-            <li><strong>Policarbonato padrão com UV400 incorporado:</strong> $1,80-2,00 por par. Melhor que revestido — a proteção UV está no próprio material, então nunca se desgasta. Bom para varejo de $25-50.</li>
+            <li><strong>Policarbonato padrão com UV400 incorporado:</strong> $1,80-2,00 por par. Melhor que revestido -- a proteção UV está no próprio material, então nunca se desgasta. Bom para varejo de $25-50.</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Lentes Polarizadas</h3>
@@ -345,7 +345,7 @@ export default function Uv400VsPolarizedPage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">CR-39</h3>
           <p>
-            Batizada com a fórmula Columbia Resin #39 — desenvolvida durante a Segunda Guerra Mundial para periscópios 
+            Batizada com a fórmula Columbia Resin #39 -- desenvolvida durante a Segunda Guerra Mundial para periscópios 
             de tanques resistentes a combustível. Hoje é o padrão para lentes ópticas no mundo todo. CR-39 tem clareza 
             superior (número Abbe de 58 vs 43 para policarbonato), excelente resistência a arranhões e 
             aceita revestimentos lindamente. É mais pesada que TAC e custa mais, mas a diferença de qualidade 
@@ -356,14 +356,14 @@ export default function Uv400VsPolarizedPage() {
           <p>
             O campeão de impacto. Policarbonato é usado em vidro à prova de balas, óculos de segurança e viseiras 
             de capacetes de astronautas. É virtualmente inquebravel, o que o torna obrigatório para óculos esportivos e de segurança 
-            em alguns mercados. A contrapartida é menor clareza óptica — algumas pessoas notam uma leve nevoa 
+            em alguns mercados. A contrapartida é menor clareza óptica -- algumas pessoas notam uma leve nevoa 
             comparada ao CR-39. Ótimo para armações esportivas, não ideal para moda.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Vidro</h3>
           <p>
             Clássico, mas ainda a melhor óptica que o dinheiro pode comprar. Zero distorção, incrível resistência 
-            a arranhões e um peso que grita premium. A desvantagem é óbvia — deixe cair no concreto 
+            a arranhões e um peso que grita premium. A desvantagem é óbvia -- deixe cair no concreto 
             e você estará catando estilhaços. Fazemos lentes de vidro para cerca de 5% dos nossos pedidos, 
             principalmente marcas de pesca de alto padrão onde a perfeição óptica importa mais que o peso.
           </p>
@@ -376,8 +376,8 @@ export default function Uv400VsPolarizedPage() {
           <p>
             <strong>Abaixo de $25 no varejo:</strong> Apenas UV400. Nesse ponto de preço, cada dólar de custo importa. 
             Use boas lentes de policarbonato com UV400 incorporado. Seus clientes estão comprando por preço e estilo, 
-            não por tecnologia de lentes. Garanta que a proteção UV seja sólida — essa é sua obrigação legal e moral 
-            — e siga em frente.
+            não por tecnologia de lentes. Garanta que a proteção UV seja sólida -- essa é sua obrigação legal e moral 
+            -- e siga em frente.
           </p>
           <p>
             <strong>$25-59 no varejo:</strong> Esta é a zona de decisão. Se sua marca mira clientes outdoor ou ativos, 
@@ -389,7 +389,7 @@ export default function Uv400VsPolarizedPage() {
           <p>
             <strong>$60+ no varejo:</strong> Ambos. Sem questão. Nesse ponto de preço, os clientes esperam polarizado. 
             Listar um par de óculos de $99 sem polarização é como vender um carro de $50.000 sem 
-            vidros elétricos — tecnicamente ok, na prática um empecilho. Use CR-39 polarizado para a melhor 
+            vidros elétricos -- tecnicamente ok, na prática um empecilho. Use CR-39 polarizado para a melhor 
             relação qualidade-custo.
           </p>
 
@@ -408,7 +408,7 @@ export default function Uv400VsPolarizedPage() {
             polarizadas podem ser irritantes. Alguns clientes acham que os óculos estão com defeito e devolvem.
           </p>
           <p>
-            Lidamos com isso ajustando o eixo de polarização — alinhando para que as orientações comuns do celular 
+            Lidamos com isso ajustando o eixo de polarização -- alinhando para que as orientações comuns do celular 
             ainda funcionem. Mas não é perfeito, e você deve mencionar isso no FAQ do seu produto para antecipar 
             devoluções.
           </p>
@@ -430,7 +430,7 @@ export default function Uv400VsPolarizedPage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">4. Linhas de Moda com Tonalidades Claras</h3>
           <p>
-            Lentes fashion de tonalidade clara — pense em rosé, amarelo, azul claro — não polarizam bem visualmente. 
+            Lentes fashion de tonalidade clara -- pense em rosé, amarelo, azul claro -- não polarizam bem visualmente. 
             O efeito de polarização é menos perceptível com tonalidades claras, então você está pagando por um recurso 
             que os clientes não vão valorizar. Guarde o upgrade polarizado para suas lentes esportivas e lifestyle mais escuras.
           </p>
@@ -450,14 +450,14 @@ export default function Uv400VsPolarizedPage() {
           <p>
             <strong>A verificação rápida:</strong> Muitas óticas têm equipamento de teste UV e testarão 
             um par de graça ou por uma pequena taxa. Algumas lanternas UV com papel fluorescente podem dar 
-            um resultado aproximado de aprovado/reprovado — ilumine a luz UV através da lente sobre o papel. Se o papel brilhar, 
+            um resultado aproximado de aprovado/reprovado -- ilumine a luz UV através da lente sobre o papel. Se o papel brilhar, 
             UV está passando. Se não, a lente está bloqueando.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Testando a Polarização</h3>
           <p>
             <strong>O teste dos 90 graus:</strong> Segure duas lentes polarizadas a 90 graus uma da outra e 
-            olhe através de ambas. Se forem genuinamente polarizadas, você deve ver um escurecimento quase total — 
+            olhe através de ambas. Se forem genuinamente polarizadas, você deve ver um escurecimento quase total -- 
             quase nenhuma luz passa. Se a luz passa facilmente, pelo menos uma lente não é polarizada.
           </p>
           <p>
@@ -493,7 +493,7 @@ export default function Uv400VsPolarizedPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Nível Inicial (2-3 estilos, $19-39 no varejo)</h3>
           <ul>
             <li>Lentes de policarbonato com UV400 incorporado</li>
-            <li>Pule a polarização — mantenha os custos baixos</li>
+            <li>Pule a polarização -- mantenha os custos baixos</li>
             <li>Foque em cores de tonalidade da moda (marrom degradê, cinza degradê, azul espelhado)</li>
             <li>Custo da lente: $1,50-2,00 por par</li>
             <li>Seu diferencial de venda: estilo + proteção UV a um preço acessível</li>
@@ -504,7 +504,7 @@ export default function Uv400VsPolarizedPage() {
             <li>Lentes TAC polarizadas com UV400</li>
             <li>Ofereça 2-3 opções de tonalidade por modelo (cinza, marrom, verde)</li>
             <li>Custo da lente: $3-5 por par</li>
-            <li>Seu diferencial de venda: polarização real a um preço justo — o ponto ideal para a maioria das marcas DTC</li>
+            <li>Seu diferencial de venda: polarização real a um preço justo -- o ponto ideal para a maioria das marcas DTC</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Premium (2-3 estilos, $99-179 no varejo)</h3>
@@ -527,8 +527,8 @@ export default function Uv400VsPolarizedPage() {
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">Quer uma Recomendação Personalizada de Lentes?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Diga-me seu preço de varejo alvo e tipo de cliente. Eu especifico a lente exata — 
-              material, polarização, revestimentos, tonalidade — que oferece o melhor produto no seu ponto de 
+              Diga-me seu preço de varejo alvo e tipo de cliente. Eu especifico a lente exata -- 
+              material, polarização, revestimentos, tonalidade -- que oferece o melhor produto no seu ponto de 
               preço. Leva cerca de 5 minutos. Faço isso todos os dias.
             </p>
             <Link href="/pt/contato" className="btn-primary">
@@ -543,8 +543,8 @@ export default function Uv400VsPolarizedPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Qual é a diferença entre óculos UV400 e polarizados?</h3>
               <p className="text-gray-600">
-                UV400 bloqueia radiação ultravioleta invisível — é uma funcionalidade de saúde que previne danos oculares. 
-                Polarizado reduz o ofuscamento visível de superfícies reflexivas — é uma funcionalidade de conforto que melhora 
+                UV400 bloqueia radiação ultravioleta invisível -- é uma funcionalidade de saúde que previne danos oculares. 
+                Polarizado reduz o ofuscamento visível de superfícies reflexivas -- é uma funcionalidade de conforto que melhora 
                 a clareza. Resolvem problemas diferentes. UV400 é obrigatório para segurança. Polarização é opcional, 
                 mas valiosa. Todo par deve ter UV400; polarização depende do seu ponto de preço e caso de uso.
               </p>
@@ -553,7 +553,7 @@ export default function Uv400VsPolarizedPage() {
               <h3 className="font-bold text-lg mb-2">Óculos polarizados têm proteção UV?</h3>
               <p className="text-gray-600">
                 Não automaticamente. Polarização e proteção UV são tecnologias separadas aplicadas independentemente. 
-                Uma lente polarizada sem UV400 reduzirá o ofuscamento, mas ainda deixará UV prejudicial passar — o que é 
+                Uma lente polarizada sem UV400 reduzirá o ofuscamento, mas ainda deixará UV prejudicial passar -- o que é 
                 na verdade perigoso porque a lente escura faz suas pupilas dilatarem, admitindo mais UV. 
                 Qualquer fabricante respeitável adiciona UV400 às lentes polarizadas, mas sempre peça relatórios de teste para verificar.
               </p>
@@ -570,7 +570,7 @@ export default function Uv400VsPolarizedPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Quando devo recomendar óculos polarizados vs apenas UV400?</h3>
               <p className="text-gray-600">
-                Polarizado brilha para dirigir, pescar, esportes aquáticos, esquiar, golfe — qualquer atividade onde 
+                Polarizado brilha para dirigir, pescar, esportes aquáticos, esquiar, golfe -- qualquer atividade onde 
                 o ofuscamento de superfície é um problema. Apenas UV400 funciona para moda e uso casual, usuários frequentes de telas 
                 (polarização pode interferir com LCDs), pilotos e linhas de produto focadas em preço. A regra 
                 geral: se seu cliente usará ao ar livre perto de água ou estradas, vá de polarizado.
@@ -598,7 +598,7 @@ export default function Uv400VsPolarizedPage() {
               </Link>
               <Link href="/pt/blog/guia-revestimentos-oculos-sol" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Guia de Revestimentos para Óculos: Espelhado, AR, Hidrofóbico e Mais</h3>
-                <p className="text-gray-600 text-sm">Cada tipo de revestimento explicado — o que faz, quanto custa e quais combinam entre si.</p>
+                <p className="text-gray-600 text-sm">Cada tipo de revestimento explicado -- o que faz, quanto custa e quais combinam entre si.</p>
               </Link>
             </div>
           </div>

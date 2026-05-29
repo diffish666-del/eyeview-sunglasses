@@ -36,7 +36,7 @@ export default function CriarMarcaOculosSolPage() {
           "dateModified": "2026-05-02",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Guia completo passo a passo para criar sua própria marca de óculos de sol — da pesquisa de mercado à primeira venda.",
+          "description": "Guia completo passo a passo para criar sua própria marca de óculos de sol -- da pesquisa de mercado à primeira venda.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/pt/blog/criar-marca-oculos-sol" },
           "inLanguage": "pt"
         })}} />
@@ -105,7 +105,7 @@ export default function CriarMarcaOculosSolPage() {
 
           <h2 id="passo-2" className="text-2xl font-bold mt-12 mb-4">Passo 2: Defina Sua Marca</h2>
           <p>
-            Sua marca é mais do que um logo — é sua história, seus valores e sua promessa aos clientes.
+            Sua marca é mais do que um logo -- é sua história, seus valores e sua promessa aos clientes.
           </p>
 
           <h3 className="text-xl font-semibold mt-6 mb-3">Elementos da Marca:</h3>
@@ -283,5 +283,6 @@ export default function CriarMarcaOculosSolPage() {
         </section>
       </div>
     </article>
+    </>
   )
 }

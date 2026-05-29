@@ -54,7 +54,7 @@ export default function CertificazioneFdaCePage() {
           </h1>
           <p className="text-xl text-gray-600">
             Nessuno lancia un brand di occhiali da sole perché è entusiasta della conformità normativa.
-            Ma salta questo passaggio e i tuoi occhiali potrebbero essere sequestrati alla dogana — o peggio. Ecco
+            Ma salta questo passaggio e i tuoi occhiali potrebbero essere sequestrati alla dogana -- o peggio. Ecco
             tutto quello che devi sapere, semplificato.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -84,7 +84,7 @@ export default function CertificazioneFdaCePage() {
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-600 mb-8">
             Esporto occhiali da sole da 20 anni. In quel periodo, ho visto tre clienti perdere intere spedizioni per
-            sequestri doganali — per un totale di oltre $120.000 in prodotto distrutto. Ogni singolo caso era prevenibile.
+            sequestri doganali -- per un totale di oltre $120.000 in prodotto distrutto. Ogni singolo caso era prevenibile.
             I test sarebbero costati meno di $500.
           </p>
 
@@ -103,7 +103,7 @@ export default function CertificazioneFdaCePage() {
           <h2 id="fda-usa" className="text-3xl font-bold mt-16 mb-6">Requisiti FDA: Vendere Occhiali negli USA</h2>
           <p>
             Ecco qualcosa che sorprende la maggior parte delle persone: <strong>la FDA classifica gli occhiali da sole come
-            dispositivi medici</strong>. Nello specifico, dispositivi medici di Classe I sotto 21 CFR 886.5850. Niente panico —
+            dispositivi medici</strong>. Nello specifico, dispositivi medici di Classe I sotto 21 CFR 886.5850. Niente panico --
             la Classe I è la categoria a rischio più basso, e i requisiti sono semplici.
           </p>
 
@@ -167,7 +167,7 @@ export default function CertificazioneFdaCePage() {
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 Importante: Autocertificazione</h3>
             <p className="text-amber-800">
-              La marcatura CE per gli occhiali da sole è <strong>autocertificata</strong> — non serve un organismo notificato per approvare il tuo prodotto. Tu (o la tua fabbrica) conducete i test, compilate il fascicolo tecnico e firmate la Dichiarazione di Conformità. Questo la rende accessibile, ma significa anche che sei legalmente responsabile dell&apos;accuratezza delle tue dichiarazioni. Non falsificarla.
+              La marcatura CE per gli occhiali da sole è <strong>autocertificata</strong> -- non serve un organismo notificato per approvare il tuo prodotto. Tu (o la tua fabbrica) conducete i test, compilate il fascicolo tecnico e firmate la Dichiarazione di Conformità. Questo la rende accessibile, ma significa anche che sei legalmente responsabile dell&apos;accuratezza delle tue dichiarazioni. Non falsificarla.
             </p>
           </div>
 
@@ -175,7 +175,7 @@ export default function CertificazioneFdaCePage() {
           <p>
             La protezione UV è il requisito di conformità più importante per gli occhiali da sole. Le lenti che
             non bloccano adeguatamente la radiazione UV possono in realtà essere <em>più pericolose</em> del non indossare
-            occhiali — la tinta scura causa la dilatazione delle pupille, lasciando entrare più UV se la lente non lo blocca adeguatamente.
+            occhiali -- la tinta scura causa la dilatazione delle pupille, lasciando entrare più UV se la lente non lo blocca adeguatamente.
           </p>
           <p>
             <strong>UV400 significa che la lente blocca il 99-100% della radiazione UV fino a 400 nanometri</strong>,
@@ -206,11 +206,11 @@ export default function CertificazioneFdaCePage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">Solo trasmittanza UV400</td><td className="px-6 py-4">$100–$300</td><td className="px-6 py-4">3-5 giorni</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">EN ISO 12312-1 completo (CE)</td><td className="px-6 py-4">$300–$600</td><td className="px-6 py-4">5-10 giorni</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">ANSI Z80.3 completo</td><td className="px-6 py-4">$300–$500</td><td className="px-6 py-4">5-10 giorni</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Australia)</td><td className="px-6 py-4">$400–$800</td><td className="px-6 py-4">7-14 giorni</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Test drop ball FDA</td><td className="px-6 py-4">$50–$150</td><td className="px-6 py-4">1-3 giorni</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Solo trasmittanza UV400</td><td className="px-6 py-4">$100-$300</td><td className="px-6 py-4">3-5 giorni</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">EN ISO 12312-1 completo (CE)</td><td className="px-6 py-4">$300-$600</td><td className="px-6 py-4">5-10 giorni</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">ANSI Z80.3 completo</td><td className="px-6 py-4">$300-$500</td><td className="px-6 py-4">5-10 giorni</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Australia)</td><td className="px-6 py-4">$400-$800</td><td className="px-6 py-4">7-14 giorni</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Test drop ball FDA</td><td className="px-6 py-4">$50-$150</td><td className="px-6 py-4">1-3 giorni</td></tr>
               </tbody>
             </table>
           </div>
@@ -240,7 +240,7 @@ export default function CertificazioneFdaCePage() {
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Gestiamo la conformità FDA, CE e UV per ogni ordine che produciamo. Il nostro team può guidarti
               attraverso i requisiti per i tuoi mercati specifici e fornire tutta la documentazione necessaria.
-              Nessun costo extra per la conformità standard — fa parte del fare le cose per bene.
+              Nessun costo extra per la conformità standard -- fa parte del fare le cose per bene.
             </p>
             <Link href="/it/contatto" className="btn-primary">
               Chiedi a Jacky sulla Conformità
@@ -251,7 +251,7 @@ export default function CertificazioneFdaCePage() {
           <div className="space-y-6">
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Gli occhiali da sole hanno bisogno dell&apos;approvazione FDA?</h3>
-              <p className="text-gray-600">Non &quot;approvazione&quot; — ma conformità FDA, sì. Sono dispositivi medici di Classe I. Produttori/importatori devono registrarsi e le lenti devono superare i test di resistenza agli urti.</p>
+              <p className="text-gray-600">Non &quot;approvazione&quot; -- ma conformità FDA, sì. Sono dispositivi medici di Classe I. Produttori/importatori devono registrarsi e le lenti devono superare i test di resistenza agli urti.</p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Cos&apos;è la marcatura CE per gli occhiali da sole?</h3>
@@ -268,7 +268,7 @@ export default function CertificazioneFdaCePage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/it/blog/controllo-qualita-occhiali" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Controllo Qualità Occhiali da Sole: Checklist di Ispezione</h3>
-                <p className="text-gray-600 text-sm">Cosa controllare prima di approvare un ciclo di produzione — dalla chiarezza delle lenti alla tensione delle cerniere.</p>
+                <p className="text-gray-600 text-sm">Cosa controllare prima di approvare un ciclo di produzione -- dalla chiarezza delle lenti alla tensione delle cerniere.</p>
               </Link>
               <Link href="/it/blog/guida-importazione-occhiali" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Come Importare Occhiali da Sole dalla Cina</h3>

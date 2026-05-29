@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Melhores Óculos de Sol para Cada Formato de Rosto: Guia Completo',
-  description: 'Encontre os óculos de sol perfeitos para seu formato de rosto — round, oval, square, heart, oblong. A factory owner explains which frames flatter each face shape with real examples and buying tips.',
+  description: 'Encontre os óculos de sol perfeitos para seu formato de rosto -- round, oval, square, heart, oblong. A factory owner explains which frames flatter each face shape with real examples and buying tips.',
   keywords: 'óculos formato rosto, melhores óculos rosto redondo, óculos rosto oval, óculos rosto quadrado, guia compra óculos',
   alternates: {
     canonical: '/pt/blog/guia-formato-rosto-oculos',
@@ -39,12 +39,12 @@ export default function SunglassesFaceShapeGuidePage() {
             {
               "@type": "Question",
               "name": "What sunglasses look best on a round face?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Angular and geometric frames work best for round faces — square, rectangular, wayfarers, and cat-eye styles add definition and contrast to soft facial curves. Avoid perfectly round frames which echo the face shape. Look for frames that are slightly wider than your face and have strong angles at the corners. Dark colors and thicker frames create more contrast and definition." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Angular and geometric frames work best for round faces -- square, rectangular, wayfarers, and cat-eye styles add definition and contrast to soft facial curves. Avoid perfectly round frames which echo the face shape. Look for frames that are slightly wider than your face and have strong angles at the corners. Dark colors and thicker frames create more contrast and definition." }
             },
             {
               "@type": "Question",
               "name": "What sunglasses suit an oval face?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Oval faces are the most versatile — almost any frame shape works well. The key is choosing frames that are as wide as (or slightly wider than) the broadest part of your face. Aviators, wayfarers, oversized squares, cat-eyes, and round frames all work. Avoid frames that are too narrow or too oversized relative to your face proportions." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Oval faces are the most versatile -- almost any frame shape works well. The key is choosing frames that are as wide as (or slightly wider than) the broadest part of your face. Aviators, wayfarers, oversized squares, cat-eyes, and round frames all work. Avoid frames that are too narrow or too oversized relative to your face proportions." }
             },
             {
               "@type": "Question",
@@ -54,12 +54,12 @@ export default function SunglassesFaceShapeGuidePage() {
             {
               "@type": "Question",
               "name": "How do I determine my face shape for sunglasses?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Measure or observe three things: forehead width, cheekbone width, and jawline width, plus face length. Round: equal width and length, soft curves. Oval: face length greater than width, gentle curves. Square: equal width and length, strong jaw. Heart: wider forehead, narrow chin. Oblong: face notably longer than wide. The easiest method: pull your hair back, look in a mirror, and trace your face outline — the shape will be apparent." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Measure or observe three things: forehead width, cheekbone width, and jawline width, plus face length. Round: equal width and length, soft curves. Oval: face length greater than width, gentle curves. Square: equal width and length, strong jaw. Heart: wider forehead, narrow chin. Oblong: face notably longer than wide. The easiest method: pull your hair back, look in a mirror, and trace your face outline -- the shape will be apparent." }
             },
             {
               "@type": "Question",
               "name": "Do sunglasses size matter for face shape?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Frame width should match your face width — the frame edges should align roughly with your temples. Lens height matters too: taller lenses suit longer faces, while shorter lenses work better for petite faces. The bridge width should match your nose width for comfortable fit. Most manufacturers list frame width (total), lens width, bridge width, and temple length in millimeters." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Frame width should match your face width -- the frame edges should align roughly with your temples. Lens height matters too: taller lenses suit longer faces, while shorter lenses work better for petite faces. The bridge width should match your nose width for comfortable fit. Most manufacturers list frame width (total), lens width, bridge width, and temple length in millimeters." }
             }
           ]
         })}} />
@@ -76,7 +76,7 @@ export default function SunglassesFaceShapeGuidePage() {
           </h1>
           <p className="text-xl text-gray-600">
             Após 20 anos assistindo pessoas experimentarem óculos de sol, posso dizer em três segundos quais 
-            formatos funcionarão para o rosto de alguém. Veja como descobrir por conta própria — 
+            formatos funcionarão para o rosto de alguém. Veja como descobrir por conta própria -- 
             mais o conhecimento privilegiado pelo qual oculistas cobram $50.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -163,7 +163,7 @@ export default function SunglassesFaceShapeGuidePage() {
             <li><strong>Armações retangulares:</strong> Alongam o rosto e adicionam estrutura. Especialmente boas para rostos redondos mais largos.</li>
             <li><strong>Wayfarers:</strong> O formato levemente trapezoidal adiciona ângulos sem ser muito duro. O estilo mais universalmente favorecedor para rostos redondos.</li>
             <li><strong>Cat-eye:</strong> A curva ascendente nos cantos levanta o rosto e cria ângulos visuais. Ótimo para mulheres com rosto redondo.</li>
-            <li><strong>Armações geométricas:</strong> Hexagonais, octogonais — qualquer formato angular funciona bem.</li>
+            <li><strong>Armações geométricas:</strong> Hexagonais, octogonais -- qualquer formato angular funciona bem.</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Evitar ❌</h3>
@@ -176,13 +176,13 @@ export default function SunglassesFaceShapeGuidePage() {
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">Dica Profissional para Rostos Redondos</h3>
             <p className="text-blue-800">
-              Procure armações com uma <strong>linha de sobrancelha forte</strong> — a parte superior da armação deve ficar na linha ou levemente acima da sobrancelha. Isso cria uma &quot;prateleira&quot; visual que adiciona estrutura. Armações mais escuras em preto ou tartaruga escuro criam o contraste mais forte contra curvas faciais suaves.
+              Procure armações com uma <strong>linha de sobrancelha forte</strong> -- a parte superior da armação deve ficar na linha ou levemente acima da sobrancelha. Isso cria uma &quot;prateleira&quot; visual que adiciona estrutura. Armações mais escuras em preto ou tartaruga escuro criam o contraste mais forte contra curvas faciais suaves.
             </p>
           </div>
 
           <h2 id="oval-face" className="text-3xl font-bold mt-16 mb-6">Rosto Oval: Sortudo Você</h2>
           <p>
-            Rostos ovais são mais longos do que largos, com proporções equilibradas e traços suavemente curvados. Este é considerado o formato de rosto mais versátil para óculos de sol — quase tudo funciona.
+            Rostos ovais são mais longos do que largos, com proporções equilibradas e traços suavemente curvados. Este é considerado o formato de rosto mais versátil para óculos de sol -- quase tudo funciona.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Melhores Formatos de Armação ✅</h3>
@@ -335,13 +335,13 @@ export default function SunglassesFaceShapeGuidePage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Como determinar meu formato de rosto?</h3>
               <p className="text-gray-600">
-                Prenda o cabelo para trás, olhe no espelho e compare seu contorno com os cinco formatos básicos: redondo, oval, quadrado, coração, oblongo. A maioria das pessoas é uma mistura — escolha o mais próximo e use as recomendações como guias, não regras.
+                Prenda o cabelo para trás, olhe no espelho e compare seu contorno com os cinco formatos básicos: redondo, oval, quadrado, coração, oblongo. A maioria das pessoas é uma mistura -- escolha o mais próximo e use as recomendações como guias, não regras.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">O tamanho dos óculos importa para o formato do rosto?</h3>
               <p className="text-gray-600">
-                Com certeza. A largura da armação deve corresponder à largura do seu rosto nas têmporas. A altura da lente deve ser adequada ao comprimento do seu rosto. A largura da ponte deve corresponder ao seu nariz. A maioria das marcas lista as medidas em milímetros — use-as para encontrar o encaixe certo.
+                Com certeza. A largura da armação deve corresponder à largura do seu rosto nas têmporas. A altura da lente deve ser adequada ao comprimento do seu rosto. A largura da ponte deve corresponder ao seu nariz. A maioria das marcas lista as medidas em milímetros -- use-as para encontrar o encaixe certo.
               </p>
             </div>
           </div>
@@ -363,7 +363,7 @@ export default function SunglassesFaceShapeGuidePage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/pt/blog/tendencias-design-oculos-2026" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Principais Tendências de Design de Óculos para 2026</h3>
-                <p className="text-gray-600 text-sm">Quais formatos e estilos estão em tendência — com base em dados reais de pedidos da fábrica.</p>
+                <p className="text-gray-600 text-sm">Quais formatos e estilos estão em tendência -- com base em dados reais de pedidos da fábrica.</p>
               </Link>
               <Link href="/pt/blog/comparacao-materiais-armacoes" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">TR90 vs Acetato vs Metal: Guia de Materiais de Armação</h3>

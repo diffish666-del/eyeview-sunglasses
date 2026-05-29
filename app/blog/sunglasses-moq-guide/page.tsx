@@ -21,7 +21,7 @@ export default function SunglassesMoqGuidePage() {
           "dateModified": "2026-05-03",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "A factory owner breaks down sunglasses MOQ for wholesale orders — ODM, OEM, and custom mold minimums with a practical scaling strategy for new brands.",
+          "description": "A factory owner breaks down sunglasses MOQ for wholesale orders -- ODM, OEM, and custom mold minimums with a practical scaling strategy for new brands.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/sunglasses-moq-guide" }
         })}} />
 
@@ -38,22 +38,22 @@ export default function SunglassesMoqGuidePage() {
             {
               "@type": "Question",
               "name": "Can I order less than 100 pairs of sunglasses from a factory?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Some factories do offer MOQs below 100 for ODM orders — we start at 50 pieces for first-time clients. However, be aware that very low quantities mean higher per-unit costs, sometimes 30-50% more than ordering 200+ pieces. If a factory advertises 'no MOQ,' they're likely a trading company reselling from stock, not an actual manufacturer." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Some factories do offer MOQs below 100 for ODM orders -- we start at 50 pieces for first-time clients. However, be aware that very low quantities mean higher per-unit costs, sometimes 30-50% more than ordering 200+ pieces. If a factory advertises 'no MOQ,' they're likely a trading company reselling from stock, not an actual manufacturer." }
             },
             {
               "@type": "Question",
               "name": "Why do sunglasses factories have minimum order quantities?",
-              "acceptedAnswer": { "@type": "Answer", "text": "MOQs exist because of production economics. Setting up a production line — calibrating machines, mixing specific colors, configuring lens cutting equipment — takes time and labor whether you're making 10 pairs or 10,000. Below a certain quantity, the setup costs per unit make the order unprofitable for the factory. For OEM orders, there's also the mold investment ($500-3,000) that needs to be spread across enough units to make sense." }
+              "acceptedAnswer": { "@type": "Answer", "text": "MOQs exist because of production economics. Setting up a production line -- calibrating machines, mixing specific colors, configuring lens cutting equipment -- takes time and labor whether you're making 10 pairs or 10,000. Below a certain quantity, the setup costs per unit make the order unprofitable for the factory. For OEM orders, there's also the mold investment ($500-3,000) that needs to be spread across enough units to make sense." }
             },
             {
               "@type": "Question",
               "name": "Should I start with ODM or OEM for my first sunglasses order?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Start with ODM. Every time. Unless you have deep pockets and a proven audience, ODM lets you test the market with lower risk — smaller quantities, no mold fees, faster turnaround. Use your first 2-3 ODM orders to learn what your customers actually buy, then invest in custom OEM designs for your proven bestsellers. About 40% of our long-term OEM clients started with ODM first." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Start with ODM. Every time. Unless you have deep pockets and a proven audience, ODM lets you test the market with lower risk -- smaller quantities, no mold fees, faster turnaround. Use your first 2-3 ODM orders to learn what your customers actually buy, then invest in custom OEM designs for your proven bestsellers. About 40% of our long-term OEM clients started with ODM first." }
             },
             {
               "@type": "Question",
               "name": "How much inventory should a new sunglasses brand keep in stock?",
-              "acceptedAnswer": { "@type": "Answer", "text": "For your first order, keep it lean — 3-5 styles, 50-100 pieces each. That's enough to test the market without drowning in unsold inventory. Once you know your bestsellers (usually within 60-90 days of selling), reorder those in larger quantities (200-500 pieces) and drop the styles that didn't move. The goal is to turn inventory fast, not to have a warehouse full of sunglasses collecting dust." }
+              "acceptedAnswer": { "@type": "Answer", "text": "For your first order, keep it lean -- 3-5 styles, 50-100 pieces each. That's enough to test the market without drowning in unsold inventory. Once you know your bestsellers (usually within 60-90 days of selling), reorder those in larger quantities (200-500 pieces) and drop the styles that didn't move. The goal is to turn inventory fast, not to have a warehouse full of sunglasses collecting dust." }
             }
           ]
         })}} />
@@ -102,19 +102,19 @@ export default function SunglassesMoqGuidePage() {
         {/* Article Content */}
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-600 mb-8">
-            Two weeks ago, a woman from Toronto emailed me. She&apos;d spent six months designing her brand — 
+            Two weeks ago, a woman from Toronto emailed me. She&apos;d spent six months designing her brand -- 
             logo, website, Instagram content, the works. Then she started calling factories and hit a wall: 
             &quot;They want me to order 1,000 pairs per style. I don&apos;t even know if anyone will buy these yet.&quot;
           </p>
           <p>
             I hear some version of this story every single week. And it breaks my heart because the problem 
             isn&apos;t that she wasn&apos;t ready to start a brand. The problem is that nobody explained how sunglasses 
-            MOQ wholesale actually works — what the numbers mean, why they exist, and how to use them 
+            MOQ wholesale actually works -- what the numbers mean, why they exist, and how to use them 
             strategically instead of just accepting whatever a factory throws at you.
           </p>
           <p>
             So here it is. Everything I know about minimum order quantities after 20 years of running a 
-            sunglasses factory in Shenzhen. No fluff, no sales pitch — just the numbers and the thinking 
+            sunglasses factory in Shenzhen. No fluff, no sales pitch -- just the numbers and the thinking 
             behind them.
           </p>
 
@@ -131,7 +131,7 @@ export default function SunglassesMoqGuidePage() {
           </p>
           <ol>
             <li>We pull the mold and mount it on the injection machine. That takes a technician 2-3 hours.</li>
-            <li>We calibrate the machine for the specific acetate or TR90 material — temperature, pressure, 
+            <li>We calibrate the machine for the specific acetate or TR90 material -- temperature, pressure, 
               cycle time. Another hour.</li>
             <li>We mix the exact color. For matte black, that&apos;s straightforward. For a custom tortoise shell 
               pattern? Half a day.</li>
@@ -142,7 +142,7 @@ export default function SunglassesMoqGuidePage() {
           <p>
             All of that happens whether you order 50 pairs or 5,000. The setup cost is roughly the same. 
             At 5,000 pairs, that setup cost gets spread so thin you barely notice it. At 20 pairs, it 
-            doubles your unit price. That&apos;s why MOQs exist — they&apos;re the point where the math starts 
+            doubles your unit price. That&apos;s why MOQs exist -- they&apos;re the point where the math starts 
             making sense for both of us.
           </p>
 
@@ -150,7 +150,7 @@ export default function SunglassesMoqGuidePage() {
             <h3 className="font-bold text-blue-900 mb-2">The Factory Floor Reality</h3>
             <p className="text-blue-800">
               Our production line can output about 800 pairs per day at full speed. When I stop that line 
-              to set up a 30-piece order, I&apos;m not just spending time on your order — I&apos;m losing 
+              to set up a 30-piece order, I&apos;m not just spending time on your order -- I&apos;m losing 
               production capacity for the 500-pair order waiting behind you. MOQ isn&apos;t about greed. 
               It&apos;s about keeping a factory running efficiently so everyone&apos;s orders ship on time.
             </p>
@@ -166,7 +166,7 @@ export default function SunglassesMoqGuidePage() {
             But here&apos;s the MOQ picture:
           </p>
 
-          <h3 className="text-2xl font-bold mt-8 mb-4">ODM Orders: 50–200 Pieces Per Style</h3>
+          <h3 className="text-2xl font-bold mt-8 mb-4">ODM Orders: 50-200 Pieces Per Style</h3>
           <p>
             ODM means you&apos;re picking from designs that already exist in the factory&apos;s catalog. The molds 
             are made. The production process is dialed in. You&apos;re choosing a frame, picking your lens 
@@ -178,38 +178,38 @@ export default function SunglassesMoqGuidePage() {
             help someone test the water than watch them drown in a 500-piece commitment they weren&apos;t ready for.
           </p>
           <ul>
-            <li><strong>Typical MOQ:</strong> 100–200 pieces per style, per color</li>
+            <li><strong>Typical MOQ:</strong> 100-200 pieces per style, per color</li>
             <li><strong>Our first-order MOQ:</strong> 50 pieces per style</li>
-            <li><strong>Unit cost range:</strong> $3.50–$8 depending on materials and lenses</li>
-            <li><strong>Upfront investment:</strong> $0 in tooling, $0–$50 for logo setup</li>
-            <li><strong>Lead time:</strong> 20–45 days</li>
+            <li><strong>Unit cost range:</strong> $3.50-$8 depending on materials and lenses</li>
+            <li><strong>Upfront investment:</strong> $0 in tooling, $0-$50 for logo setup</li>
+            <li><strong>Lead time:</strong> 20-45 days</li>
           </ul>
 
-          <h3 className="text-2xl font-bold mt-8 mb-4">OEM Orders: 300–1,000 Pieces Per Style</h3>
+          <h3 className="text-2xl font-bold mt-8 mb-4">OEM Orders: 300-1,000 Pieces Per Style</h3>
           <p>
             OEM means you&apos;re bringing your own design and we&apos;re building it from scratch. This requires 
             new molds, new production setups, and often a few rounds of sampling to get everything right.
           </p>
           <p>
-            The higher MOQ isn&apos;t arbitrary. That mold you need costs $500–$3,000 depending on complexity. 
-            If you spread $1,500 across 300 pairs, that&apos;s $5 per pair just in tooling — on top of the 
+            The higher MOQ isn&apos;t arbitrary. That mold you need costs $500-$3,000 depending on complexity. 
+            If you spread $1,500 across 300 pairs, that&apos;s $5 per pair just in tooling -- on top of the 
             unit production cost. At 1,000 pairs, it drops to $1.50. At 3,000, it&apos;s fifty cents. The 
             math pushes the MOQ up because nobody wants to pay $15 per pair for something they could get 
             at $7 by ordering more.
           </p>
           <ul>
-            <li><strong>Typical MOQ:</strong> 300–1,000 pieces per style, per color</li>
-            <li><strong>Unit cost range:</strong> $5–$15 depending on design complexity</li>
-            <li><strong>Upfront investment:</strong> $500–$3,000 per mold + $200–$800 for design refinement</li>
-            <li><strong>Lead time:</strong> 45–90 days</li>
+            <li><strong>Typical MOQ:</strong> 300-1,000 pieces per style, per color</li>
+            <li><strong>Unit cost range:</strong> $5-$15 depending on design complexity</li>
+            <li><strong>Upfront investment:</strong> $500-$3,000 per mold + $200-$800 for design refinement</li>
+            <li><strong>Lead time:</strong> 45-90 days</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Custom Mold Orders: 500+ Pieces Per Style</h3>
           <p>
-            This is the deep end. Custom molds mean you&apos;re not just designing a frame — you&apos;re designing 
+            This is the deep end. Custom molds mean you&apos;re not just designing a frame -- you&apos;re designing 
             the tool that makes the frame. Complex multi-piece molds for acetate frames with integrated 
-            hinge systems, unusual shapes, or oversized designs. The molds themselves can cost $2,000–$5,000 
-            and take 15–25 days to manufacture.
+            hinge systems, unusual shapes, or oversized designs. The molds themselves can cost $2,000-$5,000 
+            and take 15-25 days to manufacture.
           </p>
           <p>
             At this level, most factories won&apos;t touch an order under 500 pieces. And honestly, if you&apos;re 
@@ -217,10 +217,10 @@ export default function SunglassesMoqGuidePage() {
             tooling cost below $6. Ideally 1,000+.
           </p>
           <ul>
-            <li><strong>Typical MOQ:</strong> 500–2,000 pieces per style</li>
-            <li><strong>Unit cost range:</strong> $6–$18 depending on materials and complexity</li>
-            <li><strong>Upfront investment:</strong> $2,000–$5,000+ per mold</li>
-            <li><strong>Lead time:</strong> 60–120 days</li>
+            <li><strong>Typical MOQ:</strong> 500-2,000 pieces per style</li>
+            <li><strong>Unit cost range:</strong> $6-$18 depending on materials and complexity</li>
+            <li><strong>Upfront investment:</strong> $2,000-$5,000+ per mold</li>
+            <li><strong>Lead time:</strong> 60-120 days</li>
           </ul>
 
           <div className="overflow-x-auto my-8">
@@ -235,9 +235,9 @@ export default function SunglassesMoqGuidePage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">ODM</td><td className="px-6 py-4">50–200</td><td className="px-6 py-4">$0</td><td className="px-6 py-4">$3.50–$8</td><td className="px-6 py-4">20–45 days</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">OEM</td><td className="px-6 py-4">300–1,000</td><td className="px-6 py-4">$500–$3,000</td><td className="px-6 py-4">$5–$15</td><td className="px-6 py-4">45–90 days</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Custom Mold</td><td className="px-6 py-4">500–2,000+</td><td className="px-6 py-4">$2,000–$5,000+</td><td className="px-6 py-4">$6–$18</td><td className="px-6 py-4">60–120 days</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">ODM</td><td className="px-6 py-4">50-200</td><td className="px-6 py-4">$0</td><td className="px-6 py-4">$3.50-$8</td><td className="px-6 py-4">20-45 days</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">OEM</td><td className="px-6 py-4">300-1,000</td><td className="px-6 py-4">$500-$3,000</td><td className="px-6 py-4">$5-$15</td><td className="px-6 py-4">45-90 days</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Custom Mold</td><td className="px-6 py-4">500-2,000+</td><td className="px-6 py-4">$2,000-$5,000+</td><td className="px-6 py-4">$6-$18</td><td className="px-6 py-4">60-120 days</td></tr>
               </tbody>
             </table>
           </div>
@@ -252,7 +252,7 @@ export default function SunglassesMoqGuidePage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Factory Size and Setup</h3>
           <p>
             Large factories with 10+ production lines have high overhead. They need big orders to justify 
-            running a line. A smaller factory like ours — 3 lines, 60 workers — can be more flexible. 
+            running a line. A smaller factory like ours -- 3 lines, 60 workers -- can be more flexible. 
             We can dedicate half a line to a smaller order without shutting down everything else. It&apos;s 
             not that big factories are greedy. Their cost structure genuinely requires volume.
           </p>
@@ -262,7 +262,7 @@ export default function SunglassesMoqGuidePage() {
             This is the one that catches people. If you see &quot;no MOQ&quot; or &quot;MOQ: 1 piece&quot; on Alibaba, 
             you&apos;re almost certainly talking to a trading company, not a factory. They buy from multiple 
             factories in bulk, warehouse the product, and resell in small quantities at a markup. 
-            Nothing wrong with that if you know what you&apos;re getting — but you&apos;re paying 30-50% 
+            Nothing wrong with that if you know what you&apos;re getting -- but you&apos;re paying 30-50% 
             more per unit, and customization is limited to sticking a label on.
           </p>
 
@@ -287,22 +287,22 @@ export default function SunglassesMoqGuidePage() {
             <h3 className="font-bold text-primary-900 mb-3">The Three-Phase Scaling Plan:</h3>
             <ol className="text-primary-800 space-y-3">
               <li>
-                <strong>Phase 1 — Test the Market with ODM (Month 1-3):</strong> Order 3-5 styles, 
-                50-100 pieces each. Total investment: $1,500–$4,000. Your goal isn&apos;t profit yet — 
+                <strong>Phase 1 -- Test the Market with ODM (Month 1-3):</strong> Order 3-5 styles, 
+                50-100 pieces each. Total investment: $1,500-$4,000. Your goal isn&apos;t profit yet -- 
                 it&apos;s data. Which styles sell? Which colors move? Who&apos;s buying? How fast do they 
                 sell out? Every answer informs your next order.
               </li>
               <li>
-                <strong>Phase 2 — Double Down on Winners (Month 3-8):</strong> Your data tells you 
+                <strong>Phase 2 -- Double Down on Winners (Month 3-8):</strong> Your data tells you 
                 that the oversized square frame in matte black sells 3x faster than anything else. 
-                Reorder that style in larger quantities — 200-500 pieces. Drop the styles that 
+                Reorder that style in larger quantities -- 200-500 pieces. Drop the styles that 
                 didn&apos;t move. Add 1-2 new styles to keep testing. You&apos;re still ODM, still low risk, 
                 but now you&apos;re making smarter bets.
               </li>
               <li>
-                <strong>Phase 3 — Graduate to OEM (Month 8-18):</strong> You know your bestseller 
+                <strong>Phase 3 -- Graduate to OEM (Month 8-18):</strong> You know your bestseller 
                 inside and out. Your customers love oversized frames but keep asking for a slightly 
-                rounder shape. Now — and only now — you invest in a custom OEM design. You&apos;re not 
+                rounder shape. Now -- and only now -- you invest in a custom OEM design. You&apos;re not 
                 guessing. You&apos;re building on proven demand. Order 300-500 pieces of your custom 
                 design while keeping your ODM bestsellers in rotation.
               </li>
@@ -313,7 +313,7 @@ export default function SunglassesMoqGuidePage() {
             A client from Portland did exactly this in 2023. First order: 4 ODM styles, 75 pieces each, 
             $2,800 total. Within 60 days he knew two styles were winners and two were duds. He reordered 
             the winners at 300 pieces each, dropped the duds, and added two new test styles. By month 10, 
-            he invested in his first custom OEM frame — a modified version of his bestselling aviator. 
+            he invested in his first custom OEM frame -- a modified version of his bestselling aviator. 
             That custom frame now accounts for 45% of his revenue. But he didn&apos;t start there. He earned 
             his way there with data.
           </p>
@@ -327,7 +327,7 @@ export default function SunglassesMoqGuidePage() {
           <h2 id="first-order-math" className="text-3xl font-bold mt-16 mb-6">First Order Math: What You&apos;ll Actually Spend</h2>
           <p>
             Let me run the real numbers for three common first-order scenarios. These include production, 
-            samples, shipping, and duties — not just the per-unit price that factories love to quote 
+            samples, shipping, and duties -- not just the per-unit price that factories love to quote 
             in isolation.
           </p>
 
@@ -356,7 +356,7 @@ export default function SunglassesMoqGuidePage() {
           </ul>
           <p>
             Better per-unit economics but more capital at risk. This makes sense if you already 
-            have an audience — an existing brand, an Instagram following, a retail location.
+            have an audience -- an existing brand, an Instagram following, a retail location.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Scenario C: The OEM Bet (1 Custom Style × 500 Pieces)</h3>
@@ -371,18 +371,18 @@ export default function SunglassesMoqGuidePage() {
           </ul>
           <p>
             Higher per-pair cost, but you own the design. If you&apos;re retailing at $89-129, the margins 
-            are still excellent. But you need to move 500 identical pairs — no style variety to hedge 
+            are still excellent. But you need to move 500 identical pairs -- no style variety to hedge 
             your bets. This is why I recommend Phase 1 and 2 before jumping here.
           </p>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 The Costs Everyone Forgets</h3>
             <p className="text-amber-800">
-              Packaging ($0.50–$2 per pair for a branded case and microfiber cloth), photography 
-              ($200–$500 for product shots if you&apos;re selling online), and marketing spend to 
+              Packaging ($0.50-$2 per pair for a branded case and microfiber cloth), photography 
+              ($200-$500 for product shots if you&apos;re selling online), and marketing spend to 
               actually move the inventory. I&apos;ve seen founders nail the production budget and 
               then have zero dollars left to tell anyone the product exists. Budget at least 
-              20-30% of your total investment for marketing. Sunglasses don&apos;t sell themselves — 
+              20-30% of your total investment for marketing. Sunglasses don&apos;t sell themselves -- 
               not even really good ones.
             </p>
           </div>
@@ -399,8 +399,8 @@ export default function SunglassesMoqGuidePage() {
           <p>
             In almost every sunglasses brand I&apos;ve worked with, 20% of the styles generate 80% of the 
             revenue. You won&apos;t know which 20% until you start selling. That&apos;s why your first order 
-            should be broad and shallow — more styles in smaller quantities — and your second order 
-            should be narrow and deep — fewer styles in larger quantities.
+            should be broad and shallow -- more styles in smaller quantities -- and your second order 
+            should be narrow and deep -- fewer styles in larger quantities.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Reorder Before You Run Out</h3>
@@ -420,7 +420,7 @@ export default function SunglassesMoqGuidePage() {
           <p>
             Sunglasses are seasonal in most markets. North America and Europe see 60-70% of annual 
             sales between March and August. If you&apos;re launching in January, your order should be 
-            smaller — enough to build buzz and test messaging before spring demand hits. Place 
+            smaller -- enough to build buzz and test messaging before spring demand hits. Place 
             your big order in February for April/May delivery, right when people start shopping.
           </p>
           <p>
@@ -432,7 +432,7 @@ export default function SunglassesMoqGuidePage() {
           <p>
             I see this constantly: a new brand launches with one frame in 8 different colors. Sounds 
             like variety. In practice, it&apos;s 8 small bets instead of 2-3 strong ones. Start with 
-            your safest colors — matte black, tortoise, and one bold option — and expand colors 
+            your safest colors -- matte black, tortoise, and one bold option -- and expand colors 
             on reorders based on what customers ask for. Every color variation multiplies your 
             inventory management complexity.
           </p>
@@ -447,7 +447,7 @@ export default function SunglassesMoqGuidePage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">1. Show You&apos;re a Real Business</h3>
           <p>
             Factories lower MOQs for clients they believe will come back. Send your website, your 
-            Instagram, your business plan — anything that shows you&apos;re serious, not just tire-kicking. 
+            Instagram, your business plan -- anything that shows you&apos;re serious, not just tire-kicking. 
             I&apos;ve dropped our MOQ to 30 pieces for a client who showed up with a professional brief, 
             a clear timeline, and a realistic growth plan. That tells me she&apos;ll be ordering 500 
             pieces within a year.
@@ -456,14 +456,14 @@ export default function SunglassesMoqGuidePage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">2. Accept a Slightly Higher Unit Price</h3>
           <p>
             The factory&apos;s concern with low MOQs is cost coverage. If you say &quot;I know 50 pieces is 
-            below your standard MOQ — I&apos;m happy to pay a 10-15% premium on the unit price,&quot; 
+            below your standard MOQ -- I&apos;m happy to pay a 10-15% premium on the unit price,&quot; 
             you&apos;ve just solved their problem. That premium disappears on your second, larger order.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">3. Combine Styles into One Order</h3>
           <p>
             A factory might not want to run 50 pieces of one style. But 50 pieces each of 4 
-            styles? That&apos;s a 200-piece order — much more attractive. The setup cost per style 
+            styles? That&apos;s a 200-piece order -- much more attractive. The setup cost per style 
             is the same, but the total order volume makes the paperwork and logistics worthwhile.
           </p>
 
@@ -485,7 +485,7 @@ export default function SunglassesMoqGuidePage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Ordering Too Much of an Unproven Design</h3>
           <p>
             A brand from Miami ordered 2,000 pairs of a single custom frame in 2024. Invested $14,000. 
-            The design looked incredible on paper — oversized geometric shape, rose gold metal. 
+            The design looked incredible on paper -- oversized geometric shape, rose gold metal. 
             Beautiful. Sold 280 pairs in six months. The other 1,720 pairs are still in a 
             warehouse in Florida. That $14,000 is now worth about $3,000 in liquidation value. 
             They should have ordered 300 and tested.
@@ -497,7 +497,7 @@ export default function SunglassesMoqGuidePage() {
             investment: $8,500. He hadn&apos;t sold a single pair of sunglasses before. I talked him 
             into starting with ODM instead. Two of his three &quot;dream designs&quot; turned out to have 
             zero market demand when he tested similar shapes through ODM. He saved $5,600 in 
-            mold costs and used that money for marketing instead. Today he has one custom mold — 
+            mold costs and used that money for marketing instead. Today he has one custom mold -- 
             for a design he validated through ODM first.
           </p>
 
@@ -526,7 +526,7 @@ export default function SunglassesMoqGuidePage() {
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               I do free 15-minute calls with new brand owners. We&apos;ll look at your budget, your 
               market, and your timeline, and I&apos;ll tell you exactly what I&apos;d order if I were 
-              in your shoes. No commitment, no pitch — just 20 years of factory experience 
+              in your shoes. No commitment, no pitch -- just 20 years of factory experience 
               in your corner.
             </p>
             <Link href="/contact" className="btn-primary">
@@ -550,7 +550,7 @@ export default function SunglassesMoqGuidePage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Can I order less than 100 pairs of sunglasses from a factory?</h3>
               <p className="text-gray-600">
-                Some factories do offer MOQs below 100 for ODM orders — we start at 50 pieces for first-time 
+                Some factories do offer MOQs below 100 for ODM orders -- we start at 50 pieces for first-time 
                 clients. Be aware that very low quantities mean higher per-unit costs, sometimes 30-50% more 
                 than ordering 200+ pieces. If a factory advertises &quot;no MOQ,&quot; they&apos;re likely a trading 
                 company reselling from stock, not an actual manufacturer.
@@ -559,10 +559,10 @@ export default function SunglassesMoqGuidePage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Why do sunglasses factories have minimum order quantities?</h3>
               <p className="text-gray-600">
-                Production economics. Setting up a production line — calibrating machines, mixing colors, 
-                configuring lens equipment — costs the same whether you&apos;re making 10 pairs or 10,000. 
+                Production economics. Setting up a production line -- calibrating machines, mixing colors, 
+                configuring lens equipment -- costs the same whether you&apos;re making 10 pairs or 10,000. 
                 Below a certain quantity, the setup cost per unit makes the order unprofitable. For OEM, 
-                there&apos;s also the mold investment ($500–$3,000) that needs to be spread across enough 
+                there&apos;s also the mold investment ($500-$3,000) that needs to be spread across enough 
                 units to make financial sense.
               </p>
             </div>
@@ -570,7 +570,7 @@ export default function SunglassesMoqGuidePage() {
               <h3 className="font-bold text-lg mb-2">Should I start with ODM or OEM for my first sunglasses order?</h3>
               <p className="text-gray-600">
                 Start with ODM. Unless you have deep pockets and a proven audience, ODM lets you test the 
-                market with lower risk — smaller quantities, no mold fees, faster turnaround. Use your first 
+                market with lower risk -- smaller quantities, no mold fees, faster turnaround. Use your first 
                 2-3 ODM orders to learn what sells, then invest in custom OEM designs for your proven 
                 bestsellers. About 40% of our long-term OEM clients started with ODM.
               </p>
@@ -578,10 +578,10 @@ export default function SunglassesMoqGuidePage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">How much inventory should a new sunglasses brand keep in stock?</h3>
               <p className="text-gray-600">
-                For your first order, keep it lean — 3-5 styles, 50-100 pieces each. That&apos;s enough to test 
+                For your first order, keep it lean -- 3-5 styles, 50-100 pieces each. That&apos;s enough to test 
                 the market without drowning in unsold inventory. Once you identify your bestsellers (usually 
                 within 60-90 days), reorder those in larger quantities and drop what didn&apos;t move. Turn 
-                inventory fast — don&apos;t let sunglasses collect dust in a warehouse.
+                inventory fast -- don&apos;t let sunglasses collect dust in a warehouse.
               </p>
             </div>
           </div>
@@ -592,15 +592,15 @@ export default function SunglassesMoqGuidePage() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/products/wayfarer" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Wayfarer Sunglasses</h3>
-                <p className="text-gray-600 text-sm">MOQ 50 pairs — the best-selling style for retail and promotional campaigns.</p>
+                <p className="text-gray-600 text-sm">MOQ 50 pairs -- the best-selling style for retail and promotional campaigns.</p>
               </Link>
               <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
-                <p className="text-gray-600 text-sm">MOQ 50 pairs — classic metal frames with teardrop lenses. Perfect for men's collections.</p>
+                <p className="text-gray-600 text-sm">MOQ 50 pairs -- classic metal frames with teardrop lenses. Perfect for men's collections.</p>
               </Link>
               <Link href="/products/cat-eye" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Cat Eye Sunglasses</h3>
-                <p className="text-gray-600 text-sm">MOQ 50 pairs — bold feminine frames dominating the women's fashion market.</p>
+                <p className="text-gray-600 text-sm">MOQ 50 pairs -- bold feminine frames dominating the women's fashion market.</p>
               </Link>
             </div>
           </div>
@@ -611,11 +611,11 @@ export default function SunglassesMoqGuidePage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM Sunglasses: What&apos;s the Difference?</h3>
-                <p className="text-gray-600 text-sm">The full breakdown of OEM and ODM manufacturing — costs, timelines, and how to choose the right model for your brand.</p>
+                <p className="text-gray-600 text-sm">The full breakdown of OEM and ODM manufacturing -- costs, timelines, and how to choose the right model for your brand.</p>
               </Link>
               <Link href="/blog/start-sunglasses-brand" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">How to Start a Sunglasses Brand: Complete Guide</h3>
-                <p className="text-gray-600 text-sm">The full playbook from idea to first sale — everything I wish someone told me when I started in 2006.</p>
+                <p className="text-gray-600 text-sm">The full playbook from idea to first sale -- everything I wish someone told me when I started in 2006.</p>
               </Link>
             </div>
           </div>

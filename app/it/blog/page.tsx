@@ -38,7 +38,7 @@ const posts = [
   {
     slug: 'oem-vs-odm',
     title: 'OEM vs ODM Occhiali da Sole: Qual è la Differenza? Guida Completa',
-    excerpt: 'Dopo 3.000 conversazioni su OEM vs ODM, ecco la versione onesta — costi reali, tempistiche reali e un framework decisionale che ti aiuta davvero a scegliere.',
+    excerpt: 'Dopo 3.000 conversazioni su OEM vs ODM, ecco la versione onesta -- costi reali, tempistiche reali e un framework decisionale che ti aiuta davvero a scegliere.',
     date: '20 aprile 2026',
     category: 'Produzione',
     readTime: '12 min di lettura',
@@ -48,7 +48,7 @@ const posts = [
   {
     slug: 'creare-brand-occhiali',
     title: 'Come Creare il Tuo Brand di Occhiali da Sole: Guida Completa',
-    excerpt: 'La guida completa dall\'idea alla prima vendita — ricerca di mercato, approvvigionamento, branding, prezzi e marketing. Tutto quello che avrei voluto sapere quando ho iniziato nel 2006.',
+    excerpt: 'La guida completa dall\'idea alla prima vendita -- ricerca di mercato, approvvigionamento, branding, prezzi e marketing. Tutto quello che avrei voluto sapere quando ho iniziato nel 2006.',
     date: '28 marzo 2026',
     category: 'Business',
     readTime: '10 min di lettura',
@@ -68,7 +68,7 @@ const posts = [
   {
     slug: 'certificazione-fda-ce-occhiali',
     title: 'Certificazione FDA e CE per Occhiali da Sole: Guida alla Conformità',
-    excerpt: 'Registrazione FDA, marcatura CE, test UV e standard ANSI — tutto quello che serve per vendere legalmente negli USA, UE e nel mondo.',
+    excerpt: 'Registrazione FDA, marcatura CE, test UV e standard ANSI -- tutto quello che serve per vendere legalmente negli USA, UE e nel mondo.',
     date: '4 maggio 2026',
     category: 'Conformità',
     readTime: '15 min di lettura',
@@ -78,7 +78,7 @@ const posts = [
   {
     slug: 'guida-importazione-occhiali',
     title: 'Come Importare Occhiali da Sole dalla Cina: Guida Completa 2026',
-    excerpt: 'Approvvigionamento, spedizione, dazi doganali, controllo qualità e errori comuni da evitare — dalla prospettiva di un proprietario di fabbrica cinese.',
+    excerpt: 'Approvvigionamento, spedizione, dazi doganali, controllo qualità e errori comuni da evitare -- dalla prospettiva di un proprietario di fabbrica cinese.',
     date: '4 maggio 2026',
     category: 'Importazione',
     readTime: '14 min di lettura',
@@ -88,7 +88,7 @@ const posts = [
   {
     slug: 'packaging-personalizzato-occhiali',
     title: 'Packaging Personalizzato per Occhiali: Guida al Branding 2026',
-    excerpt: 'Custodie rigide, pochette, scatole retail, cartellini — ogni opzione con costi reali e consigli per un unboxing che fa la differenza.',
+    excerpt: 'Custodie rigide, pochette, scatole retail, cartellini -- ogni opzione con costi reali e consigli per un unboxing che fa la differenza.',
     date: '3 maggio 2026',
     category: 'Branding',
     readTime: '14 min di lettura',
@@ -98,7 +98,7 @@ const posts = [
   {
     slug: 'guida-rivestimenti-occhiali',
     title: 'Guida ai Rivestimenti: Specchio, Anti-Riflesso, Idrofobico e Altro',
-    excerpt: 'Ogni tipo di rivestimento per lenti analizzato — costi reali per paio e quali rivestimenti si combinano per massimizzare il valore.',
+    excerpt: 'Ogni tipo di rivestimento per lenti analizzato -- costi reali per paio e quali rivestimenti si combinano per massimizzare il valore.',
     date: '3 maggio 2026',
     category: 'Tecnologia',
     readTime: '13 min di lettura',
@@ -108,7 +108,7 @@ const posts = [
   {
     slug: 'tendenze-design-occhiali-2026',
     title: 'Tendenze Design Occhiali da Sole 2026: Cosa Si Vende Adesso',
-    excerpt: 'Dati di vendita reali su cosa si muove — montature oversize, revival Y2K, materiali sostenibili e acetato trasparente.',
+    excerpt: 'Dati di vendita reali su cosa si muove -- montature oversize, revival Y2K, materiali sostenibili e acetato trasparente.',
     date: '4 maggio 2026',
     category: 'Tendenze',
     readTime: '12 min di lettura',
@@ -118,7 +118,7 @@ const posts = [
   {
     slug: 'guida-occhiali-forma-viso',
     title: 'I Migliori Occhiali per la Tua Forma del Viso: Guida Completa',
-    excerpt: 'Trova gli occhiali perfetti per viso rotondo, ovale, quadrato, a cuore e oblungo — con consigli pratici per i brand.',
+    excerpt: 'Trova gli occhiali perfetti per viso rotondo, ovale, quadrato, a cuore e oblungo -- con consigli pratici per i brand.',
     date: '4 maggio 2026',
     category: 'Stile',
     readTime: '10 min di lettura',
@@ -138,7 +138,7 @@ const posts = [
   {
     slug: 'strategia-prezzi-occhiali',
     title: 'Strategia di Prezzo: Dal Costo di Fabbrica al Prezzo al Dettaglio',
-    excerpt: 'I numeri reali dell\'economia degli occhiali — costi di fabbrica, markup all\'ingrosso, margini retail e strategie che funzionano.',
+    excerpt: 'I numeri reali dell\'economia degli occhiali -- costi di fabbrica, markup all\'ingrosso, margini retail e strategie che funzionano.',
     date: '4 maggio 2026',
     category: 'Business',
     readTime: '13 min di lettura',
@@ -148,7 +148,7 @@ const posts = [
   {
     slug: 'controllo-qualita-occhiali',
     title: 'Controllo Qualità: Checklist di Ispezione in Fabbrica',
-    excerpt: 'La checklist QC completa in 8 punti — test lenti, ispezione montature, controllo cerniere, verifica UV e altro.',
+    excerpt: 'La checklist QC completa in 8 punti -- test lenti, ispezione montature, controllo cerniere, verifica UV e altro.',
     date: '4 maggio 2026',
     category: 'Qualità',
     readTime: '13 min di lettura',
@@ -158,7 +158,7 @@ const posts = [
   {
     slug: 'costi-avvio-brand-occhiali',
     title: 'Quanto Costa Lanciare un Brand di Occhiali nel 2026?',
-    excerpt: 'Ogni singolo costo analizzato — da $3.000 bootstrap a $50.000+ lancio premium. Numeri reali, senza nascondigli.',
+    excerpt: 'Ogni singolo costo analizzato -- da $3.000 bootstrap a $50.000+ lancio premium. Numeri reali, senza nascondigli.',
     date: '4 maggio 2026',
     category: 'Business',
     readTime: '14 min di lettura',
@@ -168,7 +168,7 @@ const posts = [
   {
     slug: 'produzione-sostenibile-occhiali',
     title: 'Produzione Sostenibile di Occhiali: Materiali Eco-Friendly',
-    excerpt: 'Bio-acetato, nylon riciclato, plastica oceanica, packaging eco — cosa significa davvero "sostenibile" e quanto costa.',
+    excerpt: 'Bio-acetato, nylon riciclato, plastica oceanica, packaging eco -- cosa significa davvero "sostenibile" e quanto costa.',
     date: '4 maggio 2026',
     category: 'Sostenibilità',
     readTime: '13 min di lettura',
@@ -200,7 +200,7 @@ export default function BlogPage() {
             Direttamente dalla Fabbrica
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Informazioni senza filtri sulla produzione di occhiali da sole, approvvigionamento e creazione di brand —
+            Informazioni senza filtri sulla produzione di occhiali da sole, approvvigionamento e creazione di brand --
             scritte da qualcuno che produce occhiali dal 2006.
           </p>
           <div className="flex items-center justify-center gap-3 mt-6">
@@ -272,7 +272,7 @@ export default function BlogPage() {
             Ricevi le Novità dalla Fabbrica nella Tua Casella Email
           </h2>
           <p className="text-primary-100 mb-8 max-w-xl mx-auto">
-            Una email al mese. Niente fuffa — solo consigli di produzione, tendenze di mercato
+            Una email al mese. Niente fuffa -- solo consigli di produzione, tendenze di mercato
             e strategie di approvvigionamento che ti aiutano davvero a costruire un brand migliore.
           </p>
           <form className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">

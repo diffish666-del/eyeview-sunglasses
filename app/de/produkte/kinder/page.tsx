@@ -20,28 +20,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$5.50 - $8.50',
     moq: '100 Stk.',
-    description: 'Seien wir ehrlich — Babys kauen auf allem herum. Deshalb bestehen diese Fassungen aus lebensmittelechtem Silikon, dem gleichen Material wie Babyflaschensauger. Man könnte sie buchstäblich in den Mund nehmen (Ihr Baby wird es tun). Komplett BPA-frei, phthalatfrei und weich genug, um nicht zu piksen oder zu zwicken. Das verstellbare Band hält sie an Ort und Stelle, selbst wenn Ihr Kleines entschlossen ist, sie abzuziehen. Was es tun wird. Wiederholt.',
+    description: 'Seien wir ehrlich -- Babys kauen auf allem herum. Deshalb bestehen diese Fassungen aus lebensmittelechtem Silikon, dem gleichen Material wie Babyflaschensauger. Man könnte sie buchstäblich in den Mund nehmen (Ihr Baby wird es tun). Komplett BPA-frei, phthalatfrei und weich genug, um nicht zu piksen oder zu zwicken. Das verstellbare Band hält sie an Ort und Stelle, selbst wenn Ihr Kleines entschlossen ist, sie abzuziehen. Was es tun wird. Wiederholt.',
   },
   {
     name: 'Kleinkind-Sonnenbrillen (3-5 Jahre)',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$6.00 - $9.00',
     moq: '100 Stk.',
-    description: 'Wissen Sie, was mit Kleinkind-Sonnenbrillen passiert? Sie werden draufgesessen, draufgetreten, durchs Zimmer geworfen und im Sandkasten vergraben. Deshalb fertigen wir diese aus TPE — einem flexiblen Material, das sich biegt, verdreht und absolut misshandeln lässt, um dann einfach in seine Form zurückzuspringen. Erhältlich in über 15 Farben, denn offenbar hat jedes 4-Jährige eine sehr bestimmte Meinung zu seiner Lieblingsfarbe. (Es ist meistens Pink. Oder Dinosaurier-Grün.)',
+    description: 'Wissen Sie, was mit Kleinkind-Sonnenbrillen passiert? Sie werden draufgesessen, draufgetreten, durchs Zimmer geworfen und im Sandkasten vergraben. Deshalb fertigen wir diese aus TPE -- einem flexiblen Material, das sich biegt, verdreht und absolut misshandeln lässt, um dann einfach in seine Form zurückzuspringen. Erhältlich in über 15 Farben, denn offenbar hat jedes 4-Jährige eine sehr bestimmte Meinung zu seiner Lieblingsfarbe. (Es ist meistens Pink. Oder Dinosaurier-Grün.)',
   },
   {
     name: 'Kinder Sport-Sonnenbrillen (6-9 Jahre)',
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$7.00 - $10.00',
     moq: '100 Stk.',
-    description: 'Für das Kind, das immer draußen ist — Fußballtraining, Schwimmunterricht, Fahrradtouren durch die Nachbarschaft. Dies sind verkleinerte Versionen unserer Erwachsenen-Sportfassungen mit flexiblen TR90-Rahmen und umlaufendem Schutz. Polarisierte Option für Strandausflüge und Schneetage verfügbar. Eine Jugendsportliga in Kalifornien bestellte letztes Jahr 800 Paar für ihr Sommerprogramm. Ihr Feedback: „Endlich Sportbrillen, die Kindern wirklich passen."',
+    description: 'Für das Kind, das immer draußen ist -- Fußballtraining, Schwimmunterricht, Fahrradtouren durch die Nachbarschaft. Dies sind verkleinerte Versionen unserer Erwachsenen-Sportfassungen mit flexiblen TR90-Rahmen und umlaufendem Schutz. Polarisierte Option für Strandausflüge und Schneetage verfügbar. Eine Jugendsportliga in Kalifornien bestellte letztes Jahr 800 Paar für ihr Sommerprogramm. Ihr Feedback: „Endlich Sportbrillen, die Kindern wirklich passen."',
   },
   {
     name: 'Mädchen Fashion Cat-Eye (6-10 Jahre)',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$7.00 - $10.00',
     moq: '100 Stk.',
-    description: 'Mini-Cat-Eyes für Mädchen, die aussehen wollen wie Mama (oder ihre Lieblings-YouTuberin). Glitzerakzente, Pastellfarben, herzförmige Bügeldekorationen — alles, was eine 7-Jährige zum Quietschen bringt: „ICH LIEBE DIE!" Gleiche Sicherheitsstandards wie alle unsere Kinderfassungen, nur mit deutlich mehr Glitzer. Absolute Verkaufsschlager in Kinderboutiquen und Strandresort-Shops.',
+    description: 'Mini-Cat-Eyes für Mädchen, die aussehen wollen wie Mama (oder ihre Lieblings-YouTuberin). Glitzerakzente, Pastellfarben, herzförmige Bügeldekorationen -- alles, was eine 7-Jährige zum Quietschen bringt: „ICH LIEBE DIE!" Gleiche Sicherheitsstandards wie alle unsere Kinderfassungen, nur mit deutlich mehr Glitzer. Absolute Verkaufsschlager in Kinderboutiquen und Strandresort-Shops.',
   },
   {
     name: 'Jungen Aviator (8-12 Jahre)',
@@ -55,7 +55,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 Stk.',
-    description: 'Für die jungen Athleten, die ihren Sport ernst nehmen. TAC-polarisierte Gläser reduzieren Blendung durch Wasser, Schnee und Asphalt — ein echter Unterschied für Kinder beim Schwimmen, Skifahren oder Angeln mit Papa. Dies sind unsere Premium-Kinderfassungen und die, nach denen Eltern gezielt fragen, wenn sie den besten Schutz wollen, den man kaufen kann. Eine Schwimmschule in Sydney nutzt diese exklusiv für ihren Outdoor-Unterricht.',
+    description: 'Für die jungen Athleten, die ihren Sport ernst nehmen. TAC-polarisierte Gläser reduzieren Blendung durch Wasser, Schnee und Asphalt -- ein echter Unterschied für Kinder beim Schwimmen, Skifahren oder Angeln mit Papa. Dies sind unsere Premium-Kinderfassungen und die, nach denen Eltern gezielt fragen, wenn sie den besten Schutz wollen, den man kaufen kann. Eine Schwimmschule in Sydney nutzt diese exklusiv für ihren Outdoor-Unterricht.',
   },
 ]
 
@@ -81,7 +81,7 @@ export default function KinderPage() {
             Eltern verstehen keinen Spaß, wenn es um die Augen ihrer Kinder geht. Wir auch nicht.
             Jedes Paar ist BPA-frei, UV400-zertifiziert und erfüllt die CPSIA-, ASTM F963- und
             EN71-Sicherheitsstandards. Flexible Fassungen, die das Kleinkind-Chaos überstehen.
-            Echter UV-Schutz — nicht nur getöntes Plastik. Alter 0-12, ab $5.50.
+            Echter UV-Schutz -- nicht nur getöntes Plastik. Alter 0-12, ab $5.50.
           </p>
         </div>
 
@@ -103,7 +103,7 @@ export default function KinderPage() {
               mehr. Vor dem 10. Lebensjahr lässt die Augenlinse eines Kindes über 75% der UV-A-
               und 70% der UV-B-Strahlen direkt zur Netzhaut durch. Eine Erwachsenenlinse? Nur
               etwa 10%. Das bedeutet, dass die Augen Ihres Kindes an einem sonnigen Tag etwa 6-7
-              Mal mehr UV-Schäden aufnehmen. Und hier wird es beunruhigend — die <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">WHO sagt, dass bis zu 80%</a> der
+              Mal mehr UV-Schäden aufnehmen. Und hier wird es beunruhigend -- die <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">WHO sagt, dass bis zu 80%</a> der
               lebenslangen UV-Exposition eines Menschen vor dem 18. Lebensjahr stattfinden.
             </p>
             <p>
@@ -114,7 +114,7 @@ export default function KinderPage() {
             </p>
             <p>
               Genau deshalb nehmen wir Kinder-Sonnenbrillen so ernst. Jedes einzelne Paar, das
-              wir herstellen, wird im Labor auf UV400-Konformität geprüft — das bedeutet, sie
+              wir herstellen, wird im Labor auf UV400-Konformität geprüft -- das bedeutet, sie
               blockieren 99,9% der UV-Strahlung bis 400 Nanometer. Wir liefern die Prüfberichte.
               Wir haben die Zertifizierungen. Wenn Eltern ein Paar unserer Kinder-Sonnenbrillen
               in die Hand nehmen, können sie darauf vertrauen, dass die Augen ihres Kindes
@@ -167,7 +167,7 @@ export default function KinderPage() {
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🇺🇸</div>
               <h3 className="font-bold mb-2">CPSIA</h3>
-              <p className="text-sm text-gray-600">Die wichtigste für den US-Markt. Blei unter 100 ppm, null Phthalate. Wenn Sie Kinderprodukte in Amerika verkaufen, <a href="https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">ist das keine Option — es ist Gesetz</a>. Wir haben es abgedeckt.</p>
+              <p className="text-sm text-gray-600">Die wichtigste für den US-Markt. Blei unter 100 ppm, null Phthalate. Wenn Sie Kinderprodukte in Amerika verkaufen, <a href="https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">ist das keine Option -- es ist Gesetz</a>. Wir haben es abgedeckt.</p>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🇺🇸</div>
@@ -182,7 +182,7 @@ export default function KinderPage() {
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🌍</div>
               <h3 className="font-bold mb-2">CE & FDA</h3>
-              <p className="text-sm text-gray-600">CE für Europa, FDA für den US-Optikmarkt. Beide bestätigen, dass unsere UV-Schutzangaben echt sind — nicht nur Marketing-Aufkleber auf billigen Fassungen.</p>
+              <p className="text-sm text-gray-600">CE für Europa, FDA für den US-Optikmarkt. Beide bestätigen, dass unsere UV-Schutzangaben echt sind -- nicht nur Marketing-Aufkleber auf billigen Fassungen.</p>
             </div>
           </div>
         </section>
@@ -195,7 +195,7 @@ export default function KinderPage() {
               <h3 className="text-xl font-semibold mb-4">🍼 Lebensmittelechtes Silikon (0-3 Jahre)</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Gleiches Material wie Babyflaschensauger und Beißringe. Wenn es sicher genug ist,
-                in den Mund eines Babys zu kommen — und es wird in den Mund kommen, garantiert —
+                in den Mund eines Babys zu kommen -- und es wird in den Mund kommen, garantiert --
                 dann ist es sicher genug für Sonnenbrillen. Unendlich biegbar, unglaublich weich,
                 BPA-frei, phthalatfrei, PVC-frei, latexfrei. Reizt empfindliche Babyhaut nicht.
                 Wir haben diese für Eltern entworfen, die sich um alles Sorgen machen. (Wir
@@ -219,7 +219,7 @@ export default function KinderPage() {
                 Für die älteren Kinder, die Sport treiben, Fahrrad fahren und generell mit allem,
                 was sie besitzen, grob umgehen. TR90 ist 35% leichter als normales Plastik, biegt
                 sich ohne zu brechen und verträgt Temperaturen von -40°C bis 120°C (also ja, es
-                überlebt auch im heißen Auto). Zudem hypoallergen — keine juckenden roten
+                überlebt auch im heißen Auto). Zudem hypoallergen -- keine juckenden roten
                 Druckstellen hinter den Ohren nach einem langen Tag draußen.
               </p>
             </div>
@@ -269,7 +269,7 @@ export default function KinderPage() {
             <Link href="/de/produkte/sport" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🏃</div>
               <h3 className="font-semibold mb-2">Sport-Sonnenbrillen</h3>
-              <p className="text-sm text-gray-600">Erwachsenen-Sportfassungen — Eltern und Kinder können zusammenpassen!</p>
+              <p className="text-sm text-gray-600">Erwachsenen-Sportfassungen -- Eltern und Kinder können zusammenpassen!</p>
             </Link>
             <Link href="/de/produkte/polarisiert" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🔆</div>
@@ -290,27 +290,27 @@ export default function KinderPage() {
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="Ab welchem Alter brauchen Kinder Sonnenbrillen?"
-              answer="Die Amerikanische Akademie für Augenheilkunde sagt ab 6 Monaten. Davor Babys im Schatten halten mit Hüten und Kinderwagenverdecken. Aber sobald sie 6 Monate alt sind und Zeit im Freien verbringen, brauchen ihre Augen UV-Schutz. Wir wissen, das klingt früh — aber denken Sie daran, dass ihre kleinen Augen 6-7 Mal mehr UV durchlassen als Ihre. Je früher Sie anfangen, desto besser."
+              answer="Die Amerikanische Akademie für Augenheilkunde sagt ab 6 Monaten. Davor Babys im Schatten halten mit Hüten und Kinderwagenverdecken. Aber sobald sie 6 Monate alt sind und Zeit im Freien verbringen, brauchen ihre Augen UV-Schutz. Wir wissen, das klingt früh -- aber denken Sie daran, dass ihre kleinen Augen 6-7 Mal mehr UV durchlassen als Ihre. Je früher Sie anfangen, desto besser."
             />
             <FaqItem
               question="Schützen die wirklich oder sind sie nur hübsch?"
-              answer="Beides! Aber Schutz kommt zuerst. Jedes Paar blockiert 99,9% der UV-Strahlung bis 400 Nanometer — verifiziert durch unabhängige Laborprüfung. Wir schicken Ihnen die Prüfberichte, wenn Sie möchten. Vorsicht vor billigen Kinder-Sonnenbrillen, die nur dunkel getöntes Plastik ohne UV-Filter sind. Die machen es tatsächlich schlimmer, indem sie die Pupillen weiten und mehr schädliche Strahlung einlassen. Unsere Brillen sind süß UND sicher."
+              answer="Beides! Aber Schutz kommt zuerst. Jedes Paar blockiert 99,9% der UV-Strahlung bis 400 Nanometer -- verifiziert durch unabhängige Laborprüfung. Wir schicken Ihnen die Prüfberichte, wenn Sie möchten. Vorsicht vor billigen Kinder-Sonnenbrillen, die nur dunkel getöntes Plastik ohne UV-Filter sind. Die machen es tatsächlich schlimmer, indem sie die Pupillen weiten und mehr schädliche Strahlung einlassen. Unsere Brillen sind süß UND sicher."
             />
             <FaqItem
               question="Mein Kind zerstört alles. Überleben die das?"
-              answer="Genau dafür haben wir sie entworfen. Die Baby-Silikonfassungen? Unendlich biegbar. Die Kleinkind-TPE-Fassungen? Wir haben sie getestet: über 500 Biegezyklen und Stürze aus 1,5 Metern Höhe überstanden. Die TR90-Fassungen für ältere Kinder? Biegen Sie sie 90 Grad — sie springen sofort zurück. Wir können nicht versprechen, dass sie 100% unzerstörbar sind (Kinder sind kreativ), aber es sind die robustesten Fassungen, die wir herstellen können."
+              answer="Genau dafür haben wir sie entworfen. Die Baby-Silikonfassungen? Unendlich biegbar. Die Kleinkind-TPE-Fassungen? Wir haben sie getestet: über 500 Biegezyklen und Stürze aus 1,5 Metern Höhe überstanden. Die TR90-Fassungen für ältere Kinder? Biegen Sie sie 90 Grad -- sie springen sofort zurück. Wir können nicht versprechen, dass sie 100% unzerstörbar sind (Kinder sind kreativ), aber es sind die robustesten Fassungen, die wir herstellen können."
             />
             <FaqItem
               question="Welche Zertifizierungen haben die? Ich brauche das für meinen Laden."
-              answer="Alles, was Sie brauchen: CPSIA (Pflicht für US-Kinderprodukte — Blei unter 100 ppm, null Phthalate), ASTM F963 (US-Spielzeugsicherheit), EN71 (EU-Spielzeugsicherheit), CE-Kennzeichnung und FDA-Optikstandards. Wir liefern vollständige Zertifizierungsdokumente mit jeder Großbestellung. Wenn der Zoll Fragen stellt, haben Sie die Unterlagen parat."
+              answer="Alles, was Sie brauchen: CPSIA (Pflicht für US-Kinderprodukte -- Blei unter 100 ppm, null Phthalate), ASTM F963 (US-Spielzeugsicherheit), EN71 (EU-Spielzeugsicherheit), CE-Kennzeichnung und FDA-Optikstandards. Wir liefern vollständige Zertifizierungsdokumente mit jeder Großbestellung. Wenn der Zoll Fragen stellt, haben Sie die Unterlagen parat."
             />
             <FaqItem
               question="Kann ich mit unserer Marke oder Comicfiguren personalisieren?"
-              answer="Absolut. Individuelle Farben (über 20 Standard plus Pantone-Abgleich), Figurendesigns auf den Bügeln, Ihr Markenlogo, glitzerinfundierte Fassungen, im Dunkeln leuchtende Bügel — was immer Sie wollen. MOQ für individuelle Designs beträgt 300 Stück pro Stil. Wir haben lizenzierte Figuren-Kollaborationen, Schulmaskottchen-Designs und sogar passende Eltern-Kind-Sets gemacht. Schicken Sie uns einfach Ihre Idee und wir erstellen einen Entwurf."
+              answer="Absolut. Individuelle Farben (über 20 Standard plus Pantone-Abgleich), Figurendesigns auf den Bügeln, Ihr Markenlogo, glitzerinfundierte Fassungen, im Dunkeln leuchtende Bügel -- was immer Sie wollen. MOQ für individuelle Designs beträgt 300 Stück pro Stil. Wir haben lizenzierte Figuren-Kollaborationen, Schulmaskottchen-Designs und sogar passende Eltern-Kind-Sets gemacht. Schicken Sie uns einfach Ihre Idee und wir erstellen einen Entwurf."
             />
             <FaqItem
               question="Haben die Baby-Sonnenbrillen Bänder?"
-              answer="Ja — abnehmbare, verstellbare Neopren-Bänder, verstellbar von 14 bis 18 cm. Sanft zur Babyhaut, sicher genug, um auf einem zappelnden Baby zu halten. Für Kleinkind-Fassungen (3-5 Jahre) bieten wir optionale Bandaufsätze an, die sich an- und abclipsen lassen. Die meisten Eltern nutzen das Band bis etwa 3-4 Jahre und wechseln dann zu normalen Bügeln, wenn das Kind alt genug ist, sie aufzubehalten."
+              answer="Ja -- abnehmbare, verstellbare Neopren-Bänder, verstellbar von 14 bis 18 cm. Sanft zur Babyhaut, sicher genug, um auf einem zappelnden Baby zu halten. Für Kleinkind-Fassungen (3-5 Jahre) bieten wir optionale Bandaufsätze an, die sich an- und abclipsen lassen. Die meisten Eltern nutzen das Band bis etwa 3-4 Jahre und wechseln dann zu normalen Bügeln, wenn das Kind alt genug ist, sie aufzubehalten."
             />
           </div>
         </section>
@@ -320,7 +320,7 @@ export default function KinderPage() {
           <h2 className="text-3xl font-bold mb-4">Kleine Augen schützen. Elternvertrauen aufbauen.</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
             Kinderboutiquen, Spielzeugläden, Kinderarztpraxen, Ferienlager, Strandresorts,
-            Schulbedarfsgeschäfte — unsere Kinder-Sonnenbrillen verkaufen sich überall dort,
+            Schulbedarfsgeschäfte -- unsere Kinder-Sonnenbrillen verkaufen sich überall dort,
             wo Eltern einkaufen. Vollständige Sicherheitsdokumentation inklusive. Kostenlose
             Muster verfügbar.
           </p>
@@ -368,12 +368,12 @@ export default function KinderPage() {
           {
             "@type": "Question",
             "name": "Kann ich Kinder-Sonnenbrillen mit Markenlogos oder Figuren individualisieren?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Ja — individuelle Farben, Figurendesigns, Markenlogos, Glitterfassungen, leuchtende Bügel. MOQ für individuelle Designs beträgt 300 Stück pro Stil." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Ja -- individuelle Farben, Figurendesigns, Markenlogos, Glitterfassungen, leuchtende Bügel. MOQ für individuelle Designs beträgt 300 Stück pro Stil." }
           },
           {
             "@type": "Question",
             "name": "Haben Baby-Sonnenbrillen Kopfbänder?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Ja — abnehmbare verstellbare Neopren-Bänder (14-18cm). Kleinkind-Fassungen haben optionale Clip-on-Bänder. Die meisten Eltern nutzen Bänder bis zum Alter von 3-4 Jahren." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Ja -- abnehmbare verstellbare Neopren-Bänder (14-18cm). Kleinkind-Fassungen haben optionale Clip-on-Bänder. Die meisten Eltern nutzen Bänder bis zum Alter von 3-4 Jahren." }
           }
         ]
       })}} />

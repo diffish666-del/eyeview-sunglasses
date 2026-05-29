@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Control de Calidad de Gafas de Sol: Checklist de Inspección de Fábrica',
-  description: 'Un dueño de fábrica comparte el checklist completo de QC para gafas — pruebas de lentes, inspección de monturas, verificación de bisagras, verificación UV y qué buscar antes de aprobar la producción.',
+  description: 'Un dueño de fábrica comparte el checklist completo de QC para gafas -- pruebas de lentes, inspección de monturas, verificación de bisagras, verificación UV y qué buscar antes de aprobar la producción.',
   keywords: 'control calidad gafas, inspección gafas, estándares pruebas gafas, checklist QC gafas, defectos gafas de sol',
   alternates: {
     canonical: '/es/blog/control-calidad-gafas',
@@ -27,7 +27,7 @@ export default function Page() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un dueño de fábrica comparte el checklist completo de QC para gafas — pruebas de lentes, inspección de monturas, verificación de bisagras, verificación UV y qué buscar antes de aprobar la producción.",
+          "description": "Un dueño de fábrica comparte el checklist completo de QC para gafas -- pruebas de lentes, inspección de monturas, verificación de bisagras, verificación UV y qué buscar antes de aprobar la producción.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/control-calidad-gafas" },
           "inLanguage": "es"
         })}} />
@@ -76,7 +76,7 @@ export default function Page() {
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">¿Tienes Preguntas? Hablemos.</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas — solo consejos honestos basados en 20 años de experiencia.
+              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas -- solo consejos honestos basados en 20 años de experiencia.
             </p>
             <Link href="/es/contacto" className="btn-primary">
               Agenda una Llamada Gratis con Jacky

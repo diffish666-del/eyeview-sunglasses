@@ -28,7 +28,7 @@ export default function GuiaLentesGafasPage() {
           "dateModified": "2026-05-02",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un dueño de fábrica desglosa materiales, colores, recubrimientos y polarización de lentes — con costos reales y comparaciones honestas.",
+          "description": "Un dueño de fábrica desglosa materiales, colores, recubrimientos y polarización de lentes -- con costos reales y comparaciones honestas.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/guia-lentes-gafas" },
           "inLanguage": "es"
         })}} />
@@ -41,7 +41,7 @@ export default function GuiaLentesGafasPage() {
             {
               "@type": "Question",
               "name": "¿Cuál es el mejor material de lente para gafas de sol?",
-              "acceptedAnswer": { "@type": "Answer", "text": "No hay un único 'mejor' — depende del uso. El policarbonato gana en resistencia al impacto (deportes, niños). El CR-39 ofrece la óptica más nítida para moda y uso diario. El cristal es el estándar de oro para marcas premium que buscan resistencia a rayaduras y claridad perfecta. El TAC es el rey del presupuesto para gafas polarizadas. He enviado millones de cada uno." }
+              "acceptedAnswer": { "@type": "Answer", "text": "No hay un único 'mejor' -- depende del uso. El policarbonato gana en resistencia al impacto (deportes, niños). El CR-39 ofrece la óptica más nítida para moda y uso diario. El cristal es el estándar de oro para marcas premium que buscan resistencia a rayaduras y claridad perfecta. El TAC es el rey del presupuesto para gafas polarizadas. He enviado millones de cada uno." }
             },
             {
               "@type": "Question",
@@ -51,7 +51,7 @@ export default function GuiaLentesGafasPage() {
             {
               "@type": "Question",
               "name": "¿Qué color de lente es mejor para gafas de sol?",
-              "acceptedAnswer": { "@type": "Answer", "text": "El gris es la apuesta segura — reduce el brillo sin cambiar los colores. El marrón/ámbar mejora el contraste, ideal para conducir y golf. El verde da ese look clásico de Ray-Ban con color equilibrado. El amarillo es solo para poca luz. ¿Azul y espejo? Mayormente moda. Si eres dueño de marca y solo puedes elegir dos colores, ve con gris y marrón — cubren el 70% de la demanda." }
+              "acceptedAnswer": { "@type": "Answer", "text": "El gris es la apuesta segura -- reduce el brillo sin cambiar los colores. El marrón/ámbar mejora el contraste, ideal para conducir y golf. El verde da ese look clásico de Ray-Ban con color equilibrado. El amarillo es solo para poca luz. ¿Azul y espejo? Mayormente moda. Si eres dueño de marca y solo puedes elegir dos colores, ve con gris y marrón -- cubren el 70% de la demanda." }
             },
             {
               "@type": "Question",
@@ -61,7 +61,7 @@ export default function GuiaLentesGafasPage() {
             {
               "@type": "Question",
               "name": "¿Qué recubrimientos deben tener las gafas de sol?",
-              "acceptedAnswer": { "@type": "Answer", "text": "UV400 es obligatorio — innegociable. El antirreflectante es un segundo cercano (elimina el molesto reflejo trasero). Después: resistente a rayaduras para durabilidad, hidrofóbico si tus clientes son aventureros, oleofóbico si odian las huellas dactilares. Un paquete completo de recubrimientos añade $0.80-2.50 por par al por mayor pero te permite cobrar $20-40 más en retail." }
+              "acceptedAnswer": { "@type": "Answer", "text": "UV400 es obligatorio -- innegociable. El antirreflectante es un segundo cercano (elimina el molesto reflejo trasero). Después: resistente a rayaduras para durabilidad, hidrofóbico si tus clientes son aventureros, oleofóbico si odian las huellas dactilares. Un paquete completo de recubrimientos añade $0.80-2.50 por par al por mayor pero te permite cobrar $20-40 más en retail." }
             }
           ]
         })}} />
@@ -79,7 +79,7 @@ export default function GuiaLentesGafasPage() {
           </h1>
           <p className="text-xl text-gray-600">
             He probado, roto y enviado más lentes de gafas de sol de los que puedo contar. Esto es lo que 
-            20 años en la línea de producción me enseñaron sobre lo que realmente importa — y lo que es solo marketing.
+            20 años en la línea de producción me enseñaron sobre lo que realmente importa -- y lo que es solo marketing.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
@@ -137,19 +137,19 @@ export default function GuiaLentesGafasPage() {
             lo explica claramente.
           </p>
           <p>
-            ¿Por qué? El tinte oscuro hace que tus pupilas se dilaten — se abren porque creen que está oscureciendo. 
+            ¿Por qué? El tinte oscuro hace que tus pupilas se dilaten -- se abren porque creen que está oscureciendo. 
             Pero si esos lentes no bloquean UV, ahora estás canalizando <em>más</em> radiación dañina hacia pupilas 
             bien abiertas. Es como abrir las ventanas durante una tormenta de arena porque te pusiste una venda 
             en los ojos.
           </p>
           <p>Contra qué protegen los lentes de calidad:</p>
           <ul>
-            <li><strong>Rayos UVA (320–400nm):</strong> Los sigilosos. Penetran profundamente en tu ojo. Vinculados a cataratas y degeneración macular con años de exposición.</li>
-            <li><strong>Rayos UVB (280–320nm):</strong> Los agresivos. Queman. ¿Has oído hablar de la fotoqueratitis? Es básicamente una quemadura solar en tu córnea. Nada agradable.</li>
-            <li><strong>Deslumbramiento:</strong> Luz reflejada en agua, carreteras, nieve, capós de coches. No es solo molesto — es un problema de seguridad vial. Los lentes polarizados existen por algo.</li>
+            <li><strong>Rayos UVA (320-400nm):</strong> Los sigilosos. Penetran profundamente en tu ojo. Vinculados a cataratas y degeneración macular con años de exposición.</li>
+            <li><strong>Rayos UVB (280-320nm):</strong> Los agresivos. Queman. ¿Has oído hablar de la fotoqueratitis? Es básicamente una quemadura solar en tu córnea. Nada agradable.</li>
+            <li><strong>Deslumbramiento:</strong> Luz reflejada en agua, carreteras, nieve, capós de coches. No es solo molesto -- es un problema de seguridad vial. Los lentes polarizados existen por algo.</li>
           </ul>
           <p>
-            Para dueños de marca: la protección UV no es opcional. Es un requisito legal —{' '}
+            Para dueños de marca: la protección UV no es opcional. Es un requisito legal --{' '}
             <a href="https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/sunglasses" target="_blank" rel="noopener" className="text-primary-600 hover:underline">la FDA regula las gafas de sol</a>{' '}
             como productos emisores de radiación en EE.UU., y la UE requiere marcado CE. 
             Si te pillan vendiendo gafas sin certificación UV adecuada, tu envío queda confiscado en aduanas. 
@@ -165,7 +165,7 @@ export default function GuiaLentesGafasPage() {
             sin filtro.
           </p>
 
-          <h3 className="text-2xl font-bold mt-10 mb-4">Policarbonato — El Tipo Duro</h3>
+          <h3 className="text-2xl font-bold mt-10 mb-4">Policarbonato -- El Tipo Duro</h3>
           <p>
             Desarrollado originalmente para cúpulas de aviones de combate y viseras de cascos de astronautas. 
             Eso debería decirte algo sobre su resistencia al impacto. Una vez vi a un trabajador de fábrica pisar 
@@ -176,7 +176,7 @@ export default function GuiaLentesGafasPage() {
               <h4 className="font-bold text-green-800 mb-2">En Lo que Destaca</h4>
               <ul className="text-green-700 text-sm space-y-1">
                 <li>10 veces más resistente al impacto que CR-39 o cristal</li>
-                <li>Ligero — gravedad específica 1,20</li>
+                <li>Ligero -- gravedad específica 1,20</li>
                 <li>Protección UV incorporada (no necesita recubrimiento extra)</li>
                 <li>No se rompe en tus ojos si algo lo golpea</li>
                 <li>Delgado incluso en graduaciones fuertes</li>
@@ -186,34 +186,34 @@ export default function GuiaLentesGafasPage() {
               <h4 className="font-bold text-red-800 mb-2">Donde Falla</h4>
               <ul className="text-red-700 text-sm space-y-1">
                 <li>La claridad óptica no es tan nítida como CR-39 o cristal</li>
-                <li>Se raya más fácil — necesita recubrimiento duro</li>
+                <li>Se raya más fácil -- necesita recubrimiento duro</li>
                 <li>Ligera aberración cromática en los bordes</li>
                 <li>Más caro que TAC</li>
               </ul>
             </div>
           </div>
           <p><strong>Quién debería usarlo:</strong> Marcas deportivas, gafas infantiles, gafas de seguridad, cualquier cosa activa. Si tu cliente puede dejar caer, sentarse sobre o lanzar sus gafas, policarbonato.</p>
-          <p><strong>Costo al por mayor del lente:</strong> $1.50–$4.00 por par.</p>
+          <p><strong>Costo al por mayor del lente:</strong> $1.50-$4.00 por par.</p>
 
-          <h3 className="text-2xl font-bold mt-10 mb-4">CR-39 — El Todoterreno</h3>
+          <h3 className="text-2xl font-bold mt-10 mb-4">CR-39 -- El Todoterreno</h3>
           <p>
             El CR-39 ha sido el caballo de batalla de la industria óptica desde 1947. El nombre significa 
-            &quot;Columbia Resin #39&quot; — fue literalmente la fórmula número 39 que probaron. Menos mal que 
+            &quot;Columbia Resin #39&quot; -- fue literalmente la fórmula número 39 que probaron. Menos mal que 
             no pararon en la #38. 
             (<a href="https://en.wikipedia.org/wiki/CR-39" target="_blank" rel="noopener" className="text-primary-600 hover:underline">La historia es fascinante</a> si te interesa la ciencia de materiales.)
           </p>
           <p>
             Este es mi favorito personal para gafas de moda. La claridad óptica es notablemente mejor que el 
-            policarbonato — pon un lente CR-39 y uno de policarbonato lado a lado, mira a través de ellos a un 
+            policarbonato -- pon un lente CR-39 y uno de policarbonato lado a lado, mira a través de ellos a un 
             texto fino, y verás la diferencia inmediatamente. Los colores son más fieles, los bordes más nítidos.
           </p>
           <div className="grid md:grid-cols-2 gap-4 my-6">
             <div className="bg-green-50 p-4 rounded-lg">
               <h4 className="font-bold text-green-800 mb-2">En Lo que Destaca</h4>
               <ul className="text-green-700 text-sm space-y-1">
-                <li>Excelente claridad óptica (número Abbe: 58 — técnico pero importa)</li>
+                <li>Excelente claridad óptica (número Abbe: 58 -- técnico pero importa)</li>
                 <li>Mejor resistencia a rayaduras que policarbonato</li>
-                <li>Acepta tintado de forma preciosa — cualquier color, cualquier degradado</li>
+                <li>Acepta tintado de forma preciosa -- cualquier color, cualquier degradado</li>
                 <li>Suficientemente ligero para uso todo el día</li>
                 <li>Buena relación calidad-precio</li>
               </ul>
@@ -229,9 +229,9 @@ export default function GuiaLentesGafasPage() {
             </div>
           </div>
           <p><strong>Quién debería usarlo:</strong> Marcas de moda, uso diario, gafas de sol graduadas, cualquiera que apunte a mercados de gama media a premium. Es lo que recomiendo al 60% de nuestros clientes de moda.</p>
-          <p><strong>Costo al por mayor del lente:</strong> $1.00–$3.50 por par.</p>
+          <p><strong>Costo al por mayor del lente:</strong> $1.00-$3.50 por par.</p>
 
-          <h3 className="text-2xl font-bold mt-10 mb-4">Cristal — El Viejo Rey</h3>
+          <h3 className="text-2xl font-bold mt-10 mb-4">Cristal -- El Viejo Rey</h3>
           <p>
             Hay una razón por la que Ray-Ban usó cristal exclusivamente durante décadas. Nada lo supera en pureza 
             óptica. Cuando sostengo un lente de cristal de calidad y miro a través de él, es como mirar a través 
@@ -249,7 +249,7 @@ export default function GuiaLentesGafasPage() {
                 <li>La mejor claridad óptica que el dinero puede comprar (Abbe: 59+)</li>
                 <li>Resistencia a rayaduras que se ríe de llaves y monedas</li>
                 <li>No se deforma, distorsiona ni degrada con el tiempo</li>
-                <li>Sensación premium — sientes la calidad en la mano</li>
+                <li>Sensación premium -- sientes la calidad en la mano</li>
                 <li>Resistencia química (no reacciona al protector solar ni al sudor)</li>
               </ul>
             </div>
@@ -257,7 +257,7 @@ export default function GuiaLentesGafasPage() {
               <h4 className="font-bold text-red-800 mb-2">Donde Falla</h4>
               <ul className="text-red-700 text-sm space-y-1">
                 <li>Pesado. Notablemente pesado. (Gravedad específica: 2,54)</li>
-                <li>Puede romperse — preocupación de seguridad para uso activo</li>
+                <li>Puede romperse -- preocupación de seguridad para uso activo</li>
                 <li>Más caro de producir y enviar</li>
                 <li>Compatibilidad limitada con monturas (lente pesado necesita montura robusta)</li>
                 <li>No apto para niños, deportes ni aplicaciones de seguridad</li>
@@ -265,24 +265,24 @@ export default function GuiaLentesGafasPage() {
             </div>
           </div>
           <p><strong>Quién debería usarlo:</strong> Marcas de lujo, líneas de moda premium, gafas para conducir, cualquiera que venda a $100+ en retail y quiera &quot;la mejor óptica&quot; como argumento de venta.</p>
-          <p><strong>Costo al por mayor del lente:</strong> $3.00–$8.00+ por par.</p>
+          <p><strong>Costo al por mayor del lente:</strong> $3.00-$8.00+ por par.</p>
 
-          <h3 className="text-2xl font-bold mt-10 mb-4">TAC — El Campeón del Presupuesto</h3>
+          <h3 className="text-2xl font-bold mt-10 mb-4">TAC -- El Campeón del Presupuesto</h3>
           <p>
             TAC (Celulosa de Triacetato) es el caballo de batalla del mercado de gafas polarizadas asequibles. 
             Si alguna vez compraste gafas polarizadas por menos de $30, casi seguro tenían lentes TAC. Es un 
-            sándwich — una película polarizante prensada entre capas de acetato de celulosa.
+            sándwich -- una película polarizante prensada entre capas de acetato de celulosa.
           </p>
           <p>
             Seré honesto: TAC no va a ganar premios por calidad óptica o durabilidad. Pero hace una cosa muy bien: 
-            hace que las gafas polarizadas sean accesibles. Y para una marca que vende a $15–$40 en retail, eso 
+            hace que las gafas polarizadas sean accesibles. Y para una marca que vende a $15-$40 en retail, eso 
             es exactamente lo que importa.
           </p>
           <div className="grid md:grid-cols-2 gap-4 my-6">
             <div className="bg-green-50 p-4 rounded-lg">
               <h4 className="font-bold text-green-800 mb-2">En Lo que Destaca</h4>
               <ul className="text-green-700 text-sm space-y-1">
-                <li>La opción de lente polarizado más barata — punto</li>
+                <li>La opción de lente polarizado más barata -- punto</li>
                 <li>El material de lente más ligero del mercado</li>
                 <li>Buena eficiencia de polarización (bloquea 99%+ del deslumbramiento)</li>
                 <li>Protección UV400 de serie</li>
@@ -300,8 +300,8 @@ export default function GuiaLentesGafasPage() {
               </ul>
             </div>
           </div>
-          <p><strong>Quién debería usarlo:</strong> Marcas económicas, gafas promocionales, líneas de polarizadas de entrada, productos de gasolinera y tiendas de souvenirs. Sin desprecio — hay un mercado enorme para gafas polarizadas asequibles.</p>
-          <p><strong>Costo al por mayor del lente:</strong> $0.50–$2.00 por par. Sí, leíste bien.</p>
+          <p><strong>Quién debería usarlo:</strong> Marcas económicas, gafas promocionales, líneas de polarizadas de entrada, productos de gasolinera y tiendas de souvenirs. Sin desprecio -- hay un mercado enorme para gafas polarizadas asequibles.</p>
+          <p><strong>Costo al por mayor del lente:</strong> $0.50-$2.00 por par. Sí, leíste bien.</p>
 
           {/* Tabla Comparativa de Materiales */}
           <div className="overflow-x-auto my-8">
@@ -342,7 +342,7 @@ export default function GuiaLentesGafasPage() {
                 <h3 className="font-bold text-lg">Gris</h3>
               </div>
               <p className="text-gray-600 text-sm mb-2">
-                La Suiza de los colores de lente — neutral, fiable, no ofende a nadie. Reduce el brillo uniformemente 
+                La Suiza de los colores de lente -- neutral, fiable, no ofende a nadie. Reduce el brillo uniformemente 
                 en todo el espectro sin alterar los colores. Lo que ves a través del gris es lo que verías sin gafas, 
                 solo más oscuro.
               </p>
@@ -398,7 +398,7 @@ export default function GuiaLentesGafasPage() {
                 <h3 className="font-bold text-lg">Azul</h3>
               </div>
               <p className="text-gray-600 text-sm mb-2">
-                Seamos realistas — azul es 90% moda, 10% función. Reduce algo de deslumbramiento y mejora 
+                Seamos realistas -- azul es 90% moda, 10% función. Reduce algo de deslumbramiento y mejora 
                 ligeramente los tonos cálidos, pero la gente compra lentes azules porque quedan genial. Y esa 
                 es una razón perfectamente válida en este negocio.
               </p>
@@ -417,7 +417,7 @@ export default function GuiaLentesGafasPage() {
                 no puede ver tus ojos. A algunos les encanta. A otros les molesta.
               </p>
               <p className="text-sm"><strong>Úsalo para:</strong> Alto deslumbramiento (playa, nieve, agua), moda</p>
-              <p className="text-sm"><strong>Mi opinión:</strong> Espejo añade $0.30–0.80/par al por mayor pero te permite cobrar $10–20 más en retail. Mejora de alto margen.</p>
+              <p className="text-sm"><strong>Mi opinión:</strong> Espejo añade $0.30-0.80/par al por mayor pero te permite cobrar $10-20 más en retail. Mejora de alto margen.</p>
             </div>
           </div>
 
@@ -426,17 +426,17 @@ export default function GuiaLentesGafasPage() {
           <p>
             Los recubrimientos no son noticia. Nadie publica &quot;¡miren el recubrimiento hidrofóbico de mis 
             nuevas gafas!&quot; en Instagram. Pero los recubrimientos son lo que separa unas gafas de $30 de 
-            unas de $130 — y cuestan centavos añadirlos a nivel de fábrica.
+            unas de $130 -- y cuestan centavos añadirlos a nivel de fábrica.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Recubrimiento Antirreflectante (AR)</h3>
           <p>
             Este me saca de quicio porque muchas marcas se lo saltan. El problema: la luz no solo viene de 
-            adelante. También rebota en la superficie <em>trasera</em> de tu lente — la luz reflejada desde 
+            adelante. También rebota en la superficie <em>trasera</em> de tu lente -- la luz reflejada desde 
             detrás de ti golpea la superficie interna del lente y rebota directo a tus ojos. Es esa molesta 
             imagen fantasma que ves cuando el sol está detrás de ti. El recubrimiento AR elimina el 99,5% de eso.
           </p>
-          <p><strong>Costo:</strong> $0.30–$1.00 por par al por mayor. Lo pongo en todo lo que enviamos. En todo.</p>
+          <p><strong>Costo:</strong> $0.30-$1.00 por par al por mayor. Lo pongo en todo lo que enviamos. En todo.</p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Recubrimiento Hidrofóbico</h3>
           <p>
@@ -445,16 +445,16 @@ export default function GuiaLentesGafasPage() {
             con recubrimiento y otro sin él bajo un grifo. El recubierto estaba seco en segundos. El otro parecía 
             una mampara de ducha. Ese día pidió hidrofóbico en toda su línea.
           </p>
-          <p><strong>Costo:</strong> $0.20–$0.80 por par al por mayor.</p>
+          <p><strong>Costo:</strong> $0.20-$0.80 por par al por mayor.</p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Recubrimiento Oleofóbico</h3>
           <p>
-            Misma idea que el hidrofóbico pero para aceites — huellas dactilares, grasa facial, residuos de 
+            Misma idea que el hidrofóbico pero para aceites -- huellas dactilares, grasa facial, residuos de 
             protector solar. ¿Sabes cómo la pantalla de tu móvil repele las huellas? Misma tecnología. Tus 
             clientes no sabrán por qué sus gafas se mantienen más limpias que las anteriores. Solo sabrán que 
             les gustan más las tuyas.
           </p>
-          <p><strong>Costo:</strong> $0.25–$0.80 por par al por mayor.</p>
+          <p><strong>Costo:</strong> $0.25-$0.80 por par al por mayor.</p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Recubrimiento Resistente a Rayaduras</h3>
           <p>
@@ -463,7 +463,7 @@ export default function GuiaLentesGafasPage() {
             parecerá que perdió una pelea con un gato en un mes. Con el recubrimiento, se verá limpio durante 
             un año de uso normal.
           </p>
-          <p><strong>Costo:</strong> $0.15–$0.50 por par al por mayor. Debería ser estándar. Punto.</p>
+          <p><strong>Costo:</strong> $0.15-$0.50 por par al por mayor. Debería ser estándar. Punto.</p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Recubrimiento Antivaho</h3>
           <p>
@@ -471,13 +471,13 @@ export default function GuiaLentesGafasPage() {
             cambia la tensión superficial para que la humedad se extienda en una película fina e invisible en 
             lugar de formar gotas visibles. Más útil para gafas deportivas y mercados con alta humedad.
           </p>
-          <p><strong>Costo:</strong> $0.30–$1.00 por par al por mayor.</p>
+          <p><strong>Costo:</strong> $0.30-$1.00 por par al por mayor.</p>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 El Truco del Paquete de Recubrimientos</h3>
             <p className="text-amber-800">
               Esto es lo que le digo a cada dueño de marca: un paquete completo de recubrimientos (AR + hidrofóbico + 
-              oleofóbico + anti-rayaduras) añade $0.80–$2.50 por par al por mayor. Puedes cobrar $20–$40 más en retail. 
+              oleofóbico + anti-rayaduras) añade $0.80-$2.50 por par al por mayor. Puedes cobrar $20-$40 más en retail. 
               Esa es la mejora de mayor margen en todo el negocio de las gafas de sol. Ofrecemos paquetes de{' '}
               <Link href="/es/productos" className="text-amber-900 underline">recubrimientos personalizables</Link> exactamente por esta razón.
             </p>
@@ -488,14 +488,14 @@ export default function GuiaLentesGafasPage() {
           <p>
             Tuve una discusión acalorada con un dueño de marca el año pasado sobre polarización. Quería ahorrar 
             $1.50 por par yendo sin polarizar. Le dije que perdería $15 por par en poder de fijación de precios 
-            en retail. No me escuchó. Seis meses después llamó para volver a pedir — polarizado esta vez. 
+            en retail. No me escuchó. Seis meses después llamó para volver a pedir -- polarizado esta vez. 
             &quot;Tenías razón, Jacky. Los clientes no paraban de preguntar.&quot;
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Cómo Funciona Realmente la Polarización</h3>
           <p>
-            Clase rápida de física — seré breve. La luz normal vibra en todas las direcciones. Cuando rebota 
-            en una superficie plana (carretera, agua, nieve, capó de coche), se &quot;polariza horizontalmente&quot; — 
+            Clase rápida de física -- seré breve. La luz normal vibra en todas las direcciones. Cuando rebota 
+            en una superficie plana (carretera, agua, nieve, capó de coche), se &quot;polariza horizontalmente&quot; -- 
             vibra mayormente de lado a lado. Esa luz horizontal concentrada es lo que tu cerebro percibe como 
             deslumbramiento cegador.
           </p>
@@ -503,13 +503,13 @@ export default function GuiaLentesGafasPage() {
             Un lente polarizado tiene un filtro con diminutas franjas verticales. La luz horizontal se bloquea. 
             La luz vertical pasa. Resultado: el deslumbramiento desaparece, pero puedes ver todo lo demás con 
             claridad. La <a href="https://en.wikipedia.org/wiki/Polarizer" target="_blank" rel="noopener" className="text-primary-600 hover:underline">física detrás de la polarización</a> está 
-            bien documentada si quieres profundizar. Pero el efecto práctico es genuinamente impresionante — 
+            bien documentada si quieres profundizar. Pero el efecto práctico es genuinamente impresionante -- 
             pon un lente polarizado sobre el agua y mira cómo desaparece el deslumbramiento. Puedes ver hasta el fondo.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Dónde Brillan los Lentes Polarizados</h3>
           <ul>
-            <li><strong>Conducción:</strong> El deslumbramiento de la carretera desaparece. Reflejos de otros coches — eliminados. Esta es una característica de seguridad genuina.</li>
+            <li><strong>Conducción:</strong> El deslumbramiento de la carretera desaparece. Reflejos de otros coches -- eliminados. Esta es una característica de seguridad genuina.</li>
             <li><strong>Pesca:</strong> Puedes ver los peces a través de la superficie del agua. Los pescadores serios no compran sin polarizar.</li>
             <li><strong>Deportes acuáticos:</strong> Corta el deslumbramiento de la superficie como nada más.</li>
             <li><strong>Nieve:</strong> Reduce el intenso brillo blanco que causa la ceguera de nieve.</li>
@@ -526,8 +526,8 @@ export default function GuiaLentesGafasPage() {
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">El Caso de Negocio para Polarizado</h3>
             <p className="text-blue-800">
-              Añadir polarización cuesta $0.50–$2.00 por par al por mayor. ¿La prima en retail? 30–60% más de precio. 
-              Un par de $25 sin polarizar se convierte en un par polarizado de $35–$40. La demanda de polarizado 
+              Añadir polarización cuesta $0.50-$2.00 por par al por mayor. ¿La prima en retail? 30-60% más de precio. 
+              Un par de $25 sin polarizar se convierte en un par polarizado de $35-$40. La demanda de polarizado 
               ha crecido un 15% anual en los últimos cinco años. Si no lo ofreces, estás dejando dinero sobre la mesa.
             </p>
           </div>
@@ -536,8 +536,8 @@ export default function GuiaLentesGafasPage() {
           <h2 id="fotocromatico" className="text-3xl font-bold mt-16 mb-6">Lentes Fotocromáticos: Tecnología Interesante, Limitaciones Reales</h2>
           <p>
             Los lentes fotocromáticos (quizás los conozcas como &quot;Transitions&quot;) se oscurecen automáticamente 
-            con la luz solar y se aclaran en interiores. Usan moléculas reactivas a UV — cloruro de plata o compuestos 
-            orgánicos — que cambian de forma cuando los UV los golpean, absorbiendo más luz visible.
+            con la luz solar y se aclaran en interiores. Usan moléculas reactivas a UV -- cloruro de plata o compuestos 
+            orgánicos -- que cambian de forma cuando los UV los golpean, absorbiendo más luz visible.
           </p>
           <p>
             Creo que son una tecnología genuinamente interesante. Pero también creo que se sobrevaloran. Esto es 
@@ -545,22 +545,22 @@ export default function GuiaLentesGafasPage() {
           </p>
           <ul>
             <li><strong>Los parabrisas bloquean UV.</strong> Los parabrisas modernos tienen capas de filtrado UV. Como los lentes fotocromáticos necesitan UV para oscurecerse, a menudo no funcionan bien dentro de un coche. Conduces bajo un sol intenso, entrecerrado los ojos, preguntándote por qué tus lentes &quot;automáticos&quot; no hacen nada. Las fórmulas más nuevas son mejores, pero sigue siendo un problema conocido.</li>
-            <li><strong>El calor los hace perezosos.</strong> Por encima de 35°C, las reacciones fotocromáticas se ralentizan. Los lentes pueden no oscurecerse completamente en el pico del verano — exactamente cuando más los necesitas.</li>
+            <li><strong>El calor los hace perezosos.</strong> Por encima de 35°C, las reacciones fotocromáticas se ralentizan. Los lentes pueden no oscurecerse completamente en el pico del verano -- exactamente cuando más los necesitas.</li>
             <li><strong>Se desgastan.</strong> El efecto fotocromático se degrada con 2-3 años de uso diario. Siguen protegiendo contra UV, pero el oscurecimiento se vuelve más lento y menos dramático.</li>
             <li><strong>La velocidad de transición no es instantánea.</strong> Oscurecerse toma 30-60 segundos. Aclararse toma 2-5 minutos. Si entras en un restaurante oscuro, llevarás gafas de sol en interiores durante uno o dos minutos. Ligeramente incómodo.</li>
           </ul>
           <p>
             Dicho esto, para entusiastas del aire libre que genuinamente pasan tiempo moviéndose entre sol y 
-            sombra — senderistas, ciclistas, trabajadores de la construcción — los lentes fotocromáticos son 
+            sombra -- senderistas, ciclistas, trabajadores de la construcción -- los lentes fotocromáticos son 
             una conveniencia real. Solo gestiona las expectativas.
           </p>
-          <p><strong>Costo al por mayor:</strong> 2–4 veces más que los lentes tintados estándar. Vale la pena ofrecerlo como opción premium, no como estándar.</p>
+          <p><strong>Costo al por mayor:</strong> 2-4 veces más que los lentes tintados estándar. Vale la pena ofrecerlo como opción premium, no como estándar.</p>
 
           {/* Elegir por Actividad */}
           <h2 id="elegir-lentes" className="text-3xl font-bold mt-16 mb-6">Elegir Lentes por Actividad</h2>
           <p>
             Me preguntan &quot;¿qué lente debería usar para X?&quot; unas cinco veces al día. Aquí está mi 
-            chuleta — la misma que tengo pegada en la pared junto a mi escritorio:
+            chuleta -- la misma que tengo pegada en la pared junto a mi escritorio:
           </p>
 
           <div className="overflow-x-auto my-8">
@@ -590,45 +590,45 @@ export default function GuiaLentesGafasPage() {
           <h2 id="para-marcas" className="text-3xl font-bold mt-16 mb-6">Estrategia de Lentes por Nivel de Precio</h2>
           <p>
             Esta es la sección que ojalá hubiera existido cuando empecé a ayudar a marcas hace 15 años. Tus 
-            elecciones de lentes necesitan coincidir con tu precio de venta — gastar de más mata tus márgenes, 
+            elecciones de lentes necesitan coincidir con tu precio de venta -- gastar de más mata tus márgenes, 
             gastar de menos destruye tus reseñas.
           </p>
 
-          <h3 className="text-2xl font-bold mt-8 mb-4">Marcas Económicas ($10–$30 en retail)</h3>
+          <h3 className="text-2xl font-bold mt-8 mb-4">Marcas Económicas ($10-$30 en retail)</h3>
           <p>Los márgenes son ajustados. Cada centavo cuenta. Así es como se hace funcionar:</p>
           <ul>
-            <li>TAC polarizado para tus SKU &quot;polarizados&quot; — los clientes a este precio no notarán la diferencia óptica con CR-39</li>
+            <li>TAC polarizado para tus SKU &quot;polarizados&quot; -- los clientes a este precio no notarán la diferencia óptica con CR-39</li>
             <li>Policarbonato no polarizado para tu línea estándar</li>
             <li>UV400 obligatorio (obviamente)</li>
-            <li>Gris y marrón cubren el 80% de la demanda — no acumules demasiados colores</li>
-            <li>Acabado espejo añade $0.30–0.80/par pero te permite cobrar $5–10 más. Alto ROI.</li>
+            <li>Gris y marrón cubren el 80% de la demanda -- no acumules demasiados colores</li>
+            <li>Acabado espejo añade $0.30-0.80/par pero te permite cobrar $5-10 más. Alto ROI.</li>
           </ul>
 
-          <h3 className="text-2xl font-bold mt-8 mb-4">Marcas de Gama Media ($30–$80 en retail)</h3>
+          <h3 className="text-2xl font-bold mt-8 mb-4">Marcas de Gama Media ($30-$80 en retail)</h3>
           <p>Aquí es donde la calidad de lentes se convierte en ventaja competitiva:</p>
           <ul>
             <li>CR-39 para estilos de moda, policarbonato para estilos deportivos</li>
-            <li>Polarizado debería estar disponible en todos los modelos clave — se espera a este precio</li>
+            <li>Polarizado debería estar disponible en todos los modelos clave -- se espera a este precio</li>
             <li>Paquete de recubrimiento AR + hidrofóbico (el cliente puede sentir la diferencia)</li>
             <li>Gama completa de colores con opciones de espejo estacionales para fotos de producto de Instagram</li>
-            <li>Considera fotocromático como SKU premium limitado — genera expectación</li>
+            <li>Considera fotocromático como SKU premium limitado -- genera expectación</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Marcas Premium ($80+ en retail)</h3>
           <p>A este nivel, compites con Maui Jim y Ray-Ban. Los lentes necesitan respaldar el precio:</p>
           <ul>
-            <li>Cristal o CR-39 premium — nada menos</li>
+            <li>Cristal o CR-39 premium -- nada menos</li>
             <li>Paquete completo de recubrimientos: AR + hidrofóbico + oleofóbico + anti-rayaduras</li>
             <li>Polarizado como <em>estándar</em>, no como mejora</li>
             <li>Fotocromático disponible como opción</li>
-            <li>Considera colores de tinte exclusivos personalizados — &quot;solo disponible de [tu marca]&quot;</li>
+            <li>Considera colores de tinte exclusivos personalizados -- &quot;solo disponible de [tu marca]&quot;</li>
           </ul>
 
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">¿No Estás Seguro de Qué Lentes Van con Tu Marca?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Envíame tu precio objetivo de venta y tu cliente objetivo, y te diré exactamente qué configuración 
-              de lentes maximiza tus márgenes sin sacrificar calidad. He hecho esto para más de 500 marcas — 
+              de lentes maximiza tus márgenes sin sacrificar calidad. He hecho esto para más de 500 marcas -- 
               toma unos 10 minutos.
             </p>
             <Link href="/es/contacto" className="btn-primary">
@@ -645,24 +645,24 @@ export default function GuiaLentesGafasPage() {
               <p className="text-gray-600">
                 No hay un único &quot;mejor.&quot; Policarbonato para deportes y durabilidad. CR-39 para la óptica 
                 más nítida en uso diario. Cristal para marcas premium que quieren la mejor claridad absoluta y 
-                resistencia a rayaduras. TAC para polarizado asequible. He enviado millones de cada uno — todos 
+                resistencia a rayaduras. TAC para polarizado asequible. He enviado millones de cada uno -- todos 
                 tienen su lugar.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿Valen la pena los lentes polarizados?</h3>
               <p className="text-gray-600">
-                Para conducir, pescar y deportes acuáticos — 100% sí. El aumento de costo al por mayor es solo 
-                $0.50–$2.00 por par, pero puedes cobrar 30–60% más en retail. Desde la perspectiva de negocio, 
+                Para conducir, pescar y deportes acuáticos -- 100% sí. El aumento de costo al por mayor es solo 
+                $0.50-$2.00 por par, pero puedes cobrar 30-60% más en retail. Desde la perspectiva de negocio, 
                 es una de las mejores jugadas de margen de la industria.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿Qué color de lente es mejor para gafas de sol?</h3>
               <p className="text-gray-600">
-                Gris es el todoterreno seguro. Marrón mejora el contraste — ideal para conducir y golf. Verde es 
+                Gris es el todoterreno seguro. Marrón mejora el contraste -- ideal para conducir y golf. Verde es 
                 el estilo clásico Ray-Ban. Amarillo es solo para poca luz. Azul y espejo son jugadas de moda. Si 
-                eres marca y solo puedes elegir dos, ve con gris y marrón — cubren el 70% de la demanda del cliente.
+                eres marca y solo puedes elegir dos, ve con gris y marrón -- cubren el 70% de la demanda del cliente.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
@@ -678,7 +678,7 @@ export default function GuiaLentesGafasPage() {
               <p className="text-gray-600">
                 UV400 es innegociable. AR es un segundo cercano. Después: anti-rayaduras para durabilidad, 
                 hidrofóbico para clientes aventureros, oleofóbico para los que odian las huellas. Un paquete 
-                completo añade $0.80–$2.50 por par al por mayor pero te permite cobrar $20–$40 más en retail. 
+                completo añade $0.80-$2.50 por par al por mayor pero te permite cobrar $20-$40 más en retail. 
                 Haz las cuentas.
               </p>
             </div>
@@ -690,7 +690,7 @@ export default function GuiaLentesGafasPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/es/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM en Gafas de Sol: Guía Completa</h3>
-                <p className="text-gray-600 text-sm">El desglose honesto de ambos modelos de fabricación — de alguien que dirige una fábrica.</p>
+                <p className="text-gray-600 text-sm">El desglose honesto de ambos modelos de fabricación -- de alguien que dirige una fábrica.</p>
               </Link>
               <Link href="/es/blog/crear-marca-gafas" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Cómo Crear tu Marca de Gafas de Sol</h3>

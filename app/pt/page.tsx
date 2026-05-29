@@ -35,7 +35,7 @@ const features = [
   {
     emoji: '🎨',
     title: 'Personalização Total',
-    description: 'Do design da armação e cor das lentes à gravação do logo e embalagem personalizada — realizamos sua visão de óculos de sol com capacidades completas de fabricação OEM e ODM.',
+    description: 'Do design da armação e cor das lentes à gravação do logo e embalagem personalizada -- realizamos sua visão de óculos de sol com capacidades completas de fabricação OEM e ODM.',
   },
   {
     emoji: '💰',
@@ -55,7 +55,7 @@ const features = [
   {
     emoji: '📦',
     title: 'Pedido Mínimo Baixo',
-    description: 'Comece com apenas 50 peças por modelo — perfeito para novas marcas testando o mercado, lojas boutique e campanhas promocionais. Sem compromissos de estoque massivos.',
+    description: 'Comece com apenas 50 peças por modelo -- perfeito para novas marcas testando o mercado, lojas boutique e campanhas promocionais. Sem compromissos de estoque massivos.',
   },
   {
     emoji: '🌍',
@@ -79,7 +79,7 @@ const products = [
 ];
 
 const steps = [
-  { step: '01', title: 'Consulta Inicial', description: 'Compartilhe seus requisitos — estilo, quantidade, necessidades de personalização e orçamento. Nossa equipe oferece orientação especializada para ajudá-lo a escolher os produtos certos para seu mercado.' },
+  { step: '01', title: 'Consulta Inicial', description: 'Compartilhe seus requisitos -- estilo, quantidade, necessidades de personalização e orçamento. Nossa equipe oferece orientação especializada para ajudá-lo a escolher os produtos certos para seu mercado.' },
   { step: '02', title: 'Design e Amostragem', description: 'Criamos designs detalhados com base nas suas especificações. Receba amostras físicas em 5-7 dias úteis para sua revisão e aprovação antes da produção em massa.' },
   { step: '03', title: 'Aprovação e Produção', description: 'Uma vez que você aprove as amostras, iniciamos a produção em grande escala. Nossa capacidade lida com pedidos de 50 a 100.000+ peças com controle de qualidade constante.' },
   { step: '04', title: 'Inspeção de Qualidade', description: 'Cada lote passa por uma inspeção de qualidade abrangente de 6 pontos incluindo testes de proteção UV, durabilidade de dobradiças, clareza de lentes e alinhamento de armações.' },
@@ -117,7 +117,7 @@ const faqs = [
   },
   {
     question: 'Como começo com um pedido de óculos de sol no atacado?',
-    answer: 'Começar é simples: 1) Entre em contato por email em jacky@eyeviewsunglasses.com ou WhatsApp no +86-18850281211 com seus requisitos. 2) Nossa equipe fornecerá um orçamento detalhado em 24 horas. 3) Revise e aprove as amostras. 4) Faça seu pedido e nós cuidamos do resto. Recebemos tanto compradores de primeira viagem quanto marcas estabelecidas.',
+    answer: 'Começar é simples: 1) Entre em contato por email em sales@eyeviewsunglasses.com ou WhatsApp no +86-18850281211 com seus requisitos. 2) Nossa equipe fornecerá um orçamento detalhado em 24 horas. 3) Revise e aprove as amostras. 4) Faça seu pedido e nós cuidamos do resto. Recebemos tanto compradores de primeira viagem quanto marcas estabelecidas.',
   },
 ];
 
@@ -137,7 +137,7 @@ const howToJsonLd = {
       '@type': 'HowToStep',
       position: 1,
       name: 'Consulta Inicial',
-      text: 'Compartilhe seus requisitos — estilo, quantidade, necessidades de personalização e orçamento. Nossa equipe oferece orientação especializada.',
+      text: 'Compartilhe seus requisitos -- estilo, quantidade, necessidades de personalização e orçamento. Nossa equipe oferece orientação especializada.',
       url: 'https://eyeviewsunglasses.com/pt/contato/',
     },
     {

@@ -20,42 +20,42 @@ const products = [
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$8,00 - $12,00',
     moq: '100 pçs',
-    description: 'O original. Fio de ouro fino, lentes perfeitamente circulares, plaquetas nasais de silicone ajustáveis. Esta é a armação que John Lennon tornou icônica e que todo amante do vintage ainda procura. Vendemos mais deste modelo do que de qualquer outro estilo redondo — e o fabricamos há 8 anos seguidos sem uma única mudança de design. Porque não se conserta o que não está quebrado.',
+    description: 'O original. Fio de ouro fino, lentes perfeitamente circulares, plaquetas nasais de silicone ajustáveis. Esta é a armação que John Lennon tornou icônica e que todo amante do vintage ainda procura. Vendemos mais deste modelo do que de qualquer outro estilo redondo -- e o fabricamos há 8 anos seguidos sem uma única mudança de design. Porque não se conserta o que não está quebrado.',
   },
   {
     name: 'Redondo Prateado',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$8,00 - $12,00',
     moq: '100 pçs',
-    description: 'Mesma forma redonda clássica, tom mais frio. O acabamento em prata escovada atrai o público minimalista — fãs de design escandinavo, profissionais de tecnologia, o pessoal do "menos é mais". Combina perfeitamente com guarda-roupas neutros. Um dos nossos distribuidores escandinavos trabalha apenas com redondos prateados e vende mais de 3.000 pares por trimestre.',
+    description: 'Mesma forma redonda clássica, tom mais frio. O acabamento em prata escovada atrai o público minimalista -- fãs de design escandinavo, profissionais de tecnologia, o pessoal do "menos é mais". Combina perfeitamente com guarda-roupas neutros. Um dos nossos distribuidores escandinavos trabalha apenas com redondos prateados e vende mais de 3.000 pares por trimestre.',
   },
   {
     name: 'Redondo Vintage Preto',
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$8,50 - $12,50',
     moq: '100 pçs',
-    description: 'Acetato preto grosso com um perfil marcante. Esta não é uma armação delicada de arame — é uma declaração. Pense em arquiteto, pense em professor de arte, pense em diretor criativo. A construção robusta confere um peso premium na mão que transmite qualidade. Popular entre boutiques de óculos independentes que querem algo com mais presença do que o metal.',
+    description: 'Acetato preto grosso com um perfil marcante. Esta não é uma armação delicada de arame -- é uma declaração. Pense em arquiteto, pense em professor de arte, pense em diretor criativo. A construção robusta confere um peso premium na mão que transmite qualidade. Popular entre boutiques de óculos independentes que querem algo com mais presença do que o metal.',
   },
   {
     name: 'Redondo Acetato Tartaruga',
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$9,00 - $13,00',
     moq: '100 pçs',
-    description: 'Padrão tartaruga quente em acetato laminado. Os tons marrons e âmbar multitonais criam uma profundidade que armações de cor única simplesmente não conseguem igualar. Este é o "smart casual" dos óculos redondos — funciona com camiseta, funciona com blazer. Consistentemente um dos nossos top 5 em reposições em todas as linhas de produtos.',
+    description: 'Padrão tartaruga quente em acetato laminado. Os tons marrons e âmbar multitonais criam uma profundidade que armações de cor única simplesmente não conseguem igualar. Este é o "smart casual" dos óculos redondos -- funciona com camiseta, funciona com blazer. Consistentemente um dos nossos top 5 em reposições em todas as linhas de produtos.',
   },
   {
     name: 'Redondo com Lentes Coloridas',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$9,50 - $13,50',
     moq: '100 pçs',
-    description: 'Lentes rosas. Lentes azuis. Lentes amarelas. Lentes verdes. Este é o óculos de festival — Coachella, Glastonbury, Tomorrowland. A armação fina de metal dourado com lentes coloridas vibrantes captura aquela energia boêmia de espírito livre. Fornecemos para vários vendedores de merchandising de festivais de música que as vendem no local por 5-8x o custo de atacado. As margens são absurdas.',
+    description: 'Lentes rosas. Lentes azuis. Lentes amarelas. Lentes verdes. Este é o óculos de festival -- Coachella, Glastonbury, Tomorrowland. A armação fina de metal dourado com lentes coloridas vibrantes captura aquela energia boêmia de espírito livre. Fornecemos para vários vendedores de merchandising de festivais de música que as vendem no local por 5-8x o custo de atacado. As margens são absurdas.',
   },
   {
     name: 'Redondo Oversized',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$10,00 - $14,00',
     moq: '100 pçs',
-    description: 'O irmão dramático. Lentes de 56-60mm que cobrem metade do rosto e fazem uma declaração do outro lado da sala. Os redondos oversized explodiram nas redes sociais — os influenciadores adoram as proporções. Mais cobertura solar que os redondos padrão também, então na verdade são mais protetores. Atualmente nosso estilo redondo de maior crescimento, 40% a mais ano após ano.',
+    description: 'O irmão dramático. Lentes de 56-60mm que cobrem metade do rosto e fazem uma declaração do outro lado da sala. Os redondos oversized explodiram nas redes sociais -- os influenciadores adoram as proporções. Mais cobertura solar que os redondos padrão também, então na verdade são mais protetores. Atualmente nosso estilo redondo de maior crescimento, 40% a mais ano após ano.',
   },
 ]
 
@@ -99,7 +99,7 @@ export default function RedondoPagePt() {
           <div className="max-w-4xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
               A armação redonda não começou como uma escolha de moda. No início dos anos 1900, era
-              simplesmente a forma mais fácil de fabricar — círculos eram simples de polir. Mas então
+              simplesmente a forma mais fácil de fabricar -- círculos eram simples de polir. Mas então
               algo aconteceu. John Lennon pegou um par de redondos pequenos de arame nos anos 60
               e os transformou no símbolo visual de toda uma geração. Paz, amor e
               lentes perfeitamente circulares. Da noite para o dia, a armação redonda passou de &quot;funcional&quot; para
@@ -108,14 +108,14 @@ export default function RedondoPagePt() {
             <p>
               A lista de pessoas que tornaram os redondos famosos parece um hall da fama cultural.
               Janis Joplin em Woodstock. Ozzy Osbourne no palco. Gandhi liderando uma nação.
-              Steve Jobs lançando o iPhone. Cada um escolheu armações redondas — e cada um
+              Steve Jobs lançando o iPhone. Cada um escolheu armações redondas -- e cada um
               fez com que significassem algo diferente. Rebeldia. Criatividade. Sabedoria. Simplicidade.
               Esse é o poder dessa forma: ela se adapta a quem a usa.
             </p>
             <p>
               Avançando para agora. A Geração Z descobriu a moda vintage e mergulhou de cabeça. Os óculos
               de sol redondos são top-5 em vendas globais novamente, impulsionados pela cultura thrift, a
-              moda de festivais e o lado estético do TikTok. A demanda é real e crescente — nossos
+              moda de festivais e o lado estético do TikTok. A demanda é real e crescente -- nossos
               pedidos de armações redondas aumentaram 35% ano após ano desde 2022. E com o <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">alerta da OMS sobre a exposição UV cumulativa</a>,
               óculos de moda que realmente protegem seus olhos são mais relevantes do que nunca.
               Se você não tem redondos em estoque, está deixando dinheiro na mesa.
@@ -172,7 +172,7 @@ export default function RedondoPagePt() {
               <p className="text-gray-700 mb-4 leading-relaxed">
                 O tamanho autêntico &quot;Lennon&quot;. Pequeno e deliberado. Estes são para pessoas que
                 se importam em acertar as proporções vintage exatamente. Não cobrem
-                muito rosto — esse é o ponto. É sobre a estética, não sobre a cobertura.
+                muito rosto -- esse é o ponto. É sobre a estética, não sobre a cobertura.
                 Muito popular com puristas vintage, compradores de óculos de grau e a
                 &quot;geração Harry Potter.&quot; Mais vendidos em óticas.
               </p>
@@ -186,7 +186,7 @@ export default function RedondoPagePt() {
               <h3 className="text-xl font-semibold mb-4 text-center">👓 Médio (49-53mm)</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 A aposta segura. Os redondos médios se adaptam à maior variedade de rostos e atraem
-                tanto homens quanto mulheres igualmente. Nem muito vintage, nem muito tendência — na medida certa.
+                tanto homens quanto mulheres igualmente. Nem muito vintage, nem muito tendência -- na medida certa.
                 Se você é novo em ter armações redondas em estoque e não conhece seu mercado ainda,
                 comece aqui. Estes têm a maior taxa de venda e a menor taxa de devolução
                 de qualquer tamanho redondo que produzimos.
@@ -203,7 +203,7 @@ export default function RedondoPagePt() {
                 A peça de declaração. Os redondos oversized estão por todo Instagram e TikTok.
                 Proporções grandes, máximo drama, muita cobertura solar. Estas são as
                 armações que geram as reações de &quot;MEU DEUS, onde você comprou?&quot;. Atualmente
-                nosso segmento de maior crescimento — 40% a mais ano após ano. Se seus clientes
+                nosso segmento de maior crescimento -- 40% a mais ano após ano. Se seus clientes
                 têm menos de 35 anos, provavelmente é isso que eles querem.
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
@@ -260,7 +260,7 @@ export default function RedondoPagePt() {
             <Link href="/pt/produtos/olho-de-gato" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">😎</div>
               <h3 className="font-semibold mb-2">Óculos Olho de Gato</h3>
-              <p className="text-sm text-gray-600">Outro ícone vintage — combina bem em coleções</p>
+              <p className="text-sm text-gray-600">Outro ícone vintage -- combina bem em coleções</p>
             </Link>
             <Link href="/pt/produtos/polarizado" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🔆</div>
@@ -281,23 +281,23 @@ export default function RedondoPagePt() {
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="Óculos redondos ficam bem em rostos redondos?"
-              answer="Honestamente, depende. A sabedoria convencional diz 'não — círculos sobre círculos deixa tudo mais redondo.' E isso é verdade para algumas pessoas. Mas muita gente com rosto redondo usa mesmo assim porque gosta do visual. Nossa recomendação: se você está abastecendo para varejo geral, priorize redondos médios e oversized (que funcionam em mais formatos de rosto). Se um cliente com rosto redondo perguntar, sugira uma forma angular como nosso olho de gato ou wayfarer. Mas não os afaste — regras de moda existem para serem quebradas."
+              answer="Honestamente, depende. A sabedoria convencional diz 'não -- círculos sobre círculos deixa tudo mais redondo.' E isso é verdade para algumas pessoas. Mas muita gente com rosto redondo usa mesmo assim porque gosta do visual. Nossa recomendação: se você está abastecendo para varejo geral, priorize redondos médios e oversized (que funcionam em mais formatos de rosto). Se um cliente com rosto redondo perguntar, sugira uma forma angular como nosso olho de gato ou wayfarer. Mas não os afaste -- regras de moda existem para serem quebradas."
             />
             <FaqItem
-              question="Metal ou acetato — qual é a diferença de verdade?"
-              answer="Os redondos de metal são mais leves (15-22g vs 25-35g), mais finos e de aparência mais delicada. Têm plaquetas nasais ajustáveis para que se adaptem a mais formatos de rosto. Os redondos de acetato são mais ousados, mais pesados de uma forma 'premium', e vêm em muito mais cores e padrões — tartaruga, mármore, tons translúcidos. Ambos atendem os padrões de proteção UV da FDA. Metal diz 'intelectual minimalista.' Acetato diz 'criativo fashionista.' Ambos vendem bem, mas para clientes diferentes."
+              question="Metal ou acetato -- qual é a diferença de verdade?"
+              answer="Os redondos de metal são mais leves (15-22g vs 25-35g), mais finos e de aparência mais delicada. Têm plaquetas nasais ajustáveis para que se adaptem a mais formatos de rosto. Os redondos de acetato são mais ousados, mais pesados de uma forma 'premium', e vêm em muito mais cores e padrões -- tartaruga, mármore, tons translúcidos. Ambos atendem os padrões de proteção UV da FDA. Metal diz 'intelectual minimalista.' Acetato diz 'criativo fashionista.' Ambos vendem bem, mas para clientes diferentes."
             />
             <FaqItem
               question="Posso obter armações redondas com lentes de grau?"
-              answer="Com certeza. A forma redonda é na verdade a mais fácil de equipar com lentes de grau porque o círculo simétrico distribui a correção óptica uniformemente. Enviamos todas as nossas armações redondas prontas para grau com lentes de demonstração. Funciona para visão simples, bifocal e progressiva. Armações redondas de grau são um mercado enorme — pense em todos aqueles fãs de Harry Potter que realmente precisam de óculos!"
+              answer="Com certeza. A forma redonda é na verdade a mais fácil de equipar com lentes de grau porque o círculo simétrico distribui a correção óptica uniformemente. Enviamos todas as nossas armações redondas prontas para grau com lentes de demonstração. Funciona para visão simples, bifocal e progressiva. Armações redondas de grau são um mercado enorme -- pense em todos aqueles fãs de Harry Potter que realmente precisam de óculos!"
             />
             <FaqItem
               question="Quais cores de lente vendem melhor em armações redondas?"
-              answer="Mais vendidas em ordem: (1) Verde clássico G-15 — o visual vintage autêntico, (2) Cinza — neutro, combina com tudo, (3) Marrom/âmbar — tom mais quente, ótimo contraste, (4) Espelhado azul — o público jovem adora, (5) Tingidos amarelo/rosa/laranja — compradores de festivais e boêmios. As lentes degradê (escuras em cima, mais claras embaixo) também estão muito em alta agora, especialmente em redondos oversized."
+              answer="Mais vendidas em ordem: (1) Verde clássico G-15 -- o visual vintage autêntico, (2) Cinza -- neutro, combina com tudo, (3) Marrom/âmbar -- tom mais quente, ótimo contraste, (4) Espelhado azul -- o público jovem adora, (5) Tingidos amarelo/rosa/laranja -- compradores de festivais e boêmios. As lentes degradê (escuras em cima, mais claras embaixo) também estão muito em alta agora, especialmente em redondos oversized."
             />
             <FaqItem
               question="Qual é o MOQ e o prazo de entrega?"
-              answer="100 unidades por estilo e cor para designs em estoque. 300 unidades para OEM personalizado (seu logo, cores Pantone, embalagem personalizada). A produção leva 15-25 dias para pedidos personalizados, 3-5 dias para itens em estoque. Também fazemos ODM completo — envie-nos um esboço ou foto de referência e criaremos um novo design do zero. Um cliente nos enviou por e-mail uma foto vintage de óculos de sol dos anos 60 e recriamos a armação em 3 semanas."
+              answer="100 unidades por estilo e cor para designs em estoque. 300 unidades para OEM personalizado (seu logo, cores Pantone, embalagem personalizada). A produção leva 15-25 dias para pedidos personalizados, 3-5 dias para itens em estoque. Também fazemos ODM completo -- envie-nos um esboço ou foto de referência e criaremos um novo design do zero. Um cliente nos enviou por e-mail uma foto vintage de óculos de sol dos anos 60 e recriamos a armação em 3 semanas."
             />
           </div>
         </section>
@@ -306,7 +306,7 @@ export default function RedondoPagePt() {
         <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
           <h2 className="text-3xl font-bold mb-4">O Vintage Nunca Sai de Moda</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Marcas de moda, óticas, boutiques vintage, vendedores de merch de festivais — as armações
+            Marcas de moda, óticas, boutiques vintage, vendedores de merch de festivais -- as armações
             redondas vendem em todo lugar. Peça amostras, confira a qualidade, e depois conversamos sobre números.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -343,7 +343,7 @@ export default function RedondoPagePt() {
           {
             "@type": "Question",
             "name": "Armações redondas podem ser feitas com lentes de grau?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Sim — a forma redonda é a mais fácil para lentes de grau devido à geometria simétrica. Todas as nossas armações redondas são enviadas prontas para grau com lentes de demonstração para visão simples, bifocal e progressiva." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Sim -- a forma redonda é a mais fácil para lentes de grau devido à geometria simétrica. Todas as nossas armações redondas são enviadas prontas para grau com lentes de demonstração para visão simples, bifocal e progressiva." }
           },
           {
             "@type": "Question",

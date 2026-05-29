@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'TR90 vs Acetato vs Metal: Qual Material de Armação é Ideal para Sua Marca?',
-  description: 'Um dono de fábrica detalha armações TR90, acetato e metal para óculos — real cost data, weight comparisons, durability tests, and which material works best for different brand strategies.',
+  description: 'Um dono de fábrica detalha armações TR90, acetato e metal para óculos -- real cost data, weight comparisons, durability tests, and which material works best for different brand strategies.',
   keywords: 'comparação materiais armação óculos, óculos TR90, armações acetato, armações metal, TR90 vs acetato, custo materiais armação',
   alternates: {
     canonical: '/pt/blog/comparacao-materiais-armacoes',
@@ -28,7 +28,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           "dateModified": "2026-05-03",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Um dono de fábrica detalha armações TR90, acetato e metal para óculos — real cost data, weight comparisons, durability, and which material fits your brand.",
+          "description": "Um dono de fábrica detalha armações TR90, acetato e metal para óculos -- real cost data, weight comparisons, durability, and which material fits your brand.",
           "inLanguage": "pt",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/pt/blog/tr90-vs-acetate-vs-metal" }
         })}} />
@@ -41,27 +41,27 @@ export default function Tr90VsAcetateVsMetalPage() {
             {
               "@type": "Question",
               "name": "What is TR90 and why is it used in sunglasses?",
-              "acceptedAnswer": { "@type": "Answer", "text": "TR90 is a thermoplastic polyamide (nylon-based polymer) originally developed for medical and military use. It's extremely lightweight — about 15-20 grams for a full frame — and nearly unbreakable under normal use. It's become the go-to material for sport and lifestyle sunglasses because it flexes instead of snapping, resists sweat and chemicals, and costs $3-8 per frame at wholesale." }
+              "acceptedAnswer": { "@type": "Answer", "text": "TR90 is a thermoplastic polyamide (nylon-based polymer) originally developed for medical and military use. It's extremely lightweight -- about 15-20 grams for a full frame -- and nearly unbreakable under normal use. It's become the go-to material for sport and lifestyle sunglasses because it flexes instead of snapping, resists sweat and chemicals, and costs $3-8 per frame at wholesale." }
             },
             {
               "@type": "Question",
               "name": "Is acetate better than TR90 for sunglasses?",
-              "acceptedAnswer": { "@type": "Answer", "text": "It depends on your brand positioning. Acetate looks and feels more premium — richer colors, deeper patterns, heavier weight that signals quality. But TR90 is lighter, more durable, and cheaper. If you're building a fashion or luxury brand, acetate wins. If you're targeting sports, outdoor, or value-conscious customers, TR90 is the better choice." }
+              "acceptedAnswer": { "@type": "Answer", "text": "It depends on your brand positioning. Acetate looks and feels more premium -- richer colors, deeper patterns, heavier weight that signals quality. But TR90 is lighter, more durable, and cheaper. If you're building a fashion or luxury brand, acetate wins. If you're targeting sports, outdoor, or value-conscious customers, TR90 is the better choice." }
             },
             {
               "@type": "Question",
               "name": "How much do different sunglasses frame materials cost at wholesale?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Real factory pricing: TR90 frames run $3-8 por par, acetate frames cost $5-11, and metal frames range from $8-22 depending on the alloy and construction. These are frame-only costs — add $1.50-8 for lenses depending on type and coatings." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Real factory pricing: TR90 frames run $3-8 por par, acetate frames cost $5-11, and metal frames range from $8-22 depending on the alloy and construction. These are frame-only costs -- add $1.50-8 for lenses depending on type and coatings." }
             },
             {
               "@type": "Question",
               "name": "Which sunglasses frame material is most durable?",
-              "acceptedAnswer": { "@type": "Answer", "text": "TR90 wins on impact resistance — it can flex 90+ degrees without breaking and survives being sat on, stepped on, or dropped repeatedly. Metal is rigid and can bend permanently or lose its shape. Acetate is between the two — it's tough but can crack on hard impact. For durability in active use, TR90 is king." }
+              "acceptedAnswer": { "@type": "Answer", "text": "TR90 wins on impact resistance -- it can flex 90+ degrees without breaking and survives being sat on, stepped on, or dropped repeatedly. Metal is rigid and can bend permanently or lose its shape. Acetate is between the two -- it's tough but can crack on hard impact. For durability in active use, TR90 is king." }
             },
             {
               "@type": "Question",
               "name": "Can I mix frame materials in my sunglasses line?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Absolutely — and most successful brands do exactly that. A typical brand might have TR90 sport frames at $29-49 retail, acetate fashion frames at $79-149, and a couple of metal aviators at $99-179. Mixing materials lets you cover different price points and customer segments without diluting your brand." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Absolutely -- and most successful brands do exactly that. A typical brand might have TR90 sport frames at $29-49 retail, acetate fashion frames at $79-149, and a couple of metal aviators at $99-179. Mixing materials lets you cover different price points and customer segments without diluting your brand." }
             }
           ]
         })}} />
@@ -79,7 +79,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           </h1>
           <p className="text-xl text-gray-600">
             Toda semana, alguém me pergunta: &quot;Jacky, qual material de armação devo usar?&quot; 
-            Após 20 anos e cerca de 12 milhões de armações, aqui está a resposta real — com dados de custo reais do nosso chão de fábrica.
+            Após 20 anos e cerca de 12 milhões de armações, aqui está a resposta real -- com dados de custo reais do nosso chão de fábrica.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
@@ -134,14 +134,14 @@ export default function Tr90VsAcetateVsMetalPage() {
           </p>
           <p>
             O material da armação determina seu custo de fabricação, seu teto de preço no varejo, seu cliente-alvo, a percepção 
-            da sua marca e — sinceramente — se seu produto acaba no rosto de alguém ou numa gaveta depois de um uso. 
+            da sua marca e -- sinceramente -- se seu produto acaba no rosto de alguém ou numa gaveta depois de um uso. 
             Então sim, importa.
           </p>
 
           {/* TR90 Breakdown */}
           <h2 id="tr90-breakdown" className="text-3xl font-bold mt-16 mb-6">TR90: O Atleta</h2>
           <p>
-            <a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener" className="text-primary-600 hover:underline">TR90 é uma poliamida termoplástica</a> — basicamente 
+            <a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener" className="text-primary-600 hover:underline">TR90 é uma poliamida termoplástica</a> -- basicamente 
             um náilon super-engenheirado. Foi originalmente desenvolvido para equipamentos médicos e aplicações militares onde você 
             precisa de algo que não quebre, não irrite a pele e não pese quase nada. A indústria de óculos pegou emprestado, 
             e agora está em todo lugar.
@@ -156,11 +156,11 @@ export default function Tr90VsAcetateVsMetalPage() {
           <p>
             <strong>Durabilidade:</strong> Eu tenho uma armação TR90 na minha mesa que uso para demonstrações. Eu dobro, torço, sento em cima, 
             jogo do outro lado da sala. Faço isso há três anos com o mesmo par. Ainda funciona perfeitamente. O TR90 tem 
-            o que os engenheiros chamam de &quot;memória&quot; — você pode deformá-lo e ele volta à forma original. Tente isso com acetato 
+            o que os engenheiros chamam de &quot;memória&quot; -- você pode deformá-lo e ele volta à forma original. Tente isso com acetato 
             e você vai ouvir um estalo. Tente com metal e ele fica torto.
           </p>
           <p>
-            <strong>Resistência química:</strong> Suor, protetor solar, água salgada, repelente — nada disso afeta o TR90. Isso 
+            <strong>Resistência química:</strong> Suor, protetor solar, água salgada, repelente -- nada disso afeta o TR90. Isso 
             importa mais do que as pessoas percebem. Já vi armações de acetato descoloridas pelo protetor solar depois de um verão. 
             O TR90 nem se abala.
           </p>
@@ -172,18 +172,18 @@ export default function Tr90VsAcetateVsMetalPage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Onde o TR90 Fica Devendo</h3>
           <p>
-            <strong>Aparência e toque:</strong> Vou ser direto com você — TR90 parece plástico. Porque é 
+            <strong>Aparência e toque:</strong> Vou ser direto com você -- TR90 parece plástico. Porque é 
             plástico. Plástico de alta engenharia, mas plástico mesmo assim. Você não vai conseguir a profundidade de cor ou os ricos 
             padrões tartaruga que obtém com acetato. Acabamentos foscos ficam bem; TR90 brilhante pode parecer meio brinquedo 
             se não for feito com cuidado.
           </p>
           <p>
             <strong>Variedade de cores:</strong> Cores sólidas funcionam ótimo. Efeitos degradê, padrões multicoloridos, visuais 
-            translúcidos — são limitados comparados ao acetato. Conseguimos fazer cerca de 40 cores padrão em TR90 versus 200+ em acetato.
+            translúcidos -- são limitados comparados ao acetato. Conseguimos fazer cerca de 40 cores padrão em TR90 versus 200+ em acetato.
           </p>
           <p>
             <strong>Percepção:</strong> Justo ou não, TR90 não grita &quot;luxo.&quot; Clientes pegando uma armação de $150 esperam 
-            peso e calor. TR90 parece leve e liso — ótimo para esporte, mas alguns compradores de moda associam leve a barato.
+            peso e calor. TR90 parece leve e liso -- ótimo para esporte, mas alguns compradores de moda associam leve a barato.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
@@ -192,7 +192,7 @@ export default function Tr90VsAcetateVsMetalPage() {
               <li><strong>Peso da armação:</strong> 15-20g</li>
               <li><strong>Custo de fábrica:</strong> $3-8 por armação</li>
               <li><strong>Faixa típica de varejo:</strong> $19-69</li>
-              <li><strong>Velocidade de produção:</strong> Rápida — moldagem por injeção em segundos</li>
+              <li><strong>Velocidade de produção:</strong> Rápida -- moldagem por injeção em segundos</li>
               <li><strong>Ideal para:</strong> Esporte, outdoor, infantil, marcas de valor</li>
               <li><strong>Teste de flexão:</strong> Dobra 90°+ sem quebrar</li>
             </ul>
@@ -202,7 +202,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           <h2 id="acetate-breakdown" className="text-3xl font-bold mt-16 mb-6">Acetato: O Ícone da Moda</h2>
           <p>
             O acetato é o material que construiu a indústria de óculos de luxo. Quando você pensa em Ray-Ban Wayfarer, 
-            armações Tom Ford ou óculos oversized da Celine — isso é acetato. É feito de fibras de algodão 
+            armações Tom Ford ou óculos oversized da Celine -- isso é acetato. É feito de fibras de algodão 
             e polpa de madeira processadas em placas de acetato de celulose, que são então cortadas, moldadas e polidas à mão. 
             O melhor material vem da <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Mazzucchelli na Itália</a>, 
             que produz desde 1849.
@@ -211,21 +211,21 @@ export default function Tr90VsAcetateVsMetalPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">No que o Acetato se Destaca</h3>
           <p>
             <strong>Estética:</strong> Nada chega perto. O acetato tem profundidade. Segure uma boa armação tartaruga de acetato 
-            contra a luz e você verá camadas de âmbar, marrom e dourado se entrecruzando pelo material — 
+            contra a luz e você verá camadas de âmbar, marrom e dourado se entrecruzando pelo material -- 
             cada par ligeiramente diferente. Não é um padrão impresso; é literalmente construído no material 
             no nível da placa. Você não consegue falsificar isso com plástico.
           </p>
           <p>
             <strong>Variedade de cores:</strong> 200+ cores e padrões, do preto clássico a designs multicamadas ousados 
-            com cores internas e externas contrastantes. Translúcido, opaco, degradê, marmorizado — o acetato faz tudo. 
+            com cores internas e externas contrastantes. Translúcido, opaco, degradê, marmorizado -- o acetato faz tudo. 
             É por isso que marcas de moda o adoram. A cada temporada você pode lançar novas combinações de cores sem mudar 
             o formato da armação.
           </p>
           <p>
-            <strong>Percepção premium:</strong> O acetato tem peso — 25-35 gramas para uma armação típica. Ele aquece 
+            <strong>Percepção premium:</strong> O acetato tem peso -- 25-35 gramas para uma armação típica. Ele aquece 
             na temperatura da pele. Faz um &quot;clique&quot; satisfatório quando as dobradiças fecham. São detalhes minúsculos, mas 
             somam para uma sensação de qualidade que justifica preços premium. Um cliente segurando uma armação de acetato 
-            instintivamente espera pagar mais — e está disposto a isso.
+            instintivamente espera pagar mais -- e está disposto a isso.
           </p>
           <p>
             <strong>Ajustabilidade:</strong> Aqueça suavemente uma armação de acetato e você pode remodelá-la para caber em qualquer rosto. 
@@ -236,11 +236,11 @@ export default function Tr90VsAcetateVsMetalPage() {
           <p>
             <strong>Durabilidade sob estresse:</strong> O acetato não flexiona como o TR90. Sente em uma armação de acetato 
             e há uma chance real de ela rachar. Deixe cair no concreto e as ponteiras das hastes podem lascar. Não é 
-            frágil — é mais resistente que vidro — mas não tem aquela resiliência borrachosa.
+            frágil -- é mais resistente que vidro -- mas não tem aquela resiliência borrachosa.
           </p>
           <p>
             <strong>Sensibilidade química:</strong> Protetor solar, limpadores à base de álcool e alguns perfumes podem 
-            danificar o acetato com o tempo. Eu sempre digo aos clientes para incluir um cartão de cuidados com armações de acetato — &quot;limpe 
+            danificar o acetato com o tempo. Eu sempre digo aos clientes para incluir um cartão de cuidados com armações de acetato -- &quot;limpe 
             com água e pano macio, evite sprays químicos.&quot; Não exige muita manutenção, mas também não é 
             à prova de tudo.
           </p>
@@ -261,9 +261,9 @@ export default function Tr90VsAcetateVsMetalPage() {
               <li><strong>Peso da armação:</strong> 25-35g</li>
               <li><strong>Custo de fábrica:</strong> $5-11 por armação</li>
               <li><strong>Faixa típica de varejo:</strong> $49-199</li>
-              <li><strong>Velocidade de produção:</strong> Lenta — processo de vários dias por armação</li>
+              <li><strong>Velocidade de produção:</strong> Lenta -- processo de vários dias por armação</li>
               <li><strong>Ideal para:</strong> Moda, lifestyle, marcas premium e de luxo</li>
-              <li><strong>Teste de flexão:</strong> Moderado — resiste à dobra, pode rachar sob força</li>
+              <li><strong>Teste de flexão:</strong> Moderado -- resiste à dobra, pode rachar sob força</li>
             </ul>
           </div>
 
@@ -271,7 +271,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           <h2 id="metal-breakdown" className="text-3xl font-bold mt-16 mb-6">Metal: O Clássico</h2>
           <p>
             Armações de metal existem desde os anos 1700. Benjamin Franklin usava óculos de metal. O 
-            aviador — provavelmente o formato de óculos mais icônico já criado — é uma armação de metal. Quando você pensa em 
+            aviador -- provavelmente o formato de óculos mais icônico já criado -- é uma armação de metal. Quando você pensa em 
             &quot;clássico&quot;, pensa em metal.
           </p>
           <p>
@@ -283,7 +283,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">No que o Metal se Destaca</h3>
           <p>
             <strong>Perfis finos e elegantes:</strong> O metal permite criar armações incrivelmente finas. 
-            Um design de metal aramado pode ter 1-2mm de espessura — tente isso com acetato ou TR90 e vai quebrar. 
+            Um design de metal aramado pode ter 1-2mm de espessura -- tente isso com acetato ou TR90 e vai quebrar. 
             Se a estética da sua marca é minimalista, elegante ou arquitetônica, metal é o seu material.
           </p>
           <p>
@@ -298,13 +298,13 @@ export default function Tr90VsAcetateVsMetalPage() {
             mais ajustável, o que significa melhor encaixe em diferentes formatos de rosto.
           </p>
           <p>
-            <strong>Faixa de peso:</strong> Esta surpreende as pessoas. Armações de titânio podem ser tão leves quanto 12-15 gramas — 
+            <strong>Faixa de peso:</strong> Esta surpreende as pessoas. Armações de titânio podem ser tão leves quanto 12-15 gramas -- 
             mais leves que TR90. Aço inoxidável é mais pesado, com 25-35 gramas. Então &quot;metal é pesado&quot; nem sempre é verdade; 
             depende da liga.
           </p>
           <p>
             <strong>Percepção premium:</strong> Armações de metal parecem caras. O toque frio do aço inoxidável escovado, 
-            a flexão do titânio, o brilho do tom dourado polido — são estímulos sensoriais que justificam 
+            a flexão do titânio, o brilho do tom dourado polido -- são estímulos sensoriais que justificam 
             preços premium. Alguns dos nossos estilos OEM mais vendidos são armações de metal vendidas a $129-179 no varejo.
           </p>
 
@@ -318,11 +318,11 @@ export default function Tr90VsAcetateVsMetalPage() {
           <p>
             <strong>Corrosão:</strong> Ligas metálicas mais baratas podem corroer, especialmente ao redor das plaquetas nasais e 
             das dobradiças onde o suor se acumula. Nós galvanizamos tudo para prevenir isso, mas a galvanização se desgasta com o tempo. 
-            O titânio é a exceção — é naturalmente resistente à corrosão, por isso custa mais.
+            O titânio é a exceção -- é naturalmente resistente à corrosão, por isso custa mais.
           </p>
           <p>
             <strong>Deformação permanente:</strong> Dobre uma armação de metal além do seu limite elástico e ela fica torta. 
-            Diferente do TR90 que volta ao normal, o metal mantém qualquer forma que você der a ele — intencional ou não. 
+            Diferente do TR90 que volta ao normal, o metal mantém qualquer forma que você der a ele -- intencional ou não. 
             Já vi armações de metal arruinadas por serem enfiadas no bolso de trás.
           </p>
           <p>
@@ -343,9 +343,9 @@ export default function Tr90VsAcetateVsMetalPage() {
               <li><strong>Peso da armação:</strong> 12-35g (varia conforme a liga)</li>
               <li><strong>Custo de fábrica:</strong> $8-22 por armação</li>
               <li><strong>Faixa típica de varejo:</strong> $59-249</li>
-              <li><strong>Velocidade de produção:</strong> Média — fabricação em múltiplas etapas</li>
+              <li><strong>Velocidade de produção:</strong> Média -- fabricação em múltiplas etapas</li>
               <li><strong>Ideal para:</strong> Marcas clássicas, minimalistas, premium, profissionais</li>
-              <li><strong>Teste de flexão:</strong> Baixo — entorta permanentemente sob força</li>
+              <li><strong>Teste de flexão:</strong> Baixo -- entorta permanentemente sob força</li>
             </ul>
           </div>
 
@@ -386,7 +386,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           <h2 id="cost-deep-dive" className="text-3xl font-bold mt-16 mb-6">Detalhamento Real de Custos do Chão de Fábrica</h2>
           <p>
             Vou te dar os números que ninguém mais publica. Esses são custos reais de produção da nossa 
-            fábrica — não estimativas, não médias, mas o que você vai pagar quando fizer um pedido.
+            fábrica -- não estimativas, não médias, mas o que você vai pagar quando fizer um pedido.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Detalhamento de Custo da Armação TR90</h3>
@@ -409,7 +409,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           <ul>
             <li><strong>Placa de acetato:</strong> $1,50-3,00 por armação (Mazzucchelli italiana adiciona $1-2 de premium sobre o acetato chinês)</li>
             <li><strong>Corte CNC:</strong> $0,60-1,00</li>
-            <li><strong>Tamboreamento e polimento:</strong> $0,80-1,50 (é aqui que a mágica acontece — 24-48 horas de tamboreamento dão ao acetato seu brilho característico)</li>
+            <li><strong>Tamboreamento e polimento:</strong> $0,80-1,50 (é aqui que a mágica acontece -- 24-48 horas de tamboreamento dão ao acetato seu brilho característico)</li>
             <li><strong>Dobradiças:</strong> $0,40-1,00 (dobradiças de cinco tambores para premium, três tambores para padrão)</li>
             <li><strong>Acabamento manual:</strong> $0,50-1,50 (trabalhadores qualificados inspecionam e fazem retoques em cada armação)</li>
             <li><strong>Montagem e CQ:</strong> $0,50-1,00</li>
@@ -460,7 +460,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           <p>
             Custo entregue: $6-14 por par. Ponto ideal de varejo: $29-59. Isso dá uma margem de 4-5x, que é 
             saudável para marcas DTC. Acima de $69 no varejo, os clientes começam a comparar suas armações TR90 com opções 
-            de acetato no mesmo preço — e o acetato parece mais premium. Mantenha o TR90 na zona de valor a faixa média.
+            de acetato no mesmo preço -- e o acetato parece mais premium. Mantenha o TR90 na zona de valor a faixa média.
           </p>
           <p>
             Exceção: armações TR90 específicas para esporte (ciclismo, corrida, pesca) podem ser vendidas a $79-99 porque 
@@ -470,7 +470,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Estratégia de Varejo para Acetato</h3>
           <p>
             Custo entregue: $9-18 por par. Ponto ideal de varejo: $79-149. É onde a maioria das marcas independentes de 
-            óculos fashion vive — e é uma faixa comprovada. Acetato italiano com lentes polarizadas? Você pode 
+            óculos fashion vive -- e é uma faixa comprovada. Acetato italiano com lentes polarizadas? Você pode 
             chegar a $149-199 no varejo se seu branding suportar. Pense em{' '}
             <Link href="/products/wayfarer" className="text-primary-600 hover:underline">armações estilo wayfarer</Link> em 
             combinações de cores únicas com embalagem premium.
@@ -500,7 +500,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Cenário 2: Marca de Moda/Lifestyle</h3>
           <p>
             <strong>Vá de acetato.</strong> Uma marca DTC do Brooklyn queria armações grossas e ousadas em combinações 
-            de cores sazonais. Buscamos placas de acetato personalizadas — uma temporada foi verde esmeralda com flocos dourados, 
+            de cores sazonais. Buscamos placas de acetato personalizadas -- uma temporada foi verde esmeralda com flocos dourados, 
             outra foi rosé empoeirado. As armações parecem custar $300. Eles vendem a $129. O material 
             faz metade do marketing por você.
           </p>
@@ -509,7 +509,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           <p>
             <strong>Vá de metal.</strong> Uma marca escandinava queria armações ultrafinas e arquitetônicas em 
             prata escovada e preto fosco. Fizemos em aço inoxidável com hastes de beta-titânio japonês. 
-            Limpo, preciso, elegante. Eles vendem a $159 e o cliente-alvo — profissionais urbanos — 
+            Limpo, preciso, elegante. Eles vendem a $159 e o cliente-alvo -- profissionais urbanos -- 
             adora a estética &quot;menos é mais&quot;.
           </p>
 
@@ -524,7 +524,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           {/* Mixing Materials */}
           <h2 id="mixing-materials" className="text-3xl font-bold mt-16 mb-6">A Jogada Inteligente: Misture Seus Materiais</h2>
           <p>
-            As melhores marcas não escolhem um único material — usam os três estrategicamente. Aqui está 
+            As melhores marcas não escolhem um único material -- usam os três estrategicamente. Aqui está 
             uma estrutura de coleção que recomendo para novos donos de marca:
           </p>
           <ul>
@@ -536,7 +536,7 @@ export default function Tr90VsAcetateVsMetalPage() {
             dão à sua marca um efeito halo de &quot;fazemos óculos sérios.&quot;</li>
           </ul>
           <p>
-            Essa estrutura cobre três faixas de preço, três tipos de cliente e três casos de uso — tudo 
+            Essa estrutura cobre três faixas de preço, três tipos de cliente e três casos de uso -- tudo 
             sob uma marca. Você não está deixando dinheiro na mesa, e não está forçando sua marca 
             a caber em uma caixa só.
           </p>
@@ -547,7 +547,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Diferenças de MOQ</h3>
           <p>
             TR90: 200-500 peças por modelo (moldes de injeção são caros de fazer, mas baratos de operar). 
-            Acetato: 100-300 por modelo (sem moldes necessários — cortado de placa). Metal: 300-1.000 por modelo 
+            Acetato: 100-300 por modelo (sem moldes necessários -- cortado de placa). Metal: 300-1.000 por modelo 
             (moldes de fundição são complexos). Se você está começando pequeno, o acetato na verdade tem a 
             menor barreira de entrada por modelo.
           </p>
@@ -556,14 +556,14 @@ export default function Tr90VsAcetateVsMetalPage() {
           <p>
             TR90: 25-35 dias. Uma vez que o molde está pronto, as armações saem rápido. Acetato: 35-50 dias. 
             As etapas de polimento e acabamento não podem ser apressadas sem sacrificar qualidade. 
-            Metal: 30-45 dias. A galvanização é o gargalo — você está essencialmente esperando a química.
+            Metal: 30-45 dias. A galvanização é o gargalo -- você está essencialmente esperando a química.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Diferenças no Controle de Qualidade</h3>
           <p>
-            O CQ do TR90 é majoritariamente automatizado — moldagem por injeção consistente significa resultado consistente. 
-            O CQ do acetato exige olhos experientes — cada armação precisa de inspeção individual porque 
-            o posicionamento do padrão varia. O CQ do metal foca na aderência da galvanização e juntas de solda — 
+            O CQ do TR90 é majoritariamente automatizado -- moldagem por injeção consistente significa resultado consistente. 
+            O CQ do acetato exige olhos experientes -- cada armação precisa de inspeção individual porque 
+            o posicionamento do padrão varia. O CQ do metal foca na aderência da galvanização e juntas de solda -- 
             os modos de falha são diferentes. Usamos equipes de inspeção diferentes para cada material 
             porque a experiência não se transfere.
           </p>
@@ -580,7 +580,7 @@ export default function Tr90VsAcetateVsMetalPage() {
             <h3 className="text-2xl font-bold mb-4">Precisa de Ajuda para Escolher?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Envie-me o conceito da sua marca e o preço de varejo alvo. Eu direi exatamente qual 
-              material — ou combinação de materiais — oferece o melhor produto no seu ponto de preço. 
+              material -- ou combinação de materiais -- oferece o melhor produto no seu ponto de preço. 
               Sem custo, sem compromisso. Faço isso porque economiza tempo para nós dois depois.
             </p>
             <Link href="/pt/contato" className="btn-primary">
@@ -595,7 +595,7 @@ export default function Tr90VsAcetateVsMetalPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">O que é TR90 e por que é usado em óculos de sol?</h3>
               <p className="text-gray-600">
-                TR90 é uma poliamida termoplástica — um tipo de polímero à base de náilon originalmente desenvolvido para 
+                TR90 é uma poliamida termoplástica -- um tipo de polímero à base de náilon originalmente desenvolvido para 
                 aplicações médicas e militares. Pesa cerca de 15-20 gramas para uma armação completa e é 
                 praticamente inquebravel no uso normal. É a escolha principal para óculos esportivos e lifestyle 
                 porque flexiona em vez de quebrar, resiste a suor e químicos, e custa $3-8 por 
@@ -605,7 +605,7 @@ export default function Tr90VsAcetateVsMetalPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Acetato é melhor que TR90 para óculos de sol?</h3>
               <p className="text-gray-600">
-                Depende do que você está vendendo. O acetato parece e transmite mais premium — cores mais ricas, 
+                Depende do que você está vendendo. O acetato parece e transmite mais premium -- cores mais ricas, 
                 padrões mais profundos, um peso satisfatório que sinaliza qualidade. O TR90 é mais leve, mais resistente e 
                 mais barato. Construindo uma marca de moda? Acetato. Construindo uma marca esportiva ou de valor? TR90. 
                 Construindo uma coleção completa? Use os dois.
@@ -615,14 +615,14 @@ export default function Tr90VsAcetateVsMetalPage() {
               <h3 className="font-bold text-lg mb-2">Quanto custam os diferentes materiais de armação no atacado?</h3>
               <p className="text-gray-600">
                 Direto do nosso chão de fábrica: armações TR90 custam $3-8 por par, acetato custa $5-11, 
-                e metal varia de $8-22 dependendo da liga. Esses são preços só da armação — adicione 
+                e metal varia de $8-22 dependendo da liga. Esses são preços só da armação -- adicione 
                 $1,50-8 para lentes, revestimentos e montagem.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Qual material de armação é o mais durável?</h3>
               <p className="text-gray-600">
-                TR90 vence em resistência ao impacto — flexiona 90°+ sem quebrar e sobrevive a ser sentado, 
+                TR90 vence em resistência ao impacto -- flexiona 90°+ sem quebrar e sobrevive a ser sentado, 
                 pisado e derrubado. O metal é rígido e pode entortar permanentemente. O acetato é resistente mas pode 
                 rachar em impactos fortes. Para uso ativo e durabilidade, TR90 é o rei.
               </p>
@@ -643,7 +643,7 @@ export default function Tr90VsAcetateVsMetalPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/pt/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM em Óculos de Sol: Guia Completo</h3>
-                <p className="text-gray-600 text-sm">A versão honesta de OEM vs ODM — de alguém que está no chão de fábrica desde 2006.</p>
+                <p className="text-gray-600 text-sm">A versão honesta de OEM vs ODM -- de alguém que está no chão de fábrica desde 2006.</p>
               </Link>
               <Link href="/pt/blog/guia-lentes-oculos-sol" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Guia de Lentes para Óculos de Sol: Tudo que Você Precisa Saber</h3>

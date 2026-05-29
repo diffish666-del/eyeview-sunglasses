@@ -20,28 +20,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 pcs',
-    description: 'Celui dont chaque collection a besoin. Acétate noir, charnières polies, cet angle relevé parfait. C\u2019est l\u2019équivalent en lunettes de soleil de la petite robe noire — fonctionne avec tout, se vend à toutes. C\u2019est systématiquement notre n°1 en réapprovisionnement sur tous les marchés.',
+    description: 'Celui dont chaque collection a besoin. Acétate noir, charnières polies, cet angle relevé parfait. C\u2019est l\u2019équivalent en lunettes de soleil de la petite robe noire -- fonctionne avec tout, se vend à toutes. C\u2019est systématiquement notre n°1 en réapprovisionnement sur tous les marchés.',
   },
   {
     name: 'Œil de Chat Imprimé Léopard',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 pcs',
-    description: 'L\u2019imprimé animal bien fait. Le motif écaille n\u2019est pas peint — il est créé en superposant des plaques d\u2019acétate de couleurs différentes, de sorte que chaque paire a une véritable profondeur et richesse. Une propriétaire de boutique à Melbourne nous a dit que celles-ci surpassent les couleurs unies 2 contre 1 au printemps.',
+    description: 'L\u2019imprimé animal bien fait. Le motif écaille n\u2019est pas peint -- il est créé en superposant des plaques d\u2019acétate de couleurs différentes, de sorte que chaque paire a une véritable profondeur et richesse. Une propriétaire de boutique à Melbourne nous a dit que celles-ci surpassent les couleurs unies 2 contre 1 au printemps.',
   },
   {
     name: 'Œil de Chat Métal Or Rose',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$10.00 - $14.00',
     moq: '100 pcs',
-    description: 'Monture métallique fine avec électrodéposition or rose qui a l\u2019air de devoir coûter 200 $. Ce n\u2019est pas le cas. La construction en fil fin donne une version moderne et raffinée de l\u2019œil de chat — parfaite pour la femme professionnelle qui veut du style sans en faire trop. Se marie magnifiquement aussi bien avec les blazers qu\u2019avec les tenues de plage.',
+    description: 'Monture métallique fine avec électrodéposition or rose qui a l\u2019air de devoir coûter 200 $. Ce n\u2019est pas le cas. La construction en fil fin donne une version moderne et raffinée de l\u2019œil de chat -- parfaite pour la femme professionnelle qui veut du style sans en faire trop. Se marie magnifiquement aussi bien avec les blazers qu\u2019avec les tenues de plage.',
   },
   {
     name: 'Œil de Chat Oversize',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$9.50 - $13.50',
     moq: '100 pcs',
-    description: 'Voir grand ou rentrer chez soi. L\u2019œil de chat oversize est essentiellement un aimant à Instagram — proportions audacieuses, pointes relevées spectaculaires, couverture maximale du visage. Un détaillant en ligne nous a dit que ce style génère plus de commentaires « où les avez-vous trouvées ? » que tout autre article de sa boutique. Excellente couverture UV aussi, ce qui est un bonus appréciable.',
+    description: 'Voir grand ou rentrer chez soi. L\u2019œil de chat oversize est essentiellement un aimant à Instagram -- proportions audacieuses, pointes relevées spectaculaires, couverture maximale du visage. Un détaillant en ligne nous a dit que ce style génère plus de commentaires « où les avez-vous trouvées ? » que tout autre article de sa boutique. Excellente couverture UV aussi, ce qui est un bonus appréciable.',
   },
   {
     name: 'Œil de Chat Strass',
@@ -55,7 +55,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 pcs',
-    description: 'Tout droit sorti de 1958. Étroites, avec des angles prononcés, avec des branches épaisses en acétate qui disent « je connais mon histoire de la mode ». Elles sont plus petites que la tendance oversize — intentionnellement. Les collectionneurs et passionnés de vintage se les arrachent. Si votre marché penche rétro, rockabilly ou pin-up, c\u2019est votre monture.',
+    description: 'Tout droit sorti de 1958. Étroites, avec des angles prononcés, avec des branches épaisses en acétate qui disent « je connais mon histoire de la mode ». Elles sont plus petites que la tendance oversize -- intentionnellement. Les collectionneurs et passionnés de vintage se les arrachent. Si votre marché penche rétro, rockabilly ou pin-up, c\u2019est votre monture.',
   },
 ]
 
@@ -78,10 +78,10 @@ export default function CatEyePageFr() {
             Lunettes de Soleil Œil de Chat en Gros
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            L&apos;œil de chat ne se démode jamais. Sérieusement — Audrey Hepburn les portait dans les
+            L&apos;œil de chat ne se démode jamais. Sérieusement -- Audrey Hepburn les portait dans les
             années 60 et elles restent la forme n°1 de lunettes de soleil pour femmes aujourd&apos;hui. Nous fabriquons
             des montures œil de chat en acétate, métal et matériaux mixtes avec personnalisation OEM complète.
-            Votre logo, vos couleurs, votre marque — notre usine.
+            Votre logo, vos couleurs, votre marque -- notre usine.
           </p>
         </div>
 
@@ -101,7 +101,7 @@ export default function CatEyePageFr() {
             <p>
               Voici un fait qui surprend : la forme œil de chat est la silhouette de lunettes de soleil
               femme la plus vendue depuis plus de 70 ans. Pas l&apos;aviateur. Pas la wayfarer.
-              L&apos;œil de chat. Pourquoi ? Parce qu&apos;elle fait quelque chose qu&apos;aucune autre forme ne peut faire — elle relève. Cet
+              L&apos;œil de chat. Pourquoi ? Parce qu&apos;elle fait quelque chose qu&apos;aucune autre forme ne peut faire -- elle relève. Cet
               angle relevé crée l&apos;illusion de pommettes plus hautes et d&apos;une mâchoire plus définie.
               C&apos;est essentiellement un mini lifting que vous pouvez acheter pour 15 $.
             </p>
@@ -109,13 +109,13 @@ export default function CatEyePageFr() {
               La forme a été inventée en 1939 par une designer new-yorkaise nommée Altina Schinasi qui en avait
               assez des lunettes &quot;laides&quot;. Elle les a appelées montures &quot;Harlequin&quot;. Marilyn Monroe
               les a rendues célèbres. Audrey Hepburn les a rendues iconiques. Et maintenant, en 2024, elles sont plus grandes
-              que jamais — littéralement. L&apos;œil de chat oversize domine Instagram, TikTok et
+              que jamais -- littéralement. L&apos;œil de chat oversize domine Instagram, TikTok et
               chaque fashion week de Milan à Séoul.
             </p>
             <p>
               Pour les acheteurs en gros, les lunettes œil de chat sont ce qui se rapproche le plus d&apos;une valeur sûre dans
               la lunetterie. Elles plaisent à toutes les tranches d&apos;âge (20-60+), fonctionnent toute l&apos;année et dégagent
-              une forte valeur perçue. Toutes nos montures œil de chat sont conformes aux <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">normes de protection UV de la FDA</a> —
+              une forte valeur perçue. Toutes nos montures œil de chat sont conformes aux <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">normes de protection UV de la FDA</a> --
               parce qu&apos;avoir du style ne devrait pas signifier compromettre la sécurité oculaire. Notre usine
               produit plus de 200 000 montures œil de chat par mois dans plus de 40 pays. Nous connaissons cette
               forme sur le bout des doigts.
@@ -157,19 +157,19 @@ export default function CatEyePageFr() {
 
         {/* Guide Matériaux */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Acétate, métal ou mixte — lequel choisir ?</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Acétate, métal ou mixte -- lequel choisir ?</h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🏛️ Acétate</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Si vous voulez facturer des prix retail premium, optez pour l&apos;acétate. Il est fabriqué à partir de <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">coton
                 et pâte de bois</a> (oui, vraiment), et les couleurs et motifs réalisables sont
-                incroyables — écaille profonde, tourbillons de marbre, tons bonbon translucides. Chaque paire
+                incroyables -- écaille profonde, tourbillons de marbre, tons bonbon translucides. Chaque paire
                 est polie à la main pour cette finition brillante. L&apos;acétate <em>a l&apos;air</em> cher. Vos
                 clients le remarqueront. Hypoallergénique aussi, donc pas de plaintes pour réactions cutanées.
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
-                <li>• Couleurs riches — écaille, marbre, dégradé</li>
+                <li>• Couleurs riches -- écaille, marbre, dégradé</li>
                 <li>• Finition premium polie à la main</li>
                 <li>• Hypoallergénique, éco-responsable</li>
                 <li>• Idéal pour : boutiques, positionnement luxe</li>
@@ -179,10 +179,10 @@ export default function CatEyePageFr() {
               <h3 className="text-xl font-semibold mb-4">⚙️ Métal</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Fin, élégant, moderne. Les œil de chat en métal utilisent de l&apos;acier inoxydable ou un alliage sans nickel avec
-                des finitions électroplaquées — or, argent, or rose, noir mat. Le profil fin
+                des finitions électroplaquées -- or, argent, or rose, noir mat. Le profil fin
                 crée un look raffiné que l&apos;acétate ne peut pas égaler. Ce sont les montures pour les femmes
                 qui veulent que leurs lunettes murmurent, pas crient. Idéal pour les gammes professionnelles et de bureau.
-                Plus légères que l&apos;acétate aussi — la plupart pèsent moins de 22 grammes.
+                Plus légères que l&apos;acétate aussi -- la plupart pèsent moins de 22 grammes.
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
                 <li>• Fines, élégantes, légères (moins de 22g)</li>
@@ -194,7 +194,7 @@ export default function CatEyePageFr() {
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🔗 Matériaux Mixtes</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Le meilleur des deux mondes. Face avant en acétate avec branches métalliques fines — ou l&apos;inverse.
+                Le meilleur des deux mondes. Face avant en acétate avec branches métalliques fines -- ou l&apos;inverse.
                 Le contraste bimatière est très tendance en ce moment. Imaginez : face avant en acétate rose
                 transparent avec des bras dorés fins. Ou de l&apos;acétate noir avec des branches en fil argenté.
                 Ce sont les montures qui font dire aux gens &quot;où les avez-vous trouvées ?&quot;
@@ -230,7 +230,7 @@ export default function CatEyePageFr() {
                   <ColorTrend color="bg-black" name="Noir classique" description="30-35 % de toutes les commandes œil de chat. Toujours. Chaque. Saison. Stockez-le ou regrettez-le." />
                   <ColorTrend color="bg-amber-700" name="Écaille de tortue" description="Le n°2 en ventes. Les bruns multitonaux fonctionnent toute l&apos;année, avec tout le monde, partout." />
                   <ColorTrend color="bg-yellow-600" name="Métal or" description="Essentiel pour toute gamme luxe ou professionnelle. L&apos;œil de chat doré crie la sophistication." />
-                  <ColorTrend color="bg-gray-400" name="Dégradé bicolore" description="Montures qui passent d&apos;une couleur à l&apos;autre — noir vers transparent, rose vers pêche. Très Instagram." />
+                  <ColorTrend color="bg-gray-400" name="Dégradé bicolore" description="Montures qui passent d&apos;une couleur à l&apos;autre -- noir vers transparent, rose vers pêche. Très Instagram." />
                 </div>
               </div>
             </div>
@@ -281,7 +281,7 @@ export default function CatEyePageFr() {
             <Link href="/fr/produits/enfants" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">👧</div>
               <h3 className="font-semibold mb-2">Œil de Chat Enfants</h3>
-              <p className="text-sm text-gray-600">Mini œil de chat pour filles — des best-sellers adorables</p>
+              <p className="text-sm text-gray-600">Mini œil de chat pour filles -- des best-sellers adorables</p>
             </Link>
           </div>
         </section>
@@ -292,7 +292,7 @@ export default function CatEyePageFr() {
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="Quelles formes de visage conviennent à l&apos;œil de chat ?"
-              answer="Presque toutes, honnêtement. L&apos;œil de chat est l&apos;une des formes les plus flatteuses qui existent. Visage ovale ? Parfait. Visage rond ? Les angles relevés ajoutent de la définition — superbe. En forme de cœur ? Combinaison idéale. Visage carré ? Choisissez un œil de chat plus doux et arrondi pour équilibrer les angles. La seule forme de visage qui peut être délicate est le visage très allongé/étroit, où un œil de chat oversize peut faire trop. Mais même là, un œil de chat petit fonctionne bien."
+              answer="Presque toutes, honnêtement. L&apos;œil de chat est l&apos;une des formes les plus flatteuses qui existent. Visage ovale ? Parfait. Visage rond ? Les angles relevés ajoutent de la définition -- superbe. En forme de cœur ? Combinaison idéale. Visage carré ? Choisissez un œil de chat plus doux et arrondi pour équilibrer les angles. La seule forme de visage qui peut être délicate est le visage très allongé/étroit, où un œil de chat oversize peut faire trop. Mais même là, un œil de chat petit fonctionne bien."
             />
             <FaqItem
               question="Quel est le MOQ pour des œil de chat avec marque personnalisée ?"
@@ -300,7 +300,7 @@ export default function CatEyePageFr() {
             />
             <FaqItem
               question="Peuvent-elles être faites prêtes pour la prescription ?"
-              answer="Oui ! Toutes nos montures œil de chat en acétate et métal peuvent être expédiées avec des verres de démonstration pour que les opticiens puissent installer des verres correcteurs. Nous acceptons les prescriptions simple vision, bifocale et progressive. La profondeur de la monture et la courbure du verre sont conçues pour cela. C&apos;est un excellent upsell pour les détaillants optiques — des montures mode avec capacité de correction."
+              answer="Oui ! Toutes nos montures œil de chat en acétate et métal peuvent être expédiées avec des verres de démonstration pour que les opticiens puissent installer des verres correcteurs. Nous acceptons les prescriptions simple vision, bifocale et progressive. La profondeur de la monture et la courbure du verre sont conçues pour cela. C&apos;est un excellent upsell pour les détaillants optiques -- des montures mode avec capacité de correction."
             />
             <FaqItem
               question="Quelles sont les tendances en œil de chat pour 2024-2025 ?"
@@ -308,7 +308,7 @@ export default function CatEyePageFr() {
             />
             <FaqItem
               question="Puis-je avoir des échantillons avant de m&apos;engager sur une commande en gros ?"
-              answer="Bien sûr — nous ne nous attendrions jamais à ce que vous commandiez à l&apos;aveugle. Styles du catalogue existant ? Échantillons gratuits, vous ne payez que le transport (généralement 30-50 $ via DHL pour 3-5 paires). Vous voulez un échantillon personnalisé avec vos modifications spécifiques ? Petits frais de 50-100 $ par design, que nous créditons sur votre première commande de production. Donc vous obtenez essentiellement des échantillons personnalisés gratuitement si vous commandez. Délai de 7-10 jours."
+              answer="Bien sûr -- nous ne nous attendrions jamais à ce que vous commandiez à l&apos;aveugle. Styles du catalogue existant ? Échantillons gratuits, vous ne payez que le transport (généralement 30-50 $ via DHL pour 3-5 paires). Vous voulez un échantillon personnalisé avec vos modifications spécifiques ? Petits frais de 50-100 $ par design, que nous créditons sur votre première commande de production. Donc vous obtenez essentiellement des échantillons personnalisés gratuitement si vous commandez. Délai de 7-10 jours."
             />
           </div>
         </section>
@@ -317,7 +317,7 @@ export default function CatEyePageFr() {
         <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
           <h2 className="text-3xl font-bold mb-4">Prête à stocker la forme qui se vend toute seule ?</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Boutiques, magasins en ligne, distributeurs de marques — nous travaillons avec tous. Notre
+            Boutiques, magasins en ligne, distributeurs de marques -- nous travaillons avec tous. Notre
             programme de gros de lunettes œil de chat femme vous offre des prix compétitifs, une production rapide
             et une personnalisation complète. Demandez un catalogue gratuit et découvrez ce qui est possible.
           </p>
@@ -365,7 +365,7 @@ export default function CatEyePageFr() {
           {
             "@type": "Question",
             "name": "Puis-je obtenir des échantillons avant une commande en gros ?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Absolument. Échantillons gratuits des styles existants — frais de port uniquement (30-50 $ via DHL). Les échantillons personnalisés coûtent 50-100 $ par design, crédités sur votre première commande de production." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Absolument. Échantillons gratuits des styles existants -- frais de port uniquement (30-50 $ via DHL). Les échantillons personnalisés coûtent 50-100 $ par design, crédités sur votre première commande de production." }
           }
         ]
       })}} />

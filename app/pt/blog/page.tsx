@@ -28,7 +28,7 @@ const posts = [
   {
     slug: 'tendencias-design-oculos-2026',
     title: 'Principais Tendências de Design de Óculos de Sol para 2026',
-    excerpt: 'Dados reais de vendas sobre o que está bombando — armações oversized, revival Y2K, materiais sustentáveis, estilos rimless e mais. Direto do chão de fábrica.',
+    excerpt: 'Dados reais de vendas sobre o que está bombando -- armações oversized, revival Y2K, materiais sustentáveis, estilos rimless e mais. Direto do chão de fábrica.',
     date: '4 de maio de 2026',
     category: 'Tendências',
     readTime: '10 min de leitura',
@@ -48,7 +48,7 @@ const posts = [
   {
     slug: 'estrategia-precos-oculos-sol',
     title: 'Estratégia de Preços para Óculos de Sol: Do Custo de Fábrica ao Varejo',
-    excerpt: 'A economia real de preços de óculos — custos de fábrica, markup de atacado, margens de varejo e estratégias que funcionam para marcas novas e estabelecidas.',
+    excerpt: 'A economia real de preços de óculos -- custos de fábrica, markup de atacado, margens de varejo e estratégias que funcionam para marcas novas e estabelecidas.',
     date: '4 de maio de 2026',
     category: 'Negócios',
     readTime: '12 min de leitura',
@@ -58,7 +58,7 @@ const posts = [
   {
     slug: 'controle-qualidade-oculos-sol',
     title: 'Controle de Qualidade de Óculos de Sol: Checklist de Inspeção de Fábrica',
-    excerpt: 'O checklist completo de QC para óculos — teste de lentes, inspeção de armação, verificação de dobradiças, verificação UV e o que conferir antes de aprovar a produção.',
+    excerpt: 'O checklist completo de QC para óculos -- teste de lentes, inspeção de armação, verificação de dobradiças, verificação UV e o que conferir antes de aprovar a produção.',
     date: '4 de maio de 2026',
     category: 'Qualidade',
     readTime: '12 min de leitura',
@@ -68,7 +68,7 @@ const posts = [
   {
     slug: 'custo-criar-marca-oculos-sol',
     title: 'Quanto Custa Criar uma Marca de Óculos de Sol em 2026?',
-    excerpt: 'Cada custo detalhado — do desenvolvimento de produto ao marketing. Números reais de US$3.000 econômico a US$50.000+ premium.',
+    excerpt: 'Cada custo detalhado -- do desenvolvimento de produto ao marketing. Números reais de US$3.000 econômico a US$50.000+ premium.',
     date: '4 de maio de 2026',
     category: 'Negócios',
     readTime: '13 min de leitura',
@@ -78,7 +78,7 @@ const posts = [
   {
     slug: 'fabricacao-sustentavel-oculos-sol',
     title: 'Fabricação Sustentável de Óculos de Sol: Materiais e Processos Ecológicos',
-    excerpt: 'Bio-acetato, nylon reciclado, plástico oceânico, embalagem ecológica — o que "sustentável" realmente significa na produção de óculos e quanto custa a mais.',
+    excerpt: 'Bio-acetato, nylon reciclado, plástico oceânico, embalagem ecológica -- o que "sustentável" realmente significa na produção de óculos e quanto custa a mais.',
     date: '4 de maio de 2026',
     category: 'Sustentabilidade',
     readTime: '12 min de leitura',
@@ -98,7 +98,7 @@ const posts = [
   {
     slug: 'embalagem-personalizada-oculos-sol',
     title: 'Embalagem Personalizada para Óculos de Sol: Guia Completo de Branding',
-    excerpt: 'Estojos rígidos, bolsas, caixas de varejo, tags e mais — cada opção de embalagem com custos reais por peça e dicas de unboxing que geram vendas repetidas.',
+    excerpt: 'Estojos rígidos, bolsas, caixas de varejo, tags e mais -- cada opção de embalagem com custos reais por peça e dicas de unboxing que geram vendas repetidas.',
     date: '3 de maio de 2026',
     category: 'Branding',
     readTime: '14 min de leitura',
@@ -118,7 +118,7 @@ const posts = [
   {
     slug: 'guia-revestimentos-oculos-sol',
     title: 'Guia de Revestimentos: Espelhado, Antirreflexo, Hidrofóbico e Mais',
-    excerpt: 'Cada tipo de revestimento detalhado — espelhado, AR, hidrofóbico, oleofóbico, anti-embaçante, hard coat. Custos reais por par e combinações que funcionam.',
+    excerpt: 'Cada tipo de revestimento detalhado -- espelhado, AR, hidrofóbico, oleofóbico, anti-embaçante, hard coat. Custos reais por par e combinações que funcionam.',
     date: '3 de maio de 2026',
     category: 'Tecnologia',
     readTime: '12 min de leitura',
@@ -128,7 +128,7 @@ const posts = [
   {
     slug: 'uv400-vs-polarizado',
     title: 'UV400 vs Polarizado: Qual a Diferença e Você Precisa dos Dois?',
-    excerpt: 'A diferença real entre lentes UV400 e polarizadas — o que cada uma faz, impacto no custo e quando sua marca precisa de uma, ambas ou nenhuma.',
+    excerpt: 'A diferença real entre lentes UV400 e polarizadas -- o que cada uma faz, impacto no custo e quando sua marca precisa de uma, ambas ou nenhuma.',
     date: '3 de maio de 2026',
     category: 'Tecnologia',
     readTime: '11 min de leitura',
@@ -168,7 +168,7 @@ const posts = [
   {
     slug: 'oem-vs-odm',
     title: 'OEM vs ODM em Óculos de Sol: Qual é a Diferença? Guia Completo',
-    excerpt: 'Depois de 3.000 conversas sobre OEM vs ODM, aqui vai a versão honesta — custos reais, prazos reais e um framework de decisão que realmente ajuda a escolher.',
+    excerpt: 'Depois de 3.000 conversas sobre OEM vs ODM, aqui vai a versão honesta -- custos reais, prazos reais e um framework de decisão que realmente ajuda a escolher.',
     date: '20 de abril de 2026',
     category: 'Fabricação',
     readTime: '12 min de leitura',
@@ -178,7 +178,7 @@ const posts = [
   {
     slug: 'criar-marca-oculos-sol',
     title: 'Como Criar Sua Marca de Óculos de Sol: Guia Completo',
-    excerpt: 'O guia completo da ideia à primeira venda — pesquisa de mercado, fornecimento, branding, preços e marketing. Tudo que eu gostaria de ter sabido quando comecei em 2006.',
+    excerpt: 'O guia completo da ideia à primeira venda -- pesquisa de mercado, fornecimento, branding, preços e marketing. Tudo que eu gostaria de ter sabido quando comecei em 2006.',
     date: '28 de março de 2026',
     category: 'Negócios',
     readTime: '10 min de leitura',
@@ -200,7 +200,7 @@ export default function BlogPage() {
             Direto da Fábrica
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Informação sem rodeios sobre fabricação de óculos de sol, fornecimento e criação de marcas — 
+            Informação sem rodeios sobre fabricação de óculos de sol, fornecimento e criação de marcas -- 
             escrita por alguém que fabrica óculos desde 2006.
           </p>
           <div className="flex items-center justify-center gap-3 mt-6">
@@ -272,7 +272,7 @@ export default function BlogPage() {
             Receba Novidades da Fábrica no Seu Email
           </h2>
           <p className="text-primary-100 mb-8 max-w-xl mx-auto">
-            Um email por mês. Sem enrolação — apenas dicas de fabricação, tendências de mercado 
+            Um email por mês. Sem enrolação -- apenas dicas de fabricação, tendências de mercado 
             e estratégias de fornecimento que realmente ajudam a construir uma marca melhor.
           </p>
           <form className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">

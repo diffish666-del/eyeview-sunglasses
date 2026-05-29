@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Estrategia de Precios para Gafas de Sol: Del Costo de Fábrica al Precio Retail',
-  description: 'Un dueño de fábrica revela la economía real de los precios de gafas — costos de fábrica, márgenes mayoristas, márgenes retail y estrategias de precios que funcionan.',
+  description: 'Un dueño de fábrica revela la economía real de los precios de gafas -- costos de fábrica, márgenes mayoristas, márgenes retail y estrategias de precios que funcionan.',
   keywords: 'precios gafas de sol, margen gafas, precios mayorista gafas, margen beneficio gafas, estrategia precios retail gafas',
   alternates: {
     canonical: '/es/blog/estrategia-precios-gafas',
@@ -27,7 +27,7 @@ export default function Page() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un dueño de fábrica revela la economía real de los precios de gafas — costos de fábrica, márgenes mayoristas, márgenes retail y estrategias de precios que funcionan.",
+          "description": "Un dueño de fábrica revela la economía real de los precios de gafas -- costos de fábrica, márgenes mayoristas, márgenes retail y estrategias de precios que funcionan.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/estrategia-precios-gafas" },
           "inLanguage": "es"
         })}} />
@@ -37,7 +37,7 @@ export default function Page() {
           "@type": "FAQPage",
           "mainEntity": [
             { "@type": "Question", "name": "¿Cuál es el margen típico en gafas de sol?", "acceptedAnswer": { "@type": "Answer", "text": "La cadena típica: Costo fábrica × 2-3 = precio mayorista × 2-2,5 = precio retail. Total: 4-8x desde fábrica hasta retail. Las marcas DTC capturan el margen completo." } },
-            { "@type": "Question", "name": "¿Cuánto cuesta fabricar gafas de sol?", "acceptedAnswer": { "@type": "Answer", "text": "ODM: $3-8/par. OEM: $5-15+/par. Materiales premium: $15-30/par. Estos son costos FOB — añade $2-5 por par para envío, aranceles y empaque." } },
+            { "@type": "Question", "name": "¿Cuánto cuesta fabricar gafas de sol?", "acceptedAnswer": { "@type": "Answer", "text": "ODM: $3-8/par. OEM: $5-15+/par. Materiales premium: $15-30/par. Estos son costos FOB -- añade $2-5 por par para envío, aranceles y empaque." } },
             { "@type": "Question", "name": "¿A qué precio debo vender mis gafas?", "acceptedAnswer": { "@type": "Answer", "text": "Valor: $15-30. Gama media: $30-80. Premium: $80-150. Lujo: $150+. La mayoría de marcas DTC nuevas tienen éxito en el rango de $30-60." } }
           ]
         })}} />
@@ -53,7 +53,7 @@ export default function Page() {
             Estrategia de Precios para Gafas de Sol: Del Costo de Fábrica al Precio Retail
           </h1>
           <p className="text-xl text-gray-600">
-            Veo ambos lados de la ecuación de precios cada día — lo que cuesta fabricar gafas y a cuánto se venden. La brecha es mayor de lo que la mayoría cree, y entenderla es la clave para construir una marca rentable.
+            Veo ambos lados de la ecuación de precios cada día -- lo que cuesta fabricar gafas y a cuánto se venden. La brecha es mayor de lo que la mayoría cree, y entenderla es la clave para construir una marca rentable.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
@@ -69,14 +69,14 @@ export default function Page() {
           <h2 className="text-3xl font-bold mt-16 mb-6">Preguntas Frecuentes</h2>
           <div className="space-y-6">
             <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Cuál es el margen típico en gafas de sol?</h3><p className="text-gray-600">La cadena típica: Costo fábrica × 2-3 = precio mayorista × 2-2,5 = precio retail. Total: 4-8x desde fábrica hasta retail. Las marcas DTC capturan el margen completo.</p></div>
-            <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Cuánto cuesta fabricar gafas de sol?</h3><p className="text-gray-600">ODM: $3-8/par. OEM: $5-15+/par. Materiales premium: $15-30/par. Estos son costos FOB — añade $2-5 por par para envío, aranceles y empaque.</p></div>
+            <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Cuánto cuesta fabricar gafas de sol?</h3><p className="text-gray-600">ODM: $3-8/par. OEM: $5-15+/par. Materiales premium: $15-30/par. Estos son costos FOB -- añade $2-5 por par para envío, aranceles y empaque.</p></div>
             <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿A qué precio debo vender mis gafas?</h3><p className="text-gray-600">Valor: $15-30. Gama media: $30-80. Premium: $80-150. Lujo: $150+. La mayoría de marcas DTC nuevas tienen éxito en el rango de $30-60.</p></div>
           </div>
 
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">¿Tienes Preguntas? Hablemos.</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas — solo consejos honestos basados en 20 años de experiencia.
+              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas -- solo consejos honestos basados en 20 años de experiencia.
             </p>
             <Link href="/es/contacto" className="btn-primary">
               Agenda una Llamada Gratis con Jacky

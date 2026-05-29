@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Principais Tendências de Design de Óculos 2026: O que Está Vendendo',
-  description: 'Um dono de fábrica de óculos revela as tendências mais quentes de design de óculos para 2026. Real sales data on what\'s moving — oversized frames, Y2K revivals, sustainable materials, and more.',
+  description: 'Um dono de fábrica de óculos revela as tendências mais quentes de design de óculos para 2026. Real sales data on what\'s moving -- oversized frames, Y2K revivals, sustainable materials, and more.',
   keywords: 'tendências óculos 2026, tendências design eyewear, estilos populares óculos, óculos moda 2026',
   alternates: {
     canonical: '/pt/blog/tendencias-design-oculos-2026',
@@ -54,7 +54,7 @@ export default function SunglassesDesignTrends2026Page() {
             {
               "@type": "Question",
               "name": "What frame material is most popular for sunglasses in 2026?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Acetate leads at about 40% of our orders, followed by TR90/nylon (30%), metal (20%), and mixed materials (10%). The biggest growth is in bio-based acetate and recycled nylon — brands are increasingly requesting sustainable materials as consumers demand eco-friendly products." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Acetate leads at about 40% of our orders, followed by TR90/nylon (30%), metal (20%), and mixed materials (10%). The biggest growth is in bio-based acetate and recycled nylon -- brands are increasingly requesting sustainable materials as consumers demand eco-friendly products." }
             }
           ]
         })}} />
@@ -117,19 +117,19 @@ export default function SunglassesDesignTrends2026Page() {
 
           <h2 id="trend-1" className="text-3xl font-bold mt-16 mb-6">1. Oversized Ainda é Rei (Mas o Formato Mudou)</h2>
           <p>
-            Óculos oversized não vão a lugar nenhum — mas o formato dominante mudou. Em 2024-2025, os oversized redondos e cat-eye dominavam. Em 2026, a bola da vez são as armações <strong>oversized quadradas e retangulares</strong>.
+            Óculos oversized não vão a lugar nenhum -- mas o formato dominante mudou. Em 2024-2025, os oversized redondos e cat-eye dominavam. Em 2026, a bola da vez são as armações <strong>oversized quadradas e retangulares</strong>.
           </p>
           <p>
             Nossos números: estilos oversized representam <strong>35% de todos os pedidos de armação</strong> no Q1 2026, acima dos 28% no Q1 2025. Dentro dessa categoria:
           </p>
           <ul>
             <li><strong>Oversized quadrado:</strong> 40% dos pedidos oversized (era 25% no ano passado)</li>
-            <li><strong>Oversized retangular:</strong> 25% (novidade — quase não existia em 2024)</li>
+            <li><strong>Oversized retangular:</strong> 25% (novidade -- quase não existia em 2024)</li>
             <li><strong>Oversized cat-eye:</strong> 20% (caiu de 35%)</li>
             <li><strong>Oversized redondo:</strong> 15% (caiu de 30%)</li>
           </ul>
           <p>
-            Pense em Jackie O encontrando a arquitetura moderna. Linhas limpas, cantos definidos, mas com curva suficiente para ser favorecedor. As lentes são grandes — 55-60mm — e as hastes são robustas. Essa silhueta funciona incrivelmente bem para os{' '}
+            Pense em Jackie O encontrando a arquitetura moderna. Linhas limpas, cantos definidos, mas com curva suficiente para ser favorecedor. As lentes são grandes -- 55-60mm -- e as hastes são robustas. Essa silhueta funciona incrivelmente bem para os{' '}
             <Link href="/pt/blog/guia-formato-rosto-oculos" className="text-primary-600 hover:underline">formatos de rosto mais comuns</Link>, 
             o que explica em parte por que está vendendo tão bem.
           </p>
@@ -143,18 +143,18 @@ export default function SunglassesDesignTrends2026Page() {
 
           <h2 id="trend-2" className="text-3xl font-bold mt-16 mb-6">2. Revival Y2K: Armações Estreitas &amp; Lentes Shield</h2>
           <p>
-            A estética do final dos anos 90/início dos 2000 continua dominando entre compradores da Geração Z e Millennials mais jovens. Armações ovais estreitas, retângulos minúsculos e lentes shield envolventes estão de volta — e não são mais apenas uma novidade do TikTok. Estão gerando vendas reais.
+            A estética do final dos anos 90/início dos 2000 continua dominando entre compradores da Geração Z e Millennials mais jovens. Armações ovais estreitas, retângulos minúsculos e lentes shield envolventes estão de volta -- e não são mais apenas uma novidade do TikTok. Estão gerando vendas reais.
           </p>
           <p>
-            O que é interessante é como essa tendência amadureceu. Em 2024, as armações Y2K eram quase fantasiosas — extremamente estreitas, quase impossíveis de usar. Em 2026, as marcas refinaram as proporções. As armações ainda são estreitas pelos padrões históricos, mas são usáveis no dia a dia. As lentes têm 40-48mm de largura em vez das micro-armações de 35mm de dois anos atrás.
+            O que é interessante é como essa tendência amadureceu. Em 2024, as armações Y2K eram quase fantasiosas -- extremamente estreitas, quase impossíveis de usar. Em 2026, as marcas refinaram as proporções. As armações ainda são estreitas pelos padrões históricos, mas são usáveis no dia a dia. As lentes têm 40-48mm de largura em vez das micro-armações de 35mm de dois anos atrás.
           </p>
           <p>
-            Lentes shield — a lente curva de peça única que envolve o rosto — são a subcategoria de crescimento mais rápido. Pedidos de armações estilo shield aumentaram <strong>65% em relação ao ano anterior</strong>. São populares tanto com marcas esportivas quanto de moda, o que me diz que essa tendência tem fôlego.
+            Lentes shield -- a lente curva de peça única que envolve o rosto -- são a subcategoria de crescimento mais rápido. Pedidos de armações estilo shield aumentaram <strong>65% em relação ao ano anterior</strong>. São populares tanto com marcas esportivas quanto de moda, o que me diz que essa tendência tem fôlego.
           </p>
 
           <h2 id="trend-3" className="text-3xl font-bold mt-16 mb-6">3. Acetato Grosso em Cores Ousadas</h2>
           <p>
-            O acetato está vivendo seu momento. Não o acetato fino e refinado dos anos 2010 — acetato grosso, robusto e sem pedir desculpas, em cores que você consegue ver do outro lado da sala.
+            O acetato está vivendo seu momento. Não o acetato fino e refinado dos anos 2010 -- acetato grosso, robusto e sem pedir desculpas, em cores que você consegue ver do outro lado da sala.
           </p>
           <p>
             As cores de acetato mais vendidas no Q1 2026 (além de preto e tartaruga, que sempre lideram):
@@ -176,7 +176,7 @@ export default function SunglassesDesignTrends2026Page() {
 
           <h2 id="trend-4" className="text-3xl font-bold mt-16 mb-6">4. Minimalismo Sem Aro &amp; Semi Sem Aro</h2>
           <p>
-            No extremo oposto do espectro do acetato grosso, estilos sem aro e semi sem aro estão em alta. É o efeito &quot;luxo discreto&quot; — consumidores que querem óculos que sejam sutis, elegantes e que não chamem atenção.
+            No extremo oposto do espectro do acetato grosso, estilos sem aro e semi sem aro estão em alta. É o efeito &quot;luxo discreto&quot; -- consumidores que querem óculos que sejam sutis, elegantes e que não chamem atenção.
           </p>
           <p>
             Semi sem aro (apenas barra superior, sem aro inferior) representa cerca de <strong>12% dos nossos pedidos</strong> agora, acima dos 7% em 2025. Totalmente sem aro é menor, com 5%, mas crescendo rápido, principalmente nos segmentos premium e luxo.
@@ -184,12 +184,12 @@ export default function SunglassesDesignTrends2026Page() {
           <p>
             O desafio com sem aro é o controle de qualidade. Sem uma armação completa para esconder imperfeições, cada defeito na borda da lente e na montagem fica visível. É aqui que o{' '}
             <Link href="/pt/blog/controle-qualidade-oculos-sol" className="text-primary-600 hover:underline">controle de qualidade</Link>{' '}
-            se torna crítico — e onde fábricas baratas realmente têm dificuldade. Se você está considerando estilos sem aro, certifique-se de que seu fabricante tenha experiência com eles.
+            se torna crítico -- e onde fábricas baratas realmente têm dificuldade. Se você está considerando estilos sem aro, certifique-se de que seu fabricante tenha experiência com eles.
           </p>
 
           <h2 id="trend-5" className="text-3xl font-bold mt-16 mb-6">5. Materiais Sustentáveis &amp; Bio-Based</h2>
           <p>
-            Isso não é apenas uma tendência — é uma mudança permanente. Em 2024, &quot;sustentável&quot; era um diferencial agradável. Em 2026, é um <em>requisito</em> para muitos varejistas e um grande ponto de venda para marcas DTC.
+            Isso não é apenas uma tendência -- é uma mudança permanente. Em 2024, &quot;sustentável&quot; era um diferencial agradável. Em 2026, é um <em>requisito</em> para muitos varejistas e um grande ponto de venda para marcas DTC.
           </p>
           <p>
             O que estamos vendo nos pedidos:
@@ -208,7 +208,7 @@ export default function SunglassesDesignTrends2026Page() {
 
           <h2 id="trend-6" className="text-3xl font-bold mt-16 mb-6">6. Sport-Luxo Crossover</h2>
           <p>
-            A linha entre óculos esportivos e óculos de moda continua a se confundir. Estamos vendo marcas de moda pedirem armações esportivas envolventes, e marcas esportivas pedirem estilos refinados em acetato. A zona de cruzamento — armações de inspiração atlética com materiais e acabamentos premium — é uma das categorias de crescimento mais rápido.
+            A linha entre óculos esportivos e óculos de moda continua a se confundir. Estamos vendo marcas de moda pedirem armações esportivas envolventes, e marcas esportivas pedirem estilos refinados em acetato. A zona de cruzamento -- armações de inspiração atlética com materiais e acabamentos premium -- é uma das categorias de crescimento mais rápido.
           </p>
           <p>
             Características principais das armações crossover esporte-luxo:
@@ -221,14 +221,14 @@ export default function SunglassesDesignTrends2026Page() {
             <li>Faixas de preço: $40-$120 varejo (mais alto que esporte puro, mais baixo que luxo puro)</li>
           </ul>
           <p>
-            Essa tendência é impulsionada pelo estilo de vida athleisure — as pessoas querem óculos que possam usar no brunch e em um passeio de bicicleta sem parecerem ridículas em nenhum dos dois. A{' '}
+            Essa tendência é impulsionada pelo estilo de vida athleisure -- as pessoas querem óculos que possam usar no brunch e em um passeio de bicicleta sem parecerem ridículas em nenhum dos dois. A{' '}
             <Link href="/pt/blog/uv400-vs-polarizado" className="text-primary-600 hover:underline">tecnologia de lentes polarizadas</Link>{' '}
             que costumava ser exclusiva do esporte agora é padrão na maioria das faixas de preço.
           </p>
 
           <h2 id="trend-7" className="text-3xl font-bold mt-16 mb-6">7. Lentes Coloridas &amp; Degradê</h2>
           <p>
-            A cor da lente costumava ser um detalhe secundário — cinza ou marrom, talvez verde se você estivesse se sentindo aventureiro. Em 2026, a lente <em>é</em> a declaração de design para muitos estilos.
+            A cor da lente costumava ser um detalhe secundário -- cinza ou marrom, talvez verde se você estivesse se sentindo aventureiro. Em 2026, a lente <em>é</em> a declaração de design para muitos estilos.
           </p>
           <p>
             Principais tendências de lentes dos nossos dados do Q1:
@@ -270,7 +270,7 @@ export default function SunglassesDesignTrends2026Page() {
                 <tr className="bg-white"><td className="px-6 py-4">Cores Ousadas (vermelho, azul, verde)</td><td className="px-6 py-4">9%</td><td className="px-6 py-4">+60%</td></tr>
                 <tr className="bg-gray-50"><td className="px-6 py-4">Tons Terrosos (oliva, areia, terracota)</td><td className="px-6 py-4">8%</td><td className="px-6 py-4">+35%</td></tr>
                 <tr className="bg-white"><td className="px-6 py-4">Metal Dourado/Prateado</td><td className="px-6 py-4">7%</td><td className="px-6 py-4">+5%</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Outros</td><td className="px-6 py-4">4%</td><td className="px-6 py-4">—</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Outros</td><td className="px-6 py-4">4%</td><td className="px-6 py-4">--</td></tr>
               </tbody>
             </table>
           </div>
@@ -287,19 +287,19 @@ export default function SunglassesDesignTrends2026Page() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Se Você Está Lançando uma Nova Marca</h3>
           <ul>
             <li>Comece com <strong>3-5 estilos</strong> que cubram diferentes formatos de rosto e ocasiões</li>
-            <li>Inclua pelo menos uma armação oversized quadrada/retangular — é a aposta mais segura</li>
+            <li>Inclua pelo menos uma armação oversized quadrada/retangular -- é a aposta mais segura</li>
             <li>Ofereça cada estilo em <strong>2-3 cores</strong>: sempre inclua preto e tartaruga, mais uma cor de tendência</li>
-            <li>Tenha lentes degradê marrom e cinza como padrão — adicione uma opção de lente fashion (degradê verde ou espelhado azul)</li>
+            <li>Tenha lentes degradê marrom e cinza como padrão -- adicione uma opção de lente fashion (degradê verde ou espelhado azul)</li>
             <li>Não corra atrás de toda tendência. Escolha 1-2 que estejam alinhadas com a identidade da sua marca</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Se Você Está Expandindo uma Linha Existente</h3>
           <ul>
             <li>Veja o que está vendendo e o que não está. Dobre a aposta nos vencedores, corte os perdedores</li>
-            <li>Adicione <strong>um estilo de tendência</strong> por temporada — lente shield, acetato grosso ou crossover esporte-luxo</li>
-            <li>Teste uma <strong>opção de material sustentável</strong> se ainda não testou — bio-acetato ou nylon reciclado</li>
-            <li>Considere uma <strong>variação translúcida</strong> para sua armação mais vendida — é uma forma de baixo risco de aproveitar uma tendência quente</li>
-            <li>Experimente <strong>lentes degradê verde</strong> — os dados dizem que não é modismo</li>
+            <li>Adicione <strong>um estilo de tendência</strong> por temporada -- lente shield, acetato grosso ou crossover esporte-luxo</li>
+            <li>Teste uma <strong>opção de material sustentável</strong> se ainda não testou -- bio-acetato ou nylon reciclado</li>
+            <li>Considere uma <strong>variação translúcida</strong> para sua armação mais vendida -- é uma forma de baixo risco de aproveitar uma tendência quente</li>
+            <li>Experimente <strong>lentes degradê verde</strong> -- os dados dizem que não é modismo</li>
           </ul>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
@@ -321,7 +321,7 @@ export default function SunglassesDesignTrends2026Page() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Óculos oversized ainda estão na moda em 2026?</h3>
               <p className="text-gray-600">
-                Com certeza — armações oversized representam 35% de todos os pedidos na nossa fábrica. O formato mudou de oversized redondo/cat-eye para silhuetas oversized quadradas e retangulares. Essa tendência tem fôlego porque armações oversized são universalmente favorecedoras e oferecem excelente proteção solar.
+                Com certeza -- armações oversized representam 35% de todos os pedidos na nossa fábrica. O formato mudou de oversized redondo/cat-eye para silhuetas oversized quadradas e retangulares. Essa tendência tem fôlego porque armações oversized são universalmente favorecedoras e oferecem excelente proteção solar.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
@@ -344,7 +344,7 @@ export default function SunglassesDesignTrends2026Page() {
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Posso enviar nosso catálogo ODM mais recente com mais de 400 estilos, incluindo todos os formatos 
               e cores em alta de 2026. Ou se você tem uma tendência específica em mente, vamos conversar sobre como 
-              realizá-la — OEM ou ODM.
+              realizá-la -- OEM ou ODM.
             </p>
             <Link href="/pt/contato" className="btn-primary">
               Receba o Catálogo 2026

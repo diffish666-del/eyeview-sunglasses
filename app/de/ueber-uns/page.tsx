@@ -61,7 +61,7 @@ export default function AboutPageDe() {
               <div className="space-y-4 text-gray-600">
                 <p>
                   EyeView begann 2006 in einer Werkstatt, die ehrlich gesagt kaum größer war als eine 
-                  Doppelgarage. Wir waren nur ich — Jacky Chen — und ein Techniker, die Acetat-Fassungen 
+                  Doppelgarage. Wir waren nur ich -- Jacky Chen -- und ein Techniker, die Acetat-Fassungen 
                   von Hand polierten und Scharniere manuell montierten. Unsere erste &quot;Produktion&quot; 
                   waren 200 Paar für einen Surfshop in Sydney. Ich habe jede Schachtel persönlich verpackt.
                 </p>
@@ -74,7 +74,7 @@ export default function AboutPageDe() {
                 <p>
                   Heute betreiben wir eine 5.000 m² große Anlage mit 5 Produktionslinien, über 150 
                   Mitarbeitern und der Kapazität, 10.000 Paar pro Tag zu produzieren. Wir haben über 
-                  500 Marken in mehr als 50 Ländern beliefert — von Kickstarter-Startups, die 100 Paar 
+                  500 Marken in mehr als 50 Ländern beliefert -- von Kickstarter-Startups, die 100 Paar 
                   bestellen, bis zu Einzelhandelsketten, die 50.000 bestellen. Die Werkstatt ist längst 
                   Geschichte, aber die Einstellung nicht: Jedes Paar wird immer noch so inspiziert, als 
                   wäre es für den Surfshop in Sydney.
@@ -98,7 +98,7 @@ export default function AboutPageDe() {
               <p className="text-gray-600">
                 Qualitativ hochwertige Sonnenbrillen-Fertigung für Marken jeder Größe zugänglich machen. 
                 Ob Sie ein Einzelunternehmer mit einer Skizze auf einer Serviette sind oder eine 
-                Einzelhandelskette, die auf 100.000 Einheiten skaliert — Sie verdienen einen 
+                Einzelhandelskette, die auf 100.000 Einheiten skaliert -- Sie verdienen einen 
                 Fertigungspartner, der Ihre Marke wie seine eigene behandelt. Kein Mindestbudget 
                 erforderlich. Keine Überheblichkeit. Nur gutes Produkt und ehrliche Kommunikation.
               </p>
@@ -108,7 +108,7 @@ export default function AboutPageDe() {
               <p className="text-gray-600">
                 Die Fabrik zu sein, auf die die nächste Generation großer Brillenmarken zeigt und sagt: 
                 &quot;Die haben uns beim Start geholfen.&quot; Wir haben bereits Hunderte von Marken 
-                beim Start unterstützt. Wir wollen Tausende weitere unterstützen — und die, die wir 
+                beim Start unterstützt. Wir wollen Tausende weitere unterstützen -- und die, die wir 
                 bereits gestartet haben, weiter wachsen lassen. Ihr Erfolg ist unser bestes Marketing.
               </p>
             </div>
@@ -143,7 +143,7 @@ export default function AboutPageDe() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Fabrikkapazitäten</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Unsere Anlage ist auf Flexibilität ausgelegt — Kleinserien und Großaufträge, OEM und ODM, 
+              Unsere Anlage ist auf Flexibilität ausgelegt -- Kleinserien und Großaufträge, OEM und ODM, 
               einfache Designs und komplexe Konstruktionen.
             </p>
           </div>
@@ -166,7 +166,7 @@ export default function AboutPageDe() {
             <CapabilityCard
               icon="🔬"
               title="Hauseigenes QK-Labor"
-              description="UV-Transmissionstests, Aufpralltests, Scharnier-Zyklusprüfungen und Maßverifizierung — alles wird intern durchgeführt, bevor etwas versendet wird."
+              description="UV-Transmissionstests, Aufpralltests, Scharnier-Zyklusprüfungen und Maßverifizierung -- alles wird intern durchgeführt, bevor etwas versendet wird."
             />
             <CapabilityCard
               icon="🎨"
@@ -187,7 +187,7 @@ export default function AboutPageDe() {
             <h2 className="text-3xl font-bold mb-4">Zertifizierungen & Compliance</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Jedes Produkt, das wir versenden, erfüllt internationale Sicherheits- und Qualitätsstandards. 
-              Das sind keine Abzeichen, die wir sammeln — das sind Anforderungen, die wir ernst nehmen.
+              Das sind keine Abzeichen, die wir sammeln -- das sind Anforderungen, die wir ernst nehmen.
             </p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
@@ -261,13 +261,13 @@ export default function AboutPageDe() {
           </div>
           <div className="grid md:grid-cols-2 gap-8">
             <TestimonialCard
-              quote="Wir begannen mit 200 ODM-Paaren als Test. Drei Jahre später bestellen wir 5.000 individuelle OEM-Paare pro Quartal. EyeView ist mit uns gewachsen — sie haben uns nie gedrängt, mehr zu bestellen, als wir bereit waren."
+              quote="Wir begannen mit 200 ODM-Paaren als Test. Drei Jahre später bestellen wir 5.000 individuelle OEM-Paare pro Quartal. EyeView ist mit uns gewachsen -- sie haben uns nie gedrängt, mehr zu bestellen, als wir bereit waren."
               name="Rachel M."
               title="Gründerin, Coastal Shade Co."
               location="Melbourne, Australien"
             />
             <TestimonialCard
-              quote="Ich hatte schlechte Erfahrungen mit zwei Fabriken gemacht, bevor ich EyeView fand. Der Unterschied war sofort spürbar — Jackys Team hat wirklich zugehört, was ich brauchte, anstatt mir einfach die billigste Option anzubieten. Die Qualität war über 12 Bestellungen hinweg konstant."
+              quote="Ich hatte schlechte Erfahrungen mit zwei Fabriken gemacht, bevor ich EyeView fand. Der Unterschied war sofort spürbar -- Jackys Team hat wirklich zugehört, was ich brauchte, anstatt mir einfach die billigste Option anzubieten. Die Qualität war über 12 Bestellungen hinweg konstant."
               name="Marcus T."
               title="CEO, Elevate Eyewear"
               location="Atlanta, USA"
@@ -279,7 +279,7 @@ export default function AboutPageDe() {
               location="Stockholm, Schweden"
             />
             <TestimonialCard
-              quote="Als Startup ohne Brillenerfahrung hatte ich erwartet, von echten Fabriken ignoriert zu werden. EyeView hat meine erste Bestellung von 100 Stück genauso ernst genommen wie ihre Großkunden. Diese Loyalität funktioniert in beide Richtungen — jetzt sind wir einer ihrer größten Kunden."
+              quote="Als Startup ohne Brillenerfahrung hatte ich erwartet, von echten Fabriken ignoriert zu werden. EyeView hat meine erste Bestellung von 100 Stück genauso ernst genommen wie ihre Großkunden. Diese Loyalität funktioniert in beide Richtungen -- jetzt sind wir einer ihrer größten Kunden."
               name="Priya K."
               title="Gründerin, Dusk & Dawn Eyewear"
               location="Toronto, Kanada"
@@ -306,7 +306,7 @@ export default function AboutPageDe() {
             <ValueCard
               icon="💬"
               title="Ehrliche Kommunikation"
-              description="Wenn etwas 60 Tage dauert, sagen wir 60 Tage — nicht 30. Wenn ein Material für Ihr Design nicht funktioniert, sagen wir es Ihnen, bevor Sie Geld für eine Form verschwenden. Keine Überraschungen."
+              description="Wenn etwas 60 Tage dauert, sagen wir 60 Tage -- nicht 30. Wenn ein Material für Ihr Design nicht funktioniert, sagen wir es Ihnen, bevor Sie Geld für eine Form verschwenden. Keine Überraschungen."
             />
           </div>
         </section>
@@ -315,8 +315,8 @@ export default function AboutPageDe() {
         <section className="bg-gray-900 text-white rounded-2xl p-8 md:p-12 text-center">
           <h2 className="text-3xl font-bold mb-4">Möchten Sie sehen, was wir für Ihre Marke tun können?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
-            Ob Sie Ihre erste Linie starten oder eine bestehende Marke skalieren — wir freuen uns auf 
-            ein Gespräch. Keine Verpflichtung, kein Verkaufsdruck — nur ein ehrliches Gespräch darüber, 
+            Ob Sie Ihre erste Linie starten oder eine bestehende Marke skalieren -- wir freuen uns auf 
+            ein Gespräch. Keine Verpflichtung, kein Verkaufsdruck -- nur ein ehrliches Gespräch darüber, 
             was möglich ist.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

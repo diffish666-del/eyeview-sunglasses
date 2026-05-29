@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Molduras TR90 vs Acetato vs Metal: O Guia Completo do Comprador 2026',
-  description: 'Um dono de fábrica explica as verdadeiras diferenças entre molduras TR90, acetato e metal — durabilidade, peso, custo, e qual material é certo para sua marca.',
+  description: 'Um dono de fábrica explica as verdadeiras diferenças entre molduras TR90, acetato e metal -- durabilidade, peso, custo, e qual material é certo para sua marca.',
   keywords: 'TR90 vs acetato vs metal óculos, materiais molduras óculos, molduras TR90, molduras acetato, molduras metal, óculos leves, óculos flexíveis, molduras óculos atacado',
   alternates: {
     canonical: '/pt/blog/molduras-tr90-acetato-metal',
@@ -27,7 +27,7 @@ export default function Page() {
           "dateModified": "2026-05-23",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Um dono de fábrica explica as verdadeiras diferenças entre molduras TR90, acetato e metal — durabilidade, peso, custo, e qual material é certo para sua marca.",
+          "description": "Um dono de fábrica explica as verdadeiras diferenças entre molduras TR90, acetato e metal -- durabilidade, peso, custo, e qual material é certo para sua marca.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/pt/blog/molduras-tr90-acetato-metal" },
           "inLanguage": "pt"
         })}} />
@@ -36,8 +36,8 @@ export default function Page() {
           "@context": "https://schema.org",
           "@type": "FAQPage",
           "mainEntity": [
-            { "@type": "Question", "name": "Qual material de moldura é mais durável?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 é o mais durável por resistência a impacto e flexibilidade — pode dobrar e voltar à forma sem quebrar. Acetato é durável para uso diário mas pode rachar sob estresse extremo. Molduras de metal são fortes mas podem deformar e são mais difíceis de reparar. Para esportes ativos ou crianças, TR90 é o claro vencedor." } },
-            { "@type": "Question", "name": "Qual material de moldura é mais leve?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 é o mais leve — uma moldura TR90 típica pesa 15-20 gramas. Molduras de metal são as seguintes com 20-30 gramas dependendo da liga. Acetato é o mais pesado com 25-40 gramas porque é talhado de blocos sólidos de material. Se peso é sua prioridade, TR90 é a melhor escolha." } },
+            { "@type": "Question", "name": "Qual material de moldura é mais durável?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 é o mais durável por resistência a impacto e flexibilidade -- pode dobrar e voltar à forma sem quebrar. Acetato é durável para uso diário mas pode rachar sob estresse extremo. Molduras de metal são fortes mas podem deformar e são mais difíceis de reparar. Para esportes ativos ou crianças, TR90 é o claro vencedor." } },
+            { "@type": "Question", "name": "Qual material de moldura é mais leve?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 é o mais leve -- uma moldura TR90 típica pesa 15-20 gramas. Molduras de metal são as seguintes com 20-30 gramas dependendo da liga. Acetato é o mais pesado com 25-40 gramas porque é talhado de blocos sólidos de material. Se peso é sua prioridade, TR90 é a melhor escolha." } },
             { "@type": "Question", "name": "Qual material de moldura é melhor para óculos de moda?", "acceptedAnswer": { "@type": "Answer", "text": "Acetato é o padrão ouro para óculos de moda. Pode ser cortado em formas ousadas e grossas, polido a alto brilho, e vem em centenas de cores e padrões (tartaruga, mármore, degradê, transparente). Marcas de luxo como Tom Ford, Gucci e Prada usam quase exclusivamente acetato." } },
             { "@type": "Question", "name": "Quanto custam diferentes materiais de moldura no atacado?", "acceptedAnswer": { "@type": "Answer", "text": "No atacado de fábrica: molduras TR90 custam $3-8/par dependendo da complexidade. Molduras de acetato custam $5-15/par (acetato premium polido à mão pode alcançar $20+). Molduras de metal custam $4-12/par dependendo da liga e revestimento." } },
             { "@type": "Question", "name": "Molduras de metal são melhores para pessoas com alergias?", "acceptedAnswer": { "@type": "Answer", "text": "Depende do metal. Aço inoxidável e titânio são hipoalergênicos e seguros para pele sensível. No entanto, algumas ligas metálicas mais baratas contêm níquel, que pode causar reações alérgicas. Se você está buscando molduras de metal para uma marca, especifique sempre ligas livres de níquel." } }
@@ -88,9 +88,9 @@ export default function Page() {
             Quando você está buscando óculos de sol para sua marca, você está basicamente escolhendo entre três materiais de moldura:
           </p>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>TR90</strong> — Um termoplástico flexível e ultraleve da Suíça (Gril TR90 é a versão premium)</li>
-            <li><strong>Acetato</strong> — Um plástico de origem vegetal talhado e polido em formas ousadas e premium</li>
-            <li><strong>Metal</strong> — Molduras de aço inoxidável, alumínio ou titânio para um look clássico e elegante</li>
+            <li><strong>TR90</strong> -- Um termoplástico flexível e ultraleve da Suíça (Gril TR90 é a versão premium)</li>
+            <li><strong>Acetato</strong> -- Um plástico de origem vegetal talhado e polido em formas ousadas e premium</li>
+            <li><strong>Metal</strong> -- Molduras de aço inoxidável, alumínio ou titânio para um look clássico e elegante</li>
           </ul>
           <p className="text-gray-700 mb-4">
             Cada um tem pontos fortes e fracos. Nenhum é o &quot;melhor&quot; em tudo. A escolha certa depende do posicionamento da sua marca, seu cliente alvo e seu ponto de preço.
@@ -107,12 +107,12 @@ export default function Page() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Características Principais</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Peso:</strong> 15-20 gramas por moldura — a opção mais leve disponível</li>
+            <li><strong>Peso:</strong> 15-20 gramas por moldura -- a opção mais leve disponível</li>
             <li><strong>Flexibilidade:</strong> Pode dobrar significativamente e voltar à forma sem quebrar</li>
-            <li><strong>Resistência a impacto:</strong> Extremamente alta — sobrevive a quedas, sentadas e pisoteios</li>
+            <li><strong>Resistência a impacto:</strong> Extremamente alta -- sobrevive a quedas, sentadas e pisoteios</li>
             <li><strong>Acabamento superficial:</strong> Fosco ou semibrilhante, não pode ser polido a alto brilho como o acetato</li>
-            <li><strong>Opções de cor:</strong> Limitadas a cores moldadas por injeção — sem padrões de tartaruga, mármore ou em camadas</li>
-            <li><strong>Hipoalergênico:</strong> Sim — seguro para todos os tipos de pele</li>
+            <li><strong>Opções de cor:</strong> Limitadas a cores moldadas por injeção -- sem padrões de tartaruga, mármore ou em camadas</li>
+            <li><strong>Hipoalergênico:</strong> Sim -- seguro para todos os tipos de pele</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Melhor Para</h3>
@@ -125,7 +125,7 @@ export default function Page() {
           </ul>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-4 mb-6">
-            <p className="text-blue-800 font-medium">💡 Dica de Fábrica: Se você está buscando TR90, peça &quot;Gril TR90&quot; (o original suíço) em vez de TR90 genérico. A diferença de qualidade é notável — melhor flexibilidade, melhor consistência de cor e menos risco de deformação com o tempo.</p>
+            <p className="text-blue-800 font-medium">💡 Dica de Fábrica: Se você está buscando TR90, peça &quot;Gril TR90&quot; (o original suíço) em vez de TR90 genérico. A diferença de qualidade é notável -- melhor flexibilidade, melhor consistência de cor e menos risco de deformação com o tempo.</p>
           </div>
         </section>
 
@@ -139,12 +139,12 @@ export default function Page() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Características Principais</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Peso:</strong> 25-40 gramas por moldura — a opção mais pesada</li>
-            <li><strong>Flexibilidade:</strong> Baixa — rígido e substancial, pode rachar sob estresse extremo</li>
+            <li><strong>Peso:</strong> 25-40 gramas por moldura -- a opção mais pesada</li>
+            <li><strong>Flexibilidade:</strong> Baixa -- rígido e substancial, pode rachar sob estresse extremo</li>
             <li><strong>Acabamento superficial:</strong> Polimento de alto brilho, sensação rica e premium</li>
-            <li><strong>Opções de cor:</strong> Virtualmente ilimitadas — cores sólidas, tartaruga, mármore, degradê, transparente, em camadas, padrões mistos</li>
-            <li><strong>Opções de forma:</strong> Ousadas, grossas, esculturais — o acetato pode ser talhado em qualquer forma</li>
-            <li><strong>Hipoalergênico:</strong> Sim — de origem vegetal, seguro para pele sensível</li>
+            <li><strong>Opções de cor:</strong> Virtualmente ilimitadas -- cores sólidas, tartaruga, mármore, degradê, transparente, em camadas, padrões mistos</li>
+            <li><strong>Opções de forma:</strong> Ousadas, grossas, esculturais -- o acetato pode ser talhado em qualquer forma</li>
+            <li><strong>Hipoalergênico:</strong> Sim -- de origem vegetal, seguro para pele sensível</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Melhor Para</h3>
@@ -157,7 +157,7 @@ export default function Page() {
           </ul>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-4 mb-6">
-            <p className="text-amber-800 font-medium">🔥 Dica de Fábrica: A qualidade do acetato varia dramaticamente por origem. O acetato italiano (da Mazza ou Albini) é o padrão ouro — cores mais ricas, melhor polimento, material mais consistente. O acetato chinês é mais barato mas pode parecer plano e opaco. Para uma marca premium, insista em acetato italiano.</p>
+            <p className="text-amber-800 font-medium">🔥 Dica de Fábrica: A qualidade do acetato varia dramaticamente por origem. O acetato italiano (da Mazza ou Albini) é o padrão ouro -- cores mais ricas, melhor polimento, material mais consistente. O acetato chinês é mais barato mas pode parecer plano e opaco. Para uma marca premium, insista em acetato italiano.</p>
           </div>
         </section>
 
@@ -172,17 +172,17 @@ export default function Page() {
             <li><strong>Aço inoxidável:</strong> O mais comum, bom equilíbrio de resistência e custo</li>
             <li><strong>Titânio:</strong> Premium, leve, hipoalergênico, mais caro</li>
             <li><strong>Alumínio:</strong> Muito leve, look moderno, menos comum</li>
-            <li><strong>Níquel prata (Monel):</strong> Barato, fácil de trabalhar, mas pode causar alergias — evitar para marcas premium</li>
+            <li><strong>Níquel prata (Monel):</strong> Barato, fácil de trabalhar, mas pode causar alergias -- evitar para marcas premium</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Características Principais</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Peso:</strong> 20-30 gramas por moldura — peso médio</li>
-            <li><strong>Flexibilidade:</strong> Baixa a média — pode dobrar mas pode não voltar à forma</li>
+            <li><strong>Peso:</strong> 20-30 gramas por moldura -- peso médio</li>
+            <li><strong>Flexibilidade:</strong> Baixa a média -- pode dobrar mas pode não voltar à forma</li>
             <li><strong>Acabamento superficial:</strong> Pode ser chapeado em ouro, prata, ouro rosa, gunmetal, preto fosco, etc.</li>
-            <li><strong>Opções de forma:</strong> Designs finos, elegantes, de arame — não pode fazer looks ousados/grossos</li>
-            <li><strong>Durabilidade:</strong> Forte mas as dobradiças são o ponto fraco — o metal fadiga com o tempo</li>
-            <li><strong>Hipoalergênico:</strong> Depende da liga — aço inoxidável e titânio são seguros, ligas de níquel não são</li>
+            <li><strong>Opções de forma:</strong> Designs finos, elegantes, de arame -- não pode fazer looks ousados/grossos</li>
+            <li><strong>Durabilidade:</strong> Forte mas as dobradiças são o ponto fraco -- o metal fadiga com o tempo</li>
+            <li><strong>Hipoalergênico:</strong> Depende da liga -- aço inoxidável e titânio são seguros, ligas de níquel não são</li>
           </ul>
 
           <div className="bg-red-50 border-l-4 border-red-500 p-4 mb-6">
@@ -197,14 +197,14 @@ export default function Page() {
             <div className="bg-gray-50 rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Qual material de moldura é mais durável?</h3>
               <p className="text-gray-700">
-                TR90 é o mais durável por resistência a impacto e flexibilidade — pode dobrar e voltar à forma sem quebrar. Acetato é durável para uso diário mas pode rachar sob estresse extremo. Molduras de metal são fortes mas podem deformar e são mais difíceis de reparar. Para esportes ativos ou crianças, TR90 é o claro vencedor. Para linhas focadas em moda, o acetato oferece o melhor equilíbrio de durabilidade e sensação premium.
+                TR90 é o mais durável por resistência a impacto e flexibilidade -- pode dobrar e voltar à forma sem quebrar. Acetato é durável para uso diário mas pode rachar sob estresse extremo. Molduras de metal são fortes mas podem deformar e são mais difíceis de reparar. Para esportes ativos ou crianças, TR90 é o claro vencedor. Para linhas focadas em moda, o acetato oferece o melhor equilíbrio de durabilidade e sensação premium.
               </p>
             </div>
 
             <div className="bg-gray-50 rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Qual material de moldura é mais leve?</h3>
               <p className="text-gray-700">
-                TR90 é o mais leve — uma moldura TR90 típica pesa 15-20 gramas. Molduras de metal são as seguintes com 20-30 gramas dependendo da liga. Acetato é o mais pesado com 25-40 gramas porque é talhado de blocos sólidos de material. Se peso é sua prioridade (para conforto o dia todo ou óculos de sol para crianças), TR90 é a melhor escolha.
+                TR90 é o mais leve -- uma moldura TR90 típica pesa 15-20 gramas. Molduras de metal são as seguintes com 20-30 gramas dependendo da liga. Acetato é o mais pesado com 25-40 gramas porque é talhado de blocos sólidos de material. Se peso é sua prioridade (para conforto o dia todo ou óculos de sol para crianças), TR90 é a melhor escolha.
               </p>
             </div>
 
@@ -234,7 +234,7 @@ export default function Page() {
         <div className="bg-gradient-to-r from-primary-600 to-primary-700 rounded-2xl p-8 text-white text-center">
           <h2 className="text-3xl font-bold mb-4">Pronto para Buscar as Molduras Certas?</h2>
           <p className="text-xl mb-6 opacity-90">
-            Seja que você precise TR90 para performance, acetato para moda, ou metal para estilo clássico — nós ajudaremos você a encontrar a moldura perfeita para sua marca.
+            Seja que você precise TR90 para performance, acetato para moda, ou metal para estilo clássico -- nós ajudaremos você a encontrar a moldura perfeita para sua marca.
           </p>
           <Link 
             href="/pt/contato" 

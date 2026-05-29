@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Coating Guide: Mirror, Anti-Reflective, Hydrophobic & More',
-  description: 'A factory owner breaks down every sunglasses coating type — mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs per pair and which coatings stack together.',
+  description: 'A factory owner breaks down every sunglasses coating type -- mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs per pair and which coatings stack together.',
   keywords: 'sunglasses coating types, mirror coating sunglasses, anti-reflective coating sunglasses, hydrophobic lens coating, oleophobic coating, anti-fog sunglasses, hard coat lenses, blue light filter sunglasses',
 }
 
@@ -21,7 +21,7 @@ export default function SunglassesCoatingGuidePage() {
           "dateModified": "2026-05-03",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "A factory owner breaks down every sunglasses coating type — mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs per pair and which coatings stack together.",
+          "description": "A factory owner breaks down every sunglasses coating type -- mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs per pair and which coatings stack together.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/sunglasses-coating-guide" }
         })}} />
 
@@ -43,12 +43,12 @@ export default function SunglassesCoatingGuidePage() {
             {
               "@type": "Question",
               "name": "Can you combine multiple lens coatings on one pair of sunglasses?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Yes — and you should. Most coatings are designed to stack. The standard layering order from lens surface outward is: hard coat (base layer), then AR coating, then mirror coating (if applicable), then hydrophobic and oleophobic as the outermost layers. Anti-fog is applied to the inner lens surface. The only combination that doesn't work is a full mirror coat with AR on the same side — the mirror already handles reflection." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Yes -- and you should. Most coatings are designed to stack. The standard layering order from lens surface outward is: hard coat (base layer), then AR coating, then mirror coating (if applicable), then hydrophobic and oleophobic as the outermost layers. Anti-fog is applied to the inner lens surface. The only combination that doesn't work is a full mirror coat with AR on the same side -- the mirror already handles reflection." }
             },
             {
               "@type": "Question",
               "name": "How long do sunglasses coatings last?",
-              "acceptedAnswer": { "@type": "Answer", "text": "It depends on the coating and how you treat them. Hard coat lasts the lifetime of the lens. AR coating lasts 2-3 years with normal use. Mirror coatings last 1-3 years depending on quality — cheap single-layer mirrors degrade faster. Hydrophobic and oleophobic coatings wear down the fastest, typically 1-2 years, because they're the outermost layer taking all the abuse from cleaning and handling. Anti-fog coatings last 1-2 years." }
+              "acceptedAnswer": { "@type": "Answer", "text": "It depends on the coating and how you treat them. Hard coat lasts the lifetime of the lens. AR coating lasts 2-3 years with normal use. Mirror coatings last 1-3 years depending on quality -- cheap single-layer mirrors degrade faster. Hydrophobic and oleophobic coatings wear down the fastest, typically 1-2 years, because they're the outermost layer taking all the abuse from cleaning and handling. Anti-fog coatings last 1-2 years." }
             },
             {
               "@type": "Question",
@@ -108,20 +108,20 @@ export default function SunglassesCoatingGuidePage() {
           </p>
           <p>
             Fair question. And no, I wasn&apos;t padding anything. Here&apos;s the thing most people don&apos;t realize: 
-            the lens material — whether it&apos;s CR-39, polycarbonate, nylon, or TAC — is only the foundation. 
+            the lens material -- whether it&apos;s CR-39, polycarbonate, nylon, or TAC -- is only the foundation. 
             Coatings are what turn a decent lens into a great one. They&apos;re the difference between sunglasses 
             that feel premium and sunglasses that feel like gas station freebies.
           </p>
           <p>
             I&apos;ve been running a sunglasses factory since 2006. Our coating room is one of the most 
-            expensive departments on the floor — vacuum deposition chambers, ultrasonic cleaning baths, 
+            expensive departments on the floor -- vacuum deposition chambers, ultrasonic cleaning baths, 
             climate-controlled environments. All of that exists because coatings are that important. If 
             you&apos;re building a sunglasses brand, or even just trying to understand what you&apos;re paying for, 
             this guide covers every major sunglasses coating type, what it costs at production scale, and 
             how to combine them without wasting money.
           </p>
           <p>
-            For lens material basics — CR-39 vs. polycarbonate vs. nylon — check 
+            For lens material basics -- CR-39 vs. polycarbonate vs. nylon -- check 
             our <Link href="/blog/sunglasses-lens-guide" className="text-primary-600 hover:underline">sunglasses lens guide</Link> first. 
             This article picks up where that one leaves off.
           </p>
@@ -130,14 +130,14 @@ export default function SunglassesCoatingGuidePage() {
           <h2 id="why-coatings-matter" className="text-3xl font-bold mt-16 mb-6">Why Coatings Matter More Than You Think</h2>
           <p>
             Take two identical polycarbonate lenses. Same material, same tint, same UV400 protection. Put a 
-            premium multi-layer coating stack on one and leave the other bare. Hand them to anyone — your 
+            premium multi-layer coating stack on one and leave the other bare. Hand them to anyone -- your 
             grandmother, a ten-year-old, doesn&apos;t matter. They&apos;ll pick the coated lens as &quot;better&quot; within 
             five seconds.
           </p>
           <p>
             The coated lens is clearer. It doesn&apos;t smudge as easily. Water beads off instead of streaking. 
             There&apos;s no annoying reflection bouncing off the back of the lens into your eyes. It just feels 
-            like a more expensive product — because it is, but not by as much as you&apos;d think.
+            like a more expensive product -- because it is, but not by as much as you&apos;d think.
           </p>
           <p>
             Coatings add anywhere from $0.50 to $5.00 per pair at factory scale. On a pair of sunglasses 
@@ -149,7 +149,7 @@ export default function SunglassesCoatingGuidePage() {
           <h2 id="mirror-coating" className="text-3xl font-bold mt-16 mb-6">Mirror (Flash) Coating</h2>
           <p>
             Mirror coating is the one everyone recognizes. Those reflective lenses you see on lifeguards, 
-            ski instructors, and half the people at Coachella — that&apos;s mirror. It&apos;s also called flash 
+            ski instructors, and half the people at Coachella -- that&apos;s mirror. It&apos;s also called flash 
             coating or revo coating, depending on who you ask.
           </p>
 
@@ -158,7 +158,7 @@ export default function SunglassesCoatingGuidePage() {
             Mirror coating is a thin metallic or metallic-oxide layer applied to the front surface of the 
             lens through vacuum deposition. The metallic layer reflects a portion of incoming light before 
             it passes through the lens, reducing overall light transmission. Think of it like a one-way 
-            mirror — people see their reflection, you see through it clearly.
+            mirror -- people see their reflection, you see through it clearly.
           </p>
           <p>
             There are three grades we work with:
@@ -171,13 +171,13 @@ export default function SunglassesCoatingGuidePage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What It Costs</h3>
           <p>
-            Single-layer flash: <strong>$0.40–$0.80 per pair.</strong> Multi-layer full mirror: <strong>$1.00–$1.80 per pair.</strong> Gradient 
-            mirror: <strong>$1.80–$3.00 per pair.</strong> The price jumps because each additional layer requires another pass through the 
+            Single-layer flash: <strong>$0.40-$0.80 per pair.</strong> Multi-layer full mirror: <strong>$1.00-$1.80 per pair.</strong> Gradient 
+            mirror: <strong>$1.80-$3.00 per pair.</strong> The price jumps because each additional layer requires another pass through the 
             vacuum chamber, and gradient work needs skilled operators controlling the deposition manually.
           </p>
           <p>
             Mirror is especially popular on our{' '}
-            <Link href="/products/sport" className="text-primary-600 hover:underline">sport sunglasses</Link> — 
+            <Link href="/products/sport" className="text-primary-600 hover:underline">sport sunglasses</Link> -- 
             blue and green mirrors on wrap-around frames are the top sellers for outdoor and water sports brands.
           </p>
 
@@ -186,20 +186,20 @@ export default function SunglassesCoatingGuidePage() {
           <p>
             AR coating is the unsung hero of sunglasses coatings. It doesn&apos;t look flashy. Most customers 
             don&apos;t even know it exists. But every optician in the world will tell you it&apos;s one of the 
-            most important coatings on any lens — prescription or sun.
+            most important coatings on any lens -- prescription or sun.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">How It Works</h3>
           <p>
             When light hits a lens surface, about 4-8% reflects back instead of passing through. On 
-            sunglasses, the back surface is the problem. Light comes from behind you — the sky, buildings, 
-            car windows — hits the inside of the lens, and bounces straight into your eyes. That&apos;s 
+            sunglasses, the back surface is the problem. Light comes from behind you -- the sky, buildings, 
+            car windows -- hits the inside of the lens, and bounces straight into your eyes. That&apos;s 
             back-glare, and it causes eye fatigue, squinting, and headaches on long drives.
           </p>
           <p>
             <a href="https://en.wikipedia.org/wiki/Anti-reflective_coating" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Anti-reflective coating</a> uses 
-            thin-film interference to cancel out reflected light. Multiple layers of metal oxides — typically 
-            magnesium fluoride, silicon dioxide, or titanium dioxide — are deposited at precise thicknesses. 
+            thin-film interference to cancel out reflected light. Multiple layers of metal oxides -- typically 
+            magnesium fluoride, silicon dioxide, or titanium dioxide -- are deposited at precise thicknesses. 
             Each layer cancels a specific wavelength of reflected light. More layers = broader spectrum coverage = 
             less reflection.
           </p>
@@ -216,8 +216,8 @@ export default function SunglassesCoatingGuidePage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What It Costs</h3>
           <p>
-            Single-layer AR (basic): <strong>$0.30–$0.60 per pair.</strong> Multi-layer AR (premium, 4-6 layers): <strong>$0.60–$1.50 per pair.</strong> The 
-            multi-layer version reduces reflection from ~4% to under 0.5% — you literally cannot see any 
+            Single-layer AR (basic): <strong>$0.30-$0.60 per pair.</strong> Multi-layer AR (premium, 4-6 layers): <strong>$0.60-$1.50 per pair.</strong> The 
+            multi-layer version reduces reflection from ~4% to under 0.5% -- you literally cannot see any 
             reflection on the back surface. Worth every cent.
           </p>
 
@@ -226,41 +226,41 @@ export default function SunglassesCoatingGuidePage() {
           <p>
             Hydrophobic means water-hating. Apply it to a lens, and water beads up into tiny droplets 
             and rolls off instead of spreading into a smeared mess. If you&apos;ve ever seen those videos of 
-            water dancing off a car windshield — same principle, applied to eyewear.
+            water dancing off a car windshield -- same principle, applied to eyewear.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">How It Works</h3>
           <p>
             It&apos;s a nanoscale layer of fluoropolymer or silicone-based material that lowers the surface 
             energy of the lens. Low surface energy = liquids can&apos;t spread out and cling. They bead up 
-            and slide off under gravity. The coating is incredibly thin — about 10-20 nanometers. You 
+            and slide off under gravity. The coating is incredibly thin -- about 10-20 nanometers. You 
             can&apos;t see it, can&apos;t feel it, but it changes how the lens behaves in wet conditions completely.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What It Costs</h3>
           <p>
-            <strong>$0.20–$0.50 per pair.</strong> One of the cheapest coatings we apply, and one of the most 
-            impactful for user experience. I put hydrophobic on everything — there&apos;s no reason not to at 
+            <strong>$0.20-$0.50 per pair.</strong> One of the cheapest coatings we apply, and one of the most 
+            impactful for user experience. I put hydrophobic on everything -- there&apos;s no reason not to at 
             this price point.
           </p>
           <p>
             It&apos;s particularly critical for{' '}
             <Link href="/products/sport" className="text-primary-600 hover:underline">sport sunglasses</Link>. 
-            Runners, cyclists, water sports athletes — anyone dealing with rain, spray, or sweat needs this coating. 
+            Runners, cyclists, water sports athletes -- anyone dealing with rain, spray, or sweat needs this coating. 
             Without it, one splash turns the lens into a blurry mess.
           </p>
 
           {/* Oleophobic */}
           <h2 id="oleophobic" className="text-3xl font-bold mt-16 mb-6">Oleophobic Coating</h2>
           <p>
-            Oleophobic is hydrophobic&apos;s cousin — but instead of repelling water, it repels oils. Fingerprints, 
+            Oleophobic is hydrophobic&apos;s cousin -- but instead of repelling water, it repels oils. Fingerprints, 
             face oils, sunscreen, that mysterious smudge that appears the moment you put your sunglasses on 
             top of your head. Oleophobic coating handles all of it.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">How It Works</h3>
           <p>
-            Similar to hydrophobic — a fluoropolymer layer that reduces surface energy — but optimized for 
+            Similar to hydrophobic -- a fluoropolymer layer that reduces surface energy -- but optimized for 
             oleic substances (oils and fats) rather than just water. In practice, most modern coatings marketed 
             as &quot;hydrophobic&quot; actually have some oleophobic properties built in. But a dedicated oleophobic 
             coating is noticeably better at resisting fingerprints and making cleaning easier.
@@ -274,8 +274,8 @@ export default function SunglassesCoatingGuidePage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What It Costs</h3>
           <p>
-            <strong>$0.30–$0.60 per pair.</strong> Often combined with hydrophobic in a single application step, 
-            which brings the combo down to <strong>$0.40–$0.80</strong> total for both. Most factories apply them 
+            <strong>$0.30-$0.60 per pair.</strong> Often combined with hydrophobic in a single application step, 
+            which brings the combo down to <strong>$0.40-$0.80</strong> total for both. Most factories apply them 
             together as a &quot;hydro-oleophobic&quot; package.
           </p>
 
@@ -291,19 +291,19 @@ export default function SunglassesCoatingGuidePage() {
           <p>
             Fogging happens when warm, moist air hits a cool lens surface. Tiny water droplets form and scatter 
             light. Anti-fog coatings work by doing one of two things: either they absorb moisture (hydrophilic 
-            approach — the coating spreads water into an invisible thin film instead of letting it form droplets) 
+            approach -- the coating spreads water into an invisible thin film instead of letting it form droplets) 
             or they use a surfactant layer that prevents droplets from forming in the first place.
           </p>
           <p>
             The hydrophilic approach is more common in performance eyewear. It doesn&apos;t stop moisture from 
-            landing on the lens — it just makes the moisture invisible. The lens surface stays optically clear 
+            landing on the lens -- it just makes the moisture invisible. The lens surface stays optically clear 
             even when it&apos;s technically wet.
           </p>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 Important: Anti-Fog Goes on the Inside</h3>
             <p className="text-amber-800">
-              Anti-fog is applied to the inner lens surface — the side facing your skin. That&apos;s where 
+              Anti-fog is applied to the inner lens surface -- the side facing your skin. That&apos;s where 
               fogging happens, because your body heat and breath create the temperature differential. 
               Putting anti-fog on the outside would be like putting a raincoat on your house&apos;s interior walls.
             </p>
@@ -311,9 +311,9 @@ export default function SunglassesCoatingGuidePage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What It Costs</h3>
           <p>
-            <strong>$0.40–$0.80 per pair.</strong> The permanent coatings at the higher end of that range last 
+            <strong>$0.40-$0.80 per pair.</strong> The permanent coatings at the higher end of that range last 
             1-2 years. Cheaper versions degrade faster, especially with frequent cleaning. For sport sunglasses 
-            where fogging is a safety issue — cycling, skiing, running — spend the extra $0.30 for the premium version.
+            where fogging is a safety issue -- cycling, skiing, running -- spend the extra $0.30 for the premium version.
           </p>
 
           {/* Hard Coat */}
@@ -325,7 +325,7 @@ export default function SunglassesCoatingGuidePage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">How It Works</h3>
           <p>
-            Most sunglass lenses — especially polycarbonate and CR-39 — are relatively soft materials. 
+            Most sunglass lenses -- especially polycarbonate and CR-39 -- are relatively soft materials. 
             Polycarbonate is great for impact resistance but scratches if you look at it wrong. Hard coat 
             is a thin layer of silicone-based lacquer or metal oxide (usually silicon dioxide) that dramatically 
             increases surface hardness.
@@ -333,13 +333,13 @@ export default function SunglassesCoatingGuidePage() {
           <p>
             We test hard coat with a steel wool abrasion test: 50 strokes of #0000 steel wool at controlled 
             pressure. A bare polycarbonate lens looks like a cat attacked it. A properly hard-coated lens 
-            shows minimal marking. It&apos;s not invincible — you can still scratch it if you try — but it turns 
+            shows minimal marking. It&apos;s not invincible -- you can still scratch it if you try -- but it turns 
             normal daily wear from &quot;destroyed in three months&quot; to &quot;looks good for years.&quot;
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What It Costs</h3>
           <p>
-            <strong>$0.15–$0.40 per pair.</strong> The cheapest coating on the list, and the one I consider 
+            <strong>$0.15-$0.40 per pair.</strong> The cheapest coating on the list, and the one I consider 
             absolutely non-negotiable. I don&apos;t ship a single pair without hard coat. Any factory that 
             offers you polycarbonate lenses without hard coat is either cutting corners or doesn&apos;t know 
             what they&apos;re doing. Either way, walk away.
@@ -358,27 +358,27 @@ export default function SunglassesCoatingGuidePage() {
             Blue light filter coating selectively blocks or reflects high-energy visible (HEV) blue light in 
             the 380-450nm wavelength range. There are two approaches: an absorptive tint built into the lens 
             material (gives the lens a slight yellow cast) or a reflective coating that bounces blue light 
-            away (produces a faint blue-purple reflection on the lens surface — you&apos;ve seen this on &quot;computer 
+            away (produces a faint blue-purple reflection on the lens surface -- you&apos;ve seen this on &quot;computer 
             glasses&quot;).
           </p>
           <p>
             For sunglasses specifically, the reflective coating approach is more popular because it doesn&apos;t 
-            alter the lens tint. Your gray lens stays gray, your brown stays brown — but it&apos;s filtering 
+            alter the lens tint. Your gray lens stays gray, your brown stays brown -- but it&apos;s filtering 
             20-40% of HEV blue light on top of the standard UV400 protection that all quality sunglasses 
             should already provide.
           </p>
           <p>
             Our{' '}
             <Link href="/products/blue-light" className="text-primary-600 hover:underline">blue light collection</Link> pairs 
-            this coating with our best-selling frames — it&apos;s one of our fastest-growing categories.
+            this coating with our best-selling frames -- it&apos;s one of our fastest-growing categories.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What It Costs</h3>
           <p>
-            <strong>$0.50–$1.20 per pair.</strong> The reflective-type coating is at the higher end because it 
+            <strong>$0.50-$1.20 per pair.</strong> The reflective-type coating is at the higher end because it 
             requires a dedicated vacuum deposition step. The absorptive type is cheaper but changes lens color. 
             For sunglasses brands targeting digital wellness or the 25-40 urban professional demographic, 
-            this coating pays for itself — customers actively seek it out and will pay a $10-20 premium at retail.
+            this coating pays for itself -- customers actively seek it out and will pay a $10-20 premium at retail.
           </p>
 
           {/* Cost Breakdown Table */}
@@ -400,15 +400,15 @@ export default function SunglassesCoatingGuidePage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Hard Coat</td><td className="px-6 py-4">$0.15–$0.40</td><td className="px-6 py-4">Lens lifetime</td><td className="px-6 py-4">Mandatory</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Hydrophobic</td><td className="px-6 py-4">$0.20–$0.50</td><td className="px-6 py-4">1–2 years</td><td className="px-6 py-4">Highly recommended</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Oleophobic</td><td className="px-6 py-4">$0.30–$0.60</td><td className="px-6 py-4">1–2 years</td><td className="px-6 py-4">Recommended</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Anti-Reflective (AR)</td><td className="px-6 py-4">$0.30–$1.50</td><td className="px-6 py-4">2–3 years</td><td className="px-6 py-4">Highly recommended</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Anti-Fog</td><td className="px-6 py-4">$0.40–$0.80</td><td className="px-6 py-4">1–2 years</td><td className="px-6 py-4">Sport / activity use</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Blue Light Filter</td><td className="px-6 py-4">$0.50–$1.20</td><td className="px-6 py-4">2–3 years</td><td className="px-6 py-4">Growing demand</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Mirror (single-layer)</td><td className="px-6 py-4">$0.40–$0.80</td><td className="px-6 py-4">1–2 years</td><td className="px-6 py-4">Style-dependent</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Mirror (multi-layer)</td><td className="px-6 py-4">$1.00–$1.80</td><td className="px-6 py-4">2–3 years</td><td className="px-6 py-4">Style-dependent</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Mirror (gradient)</td><td className="px-6 py-4">$1.80–$3.00</td><td className="px-6 py-4">2–3 years</td><td className="px-6 py-4">Premium only</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Hard Coat</td><td className="px-6 py-4">$0.15-$0.40</td><td className="px-6 py-4">Lens lifetime</td><td className="px-6 py-4">Mandatory</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Hydrophobic</td><td className="px-6 py-4">$0.20-$0.50</td><td className="px-6 py-4">1-2 years</td><td className="px-6 py-4">Highly recommended</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Oleophobic</td><td className="px-6 py-4">$0.30-$0.60</td><td className="px-6 py-4">1-2 years</td><td className="px-6 py-4">Recommended</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Anti-Reflective (AR)</td><td className="px-6 py-4">$0.30-$1.50</td><td className="px-6 py-4">2-3 years</td><td className="px-6 py-4">Highly recommended</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Anti-Fog</td><td className="px-6 py-4">$0.40-$0.80</td><td className="px-6 py-4">1-2 years</td><td className="px-6 py-4">Sport / activity use</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Blue Light Filter</td><td className="px-6 py-4">$0.50-$1.20</td><td className="px-6 py-4">2-3 years</td><td className="px-6 py-4">Growing demand</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Mirror (single-layer)</td><td className="px-6 py-4">$0.40-$0.80</td><td className="px-6 py-4">1-2 years</td><td className="px-6 py-4">Style-dependent</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Mirror (multi-layer)</td><td className="px-6 py-4">$1.00-$1.80</td><td className="px-6 py-4">2-3 years</td><td className="px-6 py-4">Style-dependent</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Mirror (gradient)</td><td className="px-6 py-4">$1.80-$3.00</td><td className="px-6 py-4">2-3 years</td><td className="px-6 py-4">Premium only</td></tr>
               </tbody>
             </table>
           </div>
@@ -416,17 +416,17 @@ export default function SunglassesCoatingGuidePage() {
           <div className="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-green-900 mb-2">Real-World Stacking Costs</h3>
             <ul className="text-green-800 space-y-1">
-              <li><strong>Budget stack</strong> (hard coat + hydrophobic): $0.35–$0.90 per pair</li>
-              <li><strong>Mid-range stack</strong> (hard coat + AR + hydro-oleophobic): $1.25–$2.50 per pair</li>
-              <li><strong>Premium stack</strong> (hard coat + AR + hydro-oleophobic + mirror): $2.50–$5.00 per pair</li>
-              <li><strong>Sport premium</strong> (hard coat + AR + hydro-oleophobic + anti-fog + mirror): $3.00–$5.50 per pair</li>
+              <li><strong>Budget stack</strong> (hard coat + hydrophobic): $0.35-$0.90 per pair</li>
+              <li><strong>Mid-range stack</strong> (hard coat + AR + hydro-oleophobic): $1.25-$2.50 per pair</li>
+              <li><strong>Premium stack</strong> (hard coat + AR + hydro-oleophobic + mirror): $2.50-$5.00 per pair</li>
+              <li><strong>Sport premium</strong> (hard coat + AR + hydro-oleophobic + anti-fog + mirror): $3.00-$5.50 per pair</li>
             </ul>
           </div>
 
           {/* Stacking */}
           <h2 id="stacking" className="text-3xl font-bold mt-16 mb-6">Which Coatings Stack Together (and Which Don&apos;t)</h2>
           <p>
-            This is where most brand owners get confused — and where some factories take advantage of that 
+            This is where most brand owners get confused -- and where some factories take advantage of that 
             confusion to upsell unnecessary combinations. So let me be straight with you.
           </p>
 
@@ -440,34 +440,34 @@ export default function SunglassesCoatingGuidePage() {
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">Outer Surface (front of lens), Bottom to Top:</h3>
             <ol className="text-blue-800 space-y-1">
-              <li><strong>1. Hard coat</strong> — directly on the lens, acts as the adhesion base</li>
-              <li><strong>2. AR coating</strong> — on top of hard coat (if applied to front surface)</li>
-              <li><strong>3. Mirror coating</strong> — outermost metallic layer (replaces front AR if used)</li>
-              <li><strong>4. Hydrophobic + oleophobic</strong> — the very top layer, protecting everything below</li>
+              <li><strong>1. Hard coat</strong> -- directly on the lens, acts as the adhesion base</li>
+              <li><strong>2. AR coating</strong> -- on top of hard coat (if applied to front surface)</li>
+              <li><strong>3. Mirror coating</strong> -- outermost metallic layer (replaces front AR if used)</li>
+              <li><strong>4. Hydrophobic + oleophobic</strong> -- the very top layer, protecting everything below</li>
             </ol>
           </div>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">Inner Surface (back of lens, facing your eye):</h3>
             <ol className="text-blue-800 space-y-1">
-              <li><strong>1. Hard coat</strong> — base layer</li>
-              <li><strong>2. AR coating</strong> — this is the critical back-surface AR for eliminating back-glare</li>
-              <li><strong>3. Anti-fog</strong> — innermost layer, facing the skin</li>
-              <li><strong>4. Hydrophobic + oleophobic</strong> — top layer on the back surface (if not using anti-fog)</li>
+              <li><strong>1. Hard coat</strong> -- base layer</li>
+              <li><strong>2. AR coating</strong> -- this is the critical back-surface AR for eliminating back-glare</li>
+              <li><strong>3. Anti-fog</strong> -- innermost layer, facing the skin</li>
+              <li><strong>4. Hydrophobic + oleophobic</strong> -- top layer on the back surface (if not using anti-fog)</li>
             </ol>
           </div>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Combinations That Don&apos;t Work</h3>
           <p>
             There&apos;s really only one hard conflict: <strong>you can&apos;t put AR coating and full mirror coating 
-            on the same surface.</strong> The mirror coating is already managing reflected light — adding AR underneath 
+            on the same surface.</strong> The mirror coating is already managing reflected light -- adding AR underneath 
             it on the front surface is redundant and can actually cause delamination issues. Mirror on the front, 
             AR on the back. That&apos;s the standard and it works perfectly.
           </p>
           <p>
             Another soft conflict: <strong>anti-fog and hydrophobic on the same surface</strong> work against each 
             other. Hydrophobic repels water. Anti-fog works by spreading water into an invisible film. They have 
-            opposite goals. On the inner surface, pick one — and for sport frames, anti-fog is the right choice. 
+            opposite goals. On the inner surface, pick one -- and for sport frames, anti-fog is the right choice. 
             Save the hydrophobic for the outer surface.
           </p>
 
@@ -494,7 +494,7 @@ export default function SunglassesCoatingGuidePage() {
               <li>
                 <strong>Sport performance ($50-150 retail):</strong> Hard coat + back AR + hydro-oleophobic (front) + anti-fog (back) + optional mirror. 
                 Check our{' '}
-                <Link href="/products/sport" className="text-primary-600 hover:underline">sport collection</Link> — 
+                <Link href="/products/sport" className="text-primary-600 hover:underline">sport collection</Link> -- 
                 this is the exact stack we use. Cost: ~$2.50-4.00/pair.
               </li>
             </ul>
@@ -503,7 +503,7 @@ export default function SunglassesCoatingGuidePage() {
           <p>
             One more thing about stacking: don&apos;t let anyone tell you that more coatings always means better. 
             I&apos;ve had clients request seven coatings on an entry-level frame retailing for $20. The coatings 
-            cost more than the frame and lens combined. That&apos;s not smart — it&apos;s just expensive. Match 
+            cost more than the frame and lens combined. That&apos;s not smart -- it&apos;s just expensive. Match 
             the coating stack to the product tier and the end user&apos;s needs. A beach-vacation sunglass doesn&apos;t 
             need anti-fog. A driving sunglass doesn&apos;t need mirror. Be deliberate.
           </p>
@@ -512,7 +512,7 @@ export default function SunglassesCoatingGuidePage() {
             <h3 className="text-2xl font-bold mb-4">Need Help Choosing the Right Coatings?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Every product and market is different. I&apos;ll help you figure out which coating stack 
-              makes sense for your brand, your price point, and your customers — without overselling you 
+              makes sense for your brand, your price point, and your customers -- without overselling you 
               on coatings you don&apos;t need.
             </p>
             <Link href="/contact" className="btn-primary">
@@ -539,7 +539,7 @@ export default function SunglassesCoatingGuidePage() {
                 At factory volumes, individual coatings range from $0.15 for hard coat to $3.00 for 
                 premium gradient mirror. A practical mid-range stack (hard coat + AR + hydro-oleophobic) runs 
                 about $1.50-$2.00 per pair. A full premium stack with mirror adds $3.50-$5.00 per pair. 
-                These are production costs — not what you&apos;ll see at retail.
+                These are production costs -- not what you&apos;ll see at retail.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
@@ -547,7 +547,7 @@ export default function SunglassesCoatingGuidePage() {
               <p className="text-gray-600">
                 Yes, and you should. The standard layer order is hard coat as the base, then AR, then mirror 
                 (if used), then hydrophobic and oleophobic on top. Anti-fog goes on the inner surface only. 
-                The one conflict: don&apos;t put full mirror and AR on the same lens surface — the mirror already 
+                The one conflict: don&apos;t put full mirror and AR on the same lens surface -- the mirror already 
                 handles reflection on that side.
               </p>
             </div>
@@ -555,7 +555,7 @@ export default function SunglassesCoatingGuidePage() {
               <h3 className="font-bold text-lg mb-2">How long do sunglasses coatings last?</h3>
               <p className="text-gray-600">
                 Hard coat lasts the lifetime of the lens. AR coating holds up 2-3 years. Mirror coatings 
-                last 1-3 years depending on layer count — cheap single-layer mirrors fade fast. Hydrophobic 
+                last 1-3 years depending on layer count -- cheap single-layer mirrors fade fast. Hydrophobic 
                 and oleophobic wear down the quickest at 1-2 years because they&apos;re the outermost layer 
                 taking daily abuse. Anti-fog coatings last about 1-2 years.
               </p>
@@ -577,11 +577,11 @@ export default function SunglassesCoatingGuidePage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/blog/sunglasses-lens-guide" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Sunglasses Lens Guide: Materials, Tints &amp; What Actually Matters</h3>
-                <p className="text-gray-600 text-sm">CR-39, polycarbonate, nylon, TAC — which lens material is right for your brand? The companion piece to this coating guide.</p>
+                <p className="text-gray-600 text-sm">CR-39, polycarbonate, nylon, TAC -- which lens material is right for your brand? The companion piece to this coating guide.</p>
               </Link>
               <Link href="/products/sport" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Sport Sunglasses Collection</h3>
-                <p className="text-gray-600 text-sm">See our full sport range — every pair built with the premium coating stack described in this guide.</p>
+                <p className="text-gray-600 text-sm">See our full sport range -- every pair built with the premium coating stack described in this guide.</p>
               </Link>
             </div>
           </div>

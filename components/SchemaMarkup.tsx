@@ -12,7 +12,7 @@ export function OrganizationSchema() {
     "contactPoint": {
       "@type": "ContactPoint",
       "contactType": "sales",
-      "email": "jacky@eyeviewsunglasses.com",
+      "email": "sales@eyeviewsunglasses.com",
       "availableLanguage": ["English"]
     },
     "sameAs": [

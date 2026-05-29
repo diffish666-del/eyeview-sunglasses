@@ -72,7 +72,7 @@ export default function CertificationsPageDe() {
               "name": "Welchen UV-Schutzgrad bieten Ihre Gläser?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Alle EyeView Gläser bieten UV400-Schutz, der 99,9–100 % der UVA- und UVB-Strahlung bis 400 Nanometer blockiert. Dies ist die höchste verfügbare UV-Schutzklassifizierung für Sonnenbrillen. Jede Glascharge wird mit einem Spektrophotometer auf UV-Transmissionswerte getestet, bevor die Produktion fortgesetzt wird."
+                "text": "Alle EyeView Gläser bieten UV400-Schutz, der 99,9-100 % der UVA- und UVB-Strahlung bis 400 Nanometer blockiert. Dies ist die höchste verfügbare UV-Schutzklassifizierung für Sonnenbrillen. Jede Glascharge wird mit einem Spektrophotometer auf UV-Transmissionswerte getestet, bevor die Produktion fortgesetzt wird."
               }
             },
             {
@@ -96,7 +96,7 @@ export default function CertificationsPageDe() {
               "name": "Kann ich Ihre Zertifikate für das Marketing meiner eigenen Marke verwenden?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ja. Wenn wir Sonnenbrillen unter Ihrer Marke fertigen (OEM/ODM), werden alle Zertifikate und Prüfberichte auf den Namen Ihrer Marke und Ihre Produktspezifikationen ausgestellt. Sie können diese Zertifikate in Ihren Marketingmaterialien, der Einzelhandelsverpackung und der Compliance-Dokumentation verwenden. Wir kümmern uns um den gesamten Papierkram — Sie müssen uns nur Ihre Markendetails mitteilen."
+                "text": "Ja. Wenn wir Sonnenbrillen unter Ihrer Marke fertigen (OEM/ODM), werden alle Zertifikate und Prüfberichte auf den Namen Ihrer Marke und Ihre Produktspezifikationen ausgestellt. Sie können diese Zertifikate in Ihren Marketingmaterialien, der Einzelhandelsverpackung und der Compliance-Dokumentation verwenden. Wir kümmern uns um den gesamten Papierkram -- Sie müssen uns nur Ihre Markendetails mitteilen."
               }
             }
           ]
@@ -109,7 +109,7 @@ export default function CertificationsPageDe() {
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Ich habe auf die harte Tour gelernt, warum Compliance wichtig ist. Vor einigen Jahren hatte 
-            einer unserer Kunden eine Sendung von 8.000 Paaren am Hamburger Zoll beschlagnahmt — nicht 
+            einer unserer Kunden eine Sendung von 8.000 Paaren am Hamburger Zoll beschlagnahmt -- nicht 
             weil die Brillen schlecht waren, sondern weil ihr vorheriger Lieferant keine ordnungsgemäße 
             CE-Dokumentation bereitgestellt hatte. Achttausend Paare, in einem Lager sitzend, unverkäuflich. 
             Dieser Kunde kam zu uns, und wir haben dafür gesorgt, dass das nie wieder passiert. Jedes Paar, 
@@ -141,7 +141,7 @@ export default function CertificationsPageDe() {
               icon="🇪🇺"
               name="CE-zertifiziert"
               standard="EN ISO 12312-1:2013"
-              description="Wenn Sie in Europa verkaufen, ist die CE-Kennzeichnung keine Option — es ist Gesetz. Unsere Sonnenbrillen erfüllen EN ISO 12312-1:2013, abdeckend UV-Schutz, optische Qualität, mechanische Festigkeit und Kennzeichnung. Jede EU-Sendung enthält eine Konformitätserklärung. Keine Hamburger Überraschungen mehr."
+              description="Wenn Sie in Europa verkaufen, ist die CE-Kennzeichnung keine Option -- es ist Gesetz. Unsere Sonnenbrillen erfüllen EN ISO 12312-1:2013, abdeckend UV-Schutz, optische Qualität, mechanische Festigkeit und Kennzeichnung. Jede EU-Sendung enthält eine Konformitätserklärung. Keine Hamburger Überraschungen mehr."
               link="https://single-market-economy.ec.europa.eu/single-market/ce-marking_en"
               linkText="Mehr über CE-Kennzeichnung →"
             />
@@ -149,7 +149,7 @@ export default function CertificationsPageDe() {
               icon="🏭"
               name="ISO 9001:2015"
               standard="Qualitätsmanagementsystem"
-              description="Unser gesamter Fertigungsprozess — von der Rohstoffprüfung bis zur Endverpackung — arbeitet unter einem ISO 9001:2015-zertifizierten Qualitätsmanagementsystem. Das bedeutet dokumentierte Verfahren, regelmäßige interne Audits und kontinuierliche Verbesserung. Nicht aufregend, aber der Grund, warum unsere Fehlerquote unter 0,5 % bleibt."
+              description="Unser gesamter Fertigungsprozess -- von der Rohstoffprüfung bis zur Endverpackung -- arbeitet unter einem ISO 9001:2015-zertifizierten Qualitätsmanagementsystem. Das bedeutet dokumentierte Verfahren, regelmäßige interne Audits und kontinuierliche Verbesserung. Nicht aufregend, aber der Grund, warum unsere Fehlerquote unter 0,5 % bleibt."
               link="https://www.iso.org/iso-9001-quality-management.html"
               linkText="Über ISO 9001 →"
             />
@@ -159,7 +159,7 @@ export default function CertificationsPageDe() {
               standard="100% UVA/UVB-Blockierung"
               description={<>
                 UV400 bedeutet, dass unsere Gläser alle Lichtstrahlen mit Wellenlängen bis 400 Nanometer 
-                blockieren — das umfasst 100 % der UVA- (315–400nm) und UVB-Strahlung (280–315nm). Wir 
+                blockieren -- das umfasst 100 % der UVA- (315-400nm) und UVB-Strahlung (280-315nm). Wir 
                 testen jede Glascharge mit einem Spektrophotometer, bevor die Produktion fortgesetzt wird. 
                 Wenn eine Charge UV400 nicht erreicht, wird sie abgelehnt. Punkt. Erfahren Sie mehr über 
                 unsere Tests in unserem{' '}
@@ -174,7 +174,7 @@ export default function CertificationsPageDe() {
                 ANSI Z80.3 ist der Amerikanische Nationale Standard für nicht-verschreibungspflichtige 
                 Sonnenbrillen. Er umfasst optische Qualität, UV-Durchlässigkeit, Schlagfestigkeit und 
                 Entflammbarkeit. Obwohl nicht gesetzlich vorgeschrieben wie die FDA-Registrierung, erwarten 
-                es die großen US-Einzelhändler — und wir erfüllen es. Unsere{' '}
+                es die großen US-Einzelhändler -- und wir erfüllen es. Unsere{' '}
                 <Link href="/de/produkte/polarisiert" className="text-primary-600 hover:underline">polarisierten Gläser</Link> werden 
                 nach ANSI Z80.3-Spezifikationen für optische Klarheit und Polarisationseffizienz getestet.
               </>}
@@ -212,7 +212,7 @@ export default function CertificationsPageDe() {
             <InspectionCard
               step={1}
               title="UV-Transmissionstest"
-              description="Jede Glascharge wird mit einem Spektrophotometer getestet, um UV400-Schutzniveaus zu verifizieren. Wir messen die Durchlässigkeit über das gesamte UV-Spektrum (280–400nm). Jede Charge, die nicht 99,9 %+ der UV-Strahlung blockiert, wird abgelehnt — keine Nacharbeit, keine Ausnahmen."
+              description="Jede Glascharge wird mit einem Spektrophotometer getestet, um UV400-Schutzniveaus zu verifizieren. Wir messen die Durchlässigkeit über das gesamte UV-Spektrum (280-400nm). Jede Charge, die nicht 99,9 %+ der UV-Strahlung blockiert, wird abgelehnt -- keine Nacharbeit, keine Ausnahmen."
             />
             <InspectionCard
               step={2}
@@ -222,12 +222,12 @@ export default function CertificationsPageDe() {
             <InspectionCard
               step={3}
               title="Scharnier-Zyklusprüfung"
-              description="Wir öffnen und schließen jedes Scharnierdesign über 2.000 Mal mit automatisierten Prüfgeräten, um Jahre täglicher Nutzung zu simulieren. Federscharniere, Zylinderscharniere, Flex-Scharniere — jeder Typ hat seine eigene Zyklusanforderung. Lockere oder schwergängige Scharniere bedeuten ein Redesign, keine Freigabe."
+              description="Wir öffnen und schließen jedes Scharnierdesign über 2.000 Mal mit automatisierten Prüfgeräten, um Jahre täglicher Nutzung zu simulieren. Federscharniere, Zylinderscharniere, Flex-Scharniere -- jeder Typ hat seine eigene Zyklusanforderung. Lockere oder schwergängige Scharniere bedeuten ein Redesign, keine Freigabe."
             />
             <InspectionCard
               step={4}
               title="Maßverifizierung"
-              description="Fassungsmaße werden mit digitalen Messschiebern und optischen Komparatoren gegen das Original-Spezifikationsblatt gemessen. Bügellänge, Stegbreite, Glashöhe — jedes Maß muss innerhalb einer Toleranz von ±0,5mm liegen. So gewährleisten wir Größenkonsistenz über Produktionsläufe hinweg."
+              description="Fassungsmaße werden mit digitalen Messschiebern und optischen Komparatoren gegen das Original-Spezifikationsblatt gemessen. Bügellänge, Stegbreite, Glashöhe -- jedes Maß muss innerhalb einer Toleranz von ±0,5mm liegen. So gewährleisten wir Größenkonsistenz über Produktionsläufe hinweg."
             />
             <InspectionCard
               step={5}
@@ -255,7 +255,7 @@ export default function CertificationsPageDe() {
             <div>
               <h2 className="text-3xl font-bold mb-6">Was mit jeder Bestellung mitgeliefert wird</h2>
               <p className="text-gray-600 mb-6">
-                Compliance-Dokumentation ist kein Nachgedanke — sie ist Teil unseres Produktionsprozesses. 
+                Compliance-Dokumentation ist kein Nachgedanke -- sie ist Teil unseres Produktionsprozesses. 
                 Jede Sendung verlässt unsere{' '}
                 <Link href="/de/ueber-uns" className="text-primary-600 hover:underline">Fabrik</Link> mit 
                 einem vollständigen Dokumentationspaket. Ihr Zollagent und Ihre Einzelhandelspartner haben 
@@ -280,7 +280,7 @@ export default function CertificationsPageDe() {
                 />
                 <DocumentItem
                   title="Materialsicherheitsdatenblätter"
-                  description="MSDS für alle in der Produktion verwendeten Materialien — Fassungsmaterialien, Glasbeschichtungen, Scharnierkomponenten, Verpackungsmaterialien. Unverzichtbar für die Import-Compliance in vielen Märkten."
+                  description="MSDS für alle in der Produktion verwendeten Materialien -- Fassungsmaterialien, Glasbeschichtungen, Scharnierkomponenten, Verpackungsmaterialien. Unverzichtbar für die Import-Compliance in vielen Märkten."
                 />
               </ul>
             </div>
@@ -301,7 +301,7 @@ export default function CertificationsPageDe() {
             <h2 className="text-3xl font-bold mb-4">Häufig gestellte Fragen</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Dies sind die Compliance-Fragen, die wir am häufigsten von neuen Kunden hören. Wenn 
-              Ihre nicht dabei ist, fragen Sie einfach — wir gehen gerne ins Detail.
+              Ihre nicht dabei ist, fragen Sie einfach -- wir gehen gerne ins Detail.
             </p>
           </div>
           <div className="max-w-3xl mx-auto space-y-6">
@@ -315,7 +315,7 @@ export default function CertificationsPageDe() {
             />
             <FAQItem
               question="Welchen UV-Schutzgrad bieten Ihre Gläser?"
-              answer="Alle EyeView Gläser bieten UV400-Schutz, der 99,9–100 % der UVA- und UVB-Strahlung bis 400 Nanometer blockiert. Dies ist die höchste verfügbare UV-Schutzklassifizierung für Sonnenbrillen. Jede Glascharge wird mit einem Spektrophotometer auf UV-Transmissionswerte getestet, bevor die Produktion fortgesetzt wird."
+              answer="Alle EyeView Gläser bieten UV400-Schutz, der 99,9-100 % der UVA- und UVB-Strahlung bis 400 Nanometer blockiert. Dies ist die höchste verfügbare UV-Schutzklassifizierung für Sonnenbrillen. Jede Glascharge wird mit einem Spektrophotometer auf UV-Transmissionswerte getestet, bevor die Produktion fortgesetzt wird."
             />
             <FAQItem
               question="Bieten Sie Prüfberichte von Drittlaboren an?"
@@ -327,7 +327,7 @@ export default function CertificationsPageDe() {
             />
             <FAQItem
               question="Kann ich Ihre Zertifikate für das Marketing meiner eigenen Marke verwenden?"
-              answer="Ja. Wenn wir Sonnenbrillen unter Ihrer Marke fertigen (OEM/ODM), werden alle Zertifikate und Prüfberichte auf den Namen Ihrer Marke und Ihre Produktspezifikationen ausgestellt. Sie können diese in Ihren Marketingmaterialien, der Einzelhandelsverpackung und der Compliance-Dokumentation verwenden. Wir kümmern uns um den gesamten Papierkram — Sie müssen uns nur Ihre Markendetails mitteilen."
+              answer="Ja. Wenn wir Sonnenbrillen unter Ihrer Marke fertigen (OEM/ODM), werden alle Zertifikate und Prüfberichte auf den Namen Ihrer Marke und Ihre Produktspezifikationen ausgestellt. Sie können diese in Ihren Marketingmaterialien, der Einzelhandelsverpackung und der Compliance-Dokumentation verwenden. Wir kümmern uns um den gesamten Papierkram -- Sie müssen uns nur Ihre Markendetails mitteilen."
             />
           </div>
         </section>
@@ -337,7 +337,7 @@ export default function CertificationsPageDe() {
           <h2 className="text-3xl font-bold mb-4">Benötigen Sie Compliance-Dokumentation?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
             Ob Sie Prüfberichte für eine bestehende Bestellung benötigen, Zertifikate für einen neuen 
-            Markt oder einfach verstehen möchten, welche Dokumentation Sie brauchen — kontaktieren Sie uns. 
+            Markt oder einfach verstehen möchten, welche Dokumentation Sie brauchen -- kontaktieren Sie uns. 
             Wir besorgen Ihnen die richtige Dokumentation, schnell.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

@@ -49,7 +49,7 @@ export default function TrouverFabricantLunettesPage() {
             {
               "@type": "Question",
               "name": "Quel est un bon MOQ pour la fabrication de lunettes ?",
-              "acceptedAnswer": { "@type": "Answer", "text": "ODM (designs existants) : 100-300 pièces par style est la norme, certaines usines proposent 50 pièces pour les premières commandes. OEM (designs personnalisés) : 300-1 000+ par style en raison des coûts de moules. Méfiez-vous des usines avec des MOQ extrêmement bas (moins de 20 pièces) — ce sont souvent des sociétés de négoce." }
+              "acceptedAnswer": { "@type": "Answer", "text": "ODM (designs existants) : 100-300 pièces par style est la norme, certaines usines proposent 50 pièces pour les premières commandes. OEM (designs personnalisés) : 300-1 000+ par style en raison des coûts de moules. Méfiez-vous des usines avec des MOQ extrêmement bas (moins de 20 pièces) -- ce sont souvent des sociétés de négoce." }
             },
             {
               "@type": "Question",
@@ -75,7 +75,7 @@ export default function TrouverFabricantLunettesPage() {
             Comment Trouver un Fabricant de Lunettes de Soleil Fiable en 2026
           </h1>
           <p className="text-xl text-gray-600">
-            Je vais vous expliquer exactement comment trouver une usine comme la mienne — et surtout,
+            Je vais vous expliquer exactement comment trouver une usine comme la mienne -- et surtout,
             comment éviter celles qui gaspilleront votre argent et votre temps.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -149,7 +149,7 @@ export default function TrouverFabricantLunettesPage() {
           <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-red-900 mb-3">Signaux d&apos;alerte des sociétés de négoce sur Alibaba :</h3>
             <ul className="text-red-800 space-y-2">
-              <li><strong>Gamme de produits absurdement large.</strong> Lunettes ET coques de téléphone ET sacs à main ? Ce n&apos;est pas une usine — c&apos;est un catalogue.</li>
+              <li><strong>Gamme de produits absurdement large.</strong> Lunettes ET coques de téléphone ET sacs à main ? Ce n&apos;est pas une usine -- c&apos;est un catalogue.</li>
               <li><strong>Photos d&apos;usine génériques.</strong> Les vraies usines montrent des ateliers réels, un peu désordonnés.</li>
               <li><strong>Adresse dans un immeuble de bureaux.</strong> Vérifiez sur Google Maps. Une usine devrait être en zone industrielle.</li>
               <li><strong>Ils esquivent les appels vidéo.</strong> Un vrai fabricant vous montrera fièrement son atelier.</li>
@@ -161,19 +161,19 @@ export default function TrouverFabricantLunettesPage() {
 
           <div className="space-y-6 my-8">
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">MIDO — Milan, Italie (février)</h3>
+              <h3 className="font-bold text-lg mb-2">MIDO -- Milan, Italie (février)</h3>
               <p className="text-gray-600 text-sm">Le plus grand salon de la lunetterie au monde. 50 000+ visiteurs, 1 200+ exposants.</p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">Vision Expo — Las Vegas et New York (mars et octobre)</h3>
+              <h3 className="font-bold text-lg mb-2">Vision Expo -- Las Vegas et New York (mars et octobre)</h3>
               <p className="text-gray-600 text-sm">Les principaux salons américains de la lunetterie.</p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">Foire de Canton — Guangzhou, Chine (avril et octobre)</h3>
+              <h3 className="font-bold text-lg mb-2">Foire de Canton -- Guangzhou, Chine (avril et octobre)</h3>
               <p className="text-gray-600 text-sm">La référence des foires chinoises. La section lunettes est immense.</p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">SILMO — Paris, France (septembre)</h3>
+              <h3 className="font-bold text-lg mb-2">SILMO -- Paris, France (septembre)</h3>
               <p className="text-gray-600 text-sm">Deuxième plus grand salon de lunetterie en Europe. Plus orienté design.</p>
             </div>
           </div>
@@ -182,14 +182,14 @@ export default function TrouverFabricantLunettesPage() {
           <ol>
             <li className="mb-3"><strong>Spécialisation :</strong> L&apos;usine ne fabrique-t-elle que des lunettes ?</li>
             <li className="mb-3"><strong>Ancienneté :</strong> 8 ans d&apos;expérience minimum.</li>
-            <li className="mb-3"><strong>Certifications :</strong> CE, FDA, UV400, ISO 9001 — non négociable.</li>
+            <li className="mb-3"><strong>Certifications :</strong> CE, FDA, UV400, ISO 9001 -- non négociable.</li>
             <li className="mb-3"><strong>Capacité de production :</strong> Combien de paires par jour ? Combien de lignes ?</li>
             <li className="mb-3"><strong>Qualité des échantillons :</strong> Commandez 3-5 paires. Testez les charnières, la clarté des verres, la finition.</li>
             <li className="mb-3"><strong>Qualité de communication :</strong> Réactivité, clarté, questions pertinentes sur votre projet.</li>
             <li className="mb-3"><strong>Capacité OEM et ODM :</strong> La flexibilité de proposer les deux est un atout.</li>
             <li className="mb-3"><strong>Base clients :</strong> Combien de marques actives ? Dans quels marchés ?</li>
             <li className="mb-3"><strong>Processus CQ :</strong> Inspections en ligne, équipe CQ dédiée, taux de défauts.</li>
-            <li className="mb-3"><strong>Acceptation d&apos;audits tiers :</strong> SGS, Bureau Veritas — une bonne usine les accueille volontiers.</li>
+            <li className="mb-3"><strong>Acceptation d&apos;audits tiers :</strong> SGS, Bureau Veritas -- une bonne usine les accueille volontiers.</li>
           </ol>
 
           <h2 id="signaux-alerte" className="text-3xl font-bold mt-16 mb-6">Signaux d&apos;alerte : partez immédiatement</h2>
@@ -222,7 +222,7 @@ export default function TrouverFabricantLunettesPage() {
             <li><strong>Demandez 3-5 paires d&apos;échantillons</strong> à vos usines présélectionnées.</li>
             <li><strong>Payez les échantillons.</strong> 20-200 $ la paire. C&apos;est l&apos;assurance la moins chère du métier.</li>
             <li><strong>Inspectez minutieusement.</strong> Portez-les une semaine. Testez les charnières 100 fois.</li>
-            <li><strong>Donnez un feedback détaillé.</strong> « La branche appuie derrière l&apos;oreille après 20 minutes » — voilà un retour utile.</li>
+            <li><strong>Donnez un feedback détaillé.</strong> « La branche appuie derrière l&apos;oreille après 20 minutes » -- voilà un retour utile.</li>
             <li><strong>Vérifiez les échantillons révisés.</strong> Ont-ils vraiment corrigé ce que vous avez demandé ?</li>
           </ol>
 

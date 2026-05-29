@@ -50,13 +50,13 @@ export default function AboutPageIt() {
               <h2 className="text-3xl font-bold mb-6">La Nostra Storia</h2>
               <div className="space-y-4 text-gray-600">
                 <p>
-                  EyeView è nata nel 2006 in un laboratorio che, onestamente, non era molto più grande di un garage per due auto. C&apos;ero io — Jacky Chen — e un tecnico, a lucidare montature in acetato e assemblare cerniere a mano. La nostra prima &quot;produzione&quot; fu di 200 paia per un negozio di surf a Sydney. Ho impacchettato ogni scatola personalmente.
+                  EyeView è nata nel 2006 in un laboratorio che, onestamente, non era molto più grande di un garage per due auto. C&apos;ero io -- Jacky Chen -- e un tecnico, a lucidare montature in acetato e assemblare cerniere a mano. La nostra prima &quot;produzione&quot; fu di 200 paia per un negozio di surf a Sydney. Ho impacchettato ogni scatola personalmente.
                 </p>
                 <p>
                   Entro il 2010, avevamo superato il garage e ci siamo trasferiti nel nostro primo vero spazio di fabbrica. Abbiamo aggiunto lo stampaggio a iniezione, comprato la nostra prima macchina CNC e assunto un piccolo team di controllo qualità. Il negozio di surf a Sydney? Sono ancora nostri clienti. I loro ordini sono un po&apos; più grandi ora.
                 </p>
                 <p>
-                  Oggi gestiamo uno stabilimento di 5.000 m² con 5 linee di produzione, oltre 150 dipendenti e la capacità di produrre 10.000 paia al giorno. Abbiamo servito oltre 500 brand in 50+ paesi — dalle startup Kickstarter che ordinano 100 paia alle catene retail che ne ordinano 50.000. Il laboratorio è ormai un ricordo, ma la mentalità no: ogni paio viene ancora ispezionato come se dovesse andare a quel negozio di surf a Sydney.
+                  Oggi gestiamo uno stabilimento di 5.000 m² con 5 linee di produzione, oltre 150 dipendenti e la capacità di produrre 10.000 paia al giorno. Abbiamo servito oltre 500 brand in 50+ paesi -- dalle startup Kickstarter che ordinano 100 paia alle catene retail che ne ordinano 50.000. Il laboratorio è ormai un ricordo, ma la mentalità no: ogni paio viene ancora ispezionato come se dovesse andare a quel negozio di surf a Sydney.
                 </p>
               </div>
             </div>
@@ -81,7 +81,7 @@ export default function AboutPageIt() {
             <div>
               <h2 className="text-2xl font-bold mb-4">La Nostra Visione</h2>
               <p className="text-gray-600">
-                Essere la fabbrica che la prossima generazione di grandi brand di occhiali indicherà dicendo: &quot;Loro ci hanno aiutato a partire.&quot; Abbiamo già aiutato il lancio di centinaia di brand. Vogliamo aiutarne migliaia — e continuare a far crescere quelli che abbiamo già lanciato. Il tuo successo è il nostro miglior marketing.
+                Essere la fabbrica che la prossima generazione di grandi brand di occhiali indicherà dicendo: &quot;Loro ci hanno aiutato a partire.&quot; Abbiamo già aiutato il lancio di centinaia di brand. Vogliamo aiutarne migliaia -- e continuare a far crescere quelli che abbiamo già lanciato. Il tuo successo è il nostro miglior marketing.
               </p>
             </div>
           </div>
@@ -115,14 +115,14 @@ export default function AboutPageIt() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Capacità Produttive</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Il nostro stabilimento è costruito per la flessibilità — piccole tirature e grandi ordini, OEM e ODM, design semplici e ingegneria complessa.
+              Il nostro stabilimento è costruito per la flessibilità -- piccole tirature e grandi ordini, OEM e ODM, design semplici e ingegneria complessa.
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             <CapabilityCard icon="⚙️" title="5 Linee di Produzione" description="Linee dedicate per montature in acetato, metallo, TR90/iniezione e materiali misti. Ogni linea ottimizzata per il suo tipo di materiale." />
             <CapabilityCard icon="📦" title="10.000 Paia / Giorno" description="Capacità produttiva giornaliera su tutte le linee. Possiamo aumentare fino a 15.000/giorno durante l'alta stagione con turni straordinari." />
             <CapabilityCard icon="📐" title="Stabilimento di 5.000 m²" description="Pavimento di fabbrica moderno con zone separate per taglio, assemblaggio, lucidatura, controllo qualità e imballaggio." />
-            <CapabilityCard icon="🔬" title="Laboratorio QC Interno" description="Test di trasmissione UV, test d'impatto, test di ciclo cerniere e verifica dimensionale — tutto eseguito internamente." />
+            <CapabilityCard icon="🔬" title="Laboratorio QC Interno" description="Test di trasmissione UV, test d'impatto, test di ciclo cerniere e verifica dimensionale -- tutto eseguito internamente." />
             <CapabilityCard icon="🎨" title="400+ Design ODM" description="Catalogo di montature pronte per il branding: aviatori, wayfarer, occhio di gatto, sportivi, rotondi, oversize e bambini." />
             <CapabilityCard icon="🛠️" title="Capacità OEM Completa" description="Dal tuo file CAD al prodotto finito. Creazione stampi, prototipazione CNC e campionatura prima della produzione in serie." />
           </div>
@@ -133,7 +133,7 @@ export default function AboutPageIt() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Certificazioni e Conformità</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Ogni prodotto che spediamo rispetta gli standard internazionali di sicurezza e qualità. Non sono solo badge — sono requisiti che prendiamo molto seriamente.
+              Ogni prodotto che spediamo rispetta gli standard internazionali di sicurezza e qualità. Non sono solo badge -- sono requisiti che prendiamo molto seriamente.
             </p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
@@ -167,10 +167,10 @@ export default function AboutPageIt() {
             <h2 className="text-3xl font-bold mb-4">Cosa Dicono i Nostri Clienti</h2>
           </div>
           <div className="grid md:grid-cols-2 gap-8">
-            <TestimonialCard quote="Abbiamo iniziato con 200 paia ODM come test. Tre anni dopo, ordiniamo 5.000 paia OEM personalizzati a trimestre. EyeView è cresciuta con noi — non ci hanno mai spinto a ordinare più di quanto fossimo pronti." name="Rachel M." title="Fondatrice, Coastal Shade Co." location="Melbourne, Australia" />
-            <TestimonialCard quote="Ero stato fregato da due altre fabbriche prima di trovare EyeView. La differenza è stata immediata — il team di Jacky ha davvero ascoltato ciò di cui avevo bisogno invece di propormi solo l'opzione più economica. La qualità è stata costante in 12 ordini." name="Marcus T." title="CEO, Elevate Eyewear" location="Atlanta, USA" />
+            <TestimonialCard quote="Abbiamo iniziato con 200 paia ODM come test. Tre anni dopo, ordiniamo 5.000 paia OEM personalizzati a trimestre. EyeView è cresciuta con noi -- non ci hanno mai spinto a ordinare più di quanto fossimo pronti." name="Rachel M." title="Fondatrice, Coastal Shade Co." location="Melbourne, Australia" />
+            <TestimonialCard quote="Ero stato fregato da due altre fabbriche prima di trovare EyeView. La differenza è stata immediata -- il team di Jacky ha davvero ascoltato ciò di cui avevo bisogno invece di propormi solo l'opzione più economica. La qualità è stata costante in 12 ordini." name="Marcus T." title="CEO, Elevate Eyewear" location="Atlanta, USA" />
             <TestimonialCard quote="Il processo dei campioni mi ha convinto. Hanno inviato cinque paia in materiali diversi così potevo confrontarli fianco a fianco. Nessun'altra fabbrica lo ha offerto. Collaboriamo da quattro anni e non ho nulla da lamentare." name="Henrik S." title="Buyer, Nordic Optics" location="Stoccolma, Svezia" />
-            <TestimonialCard quote="Come startup senza esperienza nel settore occhiali, mi aspettavo di essere ignorato dalle fabbriche vere. EyeView ha trattato il mio primo ordine di 100 pezzi con la stessa serietà dei loro grandi clienti. Quella lealtà è reciproca — ora siamo uno dei loro account più grandi." name="Priya K." title="Fondatrice, Dusk & Dawn Eyewear" location="Toronto, Canada" />
+            <TestimonialCard quote="Come startup senza esperienza nel settore occhiali, mi aspettavo di essere ignorato dalle fabbriche vere. EyeView ha trattato il mio primo ordine di 100 pezzi con la stessa serietà dei loro grandi clienti. Quella lealtà è reciproca -- ora siamo uno dei loro account più grandi." name="Priya K." title="Fondatrice, Dusk & Dawn Eyewear" location="Toronto, Canada" />
           </div>
         </section>
 
@@ -182,7 +182,7 @@ export default function AboutPageIt() {
           <div className="grid md:grid-cols-3 gap-8">
             <ValueCard icon="🎯" title="Qualità Senza Scuse" description="Ogni paio viene ispezionato. Ogni lente viene testata per i UV. Ogni cerniera viene sottoposta a cicli di prova. Non spediamo prodotti su cui non metteremmo il nostro nome." />
             <ValueCard icon="🤝" title="Partnership, Non Transazioni" description="L'80% del nostro fatturato proviene da clienti abituali. Preferiamo guadagnare il tuo quinto ordine con un servizio eccellente piuttosto che spremere il massimo margine dal primo." />
-            <ValueCard icon="💬" title="Parlare Chiaro" description="Se qualcosa richiede 60 giorni, diciamo 60 giorni — non 30. Se un materiale non funziona per il tuo design, te lo diciamo prima che sprechi soldi per uno stampo. Nessuna sorpresa." />
+            <ValueCard icon="💬" title="Parlare Chiaro" description="Se qualcosa richiede 60 giorni, diciamo 60 giorni -- non 30. Se un materiale non funziona per il tuo design, te lo diciamo prima che sprechi soldi per uno stampo. Nessuna sorpresa." />
           </div>
         </section>
 
@@ -190,7 +190,7 @@ export default function AboutPageIt() {
         <section className="bg-gray-900 text-white rounded-2xl p-8 md:p-12 text-center">
           <h2 className="text-3xl font-bold mb-4">Vuoi Vedere Cosa Possiamo Fare per il Tuo Brand?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
-            Che tu stia lanciando la tua prima linea o facendo crescere un brand esistente, ci piacerebbe parlarne. Nessun obbligo, nessuna pressione — solo una conversazione onesta su ciò che è possibile.
+            Che tu stia lanciando la tua prima linea o facendo crescere un brand esistente, ci piacerebbe parlarne. Nessun obbligo, nessuna pressione -- solo una conversazione onesta su ciò che è possibile.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/it/contatti" className="btn-primary">Contattaci</Link>

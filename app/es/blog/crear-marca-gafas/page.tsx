@@ -90,7 +90,7 @@ export default function CrearMarcaGafasPage() {
 
           <h2 id="paso-2" className="text-2xl font-bold mt-12 mb-4">Paso 2: Define tu Marca</h2>
           <p>
-            Tu marca es más que un logo — es tu historia, tus valores y tu promesa a los clientes.
+            Tu marca es más que un logo -- es tu historia, tus valores y tu promesa a los clientes.
           </p>
 
           <h3 className="text-xl font-semibold mt-6 mb-3">Elementos de Marca:</h3>

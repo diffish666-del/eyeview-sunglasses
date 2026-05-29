@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Best Sunglasses for Your Face Shape: Complete Buying Guide',
-  description: 'Find the perfect sunglasses for your face shape — round, oval, square, heart, oblong. A factory owner explains which frames flatter each face shape with real examples and buying tips.',
+  description: 'Find the perfect sunglasses for your face shape -- round, oval, square, heart, oblong. A factory owner explains which frames flatter each face shape with real examples and buying tips.',
   keywords: 'sunglasses face shape, best sunglasses for round face, oval face sunglasses, square face sunglasses, heart face sunglasses, sunglasses buying guide',
   alternates: {
     canonical: '/blog/sunglasses-face-shape-guide',
@@ -38,12 +38,12 @@ export default function SunglassesFaceShapeGuidePage() {
             {
               "@type": "Question",
               "name": "What sunglasses look best on a round face?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Angular and geometric frames work best for round faces — square, rectangular, wayfarers, and cat-eye styles add definition and contrast to soft facial curves. Avoid perfectly round frames which echo the face shape. Look for frames that are slightly wider than your face and have strong angles at the corners. Dark colors and thicker frames create more contrast and definition." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Angular and geometric frames work best for round faces -- square, rectangular, wayfarers, and cat-eye styles add definition and contrast to soft facial curves. Avoid perfectly round frames which echo the face shape. Look for frames that are slightly wider than your face and have strong angles at the corners. Dark colors and thicker frames create more contrast and definition." }
             },
             {
               "@type": "Question",
               "name": "What sunglasses suit an oval face?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Oval faces are the most versatile — almost any frame shape works well. The key is choosing frames that are as wide as (or slightly wider than) the broadest part of your face. Aviators, wayfarers, oversized squares, cat-eyes, and round frames all work. Avoid frames that are too narrow or too oversized relative to your face proportions." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Oval faces are the most versatile -- almost any frame shape works well. The key is choosing frames that are as wide as (or slightly wider than) the broadest part of your face. Aviators, wayfarers, oversized squares, cat-eyes, and round frames all work. Avoid frames that are too narrow or too oversized relative to your face proportions." }
             },
             {
               "@type": "Question",
@@ -53,12 +53,12 @@ export default function SunglassesFaceShapeGuidePage() {
             {
               "@type": "Question",
               "name": "How do I determine my face shape for sunglasses?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Measure or observe three things: forehead width, cheekbone width, and jawline width, plus face length. Round: equal width and length, soft curves. Oval: face length greater than width, gentle curves. Square: equal width and length, strong jaw. Heart: wider forehead, narrow chin. Oblong: face notably longer than wide. The easiest method: pull your hair back, look in a mirror, and trace your face outline — the shape will be apparent." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Measure or observe three things: forehead width, cheekbone width, and jawline width, plus face length. Round: equal width and length, soft curves. Oval: face length greater than width, gentle curves. Square: equal width and length, strong jaw. Heart: wider forehead, narrow chin. Oblong: face notably longer than wide. The easiest method: pull your hair back, look in a mirror, and trace your face outline -- the shape will be apparent." }
             },
             {
               "@type": "Question",
               "name": "Do sunglasses size matter for face shape?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Frame width should match your face width — the frame edges should align roughly with your temples. Lens height matters too: taller lenses suit longer faces, while shorter lenses work better for petite faces. The bridge width should match your nose width for comfortable fit. Most manufacturers list frame width (total), lens width, bridge width, and temple length in millimeters." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Frame width should match your face width -- the frame edges should align roughly with your temples. Lens height matters too: taller lenses suit longer faces, while shorter lenses work better for petite faces. The bridge width should match your nose width for comfortable fit. Most manufacturers list frame width (total), lens width, bridge width, and temple length in millimeters." }
             }
           ]
         })}} />
@@ -75,7 +75,7 @@ export default function SunglassesFaceShapeGuidePage() {
           </h1>
           <p className="text-xl text-gray-600">
             After 20 years of watching people try on sunglasses, I can tell you in three seconds which 
-            shapes will work for someone&apos;s face. Here&apos;s how to figure it out yourself — 
+            shapes will work for someone&apos;s face. Here&apos;s how to figure it out yourself -- 
             plus the insider knowledge that opticians charge $50 for.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -167,7 +167,7 @@ export default function SunglassesFaceShapeGuidePage() {
             <li><strong>Rectangular frames:</strong> Elongate the face and add structure. Especially good for wider round faces.</li>
             <li><strong>Wayfarers:</strong> The slightly trapezoidal shape adds angles without being too harsh. The most universally flattering style for round faces.</li>
             <li><strong>Cat-eye:</strong> The upward sweep at the corners lifts the face and creates visual angles. Great for women with round faces.</li>
-            <li><strong>Geometric frames:</strong> Hexagonal, octagonal — any angular shape works well.</li>
+            <li><strong>Geometric frames:</strong> Hexagonal, octagonal -- any angular shape works well.</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Avoid ❌</h3>
@@ -180,7 +180,7 @@ export default function SunglassesFaceShapeGuidePage() {
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">Pro Tip for Round Faces</h3>
             <p className="text-blue-800">
-              Look for frames with a <strong>strong browline</strong> — the top of the frame should sit at or 
+              Look for frames with a <strong>strong browline</strong> -- the top of the frame should sit at or 
               slightly above your eyebrow line. This creates a visual &quot;shelf&quot; that adds structure. 
               Darker frames in black or dark tortoise create the strongest contrast against soft facial curves.
             </p>
@@ -189,7 +189,7 @@ export default function SunglassesFaceShapeGuidePage() {
           <h2 id="oval-face" className="text-3xl font-bold mt-16 mb-6">Oval Face: Lucky You</h2>
           <p>
             Oval faces are longer than they are wide, with balanced proportions and gently curved features. 
-            This is considered the most versatile face shape for sunglasses — almost everything works.
+            This is considered the most versatile face shape for sunglasses -- almost everything works.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Best Frame Shapes ✅</h3>
@@ -357,7 +357,7 @@ export default function SunglassesFaceShapeGuidePage() {
               <h3 className="font-bold text-lg mb-2">How do I determine my face shape?</h3>
               <p className="text-gray-600">
                 Pull hair back, look in a mirror, and compare your outline to the five basic shapes: 
-                round, oval, square, heart, oblong. Most people are a blend — go with the closest 
+                round, oval, square, heart, oblong. Most people are a blend -- go with the closest 
                 match and use recommendations as guidelines, not rules.
               </p>
             </div>
@@ -366,7 +366,7 @@ export default function SunglassesFaceShapeGuidePage() {
               <p className="text-gray-600">
                 Absolutely. Frame width should match your face width at the temples. Lens height should 
                 suit your face length. Bridge width should match your nose. Most brands list measurements 
-                in millimeters — use them to find the right fit.
+                in millimeters -- use them to find the right fit.
               </p>
             </div>
           </div>
@@ -388,15 +388,15 @@ export default function SunglassesFaceShapeGuidePage() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/products/round" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Round Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Perfect for square and heart-shaped faces — vintage retro aesthetic.</p>
+                <p className="text-gray-600 text-sm">Perfect for square and heart-shaped faces -- vintage retro aesthetic.</p>
               </Link>
               <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Great for oval and square faces — classic teardrop shape, universally flattering.</p>
+                <p className="text-gray-600 text-sm">Great for oval and square faces -- classic teardrop shape, universally flattering.</p>
               </Link>
               <Link href="/products/cat-eye" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Cat Eye Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Ideal for round and oval faces — upswept angles add definition and lift.</p>
+                <p className="text-gray-600 text-sm">Ideal for round and oval faces -- upswept angles add definition and lift.</p>
               </Link>
             </div>
           </div>
@@ -406,7 +406,7 @@ export default function SunglassesFaceShapeGuidePage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/blog/sunglasses-design-trends-2026" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Top Sunglasses Design Trends for 2026</h3>
-                <p className="text-gray-600 text-sm">What shapes and styles are trending — based on real factory order data.</p>
+                <p className="text-gray-600 text-sm">What shapes and styles are trending -- based on real factory order data.</p>
               </Link>
               <Link href="/blog/frame-material-comparison" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">TR90 vs Acetate vs Metal: Frame Material Guide</h3>

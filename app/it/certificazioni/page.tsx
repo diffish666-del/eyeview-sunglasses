@@ -88,7 +88,7 @@ export default function CertificationsPageIt() {
               "name": "Can I use your certificates for my own brand's marketing?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes. When we manufacture sunglasses under your brand (OEM/ODM), all certificates and test reports are issued for your brand name and product specifications. You can use these certificates in your marketing materials, retail packaging, and compliance documentation. We handle all the paperwork — you just need to tell us your brand details."
+                "text": "Yes. When we manufacture sunglasses under your brand (OEM/ODM), all certificates and test reports are issued for your brand name and product specifications. You can use these certificates in your marketing materials, retail packaging, and compliance documentation. We handle all the paperwork -- you just need to tell us your brand details."
               }
             }
           ]
@@ -101,7 +101,7 @@ export default function CertificationsPageIt() {
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             I learned the hard way why compliance matters. A few years back, one of our clients had a 
-            shipment of 8,000 pairs confiscated at Hamburg customs — not because the sunglasses were bad, 
+            shipment of 8,000 pairs confiscated at Hamburg customs -- not because the sunglasses were bad, 
             but because their previous supplier hadn&apos;t provided proper CE documentation. Eight thousand 
             pairs, sitting in a warehouse, unsellable. That client came to us, and we made sure it 
             never happened again. Every pair we ship leaves our{' '}
@@ -132,7 +132,7 @@ export default function CertificationsPageIt() {
               icon="🇪🇺"
               name="CE Certified"
               standard="EN ISO 12312-1:2013"
-              description="If you're selling in Europe, CE marking isn't optional — it's the law. Our sunglasses comply with EN ISO 12312-1:2013, covering UV protection, optical quality, mechanical strength, and labeling. Every EU shipment includes a Declaration of Conformity. No more Hamburg-style surprises."
+              description="If you're selling in Europe, CE marking isn't optional -- it's the law. Our sunglasses comply with EN ISO 12312-1:2013, covering UV protection, optical quality, mechanical strength, and labeling. Every EU shipment includes a Declaration of Conformity. No more Hamburg-style surprises."
               link="https://single-market-economy.ec.europa.eu/single-market/ce-marking_en"
               linkText="Learn About CE Marking →"
             />
@@ -140,7 +140,7 @@ export default function CertificationsPageIt() {
               icon="🏭"
               name="ISO 9001:2015"
               standard="Quality Management System"
-              description="Our entire manufacturing process — from raw material inspection to final packaging — operates under an ISO 9001:2015 certified quality management system. This means documented procedures, regular internal audits, and continuous improvement. It's not exciting, but it's why our defect rate stays below 0.5%."
+              description="Our entire manufacturing process -- from raw material inspection to final packaging -- operates under an ISO 9001:2015 certified quality management system. This means documented procedures, regular internal audits, and continuous improvement. It's not exciting, but it's why our defect rate stays below 0.5%."
               link="https://www.iso.org/iso-9001-quality-management.html"
               linkText="About ISO 9001 →"
             />
@@ -149,8 +149,8 @@ export default function CertificationsPageIt() {
               name="UV400 Protection"
               standard="100% UVA/UVB Blocking"
               description={<>
-                UV400 means our lenses block all light rays with wavelengths up to 400 nanometers — that 
-                covers 100% of UVA (315–400nm) and UVB (280–315nm) radiation. We test every lens batch 
+                UV400 means our lenses block all light rays with wavelengths up to 400 nanometers -- that 
+                covers 100% of UVA (315-400nm) and UVB (280-315nm) radiation. We test every lens batch 
                 with a spectrophotometer before production continues. If a batch doesn&apos;t hit UV400, 
                 it gets rejected. Period. Learn more about how we test in our{' '}
                 <Link href="/it/prodotti" className="text-primary-600 hover:underline">lens guide</Link>.
@@ -163,7 +163,7 @@ export default function CertificationsPageIt() {
               description={<>
                 ANSI Z80.3 is the American National Standard for non-prescription sunglasses. It covers 
                 optical quality, UV transmittance, impact resistance, and flammability. While not legally 
-                required like FDA registration, major US retailers expect it — and we deliver. Our{' '}
+                required like FDA registration, major US retailers expect it -- and we deliver. Our{' '}
                 <Link href="/it/prodotti/polarizzato" className="text-primary-600 hover:underline">polarized lenses</Link> are 
                 tested to ANSI Z80.3 specifications for optical clarity and polarization efficiency.
               </>}
@@ -202,7 +202,7 @@ export default function CertificationsPageIt() {
             <InspectionCard
               step={1}
               title="UV Transmission Testing"
-              description="Every lens batch is tested with a spectrophotometer to verify UV400 protection levels. We measure transmittance across the full UV spectrum (280–400nm). Any batch that doesn't block 99.9%+ of UV radiation gets rejected — no rework, no exceptions."
+              description="Every lens batch is tested with a spectrophotometer to verify UV400 protection levels. We measure transmittance across the full UV spectrum (280-400nm). Any batch that doesn't block 99.9%+ of UV radiation gets rejected -- no rework, no exceptions."
             />
             <InspectionCard
               step={2}
@@ -212,12 +212,12 @@ export default function CertificationsPageIt() {
             <InspectionCard
               step={3}
               title="Hinge Cycle Testing"
-              description="We open and close every hinge design 2,000+ times using automated testing equipment to simulate years of daily use. Spring hinges, barrel hinges, flex hinges — each type has its own cycle count requirement. Loose or sticky hinges mean a redesign, not a pass."
+              description="We open and close every hinge design 2,000+ times using automated testing equipment to simulate years of daily use. Spring hinges, barrel hinges, flex hinges -- each type has its own cycle count requirement. Loose or sticky hinges mean a redesign, not a pass."
             />
             <InspectionCard
               step={4}
               title="Dimensional Verification"
-              description="Frame dimensions are measured against the original spec sheet using digital calipers and optical comparators. Temple length, bridge width, lens height — every measurement must fall within ±0.5mm tolerance. This is how we ensure sizing consistency across production runs."
+              description="Frame dimensions are measured against the original spec sheet using digital calipers and optical comparators. Temple length, bridge width, lens height -- every measurement must fall within ±0.5mm tolerance. This is how we ensure sizing consistency across production runs."
             />
             <InspectionCard
               step={5}
@@ -244,7 +244,7 @@ export default function CertificationsPageIt() {
             <div>
               <h2 className="text-3xl font-bold mb-6">What Ships With Every Order</h2>
               <p className="text-gray-600 mb-6">
-                Compliance documentation isn&apos;t an afterthought — it&apos;s part of our production process. 
+                Compliance documentation isn&apos;t an afterthought -- it&apos;s part of our production process. 
                 Every shipment leaves our{' '}
                 <Link href="/it/chi-siamo" className="text-primary-600 hover:underline">factory</Link> with 
                 a complete documentation package. Your customs broker and retail partners will have 
@@ -269,7 +269,7 @@ export default function CertificationsPageIt() {
                 />
                 <DocumentItem
                   title="Material Safety Data Sheets"
-                  description="MSDS for all materials used in production — frame materials, lens coatings, hinge components, packaging materials. Essential for import compliance in many markets."
+                  description="MSDS for all materials used in production -- frame materials, lens coatings, hinge components, packaging materials. Essential for import compliance in many markets."
                 />
               </ul>
             </div>
@@ -290,7 +290,7 @@ export default function CertificationsPageIt() {
             <h2 className="text-3xl font-bold mb-4">Frequently Asked Questions</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               These are the compliance questions we hear most often from new clients. 
-              If yours isn&apos;t here, just ask — we&apos;re happy to get specific.
+              If yours isn&apos;t here, just ask -- we&apos;re happy to get specific.
             </p>
           </div>
           <div className="max-w-3xl mx-auto space-y-6">
@@ -304,7 +304,7 @@ export default function CertificationsPageIt() {
             />
             <FAQItem
               question="What UV protection level do your lenses provide?"
-              answer="All EyeView lenses provide UV400 protection, which blocks 99.9–100% of UVA and UVB radiation up to 400 nanometers. This is the highest UV protection rating available for sunglasses. Every lens batch is tested using a spectrophotometer to verify UV transmission levels before production continues."
+              answer="All EyeView lenses provide UV400 protection, which blocks 99.9-100% of UVA and UVB radiation up to 400 nanometers. This is the highest UV protection rating available for sunglasses. Every lens batch is tested using a spectrophotometer to verify UV transmission levels before production continues."
             />
             <FAQItem
               question="Do you offer third-party testing reports?"
@@ -316,7 +316,7 @@ export default function CertificationsPageIt() {
             />
             <FAQItem
               question="Can I use your certificates for my own brand's marketing?"
-              answer="Yes. When we manufacture sunglasses under your brand (OEM/ODM), all certificates and test reports are issued for your brand name and product specifications. You can use these in your marketing materials, retail packaging, and compliance documentation. We handle all the paperwork — you just need to tell us your brand details."
+              answer="Yes. When we manufacture sunglasses under your brand (OEM/ODM), all certificates and test reports are issued for your brand name and product specifications. You can use these in your marketing materials, retail packaging, and compliance documentation. We handle all the paperwork -- you just need to tell us your brand details."
             />
           </div>
         </section>
@@ -326,7 +326,7 @@ export default function CertificationsPageIt() {
           <h2 className="text-3xl font-bold mb-4">Need Compliance Documentation?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
             Whether you need test reports for an existing order, certificates for a new market, 
-            or just want to understand what documentation you&apos;ll need — reach out. We&apos;ll get you 
+            or just want to understand what documentation you&apos;ll need -- reach out. We&apos;ll get you 
             the right paperwork, fast.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

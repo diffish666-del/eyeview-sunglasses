@@ -20,28 +20,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$12.00 - $18.00',
     moq: '100 Stk.',
-    description: 'Der Aviator wurde buchstäblich für Piloten entwickelt, die durch die Cockpit-Blendung sehen mussten. Fügt man Polarisation hinzu, wird er zur ultimativen Fahrsonnenbrille. Unser polarisierter Aviator eliminiert Straßenblendung, Armaturenbrett-Reflexion und diesen blendenden Blitz vom vorausfahrenden Auto. Wir beliefern damit eine Mietwagenfirma in Dubai, die jedem Kunden ein Paar gibt — so gut sind sie fürs Fahren.',
+    description: 'Der Aviator wurde buchstäblich für Piloten entwickelt, die durch die Cockpit-Blendung sehen mussten. Fügt man Polarisation hinzu, wird er zur ultimativen Fahrsonnenbrille. Unser polarisierter Aviator eliminiert Straßenblendung, Armaturenbrett-Reflexion und diesen blendenden Blitz vom vorausfahrenden Auto. Wir beliefern damit eine Mietwagenfirma in Dubai, die jedem Kunden ein Paar gibt -- so gut sind sie fürs Fahren.',
   },
   {
     name: 'Polarisierter Wayfarer',
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$11.00 - $17.00',
     moq: '100 Stk.',
-    description: 'Klassische Wayfarer-Form trifft auf ernsthafte Optik. Die TAC-polarisierten Gläser verwandeln diese Modefassung in ein funktionales Kraftpaket — Strandblendung, Gehwegspiegelungen, Wasseroberflächen-Schimmern — alles weg. Kunden bekommen den Stil, den sie wollen, mit einem Schutz, den sie nicht für möglich hielten. Unser meistverkaufter Allrounder.',
+    description: 'Klassische Wayfarer-Form trifft auf ernsthafte Optik. Die TAC-polarisierten Gläser verwandeln diese Modefassung in ein funktionales Kraftpaket -- Strandblendung, Gehwegspiegelungen, Wasseroberflächen-Schimmern -- alles weg. Kunden bekommen den Stil, den sie wollen, mit einem Schutz, den sie nicht für möglich hielten. Unser meistverkaufter Allrounder.',
   },
   {
     name: 'Polarisierter Sport-Wrap',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$13.00 - $19.00',
     moq: '100 Stk.',
-    description: 'Umlaufende Abdeckung + polarisierte Gläser = keine Blendung aus jedem Winkel. Gebaut für Outdoor-Athleten, die peripheren Schutz brauchen — Radfahrer auf nassen Straßen, Trailrunner im Wechsellicht, Wanderer oberhalb der Baumgrenze. Die TR90-Fassung hält das Gewicht unter 26g. Ein Radsportverein in den Niederlanden bestellte 600 Paar für ihre gesamte Mitgliedschaft.',
+    description: 'Umlaufende Abdeckung + polarisierte Gläser = keine Blendung aus jedem Winkel. Gebaut für Outdoor-Athleten, die peripheren Schutz brauchen -- Radfahrer auf nassen Straßen, Trailrunner im Wechsellicht, Wanderer oberhalb der Baumgrenze. Die TR90-Fassung hält das Gewicht unter 26g. Ein Radsportverein in den Niederlanden bestellte 600 Paar für ihre gesamte Mitgliedschaft.',
   },
   {
     name: 'Polarisierte Angelbrille',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$14.00 - $20.00',
     moq: '100 Stk.',
-    description: 'Fragen Sie jeden ernsthaften Angler und er wird Ihnen sagen — polarisierte Gläser sind beim Angeln nicht optional. Sie sind unverzichtbar. Unsere polarisierten Angelbrillen eliminieren die Oberflächenblendung, sodass Sie direkt ins Wasser sehen können. Den Fisch erkennen, die Struktur lesen, den Köder beobachten. Bernsteingläser für Süßwasser, grau-grün für Salzwasser. Eine Charter-Angelgesellschaft in Key West bestellt diese seit drei Jahren jedes Quartal nach.',
+    description: 'Fragen Sie jeden ernsthaften Angler und er wird Ihnen sagen -- polarisierte Gläser sind beim Angeln nicht optional. Sie sind unverzichtbar. Unsere polarisierten Angelbrillen eliminieren die Oberflächenblendung, sodass Sie direkt ins Wasser sehen können. Den Fisch erkennen, die Struktur lesen, den Köder beobachten. Bernsteingläser für Süßwasser, grau-grün für Salzwasser. Eine Charter-Angelgesellschaft in Key West bestellt diese seit drei Jahren jedes Quartal nach.',
   },
   {
     name: 'Polarisierte Fahrbrille',
@@ -55,7 +55,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$13.00 - $19.00',
     moq: '100 Stk.',
-    description: 'Wer sagt, polarisiert muss sportlich aussehen? Diese Cat-Eye-Fassung mit TAC-polarisierten Gläsern beweist, dass Mode UND Funktion zusammengehen. Frauen, die Auto fahren, am Strand sind oder am Pool sitzen — sie bekommen den Blendschutz, den sie brauchen, verpackt in einer Fassung, die sie wirklich tragen wollen. Stil + Substanz. Unser Nr. 1-Seller bei polarisierten Damenbrillen.',
+    description: 'Wer sagt, polarisiert muss sportlich aussehen? Diese Cat-Eye-Fassung mit TAC-polarisierten Gläsern beweist, dass Mode UND Funktion zusammengehen. Frauen, die Auto fahren, am Strand sind oder am Pool sitzen -- sie bekommen den Blendschutz, den sie brauchen, verpackt in einer Fassung, die sie wirklich tragen wollen. Stil + Substanz. Unser Nr. 1-Seller bei polarisierten Damenbrillen.',
   },
 ]
 
@@ -80,8 +80,8 @@ export default function PolarisiertPage() {
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Wenn Ihre Kunden einmal polarisiert probiert haben, gibt es kein Zurück. Die Blendung
             verschwindet. Die Farben leuchten. Alles sieht einfach... besser aus. Wir fertigen
-            Premium-TAC-polarisierte Sonnenbrillen in jedem Stil — Aviator, Wayfarer, Sport,
-            Cat-Eye — mit 7-Schicht-Gläsern, die 99% der blendenden horizontalen Blendung blockieren.
+            Premium-TAC-polarisierte Sonnenbrillen in jedem Stil -- Aviator, Wayfarer, Sport,
+            Cat-Eye -- mit 7-Schicht-Gläsern, die 99% der blendenden horizontalen Blendung blockieren.
           </p>
         </div>
 
@@ -99,7 +99,7 @@ export default function PolarisiertPage() {
           <h2 className="text-3xl font-bold text-center mb-6">Wie Polarisation funktioniert (einfach erklärt)</h2>
           <div className="max-w-4xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
-              Hier die 30-Sekunden-Erklärung. Sonnenlicht bewegt sich in alle Richtungen — hoch,
+              Hier die 30-Sekunden-Erklärung. Sonnenlicht bewegt sich in alle Richtungen -- hoch,
               runter, seitwärts. Wenn es auf eine flache Oberfläche wie Wasser, eine Straße oder
               eine Motorhaube trifft, wird es in horizontale Wellen &quot;organisiert&quot;. Das ist
               Blendung. Sie ist blendend, nervig und tatsächlich gefährlich beim Fahren oder auf dem
@@ -108,14 +108,14 @@ export default function PolarisiertPage() {
             <p>
               Ein <a href="https://en.wikipedia.org/wiki/Polarizer" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">polarisiertes Glas</a> enthält
               eine spezielle chemische Folie mit mikroskopisch kleinen vertikalen Streifen. Diese
-              Streifen funktionieren wie Jalousien für Licht — sie lassen vertikales Licht durch
+              Streifen funktionieren wie Jalousien für Licht -- sie lassen vertikales Licht durch
               (das normale) und blockieren horizontales Licht (die Blendung). Das Ergebnis? Blendung
               verschwindet. Farben wirken satter und natürlicher. Kontraste werden schärfer. Es ist
               wie ein Upgrade von Standard auf 4K für Ihre Augen.
             </p>
             <p>
               Allerdings sind nicht alle polarisierten Gläser gleich. Billige verwenden eine dünne
-              Polarisationsfolie, die auf die Glasoberfläche geklebt wird — sie schält sich ab,
+              Polarisationsfolie, die auf die Glasoberfläche geklebt wird -- sie schält sich ab,
               bildet Blasen und verschlechtert sich in Monaten. Unsere TAC-Gläser betten die
               Polarisationsfolie zwischen 6 Schutzschichten ein und bilden eine einzige verschmolzene
               Einheit, die sich nicht ablöst oder verschlechtert. Das ist der Unterschied zwischen
@@ -137,12 +137,12 @@ export default function PolarisiertPage() {
                 </tr>
               </thead>
               <tbody className="divide-y">
-                <tr><td className="p-4 font-medium">Blendungsreduzierung</td><td className="p-4 text-gray-600">Dunkelt alles gleichmäßig ab — Blendung inklusive</td><td className="p-4 text-gray-600">Eliminiert gezielt reflektierte horizontale Blendung</td></tr>
+                <tr><td className="p-4 font-medium">Blendungsreduzierung</td><td className="p-4 text-gray-600">Dunkelt alles gleichmäßig ab -- Blendung inklusive</td><td className="p-4 text-gray-600">Eliminiert gezielt reflektierte horizontale Blendung</td></tr>
                 <tr><td className="p-4 font-medium">Sehschärfe</td><td className="p-4 text-gray-600">Dunkler, aber nicht klarer</td><td className="p-4 text-gray-600">Schärferer Kontrast, verbesserte Farbwahrnehmung</td></tr>
-                <tr><td className="p-4 font-medium">Fahrsicherheit</td><td className="p-4 text-gray-600">Reduziert Helligkeit, Blendung bleibt</td><td className="p-4 text-gray-600">Eliminiert Straßen-/Fahrzeugblendung — deutlich sicherer</td></tr>
+                <tr><td className="p-4 font-medium">Fahrsicherheit</td><td className="p-4 text-gray-600">Reduziert Helligkeit, Blendung bleibt</td><td className="p-4 text-gray-600">Eliminiert Straßen-/Fahrzeugblendung -- deutlich sicherer</td></tr>
                 <tr><td className="p-4 font-medium">Angeln / Wasser</td><td className="p-4 text-gray-600">Unter die Oberfläche sehen unmöglich</td><td className="p-4 text-gray-600">Klar durch die Wasseroberfläche sehen</td></tr>
-                <tr><td className="p-4 font-medium">Augenermüdung</td><td className="p-4 text-gray-600">Weiterhin Blinzeln bei Blendung</td><td className="p-4 text-gray-600">Augen entspannen sich — kein Blinzeln nötig</td></tr>
-                <tr><td className="p-4 font-medium">Wahrgenommener Wert</td><td className="p-4 text-gray-600">Basis — Kunden erwarten mindestens UV</td><td className="p-4 text-gray-600">Premium — Kunden zahlen 10-30 $ mehr im Einzelhandel</td></tr>
+                <tr><td className="p-4 font-medium">Augenermüdung</td><td className="p-4 text-gray-600">Weiterhin Blinzeln bei Blendung</td><td className="p-4 text-gray-600">Augen entspannen sich -- kein Blinzeln nötig</td></tr>
+                <tr><td className="p-4 font-medium">Wahrgenommener Wert</td><td className="p-4 text-gray-600">Basis -- Kunden erwarten mindestens UV</td><td className="p-4 text-gray-600">Premium -- Kunden zahlen 10-30 $ mehr im Einzelhandel</td></tr>
                 <tr><td className="p-4 font-medium">Großhandel-Aufpreis</td><td className="p-4 text-gray-600">Basispreis</td><td className="p-4 text-gray-600">+$1.50 - $3.00 pro Paar</td></tr>
               </tbody>
             </table>
@@ -195,7 +195,7 @@ export default function PolarisiertPage() {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-white rounded-xl p-6 shadow-sm border-2 border-primary-200">
               <h3 className="text-xl font-semibold mb-2">🏆 TAC Polarisiert</h3>
-              <p className="text-xs text-primary-600 font-semibold mb-4">AM BELIEBTESTEN — 80% der Bestellungen</p>
+              <p className="text-xs text-primary-600 font-semibold mb-4">AM BELIEBTESTEN -- 80% der Bestellungen</p>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 TAC (Triacetat-Zellulose) ist der goldene Mittelweg. Sieben Schichten verschmolzen:
                 Hartbeschichtung außen, TAC-Strukturschichten, Polarisationsfolie im Zentrum,
@@ -205,9 +205,9 @@ export default function PolarisiertPage() {
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
                 <li>• Gewicht: Leicht (1,1mm Standard)</li>
-                <li>• Stoßfestigkeit: Gut — splittert nicht</li>
+                <li>• Stoßfestigkeit: Gut -- splittert nicht</li>
                 <li>• Optik: Sehr gut</li>
-                <li>• Kosten: $$ — bestes Preis-Leistungs-Verhältnis</li>
+                <li>• Kosten: $$ -- bestes Preis-Leistungs-Verhältnis</li>
                 <li>• Am besten für: die meisten Anwendungen</li>
               </ul>
             </div>
@@ -217,16 +217,16 @@ export default function PolarisiertPage() {
               <p className="text-gray-700 mb-4 leading-relaxed">
                 <a href="https://en.wikipedia.org/wiki/CR-39" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">CR-39</a> ist
                 ein optisches Harz, das ursprünglich für militärische Optik entwickelt wurde.
-                Es bietet die schärfste visuelle Klarheit aller Kunststoff-Glasmaterialien —
+                Es bietet die schärfste visuelle Klarheit aller Kunststoff-Glasmaterialien --
                 Optiker lieben es. Kratzfest, leicht und optisch CR-39 überlegen. Es kostet
                 aber mehr und ist etwas weniger stoßfest. Wählen Sie CR-39, wenn optische
-                Qualität oberste Priorität hat — Luxusmarken, Fahr-Spezialisten, Optiker.
+                Qualität oberste Priorität hat -- Luxusmarken, Fahr-Spezialisten, Optiker.
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
                 <li>• Gewicht: Leicht</li>
                 <li>• Stoßfestigkeit: Mittel</li>
-                <li>• Optik: Ausgezeichnet — optische Qualität</li>
-                <li>• Kosten: $$$ — Premium</li>
+                <li>• Optik: Ausgezeichnet -- optische Qualität</li>
+                <li>• Kosten: $$$ -- Premium</li>
                 <li>• Am besten für: Luxus, Optikgeschäfte</li>
               </ul>
             </div>
@@ -235,7 +235,7 @@ export default function PolarisiertPage() {
               <p className="text-xs text-gray-500 font-semibold mb-4">ULTIMATIVE KLARHEIT</p>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Nichts übertrifft Mineralglas in optischer Reinheit. Null Verzerrung, überlegene
-                Kratzfestigkeit, und die Polarisation ist dauerhaft eingebettet — sie verschlechtert
+                Kratzfestigkeit, und die Polarisation ist dauerhaft eingebettet -- sie verschlechtert
                 sich nicht über Jahre. Aber Glas ist schwerer, teurer und splittert bei Aufprall
                 (nicht ideal für Sport). Mineralglas-Polarisation ist für den puristischen Kunden,
                 der die absolut beste Optik will und das Mehrgewicht akzeptiert. Ideal für
@@ -243,9 +243,9 @@ export default function PolarisiertPage() {
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
                 <li>• Gewicht: Schwer</li>
-                <li>• Stoßfestigkeit: Niedrig — kann splittern</li>
-                <li>• Optik: Perfekt — null Verzerrung</li>
-                <li>• Kosten: $$$$ — am höchsten</li>
+                <li>• Stoßfestigkeit: Niedrig -- kann splittern</li>
+                <li>• Optik: Perfekt -- null Verzerrung</li>
+                <li>• Kosten: $$$$ -- am höchsten</li>
                 <li>• Am besten für: Luxus, Angeln, Bootfahren</li>
               </ul>
             </div>
@@ -259,16 +259,16 @@ export default function PolarisiertPage() {
             <div>
               <p className="text-lg text-gray-700 mb-6">
                 Wenn Leute fragen: &quot;Warum kosten Ihre polarisierten Gläser mehr als die auf
-                Alibaba für $0.50?&quot; — deshalb. Jedes Glas ist ein 7-Schicht-Sandwich,
+                Alibaba für $0.50?&quot; -- deshalb. Jedes Glas ist ein 7-Schicht-Sandwich,
                 präzisionsverschmolzen unter Hitze und Druck. Die billigen? Die kleben eine
                 Polarisationsfolie auf eine Seite eines normalen Glases. Sie schält sich ab.
                 Sie bildet Blasen. Sie beschlägt. Unsere nicht. Nie. Wir stellen diese seit
                 über 8 Jahren her und unsere Fehlerquote liegt unter 0,3%.
               </p>
               <ul className="space-y-3">
-                <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>UV400 — laborgeprüft, nicht nur etikettiert</li>
+                <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>UV400 -- laborgeprüft, nicht nur etikettiert</li>
                 <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>99% horizontale Blendung eliminiert</li>
-                <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>Stoßfest — splittert nicht</li>
+                <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>Stoßfest -- splittert nicht</li>
                 <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>Kratzfeste Hartbeschichtung</li>
               </ul>
             </div>
@@ -326,31 +326,31 @@ export default function PolarisiertPage() {
 
         {/* FAQ */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Fragen zur Polarisation — beantwortet</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Fragen zur Polarisation -- beantwortet</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="Wie erkenne ich, ob Gläser wirklich polarisiert sind?"
-              answer="Einfacher Test: Halten Sie die Sonnenbrille vor einen LCD-Bildschirm (Handy oder Computer) und drehen Sie sie um 90 Grad. Wenn sie wirklich polarisiert sind, wird der Bildschirm in bestimmten Winkeln dunkel oder verfärbt sich dramatisch. Das ist der Polarisationsfilter, der die Lichtwellen des Bildschirms blockiert. Wir legen jeder Bestellung eine Polarisations-Testkarte bei, damit Ihre Kunden es selbst überprüfen können. Das ist ein großartiges Verkaufstool — Leute lieben die Demo."
+              answer="Einfacher Test: Halten Sie die Sonnenbrille vor einen LCD-Bildschirm (Handy oder Computer) und drehen Sie sie um 90 Grad. Wenn sie wirklich polarisiert sind, wird der Bildschirm in bestimmten Winkeln dunkel oder verfärbt sich dramatisch. Das ist der Polarisationsfilter, der die Lichtwellen des Bildschirms blockiert. Wir legen jeder Bestellung eine Polarisations-Testkarte bei, damit Ihre Kunden es selbst überprüfen können. Das ist ein großartiges Verkaufstool -- Leute lieben die Demo."
             />
             <FaqItem
               question="Lohnen sich polarisierte Gläser die Mehrkosten?"
-              answer="Aus Margen-Perspektive? Absolut. Polarisation fügt etwa $1.50-3.00 zu Ihren Großhandelskosten pro Paar hinzu, aber Kunden zahlen im Einzelhandel $10-30 mehr für ‚polarisiert' auf dem Etikett. Es ist das beste Upselling im Sonnenbrillen-Geschäft. Von der Leistung her — wenn Ihre Kunden Auto fahren, angeln oder Zeit am Wasser verbringen, ist Polarisation kein Luxus. Es ist eine Sicherheitsfunktion. Blendung verursacht Unfälle."
+              answer="Aus Margen-Perspektive? Absolut. Polarisation fügt etwa $1.50-3.00 zu Ihren Großhandelskosten pro Paar hinzu, aber Kunden zahlen im Einzelhandel $10-30 mehr für ‚polarisiert' auf dem Etikett. Es ist das beste Upselling im Sonnenbrillen-Geschäft. Von der Leistung her -- wenn Ihre Kunden Auto fahren, angeln oder Zeit am Wasser verbringen, ist Polarisation kein Luxus. Es ist eine Sicherheitsfunktion. Blendung verursacht Unfälle."
             />
             <FaqItem
               question="Können polarisierte Gläser die Sicht auf Handy- oder GPS-Bildschirme beeinflussen?"
-              answer="Manchmal ja — und es lohnt sich, das zu wissen. Polarisierte Gläser können manche LCD-Bildschirme in bestimmten Winkeln dunkel erscheinen lassen oder Regenbogenmuster zeigen. Die meisten modernen OLED-Handybildschirme kommen damit gut klar, aber ältere GPS-Geräte und einige Auto-Armaturenbrett-Displays können problematisch sein. Für Fahrbrillen speziell bieten wir Gläser mit einem leicht versetzten Polarisationswinkel an, der dieses Problem reduziert. Fragen Sie einfach nach unserer ‚fahrer-optimierten' polarisierten Option."
+              answer="Manchmal ja -- und es lohnt sich, das zu wissen. Polarisierte Gläser können manche LCD-Bildschirme in bestimmten Winkeln dunkel erscheinen lassen oder Regenbogenmuster zeigen. Die meisten modernen OLED-Handybildschirme kommen damit gut klar, aber ältere GPS-Geräte und einige Auto-Armaturenbrett-Displays können problematisch sein. Für Fahrbrillen speziell bieten wir Gläser mit einem leicht versetzten Polarisationswinkel an, der dieses Problem reduziert. Fragen Sie einfach nach unserer ‚fahrer-optimierten' polarisierten Option."
             />
             <FaqItem
-              question="TAC, CR-39 oder Mineralglas — welches polarisierte Glas soll ich wählen?"
-              answer="Für die meisten Großhandelskäufer: TAC. Es ist die beste Balance aus Qualität, Haltbarkeit und Kosten — und macht etwa 80% unserer polarisierten Bestellungen aus. Wählen Sie CR-39, wenn Sie an Optiker oder Luxusmärkte verkaufen, wo optische Klarheit die Nr. 1-Priorität ist. Wählen Sie Mineralglas, wenn Sie ernsthafte Angel-/Boots-Enthusiasten ansprechen, die die absolut beste Optik wollen und schwerere Fassungen akzeptieren. Im Zweifel: mit TAC anfangen."
+              question="TAC, CR-39 oder Mineralglas -- welches polarisierte Glas soll ich wählen?"
+              answer="Für die meisten Großhandelskäufer: TAC. Es ist die beste Balance aus Qualität, Haltbarkeit und Kosten -- und macht etwa 80% unserer polarisierten Bestellungen aus. Wählen Sie CR-39, wenn Sie an Optiker oder Luxusmärkte verkaufen, wo optische Klarheit die Nr. 1-Priorität ist. Wählen Sie Mineralglas, wenn Sie ernsthafte Angel-/Boots-Enthusiasten ansprechen, die die absolut beste Optik wollen und schwerere Fassungen akzeptieren. Im Zweifel: mit TAC anfangen."
             />
             <FaqItem
               question="Welche Farben polarisierter Gläser bieten Sie an?"
-              answer="Zwölf Optionen: Grau (neutral, natürliche Farben — am besten zum Fahren), Braun (verstärkter Kontrast — ideal für den Alltag), Bernstein (maximaler Kontrast — Favorit beim Angeln), Grün (klassischer G-15-Look), Blau-Spiegel, Rot-Spiegel, Gold-Spiegel, Silber-Spiegel, Gelb (bei schwachem Licht), Rosé (Golf/Tennis) und photochrom (passt sich automatisch ans Licht an). Grau und Braun machen etwa 60% aller Bestellungen aus, aber Spiegelungen wachsen schnell."
+              answer="Zwölf Optionen: Grau (neutral, natürliche Farben -- am besten zum Fahren), Braun (verstärkter Kontrast -- ideal für den Alltag), Bernstein (maximaler Kontrast -- Favorit beim Angeln), Grün (klassischer G-15-Look), Blau-Spiegel, Rot-Spiegel, Gold-Spiegel, Silber-Spiegel, Gelb (bei schwachem Licht), Rosé (Golf/Tennis) und photochrom (passt sich automatisch ans Licht an). Grau und Braun machen etwa 60% aller Bestellungen aus, aber Spiegelungen wachsen schnell."
             />
             <FaqItem
               question="Wie hoch ist die MOQ und kann ich polarisiert mit nicht-polarisiert mischen?"
-              answer="100 Stück pro Stil und Farbe. Und ja — Sie können polarisierte und nicht-polarisierte Versionen derselben Fassung in einer Bestellung mischen. Viele unserer Händler lagern beides: nicht-polarisiert zu $15-20 Einzelhandel als Einstieg und polarisiert zu $25-35 als Premium-Upsell. Gleiche Fassung, anderes Glas, höherer durchschnittlicher Bestellwert. Kluge Händler bieten die Vergleichs-Demo direkt an der Theke an."
+              answer="100 Stück pro Stil und Farbe. Und ja -- Sie können polarisierte und nicht-polarisierte Versionen derselben Fassung in einer Bestellung mischen. Viele unserer Händler lagern beides: nicht-polarisiert zu $15-20 Einzelhandel als Einstieg und polarisiert zu $25-35 als Premium-Upsell. Gleiche Fassung, anderes Glas, höherer durchschnittlicher Bestellwert. Kluge Händler bieten die Vergleichs-Demo direkt an der Theke an."
             />
           </div>
         </section>
@@ -361,7 +361,7 @@ export default function PolarisiertPage() {
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
             Polarisiert kostet Sie etwas mehr. Es verkauft sich für deutlich mehr. Und Kunden
             lieben den Unterschied wirklich. Holen Sie sich Muster, machen Sie den LCD-Test-Demo,
-            und beobachten Sie, wie sie sich von selbst verkaufen. Kostenlose Muster verfügbar —
+            und beobachten Sie, wie sie sich von selbst verkaufen. Kostenlose Muster verfügbar --
             Sie übernehmen den Versand.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -402,7 +402,7 @@ export default function PolarisiertPage() {
           },
           {
             "@type": "Question",
-            "name": "TAC, CR-39 oder Mineralglas — welches polarisierte Glas soll ich wählen?",
+            "name": "TAC, CR-39 oder Mineralglas -- welches polarisierte Glas soll ich wählen?",
             "acceptedAnswer": { "@type": "Answer", "text": "TAC für die meisten Käufer (bestes Preis-Leistungs-Verhältnis, 80% der Bestellungen). CR-39 für Luxus-/Optikmärkte. Mineralglas für ernsthafte Angel-/Boots-Enthusiasten, die die absolut beste Optik wollen." }
           },
           {

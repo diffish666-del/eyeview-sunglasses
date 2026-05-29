@@ -96,7 +96,7 @@ export default function CertificationsPagePt() {
               "name": "Posso usar seus certificados no marketing da minha própria marca?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Sim. Quando fabricamos óculos de sol sob sua marca (OEM/ODM), todos os certificados e relatórios de testes são emitidos para o nome da sua marca e as especificações do seu produto. Você pode usar esses certificados em seus materiais de marketing, embalagem de varejo e documentação de conformidade. Nós cuidamos de toda a papelada — você só precisa nos informar os detalhes da sua marca."
+                "text": "Sim. Quando fabricamos óculos de sol sob sua marca (OEM/ODM), todos os certificados e relatórios de testes são emitidos para o nome da sua marca e as especificações do seu produto. Você pode usar esses certificados em seus materiais de marketing, embalagem de varejo e documentação de conformidade. Nós cuidamos de toda a papelada -- você só precisa nos informar os detalhes da sua marca."
               }
             }
           ]
@@ -109,7 +109,7 @@ export default function CertificationsPagePt() {
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Aprendi da maneira difícil por que a conformidade importa. Há alguns anos, um dos nossos clientes
-            teve um envio de 8.000 pares confiscado na alfândega de Hamburgo — não porque os óculos fossem
+            teve um envio de 8.000 pares confiscado na alfândega de Hamburgo -- não porque os óculos fossem
             ruins, mas porque o fornecedor anterior não tinha fornecido a documentação CE adequada.
             Oito mil pares, parados em um armazém, invendáveis. Esse cliente veio até nós, e garantimos
             que isso nunca acontecesse de novo. Cada par que enviamos sai da nossa{' '}
@@ -140,7 +140,7 @@ export default function CertificationsPagePt() {
               icon="🇪🇺"
               name="Certificado CE"
               standard="EN ISO 12312-1:2013"
-              description="Se você vende na Europa, a marcação CE não é opcional — é lei. Nossos óculos de sol estão em conformidade com EN ISO 12312-1:2013, cobrindo proteção UV, qualidade óptica, resistência mecânica e rotulagem. Cada envio para a UE inclui uma Declaração de Conformidade. Sem mais surpresas tipo Hamburgo."
+              description="Se você vende na Europa, a marcação CE não é opcional -- é lei. Nossos óculos de sol estão em conformidade com EN ISO 12312-1:2013, cobrindo proteção UV, qualidade óptica, resistência mecânica e rotulagem. Cada envio para a UE inclui uma Declaração de Conformidade. Sem mais surpresas tipo Hamburgo."
               link="https://single-market-economy.ec.europa.eu/single-market/ce-marking_en"
               linkText="Saiba Mais Sobre a Marcação CE →"
             />
@@ -148,7 +148,7 @@ export default function CertificationsPagePt() {
               icon="🏭"
               name="ISO 9001:2015"
               standard="Sistema de Gestão de Qualidade"
-              description="Todo nosso processo de fabricação — da inspeção de matérias-primas à embalagem final — opera sob um sistema de gestão de qualidade certificado ISO 9001:2015. Isso significa procedimentos documentados, auditorias internas regulares e melhoria contínua. Não é empolgante, mas é a razão pela qual nossa taxa de defeitos se mantém abaixo de 0,5%."
+              description="Todo nosso processo de fabricação -- da inspeção de matérias-primas à embalagem final -- opera sob um sistema de gestão de qualidade certificado ISO 9001:2015. Isso significa procedimentos documentados, auditorias internas regulares e melhoria contínua. Não é empolgante, mas é a razão pela qual nossa taxa de defeitos se mantém abaixo de 0,5%."
               link="https://www.iso.org/iso-9001-quality-management.html"
               linkText="Sobre ISO 9001 →"
             />
@@ -158,7 +158,7 @@ export default function CertificationsPagePt() {
               standard="100% Bloqueio UVA/UVB"
               description={<>
                 UV400 significa que nossas lentes bloqueiam todos os raios de luz com comprimentos de onda
-                de até 400 nanômetros — isso cobre 100% da radiação UVA (315–400nm) e UVB (280–315nm).
+                de até 400 nanômetros -- isso cobre 100% da radiação UVA (315-400nm) e UVB (280-315nm).
                 Testamos cada lote de lentes com um espectrofotômetro antes que a produção continue.
                 Se um lote não atinge UV400, é rejeitado. Ponto final. Saiba mais sobre como testamos em nosso{' '}
                 <Link href="/pt/produtos/polarizado" className="text-primary-600 hover:underline">guia de lentes</Link>.
@@ -171,7 +171,7 @@ export default function CertificationsPagePt() {
               description={<>
                 ANSI Z80.3 é o Padrão Nacional Americano para óculos de sol sem prescrição. Cobre
                 qualidade óptica, transmitância UV, resistência ao impacto e inflamabilidade. Embora não seja
-                legalmente exigido como o registro FDA, os principais varejistas dos EUA esperam isso — e
+                legalmente exigido como o registro FDA, os principais varejistas dos EUA esperam isso -- e
                 nós entregamos. Nossas{' '}
                 <Link href="/pt/produtos/polarizado" className="text-primary-600 hover:underline">lentes polarizadas</Link> são
                 testadas conforme as especificações ANSI Z80.3 para clareza óptica e eficiência de polarização.
@@ -211,7 +211,7 @@ export default function CertificationsPagePt() {
             <InspectionCard
               step={1}
               title="Teste de Transmissão UV"
-              description="Cada lote de lentes é testado com um espectrofotômetro para verificar os níveis de proteção UV400. Medimos a transmitância em todo o espectro UV (280–400nm). Qualquer lote que não bloqueie 99,9%+ da radiação UV é rejeitado — sem retrabalho, sem exceções."
+              description="Cada lote de lentes é testado com um espectrofotômetro para verificar os níveis de proteção UV400. Medimos a transmitância em todo o espectro UV (280-400nm). Qualquer lote que não bloqueie 99,9%+ da radiação UV é rejeitado -- sem retrabalho, sem exceções."
             />
             <InspectionCard
               step={2}
@@ -221,12 +221,12 @@ export default function CertificationsPagePt() {
             <InspectionCard
               step={3}
               title="Teste de Ciclos de Dobradiça"
-              description="Abrimos e fechamos cada design de dobradiça mais de 2.000 vezes usando equipamentos de teste automatizados para simular anos de uso diário. Dobradiças de mola, dobradiças de barril, dobradiças flex — cada tipo tem seu próprio requisito de contagem de ciclos. Dobradiças soltas ou duras significam redesign, não aprovação."
+              description="Abrimos e fechamos cada design de dobradiça mais de 2.000 vezes usando equipamentos de teste automatizados para simular anos de uso diário. Dobradiças de mola, dobradiças de barril, dobradiças flex -- cada tipo tem seu próprio requisito de contagem de ciclos. Dobradiças soltas ou duras significam redesign, não aprovação."
             />
             <InspectionCard
               step={4}
               title="Verificação Dimensional"
-              description="As dimensões da armação são medidas contra a ficha de especificações original usando paquímetros digitais e comparadores ópticos. Comprimento da haste, largura da ponte, altura da lente — cada medida deve estar dentro da tolerância de ±0,5mm. É assim que garantimos a consistência de tamanhos entre produções."
+              description="As dimensões da armação são medidas contra a ficha de especificações original usando paquímetros digitais e comparadores ópticos. Comprimento da haste, largura da ponte, altura da lente -- cada medida deve estar dentro da tolerância de ±0,5mm. É assim que garantimos a consistência de tamanhos entre produções."
             />
             <InspectionCard
               step={5}
@@ -253,7 +253,7 @@ export default function CertificationsPagePt() {
             <div>
               <h2 className="text-3xl font-bold mb-6">O Que É Enviado Com Cada Pedido</h2>
               <p className="text-gray-600 mb-6">
-                A documentação de conformidade não é algo secundário — faz parte do nosso processo de
+                A documentação de conformidade não é algo secundário -- faz parte do nosso processo de
                 produção. Cada envio sai da nossa{' '}
                 <Link href="/pt/sobre-nos" className="text-primary-600 hover:underline">fábrica</Link> com
                 um pacote de documentação completo. Seu despachante aduaneiro e parceiros de varejo terão
@@ -278,7 +278,7 @@ export default function CertificationsPagePt() {
                 />
                 <DocumentItem
                   title="Fichas de Dados de Segurança de Materiais"
-                  description="MSDS para todos os materiais usados na produção — materiais de armação, revestimentos de lentes, componentes de dobradiça, materiais de embalagem. Essenciais para a conformidade de importação em muitos mercados."
+                  description="MSDS para todos os materiais usados na produção -- materiais de armação, revestimentos de lentes, componentes de dobradiça, materiais de embalagem. Essenciais para a conformidade de importação em muitos mercados."
                 />
               </ul>
             </div>
@@ -299,7 +299,7 @@ export default function CertificationsPagePt() {
             <h2 className="text-3xl font-bold mb-4">Perguntas Frequentes</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Estas são as perguntas de conformidade que ouvimos com mais frequência de novos clientes.
-              Se a sua não está aqui, é só perguntar — teremos prazer em ser específicos.
+              Se a sua não está aqui, é só perguntar -- teremos prazer em ser específicos.
             </p>
           </div>
           <div className="max-w-3xl mx-auto space-y-6">
@@ -313,7 +313,7 @@ export default function CertificationsPagePt() {
             />
             <FAQItem
               question="Qual nível de proteção UV suas lentes fornecem?"
-              answer="Todas as lentes EyeView fornecem proteção UV400, que bloqueia 99,9–100% da radiação UVA e UVB até 400 nanômetros. Esta é a classificação de proteção UV mais alta disponível para óculos de sol. Cada lote de lentes é testado com um espectrofotômetro para verificar os níveis de transmissão UV antes que a produção continue."
+              answer="Todas as lentes EyeView fornecem proteção UV400, que bloqueia 99,9-100% da radiação UVA e UVB até 400 nanômetros. Esta é a classificação de proteção UV mais alta disponível para óculos de sol. Cada lote de lentes é testado com um espectrofotômetro para verificar os níveis de transmissão UV antes que a produção continue."
             />
             <FAQItem
               question="Vocês oferecem relatórios de testes de terceiros?"
@@ -325,7 +325,7 @@ export default function CertificationsPagePt() {
             />
             <FAQItem
               question="Posso usar seus certificados no marketing da minha própria marca?"
-              answer="Sim. Quando fabricamos óculos de sol sob sua marca (OEM/ODM), todos os certificados e relatórios de testes são emitidos para o nome da sua marca e as especificações do seu produto. Você pode usá-los em seus materiais de marketing, embalagem de varejo e documentação de conformidade. Nós cuidamos de toda a papelada — você só precisa nos informar os detalhes da sua marca."
+              answer="Sim. Quando fabricamos óculos de sol sob sua marca (OEM/ODM), todos os certificados e relatórios de testes são emitidos para o nome da sua marca e as especificações do seu produto. Você pode usá-los em seus materiais de marketing, embalagem de varejo e documentação de conformidade. Nós cuidamos de toda a papelada -- você só precisa nos informar os detalhes da sua marca."
             />
           </div>
         </section>
@@ -335,7 +335,7 @@ export default function CertificationsPagePt() {
           <h2 className="text-3xl font-bold mb-4">Precisa de Documentação de Conformidade?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
             Seja para relatórios de testes de um pedido existente, certificados para um novo
-            mercado, ou apenas para entender qual documentação você vai precisar — entre em contato. Vamos
+            mercado, ou apenas para entender qual documentação você vai precisar -- entre em contato. Vamos
             providenciar a documentação certa, rápido.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

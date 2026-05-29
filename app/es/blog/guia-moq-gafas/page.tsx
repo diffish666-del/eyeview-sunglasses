@@ -37,7 +37,7 @@ export default function Page() {
           "@type": "FAQPage",
           "mainEntity": [
             { "@type": "Question", "name": "¿Cuál es el MOQ típico para gafas al por mayor?", "acceptedAnswer": { "@type": "Answer", "text": "Depende del modelo de producción. ODM: 50-200 piezas por estilo. OEM: 300-1.000 piezas. Moldes personalizados: 500+ piezas." } },
-            { "@type": "Question", "name": "¿Puedo pedir menos de 100 pares a una fábrica?", "acceptedAnswer": { "@type": "Answer", "text": "Algunas fábricas ofrecen MOQ por debajo de 100 para ODM — nosotros empezamos en 50 piezas para clientes primerizos. Ten en cuenta que cantidades muy bajas significan costos unitarios más altos." } },
+            { "@type": "Question", "name": "¿Puedo pedir menos de 100 pares a una fábrica?", "acceptedAnswer": { "@type": "Answer", "text": "Algunas fábricas ofrecen MOQ por debajo de 100 para ODM -- nosotros empezamos en 50 piezas para clientes primerizos. Ten en cuenta que cantidades muy bajas significan costos unitarios más altos." } },
             { "@type": "Question", "name": "¿Debo empezar con ODM u OEM?", "acceptedAnswer": { "@type": "Answer", "text": "Empieza con ODM. Siempre. A menos que tengas bolsillos profundos y audiencia probada. Usa tus primeros 2-3 pedidos ODM para aprender qué compran realmente tus clientes." } }
           ]
         })}} />
@@ -69,14 +69,14 @@ export default function Page() {
           <h2 className="text-3xl font-bold mt-16 mb-6">Preguntas Frecuentes</h2>
           <div className="space-y-6">
             <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Cuál es el MOQ típico para gafas al por mayor?</h3><p className="text-gray-600">Depende del modelo de producción. ODM: 50-200 piezas por estilo. OEM: 300-1.000 piezas. Moldes personalizados: 500+ piezas.</p></div>
-            <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Puedo pedir menos de 100 pares a una fábrica?</h3><p className="text-gray-600">Algunas fábricas ofrecen MOQ por debajo de 100 para ODM — nosotros empezamos en 50 piezas para clientes primerizos. Ten en cuenta que cantidades muy bajas significan costos unitarios más altos.</p></div>
+            <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Puedo pedir menos de 100 pares a una fábrica?</h3><p className="text-gray-600">Algunas fábricas ofrecen MOQ por debajo de 100 para ODM -- nosotros empezamos en 50 piezas para clientes primerizos. Ten en cuenta que cantidades muy bajas significan costos unitarios más altos.</p></div>
             <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Debo empezar con ODM u OEM?</h3><p className="text-gray-600">Empieza con ODM. Siempre. A menos que tengas bolsillos profundos y audiencia probada. Usa tus primeros 2-3 pedidos ODM para aprender qué compran realmente tus clientes.</p></div>
           </div>
 
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">¿Tienes Preguntas? Hablemos.</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas — solo consejos honestos basados en 20 años de experiencia.
+              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas -- solo consejos honestos basados en 20 años de experiencia.
             </p>
             <Link href="/es/contacto" className="btn-primary">
               Agenda una Llamada Gratis con Jacky

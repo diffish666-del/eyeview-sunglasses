@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Stratégie de Prix Lunettes de Soleil : Du Coût Usine au Prix de Vente',
-  description: 'Un propriétaire d\'usine révèle la vraie économie de la tarification des lunettes — coûts usine, markup wholesale, marges retail et stratégies de prix qui fonctionnent.',
+  description: 'Un propriétaire d\'usine révèle la vraie économie de la tarification des lunettes -- coûts usine, markup wholesale, marges retail et stratégies de prix qui fonctionnent.',
   keywords: 'stratégie prix lunettes, markup lunettes, prix gros lunettes, marge bénéficiaire lunettes, prix détail lunettes',
   alternates: { canonical: '/fr/blog/strategie-prix-lunettes', languages: { 'en': '/blog/sunglasses-pricing-strategy', 'fr': '/fr/blog/strategie-prix-lunettes' } },
 }
@@ -28,7 +28,7 @@ export default function StrategiePrixLunettesPage() {
             <span>4 mai 2026</span><span>•</span><span>12 min de lecture</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Stratégie de Prix Lunettes de Soleil : Du Coût Usine au Prix de Vente</h1>
-          <p className="text-xl text-gray-600">La plupart des marques se trompent sur leur prix — soit trop bas (pas de marge), soit trop haut (pas de ventes). Voici comment trouver le juste milieu, avec les vrais chiffres.</p>
+          <p className="text-xl text-gray-600">La plupart des marques se trompent sur leur prix -- soit trop bas (pas de marge), soit trop haut (pas de ventes). Voici comment trouver le juste milieu, avec les vrais chiffres.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
             <div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Fondateur, EyeView Sunglasses</div></div>
@@ -84,5 +84,6 @@ export default function StrategiePrixLunettesPage() {
         </div>
       </div>
     </article>
+    </>
   )
 }

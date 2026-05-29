@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Come Importare Occhiali da Sole dalla Cina: Guida Completa 2026',
-  description: 'Un proprietario di fabbrica cinese spiega come importare occhiali da sole dalla Cina — approvvigionamento, spedizione, dazi doganali, controllo qualità e errori comuni da evitare.',
+  description: 'Un proprietario di fabbrica cinese spiega come importare occhiali da sole dalla Cina -- approvvigionamento, spedizione, dazi doganali, controllo qualità e errori comuni da evitare.',
   keywords: 'importare occhiali Cina, occhiali da sole all ingrosso Cina, dazi importazione occhiali, comprare occhiali dalla Cina, produttore occhiali Cina',
   alternates: { canonical: '/it/blog/guida-importazione-occhiali', languages: { 'en': '/blog/import-sunglasses-guide', 'it': '/it/blog/guida-importazione-occhiali' } },
 }
@@ -12,11 +12,11 @@ export default function GuidaImportazioneOcchialiPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Come Importare Occhiali da Sole dalla Cina: Guida Completa 2026", "datePublished": "2026-05-04", "dateModified": "2026-05-04", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica cinese spiega come importare occhiali da sole dalla Cina — approvvigionamento, spedizione, dazi e come evitare errori costosi.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/guida-importazione-occhiali" }, "inLanguage": "it" })}} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Come Importare Occhiali da Sole dalla Cina: Guida Completa 2026", "datePublished": "2026-05-04", "dateModified": "2026-05-04", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica cinese spiega come importare occhiali da sole dalla Cina -- approvvigionamento, spedizione, dazi e come evitare errori costosi.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/guida-importazione-occhiali" }, "inLanguage": "it" })}} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
           { "@type": "Question", "name": "Quanto costano i dazi doganali per gli occhiali da sole?", "acceptedAnswer": { "@type": "Answer", "text": "I dazi doganali per gli occhiali da sole variano per mercato: USA 2-5% (codice HTS 9004), UE 2.9%, UK 2.9%, Australia 5%. Questi sono calcolati sul valore CIF (costo + assicurazione + trasporto). Controlla sempre i codici HS aggiornati con il tuo spedizioniere poiché le tariffe possono cambiare." } },
-          { "@type": "Question", "name": "È meglio la spedizione aerea o marittima per gli occhiali?", "acceptedAnswer": { "@type": "Answer", "text": "Per ordini sotto 500 paia, il trasporto aereo è generalmente più sensato — 5-7 giorni, $3-8/kg. Per ordini oltre 1.000 paia, il trasporto marittimo risparmia significativamente — 20-35 giorni, $1-3/kg. Molti brand usano il trasporto aereo per il primo ordine urgente e poi passano al marittimo per i riordini." } },
-          { "@type": "Question", "name": "Di quali documenti ho bisogno per importare occhiali dalla Cina?", "acceptedAnswer": { "@type": "Answer", "text": "I documenti essenziali includono: fattura commerciale, packing list, polizza di carico (B/L) o lettera di vettura aerea (AWB), certificato di origine, certificato UV400, documentazione di conformità FDA (per gli USA) o marcatura CE (per l'UE). La tua fabbrica dovrebbe fornire la maggior parte di questi — se non lo fa, è un segnale d'allarme." } }
+          { "@type": "Question", "name": "È meglio la spedizione aerea o marittima per gli occhiali?", "acceptedAnswer": { "@type": "Answer", "text": "Per ordini sotto 500 paia, il trasporto aereo è generalmente più sensato -- 5-7 giorni, $3-8/kg. Per ordini oltre 1.000 paia, il trasporto marittimo risparmia significativamente -- 20-35 giorni, $1-3/kg. Molti brand usano il trasporto aereo per il primo ordine urgente e poi passano al marittimo per i riordini." } },
+          { "@type": "Question", "name": "Di quali documenti ho bisogno per importare occhiali dalla Cina?", "acceptedAnswer": { "@type": "Answer", "text": "I documenti essenziali includono: fattura commerciale, packing list, polizza di carico (B/L) o lettera di vettura aerea (AWB), certificato di origine, certificato UV400, documentazione di conformità FDA (per gli USA) o marcatura CE (per l'UE). La tua fabbrica dovrebbe fornire la maggior parte di questi -- se non lo fa, è un segnale d'allarme." } }
         ] })}} />
 
         <header className="mb-12">
@@ -27,7 +27,7 @@ export default function GuidaImportazioneOcchialiPage() {
             <span>14 min di lettura</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Come Importare Occhiali da Sole dalla Cina: Guida Completa 2026</h1>
-          <p className="text-xl text-gray-600">Come proprietario di una fabbrica cinese di occhiali da sole, ti mostro esattamente come funziona il processo di importazione — dalla fabbrica alla tua porta. Senza sorprese, senza costi nascosti.</p>
+          <p className="text-xl text-gray-600">Come proprietario di una fabbrica cinese di occhiali da sole, ti mostro esattamente come funziona il processo di importazione -- dalla fabbrica alla tua porta. Senza sorprese, senza costi nascosti.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
             <div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Fondatore, EyeView Sunglasses</div></div>
@@ -48,11 +48,11 @@ export default function GuidaImportazioneOcchialiPage() {
         </nav>
 
         <div className="prose prose-lg max-w-none">
-          <p className="text-xl text-gray-600 mb-8">La Cina produce oltre il 70% degli occhiali da sole del mondo. C&apos;è un motivo — combinazione imbattibile di qualità, costo e capacità produttiva. Ma importare dalla Cina per la prima volta può sembrare scoraggiante. Questa guida elimina il mistero.</p>
+          <p className="text-xl text-gray-600 mb-8">La Cina produce oltre il 70% degli occhiali da sole del mondo. C&apos;è un motivo -- combinazione imbattibile di qualità, costo e capacità produttiva. Ma importare dalla Cina per la prima volta può sembrare scoraggiante. Questa guida elimina il mistero.</p>
 
           <h2 id="perche-cina" className="text-3xl font-bold mt-16 mb-6">Perché la Cina Domina la Produzione di Occhiali</h2>
-          <p>Tre motivi principali: <strong>infrastruttura</strong> — decenni di investimento in macchinari specializzati per l&apos;eyewear; <strong>catena di fornitura</strong> — tutti i componenti (acetato, cerniere, lenti, packaging) sono disponibili localmente; <strong>scala</strong> — volume di produzione che mantiene i costi unitari bassi anche per ordini relativamente piccoli.</p>
-          <p>Le principali regioni produttive sono Shenzhen/Dongguan (Guangdong) per la produzione di massa, Wenzhou (Zhejiang) per le montature in metallo, e Danyang (Jiangsu) per le lenti. La nostra fabbrica è a Shenzhen — nel cuore del distretto produttivo dell&apos;eyewear.</p>
+          <p>Tre motivi principali: <strong>infrastruttura</strong> -- decenni di investimento in macchinari specializzati per l&apos;eyewear; <strong>catena di fornitura</strong> -- tutti i componenti (acetato, cerniere, lenti, packaging) sono disponibili localmente; <strong>scala</strong> -- volume di produzione che mantiene i costi unitari bassi anche per ordini relativamente piccoli.</p>
+          <p>Le principali regioni produttive sono Shenzhen/Dongguan (Guangdong) per la produzione di massa, Wenzhou (Zhejiang) per le montature in metallo, e Danyang (Jiangsu) per le lenti. La nostra fabbrica è a Shenzhen -- nel cuore del distretto produttivo dell&apos;eyewear.</p>
 
           <h2 id="processo" className="text-3xl font-bold mt-16 mb-6">Il Processo di Importazione Passo per Passo</h2>
           <ol>

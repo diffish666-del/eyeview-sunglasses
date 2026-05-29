@@ -18,7 +18,7 @@ export const metadata: Metadata = {
 const catEyeFaqs = [
   {
     question: '¿Qué formas de rostro van bien con las gafas ojo de gato?',
-    answer: 'Casi todas, sinceramente. El ojo de gato es una de las formas más favorecedoras que existen. ¿Rostro ovalado? Perfecto. ¿Rostro redondo? Los ángulos elevados añaden definición — queda genial. ¿Forma de corazón? Combinación ideal. ¿Rostro cuadrado? Elige un ojo de gato más suave y redondeado para equilibrar los ángulos. La única forma de rostro que puede ser complicada es la muy alargada/estrecha, donde un ojo de gato oversized puede resultar excesivo. Pero incluso ahí, un ojo de gato petite funciona bien.',
+    answer: 'Casi todas, sinceramente. El ojo de gato es una de las formas más favorecedoras que existen. ¿Rostro ovalado? Perfecto. ¿Rostro redondo? Los ángulos elevados añaden definición -- queda genial. ¿Forma de corazón? Combinación ideal. ¿Rostro cuadrado? Elige un ojo de gato más suave y redondeado para equilibrar los ángulos. La única forma de rostro que puede ser complicada es la muy alargada/estrecha, donde un ojo de gato oversized puede resultar excesivo. Pero incluso ahí, un ojo de gato petite funciona bien.',
   },
   {
     question: '¿Cuál es el MOQ para gafas ojo de gato con marca personalizada?',
@@ -26,7 +26,7 @@ const catEyeFaqs = [
   },
   {
     question: '¿Se pueden hacer graduadas estas monturas?',
-    answer: '¡Sí! Todas nuestras monturas ojo de gato de acetato y metal se pueden enviar con lentes de muestra para que las ópticas coloquen lentes graduadas. Acomodamos prescripciones monofocales, bifocales y progresivas. La profundidad de la montura y la curvatura de la lente están diseñadas para ello. Es un excelente upsell para ópticas — monturas de moda con capacidad de graduación.',
+    answer: '¡Sí! Todas nuestras monturas ojo de gato de acetato y metal se pueden enviar con lentes de muestra para que las ópticas coloquen lentes graduadas. Acomodamos prescripciones monofocales, bifocales y progresivas. La profundidad de la montura y la curvatura de la lente están diseñadas para ello. Es un excelente upsell para ópticas -- monturas de moda con capacidad de graduación.',
   },
   {
     question: '¿Qué tendencias hay en ojo de gato para 2024-2025?',
@@ -34,7 +34,7 @@ const catEyeFaqs = [
   },
   {
     question: '¿Puedo obtener muestras antes de comprometerme con un pedido grande?',
-    answer: 'Por supuesto — nunca esperaríamos que pidas a ciegas. ¿Estilos existentes del catálogo? Muestras gratis, solo cubres el envío (normalmente $30-50 vía DHL por 3-5 pares). ¿Quieres una muestra personalizada con tus modificaciones específicas? Pequeño cargo de $50-100 por diseño, que acreditamos contra tu primer pedido de producción. Así que básicamente obtienes muestras personalizadas gratis si haces pedido. El plazo es de 7-10 días.',
+    answer: 'Por supuesto -- nunca esperaríamos que pidas a ciegas. ¿Estilos existentes del catálogo? Muestras gratis, solo cubres el envío (normalmente $30-50 vía DHL por 3-5 pares). ¿Quieres una muestra personalizada con tus modificaciones específicas? Pequeño cargo de $50-100 por diseño, que acreditamos contra tu primer pedido de producción. Así que básicamente obtienes muestras personalizadas gratis si haces pedido. El plazo es de 7-10 días.',
   },
 ]
 
@@ -44,28 +44,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 uds',
-    description: 'La que toda colección necesita. Acetato negro, bisagras pulidas, ese ángulo elevado perfecto. Es el equivalente en gafas de sol del vestido negro pequeño — funciona con todo, se vende a todas. Es consistentemente nuestro número 1 en repetición de pedidos en todos los mercados.',
+    description: 'La que toda colección necesita. Acetato negro, bisagras pulidas, ese ángulo elevado perfecto. Es el equivalente en gafas de sol del vestido negro pequeño -- funciona con todo, se vende a todas. Es consistentemente nuestro número 1 en repetición de pedidos en todos los mercados.',
   },
   {
     name: 'Ojo de Gato Leopardo',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 uds',
-    description: 'Animal print bien hecho. El patrón carey no está pintado — se crea superponiendo láminas de acetato de diferentes colores, así cada par tiene genuina profundidad y riqueza. Una dueña de boutique en Melbourne nos dijo que estas superan en ventas a los colores sólidos 2 a 1 durante la primavera.',
+    description: 'Animal print bien hecho. El patrón carey no está pintado -- se crea superponiendo láminas de acetato de diferentes colores, así cada par tiene genuina profundidad y riqueza. Una dueña de boutique en Melbourne nos dijo que estas superan en ventas a los colores sólidos 2 a 1 durante la primavera.',
   },
   {
     name: 'Ojo de Gato Metal Oro Rosa',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$10.00 - $14.00',
     moq: '100 uds',
-    description: 'Montura metálica fina con electrochapado oro rosa que parece que debería costar $200. No es así. La construcción de alambre delgado da una versión moderna y refinada del ojo de gato — perfecta para la mujer profesional que quiere estilo sin gritar. Combina de maravilla tanto con blazers como con vestidos de playa.',
+    description: 'Montura metálica fina con electrochapado oro rosa que parece que debería costar $200. No es así. La construcción de alambre delgado da una versión moderna y refinada del ojo de gato -- perfecta para la mujer profesional que quiere estilo sin gritar. Combina de maravilla tanto con blazers como con vestidos de playa.',
   },
   {
     name: 'Ojo de Gato Oversized',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$9.50 - $13.50',
     moq: '100 uds',
-    description: 'A lo grande o a casa. El ojo de gato oversized es básicamente cebo para Instagram — proporciones atrevidas, puntas dramáticamente elevadas, máxima cobertura facial. Un retailer online nos dijo que este estilo recibe más comentarios de "¿dónde las compraste?" que cualquier otra cosa en su tienda. También ofrece excelente protección UV, lo cual es un buen bonus.',
+    description: 'A lo grande o a casa. El ojo de gato oversized es básicamente cebo para Instagram -- proporciones atrevidas, puntas dramáticamente elevadas, máxima cobertura facial. Un retailer online nos dijo que este estilo recibe más comentarios de "¿dónde las compraste?" que cualquier otra cosa en su tienda. También ofrece excelente protección UV, lo cual es un buen bonus.',
   },
   {
     name: 'Ojo de Gato con Cristales',
@@ -79,7 +79,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 uds',
-    description: 'Directo de 1958. Estrechas, con ángulos pronunciados, con patillas gruesas de acetato que dicen "conozco mi historia de la moda." Son más pequeñas que la tendencia oversized — intencionalmente. Las coleccionistas y entusiastas del vintage se las llevan volando. Si tu mercado es retro, rockabilly o pin-up, esta es tu montura.',
+    description: 'Directo de 1958. Estrechas, con ángulos pronunciados, con patillas gruesas de acetato que dicen "conozco mi historia de la moda." Son más pequeñas que la tendencia oversized -- intencionalmente. Las coleccionistas y entusiastas del vintage se las llevan volando. Si tu mercado es retro, rockabilly o pin-up, esta es tu montura.',
   },
 ]
 
@@ -116,10 +116,10 @@ export default function OjoDeGatoPage() {
               Gafas de Sol Ojo de Gato al por Mayor
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              El ojo de gato nunca pasa de moda. En serio — Audrey Hepburn las llevó en los
+              El ojo de gato nunca pasa de moda. En serio -- Audrey Hepburn las llevó en los
               &apos;60 y siguen siendo la forma #1 en gafas de sol para mujer hoy. Fabricamos
               monturas ojo de gato en acetato, metal y materiales mixtos con personalización OEM completa.
-              Tu logo, tus colores, tu marca — nuestra fábrica.
+              Tu logo, tus colores, tu marca -- nuestra fábrica.
             </p>
           </div>
 
@@ -139,7 +139,7 @@ export default function OjoDeGatoPage() {
               <p>
                 Aquí va un dato que sorprende a la gente: la forma ojo de gato ha sido la silueta
                 de gafas de sol femeninas más vendida durante más de 70 años. No la aviador. No la
-                wayfarer. El ojo de gato. ¿Por qué? Porque hace algo que ninguna otra forma puede — eleva.
+                wayfarer. El ojo de gato. ¿Por qué? Porque hace algo que ninguna otra forma puede -- eleva.
                 Ese ángulo ascendente crea la ilusión de pómulos más altos y una mandíbula más definida.
                 Es básicamente un mini lifting que puedes comprar por $15.
               </p>
@@ -147,13 +147,13 @@ export default function OjoDeGatoPage() {
                 La forma fue inventada en 1939 por una diseñadora neoyorquina llamada Altina Schinasi que estaba
                 cansada de las gafas &quot;feas&quot;. Las llamó monturas &quot;Arlequín&quot;. Marilyn Monroe
                 las hizo famosas. Audrey Hepburn las hizo icónicas. Y ahora, en 2024, son más grandes
-                que nunca — literalmente. El ojo de gato oversized domina Instagram, TikTok y
+                que nunca -- literalmente. El ojo de gato oversized domina Instagram, TikTok y
                 todas las semanas de la moda desde Milán hasta Seúl.
               </p>
               <p>
                 Para compradores al por mayor, las gafas de sol ojo de gato son lo más parecido a una
                 apuesta segura en gafas. Atraen a todos los grupos de edad (20-60+), funcionan todo el año y tienen
-                un fuerte valor percibido. Todas nuestras monturas ojo de gato cumplen con los <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">estándares de protección UV de la FDA</a> —
+                un fuerte valor percibido. Todas nuestras monturas ojo de gato cumplen con los <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">estándares de protección UV de la FDA</a> --
                 porque verse genial no debería significar comprometer la seguridad ocular. Nuestra fábrica
                 produce más de 200.000 monturas ojo de gato al mes en más de 40 países. Conocemos esta
                 forma por dentro y por fuera.
@@ -197,19 +197,19 @@ export default function OjoDeGatoPage() {
 
           {/* Material Guide */}
           <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-            <h2 className="text-3xl font-bold text-center mb-8">Acetato vs. Metal vs. Mixto — ¿Cuál Es el Adecuado?</h2>
+            <h2 className="text-3xl font-bold text-center mb-8">Acetato vs. Metal vs. Mixto -- ¿Cuál Es el Adecuado?</h2>
             <div className="grid md:grid-cols-3 gap-8">
               <div className="bg-white rounded-xl p-6 shadow-sm">
                 <h3 className="text-xl font-semibold mb-4">🏛️ Acetato</h3>
                 <p className="text-gray-700 mb-4 leading-relaxed">
                   Si quieres cobrar precios retail premium, elige acetato. Está hecho de <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">algodón
                   y pulpa de madera</a> (sí, de verdad), y los colores y patrones que se pueden conseguir son
-                  increíbles — carey profundo, remolinos de mármol, tonos caramelo translúcidos. Cada par
+                  increíbles -- carey profundo, remolinos de mármol, tonos caramelo translúcidos. Cada par
                   se pule a mano para ese acabado brillante. El acetato <em>se siente</em> caro. Tus
                   clientas lo notarán. También es hipoalergénico, así que no habrá quejas por reacciones en la piel.
                 </p>
                 <ul className="space-y-1 text-sm text-gray-600">
-                  <li>• Colores ricos — carey, mármol, degradado</li>
+                  <li>• Colores ricos -- carey, mármol, degradado</li>
                   <li>• Acabado premium pulido a mano</li>
                   <li>• Hipoalergénico, eco-friendly</li>
                   <li>• Ideal para: boutiques, posicionamiento de lujo</li>
@@ -219,10 +219,10 @@ export default function OjoDeGatoPage() {
                 <h3 className="text-xl font-semibold mb-4">⚙️ Metal</h3>
                 <p className="text-gray-700 mb-4 leading-relaxed">
                   Finas, elegantes, modernas. Las ojo de gato metálicas usan acero inoxidable o aleación libre de níquel con
-                  acabados electrochapados — dorado, plateado, oro rosa, negro mate. El perfil delgado
+                  acabados electrochapados -- dorado, plateado, oro rosa, negro mate. El perfil delgado
                   crea un look refinado que el acetato no puede igualar. Son las monturas para mujeres
                   que quieren que sus gafas susurren, no griten. Geniales para líneas profesionales y de oficina.
-                  Más ligeras que el acetato también — la mayoría pesan menos de 22 gramos.
+                  Más ligeras que el acetato también -- la mayoría pesan menos de 22 gramos.
                 </p>
                 <ul className="space-y-1 text-sm text-gray-600">
                   <li>• Finas, elegantes, ligeras (menos de 22g)</li>
@@ -234,7 +234,7 @@ export default function OjoDeGatoPage() {
               <div className="bg-white rounded-xl p-6 shadow-sm">
                 <h3 className="text-xl font-semibold mb-4">🔗 Material Mixto</h3>
                 <p className="text-gray-700 mb-4 leading-relaxed">
-                  Lo mejor de ambos mundos. Frente de acetato con patillas finas de metal — o viceversa.
+                  Lo mejor de ambos mundos. Frente de acetato con patillas finas de metal -- o viceversa.
                   El contraste de dos materiales está en plena tendencia ahora mismo. Piensa: frente de
                   acetato rosa transparente con patillas finas doradas. O acetato negro con patillas de alambre plateado.
                   Son las monturas que hacen que la gente pare y pregunte &quot;¿dónde las conseguiste?&quot;
@@ -270,7 +270,7 @@ export default function OjoDeGatoPage() {
                     <ColorTrend color="bg-black" name="Negro Clásico" description="30-35% de todos los pedidos de ojo de gato. Siempre. Cada. Temporada. Tenlo en stock o arrepiéntete." />
                     <ColorTrend color="bg-amber-700" name="Carey" description="El #2 en ventas. Los marrones multitono funcionan todo el año, con todo el mundo, en todas partes." />
                     <ColorTrend color="bg-yellow-600" name="Metal Dorado" description="Esencial para cualquier línea de lujo o profesional. Las ojo de gato doradas gritan sofisticación." />
-                    <ColorTrend color="bg-gray-400" name="Degradado Bicolor" description="Monturas que se degradan de un color a otro — negro a transparente, rosa a melocotón. Muy Instagram." />
+                    <ColorTrend color="bg-gray-400" name="Degradado Bicolor" description="Monturas que se degradan de un color a otro -- negro a transparente, rosa a melocotón. Muy Instagram." />
                   </div>
                 </div>
               </div>
@@ -321,7 +321,7 @@ export default function OjoDeGatoPage() {
               <Link href="/es/productos/ninos" className="card p-6 text-center hover:shadow-lg transition-shadow">
                 <div className="text-4xl mb-3">👧</div>
                 <h3 className="font-semibold mb-2">Ojo de Gato Infantil</h3>
-                <p className="text-sm text-gray-600">Mini ojo de gato para niñas — se venden solas</p>
+                <p className="text-sm text-gray-600">Mini ojo de gato para niñas -- se venden solas</p>
               </Link>
             </div>
           </section>
@@ -343,7 +343,7 @@ export default function OjoDeGatoPage() {
           <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
             <h2 className="text-3xl font-bold mb-4">¿Lista para Vender la Forma que Se Vende Sola?</h2>
             <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-              Boutiques, tiendas online, distribuidores de marcas — trabajamos con todos ellos. Nuestro
+              Boutiques, tiendas online, distribuidores de marcas -- trabajamos con todos ellos. Nuestro
               programa mayorista de ojo de gato para mujer te ofrece precios competitivos, producción rápida
               y personalización completa. Pide un catálogo gratis y descubre lo que es posible.
             </p>

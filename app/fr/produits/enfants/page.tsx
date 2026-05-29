@@ -20,28 +20,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$5.50 - $8.50',
     moq: '100 pcs',
-    description: 'Soyons honnêtes — les bébés mâchent tout. C\u2019est pourquoi ces montures sont fabriquées en silicone alimentaire, le même matériau que les tétines de biberons. Vous pourriez littéralement les mettre dans votre bouche (votre bébé le fera). Entièrement sans BPA, sans phtalates, et assez souples pour ne pas piquer ni pincer. La sangle ajustable les maintient en place même quand votre petit est déterminé à les arracher. Ce qu\u2019il fera. À répétition.',
+    description: 'Soyons honnêtes -- les bébés mâchent tout. C\u2019est pourquoi ces montures sont fabriquées en silicone alimentaire, le même matériau que les tétines de biberons. Vous pourriez littéralement les mettre dans votre bouche (votre bébé le fera). Entièrement sans BPA, sans phtalates, et assez souples pour ne pas piquer ni pincer. La sangle ajustable les maintient en place même quand votre petit est déterminé à les arracher. Ce qu\u2019il fera. À répétition.',
   },
   {
     name: 'Lunettes Tout-Petits (3-5 ans)',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$6.00 - $9.00',
     moq: '100 pcs',
-    description: 'Vous savez ce qui arrive aux lunettes de soleil des tout-petits ? Elles sont écrasées, piétinées, lancées à travers la pièce et enterrées dans le bac à sable. C\u2019est pourquoi nous les fabriquons en TPE — un matériau flexible qui se plie, se tord et subit toutes sortes de mauvais traitements, puis reprend sa forme d\u2019origine. Disponibles en plus de 15 couleurs parce qu\u2019apparemment chaque enfant de 4 ans a un avis très tranché sur sa couleur préférée. (C\u2019est généralement le rose. Ou le vert dinosaure.)',
+    description: 'Vous savez ce qui arrive aux lunettes de soleil des tout-petits ? Elles sont écrasées, piétinées, lancées à travers la pièce et enterrées dans le bac à sable. C\u2019est pourquoi nous les fabriquons en TPE -- un matériau flexible qui se plie, se tord et subit toutes sortes de mauvais traitements, puis reprend sa forme d\u2019origine. Disponibles en plus de 15 couleurs parce qu\u2019apparemment chaque enfant de 4 ans a un avis très tranché sur sa couleur préférée. (C\u2019est généralement le rose. Ou le vert dinosaure.)',
   },
   {
     name: 'Lunettes Sport Enfants (6-9 ans)',
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$7.00 - $10.00',
     moq: '100 pcs',
-    description: 'Pour l\u2019enfant qui est toujours dehors — entraînement de foot, cours de natation, balades à vélo dans le quartier. Ce sont des versions réduites de nos montures sport adultes avec des montures flexibles TR90 et une couverture enveloppante. Option polarisée disponible pour les sorties plage et les jours de neige. Une ligue sportive jeunesse en Californie a commandé 800 paires l\u2019an dernier pour leur programme d\u2019été. Leur retour : « Enfin, des lunettes de sport qui vont vraiment aux enfants. »',
+    description: 'Pour l\u2019enfant qui est toujours dehors -- entraînement de foot, cours de natation, balades à vélo dans le quartier. Ce sont des versions réduites de nos montures sport adultes avec des montures flexibles TR90 et une couverture enveloppante. Option polarisée disponible pour les sorties plage et les jours de neige. Une ligue sportive jeunesse en Californie a commandé 800 paires l\u2019an dernier pour leur programme d\u2019été. Leur retour : « Enfin, des lunettes de sport qui vont vraiment aux enfants. »',
   },
   {
     name: 'Œil de Chat Mode Fille (6-10 ans)',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$7.00 - $10.00',
     moq: '100 pcs',
-    description: 'Mini œil de chat pour les filles qui veulent ressembler à Maman (ou à leur YouTubeuse préférée). Accents scintillants, couleurs pastel, décorations en cœur sur les branches — tout ce qui fait dire à une fille de 7 ans « JE LES ADORE ! ». Mêmes normes de sécurité que toutes nos montures enfants, juste avec beaucoup plus de paillettes. Ce sont des stars absolues dans les boutiques enfants et les magasins de resorts balnéaires.',
+    description: 'Mini œil de chat pour les filles qui veulent ressembler à Maman (ou à leur YouTubeuse préférée). Accents scintillants, couleurs pastel, décorations en cœur sur les branches -- tout ce qui fait dire à une fille de 7 ans « JE LES ADORE ! ». Mêmes normes de sécurité que toutes nos montures enfants, juste avec beaucoup plus de paillettes. Ce sont des stars absolues dans les boutiques enfants et les magasins de resorts balnéaires.',
   },
   {
     name: 'Aviateur Garçon (8-12 ans)',
@@ -55,7 +55,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 pcs',
-    description: 'Pour les jeunes athlètes qui prennent leur sport au sérieux. Les verres polarisés TAC coupent l\u2019éblouissement de l\u2019eau, de la neige et du bitume — une vraie différence pour les enfants qui nagent, skient ou pêchent avec papa. Ce sont nos montures premium pour enfants et celles que les parents demandent spécifiquement quand ils veulent la meilleure protection que l\u2019argent puisse offrir. Une école de natation à Sydney les utilise exclusivement pour ses cours en plein air.',
+    description: 'Pour les jeunes athlètes qui prennent leur sport au sérieux. Les verres polarisés TAC coupent l\u2019éblouissement de l\u2019eau, de la neige et du bitume -- une vraie différence pour les enfants qui nagent, skient ou pêchent avec papa. Ce sont nos montures premium pour enfants et celles que les parents demandent spécifiquement quand ils veulent la meilleure protection que l\u2019argent puisse offrir. Une école de natation à Sydney les utilise exclusivement pour ses cours en plein air.',
   },
 ]
 
@@ -81,7 +81,7 @@ export default function KidsPageFr() {
             Les parents ne plaisantent pas quand il s&apos;agit des yeux de leurs enfants. Nous non plus.
             Chaque paire est sans BPA, certifiée UV400 et conforme aux normes de sécurité CPSIA, ASTM F963 et EN71.
             Montures flexibles qui survivent au chaos des tout-petits. Protection UV réelle
-            — pas juste du plastique teinté. Âges 0-12, à partir de 5,50 $.
+            -- pas juste du plastique teinté. Âges 0-12, à partir de 5,50 $.
           </p>
         </div>
 
@@ -103,7 +103,7 @@ export default function KidsPageFr() {
               l&apos;âge de 10 ans, le cristallin d&apos;un enfant transmet plus de 75 % des rayons UV-A et 70 % des rayons UV-B directement
               sur la rétine. Le cristallin d&apos;un adulte ? Seulement environ 10 %. Cela signifie que les yeux de votre enfant
               absorbent environ 6 à 7 fois plus de dommages UV le même jour ensoleillé. Et voici le
-              plus inquiétant — l&apos;<a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">OMS indique que jusqu&apos;à 80 %</a> de l&apos;exposition UV à vie d&apos;une personne se produit
+              plus inquiétant -- l&apos;<a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">OMS indique que jusqu&apos;à 80 %</a> de l&apos;exposition UV à vie d&apos;une personne se produit
               avant 18 ans.
             </p>
             <p>
@@ -114,7 +114,7 @@ export default function KidsPageFr() {
             </p>
             <p>
               C&apos;est exactement pourquoi nous prenons les lunettes pour enfants si au sérieux. Chaque paire que nous
-              fabriquons est testée en laboratoire pour la conformité UV400 — ce qui signifie qu&apos;elles bloquent 99,9 % du
+              fabriquons est testée en laboratoire pour la conformité UV400 -- ce qui signifie qu&apos;elles bloquent 99,9 % du
               rayonnement UV jusqu&apos;à 400 nanomètres. Nous fournissons les rapports de test. Nous avons les
               certifications. Quand un parent prend une paire de nos lunettes pour enfants, il
               peut avoir confiance que les yeux de son enfant sont réellement protégés. Pas juste ombragés.
@@ -167,7 +167,7 @@ export default function KidsPageFr() {
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🇺🇸</div>
               <h3 className="font-bold mb-2">CPSIA</h3>
-              <p className="text-sm text-gray-600">La norme la plus importante pour le marché américain. Plomb en dessous de 100 ppm, zéro phtalates. Si vous vendez des produits pour enfants en Amérique, <a href="https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">ce n&apos;est pas optionnel — c&apos;est la loi</a>. C&apos;est couvert.</p>
+              <p className="text-sm text-gray-600">La norme la plus importante pour le marché américain. Plomb en dessous de 100 ppm, zéro phtalates. Si vous vendez des produits pour enfants en Amérique, <a href="https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">ce n&apos;est pas optionnel -- c&apos;est la loi</a>. C&apos;est couvert.</p>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🇺🇸</div>
@@ -182,7 +182,7 @@ export default function KidsPageFr() {
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🌍</div>
               <h3 className="font-bold mb-2">CE et FDA</h3>
-              <p className="text-sm text-gray-600">CE pour l&apos;Europe, FDA pour le marché optique américain. Les deux vérifient que nos déclarations de protection UV sont réelles — pas juste des autocollants marketing sur des montures bon marché.</p>
+              <p className="text-sm text-gray-600">CE pour l&apos;Europe, FDA pour le marché optique américain. Les deux vérifient que nos déclarations de protection UV sont réelles -- pas juste des autocollants marketing sur des montures bon marché.</p>
             </div>
           </div>
         </section>
@@ -195,7 +195,7 @@ export default function KidsPageFr() {
               <h3 className="text-xl font-semibold mb-4">🍼 Silicone alimentaire (0-3 ans)</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Le même matériau que les tétines de biberons et les anneaux de dentition. Si c&apos;est assez sûr pour
-                aller dans la bouche d&apos;un bébé — et ça ira dans sa bouche, c&apos;est garanti — c&apos;est assez sûr
+                aller dans la bouche d&apos;un bébé -- et ça ira dans sa bouche, c&apos;est garanti -- c&apos;est assez sûr
                 pour des lunettes. Infiniment pliables, incroyablement souples, sans BPA, sans phtalates,
                 sans PVC, sans latex. N&apos;irritent pas la peau sensible du bébé. Nous avons conçu celles-ci
                 pour le parent qui s&apos;inquiète de tout. (On comprend. Nous sommes parents aussi.)
@@ -217,7 +217,7 @@ export default function KidsPageFr() {
                 Pour les enfants plus grands qui font du sport, du vélo et qui sont généralement
                 durs avec tout ce qu&apos;ils possèdent. Le TR90 est 35 % plus léger que le plastique ordinaire,
                 fléchit sans casser et supporte des températures de -40 °C à 120 °C (donc
-                oui, il survit à un oubli dans une voiture en plein soleil). Hypoallergénique aussi — pas de marques rouges
+                oui, il survit à un oubli dans une voiture en plein soleil). Hypoallergénique aussi -- pas de marques rouges
                 qui grattent derrière les oreilles après une longue journée dehors.
               </p>
             </div>
@@ -267,7 +267,7 @@ export default function KidsPageFr() {
             <Link href="/fr/produits/sport" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🏃</div>
               <h3 className="font-semibold mb-2">Lunettes Sport</h3>
-              <p className="text-sm text-gray-600">Montures sport adultes — parents et enfants peuvent être assortis !</p>
+              <p className="text-sm text-gray-600">Montures sport adultes -- parents et enfants peuvent être assortis !</p>
             </Link>
             <Link href="/fr/produits/polarise" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🔆</div>
@@ -288,27 +288,27 @@ export default function KidsPageFr() {
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="À partir de quel âge peut-on mettre des lunettes de soleil ?"
-              answer="L&apos;Académie américaine d&apos;ophtalmologie recommande à partir de 6 mois. Avant cela, gardez les bébés à l&apos;ombre avec des chapeaux et des pare-soleil de poussette. Mais dès 6 mois et du temps passé en extérieur, leurs yeux ont besoin de protection UV. Nous savons que ça semble tôt — mais rappelez-vous, leurs petits yeux laissent passer 6 à 7 fois plus d&apos;UV que les vôtres. Plus tôt on commence, mieux c&apos;est."
+              answer="L&apos;Académie américaine d&apos;ophtalmologie recommande à partir de 6 mois. Avant cela, gardez les bébés à l&apos;ombre avec des chapeaux et des pare-soleil de poussette. Mais dès 6 mois et du temps passé en extérieur, leurs yeux ont besoin de protection UV. Nous savons que ça semble tôt -- mais rappelez-vous, leurs petits yeux laissent passer 6 à 7 fois plus d&apos;UV que les vôtres. Plus tôt on commence, mieux c&apos;est."
             />
             <FaqItem
               question="Ces lunettes protègent-elles vraiment ou sont-elles juste jolies ?"
-              answer="Les deux ! Mais la protection passe en premier. Chaque paire bloque 99,9 % du rayonnement UV jusqu&apos;à 400 nanomètres — vérifié par des tests de laboratoire indépendants. Nous vous enverrons les rapports de test si vous le souhaitez. Méfiez-vous des lunettes enfants bon marché qui ne sont que du plastique teinté foncé sans filtre UV. Celles-ci aggravent en fait les choses en dilatant les pupilles et en laissant entrer plus de rayons nocifs. Nos lunettes sont jolies ET sûres."
+              answer="Les deux ! Mais la protection passe en premier. Chaque paire bloque 99,9 % du rayonnement UV jusqu&apos;à 400 nanomètres -- vérifié par des tests de laboratoire indépendants. Nous vous enverrons les rapports de test si vous le souhaitez. Méfiez-vous des lunettes enfants bon marché qui ne sont que du plastique teinté foncé sans filtre UV. Celles-ci aggravent en fait les choses en dilatant les pupilles et en laissant entrer plus de rayons nocifs. Nos lunettes sont jolies ET sûres."
             />
             <FaqItem
               question="Mon enfant détruit tout. Celles-ci vont-elles survivre ?"
-              answer="C&apos;est littéralement pour cela que nous les avons conçues. Les montures en silicone bébé ? Infiniment pliables. Les montures TPE pour tout-petits ? Nous les avons testées pour survivre à plus de 500 cycles de flexion et des chutes de 1,5 mètre. Les montures TR90 pour les plus grands ? Pliez-les à 90 degrés — elles reprennent leur forme immédiatement. Nous ne pouvons pas promettre qu&apos;elles sont 100 % indestructibles (les enfants sont créatifs), mais ce sont les montures les plus résistantes que nous savons fabriquer."
+              answer="C&apos;est littéralement pour cela que nous les avons conçues. Les montures en silicone bébé ? Infiniment pliables. Les montures TPE pour tout-petits ? Nous les avons testées pour survivre à plus de 500 cycles de flexion et des chutes de 1,5 mètre. Les montures TR90 pour les plus grands ? Pliez-les à 90 degrés -- elles reprennent leur forme immédiatement. Nous ne pouvons pas promettre qu&apos;elles sont 100 % indestructibles (les enfants sont créatifs), mais ce sont les montures les plus résistantes que nous savons fabriquer."
             />
             <FaqItem
               question="Quelles certifications ont-elles ? J&apos;ai besoin de savoir pour ma boutique."
-              answer="Tout ce dont vous avez besoin : CPSIA (obligatoire pour les produits pour enfants aux États-Unis — plomb sous 100 ppm, zéro phtalates), ASTM F963 (sécurité des jouets US), EN71 (sécurité des jouets UE), marquage CE et normes optiques FDA. Nous fournissons les documents de certification complets avec chaque commande en gros. Si la douane pose des questions, vous aurez la documentation prête."
+              answer="Tout ce dont vous avez besoin : CPSIA (obligatoire pour les produits pour enfants aux États-Unis -- plomb sous 100 ppm, zéro phtalates), ASTM F963 (sécurité des jouets US), EN71 (sécurité des jouets UE), marquage CE et normes optiques FDA. Nous fournissons les documents de certification complets avec chaque commande en gros. Si la douane pose des questions, vous aurez la documentation prête."
             />
             <FaqItem
               question="Puis-je personnaliser avec notre marque ou des personnages de dessins animés ?"
-              answer="Tout à fait. Couleurs personnalisées (20+ standards plus correspondance Pantone), designs de personnages sur les branches, votre logo de marque, montures infusées de paillettes, branches phosphorescentes — vous n&apos;avez qu&apos;à demander. Le MOQ pour les designs personnalisés est de 300 pièces par style. Nous avons fait des collaborations de personnages sous licence, des designs de mascottes d&apos;école, et même des ensembles assortis parent-enfant. Envoyez-nous simplement votre idée et nous en ferons une maquette."
+              answer="Tout à fait. Couleurs personnalisées (20+ standards plus correspondance Pantone), designs de personnages sur les branches, votre logo de marque, montures infusées de paillettes, branches phosphorescentes -- vous n&apos;avez qu&apos;à demander. Le MOQ pour les designs personnalisés est de 300 pièces par style. Nous avons fait des collaborations de personnages sous licence, des designs de mascottes d&apos;école, et même des ensembles assortis parent-enfant. Envoyez-nous simplement votre idée et nous en ferons une maquette."
             />
             <FaqItem
               question="Les lunettes bébé sont-elles livrées avec des sangles ?"
-              answer="Oui — sangles en néoprène détachables et ajustables, réglables de 14 cm à 18 cm. Douces sur la peau de bébé, suffisamment sécurisées pour rester sur un bébé qui gigote. Pour les montures tout-petits (3-5 ans), nous proposons des attaches de sangle optionnelles qui se clipsent et se déclipsent. La plupart des parents utilisent la sangle jusqu&apos;à environ 3-4 ans, puis passent aux branches classiques une fois que l&apos;enfant est assez grand pour les garder."
+              answer="Oui -- sangles en néoprène détachables et ajustables, réglables de 14 cm à 18 cm. Douces sur la peau de bébé, suffisamment sécurisées pour rester sur un bébé qui gigote. Pour les montures tout-petits (3-5 ans), nous proposons des attaches de sangle optionnelles qui se clipsent et se déclipsent. La plupart des parents utilisent la sangle jusqu&apos;à environ 3-4 ans, puis passent aux branches classiques une fois que l&apos;enfant est assez grand pour les garder."
             />
           </div>
         </section>
@@ -318,7 +318,7 @@ export default function KidsPageFr() {
           <h2 className="text-3xl font-bold mb-4">Protégez les petits yeux. Gagnez la confiance des parents.</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
             Boutiques enfants, magasins de jouets, cabinets pédiatriques, colonies de vacances, resorts balnéaires,
-            magasins de fournitures scolaires — nos lunettes enfants se vendent partout où les parents font leurs achats. Documentation
+            magasins de fournitures scolaires -- nos lunettes enfants se vendent partout où les parents font leurs achats. Documentation
             de sécurité complète incluse. Échantillons gratuits disponibles.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -365,12 +365,12 @@ export default function KidsPageFr() {
           {
             "@type": "Question",
             "name": "Puis-je personnaliser les lunettes enfants avec des logos de marque ou des personnages ?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Oui — couleurs personnalisées, designs de personnages, logos de marque, montures pailletées, branches phosphorescentes. MOQ pour les designs personnalisés : 300 pièces par style." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Oui -- couleurs personnalisées, designs de personnages, logos de marque, montures pailletées, branches phosphorescentes. MOQ pour les designs personnalisés : 300 pièces par style." }
           },
           {
             "@type": "Question",
             "name": "Les lunettes bébé sont-elles livrées avec des sangles de tête ?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Oui — sangles en néoprène détachables et ajustables (14-18 cm). Les montures tout-petits ont des sangles optionnelles à clipser. La plupart des parents utilisent les sangles jusqu\u2019à 3-4 ans." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Oui -- sangles en néoprène détachables et ajustables (14-18 cm). Les montures tout-petits ont des sangles optionnelles à clipser. La plupart des parents utilisent les sangles jusqu\u2019à 3-4 ans." }
           }
         ]
       })}} />

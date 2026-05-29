@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Montature TR90 vs Acetato vs Metallo: La Guida Completa dell\'Acquirente 2026',
-  description: 'Un proprietario di fabbrica spiega le vere differenze tra montature TR90, acetato e metallo — durata, peso, costo, e quale materiale è giusto per il tuo marchio.',
+  description: 'Un proprietario di fabbrica spiega le vere differenze tra montature TR90, acetato e metallo -- durata, peso, costo, e quale materiale è giusto per il tuo marchio.',
   keywords: 'TR90 vs acetato vs metallo occhiali, materiali montature occhiali, montature TR90, montature acetato, montature metallo, occhiali leggeri, occhiali flessibili, montature occhiali ingrosso',
   alternates: {
     canonical: '/it/blog/montature-tr90-acetato-metallo',
@@ -27,7 +27,7 @@ export default function Page() {
           "dateModified": "2026-05-23",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un proprietario di fabbrica spiega le vere differenze tra montature TR90, acetato e metallo — durata, peso, costo, e quale materiale è giusto per il tuo marchio.",
+          "description": "Un proprietario di fabbrica spiega le vere differenze tra montature TR90, acetato e metallo -- durata, peso, costo, e quale materiale è giusto per il tuo marchio.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/montature-tr90-acetato-metallo" },
           "inLanguage": "it"
         })}} />
@@ -36,8 +36,8 @@ export default function Page() {
           "@context": "https://schema.org",
           "@type": "FAQPage",
           "mainEntity": [
-            { "@type": "Question", "name": "Quale materiale di montatura è più durevole?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 è il più durevole per resistenza agli urti e flessibilità — può piegarsi e tornare in forma senza rompersi. L'acetato è durevole per l'uso quotidiano ma può creparsi sotto stress estremo. Le montature in metallo sono forti ma possono deformarsi e sono più difficili da riparare. Per sport attivi o bambini, TR90 è il chiaro vincitore." } },
-            { "@type": "Question", "name": "Quale materiale di montatura è più leggero?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 è il più leggero — una montatura TR90 tipica pesa 15-20 grammi. Le montature in metallo sono le seguenti con 20-30 grammi a seconda della lega. L'acetato è il più pesante con 25-40 grammi perché è scolpito da blocchi solidi di materiale. Se il peso è la tua priorità, TR90 è la scelta migliore." } },
+            { "@type": "Question", "name": "Quale materiale di montatura è più durevole?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 è il più durevole per resistenza agli urti e flessibilità -- può piegarsi e tornare in forma senza rompersi. L'acetato è durevole per l'uso quotidiano ma può creparsi sotto stress estremo. Le montature in metallo sono forti ma possono deformarsi e sono più difficili da riparare. Per sport attivi o bambini, TR90 è il chiaro vincitore." } },
+            { "@type": "Question", "name": "Quale materiale di montatura è più leggero?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 è il più leggero -- una montatura TR90 tipica pesa 15-20 grammi. Le montature in metallo sono le seguenti con 20-30 grammi a seconda della lega. L'acetato è il più pesante con 25-40 grammi perché è scolpito da blocchi solidi di materiale. Se il peso è la tua priorità, TR90 è la scelta migliore." } },
             { "@type": "Question", "name": "Quale materiale di montatura è migliore per occhiali di moda?", "acceptedAnswer": { "@type": "Answer", "text": "L'acetato è lo standard d'oro per occhiali di moda. Può essere tagliato in forme audaci e spesse, lucidato ad alto brilho, e viene in centinaia di colori e motivi (tartarugato, marmo, sfumato, trasparente). Marchi di lusso come Tom Ford, Gucci e Prada usano quasi esclusivamente acetato." } },
             { "@type": "Question", "name": "Quanto costano diversi materiali di montatura all'ingrosso?", "acceptedAnswer": { "@type": "Answer", "text": "All'ingrosso in fabbrica: montature TR90 costano $3-8/paio a seconda della complessità. Montature in acetato costano $5-15/paio (acetato premium lucidato a mano può raggiungere $20+). Montature in metallo costano $4-12/paio a seconda della lega e rivestimento." } },
             { "@type": "Question", "name": "Le montature in metallo sono migliori per persone con allergie?", "acceptedAnswer": { "@type": "Answer", "text": "Dipende dal metallo. L'acciaio inossidabile e il titanio sono ipoallergenici e sicuri per pelle sensibile. Tuttavia, alcune leghe metalliche più economiche contengono nichel, che può causare reazioni allergiche. Se stai cercando montature in metallo per un marchio, specifica sempre leghe senza nichel." } }
@@ -88,9 +88,9 @@ export default function Page() {
             Quando cerchi occhiali da sole per il tuo marchio, stai essenzialmente scegliendo tra tre materiali di montatura:
           </p>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>TR90</strong> — Un termoplastico flessibile e ultraleggero dalla Svizzera (Gril TR90 è la versione premium)</li>
-            <li><strong>Acetato</strong> — Una plastica di origine vegetale scolpita e lucidata in forme audaci e premium</li>
-            <li><strong>Metallo</strong> — Montature in acciaio inossidabile, alluminio o titanio per un look classico ed elegante</li>
+            <li><strong>TR90</strong> -- Un termoplastico flessibile e ultraleggero dalla Svizzera (Gril TR90 è la versione premium)</li>
+            <li><strong>Acetato</strong> -- Una plastica di origine vegetale scolpita e lucidata in forme audaci e premium</li>
+            <li><strong>Metallo</strong> -- Montature in acciaio inossidabile, alluminio o titanio per un look classico ed elegante</li>
           </ul>
           <p className="text-gray-700 mb-4">
             Ognuno ha punti di forza e debolezza. Nessuno è il &quot;migliore&quot; in tutto. La scelta giusta dipende dal posizionamento del tuo marchio, il tuo cliente target e il tuo punto di prezzo.
@@ -107,12 +107,12 @@ export default function Page() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Caratteristiche Principali</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Peso:</strong> 15-20 grammi per montatura — l'opzione più leggera disponibile</li>
+            <li><strong>Peso:</strong> 15-20 grammi per montatura -- l'opzione più leggera disponibile</li>
             <li><strong>Flessibilità:</strong> Può piegarsi significativamente e tornare in forma senza rompersi</li>
-            <li><strong>Resistenza agli urti:</strong> Estremamente alta — sopravvive a cadute, sedute e pestate</li>
+            <li><strong>Resistenza agli urti:</strong> Estremamente alta -- sopravvive a cadute, sedute e pestate</li>
             <li><strong>Finitura superficiale:</strong> Opaco o semilucido, non può essere lucidato ad alto brillo come l'acetato</li>
-            <li><strong>Opzioni di colore:</strong> Limitate a colori stampati a iniezione — senza motivi tartarugato, marmo o a strati</li>
-            <li><strong>Ipoallergenico:</strong> Sì — sicuro per tutti i tipi di pelle</li>
+            <li><strong>Opzioni di colore:</strong> Limitate a colori stampati a iniezione -- senza motivi tartarugato, marmo o a strati</li>
+            <li><strong>Ipoallergenico:</strong> Sì -- sicuro per tutti i tipi di pelle</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Ideale Per</h3>
@@ -125,7 +125,7 @@ export default function Page() {
           </ul>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-4 mb-6">
-            <p className="text-blue-800 font-medium">💡 Consiglio di Fabbrica: Se cerchi TR90, richiedi &quot;Gril TR90&quot; (l'originale svizzero) invece di TR90 generico. La differenza di qualità è notevole — migliore flessibilità, migliore consistenza del colore e meno rischio di deformazione nel tempo.</p>
+            <p className="text-blue-800 font-medium">💡 Consiglio di Fabbrica: Se cerchi TR90, richiedi &quot;Gril TR90&quot; (l'originale svizzero) invece di TR90 generico. La differenza di qualità è notevole -- migliore flessibilità, migliore consistenza del colore e meno rischio di deformazione nel tempo.</p>
           </div>
         </section>
 
@@ -139,12 +139,12 @@ export default function Page() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Caratteristiche Principali</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Peso:</strong> 25-40 grammi per montatura — l'opzione più pesante</li>
-            <li><strong>Flessibilità:</strong> Bassa — rigido e sostanziale, può creparsi sotto stress estremo</li>
+            <li><strong>Peso:</strong> 25-40 grammi per montatura -- l'opzione più pesante</li>
+            <li><strong>Flessibilità:</strong> Bassa -- rigido e sostanziale, può creparsi sotto stress estremo</li>
             <li><strong>Finitura superficiale:</strong> Lucidatura ad alto brillo, sensazione ricca e premium</li>
-            <li><strong>Opzioni di colore:</strong> Virtualmente illimitate — colori uniformi, tartarugato, marmo, sfumato, trasparente, a strati, motivi misti</li>
-            <li><strong>Opzioni di forma:</strong> Audaci, spesse, sculturali — l'acetato può essere scolpito in qualsiasi forma</li>
-            <li><strong>Ipoallergenico:</strong> Sì — di origine vegetale, sicuro per pelle sensibile</li>
+            <li><strong>Opzioni di colore:</strong> Virtualmente illimitate -- colori uniformi, tartarugato, marmo, sfumato, trasparente, a strati, motivi misti</li>
+            <li><strong>Opzioni di forma:</strong> Audaci, spesse, sculturali -- l'acetato può essere scolpito in qualsiasi forma</li>
+            <li><strong>Ipoallergenico:</strong> Sì -- di origine vegetale, sicuro per pelle sensibile</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Ideale Per</h3>
@@ -157,7 +157,7 @@ export default function Page() {
           </ul>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-4 mb-6">
-            <p className="text-amber-800 font-medium">🔥 Consiglio di Fabbrica: La qualità dell'acetato varia drammaticamente per origine. L'acetato italiano (da Mazza o Albini) è lo standard d'oro — colori più ricchi, migliore lucidatura, materiale più consistente. L'acetato cinese è più economico ma può sembrare piatto e opaco. Per un marchio premium, insisti sull'acetato italiano.</p>
+            <p className="text-amber-800 font-medium">🔥 Consiglio di Fabbrica: La qualità dell'acetato varia drammaticamente per origine. L'acetato italiano (da Mazza o Albini) è lo standard d'oro -- colori più ricchi, migliore lucidatura, materiale più consistente. L'acetato cinese è più economico ma può sembrare piatto e opaco. Per un marchio premium, insisti sull'acetato italiano.</p>
           </div>
         </section>
 
@@ -172,17 +172,17 @@ export default function Page() {
             <li><strong>Acciaio inossidabile:</strong> Il più comune, buon equilibrio di resistenza e costo</li>
             <li><strong>Titanio:</strong> Premium, leggero, ipoallergenico, più costoso</li>
             <li><strong>Alluminio:</strong> Molto leggero, look moderno, meno comune</li>
-            <li><strong>Nichel argento (Monel):</strong> Economico, facile da lavorare, ma può causare allergie — evitare per marchi premium</li>
+            <li><strong>Nichel argento (Monel):</strong> Economico, facile da lavorare, ma può causare allergie -- evitare per marchi premium</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Caratteristiche Principali</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Peso:</strong> 20-30 grammi per montatura — peso medio</li>
-            <li><strong>Flessibilità:</strong> Bassa a media — può piegarsi ma può non tornare in forma</li>
+            <li><strong>Peso:</strong> 20-30 grammi per montatura -- peso medio</li>
+            <li><strong>Flessibilità:</strong> Bassa a media -- può piegarsi ma può non tornare in forma</li>
             <li><strong>Finitura superficiale:</strong> Può essere placcato in oro, argento, oro rosa, gunmetal, nero opaco, ecc.</li>
-            <li><strong>Opzioni di forma:</strong> Design sottili, eleganti, a filo — non può fare look audaci/spessi</li>
-            <li><strong>Durata:</strong> Forte ma le cerniere sono il punto debole — il metallo si affatica nel tempo</li>
-            <li><strong>Ipoallergenico:</strong> Dipende dalla lega — acciaio inossidabile e titanio sono sicuri, leghe di nichel no</li>
+            <li><strong>Opzioni di forma:</strong> Design sottili, eleganti, a filo -- non può fare look audaci/spessi</li>
+            <li><strong>Durata:</strong> Forte ma le cerniere sono il punto debole -- il metallo si affatica nel tempo</li>
+            <li><strong>Ipoallergenico:</strong> Dipende dalla lega -- acciaio inossidabile e titanio sono sicuri, leghe di nichel no</li>
           </ul>
 
           <div className="bg-red-50 border-l-4 border-red-500 p-4 mb-6">
@@ -197,14 +197,14 @@ export default function Page() {
             <div className="bg-gray-50 rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Quale materiale di montatura è più durevole?</h3>
               <p className="text-gray-700">
-                TR90 è il più durevole per resistenza agli urti e flessibilità — può piegarsi e tornare in forma senza rompersi. L'acetato è durevole per l'uso quotidiano ma può creparsi sotto stress estremo. Le montature in metallo sono forti ma possono deformarsi e sono più difficili da riparare. Per sport attivi o bambini, TR90 è il chiaro vincitore. Per linee focalizzate sulla moda, l'acetato offre il miglior equilibrio di durata e sensazione premium.
+                TR90 è il più durevole per resistenza agli urti e flessibilità -- può piegarsi e tornare in forma senza rompersi. L'acetato è durevole per l'uso quotidiano ma può creparsi sotto stress estremo. Le montature in metallo sono forti ma possono deformarsi e sono più difficili da riparare. Per sport attivi o bambini, TR90 è il chiaro vincitore. Per linee focalizzate sulla moda, l'acetato offre il miglior equilibrio di durata e sensazione premium.
               </p>
             </div>
 
             <div className="bg-gray-50 rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Quale materiale di montatura è più leggero?</h3>
               <p className="text-gray-700">
-                TR90 è il più leggero — una montatura TR90 tipica pesa 15-20 grammi. Le montature in metallo sono le seguenti con 20-30 grammi a seconda della lega. L'acetato è il più pesante con 25-40 grammi perché è scolpito da blocchi solidi di materiale. Se il peso è la tua priorità (per comfort tutto il giorno o occhiali da sole per bambini), TR90 è la scelta migliore.
+                TR90 è il più leggero -- una montatura TR90 tipica pesa 15-20 grammi. Le montature in metallo sono le seguenti con 20-30 grammi a seconda della lega. L'acetato è il più pesante con 25-40 grammi perché è scolpito da blocchi solidi di materiale. Se il peso è la tua priorità (per comfort tutto il giorno o occhiali da sole per bambini), TR90 è la scelta migliore.
               </p>
             </div>
 
@@ -234,7 +234,7 @@ export default function Page() {
         <div className="bg-gradient-to-r from-primary-600 to-primary-700 rounded-2xl p-8 text-white text-center">
           <h2 className="text-3xl font-bold mb-4">Pronto a Cercare le Montature Giuste?</h2>
           <p className="text-xl mb-6 opacity-90">
-            Che tu abbia bisogno di TR90 per performance, acetato per moda, o metallo per stile classico — ti aiuteremo a trovare la montatura perfetta per il tuo marchio.
+            Che tu abbia bisogno di TR90 per performance, acetato per moda, o metallo per stile classico -- ti aiuteremo a trovare la montatura perfetta per il tuo marchio.
           </p>
           <Link 
             href="/it/contatti" 

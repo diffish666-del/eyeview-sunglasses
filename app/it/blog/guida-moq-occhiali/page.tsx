@@ -20,11 +20,11 @@ export default function GuidaMoqPage() {
 
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Guida MOQ Occhiali da Sole: Quante Paia Ordinare al Primo Ordine?", "datePublished": "2026-05-03", "dateModified": "2026-05-03", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica spiega il MOQ per ordini all'ingrosso — ODM, OEM e stampi personalizzati con una strategia pratica di scaling per nuovi brand.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/guida-moq-occhiali" }, "inLanguage": "it" })}} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Guida MOQ Occhiali da Sole: Quante Paia Ordinare al Primo Ordine?", "datePublished": "2026-05-03", "dateModified": "2026-05-03", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica spiega il MOQ per ordini all'ingrosso -- ODM, OEM e stampi personalizzati con una strategia pratica di scaling per nuovi brand.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/guida-moq-occhiali" }, "inLanguage": "it" })}} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Ordini</span><span>3 maggio 2026</span><span>•</span><span>11 min di lettura</span></div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Guida MOQ Occhiali da Sole: Quante Paia Ordinare al Primo Ordine?</h1>
-          <p className="text-xl text-gray-600">&quot;Qual è il vostro MOQ?&quot; è probabilmente la seconda domanda che ricevo dopo &quot;Quanto costa?&quot; Ecco la risposta completa — non solo i nostri numeri, ma la strategia dietro a quante paia ordinare davvero.</p>
+          <p className="text-xl text-gray-600">&quot;Qual è il vostro MOQ?&quot; è probabilmente la seconda domanda che ricevo dopo &quot;Quanto costa?&quot; Ecco la risposta completa -- non solo i nostri numeri, ma la strategia dietro a quante paia ordinare davvero.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200"><div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div><div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Fondatore, EyeView Sunglasses</div></div></div>
         </header>
         <div className="prose prose-lg max-w-none">
@@ -90,5 +90,6 @@ export default function GuidaMoqPage() {
         </div>
       </div>
     </article>
+    </>
   )
 }

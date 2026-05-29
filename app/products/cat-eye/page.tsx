@@ -21,28 +21,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 pcs',
-    description: 'The one every collection needs. Black acetate, polished hinges, that perfect upswept angle. It\'s the sunglasses equivalent of a little black dress — works with everything, sells to everyone. This is consistently our #1 reorder across all markets.',
+    description: 'The one every collection needs. Black acetate, polished hinges, that perfect upswept angle. It\'s the sunglasses equivalent of a little black dress -- works with everything, sells to everyone. This is consistently our #1 reorder across all markets.',
   },
   {
     name: 'Leopard Print Cat Eye',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 pcs',
-    description: 'Animal print done right. The tortoiseshell pattern isn\'t painted on — it\'s created by layering different colored acetate sheets, so each pair has genuine depth and richness. A boutique owner in Melbourne told us these outsell solid colors 2-to-1 during spring.',
+    description: 'Animal print done right. The tortoiseshell pattern isn\'t painted on -- it\'s created by layering different colored acetate sheets, so each pair has genuine depth and richness. A boutique owner in Melbourne told us these outsell solid colors 2-to-1 during spring.',
   },
   {
     name: 'Rose Gold Metal Cat Eye',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$10.00 - $14.00',
     moq: '100 pcs',
-    description: 'Slim metal frame with rose gold electroplating that looks like it should cost $200. It doesn\'t. The thin wire construction gives a modern, refined take on the cat eye — perfect for the professional woman who wants style without shouting about it. Pairs beautifully with both blazers and beach cover-ups.',
+    description: 'Slim metal frame with rose gold electroplating that looks like it should cost $200. It doesn\'t. The thin wire construction gives a modern, refined take on the cat eye -- perfect for the professional woman who wants style without shouting about it. Pairs beautifully with both blazers and beach cover-ups.',
   },
   {
     name: 'Oversized Cat Eye',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$9.50 - $13.50',
     moq: '100 pcs',
-    description: 'Go big or go home. The oversized cat eye is basically Instagram bait — bold proportions, dramatic upswept tips, maximum face coverage. One online retailer told us this style gets more "where did you get those?" comments than anything else in their store. Great UV coverage too, which is a nice bonus.',
+    description: 'Go big or go home. The oversized cat eye is basically Instagram bait -- bold proportions, dramatic upswept tips, maximum face coverage. One online retailer told us this style gets more "where did you get those?" comments than anything else in their store. Great UV coverage too, which is a nice bonus.',
   },
   {
     name: 'Rhinestone Cat Eye',
@@ -56,7 +56,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 pcs',
-    description: 'Straight out of 1958. Narrow, sharply angled, with thick acetate temples that say "I know my fashion history." These are smaller than the oversized trend — intentionally. Collectors and vintage enthusiasts snap these up. If your market skews retro, rockabilly, or pin-up, this is your frame.',
+    description: 'Straight out of 1958. Narrow, sharply angled, with thick acetate temples that say "I know my fashion history." These are smaller than the oversized trend -- intentionally. Collectors and vintage enthusiasts snap these up. If your market skews retro, rockabilly, or pin-up, this is your frame.',
   },
 ]
 
@@ -88,7 +88,7 @@ export default function CatEyePage() {
         },
         {
           question: 'What is the difference between vintage and modern cat-eye styles?',
-          answer: 'Vintage cat-eye styles (1950s-1960s) feature sharper angles, thicker acetate, and more dramatic upsweeps. Modern cat-eye styles are more subtle, with thinner frames, mixed materials (acetate front with metal temples), and smaller upsweeps. Both styles are popular — vintage for fashion-forward brands, modern for everyday wear.',
+          answer: 'Vintage cat-eye styles (1950s-1960s) feature sharper angles, thicker acetate, and more dramatic upsweeps. Modern cat-eye styles are more subtle, with thinner frames, mixed materials (acetate front with metal temples), and smaller upsweeps. Both styles are popular -- vintage for fashion-forward brands, modern for everyday wear.',
         },
         {
           question: 'What is the MOQ for custom cat-eye sunglasses?',
@@ -113,10 +113,10 @@ export default function CatEyePage() {
             Wholesale Cat Eye Sunglasses
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            The cat eye never goes out of style. Seriously — Audrey Hepburn wore them in the
+            The cat eye never goes out of style. Seriously -- Audrey Hepburn wore them in the
             &apos;60s and they&apos;re still the #1 women&apos;s sunglasses shape today. We manufacture
             cat eye frames in acetate, metal, and mixed materials with full OEM customization.
-            Your logo, your colors, your brand — our factory.
+            Your logo, your colors, your brand -- our factory.
           </p>
         </div>
 
@@ -136,7 +136,7 @@ export default function CatEyePage() {
             <p>
               Here&apos;s a fact that surprises people: the cat eye shape has been the bestselling
               women&apos;s sunglasses silhouette for over 70 years. Not the aviator. Not the wayfarer.
-              The cat eye. Why? Because it does something no other shape can — it lifts. That
+              The cat eye. Why? Because it does something no other shape can -- it lifts. That
               upswept angle creates the illusion of higher cheekbones and a more defined jawline.
               It&apos;s basically a mini facelift you can buy for $15.
             </p>
@@ -144,13 +144,13 @@ export default function CatEyePage() {
               The shape was invented in 1939 by a New York designer named Altina Schinasi who was
               tired of &quot;ugly&quot; eyeglasses. She called them &quot;Harlequin&quot; frames. Marilyn Monroe
               made them famous. Audrey Hepburn made them iconic. And now, in 2024, they&apos;re bigger
-              than ever — literally. The oversized cat eye is dominating Instagram, TikTok, and
+              than ever -- literally. The oversized cat eye is dominating Instagram, TikTok, and
               every fashion week from Milan to Seoul.
             </p>
             <p>
               For wholesale buyers, cat eye sunglasses are about as close to a sure thing as
               eyewear gets. They appeal across age groups (20-60+), work year-round, and carry
-              strong perceived value. All our cat eye frames meet <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">FDA UV protection standards</a> —
+              strong perceived value. All our cat eye frames meet <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">FDA UV protection standards</a> --
               because looking great shouldn&apos;t mean compromising on eye safety. Our factory
               moves over 200,000 cat eye frames per month across 40+ countries. We know this
               shape inside and out.
@@ -194,19 +194,19 @@ export default function CatEyePage() {
 
         {/* Material Guide */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Acetate vs. Metal vs. Mixed — Which One&apos;s Right?</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Acetate vs. Metal vs. Mixed -- Which One&apos;s Right?</h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🏛️ Acetate</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 If you want to charge premium retail prices, go acetate. It&apos;s made from <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">cotton
                 and wood pulp</a> (yes, really), and the colors and patterns you can achieve are
-                unreal — deep tortoiseshell, marble swirls, translucent candy tones. Each pair
+                unreal -- deep tortoiseshell, marble swirls, translucent candy tones. Each pair
                 gets hand-polished for that glossy finish. Acetate <em>feels</em> expensive. Your
                 customers will notice. Hypoallergenic too, so no complaints about skin reactions.
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
-                <li>• Rich colors — tortoise, marble, gradient</li>
+                <li>• Rich colors -- tortoise, marble, gradient</li>
                 <li>• Hand-polished premium finish</li>
                 <li>• Hypoallergenic, eco-friendly</li>
                 <li>• Best for: boutiques, luxury positioning</li>
@@ -216,10 +216,10 @@ export default function CatEyePage() {
               <h3 className="text-xl font-semibold mb-4">⚙️ Metal</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Thin, sleek, modern. Metal cat eyes use stainless steel or nickel-free alloy with
-                electroplated finishes — gold, silver, rose gold, matte black. The slim profile
+                electroplated finishes -- gold, silver, rose gold, matte black. The slim profile
                 creates a refined look that acetate can&apos;t match. These are the frames for women
                 who want their sunglasses to whisper, not shout. Great for professional and office-wear
-                lines. Lighter than acetate too — most weigh under 22 grams.
+                lines. Lighter than acetate too -- most weigh under 22 grams.
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
                 <li>• Slim, elegant, lightweight (under 22g)</li>
@@ -231,7 +231,7 @@ export default function CatEyePage() {
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🔗 Mixed Material</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                The best of both worlds. Acetate front with thin metal temples — or vice versa.
+                The best of both worlds. Acetate front with thin metal temples -- or vice versa.
                 The two-tone material contrast is trending hard right now. Think: transparent pink
                 acetate front with thin gold arms. Or black acetate with silver wire temples.
                 These are the frames that make people stop and ask &quot;where did you get those?&quot;
@@ -267,7 +267,7 @@ export default function CatEyePage() {
                   <ColorTrend color="bg-black" name="Classic Black" description="30-35% of all cat eye orders. Always. Every. Season. Stock it or regret it." />
                   <ColorTrend color="bg-amber-700" name="Tortoiseshell" description="The #2 seller. Multi-tonal browns work year-round, with everyone, everywhere." />
                   <ColorTrend color="bg-yellow-600" name="Gold Metal" description="Essential for any luxury or professional line. Gold cat eyes scream sophistication." />
-                  <ColorTrend color="bg-gray-400" name="Gradient Two-Tone" description="Frames that fade from one color to another — black to clear, pink to peach. Very Instagram." />
+                  <ColorTrend color="bg-gray-400" name="Gradient Two-Tone" description="Frames that fade from one color to another -- black to clear, pink to peach. Very Instagram." />
                 </div>
               </div>
             </div>
@@ -318,7 +318,7 @@ export default function CatEyePage() {
             <Link href="/products/kids" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">👧</div>
               <h3 className="font-semibold mb-2">Kids Cat Eye</h3>
-              <p className="text-sm text-gray-600">Mini cat eyes for girls — adorable sellers</p>
+              <p className="text-sm text-gray-600">Mini cat eyes for girls -- adorable sellers</p>
             </Link>
           </div>
         </section>
@@ -329,7 +329,7 @@ export default function CatEyePage() {
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="Which face shapes work with cat eye?"
-              answer="Almost all of them, honestly. Cat eye is one of the most forgiving shapes out there. Oval face? Perfect. Round face? The upswept angles add definition — looks great. Heart-shaped? Ideal match. Square face? Go with a softer, more rounded cat eye to balance the angles. The only face shape that can be tricky is very long/narrow faces, where an oversized cat eye might overwhelm. But even then, a petite cat eye works fine."
+              answer="Almost all of them, honestly. Cat eye is one of the most forgiving shapes out there. Oval face? Perfect. Round face? The upswept angles add definition -- looks great. Heart-shaped? Ideal match. Square face? Go with a softer, more rounded cat eye to balance the angles. The only face shape that can be tricky is very long/narrow faces, where an oversized cat eye might overwhelm. But even then, a petite cat eye works fine."
             />
             <FaqItem
               question="What's the MOQ for custom branded cat eyes?"
@@ -337,7 +337,7 @@ export default function CatEyePage() {
             />
             <FaqItem
               question="Can these be made prescription-ready?"
-              answer="Yep! All our acetate and metal cat eyes can ship with demo lenses so optical shops can pop in prescription lenses. We accommodate single vision, bifocal, and progressive prescriptions. The frame depth and lens curvature are designed for it. This is a great upsell for optical retailers — fashion frames with Rx capability."
+              answer="Yep! All our acetate and metal cat eyes can ship with demo lenses so optical shops can pop in prescription lenses. We accommodate single vision, bifocal, and progressive prescriptions. The frame depth and lens curvature are designed for it. This is a great upsell for optical retailers -- fashion frames with Rx capability."
             />
             <FaqItem
               question="What's trending in cat eye for 2024-2025?"
@@ -345,7 +345,7 @@ export default function CatEyePage() {
             />
             <FaqItem
               question="Can I get samples before committing to a bulk order?"
-              answer="Of course — we'd never expect you to order blind. Existing catalog styles? Free samples, you just cover shipping (usually $30-50 via DHL for 3-5 pairs). Want a custom sample with your specific modifications? Small fee of $50-100 per design, which we credit back to your first production order. So you're basically getting custom samples for free if you order. Turnaround is 7-10 days."
+              answer="Of course -- we'd never expect you to order blind. Existing catalog styles? Free samples, you just cover shipping (usually $30-50 via DHL for 3-5 pairs). Want a custom sample with your specific modifications? Small fee of $50-100 per design, which we credit back to your first production order. So you're basically getting custom samples for free if you order. Turnaround is 7-10 days."
             />
           </div>
         </section>
@@ -354,7 +354,7 @@ export default function CatEyePage() {
         <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
           <h2 className="text-3xl font-bold mb-4">Ready to Stock the Shape That Sells Itself?</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Boutiques, online stores, brand distributors — we work with all of them. Our
+            Boutiques, online stores, brand distributors -- we work with all of them. Our
             women&apos;s cat eye wholesale program gives you competitive pricing, fast production,
             and full customization. Grab a free catalog and see what&apos;s possible.
           </p>
@@ -402,7 +402,7 @@ export default function CatEyePage() {
           {
             "@type": "Question",
             "name": "Can I get samples before a bulk order?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Free samples of existing styles — just cover shipping ($30-50 via DHL). Custom samples are $50-100 per design, credited back to your first production order." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Free samples of existing styles -- just cover shipping ($30-50 via DHL). Custom samples are $50-100 per design, credited back to your first production order." }
           }
         ]
       })}} />
@@ -419,7 +419,7 @@ export default function CatEyePage() {
           <Link href="/products/prescription" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
             <div className="text-4xl mb-3">👓</div>
             <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Prescription Sunglasses</h3>
-            <p className="text-gray-600 text-sm">Cat eye frames available with custom Rx lenses — single vision, progressive, and polarized prescription options.</p>
+            <p className="text-gray-600 text-sm">Cat eye frames available with custom Rx lenses -- single vision, progressive, and polarized prescription options.</p>
           </Link>
           <Link href="/products/acetate" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
             <div className="text-4xl mb-3">🎨</div>

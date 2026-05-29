@@ -20,21 +20,21 @@ const products = [
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$6.00 - $10.00',
     moq: '100 pcs',
-    description: 'Clean, professional look with clear lenses that filter blue light without any visible tint. Your customers can wear these in meetings, on Zoom calls, or at their desk all day without looking like they\'re wearing "special" glasses. This is our bestselling blue light model — it outsells everything else in this category 3-to-1 because it looks like regular glasses.',
+    description: 'Clean, professional look with clear lenses that filter blue light without any visible tint. Your customers can wear these in meetings, on Zoom calls, or at their desk all day without looking like they\'re wearing "special" glasses. This is our bestselling blue light model -- it outsells everything else in this category 3-to-1 because it looks like regular glasses.',
   },
   {
     name: 'Gaming Blue Light Glasses',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$7.00 - $11.00',
     moq: '100 pcs',
-    description: 'Built for the gaming crowd. Amber-tinted lenses block more blue light than clear versions (60-90% vs 30-40%), and gamers actually prefer the warm tint — it enhances contrast on dark game environments and reduces the harshness of bright flashes. Lightweight frame with rubber nose pads for those 6-hour Valorant sessions. An esports team in Korea ordered 200 pairs as team gear.',
+    description: 'Built for the gaming crowd. Amber-tinted lenses block more blue light than clear versions (60-90% vs 30-40%), and gamers actually prefer the warm tint -- it enhances contrast on dark game environments and reduces the harshness of bright flashes. Lightweight frame with rubber nose pads for those 6-hour Valorant sessions. An esports team in Korea ordered 200 pairs as team gear.',
   },
   {
     name: 'Clear Lens Blue Blocker',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$6.50 - $10.50',
     moq: '100 pcs',
-    description: 'The stealth option. These lenses have a subtle blue light coating that\'s nearly invisible — just a faint reflection when light hits at the right angle. No yellow tint at all. Designed for people who want protection but don\'t want anyone to know they\'re wearing blue light glasses. Popular with professionals, lawyers, executives — the "I don\'t wear gimmicky glasses" crowd.',
+    description: 'The stealth option. These lenses have a subtle blue light coating that\'s nearly invisible -- just a faint reflection when light hits at the right angle. No yellow tint at all. Designed for people who want protection but don\'t want anyone to know they\'re wearing blue light glasses. Popular with professionals, lawyers, executives -- the "I don\'t wear gimmicky glasses" crowd.',
   },
   {
     name: 'Blue Light Aviator',
@@ -48,14 +48,14 @@ const products = [
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$7.50 - $11.50',
     moq: '100 pcs',
-    description: 'The wayfarer shape in a blue light version. Acetate frame, professional look, genuine screen protection. This is the frame we recommend for corporate gift programs — companies buy 50-500 pairs at a time with their logo on the temple for employee wellness packages. One tech company in Bangalore ordered 1,200 pairs for their entire engineering team.',
+    description: 'The wayfarer shape in a blue light version. Acetate frame, professional look, genuine screen protection. This is the frame we recommend for corporate gift programs -- companies buy 50-500 pairs at a time with their logo on the temple for employee wellness packages. One tech company in Bangalore ordered 1,200 pairs for their entire engineering team.',
   },
   {
     name: 'Kids Blue Light Glasses',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$5.50 - $9.00',
     moq: '100 pcs',
-    description: 'Kids spend hours on tablets, phones, and laptops — for school, for games, for YouTube. Parents worry about it. These glasses give them a solution. Flexible frames sized for ages 5-12, BPA-free materials, and blue light filtering lenses. Schools in three countries have adopted these for their computer lab programs. A worried parent\'s peace of mind, starting at $5.50.',
+    description: 'Kids spend hours on tablets, phones, and laptops -- for school, for games, for YouTube. Parents worry about it. These glasses give them a solution. Flexible frames sized for ages 5-12, BPA-free materials, and blue light filtering lenses. Schools in three countries have adopted these for their computer lab programs. A worried parent\'s peace of mind, starting at $5.50.',
   },
 ]
 
@@ -79,7 +79,7 @@ export default function BlueLightPageIt() {
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Seven hours. That&apos;s how long the average adult stares at a screen every day.
-            Dry eyes, headaches, trouble sleeping — sound familiar? Blue light glasses are
+            Dry eyes, headaches, trouble sleeping -- sound familiar? Blue light glasses are
             the fastest-growing category in eyewear, and we manufacture them for brands in
             40+ countries. Clear lenses, amber lenses, fashion frames, kids sizes. MOQ 100 pieces.
           </p>
@@ -100,7 +100,7 @@ export default function BlueLightPageIt() {
           <div className="max-w-4xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
               Blue light is everywhere. The sun produces it. Your phone produces it. Your
-              laptop, your TV, your office fluorescents — all of them blast blue light at your
+              laptop, your TV, your office fluorescents -- all of them blast blue light at your
               eyes all day long. And here&apos;s the thing: our eyes aren&apos;t great at blocking it.
               Blue light (wavelengths between 380-500nm) passes right through the cornea and
               lens to hit the retina directly.
@@ -109,13 +109,13 @@ export default function BlueLightPageIt() {
               The <a href="https://www.aao.org/eye-health/tips-prevention/blue-light-digital-eye-strain" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">American Academy of Ophthalmology</a> notes
               that digital eye strain affects roughly 65% of adults who use screens regularly.
               Symptoms include dry eyes, blurred vision, headaches, and neck/shoulder pain.
-              But the sleep issue might be the biggest problem — blue light suppresses melatonin
+              But the sleep issue might be the biggest problem -- blue light suppresses melatonin
               production, the hormone that tells your brain &quot;time to sleep.&quot; Scroll your phone
               at 11pm and your brain thinks it&apos;s noon. No wonder people can&apos;t fall asleep.
             </p>
             <p>
               That&apos;s why blue light glasses have exploded. They&apos;re not a medical device and
-              we don&apos;t make medical claims — but millions of people report less eye fatigue,
+              we don&apos;t make medical claims -- but millions of people report less eye fatigue,
               fewer headaches, and better sleep when wearing them during screen time. The market
               is projected to hit $4.5 billion globally by 2026, according to industry research.
               The <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">FDA</a> regulates
@@ -165,19 +165,19 @@ export default function BlueLightPageIt() {
 
         {/* Lens Options */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Clear vs. Amber — Which Lens to Stock?</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Clear vs. Amber -- Which Lens to Stock?</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🔍 Clear Lenses</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 No visible tint. The protection is in the coating, not the color. These are
-                perfect for people who need to see accurate colors — designers, photographers,
-                video editors — and anyone who doesn&apos;t want to explain why their glasses look
+                perfect for people who need to see accurate colors -- designers, photographers,
+                video editors -- and anyone who doesn&apos;t want to explain why their glasses look
                 yellow. Blocks 30-40% of blue light in the 415-455nm range (the most harmful
                 wavelengths). This is what sells in office and professional settings.
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li>• Invisible protection — no tint</li>
+                <li>• Invisible protection -- no tint</li>
                 <li>• True color accuracy maintained</li>
                 <li>• Blocks 30-40% of harmful blue light</li>
                 <li>• Best for: office, design, professional use</li>
@@ -187,18 +187,18 @@ export default function BlueLightPageIt() {
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🟡 Amber / Yellow Lenses</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Visible warm tint. Blocks significantly more blue light — 60-90% depending on
+                Visible warm tint. Blocks significantly more blue light -- 60-90% depending on
                 the tint depth. The amber color filters out the harsh blue frequencies and
                 creates a warmer, more comfortable visual experience. Gamers love it. People
                 who use screens at night love it. The enhanced contrast is a genuine advantage
                 for gaming and reading in low-light conditions.
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li>• Visible amber tint — warm tone</li>
+                <li>• Visible amber tint -- warm tone</li>
                 <li>• Blocks 60-90% of blue light</li>
                 <li>• Enhanced contrast for gaming</li>
                 <li>• Best for: gaming, evening use, reading</li>
-                <li>• Growing fast — especially in gaming market</li>
+                <li>• Growing fast -- especially in gaming market</li>
               </ul>
             </div>
           </div>
@@ -214,7 +214,7 @@ export default function BlueLightPageIt() {
                 <p className="text-gray-700 mb-3 leading-relaxed">
                   A multi-layer anti-reflective coating is applied to the lens surface. One of
                   these layers is specifically tuned to reflect blue light wavelengths (415-455nm)
-                  back away from the eye. You can see it working — tilt the lens and you&apos;ll
+                  back away from the eye. You can see it working -- tilt the lens and you&apos;ll
                   notice a faint blue-purple reflection. That&apos;s the blue light bouncing off
                   instead of passing through.
                 </p>
@@ -225,7 +225,7 @@ export default function BlueLightPageIt() {
                 <p className="text-gray-700 mb-3 leading-relaxed">
                   The blue-blocking material is mixed directly into the lens resin during
                   manufacturing. This creates a lens that absorbs blue light throughout its
-                  entire thickness — not just at the surface. The result is stronger blue light
+                  entire thickness -- not just at the surface. The result is stronger blue light
                   filtering and a visible amber tint. Because the filtering is in the lens
                   material itself, it can&apos;t wear off or be scratched away.
                 </p>
@@ -245,7 +245,7 @@ export default function BlueLightPageIt() {
             <StatCard number="65%" label="Adults report eye strain" />
           </div>
           <p className="text-center text-sm text-gray-600 mt-6 max-w-2xl mx-auto">
-            Blue light glasses aren&apos;t a fad — screen time is only going up. Remote work,
+            Blue light glasses aren&apos;t a fad -- screen time is only going up. Remote work,
             online learning, mobile gaming, streaming... the market keeps growing because
             the problem keeps growing.
           </p>
@@ -276,8 +276,8 @@ export default function BlueLightPageIt() {
               Here&apos;s a big opportunity most wholesale buyers miss: prescription blue light glasses.
               About 75% of adults need some form of vision correction. That means 75% of potential
               blue light customers also need prescription lenses. We manufacture all our blue light
-              frames as Rx-ready — ship them with demo lenses so optical shops can install custom
-              prescriptions. Single vision, bifocal, progressive — all compatible.
+              frames as Rx-ready -- ship them with demo lenses so optical shops can install custom
+              prescriptions. Single vision, bifocal, progressive -- all compatible.
             </p>
             <p>
               The markup on prescription blue light glasses is even better than plano (non-prescription).
@@ -313,31 +313,31 @@ export default function BlueLightPageIt() {
 
         {/* FAQ */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Blue Light Questions — No Jargon</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Blue Light Questions -- No Jargon</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="Do blue light glasses actually work?"
-              answer="Here's the honest answer: the science is still debating whether blue light itself causes long-term eye damage. What IS well-documented is that prolonged screen use causes digital eye strain — dry eyes, headaches, blurred vision. Many users report genuine relief when wearing blue light glasses. The sleep benefit has stronger evidence — blue light suppresses melatonin, and filtering it in the evening can help you fall asleep faster. We don't make medical claims. We let customers try them and decide for themselves. The repeat order rate speaks for itself."
+              answer="Here's the honest answer: the science is still debating whether blue light itself causes long-term eye damage. What IS well-documented is that prolonged screen use causes digital eye strain -- dry eyes, headaches, blurred vision. Many users report genuine relief when wearing blue light glasses. The sleep benefit has stronger evidence -- blue light suppresses melatonin, and filtering it in the evening can help you fall asleep faster. We don't make medical claims. We let customers try them and decide for themselves. The repeat order rate speaks for itself."
             />
             <FaqItem
-              question="Clear or amber lenses — what should I stock?"
+              question="Clear or amber lenses -- what should I stock?"
               answer="Both, ideally. But if you can only pick one, go clear. Clear lenses account for about 70% of our blue light orders because they look like regular glasses and don't alter colors. Amber lenses are the gamer favorite (stronger filtering, enhanced contrast) and sell well in gaming shops and to evening screen users. Pro tip: stock clear for general retail, amber for gaming/tech audiences."
             />
             <FaqItem
               question="How much blue light do these actually block?"
-              answer="Clear lenses block 30-40% of blue light in the 415-455nm range (the most potentially harmful wavelengths). Amber lenses block 60-90% depending on tint depth. We provide spectral transmission reports with bulk orders so you can show customers exactly what they're getting. No vague 'blocks blue light' claims — real numbers, real test data."
+              answer="Clear lenses block 30-40% of blue light in the 415-455nm range (the most potentially harmful wavelengths). Amber lenses block 60-90% depending on tint depth. We provide spectral transmission reports with bulk orders so you can show customers exactly what they're getting. No vague 'blocks blue light' claims -- real numbers, real test data."
             />
             <FaqItem
               question="Can these be combined with prescription lenses?"
-              answer="Absolutely — and you should! About 75% of adults need vision correction, so Rx-ready blue light frames are a huge market. All our frames ship with demo lenses that optical shops can replace with prescription blue light lenses. Works with single vision, bifocal, and progressive. The margin on prescription blue light glasses is outstanding — $80-150 retail on a $10 wholesale frame."
+              answer="Absolutely -- and you should! About 75% of adults need vision correction, so Rx-ready blue light frames are a huge market. All our frames ship with demo lenses that optical shops can replace with prescription blue light lenses. Works with single vision, bifocal, and progressive. The margin on prescription blue light glasses is outstanding -- $80-150 retail on a $10 wholesale frame."
             />
             <FaqItem
               question="What's the best way to sell blue light glasses?"
-              answer="The killer demo: put a pair on your customer and have them look at their phone for 30 seconds. Then take them off. Most people immediately notice the difference — the screen looks harsher without them. That 'aha moment' closes the sale. For online stores, focus on the problem (headaches, dry eyes, poor sleep) and the solution. Corporate gift programs are also massive — companies buy hundreds of pairs for employee wellness. We can customize with company logos."
+              answer="The killer demo: put a pair on your customer and have them look at their phone for 30 seconds. Then take them off. Most people immediately notice the difference -- the screen looks harsher without them. That 'aha moment' closes the sale. For online stores, focus on the problem (headaches, dry eyes, poor sleep) and the solution. Corporate gift programs are also massive -- companies buy hundreds of pairs for employee wellness. We can customize with company logos."
             />
             <FaqItem
               question="What's the MOQ and turnaround?"
-              answer="100 pieces per style and color. Stock items ship in 3-5 days. Custom orders with your logo and branding take 15-25 days. We also do corporate gift packaging — custom boxes with your company name, branded microfiber cloths, the whole nine yards. One tech startup ordered 500 pairs in branded packaging as new-employee welcome gifts. Cost them about $9 per pair all-in. Retail value of the perceived gift? $30-40 easy."
+              answer="100 pieces per style and color. Stock items ship in 3-5 days. Custom orders with your logo and branding take 15-25 days. We also do corporate gift packaging -- custom boxes with your company name, branded microfiber cloths, the whole nine yards. One tech startup ordered 500 pairs in branded packaging as new-employee welcome gifts. Cost them about $9 per pair all-in. Retail value of the perceived gift? $30-40 easy."
             />
           </div>
         </section>
@@ -374,11 +374,11 @@ export default function BlueLightPageIt() {
           {
             "@type": "Question",
             "name": "Do blue light glasses actually work?",
-            "acceptedAnswer": { "@type": "Answer", "text": "The science on long-term blue light damage is still debated, but digital eye strain relief is well-documented. Many users report less eye fatigue, fewer headaches, and better sleep. The sleep benefit has stronger evidence — blue light suppresses melatonin production." }
+            "acceptedAnswer": { "@type": "Answer", "text": "The science on long-term blue light damage is still debated, but digital eye strain relief is well-documented. Many users report less eye fatigue, fewer headaches, and better sleep. The sleep benefit has stronger evidence -- blue light suppresses melatonin production." }
           },
           {
             "@type": "Question",
-            "name": "Clear or amber lenses — what should I stock?",
+            "name": "Clear or amber lenses -- what should I stock?",
             "acceptedAnswer": { "@type": "Answer", "text": "Both ideally, but clear lenses account for 70% of orders. They look like regular glasses and don't alter colors. Amber lenses are popular with gamers for stronger filtering and enhanced contrast." }
           },
           {
@@ -389,7 +389,7 @@ export default function BlueLightPageIt() {
           {
             "@type": "Question",
             "name": "Can blue light glasses be combined with prescription lenses?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Yes — all frames ship Rx-ready with demo lenses. About 75% of adults need vision correction, making prescription blue light glasses a huge market with outstanding margins." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Yes -- all frames ship Rx-ready with demo lenses. About 75% of adults need vision correction, making prescription blue light glasses a huge market with outstanding margins." }
           },
           {
             "@type": "Question",

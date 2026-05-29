@@ -62,7 +62,7 @@ export default function ContactPageDe() {
               <p className="text-primary-700">
                 Unser Team wird Ihre Anforderungen prüfen und Ihnen ein detailliertes Angebot 
                 mit Preisen, MOQ und Zeitplan zusenden. Bei dringenden Fragen 
-                erreichen Sie uns jederzeit unter jacky@eyeviewsunglasses.com
+                erreichen Sie uns jederzeit unter sales@eyeviewsunglasses.com
               </p>
             </div>
             <a href="/de" className="btn-primary inline-block">
@@ -175,9 +175,9 @@ export default function ContactPageDe() {
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-600 focus:border-transparent"
                   >
                     <option value="">Mengenbereich wählen</option>
-                    <option value="100-500">100 – 500 Stück</option>
-                    <option value="500-1000">500 – 1.000 Stück</option>
-                    <option value="1000-5000">1.000 – 5.000 Stück</option>
+                    <option value="100-500">100 - 500 Stück</option>
+                    <option value="500-1000">500 - 1.000 Stück</option>
+                    <option value="1000-5000">1.000 - 5.000 Stück</option>
                     <option value="5000+">5.000+ Stück</option>
                   </select>
                 </div>
@@ -233,8 +233,8 @@ export default function ContactPageDe() {
                   <span className="text-2xl mr-3">📧</span>
                   <div>
                     <div className="text-sm text-gray-500">E-Mail</div>
-                    <a href="mailto:jacky@eyeviewsunglasses.com" className="font-medium text-primary-600 hover:underline">
-                      jacky@eyeviewsunglasses.com
+                    <a href="mailto:sales@eyeviewsunglasses.com" className="font-medium text-primary-600 hover:underline">
+                      sales@eyeviewsunglasses.com
                     </a>
                   </div>
                 </div>
@@ -263,7 +263,7 @@ export default function ContactPageDe() {
                 </div>
                 <div className="flex justify-between">
                   <span className="text-gray-600">Muster</span>
-                  <span className="font-semibold">3–5 Tage</span>
+                  <span className="font-semibold">3-5 Tage</span>
                 </div>
               </div>
             </div>

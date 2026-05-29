@@ -45,7 +45,7 @@ export default function StartSunglassesBrandPage() {
             {
               "@type": "Question",
               "name": "What is the difference between OEM and ODM sunglasses manufacturing?",
-              "acceptedAnswer": { "@type": "Answer", "text": "OEM (Original Equipment Manufacturer) means you provide the design and the factory produces to your specifications — offering full customization but higher MOQ (300-500pcs) and longer development time. ODM (Original Design Manufacturer) means you choose from existing designs and add your branding — with lower MOQ (100-200pcs), faster time to market, and lower costs." }
+              "acceptedAnswer": { "@type": "Answer", "text": "OEM (Original Equipment Manufacturer) means you provide the design and the factory produces to your specifications -- offering full customization but higher MOQ (300-500pcs) and longer development time. ODM (Original Design Manufacturer) means you choose from existing designs and add your branding -- with lower MOQ (100-200pcs), faster time to market, and lower costs." }
             },
             {
               "@type": "Question",
@@ -129,7 +129,7 @@ export default function StartSunglassesBrandPage() {
 
           <h2 id="step-2" className="text-2xl font-bold mt-12 mb-4">Step 2: Define Your Brand</h2>
           <p>
-            Your brand is more than a logo—it's your story, values, and promise to customers.
+            Your brand is more than a logo--it's your story, values, and promise to customers.
           </p>
 
           <h3 className="text-xl font-semibold mt-6 mb-3">Brand Elements:</h3>
@@ -297,15 +297,15 @@ export default function StartSunglassesBrandPage() {
           <div className="grid md:grid-cols-3 gap-6">
             <Link href="/products/promotional" className="card p-4">
               <h3 className="font-semibold mb-2">Promotional Sunglasses</h3>
-              <p className="text-sm text-gray-600">From $0.80/pair — perfect for brand launches and event marketing.</p>
+              <p className="text-sm text-gray-600">From $0.80/pair -- perfect for brand launches and event marketing.</p>
             </Link>
             <Link href="/products/prescription" className="card p-4">
               <h3 className="font-semibold mb-2">Prescription Sunglasses</h3>
-              <p className="text-sm text-gray-600">Custom Rx options — 2-3x retail price, highest margin category.</p>
+              <p className="text-sm text-gray-600">Custom Rx options -- 2-3x retail price, highest margin category.</p>
             </Link>
             <Link href="/products/eco-friendly" className="card p-4">
               <h3 className="font-semibold mb-2">Eco-Friendly Sunglasses</h3>
-              <p className="text-sm text-gray-600">Sustainable materials — 30-50% retail premium with verified eco credentials.</p>
+              <p className="text-sm text-gray-600">Sustainable materials -- 30-50% retail premium with verified eco credentials.</p>
             </Link>
           </div>
         </section>

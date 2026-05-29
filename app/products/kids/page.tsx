@@ -21,28 +21,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$5.50 - $8.50',
     moq: '100 pcs',
-    description: 'Let\'s be real — babies chew on everything. That\'s why these frames are made from food-grade silicone, the same stuff in baby bottle nipples. You could literally put them in your mouth (your baby will). Completely BPA-free, phthalate-free, and soft enough that they won\'t poke or pinch. The adjustable strap keeps them on even when your little one is determined to pull them off. Which they will. Repeatedly.',
+    description: 'Let\'s be real -- babies chew on everything. That\'s why these frames are made from food-grade silicone, the same stuff in baby bottle nipples. You could literally put them in your mouth (your baby will). Completely BPA-free, phthalate-free, and soft enough that they won\'t poke or pinch. The adjustable strap keeps them on even when your little one is determined to pull them off. Which they will. Repeatedly.',
   },
   {
     name: 'Toddler Sunglasses (3-5 yrs)',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$6.00 - $9.00',
     moq: '100 pcs',
-    description: 'You know what happens to toddler sunglasses? They get sat on, stepped on, thrown across the room, and buried in the sandbox. That\'s why we make these from TPE — a flexible material that bends, twists, and gets absolutely abused, then bounces right back to shape. Available in 15+ colors because apparently every 4-year-old has a very strong opinion about their favorite color. (It\'s usually pink. Or dinosaur green.)',
+    description: 'You know what happens to toddler sunglasses? They get sat on, stepped on, thrown across the room, and buried in the sandbox. That\'s why we make these from TPE -- a flexible material that bends, twists, and gets absolutely abused, then bounces right back to shape. Available in 15+ colors because apparently every 4-year-old has a very strong opinion about their favorite color. (It\'s usually pink. Or dinosaur green.)',
   },
   {
     name: 'Kids Sport Sunglasses (6-9 yrs)',
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$7.00 - $10.00',
     moq: '100 pcs',
-    description: 'For the kid who\'s always outside — soccer practice, swimming lessons, bike rides around the neighborhood. These are scaled-down versions of our adult sport frames with TR90 flexible frames and wraparound coverage. Polarized option available for beach trips and snow days. A youth sports league in California ordered 800 pairs last year for their summer program. Their feedback: "Finally, sport glasses that actually fit kids."',
+    description: 'For the kid who\'s always outside -- soccer practice, swimming lessons, bike rides around the neighborhood. These are scaled-down versions of our adult sport frames with TR90 flexible frames and wraparound coverage. Polarized option available for beach trips and snow days. A youth sports league in California ordered 800 pairs last year for their summer program. Their feedback: "Finally, sport glasses that actually fit kids."',
   },
   {
     name: 'Girls Fashion Cat Eye (6-10 yrs)',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$7.00 - $10.00',
     moq: '100 pcs',
-    description: 'Mini cat eyes for girls who want to look like Mom (or their favorite YouTuber). Sparkle accents, pastel colors, heart-shaped temple decorations — all the things that make a 7-year-old squeal "I LOVE THESE!" Same safety standards as all our kids frames, just with way more glitter. These are absolute rockstars in children\'s boutiques and beach resort shops.',
+    description: 'Mini cat eyes for girls who want to look like Mom (or their favorite YouTuber). Sparkle accents, pastel colors, heart-shaped temple decorations -- all the things that make a 7-year-old squeal "I LOVE THESE!" Same safety standards as all our kids frames, just with way more glitter. These are absolute rockstars in children\'s boutiques and beach resort shops.',
   },
   {
     name: 'Boys Aviator (8-12 yrs)',
@@ -56,7 +56,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 pcs',
-    description: 'For the junior athletes who take their sport seriously. TAC polarized lenses cut glare from water, snow, and pavement — a real difference-maker for kids in swimming, skiing, or fishing with dad. These are our premium kids frames and the ones parents specifically ask for when they want the best protection money can buy. A swim school in Sydney uses these exclusively for their outdoor lessons.',
+    description: 'For the junior athletes who take their sport seriously. TAC polarized lenses cut glare from water, snow, and pavement -- a real difference-maker for kids in swimming, skiing, or fishing with dad. These are our premium kids frames and the ones parents specifically ask for when they want the best protection money can buy. A swim school in Sydney uses these exclusively for their outdoor lessons.',
   },
 ]
 
@@ -92,7 +92,7 @@ export default function KidsPage() {
         },
         {
           question: 'What is the safest material for kids sunglasses?',
-          answer: 'TR90 is the safest material for kids sunglasses. It\'s unbreakable, flexible, lightweight (15-20g), and hypoallergenic. Kids can bend, sit on, or step on TR90 frames without breaking them. Polycarbonate lenses are also essential — they\'re impact-resistant and won\'t shatter like glass or standard plastic lenses.',
+          answer: 'TR90 is the safest material for kids sunglasses. It\'s unbreakable, flexible, lightweight (15-20g), and hypoallergenic. Kids can bend, sit on, or step on TR90 frames without breaking them. Polycarbonate lenses are also essential -- they\'re impact-resistant and won\'t shatter like glass or standard plastic lenses.',
         },
       ]} />
 
@@ -116,7 +116,7 @@ export default function KidsPage() {
             Parents don&apos;t mess around when it comes to their kids&apos; eyes. Neither do we.
             Every pair is BPA-free, UV400 certified, and meets CPSIA, ASTM F963, and EN71
             safety standards. Flexible frames that survive toddler chaos. Real UV protection
-            — not just tinted plastic. Ages 0-12, starting at $5.50.
+            -- not just tinted plastic. Ages 0-12, starting at $5.50.
           </p>
         </div>
 
@@ -138,7 +138,7 @@ export default function KidsPage() {
               age 10, a kid&apos;s lens transmits over 75% of UV-A and 70% of UV-B rays straight
               to the retina. An adult lens? Only about 10%. That means your child&apos;s eyes are
               absorbing roughly 6-7x more UV damage on the same sunny day. And here&apos;s the
-              scary part — the <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">WHO says up to 80%</a> of a person&apos;s lifetime UV exposure happens
+              scary part -- the <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">WHO says up to 80%</a> of a person&apos;s lifetime UV exposure happens
               before age 18.
             </p>
             <p>
@@ -149,7 +149,7 @@ export default function KidsPage() {
             </p>
             <p>
               That&apos;s exactly why we take kids sunglasses so seriously. Every single pair we
-              make gets lab-tested for UV400 compliance — meaning they block 99.9% of UV
+              make gets lab-tested for UV400 compliance -- meaning they block 99.9% of UV
               radiation up to 400 nanometers. We provide the test reports. We have the
               certifications. When a parent picks up a pair of our kids sunglasses, they
               can trust that their child&apos;s eyes are actually protected. Not just shaded.
@@ -202,7 +202,7 @@ export default function KidsPage() {
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🇺🇸</div>
               <h3 className="font-bold mb-2">CPSIA</h3>
-              <p className="text-sm text-gray-600">The big one for the US market. Lead below 100ppm, zero phthalates. If you&apos;re selling kids products in America, <a href="https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">this isn&apos;t optional — it&apos;s the law</a>. We&apos;ve got it covered.</p>
+              <p className="text-sm text-gray-600">The big one for the US market. Lead below 100ppm, zero phthalates. If you&apos;re selling kids products in America, <a href="https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">this isn&apos;t optional -- it&apos;s the law</a>. We&apos;ve got it covered.</p>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🇺🇸</div>
@@ -217,7 +217,7 @@ export default function KidsPage() {
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🌍</div>
               <h3 className="font-bold mb-2">CE & FDA</h3>
-              <p className="text-sm text-gray-600">CE for Europe, FDA for the US optical market. Both verify that our UV protection claims are real — not just marketing stickers on cheap frames.</p>
+              <p className="text-sm text-gray-600">CE for Europe, FDA for the US optical market. Both verify that our UV protection claims are real -- not just marketing stickers on cheap frames.</p>
             </div>
           </div>
         </section>
@@ -230,7 +230,7 @@ export default function KidsPage() {
               <h3 className="text-xl font-semibold mb-4">🍼 Food-Grade Silicone (Ages 0-3)</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Same material as baby bottle nipples and teething rings. If it&apos;s safe to go
-                in a baby&apos;s mouth — and it will go in their mouth, guaranteed — it&apos;s safe
+                in a baby&apos;s mouth -- and it will go in their mouth, guaranteed -- it&apos;s safe
                 for sunglasses. Infinitely bendable, impossibly soft, BPA-free, phthalate-free,
                 PVC-free, latex-free. Won&apos;t irritate sensitive baby skin. We designed these
                 for the parent who worries about everything. (We get it. We&apos;re parents too.)
@@ -252,7 +252,7 @@ export default function KidsPage() {
                 For the older kids who are playing sports, riding bikes, and generally being
                 rough with everything they own. TR90 is 35% lighter than regular plastic,
                 flexes without snapping, and handles temperatures from -40°C to 120°C (so
-                yes, it survives being left in a hot car). Hypoallergenic too — no itchy red
+                yes, it survives being left in a hot car). Hypoallergenic too -- no itchy red
                 marks behind the ears after a long day outside.
               </p>
             </div>
@@ -302,7 +302,7 @@ export default function KidsPage() {
             <Link href="/products/sport" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🏃</div>
               <h3 className="font-semibold mb-2">Sport Sunglasses</h3>
-              <p className="text-sm text-gray-600">Adult sport frames — parents and kids can match!</p>
+              <p className="text-sm text-gray-600">Adult sport frames -- parents and kids can match!</p>
             </Link>
             <Link href="/products/polarized" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🔆</div>
@@ -323,27 +323,27 @@ export default function KidsPage() {
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="How young is too young for sunglasses?"
-              answer="The American Academy of Ophthalmology says 6 months. Before that, keep babies in shade with hats and stroller canopies. But once they're 6 months old and spending time outdoors, their eyes need UV protection. We know it sounds early — but remember, their little eyes are letting in 6-7x more UV than yours. The earlier you start, the better."
+              answer="The American Academy of Ophthalmology says 6 months. Before that, keep babies in shade with hats and stroller canopies. But once they're 6 months old and spending time outdoors, their eyes need UV protection. We know it sounds early -- but remember, their little eyes are letting in 6-7x more UV than yours. The earlier you start, the better."
             />
             <FaqItem
               question="Are these actually protective or just cute?"
-              answer="Both! But protection comes first. Every pair blocks 99.9% of UV radiation up to 400 nanometers — verified by independent lab testing. We'll send you the test reports if you want them. Beware of cheap kids sunglasses that are just dark-tinted plastic with no UV filter. Those actually make things worse by dilating pupils and letting in more harmful rays. Our glasses are cute AND safe."
+              answer="Both! But protection comes first. Every pair blocks 99.9% of UV radiation up to 400 nanometers -- verified by independent lab testing. We'll send you the test reports if you want them. Beware of cheap kids sunglasses that are just dark-tinted plastic with no UV filter. Those actually make things worse by dilating pupils and letting in more harmful rays. Our glasses are cute AND safe."
             />
             <FaqItem
               question="My kid destroys everything. Will these survive?"
-              answer="That's literally what we designed them for. The baby silicone frames? Infinitely bendable. The toddler TPE frames? We've tested them to survive 500+ bending cycles and drops from 1.5 meters. The TR90 frames for older kids? Bend them 90 degrees — they snap right back. We can't promise they're 100% indestructible (kids are creative), but they're the toughest frames we know how to make."
+              answer="That's literally what we designed them for. The baby silicone frames? Infinitely bendable. The toddler TPE frames? We've tested them to survive 500+ bending cycles and drops from 1.5 meters. The TR90 frames for older kids? Bend them 90 degrees -- they snap right back. We can't promise they're 100% indestructible (kids are creative), but they're the toughest frames we know how to make."
             />
             <FaqItem
               question="What certifications do these have? I need to know for my store."
-              answer="Everything you need: CPSIA (mandatory for US children's products — lead under 100ppm, zero phthalates), ASTM F963 (US toy safety), EN71 (EU toy safety), CE marking, and FDA optical standards. We provide complete certification documents with every wholesale order. If customs asks questions, you'll have the paperwork ready."
+              answer="Everything you need: CPSIA (mandatory for US children's products -- lead under 100ppm, zero phthalates), ASTM F963 (US toy safety), EN71 (EU toy safety), CE marking, and FDA optical standards. We provide complete certification documents with every wholesale order. If customs asks questions, you'll have the paperwork ready."
             />
             <FaqItem
               question="Can I customize with our brand or cartoon characters?"
-              answer="Totally. Custom colors (20+ standards plus Pantone matching), character designs on temples, your brand logo, glitter-infused frames, glow-in-the-dark temples — you name it. MOQ for custom designs is 300 pieces per style. We've done licensed character collaborations, school mascot designs, and even matching parent-child sets. Just send us your idea and we'll mock it up."
+              answer="Totally. Custom colors (20+ standards plus Pantone matching), character designs on temples, your brand logo, glitter-infused frames, glow-in-the-dark temples -- you name it. MOQ for custom designs is 300 pieces per style. We've done licensed character collaborations, school mascot designs, and even matching parent-child sets. Just send us your idea and we'll mock it up."
             />
             <FaqItem
               question="Do the baby sunglasses come with straps?"
-              answer="Yep — detachable adjustable neoprene straps, adjustable from 14cm to 18cm. Soft on baby skin, secure enough to stay on a wiggly baby. For toddler frames (ages 3-5), we offer optional strap attachments that clip on and off. Most parents use the strap until around age 3-4, then switch to regular temples once the kid is old enough to keep them on."
+              answer="Yep -- detachable adjustable neoprene straps, adjustable from 14cm to 18cm. Soft on baby skin, secure enough to stay on a wiggly baby. For toddler frames (ages 3-5), we offer optional strap attachments that clip on and off. Most parents use the strap until around age 3-4, then switch to regular temples once the kid is old enough to keep them on."
             />
           </div>
         </section>
@@ -353,7 +353,7 @@ export default function KidsPage() {
           <h2 className="text-3xl font-bold mb-4">Protect Little Eyes. Build Parent Trust.</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
             Children&apos;s boutiques, toy stores, pediatric offices, summer camps, beach resorts,
-            school supply stores — our kids sunglasses sell everywhere parents shop. Full
+            school supply stores -- our kids sunglasses sell everywhere parents shop. Full
             safety documentation included. Free samples available.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -400,12 +400,12 @@ export default function KidsPage() {
           {
             "@type": "Question",
             "name": "Can I customize kids sunglasses with brand logos or characters?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Yes — custom colors, character designs, brand logos, glitter frames, glow-in-the-dark temples. MOQ for custom designs is 300 pieces per style." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Yes -- custom colors, character designs, brand logos, glitter frames, glow-in-the-dark temples. MOQ for custom designs is 300 pieces per style." }
           },
           {
             "@type": "Question",
             "name": "Do baby sunglasses come with head straps?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Yes — detachable adjustable neoprene straps (14-18cm). Toddler frames have optional clip-on straps. Most parents use straps until age 3-4." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Yes -- detachable adjustable neoprene straps (14-18cm). Toddler frames have optional clip-on straps. Most parents use straps until age 3-4." }
           }
         ]
       })}} />

@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'TR90 vs Acetat vs Metall Sonnenbrillen Rahmen: Der Vollständige Käuferführer 2026',
-  description: 'Ein Fabrikbesitzer erklärt die echten Unterschiede zwischen TR90, Acetat und Metall Rahmen — Haltbarkeit, Gewicht, Kosten, und welches Material richtig für Ihre Marke ist.',
+  description: 'Ein Fabrikbesitzer erklärt die echten Unterschiede zwischen TR90, Acetat und Metall Rahmen -- Haltbarkeit, Gewicht, Kosten, und welches Material richtig für Ihre Marke ist.',
   keywords: 'TR90 vs Acetat vs Metall Sonnenbrille, Brillenrahmen Materialien, TR90 Rahmen, Acetat Rahmen, Metall Rahmen, leichte Sonnenbrille, flexible Sonnenbrille, Großhandel Sonnenbrillen Rahmen',
   alternates: {
     canonical: '/de/blog/tr90-azetat-metal-brillenrahmen',
@@ -27,7 +27,7 @@ export default function Page() {
           "dateModified": "2026-05-23",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Gründer", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Ein Fabrikbesitzer erklärt die echten Unterschiede zwischen TR90, Acetat und Metall Rahmen — Haltbarkeit, Gewicht, Kosten, und welches Material richtig für Ihre Marke ist.",
+          "description": "Ein Fabrikbesitzer erklärt die echten Unterschiede zwischen TR90, Acetat und Metall Rahmen -- Haltbarkeit, Gewicht, Kosten, und welches Material richtig für Ihre Marke ist.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/de/blog/tr90-azetat-metal-brillenrahmen" },
           "inLanguage": "de"
         })}} />
@@ -36,8 +36,8 @@ export default function Page() {
           "@context": "https://schema.org",
           "@type": "FAQPage",
           "mainEntity": [
-            { "@type": "Question", "name": "Welches Rahmenmaterial ist am haltbarsten?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 ist am haltbarsten für Schlagfestigkeit und Flexibilität — es kann sich biegen und ohne Bruch in Form zurückkehren. Acetat ist für täglichen Gebrauch haltbar, kann aber unter extremem Stress reißen. Metallrahmen sind stark, können sich aber verformen und sind schwerer zu reparieren. Für aktiven Sport oder Kinder ist TR90 der klare Gewinner." } },
-            { "@type": "Question", "name": "Welches Rahmenmaterial ist am leichtesten?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 ist am leichtesten — ein typischer TR90-Rahmen wiegt 15-20 Gramm. Metallrahmen sind als nächstes mit 20-30 Gramm je nach Legierung. Acetat ist am schwersten mit 25-40 Gramm, weil es aus massiven Materialblöcken geschnitzt wird. Wenn Gewicht Ihre Priorität ist, ist TR90 die beste Wahl." } },
+            { "@type": "Question", "name": "Welches Rahmenmaterial ist am haltbarsten?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 ist am haltbarsten für Schlagfestigkeit und Flexibilität -- es kann sich biegen und ohne Bruch in Form zurückkehren. Acetat ist für täglichen Gebrauch haltbar, kann aber unter extremem Stress reißen. Metallrahmen sind stark, können sich aber verformen und sind schwerer zu reparieren. Für aktiven Sport oder Kinder ist TR90 der klare Gewinner." } },
+            { "@type": "Question", "name": "Welches Rahmenmaterial ist am leichtesten?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 ist am leichtesten -- ein typischer TR90-Rahmen wiegt 15-20 Gramm. Metallrahmen sind als nächstes mit 20-30 Gramm je nach Legierung. Acetat ist am schwersten mit 25-40 Gramm, weil es aus massiven Materialblöcken geschnitzt wird. Wenn Gewicht Ihre Priorität ist, ist TR90 die beste Wahl." } },
             { "@type": "Question", "name": "Welches Rahmenmaterial ist am besten für Mode-Brillen?", "acceptedAnswer": { "@type": "Answer", "text": "Acetat ist der Goldstandard für Mode-Sonnenbrillen. Es kann in kühne, dicke Formen geschnitten, hochglanzpoliert werden und kommt in Hunderten von Farben und Mustern (Schildpatt, Marmor, Farbverlauf, transparent). Luxuxmarken wie Tom Ford, Gucci und Prada verwenden fast ausschließlich Acetat." } },
             { "@type": "Question", "name": "Wie viel kosten verschiedene Rahmenmaterialien im Großhandel?", "acceptedAnswer": { "@type": "Answer", "text": "Im Werks-Großhandel: TR90-Rahmen kosten $3-8/Paar je nach Komplexität. Acetatrahmen kosten $5-15/Paar (handpoliertes Premium-Acetat kann $20+ erreichen). Metallrahmen kosten $4-12/Paar je nach Legierung und Beschichtung." } },
             { "@type": "Question", "name": "Sind Metallrahmen besser für Menschen mit Allergien?", "acceptedAnswer": { "@type": "Answer", "text": "Es hängt vom Metall ab. Edelstahl und Titan sind hypoallergen und sicher für empfindliche Haut. Einige billigere Metalllegierungen enthalten jedoch Nickel, was allergische Reaktionen verursachen kann. Wenn Sie Metallrahmen für eine Marke beschaffen, geben Sie immer nickelfreie Legierungen an." } }
@@ -88,9 +88,9 @@ export default function Page() {
             Wenn Sie Sonnenbrillen für Ihre Marke beschaffen, wählen Sie im Wesentlichen zwischen drei Rahmenmaterialien:
           </p>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>TR90</strong> — Ein flexibles, ultraleichtes Thermoplast aus der Schweiz (Gril TR90 ist die Premium-Version)</li>
-            <li><strong>Acetat</strong> — Ein pflanzlicher Kunststoff, der in kühne, premium Formen geschnitzt und poliert wird</li>
-            <li><strong>Metall</strong> — Edelstahl-, Aluminium- oder Titanrahmen für einen klassischen, eleganten Look</li>
+            <li><strong>TR90</strong> -- Ein flexibles, ultraleichtes Thermoplast aus der Schweiz (Gril TR90 ist die Premium-Version)</li>
+            <li><strong>Acetat</strong> -- Ein pflanzlicher Kunststoff, der in kühne, premium Formen geschnitzt und poliert wird</li>
+            <li><strong>Metall</strong> -- Edelstahl-, Aluminium- oder Titanrahmen für einen klassischen, eleganten Look</li>
           </ul>
           <p className="text-gray-700 mb-4">
             Jedes hat Stärken und Schwächen. Keines ist pauschal das &quot;beste&quot;. Die richtige Wahl hängt vom Positionierung Ihrer Marke, Ihrem Zielkunden und Ihrem Preisniveau ab.
@@ -107,12 +107,12 @@ export default function Page() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Schlüsseleigenschaften</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Gewicht:</strong> 15-20 Gramm pro Rahmen — die leichteste verfügbare Option</li>
+            <li><strong>Gewicht:</strong> 15-20 Gramm pro Rahmen -- die leichteste verfügbare Option</li>
             <li><strong>Flexibilität:</strong> Kann sich erheblich biegen und ohne Bruch in Form zurückkehren</li>
-            <li><strong>Schlagfestigkeit:</strong> Extrem hoch — übersteht Stürze, Sitzen und Treten</li>
+            <li><strong>Schlagfestigkeit:</strong> Extrem hoch -- übersteht Stürze, Sitzen und Treten</li>
             <li><strong>Oberflächenfinish:</strong> Matt oder halbglänzend, kann nicht wie Acetat hochglanzpoliert werden</li>
-            <li><strong>Farboptionen:</strong> Begrenzt auf spritzgegossene Farben — keine Schildpatt-, Marmor- oder Schichtmuster</li>
-            <li><strong>Hypoallergen:</strong> Ja — sicher für alle Hauttypen</li>
+            <li><strong>Farboptionen:</strong> Begrenzt auf spritzgegossene Farben -- keine Schildpatt-, Marmor- oder Schichtmuster</li>
+            <li><strong>Hypoallergen:</strong> Ja -- sicher für alle Hauttypen</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Am Besten Für</h3>
@@ -125,7 +125,7 @@ export default function Page() {
           </ul>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-4 mb-6">
-            <p className="text-blue-800 font-medium">💡 Fabriktipp: Wenn Sie TR90 beschaffen, verlangen Sie &quot;Gril TR90&quot; (das Schweizer Original) statt generischem TR90. Der Qualitätsunterschied ist spürbar — bessere Flexibilität, bessere Farbkonsistenz und weniger Risiko der Rahmenverformung über Zeit.</p>
+            <p className="text-blue-800 font-medium">💡 Fabriktipp: Wenn Sie TR90 beschaffen, verlangen Sie &quot;Gril TR90&quot; (das Schweizer Original) statt generischem TR90. Der Qualitätsunterschied ist spürbar -- bessere Flexibilität, bessere Farbkonsistenz und weniger Risiko der Rahmenverformung über Zeit.</p>
           </div>
         </section>
 
@@ -139,12 +139,12 @@ export default function Page() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Schlüsseleigenschaften</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Gewicht:</strong> 25-40 Gramm pro Rahmen — die schwerste Option</li>
-            <li><strong>Flexibilität:</strong> Niedrig — starr und substantiell, kann unter extremem Stress reißen</li>
+            <li><strong>Gewicht:</strong> 25-40 Gramm pro Rahmen -- die schwerste Option</li>
+            <li><strong>Flexibilität:</strong> Niedrig -- starr und substantiell, kann unter extremem Stress reißen</li>
             <li><strong>Oberflächenfinish:</strong> Hochglanzpolitur, reiches und Premium-Gefühl</li>
-            <li><strong>Farboptionen:</strong> Virtuell unbegrenzt — Unifarben, Schildpatt, Marmor, Farbverlauf, transparent, geschichtet, gemischte Muster</li>
-            <li><strong>Formoptionen:</strong> Kühn, dick, skulptural — Acetat kann in jede Form geschnitzt werden</li>
-            <li><strong>Hypoallergen:</strong> Ja — pflanzlichen Ursprungs, sicher für empfindliche Haut</li>
+            <li><strong>Farboptionen:</strong> Virtuell unbegrenzt -- Unifarben, Schildpatt, Marmor, Farbverlauf, transparent, geschichtet, gemischte Muster</li>
+            <li><strong>Formoptionen:</strong> Kühn, dick, skulptural -- Acetat kann in jede Form geschnitzt werden</li>
+            <li><strong>Hypoallergen:</strong> Ja -- pflanzlichen Ursprungs, sicher für empfindliche Haut</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Am Besten Für</h3>
@@ -157,7 +157,7 @@ export default function Page() {
           </ul>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-4 mb-6">
-            <p className="text-amber-800 font-medium">🔥 Fabriktipp: Acetat-Qualität variiert dramatisch nach Herkunft. Italienisches Acetat (von Mazza oder Albini) ist der Goldstandard — reichere Farben, bessere Politur, konsistenteres Material. Chinesisches Acetat ist billiger, kann aber flach und matt aussehen. Für eine Premium-Marke bestehen Sie auf italienischem Acetat.</p>
+            <p className="text-amber-800 font-medium">🔥 Fabriktipp: Acetat-Qualität variiert dramatisch nach Herkunft. Italienisches Acetat (von Mazza oder Albini) ist der Goldstandard -- reichere Farben, bessere Politur, konsistenteres Material. Chinesisches Acetat ist billiger, kann aber flach und matt aussehen. Für eine Premium-Marke bestehen Sie auf italienischem Acetat.</p>
           </div>
         </section>
 
@@ -172,17 +172,17 @@ export default function Page() {
             <li><strong>Edelstahl:</strong> Am häufigsten, gute Balance aus Festigkeit und Kosten</li>
             <li><strong>Titan:</strong> Premium, leicht, hypoallergen, teurer</li>
             <li><strong>Aluminium:</strong> Sehr leicht, moderner Look, weniger verbreitet</li>
-            <li><strong>Nickel-Silber (Monel):</strong> Billig, leicht zu verarbeiten, kann aber Allergien verursachen — vermeiden für Premium-Marken</li>
+            <li><strong>Nickel-Silber (Monel):</strong> Billig, leicht zu verarbeiten, kann aber Allergien verursachen -- vermeiden für Premium-Marken</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Schlüsseleigenschaften</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Gewicht:</strong> 20-30 Gramm pro Rahmen — mittleres Gewicht</li>
-            <li><strong>Flexibilität:</strong> Niedrig bis mittel — kann sich biegen, kehrt aber möglicherweise nicht in Form zurück</li>
+            <li><strong>Gewicht:</strong> 20-30 Gramm pro Rahmen -- mittleres Gewicht</li>
+            <li><strong>Flexibilität:</strong> Niedrig bis mittel -- kann sich biegen, kehrt aber möglicherweise nicht in Form zurück</li>
             <li><strong>Oberflächenfinish:</strong> Kann in Gold, Silber, Roségold, Gunmetal, Matt-Schwarz etc. beschichtet werden</li>
-            <li><strong>Formoptionen:</strong> Dünne, elegante, Draht-Rahmen-Designs — kann keine kühnen/dicken Looks</li>
-            <li><strong>Haltbarkeit:</strong> Stark aber Scharniere sind der schwache Punkt — Metall ermüdet über Zeit</li>
-            <li><strong>Hypoallergen:</strong> Hängt von der Legierung ab — Edelstahl und Titan sind sicher, Nickel-Legierungen nicht</li>
+            <li><strong>Formoptionen:</strong> Dünne, elegante, Draht-Rahmen-Designs -- kann keine kühnen/dicken Looks</li>
+            <li><strong>Haltbarkeit:</strong> Stark aber Scharniere sind der schwache Punkt -- Metall ermüdet über Zeit</li>
+            <li><strong>Hypoallergen:</strong> Hängt von der Legierung ab -- Edelstahl und Titan sind sicher, Nickel-Legierungen nicht</li>
           </ul>
 
           <div className="bg-red-50 border-l-4 border-red-500 p-4 mb-6">
@@ -197,14 +197,14 @@ export default function Page() {
             <div className="bg-gray-50 rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Welches Rahmenmaterial ist am haltbarsten?</h3>
               <p className="text-gray-700">
-                TR90 ist am haltbarsten für Schlagfestigkeit und Flexibilität — es kann sich biegen und ohne Bruch in Form zurückkehren. Acetat ist für täglichen Gebrauch haltbar, kann aber unter extremem Stress reißen. Metallrahmen sind stark, können sich aber verformen und sind schwerer zu reparieren. Für aktiven Sport oder Kinder ist TR90 der klare Gewinner. Für modefokussierte Linien bietet Acetat die beste Balance aus Haltbarkeit und Premium-Gefühl.
+                TR90 ist am haltbarsten für Schlagfestigkeit und Flexibilität -- es kann sich biegen und ohne Bruch in Form zurückkehren. Acetat ist für täglichen Gebrauch haltbar, kann aber unter extremem Stress reißen. Metallrahmen sind stark, können sich aber verformen und sind schwerer zu reparieren. Für aktiven Sport oder Kinder ist TR90 der klare Gewinner. Für modefokussierte Linien bietet Acetat die beste Balance aus Haltbarkeit und Premium-Gefühl.
               </p>
             </div>
 
             <div className="bg-gray-50 rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Welches Rahmenmaterial ist am leichtesten?</h3>
               <p className="text-gray-700">
-                TR90 ist am leichtesten — ein typischer TR90-Rahmen wiegt 15-20 Gramm. Metallrahmen sind als nächstes mit 20-30 Gramm je nach Legierung. Acetat ist am schwersten mit 25-40 Gramm, weil es aus massiven Materialblöcken geschnitzt wird. Wenn Gewicht Ihre Priorität ist (für ganztägigen Komfort oder Kinder-Sonnenbrillen), ist TR90 die beste Wahl.
+                TR90 ist am leichtesten -- ein typischer TR90-Rahmen wiegt 15-20 Gramm. Metallrahmen sind als nächstes mit 20-30 Gramm je nach Legierung. Acetat ist am schwersten mit 25-40 Gramm, weil es aus massiven Materialblöcken geschnitzt wird. Wenn Gewicht Ihre Priorität ist (für ganztägigen Komfort oder Kinder-Sonnenbrillen), ist TR90 die beste Wahl.
               </p>
             </div>
 
@@ -234,7 +234,7 @@ export default function Page() {
         <div className="bg-gradient-to-r from-primary-600 to-primary-700 rounded-2xl p-8 text-white text-center">
           <h2 className="text-3xl font-bold mb-4">Bereit, die Richtigen Rahmen zu Beschaffen?</h2>
           <p className="text-xl mb-6 opacity-90">
-            Ob Sie TR90 für Leistung, Acetat für Mode oder Metall für klassischen Stil brauchen — wir helfen Ihnen, den perfekten Rahmen für Ihre Marke zu finden.
+            Ob Sie TR90 für Leistung, Acetat für Mode oder Metall für klassischen Stil brauchen -- wir helfen Ihnen, den perfekten Rahmen für Ihre Marke zu finden.
           </p>
           <Link 
             href="/de/kontakt" 

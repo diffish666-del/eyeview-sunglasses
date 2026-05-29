@@ -27,7 +27,7 @@ export default function EncontrarFabricanteOculosSolPage() {
           "dateModified": "2026-05-02",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Um dono de fábrica revela como encontrar, avaliar e escolher um fabricante de óculos de sol — com 10 critérios essenciais, alertas de golpes e dicas reais de negociação.",
+          "description": "Um dono de fábrica revela como encontrar, avaliar e escolher um fabricante de óculos de sol -- com 10 critérios essenciais, alertas de golpes e dicas reais de negociação.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/pt/blog/encontrar-fabricante-oculos-sol" },
           "inLanguage": "pt"
         })}} />
@@ -39,17 +39,17 @@ export default function EncontrarFabricanteOculosSolPage() {
             {
               "@type": "Question",
               "name": "Onde posso encontrar fabricantes de óculos de sol?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Os principais canais são: Alibaba e Global Sources (maiores diretórios online), feiras do setor como MIDO em Milão e Vision Expo em Las Vegas, busca no Google com termos específicos, associações do setor como The Vision Council, e indicações diretas de outros donos de marca. Cada canal tem prós e contras — o Alibaba tem mais opções mas exige avaliação cuidadosa, enquanto feiras permitem conhecer fábricas pessoalmente." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Os principais canais são: Alibaba e Global Sources (maiores diretórios online), feiras do setor como MIDO em Milão e Vision Expo em Las Vegas, busca no Google com termos específicos, associações do setor como The Vision Council, e indicações diretas de outros donos de marca. Cada canal tem prós e contras -- o Alibaba tem mais opções mas exige avaliação cuidadosa, enquanto feiras permitem conhecer fábricas pessoalmente." }
             },
             {
               "@type": "Question",
               "name": "Como verifico se um fabricante de óculos é legítimo?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Verifique: licenças comerciais verificadas, certificações da fábrica (CE, FDA, ISO 9001), fotos e vídeos reais da fábrica (não imagens de banco), disposição para fazer videochamada do chão de fábrica, relatórios de auditoria de terceiros (BSCI, Sedex), histórico de participação em feiras, e referências de clientes existentes. Também peça amostras antes de se comprometer com qualquer produção — uma fábrica legítima enviará amostras com prazer." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Verifique: licenças comerciais verificadas, certificações da fábrica (CE, FDA, ISO 9001), fotos e vídeos reais da fábrica (não imagens de banco), disposição para fazer videochamada do chão de fábrica, relatórios de auditoria de terceiros (BSCI, Sedex), histórico de participação em feiras, e referências de clientes existentes. Também peça amostras antes de se comprometer com qualquer produção -- uma fábrica legítima enviará amostras com prazer." }
             },
             {
               "@type": "Question",
               "name": "Qual é um bom MOQ para fabricação de óculos de sol?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Para ODM (designs existentes com sua marca): 100-300 peças por modelo é padrão, embora algumas fábricas ofereçam 50 peças para primeiros pedidos. Para OEM (designs personalizados): 300-1.000 peças por modelo devido aos custos de molde. Desconfie de fábricas com MOQs extremamente baixos (menos de 20 peças) — geralmente são empresas de trading, não fabricantes reais." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Para ODM (designs existentes com sua marca): 100-300 peças por modelo é padrão, embora algumas fábricas ofereçam 50 peças para primeiros pedidos. Para OEM (designs personalizados): 300-1.000 peças por modelo devido aos custos de molde. Desconfie de fábricas com MOQs extremamente baixos (menos de 20 peças) -- geralmente são empresas de trading, não fabricantes reais." }
             },
             {
               "@type": "Question",
@@ -59,7 +59,7 @@ export default function EncontrarFabricanteOculosSolPage() {
             {
               "@type": "Question",
               "name": "Quanto tempo leva para receber óculos de sol de um fabricante?",
-              "acceptedAnswer": { "@type": "Answer", "text": "ODM: 20-45 dias da confirmação do pedido ao envio. OEM: 45-90 dias incluindo fabricação de moldes, amostras e produção. Acrescente 5-30 dias para envio dependendo do método (aéreo vs marítimo). Primeiros pedidos sempre levam mais tempo devido às rodadas de amostras e aprovações — planeje 2-3 semanas extras para o vai e volta." }
+              "acceptedAnswer": { "@type": "Answer", "text": "ODM: 20-45 dias da confirmação do pedido ao envio. OEM: 45-90 dias incluindo fabricação de moldes, amostras e produção. Acrescente 5-30 dias para envio dependendo do método (aéreo vs marítimo). Primeiros pedidos sempre levam mais tempo devido às rodadas de amostras e aprovações -- planeje 2-3 semanas extras para o vai e volta." }
             },
             {
               "@type": "Question",
@@ -80,7 +80,7 @@ export default function EncontrarFabricanteOculosSolPage() {
             Como Encontrar um Fabricante de Óculos de Sol Confiável em 2026
           </h1>
           <p className="text-xl text-gray-600">
-            Vou te contar exatamente como encontrar uma fábrica como a minha — e, mais importante, 
+            Vou te contar exatamente como encontrar uma fábrica como a minha -- e, mais importante, 
             como evitar as que vão desperdiçar seu dinheiro e seu tempo.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -119,7 +119,7 @@ export default function EncontrarFabricanteOculosSolPage() {
           <p>
             Marcus me encontrou por um tópico no Reddit. Consertamos o produto dele, reconstruímos a linha, e 
             ele agora está indo bem. Mas aquela lição de US$8.000 não precisava ter acontecido. E é por isso que 
-            estou escrevendo isto — da perspectiva de alguém que está do lado da fabricação desde 2006. Conheço 
+            estou escrevendo isto -- da perspectiva de alguém que está do lado da fabricação desde 2006. Conheço 
             cada truque, cada atalho e cada armadilha, porque vi tudo acontecer centenas de vezes.
           </p>
 
@@ -156,7 +156,7 @@ export default function EncontrarFabricanteOculosSolPage() {
           <p>
             <a href="https://thevisioncouncil.org/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">The Vision Council</a> (EUA) 
             e <a href="https://www.mido.com/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">MIDO</a> (Itália/global) 
-            mantêm diretórios de fabricantes. Eles tendem a ser mais curados que o Alibaba — você não vai encontrar 
+            mantêm diretórios de fabricantes. Eles tendem a ser mais curados que o Alibaba -- você não vai encontrar 
             operações de fundo de quintal nas listagens deles. A{' '}
             <a href="https://www.anfao.it/en/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">associação italiana de óculos ANFAO</a> é 
             outro recurso sólido se você está considerando fabricação europeia.
@@ -176,7 +176,7 @@ export default function EncontrarFabricanteOculosSolPage() {
           </p>
           <p>
             <a href="https://www.alibaba.com/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Alibaba</a> é 
-            um marketplace, não um diretório de fábricas. Qualquer um pode se cadastrar — incluindo empresas de 
+            um marketplace, não um diretório de fábricas. Qualquer um pode se cadastrar -- incluindo empresas de 
             trading. Uma empresa de trading é essencialmente um intermediário: eles não fabricam nada. Pegam seu 
             pedido, encontram a fábrica mais barata que aceita, adicionam um markup de 15-30% e enviam para você. 
             Você perde controle sobre qualidade, a comunicação é mais lenta, e problemas são mais difíceis de 
@@ -190,7 +190,7 @@ export default function EncontrarFabricanteOculosSolPage() {
           <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-red-900 mb-3">Sinais de Trading Company no Alibaba:</h3>
             <ul className="text-red-800 space-y-2">
-              <li><strong>Variedade de produtos absurdamente ampla.</strong> Óculos de sol E capas de celular E bolsas E joias? Isso não é uma fábrica — é um catálogo.</li>
+              <li><strong>Variedade de produtos absurdamente ampla.</strong> Óculos de sol E capas de celular E bolsas E joias? Isso não é uma fábrica -- é um catálogo.</li>
               <li><strong>Fotos da fábrica parecem genéricas ou de banco de imagens.</strong> Fábricas reais mostram chãos de produção reais e bagunçados. Empresas de trading mostram fotos impecáveis, suspeitamente perfeitas.</li>
               <li><strong>Endereço é um prédio comercial, não uma zona industrial.</strong> Coloque o endereço no Google Maps. Uma fábrica deveria estar em uma área industrial, não no 15º andar de uma torre comercial.</li>
               <li><strong>Evitam videochamadas.</strong> Peça um tour ao vivo por vídeo da &quot;fábrica&quot; deles. Um fabricante real vai mostrar com orgulho. Uma empresa de trading vai dar desculpas.</li>
@@ -200,7 +200,7 @@ export default function EncontrarFabricanteOculosSolPage() {
 
           <p>
             Dito isso, o Alibaba <em>pode</em> funcionar. Algumas fábricas legítimas estão listadas lá. Use-o como 
-            ferramenta de descoberta — encontre fornecedores potenciais, depois verifique de forma independente 
+            ferramenta de descoberta -- encontre fornecedores potenciais, depois verifique de forma independente 
             através de videochamadas, pedidos de amostras e auditorias de terceiros.
           </p>
 
@@ -213,7 +213,7 @@ export default function EncontrarFabricanteOculosSolPage() {
 
           <div className="space-y-6 my-8">
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">MIDO — Milão, Itália (Fevereiro)</h3>
+              <h3 className="font-bold text-lg mb-2">MIDO -- Milão, Itália (Fevereiro)</h3>
               <p className="text-gray-600 text-sm">
                 A maior feira de óculos do mundo. Mais de 50.000 visitantes, mais de 1.200 expositores. Se você 
                 leva óculos a sério, precisa ir à MIDO pelo menos uma vez. Os fabricantes italianos e chineses 
@@ -221,7 +221,7 @@ export default function EncontrarFabricanteOculosSolPage() {
               </p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">Vision Expo — Las Vegas e Nova York (Março e Outubro)</h3>
+              <h3 className="font-bold text-lg mb-2">Vision Expo -- Las Vegas e Nova York (Março e Outubro)</h3>
               <p className="text-gray-600 text-sm">
                 As principais feiras de óculos dos EUA. Menores que a MIDO, mas mais focadas no mercado americano. 
                 Bom para conhecer fabricantes que já entendem os requisitos de conformidade dos EUA (FDA, ANSI Z80.3). 
@@ -229,7 +229,7 @@ export default function EncontrarFabricanteOculosSolPage() {
               </p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">Feira de Cantão — Guangzhou, China (Abril e Outubro)</h3>
+              <h3 className="font-bold text-lg mb-2">Feira de Cantão -- Guangzhou, China (Abril e Outubro)</h3>
               <p className="text-gray-600 text-sm">
                 A mãe de todas as feiras chinesas. Não é específica de óculos, mas a seção de óculos de sol é 
                 enorme. Você encontra de tudo, desde óculos de US$0,50 de posto de gasolina até armações premium 
@@ -238,7 +238,7 @@ export default function EncontrarFabricanteOculosSolPage() {
               </p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">SILMO — Paris, França (Setembro)</h3>
+              <h3 className="font-bold text-lg mb-2">SILMO -- Paris, França (Setembro)</h3>
               <p className="text-gray-600 text-sm">
                 A segunda maior feira de óculos da Europa. Mais focada em design que a MIDO. Se sua marca é voltada 
                 para moda e você quer encontrar fabricantes com forte capacidade de design, SILMO é o lugar. Os 
@@ -249,7 +249,7 @@ export default function EncontrarFabricanteOculosSolPage() {
 
           <h2 id="dez-criterios" className="text-3xl font-bold mt-16 mb-6">10 Coisas que Eu Verificaria se Fosse Você</h2>
           <p>
-            Se eu estivesse do outro lado da mesa — um dono de marca avaliando uma fábrica — aqui está exatamente 
+            Se eu estivesse do outro lado da mesa -- um dono de marca avaliando uma fábrica -- aqui está exatamente 
             o que eu olharia. Sem enrolação, apenas o que realmente prevê se você vai receber um bom produto e 
             um parceiro confiável.
           </p>
@@ -266,7 +266,7 @@ export default function EncontrarFabricanteOculosSolPage() {
           <p>
             Fabricação de óculos de sol não é algo que se domina em dois anos. Eu procuro no mínimo 8+ anos. 
             Nesse ponto, uma fábrica já sobreviveu a ciclos econômicos, construiu relacionamentos com fornecedores 
-            e resolveu os problemas no seu processo de produção. Estamos nisso desde 2006 — e eu ainda estou aprendendo.
+            e resolveu os problemas no seu processo de produção. Estamos nisso desde 2006 -- e eu ainda estou aprendendo.
           </p>
 
           <h3 className="text-xl font-bold mt-8 mb-3">3. Certificações</h3>
@@ -291,21 +291,21 @@ export default function EncontrarFabricanteOculosSolPage() {
 
           <h3 className="text-xl font-bold mt-8 mb-3">5. Qualidade das Amostras</h3>
           <p>
-            Peça amostras antes de se comprometer com qualquer coisa. Não um par — peça 3-5 pares de diferentes 
+            Peça amostras antes de se comprometer com qualquer coisa. Não um par -- peça 3-5 pares de diferentes 
             estilos e materiais. Verifique:
           </p>
           <ul>
-            <li>Suavidade da dobradiça — abra e feche 50 vezes. Ficam frouxas?</li>
-            <li>Clareza da lente — segure contra um texto. Alguma distorção ou mudança de cor?</li>
-            <li>Acabamento da armação — passe o dedo em cada borda. Alguma aspereza ou ponto afiado?</li>
-            <li>Simetria — coloque sobre uma mesa plana. Ficam nivelados?</li>
-            <li>Aplicação do logo — está nítido, centralizado e durável? Tente arranhá-lo levemente.</li>
+            <li>Suavidade da dobradiça -- abra e feche 50 vezes. Ficam frouxas?</li>
+            <li>Clareza da lente -- segure contra um texto. Alguma distorção ou mudança de cor?</li>
+            <li>Acabamento da armação -- passe o dedo em cada borda. Alguma aspereza ou ponto afiado?</li>
+            <li>Simetria -- coloque sobre uma mesa plana. Ficam nivelados?</li>
+            <li>Aplicação do logo -- está nítido, centralizado e durável? Tente arranhá-lo levemente.</li>
           </ul>
 
           <h3 className="text-xl font-bold mt-8 mb-3">6. Qualidade da Comunicação</h3>
           <p>
             Quão rápido eles respondem? Quão claro é o inglês deles? Eles fazem perguntas inteligentes sobre 
-            seu projeto ou apenas cotam um preço? Bons fabricantes são curiosos sobre sua marca — querem 
+            seu projeto ou apenas cotam um preço? Bons fabricantes são curiosos sobre sua marca -- querem 
             entender o que você está construindo para ajudar a construir melhor. Se a comunicação parece 
             arrancar dente, a produção vai parecer arrancar dente também.
           </p>
@@ -323,7 +323,7 @@ export default function EncontrarFabricanteOculosSolPage() {
             Pergunte: &quot;Com quantas marcas ativas vocês trabalham?&quot; &quot;Em quais mercados eles vendem?&quot; 
             Uma fábrica com 100+ clientes ativos em vários países se provou. Uma fábrica que não consegue 
             citar uma única referência deveria te deixar nervoso. Nós trabalhamos com mais de 500 marcas em 
-            mais de 50 países — e temos prazer em compartilhar referências.
+            mais de 50 países -- e temos prazer em compartilhar referências.
           </p>
 
           <h3 className="text-xl font-bold mt-8 mb-3">9. Processo de Controle de Qualidade</h3>
@@ -340,13 +340,13 @@ export default function EncontrarFabricanteOculosSolPage() {
             <a href="https://www.sgs.com/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">SGS</a> ou Bureau Veritas) 
             inspecione seu pedido antes do envio? Se sim, ótimo sinal. Se resistem ou dão desculpas, 
             pergunte-se por que uma fábrica teria medo de verificação de qualidade independente. Nós acolhemos 
-            inspeções de terceiros — na verdade, incentivamos para primeiros pedidos porque constrói confiança mais rápido.
+            inspeções de terceiros -- na verdade, incentivamos para primeiros pedidos porque constrói confiança mais rápido.
           </p>
 
           <h2 id="sinais-alerta" className="text-3xl font-bold mt-16 mb-6">Sinais de Alerta: Saia Imediatamente</h2>
           <p>
             Estou neste setor há tempo suficiente para detectar problemas a quilômetros de distância. Se você 
-            ver qualquer um destes, não negocie — apenas saia.
+            ver qualquer um destes, não negocie -- apenas saia.
           </p>
 
           <div className="space-y-4 my-8">
@@ -382,7 +382,7 @@ export default function EncontrarFabricanteOculosSolPage() {
               <span className="text-2xl">🚩</span>
               <div>
                 <h4 className="font-bold text-red-900">Sem certificações, ou &quot;podemos conseguir depois&quot;</h4>
-                <p className="text-red-800 text-sm">CE, FDA, UV400 — essas levam meses para obter e exigem infraestrutura real de testes. Uma fábrica que ainda não as tem é novata ou não se importa com conformidade.</p>
+                <p className="text-red-800 text-sm">CE, FDA, UV400 -- essas levam meses para obter e exigem infraestrutura real de testes. Uma fábrica que ainda não as tem é novata ou não se importa com conformidade.</p>
               </div>
             </div>
             <div className="flex gap-4 items-start bg-red-50 p-4 rounded-lg">
@@ -404,9 +404,9 @@ export default function EncontrarFabricanteOculosSolPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Como o Processo de Amostras Deve Funcionar</h3>
           <ol>
             <li><strong>Solicite 3-5 pares de amostra</strong> de diferentes estilos e materiais. Se está avaliando ODM, escolha do catálogo. Para OEM, envie suas especificações de design.</li>
-            <li><strong>Pague pelas amostras.</strong> Sim, amostras custam dinheiro — US$20-200 por par dependendo do tipo. Fábricas que oferecem &quot;amostras grátis&quot; estão ou desesperadas ou embutindo o custo no preço de produção. Eu cobro por amostras porque envio produto real de qualidade de produção, não lixo.</li>
-            <li><strong>Inspecione com cuidado.</strong> Quando as amostras chegarem, não apenas olhe — use-as. Use por uma semana. Limpe. Deixe cair (gentilmente). Abra e feche as dobradiças 100 vezes. Deixe no carro num dia quente. O objetivo é simular 3 meses de uso real em uma semana.</li>
-            <li><strong>Dê feedback detalhado.</strong> &quot;Ficaram legais&quot; não é feedback útil. &quot;A ponta da haste encrava na minha orelha depois de 20 minutos&quot; ou &quot;o tom cinza está quente demais, quero um cinza mais frio&quot; — isso é acionável. Boas fábricas adoram feedback detalhado porque significa menos problemas na produção.</li>
+            <li><strong>Pague pelas amostras.</strong> Sim, amostras custam dinheiro -- US$20-200 por par dependendo do tipo. Fábricas que oferecem &quot;amostras grátis&quot; estão ou desesperadas ou embutindo o custo no preço de produção. Eu cobro por amostras porque envio produto real de qualidade de produção, não lixo.</li>
+            <li><strong>Inspecione com cuidado.</strong> Quando as amostras chegarem, não apenas olhe -- use-as. Use por uma semana. Limpe. Deixe cair (gentilmente). Abra e feche as dobradiças 100 vezes. Deixe no carro num dia quente. O objetivo é simular 3 meses de uso real em uma semana.</li>
+            <li><strong>Dê feedback detalhado.</strong> &quot;Ficaram legais&quot; não é feedback útil. &quot;A ponta da haste encrava na minha orelha depois de 20 minutos&quot; ou &quot;o tom cinza está quente demais, quero um cinza mais frio&quot; -- isso é acionável. Boas fábricas adoram feedback detalhado porque significa menos problemas na produção.</li>
             <li><strong>Avalie amostras revisadas.</strong> Se mudanças foram necessárias, a fábrica deve enviar amostras atualizadas antes da produção. Compare com as originais. Eles realmente corrigiram o que você pediu? A atenção ao feedback da amostra é uma prévia da atenção à qualidade de produção.</li>
           </ol>
 
@@ -419,7 +419,7 @@ export default function EncontrarFabricanteOculosSolPage() {
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-3">Testes de Qualidade Estojoiros:</h3>
             <ul className="text-blue-800 space-y-2">
-              <li><strong>Teste UV:</strong> Peça à fábrica os relatórios de teste UV400. Se quiser verificar de forma independente, cartões de teste UV custam cerca de US$10 na Amazon. Segure a lente sobre o cartão na luz do sol — o cartão muda de cor baseado na transmissão UV.</li>
+              <li><strong>Teste UV:</strong> Peça à fábrica os relatórios de teste UV400. Se quiser verificar de forma independente, cartões de teste UV custam cerca de US$10 na Amazon. Segure a lente sobre o cartão na luz do sol -- o cartão muda de cor baseado na transmissão UV.</li>
               <li><strong>Clareza óptica:</strong> Segure a lente a 30 cm do olho e olhe para uma borda reta (batente de porta, borda de janela). Mova a lente lentamente. Se a linha reta entorta ou ondula, a lente tem distorção óptica. Rejeite.</li>
               <li><strong>Teste de polarização:</strong> Segure duas lentes polarizadas perpendiculares uma à outra (ângulo de 90°). Se ficarem completamente escuras, a polarização está funcionando. Se luz ainda passa, a polarização é fraca ou falsa.</li>
               <li><strong>Teste de dobradiça:</strong> Abra e feche as hastes 200 vezes. A tensão deve permanecer consistente. Se a dobradiça fica frouxa após 50 ciclos, vai ficar mole dentro de um mês de uso do cliente.</li>
@@ -439,13 +439,13 @@ export default function EncontrarFabricanteOculosSolPage() {
           <h2 id="negociacao" className="text-3xl font-bold mt-16 mb-6">Dicas de Negociação do Outro Lado da Mesa</h2>
           <p>
             Vou te dar uma vantagem injusta aqui: conselhos de negociação de alguém que já foi negociado 
-            milhares de vezes. Veja o que realmente funciona — e o que não funciona.
+            milhares de vezes. Veja o que realmente funciona -- e o que não funciona.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">O que Funciona ✅</h3>
           <ul>
             <li><strong>Mostre potencial de longo prazo.</strong> &quot;Estamos começando com 300 peças mas planejamos escalar para 5.000 dentro de um ano se a qualidade for boa.&quot; Eu dou preço melhor por isso porque estou investindo num relacionamento, não apenas preenchendo um pedido.</li>
-            <li><strong>Pegue cotações de 3-4 fábricas.</strong> Não minta sobre isso — apenas diga a cada fábrica que está comparando opções. Concorrência mantém todos honestos. &quot;Tenho três cotações entre US$5,50 e US$7,20 — onde vocês podem chegar?&quot; Isso é justo e direto.</li>
+            <li><strong>Pegue cotações de 3-4 fábricas.</strong> Não minta sobre isso -- apenas diga a cada fábrica que está comparando opções. Concorrência mantém todos honestos. &quot;Tenho três cotações entre US$5,50 e US$7,20 -- onde vocês podem chegar?&quot; Isso é justo e direto.</li>
             <li><strong>Ofereça pagar mais rápido.</strong> O padrão é 30% de entrada, 70% antes do envio. Se você pode fazer 50% de entrada ou pagamento integral na aprovação, algumas fábricas reduzem o preço 3-5% porque pagamento mais rápido reduz o risco de fluxo de caixa.</li>
             <li><strong>Aumente o volume por modelo.</strong> Ir de 200 para 500 peças de um modelo me dá um preço melhor do que 500 peças divididas em 5 modelos. O tempo de setup por modelo é um custo real.</li>
             <li><strong>Seja um bom cliente.</strong> Comunicação clara, feedback pontual nas amostras, pagamento no prazo. Fábricas lembram de bons clientes e dão prioridade quando os slots de produção estão apertados.</li>
@@ -455,8 +455,8 @@ export default function EncontrarFabricanteOculosSolPage() {
           <ul>
             <li><strong>&quot;Seu concorrente me cotou 50% menos.&quot;</strong> Não cotou não. Materiais custam o que custam. Se alguém cotou 50% menos, está usando materiais diferentes (piores) ou mentindo. Nós dois sabemos disso.</li>
             <li><strong>Pechinchar centavos em pedidos pequenos.</strong> Brigar por US$0,20 por unidade num pedido de 200 peças economiza US$40 no total. Não vale a boa vontade que você perde. Guarde a negociação dura para quando estiver pedindo 5.000+.</li>
-            <li><strong>Ameaçar ir para outro lugar.</strong> Ouvimos isso semanalmente. Os clientes que realmente saem por causa de preço geralmente são os que nenhuma fábrica quer — serão os primeiros a contestar qualidade, atrasar pagamento e deixar avaliações ruins.</li>
-            <li><strong>Pedir tudo de graça.</strong> Amostras grátis, moldes grátis, frete grátis, design grátis. Tudo tem um custo. Uma fábrica que dá tudo de graça está embutindo esse custo no seu preço unitário — você só não consegue ver.</li>
+            <li><strong>Ameaçar ir para outro lugar.</strong> Ouvimos isso semanalmente. Os clientes que realmente saem por causa de preço geralmente são os que nenhuma fábrica quer -- serão os primeiros a contestar qualidade, atrasar pagamento e deixar avaliações ruins.</li>
+            <li><strong>Pedir tudo de graça.</strong> Amostras grátis, moldes grátis, frete grátis, design grátis. Tudo tem um custo. Uma fábrica que dá tudo de graça está embutindo esse custo no seu preço unitário -- você só não consegue ver.</li>
           </ul>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
@@ -464,14 +464,14 @@ export default function EncontrarFabricanteOculosSolPage() {
             <p className="text-amber-800">
               O ponto ideal de negociação é 5-12% de desconto sobre a cotação inicial. Se uma fábrica cota 
               US$7,00/par, chegar a US$6,30-$6,65 é realista. Abaixo disso, estão cortando qualidade ou 
-              comendo a margem — nenhum dos dois é sustentável a longo prazo. Prefiro te dar um preço justo 
+              comendo a margem -- nenhum dos dois é sustentável a longo prazo. Prefiro te dar um preço justo 
               e entregar um ótimo produto do que ganhar uma guerra de preços e entregar lixo.
             </p>
           </div>
 
           <h2 id="primeiro-pedido" className="text-3xl font-bold mt-16 mb-6">Seu Primeiro Pedido: Passo a Passo</h2>
           <p>
-            Aqui está a sequência exata que sigo com cada novo cliente. Salve nos favoritos — você vai consultar de novo.
+            Aqui está a sequência exata que sigo com cada novo cliente. Salve nos favoritos -- você vai consultar de novo.
           </p>
 
           <ol className="space-y-4">
@@ -487,16 +487,16 @@ export default function EncontrarFabricanteOculosSolPage() {
             </li>
             <li>
               <strong>Semana 4-5: Avalie as amostras.</strong> Use as verificações de qualidade acima. Compare lado a lado. 
-              O vencedor nem sempre é o mais barato — é o que tem o melhor equilíbrio de qualidade, comunicação e preço.
+              O vencedor nem sempre é o mais barato -- é o que tem o melhor equilíbrio de qualidade, comunicação e preço.
             </li>
             <li>
               <strong>Semana 5-6: Negocie e feche.</strong> Discuta preço final, condições de pagamento, cronograma de 
-              produção e garantias de qualidade. Coloque tudo por escrito — um contrato de compra adequado ou fatura 
+              produção e garantias de qualidade. Coloque tudo por escrito -- um contrato de compra adequado ou fatura 
               proforma com especificações anexadas.
             </li>
             <li>
               <strong>Semana 6-7: Pague a entrada e inicie a produção.</strong> O padrão é 30% de entrada via T/T 
-              (transferência bancária). A fábrica inicia a produção. Mantenha comunicação — peça fotos de progresso 
+              (transferência bancária). A fábrica inicia a produção. Mantenha comunicação -- peça fotos de progresso 
               nos marcos principais.
             </li>
             <li>
@@ -510,7 +510,7 @@ export default function EncontrarFabricanteOculosSolPage() {
             <h3 className="text-2xl font-bold mb-4">Pronto para Começar a Procurar? Comece Aqui.</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Escrevi este guia para que você soubesse o que procurar. Mas se quiser pular a busca e falar 
-              com uma fábrica diretamente — bem, você já está no nosso site. Estamos nisso desde 2006, temos 
+              com uma fábrica diretamente -- bem, você já está no nosso site. Estamos nisso desde 2006, temos 
               todas as certificações da lista acima e respondemos consultas em 12 horas. Sem trading company. 
               Sem intermediário. Direto da fábrica.
             </p>
@@ -541,7 +541,7 @@ export default function EncontrarFabricanteOculosSolPage() {
               <h3 className="font-bold text-lg mb-2">Como verifico se um fabricante de óculos é legítimo?</h3>
               <p className="text-gray-600">
                 Faça uma videochamada e peça para ver o chão de produção ao vivo. Verifique certificações CE, FDA 
-                e ISO. Confira o endereço da fábrica no Google Maps — deve estar em uma zona industrial, não num 
+                e ISO. Confira o endereço da fábrica no Google Maps -- deve estar em uma zona industrial, não num 
                 prédio comercial. Peça amostras. Peça referências de clientes. Verifique se já participaram de 
                 feiras. Se passarem em todos esses, provavelmente é legítimo.
               </p>
@@ -550,7 +550,7 @@ export default function EncontrarFabricanteOculosSolPage() {
               <h3 className="font-bold text-lg mb-2">Qual é um bom MOQ para fabricação de óculos de sol?</h3>
               <p className="text-gray-600">
                 ODM: 100-300 peças por modelo é padrão. Nós começamos com 50 para primeiros pedidos. OEM: 300-1.000+ 
-                por modelo por causa dos custos de molde. Desconfie de MOQs extremamente baixos (menos de 20 peças) — 
+                por modelo por causa dos custos de molde. Desconfie de MOQs extremamente baixos (menos de 20 peças) -- 
                 geralmente significa trading company, não fábrica.
               </p>
             </div>
@@ -559,13 +559,13 @@ export default function EncontrarFabricanteOculosSolPage() {
               <p className="text-gray-600">
                 ODM: US$3-8 por unidade. OEM: US$5-15+ por unidade mais US$500-3.000 em taxas de molde por modelo. 
                 Não esqueça de adicionar frete (15-25% para pedidos pequenos), taxas alfandegárias (2-5%) e embalagem. 
-                Seu custo real entregue é sempre maior que a cotação da fábrica — planeje um acréscimo de 20-30%.
+                Seu custo real entregue é sempre maior que a cotação da fábrica -- planeje um acréscimo de 20-30%.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Quanto tempo leva para receber óculos de um fabricante?</h3>
               <p className="text-gray-600">
-                ODM: 20-45 dias. OEM: 45-90 dias. Acrescente tempo de envio — 5-7 dias por avião, 20-30 dias por navio. 
+                ODM: 20-45 dias. OEM: 45-90 dias. Acrescente tempo de envio -- 5-7 dias por avião, 20-30 dias por navio. 
                 Primeiros pedidos sempre levam mais por causa das rodadas de amostras. Planeje 2-3 semanas extras 
                 para o vai e volta no seu primeiro pedido com qualquer fábrica nova.
               </p>
@@ -586,11 +586,11 @@ export default function EncontrarFabricanteOculosSolPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/pt/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM em Óculos de Sol: Guia Completo</h3>
-                <p className="text-gray-600 text-sm">Encontrou uma fábrica? Agora decida como quer trabalhar com eles — designs personalizados ou prontos.</p>
+                <p className="text-gray-600 text-sm">Encontrou uma fábrica? Agora decida como quer trabalhar com eles -- designs personalizados ou prontos.</p>
               </Link>
               <Link href="/pt/blog/criar-marca-oculos-sol" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Como Criar Sua Marca de Óculos de Sol</h3>
-                <p className="text-gray-600 text-sm">O guia completo da ideia à primeira venda — fabricação é apenas uma peça do quebra-cabeça.</p>
+                <p className="text-gray-600 text-sm">O guia completo da ideia à primeira venda -- fabricação é apenas uma peça do quebra-cabeça.</p>
               </Link>
             </div>
           </div>

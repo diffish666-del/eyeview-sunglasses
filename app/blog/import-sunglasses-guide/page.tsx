@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'How to Import Sunglasses from China: Complete 2026 Guide',
-  description: 'A Chinese sunglasses factory owner explains how to import sunglasses from China — sourcing, shipping, customs duties, quality control, and common mistakes to avoid.',
+  description: 'A Chinese sunglasses factory owner explains how to import sunglasses from China -- sourcing, shipping, customs duties, quality control, and common mistakes to avoid.',
   keywords: 'import sunglasses China, wholesale sunglasses from China, sunglasses import duty, buy sunglasses from China, China sunglasses manufacturer',
   alternates: {
     canonical: '/blog/import-sunglasses-guide',
@@ -27,7 +27,7 @@ export default function ImportSunglassesGuidePage() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "A Chinese factory owner explains how to import sunglasses from China — sourcing, shipping, duties, and avoiding costly mistakes.",
+          "description": "A Chinese factory owner explains how to import sunglasses from China -- sourcing, shipping, duties, and avoiding costly mistakes.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/import-sunglasses-guide" }
         })}} />
 
@@ -38,12 +38,12 @@ export default function ImportSunglassesGuidePage() {
             {
               "@type": "Question",
               "name": "What is the import duty on sunglasses from China?",
-              "acceptedAnswer": { "@type": "Answer", "text": "For the US, the standard import duty on non-prescription sunglasses (HTS 9004.10) is 2%. The EU duty rate is 2.9%. Australia charges 5%. Note that additional tariffs may apply depending on current trade policies — as of 2026, there are additional Section 301 tariffs on some Chinese goods entering the US. Always check current rates with a customs broker or the USITC Harmonized Tariff Schedule before shipping." }
+              "acceptedAnswer": { "@type": "Answer", "text": "For the US, the standard import duty on non-prescription sunglasses (HTS 9004.10) is 2%. The EU duty rate is 2.9%. Australia charges 5%. Note that additional tariffs may apply depending on current trade policies -- as of 2026, there are additional Section 301 tariffs on some Chinese goods entering the US. Always check current rates with a customs broker or the USITC Harmonized Tariff Schedule before shipping." }
             },
             {
               "@type": "Question",
               "name": "How do I find a reliable sunglasses factory in China?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Start with Alibaba but verify carefully — use 'Verified Manufacturer' filters and look for Gold Suppliers with 5+ years. Attend Canton Fair (Guangzhou) or SILMO (Paris) to meet factories in person. Ask for factory audit reports, client references, and compliance certificates. Order samples from 3-5 factories before committing. Look for factories that specialize in sunglasses, not general accessories. Read our detailed guide on finding reliable manufacturers." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Start with Alibaba but verify carefully -- use 'Verified Manufacturer' filters and look for Gold Suppliers with 5+ years. Attend Canton Fair (Guangzhou) or SILMO (Paris) to meet factories in person. Ask for factory audit reports, client references, and compliance certificates. Order samples from 3-5 factories before committing. Look for factories that specialize in sunglasses, not general accessories. Read our detailed guide on finding reliable manufacturers." }
             },
             {
               "@type": "Question",
@@ -74,7 +74,7 @@ export default function ImportSunglassesGuidePage() {
             How to Import Sunglasses from China: Complete 2026 Guide
           </h1>
           <p className="text-xl text-gray-600">
-            I&apos;m on the other side of this equation — I&apos;m the factory you&apos;re importing from. 
+            I&apos;m on the other side of this equation -- I&apos;m the factory you&apos;re importing from. 
             So let me tell you exactly how this process works, what it costs, and where people mess up.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -112,17 +112,17 @@ export default function ImportSunglassesGuidePage() {
 
           <h2 id="why-china" className="text-3xl font-bold mt-16 mb-6">Why China Dominates Sunglasses Manufacturing</h2>
           <p>
-            It&apos;s not just about cheap labor — that narrative is 15 years outdated. China dominates 
+            It&apos;s not just about cheap labor -- that narrative is 15 years outdated. China dominates 
             sunglasses manufacturing because of:
           </p>
           <ul>
-            <li><strong>Complete supply chain:</strong> Frame materials, lenses, hinges, nose pads, packaging — everything is sourced within a 100km radius of major manufacturing hubs. This reduces lead times and costs dramatically.</li>
+            <li><strong>Complete supply chain:</strong> Frame materials, lenses, hinges, nose pads, packaging -- everything is sourced within a 100km radius of major manufacturing hubs. This reduces lead times and costs dramatically.</li>
             <li><strong>Scale and specialization:</strong> Wenzhou alone has 1,000+ sunglasses factories. Shenzhen has another 500+. This concentration creates deep expertise and competitive pricing.</li>
             <li><strong>Technology investment:</strong> Chinese factories have invested heavily in CNC machines, automated polishing, and precision lens cutting. The quality gap with Italy has narrowed significantly.</li>
             <li><strong>Flexibility:</strong> We can produce 50 pairs or 50,000 pairs. Italian factories often won&apos;t touch orders under 1,000 pieces.</li>
           </ul>
           <p>
-            The main manufacturing hubs are <strong>Wenzhou</strong> (Zhejiang province — our home), 
+            The main manufacturing hubs are <strong>Wenzhou</strong> (Zhejiang province -- our home), 
             <strong>Shenzhen</strong> (Guangdong), and <strong>Xiamen</strong> (Fujian). Wenzhou is the 
             largest, producing an estimated 60% of China&apos;s sunglasses output.
           </p>
@@ -162,7 +162,7 @@ export default function ImportSunglassesGuidePage() {
           <ol>
             <li><strong>Request samples of 5-10 styles</strong> from your shortlisted factories (usually 2-3 factories). Sample cost: $20-$60 per pair plus shipping.</li>
             <li><strong>Evaluate quality:</strong> Check lens clarity, hinge smoothness, finish quality, weight, and comfort. Compare samples from different factories side by side.</li>
-            <li><strong>Request customized samples</strong> from your top 1-2 factories — your logo, your colors, your lens choice. This costs $50-$200 per pair and takes 7-14 days.</li>
+            <li><strong>Request customized samples</strong> from your top 1-2 factories -- your logo, your colors, your lens choice. This costs $50-$200 per pair and takes 7-14 days.</li>
             <li><strong>Negotiate pricing</strong> based on your order quantity. Key negotiation points: unit price, MOQ, payment terms, lead time, and what&apos;s included (packaging, UV certificates, etc.).</li>
           </ol>
 
@@ -185,7 +185,7 @@ export default function ImportSunglassesGuidePage() {
             <li>Style numbers and descriptions</li>
             <li>Colors and quantities per color</li>
             <li>Lens specifications (material, color, polarized/non-polarized, coatings)</li>
-            <li>Logo details (position, method — laser, pad print, embossed)</li>
+            <li>Logo details (position, method -- laser, pad print, embossed)</li>
             <li>Packaging specifications</li>
             <li>Delivery date and shipping method</li>
             <li>Payment terms</li>
@@ -225,10 +225,10 @@ export default function ImportSunglassesGuidePage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">Express (DHL/FedEx/UPS)</td><td className="px-6 py-4">$5–$15</td><td className="px-6 py-4">3-7 days</td><td className="px-6 py-4">Samples, rush orders &lt;100 pairs</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Air freight</td><td className="px-6 py-4">$3–$8</td><td className="px-6 py-4">5-10 days</td><td className="px-6 py-4">200-1,000 pairs, time-sensitive</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Sea freight (LCL)</td><td className="px-6 py-4">$1–$3</td><td className="px-6 py-4">25-35 days</td><td className="px-6 py-4">1,000+ pairs, cost-sensitive</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Sea freight (FCL)</td><td className="px-6 py-4">$0.50–$1.50</td><td className="px-6 py-4">25-35 days</td><td className="px-6 py-4">5,000+ pairs, best rates</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Express (DHL/FedEx/UPS)</td><td className="px-6 py-4">$5-$15</td><td className="px-6 py-4">3-7 days</td><td className="px-6 py-4">Samples, rush orders &lt;100 pairs</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Air freight</td><td className="px-6 py-4">$3-$8</td><td className="px-6 py-4">5-10 days</td><td className="px-6 py-4">200-1,000 pairs, time-sensitive</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Sea freight (LCL)</td><td className="px-6 py-4">$1-$3</td><td className="px-6 py-4">25-35 days</td><td className="px-6 py-4">1,000+ pairs, cost-sensitive</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Sea freight (FCL)</td><td className="px-6 py-4">$0.50-$1.50</td><td className="px-6 py-4">25-35 days</td><td className="px-6 py-4">5,000+ pairs, best rates</td></tr>
               </tbody>
             </table>
           </div>
@@ -240,7 +240,7 @@ export default function ImportSunglassesGuidePage() {
             you&apos;re launching a brand.
           </p>
           <p>
-            For reorders and larger quantities, switch to sea freight. The savings compound — on a 
+            For reorders and larger quantities, switch to sea freight. The savings compound -- on a 
             2,000-pair order, sea freight saves you $4,000-$10,000 compared to air.
           </p>
 
@@ -258,7 +258,7 @@ export default function ImportSunglassesGuidePage() {
           <ul>
             <li><strong>HTS Code:</strong> 9004.10.0000 (sunglasses)</li>
             <li><strong>Standard duty rate:</strong> 2% ad valorem (based on the declared value)</li>
-            <li><strong>Section 301 tariffs:</strong> Check current status — additional tariffs on Chinese goods may apply and change with trade policy. As of early 2026, some eyewear categories face additional tariffs.</li>
+            <li><strong>Section 301 tariffs:</strong> Check current status -- additional tariffs on Chinese goods may apply and change with trade policy. As of early 2026, some eyewear categories face additional tariffs.</li>
             <li><strong>Customs bond:</strong> Required for commercial shipments valued over $2,500. Annual bond costs ~$300/year.</li>
           </ul>
 
@@ -267,7 +267,7 @@ export default function ImportSunglassesGuidePage() {
             <li><strong>CN Code:</strong> 9004 10 10 (sunglasses with optically worked lenses)</li>
             <li><strong>Duty rate:</strong> 2.9%</li>
             <li><strong>VAT:</strong> Added on top of (CIF value + duty). Rates vary by country (20% in UK, 19% in Germany, 21% in France, etc.)</li>
-            <li><strong>CE marking required</strong> — customs may check. See our{' '}
+            <li><strong>CE marking required</strong> -- customs may check. See our{' '}
               <Link href="/blog/fda-ce-certification-sunglasses" className="text-primary-600 hover:underline">compliance guide</Link>.
             </li>
           </ul>
@@ -289,7 +289,7 @@ export default function ImportSunglassesGuidePage() {
           </p>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
-            <h3 className="font-bold text-blue-900 mb-3">500 Pairs ODM Polarized — Landed Cost to US</h3>
+            <h3 className="font-bold text-blue-900 mb-3">500 Pairs ODM Polarized -- Landed Cost to US</h3>
             <ul className="text-blue-800 space-y-2">
               <li><strong>Factory cost (FOB):</strong> $5.50/pair × 500 = $2,750</li>
               <li><strong>Packaging (branded hard case + cloth):</strong> $2.50/pair × 500 = $1,250</li>
@@ -316,14 +316,14 @@ export default function ImportSunglassesGuidePage() {
           </p>
           <ol>
             <li className="mb-4"><strong>Ordering without samples.</strong> This is the #1 mistake. Never, ever, ever place a production order based on Alibaba photos alone. Spend $200-$500 on samples. It&apos;s the cheapest insurance you&apos;ll buy.</li>
-            <li className="mb-4"><strong>Choosing the cheapest factory.</strong> The $2/pair factory is cheap for a reason — and you&apos;ll discover that reason when your customers start leaving 1-star reviews about lens clarity and broken hinges. Go for value, not rock-bottom price.</li>
+            <li className="mb-4"><strong>Choosing the cheapest factory.</strong> The $2/pair factory is cheap for a reason -- and you&apos;ll discover that reason when your customers start leaving 1-star reviews about lens clarity and broken hinges. Go for value, not rock-bottom price.</li>
             <li className="mb-4"><strong>Forgetting about duties and shipping.</strong> Your $5/pair sunglasses cost $11-$13/pair by the time they reach your warehouse. Budget for the full landed cost, not just the FOB price.</li>
             <li className="mb-4"><strong>Skipping compliance documentation.</strong> Missing FDA registration or CE marks can get your shipment seized. Read our{' '}
               <Link href="/blog/fda-ce-certification-sunglasses" className="text-primary-600 hover:underline">compliance guide</Link> before you ship.
             </li>
             <li className="mb-4"><strong>Ordering too much on the first run.</strong> Start with your{' '}
               <Link href="/blog/sunglasses-moq-guide" className="text-primary-600 hover:underline">minimum viable order</Link>. 
-              Test the market. Reorder winners. This is how smart brands build — not by betting $20,000 on untested styles.
+              Test the market. Reorder winners. This is how smart brands build -- not by betting $20,000 on untested styles.
             </li>
             <li className="mb-4"><strong>Not having a Plan B for reorders.</strong> Your first batch will sell (hopefully). If you don&apos;t have a reorder plan in place, you&apos;ll go out of stock for 4-6 weeks while scrambling. Place your reorder when inventory hits 30-40%.</li>
             <li className="mb-4"><strong>Communicating only by email.</strong> Use WeChat (the standard in Chinese business) for day-to-day communication. Responses are 10x faster than email. Your factory contact likely checks WeChat 50 times a day and email twice.</li>
@@ -335,7 +335,7 @@ export default function ImportSunglassesGuidePage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">What is the import duty on sunglasses from China?</h3>
               <p className="text-gray-600">
-                US: 2% standard duty (HTS 9004.10), plus potential Section 301 tariffs — check current 
+                US: 2% standard duty (HTS 9004.10), plus potential Section 301 tariffs -- check current 
                 rates. EU: 2.9% plus VAT. Australia: 5%. These are on the declared FOB value. Always 
                 verify current rates with a customs broker before shipping.
               </p>
@@ -377,7 +377,7 @@ export default function ImportSunglassesGuidePage() {
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">Ready to Import Your First Order?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              I&apos;ll walk you through the entire process — from selecting styles to doorstep delivery. 
+              I&apos;ll walk you through the entire process -- from selecting styles to doorstep delivery. 
               We handle production, QC, compliance documentation, and can arrange shipping. You focus 
               on building your brand.
             </p>
@@ -391,15 +391,15 @@ export default function ImportSunglassesGuidePage() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/products/wayfarer" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Wayfarer Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Best-selling style for retail — available in acetate, TR90, and custom materials.</p>
+                <p className="text-gray-600 text-sm">Best-selling style for retail -- available in acetate, TR90, and custom materials.</p>
               </Link>
               <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Classic metal frames — perfect for men's collections and premium branding.</p>
+                <p className="text-gray-600 text-sm">Classic metal frames -- perfect for men's collections and premium branding.</p>
               </Link>
               <Link href="/products/cat-eye" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Cat Eye Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Trending feminine style — bold designs for women's fashion market.</p>
+                <p className="text-gray-600 text-sm">Trending feminine style -- bold designs for women's fashion market.</p>
               </Link>
             </div>
           </div>

@@ -20,28 +20,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 Stk.',
-    description: 'Das Must-have für jede Kollektion. Schwarzes Acetat, polierte Scharniere, der perfekte geschwungene Winkel. Die Cat-Eye ist das Sonnenbrillen-Äquivalent des kleinen Schwarzen — passt zu allem, verkauft sich an jede. Dies ist konstant unsere Nr. 1 bei Nachbestellungen in allen Märkten.',
+    description: 'Das Must-have für jede Kollektion. Schwarzes Acetat, polierte Scharniere, der perfekte geschwungene Winkel. Die Cat-Eye ist das Sonnenbrillen-Äquivalent des kleinen Schwarzen -- passt zu allem, verkauft sich an jede. Dies ist konstant unsere Nr. 1 bei Nachbestellungen in allen Märkten.',
   },
   {
     name: 'Leopardenmuster Cat-Eye',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 Stk.',
-    description: 'Animal Print richtig gemacht. Das Schildpatt-Muster ist nicht aufgemalt — es entsteht durch die Schichtung verschiedenfarbiger Acetat-Platten, sodass jedes Paar echte Tiefe und Farbintensität besitzt. Eine Boutique-Besitzerin in Melbourne erzählte uns, dass diese im Frühling doppelt so gut verkaufen wie einfarbige Modelle.',
+    description: 'Animal Print richtig gemacht. Das Schildpatt-Muster ist nicht aufgemalt -- es entsteht durch die Schichtung verschiedenfarbiger Acetat-Platten, sodass jedes Paar echte Tiefe und Farbintensität besitzt. Eine Boutique-Besitzerin in Melbourne erzählte uns, dass diese im Frühling doppelt so gut verkaufen wie einfarbige Modelle.',
   },
   {
     name: 'Roségold Metall Cat-Eye',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$10.00 - $14.00',
     moq: '100 Stk.',
-    description: 'Schlanke Metallfassung mit Roségold-Galvanisierung, die nach 200 $ aussieht. Tut sie aber nicht. Die dünne Drahtkonstruktion verleiht der Cat-Eye eine moderne, raffinierte Interpretation — perfekt für die Geschäftsfrau, die Stil ohne Aufsehen will. Passt wunderbar sowohl zu Blazern als auch zu Strandkleidern.',
+    description: 'Schlanke Metallfassung mit Roségold-Galvanisierung, die nach 200 $ aussieht. Tut sie aber nicht. Die dünne Drahtkonstruktion verleiht der Cat-Eye eine moderne, raffinierte Interpretation -- perfekt für die Geschäftsfrau, die Stil ohne Aufsehen will. Passt wunderbar sowohl zu Blazern als auch zu Strandkleidern.',
   },
   {
     name: 'Oversize Cat-Eye',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$9.50 - $13.50',
     moq: '100 Stk.',
-    description: 'Groß oder gar nicht. Die Oversize Cat-Eye ist praktisch Instagram-Gold — markante Proportionen, dramatisch geschwungene Spitzen, maximale Gesichtsabdeckung. Ein Online-Händler erzählte uns, dass dieses Modell mehr „Wo hast du die her?"-Kommentare bekommt als alles andere in seinem Sortiment. Hervorragender UV-Schutz als Bonus obendrauf.',
+    description: 'Groß oder gar nicht. Die Oversize Cat-Eye ist praktisch Instagram-Gold -- markante Proportionen, dramatisch geschwungene Spitzen, maximale Gesichtsabdeckung. Ein Online-Händler erzählte uns, dass dieses Modell mehr „Wo hast du die her?"-Kommentare bekommt als alles andere in seinem Sortiment. Hervorragender UV-Schutz als Bonus obendrauf.',
   },
   {
     name: 'Strass Cat-Eye',
@@ -55,7 +55,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 Stk.',
-    description: 'Direkt aus dem Jahr 1958. Schmal, scharf gewinkelt, mit dicken Acetat-Bügeln, die sagen: „Ich kenne meine Modegeschichte." Diese sind kleiner als der Oversize-Trend — absichtlich. Sammler und Vintage-Enthusiasten greifen sofort zu. Wenn Ihr Markt in Richtung Retro, Rockabilly oder Pin-up tendiert, ist dies Ihre Fassung.',
+    description: 'Direkt aus dem Jahr 1958. Schmal, scharf gewinkelt, mit dicken Acetat-Bügeln, die sagen: „Ich kenne meine Modegeschichte." Diese sind kleiner als der Oversize-Trend -- absichtlich. Sammler und Vintage-Enthusiasten greifen sofort zu. Wenn Ihr Markt in Richtung Retro, Rockabilly oder Pin-up tendiert, ist dies Ihre Fassung.',
   },
 ]
 
@@ -78,10 +78,10 @@ export default function KatzenaugenPage() {
             Katzenaugen-Sonnenbrillen Großhandel
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Die Cat-Eye geht nie aus der Mode. Ernsthaft — Audrey Hepburn trug sie in den
+            Die Cat-Eye geht nie aus der Mode. Ernsthaft -- Audrey Hepburn trug sie in den
             60ern und sie sind immer noch die Nr. 1 unter den Damen-Sonnenbrillenformen. Wir
             fertigen Cat-Eye-Fassungen in Acetat, Metall und Materialmix mit vollständiger
-            OEM-Anpassung. Ihr Logo, Ihre Farben, Ihre Marke — unsere Fabrik.
+            OEM-Anpassung. Ihr Logo, Ihre Farben, Ihre Marke -- unsere Fabrik.
           </p>
         </div>
 
@@ -102,7 +102,7 @@ export default function KatzenaugenPage() {
               Hier ist eine Tatsache, die viele überrascht: Die Cat-Eye-Form ist seit über 70
               Jahren die meistverkaufte Damen-Sonnenbrillensilhouette. Nicht der Aviator. Nicht
               der Wayfarer. Die Cat-Eye. Warum? Weil sie etwas kann, was keine andere Form
-              kann — sie hebt. Der geschwungene Winkel erzeugt die Illusion höherer Wangenknochen
+              kann -- sie hebt. Der geschwungene Winkel erzeugt die Illusion höherer Wangenknochen
               und einer definierteren Kieferlinie. Es ist praktisch ein Mini-Facelift, das man
               für 15 $ kaufen kann.
             </p>
@@ -110,14 +110,14 @@ export default function KatzenaugenPage() {
               Die Form wurde 1939 von der New Yorker Designerin Altina Schinasi erfunden, die
               &quot;hässliche&quot; Brillen leid war. Sie nannte sie &quot;Harlequin&quot;-Fassungen.
               Marilyn Monroe machte sie berühmt. Audrey Hepburn machte sie ikonisch. Und jetzt,
-              in 2024, sind sie größer denn je — wortwörtlich. Die Oversize Cat-Eye dominiert
+              in 2024, sind sie größer denn je -- wortwörtlich. Die Oversize Cat-Eye dominiert
               Instagram, TikTok und jede Fashion Week von Mailand bis Seoul.
             </p>
             <p>
               Für Großhandelskäufer sind Katzenaugen-Sonnenbrillen so nah an einer sicheren
               Sache, wie es im Brillengeschäft nur geht. Sie sprechen alle Altersgruppen an
               (20-60+), funktionieren das ganze Jahr und haben einen hohen wahrgenommenen Wert.
-              Alle unsere Cat-Eye-Fassungen erfüllen die <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">FDA UV-Schutzstandards</a> —
+              Alle unsere Cat-Eye-Fassungen erfüllen die <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">FDA UV-Schutzstandards</a> --
               denn gut aussehen sollte nicht bedeuten, beim Augenschutz Kompromisse einzugehen.
               Unsere Fabrik produziert über 200.000 Cat-Eye-Fassungen pro Monat in über 40
               Länder. Wir kennen diese Form in- und auswendig.
@@ -161,19 +161,19 @@ export default function KatzenaugenPage() {
 
         {/* Material Guide */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Acetat vs. Metall vs. Materialmix — Was passt zu Ihnen?</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Acetat vs. Metall vs. Materialmix -- Was passt zu Ihnen?</h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🏛️ Acetat</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Wenn Sie Premium-Einzelhandelspreise verlangen möchten, wählen Sie Acetat. Es wird aus <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">Baumwolle
                 und Holzzellstoff</a> hergestellt (ja, wirklich), und die erzielbaren Farben und
-                Muster sind unglaublich — tiefes Schildpatt, Marmorwirbel, transparente Bonbontöne.
+                Muster sind unglaublich -- tiefes Schildpatt, Marmorwirbel, transparente Bonbontöne.
                 Jedes Paar wird von Hand poliert für diesen glänzenden Finish. Acetat <em>fühlt sich</em> teuer
-                an. Ihre Kunden werden es bemerken. Zudem hypoallergen — also keine Beschwerden über Hautreaktionen.
+                an. Ihre Kunden werden es bemerken. Zudem hypoallergen -- also keine Beschwerden über Hautreaktionen.
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
-                <li>• Satte Farben — Schildpatt, Marmor, Verlauf</li>
+                <li>• Satte Farben -- Schildpatt, Marmor, Verlauf</li>
                 <li>• Handpoliertes Premium-Finish</li>
                 <li>• Hypoallergen, umweltfreundlich</li>
                 <li>• Am besten für: Boutiquen, Luxus-Positionierung</li>
@@ -183,11 +183,11 @@ export default function KatzenaugenPage() {
               <h3 className="text-xl font-semibold mb-4">⚙️ Metall</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Dünn, elegant, modern. Metall-Cat-Eyes verwenden Edelstahl oder nickelfreie
-                Legierungen mit galvanisierten Oberflächen — Gold, Silber, Roségold, Mattschwarz.
+                Legierungen mit galvanisierten Oberflächen -- Gold, Silber, Roségold, Mattschwarz.
                 Das schlanke Profil erzeugt einen raffinierten Look, den Acetat nicht bieten kann.
                 Das sind die Fassungen für Frauen, die ihre Sonnenbrillen flüstern lassen wollen,
                 statt zu schreien. Ideal für Business- und Büro-Kollektionen. Leichter als
-                Acetat — die meisten wiegen unter 22 Gramm.
+                Acetat -- die meisten wiegen unter 22 Gramm.
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
                 <li>• Schlank, elegant, leicht (unter 22g)</li>
@@ -199,7 +199,7 @@ export default function KatzenaugenPage() {
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🔗 Materialmix</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Das Beste aus beiden Welten. Acetat-Front mit dünnen Metallbügeln — oder umgekehrt.
+                Das Beste aus beiden Welten. Acetat-Front mit dünnen Metallbügeln -- oder umgekehrt.
                 Der Zweifarbige Materialkontrast liegt gerade voll im Trend. Denken Sie an:
                 transparente rosa Acetat-Front mit dünnen goldenen Bügeln. Oder schwarzes Acetat
                 mit silbernen Drahtbügeln. Das sind die Fassungen, bei denen die Leute stehen bleiben
@@ -235,7 +235,7 @@ export default function KatzenaugenPage() {
                   <ColorTrend color="bg-black" name="Klassisch Schwarz" description="30-35% aller Cat-Eye-Bestellungen. Immer. Jede. Saison. Auf Lager haben oder bereuen." />
                   <ColorTrend color="bg-amber-700" name="Schildpatt" description="Der Nr. 2-Seller. Mehrfarbige Brauntöne funktionieren ganzjährig, bei jedem, überall." />
                   <ColorTrend color="bg-yellow-600" name="Gold Metall" description="Unverzichtbar für jede Luxus- oder Business-Linie. Goldene Cat-Eyes strahlen Raffinesse aus." />
-                  <ColorTrend color="bg-gray-400" name="Verlauf Zweifarbig" description="Fassungen, die von einer Farbe zur anderen übergehen — Schwarz zu Klar, Rosa zu Pfirsich. Sehr instagrammable." />
+                  <ColorTrend color="bg-gray-400" name="Verlauf Zweifarbig" description="Fassungen, die von einer Farbe zur anderen übergehen -- Schwarz zu Klar, Rosa zu Pfirsich. Sehr instagrammable." />
                 </div>
               </div>
             </div>
@@ -286,7 +286,7 @@ export default function KatzenaugenPage() {
             <Link href="/de/produkte/kinder" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">👧</div>
               <h3 className="font-semibold mb-2">Kinder Cat-Eye</h3>
-              <p className="text-sm text-gray-600">Mini-Cat-Eyes für Mädchen — entzückende Bestseller</p>
+              <p className="text-sm text-gray-600">Mini-Cat-Eyes für Mädchen -- entzückende Bestseller</p>
             </Link>
           </div>
         </section>
@@ -297,7 +297,7 @@ export default function KatzenaugenPage() {
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="Welche Gesichtsformen passen zur Cat-Eye?"
-              answer="Fast alle, ehrlich gesagt. Die Cat-Eye ist eine der vielseitigsten Formen überhaupt. Ovales Gesicht? Perfekt. Rundes Gesicht? Die geschwungenen Winkel verleihen Definition — sieht toll aus. Herzförmig? Ideale Kombination. Quadratisches Gesicht? Wählen Sie eine weichere, rundere Cat-Eye, um die Winkel auszugleichen. Die einzige Gesichtsform, die etwas knifflig sein kann, sind sehr lange/schmale Gesichter, bei denen eine Oversize Cat-Eye überwältigen könnte. Aber selbst da funktioniert eine zierliche Cat-Eye gut."
+              answer="Fast alle, ehrlich gesagt. Die Cat-Eye ist eine der vielseitigsten Formen überhaupt. Ovales Gesicht? Perfekt. Rundes Gesicht? Die geschwungenen Winkel verleihen Definition -- sieht toll aus. Herzförmig? Ideale Kombination. Quadratisches Gesicht? Wählen Sie eine weichere, rundere Cat-Eye, um die Winkel auszugleichen. Die einzige Gesichtsform, die etwas knifflig sein kann, sind sehr lange/schmale Gesichter, bei denen eine Oversize Cat-Eye überwältigen könnte. Aber selbst da funktioniert eine zierliche Cat-Eye gut."
             />
             <FaqItem
               question="Wie hoch ist die Mindestbestellmenge für gebrandete Cat-Eyes?"
@@ -305,7 +305,7 @@ export default function KatzenaugenPage() {
             />
             <FaqItem
               question="Können diese als Korrektionsbrillen gefertigt werden?"
-              answer="Ja! Alle unsere Acetat- und Metall-Cat-Eyes können mit Demogläsern geliefert werden, damit Optiker Korrektionsgläser einsetzen können. Wir berücksichtigen Einstärken-, Bifokal- und Gleitsichtgläser. Rahmenbreite und Glaswölbung sind dafür konzipiert. Ein tolles Upselling-Potenzial für Optik-Einzelhändler — modische Fassungen mit Korrektionsmöglichkeit."
+              answer="Ja! Alle unsere Acetat- und Metall-Cat-Eyes können mit Demogläsern geliefert werden, damit Optiker Korrektionsgläser einsetzen können. Wir berücksichtigen Einstärken-, Bifokal- und Gleitsichtgläser. Rahmenbreite und Glaswölbung sind dafür konzipiert. Ein tolles Upselling-Potenzial für Optik-Einzelhändler -- modische Fassungen mit Korrektionsmöglichkeit."
             />
             <FaqItem
               question="Was sind die Cat-Eye-Trends 2024-2025?"
@@ -313,7 +313,7 @@ export default function KatzenaugenPage() {
             />
             <FaqItem
               question="Kann ich Muster erhalten, bevor ich eine Großbestellung aufgebe?"
-              answer="Natürlich — wir würden nie erwarten, dass Sie blind bestellen. Bestehende Katalogmodelle? Kostenlose Muster, Sie übernehmen nur den Versand (normalerweise 30-50 $ per DHL für 3-5 Paar). Möchten Sie ein individuelles Muster mit Ihren spezifischen Änderungen? Kleine Gebühr von 50-100 $ pro Design, die wir auf Ihre erste Produktionsbestellung anrechnen. Sie bekommen also quasi kostenlose Individualmuster, wenn Sie bestellen. Lieferzeit: 7-10 Tage."
+              answer="Natürlich -- wir würden nie erwarten, dass Sie blind bestellen. Bestehende Katalogmodelle? Kostenlose Muster, Sie übernehmen nur den Versand (normalerweise 30-50 $ per DHL für 3-5 Paar). Möchten Sie ein individuelles Muster mit Ihren spezifischen Änderungen? Kleine Gebühr von 50-100 $ pro Design, die wir auf Ihre erste Produktionsbestellung anrechnen. Sie bekommen also quasi kostenlose Individualmuster, wenn Sie bestellen. Lieferzeit: 7-10 Tage."
             />
           </div>
         </section>
@@ -322,7 +322,7 @@ export default function KatzenaugenPage() {
         <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
           <h2 className="text-3xl font-bold mb-4">Bereit, die Form zu führen, die sich von selbst verkauft?</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Boutiquen, Online-Shops, Markenhändler — wir arbeiten mit allen zusammen. Unser
+            Boutiquen, Online-Shops, Markenhändler -- wir arbeiten mit allen zusammen. Unser
             Damen-Cat-Eye-Großhandelsprogramm bietet Ihnen wettbewerbsfähige Preise, schnelle
             Produktion und vollständige Individualisierung. Fordern Sie einen kostenlosen Katalog an
             und sehen Sie, was möglich ist.
@@ -371,7 +371,7 @@ export default function KatzenaugenPage() {
           {
             "@type": "Question",
             "name": "Kann ich Muster vor einer Großbestellung erhalten?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Selbstverständlich. Kostenlose Muster bestehender Modelle — Sie zahlen nur den Versand (30-50 $ per DHL). Individuelle Muster kosten 50-100 $ pro Design und werden auf Ihre erste Produktionsbestellung angerechnet." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Selbstverständlich. Kostenlose Muster bestehender Modelle -- Sie zahlen nur den Versand (30-50 $ per DHL). Individuelle Muster kosten 50-100 $ pro Design und werden auf Ihre erste Produktionsbestellung angerechnet." }
           }
         ]
       })}} />

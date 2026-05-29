@@ -39,7 +39,7 @@ export default function FdaCeCertificationPage() {
             {
               "@type": "Question",
               "name": "Do sunglasses need FDA approval to sell in the US?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Sunglasses don't need FDA 'approval' but they do need FDA compliance. The FDA classifies sunglasses as medical devices (Class I) under 21 CFR 886.5850. Manufacturers and importers must register their establishment with the FDA and list their products. The lenses must also meet impact resistance requirements under 21 CFR 801.410. There's no pre-market approval process — it's registration and compliance with performance standards." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Sunglasses don't need FDA 'approval' but they do need FDA compliance. The FDA classifies sunglasses as medical devices (Class I) under 21 CFR 886.5850. Manufacturers and importers must register their establishment with the FDA and list their products. The lenses must also meet impact resistance requirements under 21 CFR 801.410. There's no pre-market approval process -- it's registration and compliance with performance standards." }
             },
             {
               "@type": "Question",
@@ -54,12 +54,12 @@ export default function FdaCeCertificationPage() {
             {
               "@type": "Question",
               "name": "What UV protection do sunglasses need?",
-              "acceptedAnswer": { "@type": "Answer", "text": "For legal sale in most markets, sunglasses must block 99-100% of UVA and UVB radiation up to 400nm (UV400). In the US, the FDA requires 'adequate' UV protection. The EU standard EN ISO 12312-1 specifies maximum UV transmittance based on lens category (0-4). Australia's AS/NZS 1067 is the strictest, requiring UV400 blocking for all categories. Bottom line: UV400 certification is the global baseline — don't sell sunglasses without it." }
+              "acceptedAnswer": { "@type": "Answer", "text": "For legal sale in most markets, sunglasses must block 99-100% of UVA and UVB radiation up to 400nm (UV400). In the US, the FDA requires 'adequate' UV protection. The EU standard EN ISO 12312-1 specifies maximum UV transmittance based on lens category (0-4). Australia's AS/NZS 1067 is the strictest, requiring UV400 blocking for all categories. Bottom line: UV400 certification is the global baseline -- don't sell sunglasses without it." }
             },
             {
               "@type": "Question",
               "name": "Can my sunglasses get seized at customs for non-compliance?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Yes. US Customs and Border Protection (CBP) can detain sunglasses that lack proper FDA registration or don't meet impact resistance standards. EU customs regularly seizes shipments without CE marking. Australia is particularly strict — non-compliant sunglasses are routinely seized and destroyed. I've personally seen clients lose entire shipments worth $10,000-$50,000 due to missing documentation. Compliance isn't optional." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Yes. US Customs and Border Protection (CBP) can detain sunglasses that lack proper FDA registration or don't meet impact resistance standards. EU customs regularly seizes shipments without CE marking. Australia is particularly strict -- non-compliant sunglasses are routinely seized and destroyed. I've personally seen clients lose entire shipments worth $10,000-$50,000 due to missing documentation. Compliance isn't optional." }
             }
           ]
         })}} />
@@ -76,7 +76,7 @@ export default function FdaCeCertificationPage() {
           </h1>
           <p className="text-xl text-gray-600">
             Ninguém cria uma marca de óculos de sol porque está empolgado com conformidade regulatória. 
-            Mas pule essa etapa e seus óculos podem ser apreendidos na alfândega — ou pior. Aqui está 
+            Mas pule essa etapa e seus óculos podem ser apreendidos na alfândega -- ou pior. Aqui está 
             tudo que você precisa saber, simplificado.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -107,7 +107,7 @@ export default function FdaCeCertificationPage() {
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-600 mb-8">
             Exporto óculos de sol há 20 anos. Nesse tempo, vi três clientes 
-            perderem remessas inteiras para apreensões alfandegárias — totalizando mais de $120.000 em produto destruído. Cada 
+            perderem remessas inteiras para apreensões alfandegárias -- totalizando mais de $120.000 em produto destruído. Cada 
             caso era evitável. Os testes teriam custado menos de $500.
           </p>
 
@@ -118,7 +118,7 @@ export default function FdaCeCertificationPage() {
             por mar para o Porto de Miami. A Alfândega dos EUA sinalizou a remessa porque faltava documentação 
             de registro de estabelecimento FDA. As mercadorias ficaram retidas por 45 dias enquanto Carlos corria para se registrar 
             e colocar a documentação em ordem. Quando recebeu seus óculos, já tinha perdido toda a 
-            janela de lançamento de verão. Os óculos estavam bem — a documentação não.
+            janela de lançamento de verão. Os óculos estavam bem -- a documentação não.
           </p>
           <p>
             Depois tem a Lisa, que vendia óculos de sol na Amazon UK. Um concorrente denunciou seu anúncio por 
@@ -135,7 +135,7 @@ export default function FdaCeCertificationPage() {
           <p>
             Algo que surpreende a maioria das pessoas: <strong>a FDA classifica óculos de sol como 
             dispositivos médicos</strong>. Especificamente, dispositivos médicos Classe I sob 21 CFR 886.5850. Não 
-            entre em pânico — Classe I é a categoria de menor risco, e os requisitos são diretos.
+            entre em pânico -- Classe I é a categoria de menor risco, e os requisitos são diretos.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">O que Você Precisa Fazer</h3>
@@ -189,7 +189,7 @@ export default function FdaCeCertificationPage() {
             CE para a maioria dos produtos até 2027).
           </p>
           <p>
-            O padrão principal é <strong>EN ISO 12312-1:2022</strong> (Proteção ocular pessoal — Óculos de sol 
+            O padrão principal é <strong>EN ISO 12312-1:2022</strong> (Proteção ocular pessoal -- Óculos de sol 
             e óculos relacionados). Este padrão cobre:
           </p>
           <ul>
@@ -224,14 +224,14 @@ export default function FdaCeCertificationPage() {
           <p>
             A maioria dos óculos de sol de moda se enquadra na <strong>Categoria 3</strong> (8-18% de transmitância). Este é 
             o ponto ideal para proteção solar diária. A Categoria 4 é muito escura e explicitamente proibida para 
-            dirigir — você deve incluir um aviso se vender lentes Cat 4.
+            dirigir -- você deve incluir um aviso se vender lentes Cat 4.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">O que Você Precisa para Conformidade CE</h3>
           <ol>
             <li><strong>Testes conforme EN ISO 12312-1</strong> por um laboratório credenciado</li>
             <li><strong>Dossiê técnico</strong> documentando design, materiais, resultados de testes e avaliação de risco</li>
-            <li><strong>Declaração de Conformidade (DoC)</strong> — um documento formal declarando que seu produto atende aos requisitos da UE. Você (a marca/importador) assina isso.</li>
+            <li><strong>Declaração de Conformidade (DoC)</strong> -- um documento formal declarando que seu produto atende aos requisitos da UE. Você (a marca/importador) assina isso.</li>
             <li><strong>Marca CE</strong> no produto ou em sua embalagem</li>
             <li><strong>Rotulagem obrigatória:</strong> Número da categoria do filtro, marca CE, nome do fabricante/importador, aviso de &quot;não adequado para dirigir&quot; se Cat 4</li>
           </ol>
@@ -239,7 +239,7 @@ export default function FdaCeCertificationPage() {
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 Importante: Autocertificação</h3>
             <p className="text-amber-800">
-              A marcação CE para óculos de sol é <strong>autocertificada</strong> — você não precisa de um organismo 
+              A marcação CE para óculos de sol é <strong>autocertificada</strong> -- você não precisa de um organismo 
               notificado para aprovar seu produto. Você (ou sua fábrica) realiza os testes, compila o dossiê 
               técnico e assina a Declaração de Conformidade. Isso torna o processo acessível, mas também significa 
               que você é legalmente responsável pela precisão de suas alegações. Não falsifique.
@@ -250,7 +250,7 @@ export default function FdaCeCertificationPage() {
           <p>
             A proteção UV é o requisito de conformidade mais importante para óculos de sol. Lentes que 
             não bloqueiam adequadamente a radiação UV podem na verdade ser <em>mais perigosas</em> do que não usar 
-            óculos de sol — a tonalidade escura faz suas pupilas dilatarem, deixando entrar mais UV se a 
+            óculos de sol -- a tonalidade escura faz suas pupilas dilatarem, deixando entrar mais UV se a 
             lente não estiver bloqueando corretamente.
           </p>
 
@@ -277,7 +277,7 @@ export default function FdaCeCertificationPage() {
           <p>
             O teste leva cerca de 5 minutos por lente e custa $50-$100 por amostra na maioria dos laboratórios. 
             Sua fábrica deve ter um espectrofotômetro internamente e testar cada lote de produção. Nós 
-            temos — e fornecemos os relatórios de teste com cada remessa.
+            temos -- e fornecemos os relatórios de teste com cada remessa.
           </p>
 
           <h2 id="ansi" className="text-3xl font-bold mt-16 mb-6">ANSI Z80.3: O Padrão Óptico dos EUA</h2>
@@ -334,33 +334,33 @@ export default function FdaCeCertificationPage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">Somente transmitância UV400</td><td className="px-6 py-4">$100–$300</td><td className="px-6 py-4">3-5 dias</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">EN ISO 12312-1 completo (CE)</td><td className="px-6 py-4">$300–$600</td><td className="px-6 py-4">5-10 dias</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Suíte completa ANSI Z80.3</td><td className="px-6 py-4">$300–$500</td><td className="px-6 py-4">5-10 dias</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Austrália)</td><td className="px-6 py-4">$400–$800</td><td className="px-6 py-4">7-14 dias</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Teste de bola FDA</td><td className="px-6 py-4">$50–$150</td><td className="px-6 py-4">1-3 dias</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Liberação de níquel (armações metálicas)</td><td className="px-6 py-4">$100–$200</td><td className="px-6 py-4">5-7 dias</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Somente transmitância UV400</td><td className="px-6 py-4">$100-$300</td><td className="px-6 py-4">3-5 dias</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">EN ISO 12312-1 completo (CE)</td><td className="px-6 py-4">$300-$600</td><td className="px-6 py-4">5-10 dias</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Suíte completa ANSI Z80.3</td><td className="px-6 py-4">$300-$500</td><td className="px-6 py-4">5-10 dias</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Austrália)</td><td className="px-6 py-4">$400-$800</td><td className="px-6 py-4">7-14 dias</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Teste de bola FDA</td><td className="px-6 py-4">$50-$150</td><td className="px-6 py-4">1-3 dias</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Liberação de níquel (armações metálicas)</td><td className="px-6 py-4">$100-$200</td><td className="px-6 py-4">5-7 dias</td></tr>
               </tbody>
             </table>
           </div>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Laboratórios de Testes Recomendados</h3>
           <ul>
-            <li><strong>SGS</strong> — Líder global. Laboratórios na China, EUA, UE. Amplamente reconhecido.</li>
-            <li><strong>Bureau Veritas</strong> — Outra opção de primeiro nível com cobertura global.</li>
-            <li><strong>Intertek</strong> — Forte tanto em testes ópticos quanto de materiais.</li>
-            <li><strong>TÜV Rheinland</strong> — Especialmente confiável no mercado europeu.</li>
-            <li><strong>Laboratórios universitários locais</strong> — Frequentemente 30-50% mais baratos para testes UV básicos. Verifique se são credenciados.</li>
+            <li><strong>SGS</strong> -- Líder global. Laboratórios na China, EUA, UE. Amplamente reconhecido.</li>
+            <li><strong>Bureau Veritas</strong> -- Outra opção de primeiro nível com cobertura global.</li>
+            <li><strong>Intertek</strong> -- Forte tanto em testes ópticos quanto de materiais.</li>
+            <li><strong>TÜV Rheinland</strong> -- Especialmente confiável no mercado europeu.</li>
+            <li><strong>Laboratórios universitários locais</strong> -- Frequentemente 30-50% mais baratos para testes UV básicos. Verifique se são credenciados.</li>
           </ul>
 
           <h2 id="factory-role" className="text-3xl font-bold mt-16 mb-6">O que Sua Fábrica Deve Fornecer</h2>
           <p>
-            Uma boa fábrica — que leva qualidade e conformidade a sério — deve fornecer a maior parte 
+            Uma boa fábrica -- que leva qualidade e conformidade a sério -- deve fornecer a maior parte 
             do que você precisa sem que você precise pedir. Aqui está o que fornecemos na EyeView, e 
             o que você deve esperar de qualquer fabricante respeitável:
           </p>
           <ul>
-            <li><strong>Certificado de teste UV400</strong> para cada lote de produção (não apenas uma vez — cada lote)</li>
+            <li><strong>Certificado de teste UV400</strong> para cada lote de produção (não apenas uma vez -- cada lote)</li>
             <li><strong>Modelo de Declaração de Conformidade CE</strong> que você pode personalizar com o nome da sua marca</li>
             <li><strong>Registros do teste de bola FDA</strong> arquivados e disponíveis mediante solicitação</li>
             <li><strong>Fichas de segurança de materiais (FISPQ)</strong> para materiais de armação</li>
@@ -418,9 +418,9 @@ export default function FdaCeCertificationPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Óculos de sol precisam de aprovação da FDA para vender nos EUA?</h3>
               <p className="text-gray-600">
-                Não &quot;aprovação&quot; — mas conformidade com a FDA, sim. Óculos de sol são dispositivos médicos Classe I. 
+                Não &quot;aprovação&quot; -- mas conformidade com a FDA, sim. Óculos de sol são dispositivos médicos Classe I. 
                 Fabricantes/importadores devem se registrar na FDA e listar seus produtos. As lentes devem passar 
-                nos testes de resistência a impacto. Não há processo de aprovação pré-mercado — é registro 
+                nos testes de resistência a impacto. Não há processo de aprovação pré-mercado -- é registro 
                 mais conformidade com padrões de desempenho.
               </p>
             </div>
@@ -444,7 +444,7 @@ export default function FdaCeCertificationPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Qual proteção UV os óculos de sol precisam?</h3>
               <p className="text-gray-600">
-                UV400 — bloqueando 99-100% da radiação UV até 400nm — é a base global. Todo 
+                UV400 -- bloqueando 99-100% da radiação UV até 400nm -- é a base global. Todo 
                 mercado importante exige proteção UV adequada. Não venda óculos de sol sem certificação UV400. 
                 O risco para os consumidores (e sua responsabilidade) é alto demais.
               </p>
@@ -453,7 +453,7 @@ export default function FdaCeCertificationPage() {
               <h3 className="font-bold text-lg mb-2">Meus óculos podem ser apreendidos na alfândega por não conformidade?</h3>
               <p className="text-gray-600">
                 Sim. A CBP dos EUA pode reter remessas sem registro FDA. A alfândega da UE regularmente apreende 
-                produtos sem marcação CE. A Austrália é a mais rigorosa — óculos não conformes são 
+                produtos sem marcação CE. A Austrália é a mais rigorosa -- óculos não conformes são 
                 rotineiramente destruídos. Vi clientes perderem $10.000-$50.000 em remessas apreendidas. 
                 O custo dos testes de conformidade é uma fração disso.
               </p>
@@ -465,7 +465,7 @@ export default function FdaCeCertificationPage() {
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Cuidamos da conformidade FDA, CE e UV para cada pedido que produzimos. Nossa equipe pode guiá-lo 
               pelos requisitos dos seus mercados específicos e fornecer toda a documentação necessária. 
-              Sem custo extra para conformidade padrão — faz parte de fazer negócios corretamente.
+              Sem custo extra para conformidade padrão -- faz parte de fazer negócios corretamente.
             </p>
             <Link href="/pt/contato" className="btn-primary">
               Pergunte ao Jacky Sobre Conformidade
@@ -477,7 +477,7 @@ export default function FdaCeCertificationPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/pt/blog/controle-qualidade-oculos-sol" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Controle de Qualidade de Óculos de Sol: Checklist de Inspeção de Fábrica</h3>
-                <p className="text-gray-600 text-sm">O que verificar antes de aprovar um lote de produção — da clareza da lente à tensão da dobradiça.</p>
+                <p className="text-gray-600 text-sm">O que verificar antes de aprovar um lote de produção -- da clareza da lente à tensão da dobradiça.</p>
               </Link>
               <Link href="/pt/blog/guia-importacao-oculos-sol" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Como Importar Óculos de Sol da China</h3>

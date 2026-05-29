@@ -20,28 +20,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$12.00 - $18.00',
     moq: '100 pzas',
-    description: 'El aviador fue literalmente diseñado para pilotos que necesitaban ver a través del resplandor de la cabina. Agrega polarización y se convierte en las gafas de sol definitivas para conducir. Nuestro aviador polarizado corta el resplandor de la carretera, el reflejo del tablero, y ese destello cegador del auto de adelante. Las suministramos a una empresa de alquiler de autos en Dubái que se las da a cada cliente — así de buenas son para conducir.',
+    description: 'El aviador fue literalmente diseñado para pilotos que necesitaban ver a través del resplandor de la cabina. Agrega polarización y se convierte en las gafas de sol definitivas para conducir. Nuestro aviador polarizado corta el resplandor de la carretera, el reflejo del tablero, y ese destello cegador del auto de adelante. Las suministramos a una empresa de alquiler de autos en Dubái que se las da a cada cliente -- así de buenas son para conducir.',
   },
   {
     name: 'Wayfarer Polarizado',
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$11.00 - $17.00',
     moq: '100 pzas',
-    description: 'La forma clásica wayfarer se encuentra con la óptica seria. Las lentes polarizadas TAC transforman este armazón de moda en una potencia funcional — el resplandor de la playa, el reflejo de la acera de la ciudad, el brillo de la superficie del agua, todo desaparece. Los clientes obtienen el estilo que quieren con protección que no sabían que necesitaban. Nuestro todoterreno más vendido.',
+    description: 'La forma clásica wayfarer se encuentra con la óptica seria. Las lentes polarizadas TAC transforman este armazón de moda en una potencia funcional -- el resplandor de la playa, el reflejo de la acera de la ciudad, el brillo de la superficie del agua, todo desaparece. Los clientes obtienen el estilo que quieren con protección que no sabían que necesitaban. Nuestro todoterreno más vendido.',
   },
   {
     name: 'Deportivo Envolvente Polarizado',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$13.00 - $19.00',
     moq: '100 pzas',
-    description: 'Cobertura envolvente + lentes polarizadas = sin resplandor desde ningún ángulo. Están diseñadas para atletas al aire libre que necesitan protección periférica — ciclistas en carreteras mojadas, corredores de trail en luz moteada, senderistas por encima de la línea de árboles. El armazón de TR90 mantiene el peso bajo los 26g. Un club de ciclismo en los Países Bajos ordenó 600 pares para todos sus miembros.',
+    description: 'Cobertura envolvente + lentes polarizadas = sin resplandor desde ningún ángulo. Están diseñadas para atletas al aire libre que necesitan protección periférica -- ciclistas en carreteras mojadas, corredores de trail en luz moteada, senderistas por encima de la línea de árboles. El armazón de TR90 mantiene el peso bajo los 26g. Un club de ciclismo en los Países Bajos ordenó 600 pares para todos sus miembros.',
   },
   {
     name: 'Gafas Polarizadas para Pesca',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$14.00 - $20.00',
     moq: '100 pzas',
-    description: 'Pregúntale a cualquier pescador serio y te dirá — las lentes polarizadas no son opcionales para pescar. Son esenciales. Nuestras gafas polarizadas para pesca cortan el resplandor de la superficie para que puedas ver directamente dentro del agua. Localiza el pez, lee la estructura, observa tu señuelo. Lentes ámbar para agua dulce, gris-verde para agua salada. Una empresa de pesca chárter en Key West ha estado reordenando estos cada trimestre durante tres años seguidos.',
+    description: 'Pregúntale a cualquier pescador serio y te dirá -- las lentes polarizadas no son opcionales para pescar. Son esenciales. Nuestras gafas polarizadas para pesca cortan el resplandor de la superficie para que puedas ver directamente dentro del agua. Localiza el pez, lee la estructura, observa tu señuelo. Lentes ámbar para agua dulce, gris-verde para agua salada. Una empresa de pesca chárter en Key West ha estado reordenando estos cada trimestre durante tres años seguidos.',
   },
   {
     name: 'Gafas Polarizadas para Conducir',
@@ -55,7 +55,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$13.00 - $19.00',
     moq: '100 pzas',
-    description: '¿Quién dijo que lo polarizado tiene que verse deportivo? Este armazón ojo de gato con lentes polarizadas TAC demuestra que puedes tener moda Y función. Mujeres que conducen, que pasan tiempo en la playa, que se sientan junto a la piscina — obtienen la protección contra el resplandor que necesitan envuelta en un armazón que realmente quieren usar. Estilo + sustancia. Nuestro #1 en ventas de polarizados para mujer.',
+    description: '¿Quién dijo que lo polarizado tiene que verse deportivo? Este armazón ojo de gato con lentes polarizadas TAC demuestra que puedes tener moda Y función. Mujeres que conducen, que pasan tiempo en la playa, que se sientan junto a la piscina -- obtienen la protección contra el resplandor que necesitan envuelta en un armazón que realmente quieren usar. Estilo + sustancia. Nuestro #1 en ventas de polarizados para mujer.',
   },
 ]
 
@@ -80,7 +80,7 @@ export default function PolarizedPageEs() {
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Una vez que tus clientes prueban las polarizadas, nunca vuelven atrás. El resplandor
             desaparece. Los colores resaltan. Todo simplemente se ve... mejor. Fabricamos gafas de
-            sol polarizadas TAC premium en cada estilo — aviador, wayfarer, deportivo, ojo de gato —
+            sol polarizadas TAC premium en cada estilo -- aviador, wayfarer, deportivo, ojo de gato --
             con lentes de 7 capas que bloquean el 99% del resplandor horizontal cegador.
           </p>
         </div>
@@ -99,7 +99,7 @@ export default function PolarizedPageEs() {
           <h2 className="text-3xl font-bold text-center mb-6">Cómo Funciona la Polarización (Versión Simple)</h2>
           <div className="max-w-4xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
-              Aquí va la explicación de 30 segundos. La luz solar viaja en todas las direcciones — arriba,
+              Aquí va la explicación de 30 segundos. La luz solar viaja en todas las direcciones -- arriba,
               abajo, hacia los lados. Cuando rebota en una superficie plana como el agua, una carretera o
               el capó de un auto, se &quot;organiza&quot; en ondas horizontales. Eso es el resplandor. Es
               cegador, es molesto, y es realmente peligroso cuando estás conduciendo o en el agua.
@@ -107,14 +107,14 @@ export default function PolarizedPageEs() {
             <p>
               Una <a href="https://en.wikipedia.org/wiki/Polarizer" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">lente polarizada</a> contiene
               una película química especial con franjas verticales microscópicas. Estas franjas actúan como
-              persianas venecianas para la luz — dejan pasar la luz vertical (lo normal) pero bloquean la
+              persianas venecianas para la luz -- dejan pasar la luz vertical (lo normal) pero bloquean la
               luz horizontal (el resplandor). ¿El resultado? El resplandor desaparece. Los colores se ven
               más ricos y naturales. El contraste se agudiza. Es como actualizar de definición estándar
               a 4K para tus ojos.
             </p>
             <p>
               Sin embargo, no todas las lentes polarizadas son iguales. Las baratas usan una película
-              polarizante delgada pegada a la superficie de la lente — se despega, hace burbujas y se
+              polarizante delgada pegada a la superficie de la lente -- se despega, hace burbujas y se
               degrada en meses. Nuestras lentes TAC intercalan la película polarizante entre 6 capas
               de material protector, creando una unidad fusionada única que no se separará ni degradará.
               Esa es la diferencia entre las polarizadas de $2 de gasolinera y las polarizadas de verdad.
@@ -136,12 +136,12 @@ export default function PolarizedPageEs() {
                 </tr>
               </thead>
               <tbody className="divide-y">
-                <tr><td className="p-4 font-medium">Reducción de Resplandor</td><td className="p-4 text-gray-600">Oscurece todo por igual — resplandor incluido</td><td className="p-4 text-gray-600">Elimina específicamente el resplandor horizontal reflejado</td></tr>
+                <tr><td className="p-4 font-medium">Reducción de Resplandor</td><td className="p-4 text-gray-600">Oscurece todo por igual -- resplandor incluido</td><td className="p-4 text-gray-600">Elimina específicamente el resplandor horizontal reflejado</td></tr>
                 <tr><td className="p-4 font-medium">Claridad Visual</td><td className="p-4 text-gray-600">Más oscuro pero no más claro</td><td className="p-4 text-gray-600">Contraste más nítido, percepción de color mejorada</td></tr>
-                <tr><td className="p-4 font-medium">Seguridad al Conducir</td><td className="p-4 text-gray-600">Reduce brillo, el resplandor sigue presente</td><td className="p-4 text-gray-600">Elimina el resplandor de carretera/autos — significativamente más seguro</td></tr>
+                <tr><td className="p-4 font-medium">Seguridad al Conducir</td><td className="p-4 text-gray-600">Reduce brillo, el resplandor sigue presente</td><td className="p-4 text-gray-600">Elimina el resplandor de carretera/autos -- significativamente más seguro</td></tr>
                 <tr><td className="p-4 font-medium">Pesca / Agua</td><td className="p-4 text-gray-600">No puedes ver bajo la superficie</td><td className="p-4 text-gray-600">Ves a través de la superficie del agua claramente</td></tr>
-                <tr><td className="p-4 font-medium">Fatiga Visual</td><td className="p-4 text-gray-600">Sigues entrecerrando los ojos por el resplandor</td><td className="p-4 text-gray-600">Los ojos se relajan — no necesitas entrecerrar los ojos</td></tr>
-                <tr><td className="p-4 font-medium">Valor Percibido</td><td className="p-4 text-gray-600">Básico — los clientes esperan UV como mínimo</td><td className="p-4 text-gray-600">Premium — los clientes pagan $10-30 más al detalle</td></tr>
+                <tr><td className="p-4 font-medium">Fatiga Visual</td><td className="p-4 text-gray-600">Sigues entrecerrando los ojos por el resplandor</td><td className="p-4 text-gray-600">Los ojos se relajan -- no necesitas entrecerrar los ojos</td></tr>
+                <tr><td className="p-4 font-medium">Valor Percibido</td><td className="p-4 text-gray-600">Básico -- los clientes esperan UV como mínimo</td><td className="p-4 text-gray-600">Premium -- los clientes pagan $10-30 más al detalle</td></tr>
                 <tr><td className="p-4 font-medium">Costo Adicional al Mayor</td><td className="p-4 text-gray-600">Línea base</td><td className="p-4 text-gray-600">+$1.50 - $3.00 por par</td></tr>
               </tbody>
             </table>
@@ -194,7 +194,7 @@ export default function PolarizedPageEs() {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-white rounded-xl p-6 shadow-sm border-2 border-primary-200">
               <h3 className="text-xl font-semibold mb-2">🏆 TAC Polarizada</h3>
-              <p className="text-xs text-primary-600 font-semibold mb-4">MÁS POPULAR — 80% de los pedidos</p>
+              <p className="text-xs text-primary-600 font-semibold mb-4">MÁS POPULAR -- 80% de los pedidos</p>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 TAC (Celulosa Triacetato) es el punto óptimo. Siete capas fusionadas: capa dura
                 por fuera, capas estructurales TAC, película polarizante en el centro, recubrimiento
@@ -204,9 +204,9 @@ export default function PolarizedPageEs() {
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
                 <li>• Peso: Ligero (1.1mm estándar)</li>
-                <li>• Impacto: Bueno — no se rompe</li>
+                <li>• Impacto: Bueno -- no se rompe</li>
                 <li>• Óptica: Muy buena</li>
-                <li>• Costo: $$ — mejor relación calidad-precio</li>
+                <li>• Costo: $$ -- mejor relación calidad-precio</li>
                 <li>• Mejor para: la mayoría de aplicaciones</li>
               </ul>
             </div>
@@ -216,16 +216,16 @@ export default function PolarizedPageEs() {
               <p className="text-gray-700 mb-4 leading-relaxed">
                 <a href="https://en.wikipedia.org/wiki/CR-39" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">CR-39</a> es
                 una resina de grado óptico originalmente desarrollada para óptica militar. Ofrece
-                la claridad visual más nítida de cualquier material de lente plástica — a los ópticos
+                la claridad visual más nítida de cualquier material de lente plástica -- a los ópticos
                 les encanta. Resistente a rayones, ligera y ópticamente superior a TAC. Pero cuesta
                 más y es ligeramente menos resistente al impacto. Elige CR-39 cuando la calidad
-                óptica sea la máxima prioridad — marcas de lujo, especialistas en conducción, ópticas.
+                óptica sea la máxima prioridad -- marcas de lujo, especialistas en conducción, ópticas.
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
                 <li>• Peso: Ligero</li>
                 <li>• Impacto: Moderado</li>
-                <li>• Óptica: Excelente — grado óptico</li>
-                <li>• Costo: $$$ — premium</li>
+                <li>• Óptica: Excelente -- grado óptico</li>
+                <li>• Costo: $$$ -- premium</li>
                 <li>• Mejor para: lujo, tiendas ópticas</li>
               </ul>
             </div>
@@ -234,7 +234,7 @@ export default function PolarizedPageEs() {
               <p className="text-xs text-gray-500 font-semibold mb-4">CLARIDAD SUPREMA</p>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Nada supera al cristal en pureza óptica. Cero distorsión, resistencia superior
-                a rayones, y la polarización está integrada permanentemente — no se degradará con
+                a rayones, y la polarización está integrada permanentemente -- no se degradará con
                 los años. Pero el cristal es más pesado, más caro, y se rompe con el impacto (no
                 ideal para deportes). El cristal polarizado es para el cliente purista que quiere
                 la mejor óptica absoluta y no le importa el peso. Piensa en entusiastas de la
@@ -242,9 +242,9 @@ export default function PolarizedPageEs() {
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
                 <li>• Peso: Pesado</li>
-                <li>• Impacto: Bajo — puede romperse</li>
-                <li>• Óptica: Perfecta — cero distorsión</li>
-                <li>• Costo: $$$$ — el más alto</li>
+                <li>• Impacto: Bajo -- puede romperse</li>
+                <li>• Óptica: Perfecta -- cero distorsión</li>
+                <li>• Costo: $$$$ -- el más alto</li>
                 <li>• Mejor para: lujo, pesca, navegación</li>
               </ul>
             </div>
@@ -258,15 +258,15 @@ export default function PolarizedPageEs() {
             <div>
               <p className="text-lg text-gray-700 mb-6">
                 Cuando la gente pregunta &quot;¿por qué tus lentes polarizadas cuestan más que las de
-                Alibaba a $0.50?&quot; — esto es por qué. Cada lente es un sándwich de 7 capas, fusionadas
+                Alibaba a $0.50?&quot; -- esto es por qué. Cada lente es un sándwich de 7 capas, fusionadas
                 con precisión bajo calor y presión. ¿Las baratas? Pegan una película polarizante en un
                 lado de una lente regular. Se despega. Hace burbujas. Se empaña. Las nuestras no. Nunca.
                 Llevamos más de 8 años fabricándolas y nuestra tasa de defectos está por debajo del 0.3%.
               </p>
               <ul className="space-y-3">
-                <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>UV400 — probada en laboratorio, no solo etiquetada</li>
+                <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>UV400 -- probada en laboratorio, no solo etiquetada</li>
                 <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>99% del resplandor horizontal eliminado</li>
-                <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>Resistente al impacto — no se rompe</li>
+                <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>Resistente al impacto -- no se rompe</li>
                 <li className="flex items-center"><span className="w-3 h-3 bg-primary-600 rounded-full mr-3"></span>Recubrimiento duro resistente a rayones</li>
               </ul>
             </div>
@@ -324,31 +324,31 @@ export default function PolarizedPageEs() {
 
         {/* FAQ */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Preguntas sobre Polarizadas — Respondidas</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Preguntas sobre Polarizadas -- Respondidas</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="¿Cómo puedo saber si las lentes son realmente polarizadas?"
-              answer="Prueba fácil: sostén las gafas de sol frente a una pantalla LCD (teléfono o computadora) y gíralas 90 grados. Si están verdaderamente polarizadas, la pantalla se oscurecerá o cambiará de color drásticamente en ciertos ángulos. Eso es el filtro polarizante bloqueando las ondas de luz de la pantalla. Incluimos una tarjeta de prueba de polarización con cada pedido para que tus clientes puedan verificarlo ellos mismos. Es una gran herramienta de venta — a la gente le encanta la demostración."
+              answer="Prueba fácil: sostén las gafas de sol frente a una pantalla LCD (teléfono o computadora) y gíralas 90 grados. Si están verdaderamente polarizadas, la pantalla se oscurecerá o cambiará de color drásticamente en ciertos ángulos. Eso es el filtro polarizante bloqueando las ondas de luz de la pantalla. Incluimos una tarjeta de prueba de polarización con cada pedido para que tus clientes puedan verificarlo ellos mismos. Es una gran herramienta de venta -- a la gente le encanta la demostración."
             />
             <FaqItem
               question="¿Valen la pena las lentes polarizadas por el costo extra?"
-              answer="Desde la perspectiva de margen, ¿absolutamente? Las polarizadas agregan aproximadamente $1.50-3.00 a tu costo al por mayor por par, pero los clientes pagarán $10-30 más al detalle por 'polarizado' en la etiqueta. Es la mejor venta adicional en el negocio de gafas de sol. Desde la perspectiva de rendimiento — si tus clientes conducen, pescan o pasan tiempo cerca del agua, las polarizadas no son un lujo. Son una característica de seguridad. El resplandor causa accidentes."
+              answer="Desde la perspectiva de margen, ¿absolutamente? Las polarizadas agregan aproximadamente $1.50-3.00 a tu costo al por mayor por par, pero los clientes pagarán $10-30 más al detalle por 'polarizado' en la etiqueta. Es la mejor venta adicional en el negocio de gafas de sol. Desde la perspectiva de rendimiento -- si tus clientes conducen, pescan o pasan tiempo cerca del agua, las polarizadas no son un lujo. Son una característica de seguridad. El resplandor causa accidentes."
             />
             <FaqItem
               question="¿Las lentes polarizadas pueden afectar la visibilidad de pantallas de teléfono o GPS?"
-              answer="A veces, sí — y vale la pena saberlo. Las lentes polarizadas pueden hacer que algunas pantallas LCD se vean oscuras o muestren patrones de arcoíris en ciertos ángulos. La mayoría de las pantallas OLED modernas de teléfonos lo manejan bien, pero las unidades GPS más antiguas y algunas pantallas de tablero de auto pueden ser complicadas. Para gafas de conducción específicamente, ofrecemos lentes con un ángulo de polarización ligeramente desplazado que reduce este problema. Solo pregunta por nuestra opción polarizada 'optimizada para conductor'."
+              answer="A veces, sí -- y vale la pena saberlo. Las lentes polarizadas pueden hacer que algunas pantallas LCD se vean oscuras o muestren patrones de arcoíris en ciertos ángulos. La mayoría de las pantallas OLED modernas de teléfonos lo manejan bien, pero las unidades GPS más antiguas y algunas pantallas de tablero de auto pueden ser complicadas. Para gafas de conducción específicamente, ofrecemos lentes con un ángulo de polarización ligeramente desplazado que reduce este problema. Solo pregunta por nuestra opción polarizada 'optimizada para conductor'."
             />
             <FaqItem
-              question="TAC, CR-39 o cristal — ¿qué lente polarizada debería elegir?"
-              answer="Para la mayoría de los compradores al por mayor: TAC. Es el mejor equilibrio de calidad, durabilidad y costo — y representa aproximadamente el 80% de nuestros pedidos polarizados. Elige CR-39 si vendes a ópticas o mercados de lujo donde la claridad óptica es la prioridad #1. Elige cristal si te diriges a entusiastas serios de la pesca/navegación que quieren la mejor óptica absoluta y no les importan armazones más pesados. En caso de duda, empieza con TAC."
+              question="TAC, CR-39 o cristal -- ¿qué lente polarizada debería elegir?"
+              answer="Para la mayoría de los compradores al por mayor: TAC. Es el mejor equilibrio de calidad, durabilidad y costo -- y representa aproximadamente el 80% de nuestros pedidos polarizados. Elige CR-39 si vendes a ópticas o mercados de lujo donde la claridad óptica es la prioridad #1. Elige cristal si te diriges a entusiastas serios de la pesca/navegación que quieren la mejor óptica absoluta y no les importan armazones más pesados. En caso de duda, empieza con TAC."
             />
             <FaqItem
               question="¿Qué colores de lentes polarizadas ofrecen?"
-              answer="Doce opciones: gris (neutral, color real — mejor para conducir), marrón (contraste mejorado — ideal para uso diario), ámbar (máximo contraste — favorito para pesca), verde (aspecto clásico G-15), espejo azul, espejo rojo, espejo dorado, espejo plateado, amarillo (condiciones de poca luz), rosa (golf/tenis), y fotocromático (se ajusta automáticamente a la luz). Gris y marrón representan aproximadamente el 60% de todos los pedidos, pero los acabados espejados están creciendo rápidamente."
+              answer="Doce opciones: gris (neutral, color real -- mejor para conducir), marrón (contraste mejorado -- ideal para uso diario), ámbar (máximo contraste -- favorito para pesca), verde (aspecto clásico G-15), espejo azul, espejo rojo, espejo dorado, espejo plateado, amarillo (condiciones de poca luz), rosa (golf/tenis), y fotocromático (se ajusta automáticamente a la luz). Gris y marrón representan aproximadamente el 60% de todos los pedidos, pero los acabados espejados están creciendo rápidamente."
             />
             <FaqItem
               question="¿Cuál es el MOQ y puedo mezclar polarizadas con no polarizadas?"
-              answer="100 piezas por estilo y color. Y sí — puedes mezclar versiones polarizadas y no polarizadas del mismo armazón en un pedido. Muchos de nuestros minoristas tienen ambas: no polarizadas a $15-20 al detalle como punto de entrada, y polarizadas a $25-35 como la venta adicional premium. Mismo armazón, diferente lente, mayor valor promedio de pedido. Los minoristas inteligentes ofrecen la demostración comparativa directamente en el mostrador."
+              answer="100 piezas por estilo y color. Y sí -- puedes mezclar versiones polarizadas y no polarizadas del mismo armazón en un pedido. Muchos de nuestros minoristas tienen ambas: no polarizadas a $15-20 al detalle como punto de entrada, y polarizadas a $25-35 como la venta adicional premium. Mismo armazón, diferente lente, mayor valor promedio de pedido. Los minoristas inteligentes ofrecen la demostración comparativa directamente en el mostrador."
             />
           </div>
         </section>
@@ -359,7 +359,7 @@ export default function PolarizedPageEs() {
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
             Las polarizadas te cuestan un poco más. Se venden por mucho más. Y los clientes genuinamente
             aman la diferencia. Obtén muestras, haz la demostración con la pantalla LCD, y míralas
-            venderse solas. Muestras gratuitas disponibles — tú cubres el envío.
+            venderse solas. Muestras gratuitas disponibles -- tú cubres el envío.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/es/contacto" className="btn-primary">Solicitar Catálogo Polarizado</Link>
@@ -399,7 +399,7 @@ export default function PolarizedPageEs() {
           },
           {
             "@type": "Question",
-            "name": "TAC, CR-39 o cristal — ¿qué lente polarizada debería elegir?",
+            "name": "TAC, CR-39 o cristal -- ¿qué lente polarizada debería elegir?",
             "acceptedAnswer": { "@type": "Answer", "text": "TAC para la mayoría de los compradores (mejor relación calidad-precio, 80% de los pedidos). CR-39 para mercados de lujo/óptica. Cristal para entusiastas serios de la pesca/navegación que quieren la mejor óptica absoluta." }
           },
           {

@@ -15,8 +15,8 @@ export default function GuideMoqLunettesPage() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Guide MOQ Lunettes de Soleil : Combien de Paires Commander en Premier ?", "datePublished": "2026-05-03", "dateModified": "2026-05-03", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondateur", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/fr/blog/guide-moq-lunettes" }, "inLanguage": "fr" })}} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
           { "@type": "Question", "name": "Quel est le MOQ typique pour les lunettes de soleil en gros ?", "acceptedAnswer": { "@type": "Answer", "text": "Ça dépend du modèle de production. ODM (designs existants) : 50-200 pièces par style. OEM (designs personnalisés avec moules existants) : 300-1 000 pièces par style. Moules entièrement personnalisés : 500+ pièces. Certaines usines, dont la nôtre, proposent des MOQ plus bas pour les premières commandes." } },
-          { "@type": "Question", "name": "Peut-on commander moins de 100 paires ?", "acceptedAnswer": { "@type": "Answer", "text": "Certaines usines proposent des MOQ inférieurs à 100 pour l'ODM — nous commençons à 50 pièces pour les nouveaux clients. Mais attention : les très petites quantités signifient des coûts unitaires plus élevés, parfois 30-50 % de plus qu'à 200+ pièces." } },
-          { "@type": "Question", "name": "Pourquoi les usines ont-elles des MOQ ?", "acceptedAnswer": { "@type": "Answer", "text": "Les MOQ existent à cause de l'économie de production. Le réglage d'une ligne — calibrage des machines, mélange de couleurs, configuration de la découpe des verres — prend du temps et de la main-d'œuvre, que vous fassiez 10 ou 10 000 paires. En dessous d'un certain seuil, les coûts de réglage par unité rendent la commande non rentable." } }
+          { "@type": "Question", "name": "Peut-on commander moins de 100 paires ?", "acceptedAnswer": { "@type": "Answer", "text": "Certaines usines proposent des MOQ inférieurs à 100 pour l'ODM -- nous commençons à 50 pièces pour les nouveaux clients. Mais attention : les très petites quantités signifient des coûts unitaires plus élevés, parfois 30-50 % de plus qu'à 200+ pièces." } },
+          { "@type": "Question", "name": "Pourquoi les usines ont-elles des MOQ ?", "acceptedAnswer": { "@type": "Answer", "text": "Les MOQ existent à cause de l'économie de production. Le réglage d'une ligne -- calibrage des machines, mélange de couleurs, configuration de la découpe des verres -- prend du temps et de la main-d'œuvre, que vous fassiez 10 ou 10 000 paires. En dessous d'un certain seuil, les coûts de réglage par unité rendent la commande non rentable." } }
         ] })}} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
@@ -44,9 +44,9 @@ export default function GuideMoqLunettesPage() {
           </div>
           <h2 className="text-3xl font-bold mt-16 mb-6">La stratégie de montée en volume intelligente</h2>
           <ol>
-            <li className="mb-4"><strong>Première commande — testez :</strong> 3-5 styles × 50-100 pièces chacun = 150-500 paires totales. Budget : 1 500-5 000 $.</li>
-            <li className="mb-4"><strong>Renouvellement — doublez les gagnants :</strong> Vos 2-3 best-sellers × 200-300 pièces. Abandonnez les styles qui ne se vendent pas.</li>
-            <li className="mb-4"><strong>Montée en puissance — OEM :</strong> Avec des données de ventes solides, investissez dans 1-2 designs OEM personnalisés à 500+ pièces.</li>
+            <li className="mb-4"><strong>Première commande -- testez :</strong> 3-5 styles × 50-100 pièces chacun = 150-500 paires totales. Budget : 1 500-5 000 $.</li>
+            <li className="mb-4"><strong>Renouvellement -- doublez les gagnants :</strong> Vos 2-3 best-sellers × 200-300 pièces. Abandonnez les styles qui ne se vendent pas.</li>
+            <li className="mb-4"><strong>Montée en puissance -- OEM :</strong> Avec des données de ventes solides, investissez dans 1-2 designs OEM personnalisés à 500+ pièces.</li>
           </ol>
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 La règle de Jacky pour la première commande</h3>

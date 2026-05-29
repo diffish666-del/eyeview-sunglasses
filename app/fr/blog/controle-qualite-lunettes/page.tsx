@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Contrôle Qualité Lunettes de Soleil : Checklist d\'Inspection en Usine',
-  description: 'Un propriétaire d\'usine partage la checklist complète de CQ pour les lunettes — tests de verres, inspection de montures, vérification des charnières, contrôle UV et quoi vérifier avant de valider la production.',
+  description: 'Un propriétaire d\'usine partage la checklist complète de CQ pour les lunettes -- tests de verres, inspection de montures, vérification des charnières, contrôle UV et quoi vérifier avant de valider la production.',
   keywords: 'contrôle qualité lunettes, inspection lunettes, normes test lunettes, checklist CQ lunettes, défauts lunettes',
   alternates: { canonical: '/fr/blog/controle-qualite-lunettes', languages: { 'en': '/blog/sunglasses-quality-control', 'fr': '/fr/blog/controle-qualite-lunettes' } },
 }
@@ -24,15 +24,15 @@ export default function ControleQualiteLunettesPage() {
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Qualité</span><span>4 mai 2026</span><span>•</span><span>12 min de lecture</span></div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Contrôle Qualité Lunettes de Soleil : Checklist d&apos;Inspection en Usine</h1>
-          <p className="text-xl text-gray-600">Voici exactement ce que nous vérifions sur chaque paire qui sort de notre chaîne — et ce que vous devriez vérifier avant de valider n&apos;importe quelle production.</p>
+          <p className="text-xl text-gray-600">Voici exactement ce que nous vérifions sur chaque paire qui sort de notre chaîne -- et ce que vous devriez vérifier avant de valider n&apos;importe quelle production.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200"><div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div><div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Fondateur, EyeView Sunglasses</div></div></div>
         </header>
         <div className="prose prose-lg max-w-none">
           <h2 className="text-3xl font-bold mt-16 mb-6">Les 7 points de contrôle essentiels</h2>
           <h3 className="text-2xl font-bold mt-8 mb-4">1. Clarté optique des verres</h3>
-          <p>Tenez le verre à 30 cm et regardez un bord droit (cadre de porte). Bougez lentement le verre. Si la ligne se courbe ou se déforme, le verre a une distorsion optique — rejetez-le.</p>
+          <p>Tenez le verre à 30 cm et regardez un bord droit (cadre de porte). Bougez lentement le verre. Si la ligne se courbe ou se déforme, le verre a une distorsion optique -- rejetez-le.</p>
           <h3 className="text-2xl font-bold mt-8 mb-4">2. Protection UV</h3>
-          <p>Exigez le rapport de test UV400 pour chaque lot de production. Pas juste une fois — <strong>chaque lot</strong>. Un spectrophotomètre vérifie la transmittance à chaque longueur d&apos;onde de 280 à 780 nm.</p>
+          <p>Exigez le rapport de test UV400 pour chaque lot de production. Pas juste une fois -- <strong>chaque lot</strong>. Un spectrophotomètre vérifie la transmittance à chaque longueur d&apos;onde de 280 à 780 nm.</p>
           <h3 className="text-2xl font-bold mt-8 mb-4">3. Tension des charnières</h3>
           <p>Ouvrez et fermez les branches 200 fois. La tension doit rester constante. Des charnières qui se relâchent après 50 cycles seront flasques en un mois d&apos;usage client.</p>
           <h3 className="text-2xl font-bold mt-8 mb-4">4. Symétrie de la monture</h3>
@@ -64,5 +64,6 @@ export default function ControleQualiteLunettesPage() {
         </div>
       </div>
     </article>
+    </>
   )
 }

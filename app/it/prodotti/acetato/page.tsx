@@ -24,69 +24,69 @@ export const metadata: Metadata = {
 const acetateFaqs = [
   {
     question: 'What is the difference between Italian Mazzucchelli acetate and Chinese acetate?',
-    answer: 'The honest answer is that the gap has narrowed significantly over the past decade, but there are still real differences. Mazzucchelli (and other Italian makers like Lapo) uses a slower, more controlled extrusion process that produces sheets with more consistent color depth and pattern distribution — especially visible in complex patterns like multi-layer tortoiseshell or crystal-clear transparent colors. Italian acetate also tends to polish to a slightly higher gloss. Chinese acetate from top-tier producers like Shenzhen Xin Rui or Taizhou Huangyan has improved dramatically and is genuinely good — excellent color range, good consistency, and about 30-40% cheaper. For most retail price points under $80, high-quality Chinese acetate is the smart choice. For premium brands retailing above $100 where the customer might compare your frame side-by-side with Céline or Tom Ford, Italian acetate gives you that last 10% of refinement.',
+    answer: 'The honest answer is that the gap has narrowed significantly over the past decade, but there are still real differences. Mazzucchelli (and other Italian makers like Lapo) uses a slower, more controlled extrusion process that produces sheets with more consistent color depth and pattern distribution -- especially visible in complex patterns like multi-layer tortoiseshell or crystal-clear transparent colors. Italian acetate also tends to polish to a slightly higher gloss. Chinese acetate from top-tier producers like Shenzhen Xin Rui or Taizhou Huangyan has improved dramatically and is genuinely good -- excellent color range, good consistency, and about 30-40% cheaper. For most retail price points under $80, high-quality Chinese acetate is the smart choice. For premium brands retailing above $100 where the customer might compare your frame side-by-side with Céline or Tom Ford, Italian acetate gives you that last 10% of refinement.',
   },
   {
     question: 'How long does the acetate production process take?',
-    answer: 'Longer than you might think — and that is actually what makes acetate special. From CNC cutting to final QC, a single pair takes 5-7 days of actual processing time. The big time sink is barrel tumbling (3-5 days to smooth all the machining marks) and hand polishing (20-30 minutes per pair by skilled workers). Total production lead time for an order is typically 20-28 days because we batch-process at each stage. Rush orders can be done in 14-18 days but we charge a 15% surcharge because we have to interrupt other production runs. Sample pairs take 5-7 business days.',
+    answer: 'Longer than you might think -- and that is actually what makes acetate special. From CNC cutting to final QC, a single pair takes 5-7 days of actual processing time. The big time sink is barrel tumbling (3-5 days to smooth all the machining marks) and hand polishing (20-30 minutes per pair by skilled workers). Total production lead time for an order is typically 20-28 days because we batch-process at each stage. Rush orders can be done in 14-18 days but we charge a 15% surcharge because we have to interrupt other production runs. Sample pairs take 5-7 business days.',
   },
   {
     question: 'What colors and patterns can you do in acetate?',
-    answer: 'Essentially unlimited. We stock over 200 acetate sheet colors and patterns from our suppliers — solid colors, tortoiseshell (classic brown, blonde, dark), crystal/transparent (clear, grey, champagne, blue), marble, wood grain, horn effect, gradient, and multi-layer laminated patterns. For custom colors, you give us a Pantone code and the acetate supplier produces a matched sheet. Custom pattern development (like a unique tortoiseshell blend or a branded pattern) is also possible — minimum sheet order is usually 50-100kg, which translates to roughly 500-1,000 pairs depending on frame size. For smaller orders, we strongly recommend picking from existing stock colors — there are so many that you will almost certainly find what you need.',
+    answer: 'Essentially unlimited. We stock over 200 acetate sheet colors and patterns from our suppliers -- solid colors, tortoiseshell (classic brown, blonde, dark), crystal/transparent (clear, grey, champagne, blue), marble, wood grain, horn effect, gradient, and multi-layer laminated patterns. For custom colors, you give us a Pantone code and the acetate supplier produces a matched sheet. Custom pattern development (like a unique tortoiseshell blend or a branded pattern) is also possible -- minimum sheet order is usually 50-100kg, which translates to roughly 500-1,000 pairs depending on frame size. For smaller orders, we strongly recommend picking from existing stock colors -- there are so many that you will almost certainly find what you need.',
   },
   {
     question: 'How should customers care for acetate sunglasses?',
-    answer: 'Acetate is tougher than most people think, but there are a few things to know. First, keep them away from extreme heat — do not leave them on a car dashboard in summer. Acetate softens around 70-80°C (158-176°F), so sustained heat can warp the frame. Second, avoid acetone and harsh solvents — nail polish remover will damage the surface. Third, clean with warm water and mild soap, then dry with a soft cloth. No alcohol-based lens cleaners. The good news is that acetate frames can be adjusted by your optician with gentle heat, and minor scratches can often be buffed out. We include care instruction cards with every order at no extra charge — it saves your customers from the most common mistakes and reduces your return rate.',
+    answer: 'Acetate is tougher than most people think, but there are a few things to know. First, keep them away from extreme heat -- do not leave them on a car dashboard in summer. Acetate softens around 70-80°C (158-176°F), so sustained heat can warp the frame. Second, avoid acetone and harsh solvents -- nail polish remover will damage the surface. Third, clean with warm water and mild soap, then dry with a soft cloth. No alcohol-based lens cleaners. The good news is that acetate frames can be adjusted by your optician with gentle heat, and minor scratches can often be buffed out. We include care instruction cards with every order at no extra charge -- it saves your customers from the most common mistakes and reduces your return rate.',
   },
   {
     question: 'What is the MOQ for custom acetate sunglasses?',
-    answer: 'Standard MOQ is 100 pieces per model. You can mix colors within that 100 — so 30 black, 30 tortoiseshell, and 40 crystal clear works fine. If you want a completely custom frame design (your own shape, not one of our existing molds), there is a one-time mold fee of $800-1,500 depending on complexity, and the MOQ for custom shapes is 300 pieces on the first order. After that, reorders go back to 100 pieces. For custom acetate sheet colors (Pantone matching), the sheet MOQ from the supplier is typically 50-100kg. We keep a large library of stock colors to avoid this minimum for smaller brands.',
+    answer: 'Standard MOQ is 100 pieces per model. You can mix colors within that 100 -- so 30 black, 30 tortoiseshell, and 40 crystal clear works fine. If you want a completely custom frame design (your own shape, not one of our existing molds), there is a one-time mold fee of $800-1,500 depending on complexity, and the MOQ for custom shapes is 300 pieces on the first order. After that, reorders go back to 100 pieces. For custom acetate sheet colors (Pantone matching), the sheet MOQ from the supplier is typically 50-100kg. We keep a large library of stock colors to avoid this minimum for smaller brands.',
   },
   {
     question: 'Why is acetate more expensive than injection-molded plastic?',
-    answer: 'Because almost every step requires skilled human hands. Injection-molded frames (nylon, TR90, PC) are made by a machine in about 30 seconds — inject hot plastic into a mold, cool, pop it out, done. Acetate frames start as flat sheets that get CNC-cut into rough shapes, then barrel-tumbled for 3-5 days, then hand-polished one pair at a time for 20-30 minutes. The labor content is dramatically higher. Material cost is also higher — a kilogram of quality acetate sheet costs 3-5x more than injection-grade nylon pellets. The payoff is that acetate frames look and feel premium in a way that injection-molded plastic simply cannot match. The colors are richer, the surface has more depth, and there is a warmth and weight to acetate that customers associate with quality. That is why acetate frames retail at $60-200+ while injection-molded frames typically max out at $40-60.',
+    answer: 'Because almost every step requires skilled human hands. Injection-molded frames (nylon, TR90, PC) are made by a machine in about 30 seconds -- inject hot plastic into a mold, cool, pop it out, done. Acetate frames start as flat sheets that get CNC-cut into rough shapes, then barrel-tumbled for 3-5 days, then hand-polished one pair at a time for 20-30 minutes. The labor content is dramatically higher. Material cost is also higher -- a kilogram of quality acetate sheet costs 3-5x more than injection-grade nylon pellets. The payoff is that acetate frames look and feel premium in a way that injection-molded plastic simply cannot match. The colors are richer, the surface has more depth, and there is a warmth and weight to acetate that customers associate with quality. That is why acetate frames retail at $60-200+ while injection-molded frames typically max out at $40-60.',
   },
 ]
 
 const products = [
   {
     name: 'Classic Tortoiseshell Wayfarer',
-    description: 'The tortoiseshell wayfarer is the single most requested acetate frame in the eyewear industry — and for good reason. The amber-and-brown pattern flatters every skin tone, photographs beautifully, and carries instant premium perception. We produce this in both Italian Mazzucchelli acetate (for premium lines) and high-quality Chinese acetate (for mid-range positioning). Each pair is hand-polished to a deep gloss that catches light in a way injection-molded plastic simply cannot replicate. If you are building an eyewear brand and need one safe first SKU, this is probably it.',
+    description: 'The tortoiseshell wayfarer is the single most requested acetate frame in the eyewear industry -- and for good reason. The amber-and-brown pattern flatters every skin tone, photographs beautifully, and carries instant premium perception. We produce this in both Italian Mazzucchelli acetate (for premium lines) and high-quality Chinese acetate (for mid-range positioning). Each pair is hand-polished to a deep gloss that catches light in a way injection-molded plastic simply cannot replicate. If you are building an eyewear brand and need one safe first SKU, this is probably it.',
     price: '$6.00 - $11.00',
     moq: '100 pcs',
     features: ['Tortoiseshell Pattern', 'Hand-Polished', 'UV400 Lenses', '5-Barrel Hinge'],
   },
   {
     name: 'Crystal Clear Round',
-    description: 'Transparent acetate has been trending hard for three years running and shows no signs of slowing. Our crystal clear round frame is optically clear — no yellow tint, no cloudiness — with that satisfying acetate heft that tells the customer they are holding something real. The round shape is huge with the indie/vintage crowd and performs especially well in Asian markets where rounder shapes suit more face types. We can do fully clear, or a subtle crystal grey, crystal champagne, or crystal blue if you want a hint of color.',
+    description: 'Transparent acetate has been trending hard for three years running and shows no signs of slowing. Our crystal clear round frame is optically clear -- no yellow tint, no cloudiness -- with that satisfying acetate heft that tells the customer they are holding something real. The round shape is huge with the indie/vintage crowd and performs especially well in Asian markets where rounder shapes suit more face types. We can do fully clear, or a subtle crystal grey, crystal champagne, or crystal blue if you want a hint of color.',
     price: '$7.00 - $11.00',
     moq: '100 pcs',
     features: ['Crystal Clear', 'Round Shape', 'Optical Clarity', 'Multiple Tint Options'],
   },
   {
     name: 'Marble Effect Cat-Eye',
-    description: 'The marble pattern is made by layering two or three different colored acetate sheets and pressing them together, creating a swirled stone-like effect that is completely unique to each pair. Paired with the cat-eye shape — which has been dominating women\'s eyewear since its comeback around 2018 — this is a statement piece. We see these performing especially well with fashion-forward DTC brands and boutique retailers. The marble pattern is available in white/grey, black/grey, green/gold, and pink/white, or we can develop a custom marble blend.',
+    description: 'The marble pattern is made by layering two or three different colored acetate sheets and pressing them together, creating a swirled stone-like effect that is completely unique to each pair. Paired with the cat-eye shape -- which has been dominating women\'s eyewear since its comeback around 2018 -- this is a statement piece. We see these performing especially well with fashion-forward DTC brands and boutique retailers. The marble pattern is available in white/grey, black/grey, green/gold, and pink/white, or we can develop a custom marble blend.',
     price: '$8.00 - $12.00',
     moq: '100 pcs',
     features: ['Marble Pattern', 'Cat-Eye Shape', 'Multi-Layer Acetate', 'Unique Per Pair'],
   },
   {
     name: 'Gradient Acetate Oversized',
-    description: 'Two-tone gradient acetate — dark at the top, fading to light at the bottom. This is achieved by laminating two acetate sheets of different colors and controlling the thickness ratio. The oversized frame provides excellent sun coverage and has that luxury-brand look that performs well on Instagram and in fashion editorials. Available in black-to-clear, brown-to-honey, blue-to-clear, and wine-to-pink gradients. This style retails easily at $80-150 and the per-pair cost still starts under $10. Margins are excellent.',
+    description: 'Two-tone gradient acetate -- dark at the top, fading to light at the bottom. This is achieved by laminating two acetate sheets of different colors and controlling the thickness ratio. The oversized frame provides excellent sun coverage and has that luxury-brand look that performs well on Instagram and in fashion editorials. Available in black-to-clear, brown-to-honey, blue-to-clear, and wine-to-pink gradients. This style retails easily at $80-150 and the per-pair cost still starts under $10. Margins are excellent.',
     price: '$8.00 - $13.00',
     moq: '100 pcs',
     features: ['Gradient Two-Tone', 'Oversized Frame', 'Laminated Acetate', 'Premium Positioning'],
   },
   {
     name: 'Italian Acetate Premium Square',
-    description: 'For brands competing at the top end of the market. This frame uses exclusively Mazzucchelli M49 acetate — the same grade used by Tom Ford, Céline, and Oliver Peoples. The difference is visible in the color depth and the polish quality. Our workers spend 30+ minutes hand-polishing each pair to achieve that liquid-glass finish. Five-barrel hinges with custom logo core wire. The square shape is versatile — works for both men and women — and the proportions are calibrated for a modern, slightly oversized look that photographs well. This is the pair that makes a buyer pick up your frame at a trade show and go "oh, this is nice."',
+    description: 'For brands competing at the top end of the market. This frame uses exclusively Mazzucchelli M49 acetate -- the same grade used by Tom Ford, Céline, and Oliver Peoples. The difference is visible in the color depth and the polish quality. Our workers spend 30+ minutes hand-polishing each pair to achieve that liquid-glass finish. Five-barrel hinges with custom logo core wire. The square shape is versatile -- works for both men and women -- and the proportions are calibrated for a modern, slightly oversized look that photographs well. This is the pair that makes a buyer pick up your frame at a trade show and go "oh, this is nice."',
     price: '$10.00 - $16.00',
     moq: '100 pcs',
     features: ['Mazzucchelli M49', 'Premium Polish', '5-Barrel Hinges', 'Custom Core Wire'],
   },
   {
     name: 'Horn-Effect Acetate Browline',
-    description: 'The horn-effect pattern mimics natural buffalo horn — dark striations on a lighter base that create an organic, almost wooden texture. Combined with the browline (clubmaster) shape, where the top half of the frame is thicker acetate and the bottom is thin metal wire, this is a distinctive hybrid design. The horn pattern is especially popular in the Japanese and Korean markets where it carries a sophisticated, intellectual aesthetic. Each pair has a slightly different pattern because of natural variation in the acetate sheet. We use German-made stainless steel for the bottom wire rim.',
+    description: 'The horn-effect pattern mimics natural buffalo horn -- dark striations on a lighter base that create an organic, almost wooden texture. Combined with the browline (clubmaster) shape, where the top half of the frame is thicker acetate and the bottom is thin metal wire, this is a distinctive hybrid design. The horn pattern is especially popular in the Japanese and Korean markets where it carries a sophisticated, intellectual aesthetic. Each pair has a slightly different pattern because of natural variation in the acetate sheet. We use German-made stainless steel for the bottom wire rim.',
     price: '$9.00 - $14.00',
     moq: '100 pcs',
     features: ['Horn-Effect Pattern', 'Browline Shape', 'Acetate + Metal Hybrid', 'German Steel Wire'],
@@ -141,16 +141,16 @@ export default function AcetatePageIt() {
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
               <p className="text-xl leading-relaxed mb-4">
-                If you have ever picked up a pair of sunglasses and immediately thought &ldquo;these feel expensive,&rdquo; you were almost certainly holding <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">cellulose acetate</a>. There is a reason every major luxury eyewear brand — from Tom Ford to Chanel to Oliver Peoples — builds their frames from this material. Acetate has a depth and richness that injection-molded plastic cannot touch. The colors are layered, not surface-painted. The polish has a warmth to it. And the weight — about 25-35 grams for a typical frame — sits on your face with a substance that says &ldquo;this costs more than $20.&rdquo;
+                If you have ever picked up a pair of sunglasses and immediately thought &ldquo;these feel expensive,&rdquo; you were almost certainly holding <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">cellulose acetate</a>. There is a reason every major luxury eyewear brand -- from Tom Ford to Chanel to Oliver Peoples -- builds their frames from this material. Acetate has a depth and richness that injection-molded plastic cannot touch. The colors are layered, not surface-painted. The polish has a warmth to it. And the weight -- about 25-35 grams for a typical frame -- sits on your face with a substance that says &ldquo;this costs more than $20.&rdquo;
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                I have been manufacturing acetate sunglasses for 14 years, and the process still fascinates me. Unlike injection molding — where you squirt hot plastic into a mold and pop out a finished frame in 30 seconds — acetate frames start as flat sheets of material that go through a multi-day production journey: CNC cutting, barrel tumbling, hand polishing, assembly, and quality control. Every single pair passes through human hands multiple times. That is what makes acetate frames more expensive, and it is also what makes them better.
+                I have been manufacturing acetate sunglasses for 14 years, and the process still fascinates me. Unlike injection molding -- where you squirt hot plastic into a mold and pop out a finished frame in 30 seconds -- acetate frames start as flat sheets of material that go through a multi-day production journey: CNC cutting, barrel tumbling, hand polishing, assembly, and quality control. Every single pair passes through human hands multiple times. That is what makes acetate frames more expensive, and it is also what makes them better.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                We work with two categories of acetate. For premium brands, we use <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Mazzucchelli</a> Italian acetate — they have been making the stuff since 1849 and they are the gold standard. Their color library has over 2,000 patterns and their quality control is meticulous. For brands positioned in the mid-range ($40-80 retail), we use top-tier Chinese acetate from suppliers like Shenzhen Xin Rui, which has improved enormously in the past decade and offers great value. Both work. Which one you choose depends on your price point and your competition.
+                We work with two categories of acetate. For premium brands, we use <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Mazzucchelli</a> Italian acetate -- they have been making the stuff since 1849 and they are the gold standard. Their color library has over 2,000 patterns and their quality control is meticulous. For brands positioned in the mid-range ($40-80 retail), we use top-tier Chinese acetate from suppliers like Shenzhen Xin Rui, which has improved enormously in the past decade and offers great value. Both work. Which one you choose depends on your price point and your competition.
               </p>
               <p className="text-lg leading-relaxed">
-                Our factory produces about 300,000 pairs of acetate sunglasses per year across all styles — <Link href="/it/prodotti/wayfarer" className="text-primary-600 hover:underline">wayfarers</Link>, <Link href="/it/prodotti/occhio-di-gatto" className="text-primary-600 hover:underline">cat-eyes</Link>, <Link href="/it/prodotti/rotondo" className="text-primary-600 hover:underline">rounds</Link>, squares, browlines, and custom shapes. We run 12 CNC machines, 6 tumbling drums, and employ 45 hand-polishing workers. Let me walk you through exactly how we turn a flat sheet of acetate into a finished pair of sunglasses.
+                Our factory produces about 300,000 pairs of acetate sunglasses per year across all styles -- <Link href="/it/prodotti/wayfarer" className="text-primary-600 hover:underline">wayfarers</Link>, <Link href="/it/prodotti/occhio-di-gatto" className="text-primary-600 hover:underline">cat-eyes</Link>, <Link href="/it/prodotti/rotondo" className="text-primary-600 hover:underline">rounds</Link>, squares, browlines, and custom shapes. We run 12 CNC machines, 6 tumbling drums, and employ 45 hand-polishing workers. Let me walk you through exactly how we turn a flat sheet of acetate into a finished pair of sunglasses.
               </p>
             </div>
           </div>
@@ -159,7 +159,7 @@ export default function AcetatePageIt() {
           <section className="mb-20">
             <h2 className="text-3xl font-bold text-center mb-4">How We Make Acetate Sunglasses</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              From flat sheet to finished frame in 5-7 days. Here is every step — no shortcuts, no secrets.
+              From flat sheet to finished frame in 5-7 days. Here is every step -- no shortcuts, no secrets.
             </p>
 
             <div className="max-w-4xl mx-auto space-y-8">
@@ -168,7 +168,7 @@ export default function AcetatePageIt() {
                 <div>
                   <h3 className="text-xl font-bold mb-2">Sheet Selection & CNC Cutting</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    It starts with the acetate sheet — a block of material roughly 6mm thick in whatever color or pattern you have chosen. We load the sheet into a CNC (computer numerical control) milling machine that cuts the front frame and temples to precise specifications. The CNC follows your frame&apos;s 3D CAD file, cutting the lens grooves, bridge shape, and hinge pockets all in one operation. A skilled CNC operator can cut about 40-50 front frames per hour. At this stage, the frame is rough — you can see the machining marks and the edges are sharp.
+                    It starts with the acetate sheet -- a block of material roughly 6mm thick in whatever color or pattern you have chosen. We load the sheet into a CNC (computer numerical control) milling machine that cuts the front frame and temples to precise specifications. The CNC follows your frame&apos;s 3D CAD file, cutting the lens grooves, bridge shape, and hinge pockets all in one operation. A skilled CNC operator can cut about 40-50 front frames per hour. At this stage, the frame is rough -- you can see the machining marks and the edges are sharp.
                   </p>
                 </div>
               </div>
@@ -178,7 +178,7 @@ export default function AcetatePageIt() {
                 <div>
                   <h3 className="text-xl font-bold mb-2">Barrel Tumbling (3-5 Days)</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    This is the step that surprises people — the frames go into a rotating drum filled with wood chips, pumice, and a small amount of water. The drum rotates slowly for 3-5 days, and the friction gradually smooths out all the machining marks and rounds the edges. It is essentially a very slow, very gentle sanding process. You cannot rush this. We have tried. If you shorten the tumble, the surface is not smooth enough for the final polish to look right. Different patterns require different tumbling media — for example, crystal clear acetate needs finer media to avoid micro-scratching.
+                    This is the step that surprises people -- the frames go into a rotating drum filled with wood chips, pumice, and a small amount of water. The drum rotates slowly for 3-5 days, and the friction gradually smooths out all the machining marks and rounds the edges. It is essentially a very slow, very gentle sanding process. You cannot rush this. We have tried. If you shorten the tumble, the surface is not smooth enough for the final polish to look right. Different patterns require different tumbling media -- for example, crystal clear acetate needs finer media to avoid micro-scratching.
                   </p>
                 </div>
               </div>
@@ -188,7 +188,7 @@ export default function AcetatePageIt() {
                 <div>
                   <h3 className="text-xl font-bold mb-2">Hand Polishing (20-30 Minutes Per Pair)</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    This is where the magic happens and where most of the cost comes from. A skilled worker takes each frame and polishes it by hand against a series of cotton buffing wheels, using progressively finer polishing compounds. The first wheel removes any remaining tumbling marks. The second brings up a semi-gloss. The third and final wheel produces that deep, liquid-glass shine that makes acetate frames look so premium. Our polishing workers have an average of 6 years of experience — it takes about a year of training before someone can polish consistently to our standard. This is the step that mass-market plastic frames skip entirely, and it is the reason acetate frames look and feel fundamentally different.
+                    This is where the magic happens and where most of the cost comes from. A skilled worker takes each frame and polishes it by hand against a series of cotton buffing wheels, using progressively finer polishing compounds. The first wheel removes any remaining tumbling marks. The second brings up a semi-gloss. The third and final wheel produces that deep, liquid-glass shine that makes acetate frames look so premium. Our polishing workers have an average of 6 years of experience -- it takes about a year of training before someone can polish consistently to our standard. This is the step that mass-market plastic frames skip entirely, and it is the reason acetate frames look and feel fundamentally different.
                   </p>
                 </div>
               </div>
@@ -208,7 +208,7 @@ export default function AcetatePageIt() {
                 <div>
                   <h3 className="text-xl font-bold mb-2">Quality Control</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Every pair goes through a 15-point inspection: lens alignment, hinge tension, temple symmetry, surface finish (checking for scratches, pits, or uneven polish), color consistency, UV protection verification (tested with a UV spectrometer), and physical measurements against the spec sheet. Our QC rejection rate on acetate frames is about 3-5% — higher than injection-molded frames (which run about 1-2%) because the hand processes introduce more variability. Rejected pairs go back for re-polishing or are scrapped entirely. We do not ship seconds.
+                    Every pair goes through a 15-point inspection: lens alignment, hinge tension, temple symmetry, surface finish (checking for scratches, pits, or uneven polish), color consistency, UV protection verification (tested with a UV spectrometer), and physical measurements against the spec sheet. Our QC rejection rate on acetate frames is about 3-5% -- higher than injection-molded frames (which run about 1-2%) because the hand processes introduce more variability. Rejected pairs go back for re-polishing or are scrapped entirely. We do not ship seconds.
                   </p>
                 </div>
               </div>
@@ -229,7 +229,7 @@ export default function AcetatePageIt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Superior color depth and pattern consistency — especially in complex multi-layer patterns</span>
+                    <span>Superior color depth and pattern consistency -- especially in complex multi-layer patterns</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
@@ -261,7 +261,7 @@ export default function AcetatePageIt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
-                    <span>Excellent quality from top-tier producers — genuinely good, not a compromise</span>
+                    <span>Excellent quality from top-tier producers -- genuinely good, not a compromise</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">✓</span>
@@ -289,7 +289,7 @@ export default function AcetatePageIt() {
             </div>
 
             <p className="text-gray-500 text-center mt-8 text-sm">
-              My recommendation: start with Chinese acetate to validate your designs and price points. Switch to Italian for your hero products once you have confirmed demand. Many successful brands use both — Italian for their flagship line, Chinese for their everyday collection.
+              My recommendation: start with Chinese acetate to validate your designs and price points. Switch to Italian for your hero products once you have confirmed demand. Many successful brands use both -- Italian for their flagship line, Chinese for their everyday collection.
             </p>
           </section>
 
@@ -336,21 +336,21 @@ export default function AcetatePageIt() {
                 <table className="w-full">
                   <tbody className="divide-y divide-gray-100">
                     {[
-                      ['Frame Material', 'Cellulose acetate — Italian (Mazzucchelli/Lapo) or premium Chinese'],
+                      ['Frame Material', 'Cellulose acetate -- Italian (Mazzucchelli/Lapo) or premium Chinese'],
                       ['Frame Weight', '25-35g depending on frame size and thickness'],
                       ['Sheet Thickness', '5mm / 6mm / 8mm (most common: 6mm)'],
                       ['Available Patterns', '200+ stock colors: solid, tortoiseshell, crystal, marble, gradient, horn, wood grain, laminated'],
-                      ['Custom Colors', 'Pantone matching available — sheet MOQ 50kg (Chinese) / 100kg (Italian)'],
+                      ['Custom Colors', 'Pantone matching available -- sheet MOQ 50kg (Chinese) / 100kg (Italian)'],
                       ['Lens Material', 'Polycarbonate / TAC Polarized / CR-39 Optical / Glass'],
                       ['Lens Width', '48mm - 58mm (varies by frame style)'],
                       ['Bridge Width', '16mm - 22mm'],
                       ['Temple Length', '140mm / 145mm / 150mm'],
                       ['Hinges', '5-barrel stainless steel standard / spring hinges optional (+$0.30/pair)'],
-                      ['UV Protection', 'UV400 — blocks 100% of UVA and UVB radiation'],
+                      ['UV Protection', 'UV400 -- blocks 100% of UVA and UVB radiation'],
                       ['Production Process', 'CNC cutting → barrel tumbling (3-5 days) → hand polishing (20-30 min) → assembly → QC'],
                       ['Certifications', 'CE (EN ISO 12312-1) · FDA (21 CFR 801.410) · UV400 · ISO 9001'],
-                      ['MOQ', '100 pieces per model — mix colors allowed / 300 pcs for custom frame shapes'],
-                      ['Mold Fee (Custom Shape)', '$800 - $1,500 one-time — waived on orders above 1,000 pcs'],
+                      ['MOQ', '100 pieces per model -- mix colors allowed / 300 pcs for custom frame shapes'],
+                      ['Mold Fee (Custom Shape)', '$800 - $1,500 one-time -- waived on orders above 1,000 pcs'],
                       ['Sample Time', '5-7 business days'],
                       ['Production Time', '20-28 days standard / 14-18 days rush (+15%)'],
                     ].map(([label, value], i) => (
@@ -379,11 +379,11 @@ export default function AcetatePageIt() {
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
                 <h3 className="font-bold mb-2">💎 Crystal / Transparent</h3>
-                <p className="text-sm text-gray-600">Fully transparent or with a subtle tint. Crystal clear, crystal grey, crystal champagne, crystal blue, crystal pink. The key is optical clarity — cheap clear acetate looks milky. Ours does not.</p>
+                <p className="text-sm text-gray-600">Fully transparent or with a subtle tint. Crystal clear, crystal grey, crystal champagne, crystal blue, crystal pink. The key is optical clarity -- cheap clear acetate looks milky. Ours does not.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
                 <h3 className="font-bold mb-2">🪨 Marble & Stone</h3>
-                <p className="text-sm text-gray-600">Achieved by layering and pressing different colored acetate sheets. White marble, black marble, green jade, pink onyx. Each pair has slightly different swirl patterns — every frame is one-of-a-kind.</p>
+                <p className="text-sm text-gray-600">Achieved by layering and pressing different colored acetate sheets. White marble, black marble, green jade, pink onyx. Each pair has slightly different swirl patterns -- every frame is one-of-a-kind.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
                 <h3 className="font-bold mb-2">🌅 Gradient / Two-Tone</h3>
@@ -391,7 +391,7 @@ export default function AcetatePageIt() {
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
                 <h3 className="font-bold mb-2">🎨 Solid Colors</h3>
-                <p className="text-sm text-gray-600">Matte black, glossy black, navy, forest green, burgundy, cream, pastel pink, sky blue — and anything in between. Pantone matching for custom colors. The polish depth on solid acetate is stunning.</p>
+                <p className="text-sm text-gray-600">Matte black, glossy black, navy, forest green, burgundy, cream, pastel pink, sky blue -- and anything in between. Pantone matching for custom colors. The polish depth on solid acetate is stunning.</p>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-100">
                 <h3 className="font-bold mb-2">🦌 Horn & Wood Effect</h3>
@@ -413,19 +413,19 @@ export default function AcetatePageIt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Hot stamping</strong> — gold, silver, or colored foil on the inside temple. Classic, elegant.</span>
+                    <span><strong>Hot stamping</strong> -- gold, silver, or colored foil on the inside temple. Classic, elegant.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Embossed/debossed</strong> — pressed into the acetate surface. Subtle and permanent.</span>
+                    <span><strong>Embossed/debossed</strong> -- pressed into the acetate surface. Subtle and permanent.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Custom core wire</strong> — your logo laser-engraved on the metal hinge wire visible when the temple folds out.</span>
+                    <span><strong>Custom core wire</strong> -- your logo laser-engraved on the metal hinge wire visible when the temple folds out.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Metal temple badge</strong> — zinc alloy or stainless steel logo plate riveted to the temple.</span>
+                    <span><strong>Metal temple badge</strong> -- zinc alloy or stainless steel logo plate riveted to the temple.</span>
                   </li>
                 </ul>
               </div>
@@ -435,19 +435,19 @@ export default function AcetatePageIt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Custom shapes</strong> — send us a sketch or CAD file and we will cut a CNC mold ($800-1,500 one-time)</span>
+                    <span><strong>Custom shapes</strong> -- send us a sketch or CAD file and we will cut a CNC mold ($800-1,500 one-time)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Temple width</strong> — thin (4mm) for minimal look, thick (6-8mm) for bold statement</span>
+                    <span><strong>Temple width</strong> -- thin (4mm) for minimal look, thick (6-8mm) for bold statement</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Keyhole vs saddle bridge</strong> — different nose bridge styles for different face shapes</span>
+                    <span><strong>Keyhole vs saddle bridge</strong> -- different nose bridge styles for different face shapes</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Temple tip style</strong> — straight, curved, or paddle-end</span>
+                    <span><strong>Temple tip style</strong> -- straight, curved, or paddle-end</span>
                   </li>
                 </ul>
               </div>
@@ -457,19 +457,19 @@ export default function AcetatePageIt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Leather cases</strong> — magnetic closure, debossed logo. The premium choice.</span>
+                    <span><strong>Leather cases</strong> -- magnetic closure, debossed logo. The premium choice.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Hard EVA cases</strong> — durable, lightweight, full-color logo printing.</span>
+                    <span><strong>Hard EVA cases</strong> -- durable, lightweight, full-color logo printing.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Microfiber pouch</strong> — custom printed, doubles as cleaning cloth.</span>
+                    <span><strong>Microfiber pouch</strong> -- custom printed, doubles as cleaning cloth.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Retail-ready boxes</strong> — full-color printed, custom insert, hang tab, barcode label.</span>
+                    <span><strong>Retail-ready boxes</strong> -- full-color printed, custom insert, hang tab, barcode label.</span>
                   </li>
                 </ul>
               </div>
@@ -480,33 +480,33 @@ export default function AcetatePageIt() {
           <section className="mb-20 bg-gray-900 rounded-2xl p-8 md:p-12 text-white">
             <h2 className="text-3xl font-bold text-center mb-4">Why Acetate Commands Premium Pricing</h2>
             <p className="text-gray-300 text-center max-w-3xl mx-auto mb-10">
-              Acetate frames retail at $60-200+. Here is why customers pay that premium — and why it works for your margins.
+              Acetate frames retail at $60-200+. Here is why customers pay that premium -- and why it works for your margins.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-amber-400">✋ Handcrafted Process</h3>
-                <p className="text-gray-300 text-sm">Every pair is touched by human hands multiple times. In a world of mass production, that matters. Customers can feel the difference — and they will pay for it. &ldquo;Hand-polished&rdquo; is a genuine marketing claim that resonates.</p>
+                <p className="text-gray-300 text-sm">Every pair is touched by human hands multiple times. In a world of mass production, that matters. Customers can feel the difference -- and they will pay for it. &ldquo;Hand-polished&rdquo; is a genuine marketing claim that resonates.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-amber-400">🎨 Color Depth</h3>
-                <p className="text-gray-300 text-sm">Acetate colors are layered through the material, not painted on the surface. A tortoiseshell pattern has actual depth — you can see different layers at different angles. This is physically impossible with injection-molded plastic.</p>
+                <p className="text-gray-300 text-sm">Acetate colors are layered through the material, not painted on the surface. A tortoiseshell pattern has actual depth -- you can see different layers at different angles. This is physically impossible with injection-molded plastic.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-amber-400">⚖️ Perceived Quality</h3>
-                <p className="text-gray-300 text-sm">The weight (25-35g), the warmth of the material against skin, the depth of the polish — everything about acetate communicates quality. Your customer picks it up and knows this is not a $15 pair of sunglasses.</p>
+                <p className="text-gray-300 text-sm">The weight (25-35g), the warmth of the material against skin, the depth of the polish -- everything about acetate communicates quality. Your customer picks it up and knows this is not a $15 pair of sunglasses.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-amber-400">🌿 Natural Origin</h3>
-                <p className="text-gray-300 text-sm">Cellulose acetate is derived from cotton linters and wood pulp — it is a plant-based material, not petroleum-based. That matters increasingly to eco-conscious consumers and gives you a sustainability angle.</p>
+                <p className="text-gray-300 text-sm">Cellulose acetate is derived from cotton linters and wood pulp -- it is a plant-based material, not petroleum-based. That matters increasingly to eco-conscious consumers and gives you a sustainability angle.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-amber-400">🔧 Adjustability</h3>
-                <p className="text-gray-300 text-sm">Acetate can be adjusted by any optician with gentle heat. The frame can be reshaped for a custom fit. Try that with injection-molded nylon — it snaps. This adjustability extends the product&apos;s usable life and reduces returns.</p>
+                <p className="text-gray-300 text-sm">Acetate can be adjusted by any optician with gentle heat. The frame can be reshaped for a custom fit. Try that with injection-molded nylon -- it snaps. This adjustability extends the product&apos;s usable life and reduces returns.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-amber-400">💰 Margin Math</h3>
-                <p className="text-gray-300 text-sm">An acetate frame costs $6-16 per pair to produce. It retails at $60-200. That is a 4-12x markup — better than most consumer products. Even after accounting for marketing, packaging, and distribution, the margins on acetate eyewear are excellent.</p>
+                <p className="text-gray-300 text-sm">An acetate frame costs $6-16 per pair to produce. It retails at $60-200. That is a 4-12x markup -- better than most consumer products. Even after accounting for marketing, packaging, and distribution, the margins on acetate eyewear are excellent.</p>
               </div>
             </div>
           </section>
@@ -555,7 +555,7 @@ export default function AcetatePageIt() {
           <section className="bg-primary-600 rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-3xl font-bold mb-4">Ready to Create Your Acetate Collection?</h2>
             <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
-              Send us your frame ideas, color preferences, and target price point. We will recommend the right acetate grade, send you material swatches, and have samples in your hands within a week. Italian or Chinese acetate — we will help you make the right call.
+              Send us your frame ideas, color preferences, and target price point. We will recommend the right acetate grade, send you material swatches, and have samples in your hands within a week. Italian or Chinese acetate -- we will help you make the right call.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/it/contatti" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">

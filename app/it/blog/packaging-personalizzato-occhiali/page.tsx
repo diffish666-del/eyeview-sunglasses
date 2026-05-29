@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Packaging Personalizzato per Occhiali da Sole: Guida Completa al Branding 2026',
-  description: 'Un proprietario di fabbrica analizza ogni opzione di packaging per brand di occhiali da sole — custodie rigide, pochette morbide, scatole retail, cartellini e altro. Costi reali, esempi concreti e consigli che funzionano.',
+  description: 'Un proprietario di fabbrica analizza ogni opzione di packaging per brand di occhiali da sole -- custodie rigide, pochette morbide, scatole retail, cartellini e altro. Costi reali, esempi concreti e consigli che funzionano.',
   keywords: 'packaging personalizzato occhiali, custodia occhiali personalizzata, packaging eyewear, scatola occhiali, custodia brandizzata occhiali',
   alternates: { canonical: '/it/blog/packaging-personalizzato-occhiali', languages: { 'en': '/blog/custom-sunglasses-packaging', 'it': '/it/blog/packaging-personalizzato-occhiali' } },
 }
@@ -12,10 +12,10 @@ export default function PackagingPersonalizzatoPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Packaging Personalizzato per Occhiali da Sole: Guida Completa al Branding 2026", "datePublished": "2026-05-03", "dateModified": "2026-05-03", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica analizza ogni opzione di packaging per occhiali da sole — custodie, pochette, scatole, cartellini. Costi reali per pezzo e consigli per l'unboxing.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/packaging-personalizzato-occhiali" }, "inLanguage": "it" })}} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Packaging Personalizzato per Occhiali da Sole: Guida Completa al Branding 2026", "datePublished": "2026-05-03", "dateModified": "2026-05-03", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica analizza ogni opzione di packaging per occhiali da sole -- custodie, pochette, scatole, cartellini. Costi reali per pezzo e consigli per l'unboxing.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/packaging-personalizzato-occhiali" }, "inLanguage": "it" })}} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
-          { "@type": "Question", "name": "Quanto costa il packaging personalizzato per occhiali da sole per unità?", "acceptedAnswer": { "@type": "Answer", "text": "Dipende da cosa includi. Un setup base — pochette in microfibra brandizzata, cartellino e sacchetto in plastica — costa $0,60-1,20 per unità. Un kit di fascia media con custodia EVA con zip, panno per la pulizia e scatola retail stampata costa $2,50-5,00. Il packaging premium con scatola rigida a chiusura magnetica, custodia in pelle, garanzia e carta velina può arrivare a $6-12. Tutti i prezzi a quantità di 500+ pezzi." } },
-          { "@type": "Question", "name": "Il packaging influisce davvero sulle vendite di occhiali?", "acceptedAnswer": { "@type": "Answer", "text": "Assolutamente. Abbiamo visto clienti aumentare il valore medio dell'ordine del 15-30% semplicemente migliorando il packaging. Un brand è passato da una busta in plastica a una custodia EVA brandizzata con scatola magnetica — stessi occhiali, stesso prezzo — e il tasso di reso è calato del 40% mentre gli acquisti ripetuti sono aumentati." } }
+          { "@type": "Question", "name": "Quanto costa il packaging personalizzato per occhiali da sole per unità?", "acceptedAnswer": { "@type": "Answer", "text": "Dipende da cosa includi. Un setup base -- pochette in microfibra brandizzata, cartellino e sacchetto in plastica -- costa $0,60-1,20 per unità. Un kit di fascia media con custodia EVA con zip, panno per la pulizia e scatola retail stampata costa $2,50-5,00. Il packaging premium con scatola rigida a chiusura magnetica, custodia in pelle, garanzia e carta velina può arrivare a $6-12. Tutti i prezzi a quantità di 500+ pezzi." } },
+          { "@type": "Question", "name": "Il packaging influisce davvero sulle vendite di occhiali?", "acceptedAnswer": { "@type": "Answer", "text": "Assolutamente. Abbiamo visto clienti aumentare il valore medio dell'ordine del 15-30% semplicemente migliorando il packaging. Un brand è passato da una busta in plastica a una custodia EVA brandizzata con scatola magnetica -- stessi occhiali, stesso prezzo -- e il tasso di reso è calato del 40% mentre gli acquisti ripetuti sono aumentati." } }
         ] })}} />
 
         <header className="mb-12">
@@ -32,7 +32,7 @@ export default function PackagingPersonalizzatoPage() {
         </header>
 
         <div className="prose prose-lg max-w-none">
-          <p className="text-xl text-gray-600 mb-8">Faccio occhiali da sole dal 2006. In quei 20 anni, ho confezionato milioni di paia — da occhiali da $2 in buste di plastica a collaborazioni in edizione limitata da $200 in custodie in pelle cucite a mano. L&apos;unica cosa che so per certo: <strong>il packaging personalizzato per occhiali da sole non è un costo. È un investimento che si ripaga da solo.</strong></p>
+          <p className="text-xl text-gray-600 mb-8">Faccio occhiali da sole dal 2006. In quei 20 anni, ho confezionato milioni di paia -- da occhiali da $2 in buste di plastica a collaborazioni in edizione limitata da $200 in custodie in pelle cucite a mano. L&apos;unica cosa che so per certo: <strong>il packaging personalizzato per occhiali da sole non è un costo. È un investimento che si ripaga da solo.</strong></p>
 
           <h2 className="text-3xl font-bold mt-16 mb-6">Perché il Packaging È Metà del Prodotto</h2>
           <p>Nel 2019, un nostro cliente ODM vendeva un buon paio di aviator polarizzati a $39. Spediva in una busta di plastica con una pochette nera generica. L&apos;abbiamo convinto a fare un upgrade: custodia EVA brandizzata, panno in microfibra stampato, scatola a chiusura magnetica con il suo logo, e un biglietto di ringraziamento con QR code. Costo packaging da $0,40 a $3,80 per unità.</p>
@@ -87,7 +87,7 @@ export default function PackagingPersonalizzatoPage() {
               </thead>
               <tbody className="divide-y divide-gray-200">
                 <tr className="bg-white"><td className="px-6 py-4 font-medium">Custodia</td><td className="px-6 py-4">Pochette microfibra ($0,20)</td><td className="px-6 py-4">EVA con zip ($1,20)</td><td className="px-6 py-4">Pelle PU clamshell ($2,80)</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Panno Pulizia</td><td className="px-6 py-4">— (la pochette fa doppio uso)</td><td className="px-6 py-4">Microfibra stampata ($0,15)</td><td className="px-6 py-4">Microfibra sublimata ($0,25)</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Panno Pulizia</td><td className="px-6 py-4">-- (la pochette fa doppio uso)</td><td className="px-6 py-4">Microfibra stampata ($0,15)</td><td className="px-6 py-4">Microfibra sublimata ($0,25)</td></tr>
                 <tr className="bg-white"><td className="px-6 py-4 font-medium">Scatola</td><td className="px-6 py-4">Busta plastica ($0,05)</td><td className="px-6 py-4">Cartone pieghevole ($0,60)</td><td className="px-6 py-4">Rigida magnetica ($3,50)</td></tr>
                 <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Cartellino</td><td className="px-6 py-4">Cartoncino base ($0,04)</td><td className="px-6 py-4">Spesso + UV spot ($0,08)</td><td className="px-6 py-4">Stampa a caldo ($0,12)</td></tr>
                 <tr className="bg-primary-50 font-bold"><td className="px-6 py-4">Totale Per Unità</td><td className="px-6 py-4">$0,29</td><td className="px-6 py-4">$2,11</td><td className="px-6 py-4">$6,92</td></tr>
@@ -118,7 +118,7 @@ export default function PackagingPersonalizzatoPage() {
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Il packaging influisce sulle vendite?</h3>
-              <p className="text-gray-600">Sì. Abbiamo visto aumenti del 15-30% nel valore medio dell&apos;ordine, cali del 40% nei resi, e aumenti significativi negli acquisti ripetuti — tutto solo migliorando il packaging. Stessi occhiali, stesso prezzo.</p>
+              <p className="text-gray-600">Sì. Abbiamo visto aumenti del 15-30% nel valore medio dell&apos;ordine, cali del 40% nei resi, e aumenti significativi negli acquisti ripetuti -- tutto solo migliorando il packaging. Stessi occhiali, stesso prezzo.</p>
             </div>
           </div>
 
@@ -127,11 +127,11 @@ export default function PackagingPersonalizzatoPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/it/blog/creare-brand-occhiali" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Come Creare il Tuo Brand di Occhiali da Sole</h3>
-                <p className="text-gray-600 text-sm">La guida completa — dall&apos;idea alla prima vendita.</p>
+                <p className="text-gray-600 text-sm">La guida completa -- dall&apos;idea alla prima vendita.</p>
               </Link>
               <Link href="/it/blog/strategia-prezzi-occhiali" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Strategia di Prezzo per Occhiali da Sole</h3>
-                <p className="text-gray-600 text-sm">Dal costo di fabbrica al prezzo al dettaglio — i numeri reali.</p>
+                <p className="text-gray-600 text-sm">Dal costo di fabbrica al prezzo al dettaglio -- i numeri reali.</p>
               </Link>
             </div>
           </div>

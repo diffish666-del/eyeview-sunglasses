@@ -36,57 +36,57 @@ const aviatorFaqs = [
   },
   {
     question: '¿Ofrecen lentes polarizadas para aviador?',
-    answer: 'Sí, y lo recomiendo mucho. Nuestras lentes polarizadas TAC usan una película de 7 capas que elimina el 99% del deslumbramiento — la diferencia es abismal, especialmente para conducir. Aquí va el argumento de negocio: las aviador polarizadas se venden un 25-40% más caras en retail que las UV400 estándar. Un par que se vende a $40 sin polarizar fácilmente llega a $50-55 polarizado. También hacemos lentes fotocromáticas (se oscurecen con la luz solar), recubrimientos espejo, antirreflejantes y degradados. Mezcla y combina como quieras.',
+    answer: 'Sí, y lo recomiendo mucho. Nuestras lentes polarizadas TAC usan una película de 7 capas que elimina el 99% del deslumbramiento -- la diferencia es abismal, especialmente para conducir. Aquí va el argumento de negocio: las aviador polarizadas se venden un 25-40% más caras en retail que las UV400 estándar. Un par que se vende a $40 sin polarizar fácilmente llega a $50-55 polarizado. También hacemos lentes fotocromáticas (se oscurecen con la luz solar), recubrimientos espejo, antirreflejantes y degradados. Mezcla y combina como quieras.',
   },
   {
     question: '¿En qué se diferencian las aviador de las wayfarer para venta al por mayor?',
-    answer: 'Buena pregunta — nos la hacen mucho. La versión corta: las aviador son de metal, las wayfarer son de acetato/plástico. Eso significa que las aviador cuestan un poco más por par ($8-14 vs $5-11) pero también transmiten una sensación más premium. Las aviador tienden a ser ligeramente más masculinas y tienen esa herencia militar/piloto a su favor. Las wayfarer son más unisex y vienen en muchos más colores. ¿Sinceramente? La mayoría de las marcas exitosas llevan ambas. Si tienes que elegir una, aviador si buscas posicionamiento premium, wayfarer si quieres volumen.',
+    answer: 'Buena pregunta -- nos la hacen mucho. La versión corta: las aviador son de metal, las wayfarer son de acetato/plástico. Eso significa que las aviador cuestan un poco más por par ($8-14 vs $5-11) pero también transmiten una sensación más premium. Las aviador tienden a ser ligeramente más masculinas y tienen esa herencia militar/piloto a su favor. Las wayfarer son más unisex y vienen en muchos más colores. ¿Sinceramente? La mayoría de las marcas exitosas llevan ambas. Si tienes que elegir una, aviador si buscas posicionamiento premium, wayfarer si quieres volumen.',
   },
   {
     question: '¿Qué packaging puedo obtener con mi pedido de aviador?',
-    answer: 'Ofrecemos toda la gama. El setup más popular es un estuche rígido (EVA con tu logo impreso) más una funda de microfibra que sirve también como paño de limpieza. Cuesta unos $1.50-2.50 por set dependiendo de los materiales. También hacemos estuches de piel, latas metálicas, cajas de cartón personalizadas con impresión a todo color, tarjetas de garantía y etiquetas colgantes. Para líneas premium, algunos clientes optan por cajas con cierre magnético o incluso estuches de madera. El MOQ para packaging es de 500 piezas — pero puedes usar packaging genérico para tu primer pedido pequeño y cambiar a personalizado en la repetición.',
+    answer: 'Ofrecemos toda la gama. El setup más popular es un estuche rígido (EVA con tu logo impreso) más una funda de microfibra que sirve también como paño de limpieza. Cuesta unos $1.50-2.50 por set dependiendo de los materiales. También hacemos estuches de piel, latas metálicas, cajas de cartón personalizadas con impresión a todo color, tarjetas de garantía y etiquetas colgantes. Para líneas premium, algunos clientes optan por cajas con cierre magnético o incluso estuches de madera. El MOQ para packaging es de 500 piezas -- pero puedes usar packaging genérico para tu primer pedido pequeño y cambiar a personalizado en la repetición.',
   },
 ]
 
 const products = [
   {
     name: 'Aviador Clásica Dorada',
-    description: 'Esta es la que todo el mundo imagina cuando dices "aviador." Acero inoxidable dorado pulido, forma de lágrima, lentes verdes G-15 que cortan el deslumbramiento sin hacer que todo se vea raro. El acabado dorado tiene recubrimiento PVD (no pintura barata en spray) así que aguanta el uso diario. Vendemos más de estas que cualquier otro SKU individual — y la mayoría de nuestros clientes dicen lo mismo. Si estás lanzando una marca de gafas y quieres una apuesta segura, esta es.',
+    description: 'Esta es la que todo el mundo imagina cuando dices "aviador." Acero inoxidable dorado pulido, forma de lágrima, lentes verdes G-15 que cortan el deslumbramiento sin hacer que todo se vea raro. El acabado dorado tiene recubrimiento PVD (no pintura barata en spray) así que aguanta el uso diario. Vendemos más de estas que cualquier otro SKU individual -- y la mayoría de nuestros clientes dicen lo mismo. Si estás lanzando una marca de gafas y quieres una apuesta segura, esta es.',
     price: '$8.50 - $12.00',
     moq: '100 uds',
     features: ['Acero Inoxidable', 'Lente Verde G-15', 'Acabado PVD Dorado', 'Plaquetas de Silicona'],
   },
   {
     name: 'Aviador Espejo Plateada',
-    description: 'Montura plateada, lentes espejo plateadas — el tipo de gafas de sol que ves en cada vacación en la playa. El recubrimiento espejo refleja alrededor del 60% de la luz entrante, lo que las hace genuinamente buenas para condiciones de mucha luz (no solo bonitas). La montura es acero inoxidable con baño de rodio que no se oxidará ni en aire salado costero. Las bisagras de muelle les dan algo de flexibilidad para adaptarse a diferentes tamaños de cabeza sin sentirse demasiado apretadas o flojas. Gran éxito de ventas para marcas resort y tiendas de playa.',
+    description: 'Montura plateada, lentes espejo plateadas -- el tipo de gafas de sol que ves en cada vacación en la playa. El recubrimiento espejo refleja alrededor del 60% de la luz entrante, lo que las hace genuinamente buenas para condiciones de mucha luz (no solo bonitas). La montura es acero inoxidable con baño de rodio que no se oxidará ni en aire salado costero. Las bisagras de muelle les dan algo de flexibilidad para adaptarse a diferentes tamaños de cabeza sin sentirse demasiado apretadas o flojas. Gran éxito de ventas para marcas resort y tiendas de playa.',
     price: '$9.00 - $13.00',
     moq: '100 uds',
     features: ['Baño de Rodio', 'Recubrimiento Espejo', 'Bisagras de Muelle', 'Resistente a Corrosión'],
   },
   {
     name: 'Aviador Stealth Negro Mate',
-    description: 'Para marcas que buscan ese look táctico, sin rodeos. El electrochapado mate le da a la montura una superficie completamente antirreflectante — una sensación muy diferente al dorado o plateado brillante. Combinadas con lentes ahumadas oscuras que bloquean el 85% de la luz visible, son protección solar seria. Vemos muchos pedidos de marcas outdoor, empresas de suministros para fuerzas del orden y marcas de moda masculina. Las puntas de patilla reforzadas son un buen toque — sujetan sin deslizarse incluso cuando sudas.',
+    description: 'Para marcas que buscan ese look táctico, sin rodeos. El electrochapado mate le da a la montura una superficie completamente antirreflectante -- una sensación muy diferente al dorado o plateado brillante. Combinadas con lentes ahumadas oscuras que bloquean el 85% de la luz visible, son protección solar seria. Vemos muchos pedidos de marcas outdoor, empresas de suministros para fuerzas del orden y marcas de moda masculina. Las puntas de patilla reforzadas son un buen toque -- sujetan sin deslizarse incluso cuando sudas.',
     price: '$9.00 - $13.00',
     moq: '100 uds',
     features: ['Acabado Mate', 'Lente Ahumada Oscura', 'Puntas Reforzadas', 'Antirreflectante'],
   },
   {
     name: 'Aviador Fashion Oro Rosa',
-    description: 'El oro rosa lleva unos cinco años siendo el acabado de moda y no muestra señales de desaceleración. El tono cálido rosa-dorado se fotografía de maravilla (enorme para marcas que venden por Instagram) y favorece prácticamente a todos los tonos de piel. Las combinamos con lentes degradadas rosas — oscuras arriba, claras abajo — lo que les da ese look de moda sin esfuerzo. Fabricadas en aleación de aluminio pesan menos de 25 gramos. Si tu clienta es una mujer de 22 años comprando desde su móvil, esto es lo que va a clickear.',
+    description: 'El oro rosa lleva unos cinco años siendo el acabado de moda y no muestra señales de desaceleración. El tono cálido rosa-dorado se fotografía de maravilla (enorme para marcas que venden por Instagram) y favorece prácticamente a todos los tonos de piel. Las combinamos con lentes degradadas rosas -- oscuras arriba, claras abajo -- lo que les da ese look de moda sin esfuerzo. Fabricadas en aleación de aluminio pesan menos de 25 gramos. Si tu clienta es una mujer de 22 años comprando desde su móvil, esto es lo que va a clickear.',
     price: '$10.00 - $14.00',
     moq: '100 uds',
     features: ['Aleación de Aluminio', 'Lente Degradada Rosa', 'Menos de 25g', 'Tono Oro Rosa'],
   },
   {
     name: 'Aviador Polarizada Espejo Azul',
-    description: 'Lentes espejo azul océano vivo con polarización real debajo — así que se ven increíbles Y realmente funcionan. La película polarizada TAC bloquea el 99% del deslumbramiento que rebota en agua, carreteras y nieve. La montura gunmetal mantiene el foco en esas lentes. Esta es nuestra recomendación número uno para clientes que venden al público costero/surf/pesca. Se fotografían bien, rinden bien y justifican un precio retail más alto gracias a la polarización. Cuestan unos $2-3 más por par que las no polarizadas, pero puedes cobrar $15-20 más en retail.',
+    description: 'Lentes espejo azul océano vivo con polarización real debajo -- así que se ven increíbles Y realmente funcionan. La película polarizada TAC bloquea el 99% del deslumbramiento que rebota en agua, carreteras y nieve. La montura gunmetal mantiene el foco en esas lentes. Esta es nuestra recomendación número uno para clientes que venden al público costero/surf/pesca. Se fotografían bien, rinden bien y justifican un precio retail más alto gracias a la polarización. Cuestan unos $2-3 más por par que las no polarizadas, pero puedes cobrar $15-20 más en retail.',
     price: '$11.00 - $15.00',
     moq: '100 uds',
     features: ['Polarizada TAC', 'Espejo Azul', 'Montura Gunmetal', '99% Reducción de Deslumbramiento'],
   },
   {
     name: 'Aviador Premium de Titanio',
-    description: 'Lo mejor de nuestra línea aviador. Montura de beta-titanio que pesa 15 gramos — apenas la sientes en la cara. El titanio es hipoalergénico (sin níquel, sin reacciones), a prueba de corrosión, y puedes doblarlo y vuelve a su sitio. Las combinamos con lentes ópticas CR-39 antirreflejantes — la misma calidad que encontrarías en monturas de diseñador de $200+. Esto es para marcas que quieren competir en el extremo premium del mercado. Tu precio retail puede ser fácilmente $80-150+, y el coste por unidad sigue siendo solo $14-22. Haz las cuentas de esos márgenes.',
+    description: 'Lo mejor de nuestra línea aviador. Montura de beta-titanio que pesa 15 gramos -- apenas la sientes en la cara. El titanio es hipoalergénico (sin níquel, sin reacciones), a prueba de corrosión, y puedes doblarlo y vuelve a su sitio. Las combinamos con lentes ópticas CR-39 antirreflejantes -- la misma calidad que encontrarías en monturas de diseñador de $200+. Esto es para marcas que quieren competir en el extremo premium del mercado. Tu precio retail puede ser fácilmente $80-150+, y el coste por unidad sigue siendo solo $14-22. Haz las cuentas de esos márgenes.',
     price: '$14.00 - $22.00',
     moq: '100 uds',
     features: ['Beta Titanio', 'Lente Óptica CR-39', 'Antirreflejante', 'Solo 15 Gramos'],
@@ -144,10 +144,10 @@ export default function AviadorPage() {
                 Aquí va un dato curioso: la aviador nunca fue pensada como artículo de moda. En 1936, <a href="https://www.bausch.com/our-company/history/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Bausch &amp; Lomb</a> consiguió un contrato del Cuerpo Aéreo del Ejército de EE.UU. para diseñar gafas de sol para pilotos militares. El problema era específico: los pilotos volaban más alto y más rápido que nunca, y el sol les destrozaba la visión. ¿La solución? Una lente grande en forma de lágrima que cubría toda la cuenca del ojo, una montura metálica delgada que pesaba casi nada bajo un casco de vuelo, y un doble puente sobre la nariz para repartir la presión. Las llamaron &ldquo;aviador&rdquo; porque, bueno, eso es lo que llevaban los que las usaban.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Luego llegó la Segunda Guerra Mundial, y de repente millones de soldados las llevaban puestas. Cuando volvieron a casa, siguieron usándolas. Para los años 60 y 70, las aviador habían saltado de la cabina a Hollywood — las llevaba todo el mundo, desde Paul Newman hasta el reparto de Top Gun. El estilo simplemente se quedó. Casi 90 años después, el diseño básico apenas ha cambiado, y las aviador siguen siendo uno de los tres modelos de gafas de sol más vendidos en todo el mundo. Eso no es una tendencia — es un clásico.
+                Luego llegó la Segunda Guerra Mundial, y de repente millones de soldados las llevaban puestas. Cuando volvieron a casa, siguieron usándolas. Para los años 60 y 70, las aviador habían saltado de la cabina a Hollywood -- las llevaba todo el mundo, desde Paul Newman hasta el reparto de Top Gun. El estilo simplemente se quedó. Casi 90 años después, el diseño básico apenas ha cambiado, y las aviador siguen siendo uno de los tres modelos de gafas de sol más vendidos en todo el mundo. Eso no es una tendencia -- es un clásico.
               </p>
               <p className="text-lg leading-relaxed">
-                Producimos más de 200.000 pares de <strong>gafas aviador personalizadas</strong> al año para marcas en más de 50 países. Nuestra fábrica cuenta con líneas de producción dedicadas a monturas metálicas con mecanizado CNC, electrochapado PVD y montaje de precisión de lentes. Ya necesites 100 pares para probar un nuevo mercado o 50.000 pares para un lanzamiento retail nacional, tenemos la capacidad y la experiencia. Y como las aviador son nuestro pan de cada día, tenemos el proceso perfeccionado — lo que significa producción más rápida, menos defectos y mejores precios.
+                Producimos más de 200.000 pares de <strong>gafas aviador personalizadas</strong> al año para marcas en más de 50 países. Nuestra fábrica cuenta con líneas de producción dedicadas a monturas metálicas con mecanizado CNC, electrochapado PVD y montaje de precisión de lentes. Ya necesites 100 pares para probar un nuevo mercado o 50.000 pares para un lanzamiento retail nacional, tenemos la capacidad y la experiencia. Y como las aviador son nuestro pan de cada día, tenemos el proceso perfeccionado -- lo que significa producción más rápida, menos defectos y mejores precios.
               </p>
             </div>
           </div>
@@ -197,14 +197,14 @@ export default function AviadorPage() {
                       ['Ancho de Puente', '14mm / 15mm / 16mm / 18mm'],
                       ['Largo de Patilla', '135mm / 140mm / 145mm'],
                       ['Altura de Lente', '48mm - 52mm (forma de lágrima)'],
-                      ['Protección UV', 'UV400 — bloquea el 100% de los rayos UVA (315-380nm) y UVB (280-315nm)'],
-                      ['Polarización', 'Opcional película TAC de 7 capas — 99% de reducción de deslumbramiento'],
+                      ['Protección UV', 'UV400 -- bloquea el 100% de los rayos UVA (315-380nm) y UVB (280-315nm)'],
+                      ['Polarización', 'Opcional película TAC de 7 capas -- 99% de reducción de deslumbramiento'],
                       ['Colores de Montura', 'Dorado, Plateado, Gunmetal, Negro Mate, Oro Rosa o PVD personalizado'],
                       ['Colores de Lente', 'Gris, Verde G-15, Marrón, Azul, Rosa, Espejo, Degradado'],
                       ['Plaquetas Nasales', 'Silicona ajustable con brazo de titanio'],
                       ['Bisagras', 'Barril estándar o cargadas con muelle (ajuste flexible)'],
-                      ['Certificaciones', 'CE (EN ISO 12312-1) · FDA (21 CFR 801.410) · UV400 · ISO 9001 — documentación disponible bajo solicitud'],
-                      ['MOQ', '100 piezas por modelo — se permite mezclar colores'],
+                      ['Certificaciones', 'CE (EN ISO 12312-1) · FDA (21 CFR 801.410) · UV400 · ISO 9001 -- documentación disponible bajo solicitud'],
+                      ['MOQ', '100 piezas por modelo -- se permite mezclar colores'],
                       ['Tiempo de Muestra', '3-5 días laborables'],
                       ['Tiempo de Producción', '15-20 días estándar / 10-12 días urgente'],
                     ].map(([label, value], i) => (
@@ -231,7 +231,7 @@ export default function AviadorPage() {
                 <div className="text-3xl mb-4">🔩</div>
                 <h3 className="text-xl font-bold mb-3">Acero Inoxidable</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Nuestra opción más popular y la que recomendamos para la mayoría de las marcas. Usamos <a href="https://en.wikipedia.org/wiki/SAE_304_stainless_steel" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acero grado 304 o 316L</a> — el mismo material de los buenos relojes. Es fuerte, no se corroe y acepta el recubrimiento de maravilla. Dorado, plateado, negro, oro rosa — todos quedan genial en acero y aguantan con el tiempo. El peso (28-32g) en realidad juega a tu favor porque los clientes asocian ese ligero peso con calidad. Ideal para marcas con retail de $20-60.
+                  Nuestra opción más popular y la que recomendamos para la mayoría de las marcas. Usamos <a href="https://en.wikipedia.org/wiki/SAE_304_stainless_steel" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acero grado 304 o 316L</a> -- el mismo material de los buenos relojes. Es fuerte, no se corroe y acepta el recubrimiento de maravilla. Dorado, plateado, negro, oro rosa -- todos quedan genial en acero y aguantan con el tiempo. El peso (28-32g) en realidad juega a tu favor porque los clientes asocian ese ligero peso con calidad. Ideal para marcas con retail de $20-60.
                 </p>
                 <div className="text-primary-600 font-bold">$8 - $12 / par</div>
               </div>
@@ -240,7 +240,7 @@ export default function AviadorPage() {
                 <div className="text-3xl mb-4">🪶</div>
                 <h3 className="text-xl font-bold mb-3">Aleación de Aluminio</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Si tus clientes valoran la comodidad — y especialmente si llevan gafas de sol todo el día — el aluminio vale la pena. Con 18-22g es notablemente más ligero que el acero. Usamos <a href="https://en.wikipedia.org/wiki/6061_aluminium_alloy" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">aleación aeronáutica 6061-T6 o 7075</a> (el mismo material que usan en fuselajes de aviones, por si quieres un argumento de venta). Las monturas se pueden anodizar en prácticamente cualquier color y el acabado es muy duradero. Ideal para marcas outdoor, athleisure y el rango retail de $40-80.
+                  Si tus clientes valoran la comodidad -- y especialmente si llevan gafas de sol todo el día -- el aluminio vale la pena. Con 18-22g es notablemente más ligero que el acero. Usamos <a href="https://en.wikipedia.org/wiki/6061_aluminium_alloy" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">aleación aeronáutica 6061-T6 o 7075</a> (el mismo material que usan en fuselajes de aviones, por si quieres un argumento de venta). Las monturas se pueden anodizar en prácticamente cualquier color y el acabado es muy duradero. Ideal para marcas outdoor, athleisure y el rango retail de $40-80.
                 </p>
                 <div className="text-primary-600 font-bold">$10 - $14 / par</div>
               </div>
@@ -249,7 +249,7 @@ export default function AviadorPage() {
                 <div className="text-3xl mb-4">💎</div>
                 <h3 className="text-xl font-bold mb-3">Titanio</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  La jugada de prestigio. El beta-titanio con 15-18g es casi cómicamente ligero — la gente se los pone e inmediatamente dice &ldquo;wow.&rdquo; Es 100% hipoalergénico (nada de níquel), lo que es un verdadero argumento de venta para pieles sensibles. Y la flexibilidad es increíble — puedes doblar las patillas casi hasta dejarlas planas y vuelven a su forma. ¿El inconveniente? Cuesta más. Pero aquí está la cosa: el titanio te permite vender a $80-200+ sin despeinarte. Los márgenes por par suelen ser mejores que con monturas más baratas.
+                  La jugada de prestigio. El beta-titanio con 15-18g es casi cómicamente ligero -- la gente se los pone e inmediatamente dice &ldquo;wow.&rdquo; Es 100% hipoalergénico (nada de níquel), lo que es un verdadero argumento de venta para pieles sensibles. Y la flexibilidad es increíble -- puedes doblar las patillas casi hasta dejarlas planas y vuelven a su forma. ¿El inconveniente? Cuesta más. Pero aquí está la cosa: el titanio te permite vender a $80-200+ sin despeinarte. Los márgenes por par suelen ser mejores que con monturas más baratas.
                 </p>
                 <div className="text-primary-600 font-bold">$14 - $22 / par</div>
               </div>
@@ -266,7 +266,7 @@ export default function AviadorPage() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">Policarbonato (PC)</h3>
-                <p className="text-sm text-gray-600">El estándar. Resistente a impactos, ligero, irrompible — 10 veces más fuerte que el vidrio. Sirve para todo, desde uso casual hasta deportes. Todos nuestros colores y recubrimientos espejo están disponibles en PC. Esto es lo que usa el 70% de nuestros clientes.</p>
+                <p className="text-sm text-gray-600">El estándar. Resistente a impactos, ligero, irrompible -- 10 veces más fuerte que el vidrio. Sirve para todo, desde uso casual hasta deportes. Todos nuestros colores y recubrimientos espejo están disponibles en PC. Esto es lo que usa el 70% de nuestros clientes.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">TAC Polarizada</h3>
@@ -304,19 +304,19 @@ export default function AviadorPage() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Grabado láser</strong> — el más popular. Limpio, permanente, queda genial en metal. Interior o exterior de la patilla.</span>
+                    <span><strong>Grabado láser</strong> -- el más popular. Limpio, permanente, queda genial en metal. Interior o exterior de la patilla.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Insignia metálica</strong> — una pequeña insignia 3D de aleación de zinc o acero soldada a la patilla. Se siente cara.</span>
+                    <span><strong>Insignia metálica</strong> -- una pequeña insignia 3D de aleación de zinc o acero soldada a la patilla. Se siente cara.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Impresión en lente</strong> — pequeño logo serigrafiado en la esquina de la lente. Sutil pero visible.</span>
+                    <span><strong>Impresión en lente</strong> -- pequeño logo serigrafiado en la esquina de la lente. Sutil pero visible.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Plaquetas personalizadas</strong> — tu logo grabado o impreso en las plaquetas de silicona. Un bonito detalle.</span>
+                    <span><strong>Plaquetas personalizadas</strong> -- tu logo grabado o impreso en las plaquetas de silicona. Un bonito detalle.</span>
                   </li>
                 </ul>
               </div>
@@ -326,11 +326,11 @@ export default function AviadorPage() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Montura:</strong> Dorado, Plateado, Negro, Gunmetal, Oro Rosa — o danos un código Pantone y lo igualamos</span>
+                    <span><strong>Montura:</strong> Dorado, Plateado, Negro, Gunmetal, Oro Rosa -- o danos un código Pantone y lo igualamos</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Tintes de lente:</strong> Gris, Verde, Marrón, Azul, Rosa, Amarillo, Rojo — o color personalizado</span>
+                    <span><strong>Tintes de lente:</strong> Gris, Verde, Marrón, Azul, Rosa, Amarillo, Rojo -- o color personalizado</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
@@ -348,11 +348,11 @@ export default function AviadorPage() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estuches rígidos:</strong> EVA con cremallera, piel con cierre magnético o lata metálica — todos con tu logo impreso</span>
+                    <span><strong>Estuches rígidos:</strong> EVA con cremallera, piel con cierre magnético o lata metálica -- todos con tu logo impreso</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Fundas suaves:</strong> Microfibra con cordón y logo — sirve también como paño de limpieza</span>
+                    <span><strong>Fundas suaves:</strong> Microfibra con cordón y logo -- sirve también como paño de limpieza</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
@@ -360,7 +360,7 @@ export default function AviadorPage() {
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Extras:</strong> Paños de limpieza, tarjetas de garantía, etiquetas colgantes, pegatinas — todo con tu marca</span>
+                    <span><strong>Extras:</strong> Paños de limpieza, tarjetas de garantía, etiquetas colgantes, pegatinas -- todo con tu marca</span>
                   </li>
                 </ul>
               </div>
@@ -377,7 +377,7 @@ export default function AviadorPage() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-primary-400">🏪 Propietarios de Marcas de Gafas</h3>
-                <p className="text-gray-300 text-sm">Marcas nuevas y establecidas construyendo su línea de productos. Las aviador suelen ser el primer estilo que lanzan — son seguras, se venden y quedan bien en las fotos de marketing.</p>
+                <p className="text-gray-300 text-sm">Marcas nuevas y establecidas construyendo su línea de productos. Las aviador suelen ser el primer estilo que lanzan -- son seguras, se venden y quedan bien en las fotos de marketing.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-primary-400">🛍️ Tiendas Retail</h3>
@@ -432,7 +432,7 @@ export default function AviadorPage() {
               <Link href="/es/productos/tr90" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">🏃</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Gafas Deportivas</h3>
-                <p className="text-gray-600 text-sm">Si tus clientes necesitan algo más resistente que las aviador — monturas envolventes TR90 con agarres antideslizantes para running, ciclismo y deportes al aire libre.</p>
+                <p className="text-gray-600 text-sm">Si tus clientes necesitan algo más resistente que las aviador -- monturas envolventes TR90 con agarres antideslizantes para running, ciclismo y deportes al aire libre.</p>
               </Link>
             </div>
           </section>
@@ -441,7 +441,7 @@ export default function AviadorPage() {
           <section className="bg-primary-600 rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-3xl font-bold mb-4">¿Listo para Pedir Aviador?</h2>
             <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
-              Cuéntanos lo que necesitas — estilo, cantidad, cualquier personalización — y te responderemos en 24 horas con precios.
+              Cuéntanos lo que necesitas -- estilo, cantidad, cualquier personalización -- y te responderemos en 24 horas con precios.
               Las muestras se envían en 3-5 días. Sin compromiso hasta que estés listo.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

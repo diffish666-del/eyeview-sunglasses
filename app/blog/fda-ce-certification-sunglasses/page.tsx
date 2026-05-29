@@ -38,7 +38,7 @@ export default function FdaCeCertificationPage() {
             {
               "@type": "Question",
               "name": "Do sunglasses need FDA approval to sell in the US?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Sunglasses don't need FDA 'approval' but they do need FDA compliance. The FDA classifies sunglasses as medical devices (Class I) under 21 CFR 886.5850. Manufacturers and importers must register their establishment with the FDA and list their products. The lenses must also meet impact resistance requirements under 21 CFR 801.410. There's no pre-market approval process — it's registration and compliance with performance standards." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Sunglasses don't need FDA 'approval' but they do need FDA compliance. The FDA classifies sunglasses as medical devices (Class I) under 21 CFR 886.5850. Manufacturers and importers must register their establishment with the FDA and list their products. The lenses must also meet impact resistance requirements under 21 CFR 801.410. There's no pre-market approval process -- it's registration and compliance with performance standards." }
             },
             {
               "@type": "Question",
@@ -53,12 +53,12 @@ export default function FdaCeCertificationPage() {
             {
               "@type": "Question",
               "name": "What UV protection do sunglasses need?",
-              "acceptedAnswer": { "@type": "Answer", "text": "For legal sale in most markets, sunglasses must block 99-100% of UVA and UVB radiation up to 400nm (UV400). In the US, the FDA requires 'adequate' UV protection. The EU standard EN ISO 12312-1 specifies maximum UV transmittance based on lens category (0-4). Australia's AS/NZS 1067 is the strictest, requiring UV400 blocking for all categories. Bottom line: UV400 certification is the global baseline — don't sell sunglasses without it." }
+              "acceptedAnswer": { "@type": "Answer", "text": "For legal sale in most markets, sunglasses must block 99-100% of UVA and UVB radiation up to 400nm (UV400). In the US, the FDA requires 'adequate' UV protection. The EU standard EN ISO 12312-1 specifies maximum UV transmittance based on lens category (0-4). Australia's AS/NZS 1067 is the strictest, requiring UV400 blocking for all categories. Bottom line: UV400 certification is the global baseline -- don't sell sunglasses without it." }
             },
             {
               "@type": "Question",
               "name": "Can my sunglasses get seized at customs for non-compliance?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Yes. US Customs and Border Protection (CBP) can detain sunglasses that lack proper FDA registration or don't meet impact resistance standards. EU customs regularly seizes shipments without CE marking. Australia is particularly strict — non-compliant sunglasses are routinely seized and destroyed. I've personally seen clients lose entire shipments worth $10,000-$50,000 due to missing documentation. Compliance isn't optional." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Yes. US Customs and Border Protection (CBP) can detain sunglasses that lack proper FDA registration or don't meet impact resistance standards. EU customs regularly seizes shipments without CE marking. Australia is particularly strict -- non-compliant sunglasses are routinely seized and destroyed. I've personally seen clients lose entire shipments worth $10,000-$50,000 due to missing documentation. Compliance isn't optional." }
             }
           ]
         })}} />
@@ -75,7 +75,7 @@ export default function FdaCeCertificationPage() {
           </h1>
           <p className="text-xl text-gray-600">
             Nobody starts a sunglasses brand because they&apos;re excited about regulatory compliance. 
-            But skip this step and your sunglasses could get seized at customs — or worse. Here&apos;s 
+            But skip this step and your sunglasses could get seized at customs -- or worse. Here&apos;s 
             everything you need to know, simplified.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -106,7 +106,7 @@ export default function FdaCeCertificationPage() {
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-600 mb-8">
             I&apos;ve been exporting sunglasses for 20 years. In that time, I&apos;ve watched three clients 
-            lose entire shipments to customs seizures — totaling over $120,000 in destroyed product. Every 
+            lose entire shipments to customs seizures -- totaling over $120,000 in destroyed product. Every 
             single case was preventable. The testing would have cost less than $500.
           </p>
 
@@ -117,7 +117,7 @@ export default function FdaCeCertificationPage() {
             them by sea to Port Miami. US Customs flagged the shipment because it lacked FDA establishment 
             registration documentation. The goods were held for 45 days while Carlos scrambled to register 
             and get paperwork in order. By the time he got his sunglasses, he&apos;d missed his entire 
-            summer launch window. The sunglasses were fine — the paperwork wasn&apos;t.
+            summer launch window. The sunglasses were fine -- the paperwork wasn&apos;t.
           </p>
           <p>
             Then there&apos;s Lisa, who sold sunglasses on Amazon UK. A competitor reported her listing for 
@@ -134,7 +134,7 @@ export default function FdaCeCertificationPage() {
           <p>
             Here&apos;s something that surprises most people: <strong>the FDA classifies sunglasses as 
             medical devices</strong>. Specifically, Class I medical devices under 21 CFR 886.5850. Don&apos;t 
-            panic — Class I is the lowest risk category, and the requirements are straightforward.
+            panic -- Class I is the lowest risk category, and the requirements are straightforward.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What You Need to Do</h3>
@@ -145,7 +145,7 @@ export default function FdaCeCertificationPage() {
               Every manufacturer and importer of sunglasses sold in the US must register with the FDA. 
               This is done online through the{' '}
               <a href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-registration-and-listing" target="_blank" rel="noopener" className="underline">FDA FURLS system</a>. 
-              Registration is free but must be renewed annually (October 1 – December 31 each year). 
+              Registration is free but must be renewed annually (October 1 - December 31 each year). 
               If your factory in China is the manufacturer, <em>they</em> need to register. If you import 
               and sell under your own brand, <em>you</em> also need to register as a specification developer.
             </p>
@@ -188,7 +188,7 @@ export default function FdaCeCertificationPage() {
             CE for most products through 2027).
           </p>
           <p>
-            The key standard is <strong>EN ISO 12312-1:2022</strong> (Personal eye protection — Sunglasses 
+            The key standard is <strong>EN ISO 12312-1:2022</strong> (Personal eye protection -- Sunglasses 
             and related eyewear). This standard covers:
           </p>
           <ul>
@@ -223,14 +223,14 @@ export default function FdaCeCertificationPage() {
           <p>
             Most fashion sunglasses fall into <strong>Category 3</strong> (8-18% transmittance). This is 
             the sweet spot for everyday sun protection. Category 4 is very dark and explicitly banned for 
-            driving — you must include a warning if you sell Cat 4 lenses.
+            driving -- you must include a warning if you sell Cat 4 lenses.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What You Need for CE Compliance</h3>
           <ol>
             <li><strong>Testing to EN ISO 12312-1</strong> by an accredited laboratory</li>
             <li><strong>Technical file</strong> documenting design, materials, test results, and risk assessment</li>
-            <li><strong>Declaration of Conformity (DoC)</strong> — a formal document declaring your product meets EU requirements. You (the brand/importer) sign this.</li>
+            <li><strong>Declaration of Conformity (DoC)</strong> -- a formal document declaring your product meets EU requirements. You (the brand/importer) sign this.</li>
             <li><strong>CE mark</strong> on the product or its packaging</li>
             <li><strong>Mandatory labeling:</strong> Filter category number, CE mark, manufacturer/importer name, &quot;not suitable for driving&quot; warning if Cat 4</li>
           </ol>
@@ -238,7 +238,7 @@ export default function FdaCeCertificationPage() {
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 Important: Self-Certification</h3>
             <p className="text-amber-800">
-              CE marking for sunglasses is <strong>self-certified</strong> — you don&apos;t need a notified 
+              CE marking for sunglasses is <strong>self-certified</strong> -- you don&apos;t need a notified 
               body to approve your product. You (or your factory) conduct the testing, compile the technical 
               file, and sign the Declaration of Conformity. This makes it affordable, but it also means 
               you&apos;re legally responsible for the accuracy of your claims. Don&apos;t fake it.
@@ -249,7 +249,7 @@ export default function FdaCeCertificationPage() {
           <p>
             UV protection is the single most important compliance requirement for sunglasses. Lenses that 
             don&apos;t adequately block UV radiation can actually be <em>more dangerous</em> than wearing 
-            no sunglasses at all — the dark tint causes your pupils to dilate, letting in more UV if the 
+            no sunglasses at all -- the dark tint causes your pupils to dilate, letting in more UV if the 
             lens isn&apos;t properly blocking it.
           </p>
 
@@ -276,7 +276,7 @@ export default function FdaCeCertificationPage() {
           <p>
             The test takes about 5 minutes per lens and costs $50-$100 per sample at most testing labs. 
             Your factory should have a spectrophotometer in-house and test every production batch. We 
-            do — and we provide the test reports with every shipment.
+            do -- and we provide the test reports with every shipment.
           </p>
 
           <h2 id="ansi" className="text-3xl font-bold mt-16 mb-6">ANSI Z80.3: The US Optical Standard</h2>
@@ -333,33 +333,33 @@ export default function FdaCeCertificationPage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">UV400 transmittance only</td><td className="px-6 py-4">$100–$300</td><td className="px-6 py-4">3-5 days</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Full EN ISO 12312-1 (CE)</td><td className="px-6 py-4">$300–$600</td><td className="px-6 py-4">5-10 days</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">ANSI Z80.3 full suite</td><td className="px-6 py-4">$300–$500</td><td className="px-6 py-4">5-10 days</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Australia)</td><td className="px-6 py-4">$400–$800</td><td className="px-6 py-4">7-14 days</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">FDA drop ball test</td><td className="px-6 py-4">$50–$150</td><td className="px-6 py-4">1-3 days</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Nickel release (metal frames)</td><td className="px-6 py-4">$100–$200</td><td className="px-6 py-4">5-7 days</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">UV400 transmittance only</td><td className="px-6 py-4">$100-$300</td><td className="px-6 py-4">3-5 days</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Full EN ISO 12312-1 (CE)</td><td className="px-6 py-4">$300-$600</td><td className="px-6 py-4">5-10 days</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">ANSI Z80.3 full suite</td><td className="px-6 py-4">$300-$500</td><td className="px-6 py-4">5-10 days</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Australia)</td><td className="px-6 py-4">$400-$800</td><td className="px-6 py-4">7-14 days</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">FDA drop ball test</td><td className="px-6 py-4">$50-$150</td><td className="px-6 py-4">1-3 days</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Nickel release (metal frames)</td><td className="px-6 py-4">$100-$200</td><td className="px-6 py-4">5-7 days</td></tr>
               </tbody>
             </table>
           </div>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Recommended Testing Labs</h3>
           <ul>
-            <li><strong>SGS</strong> — Global leader. Labs in China, US, EU. Widely recognized.</li>
-            <li><strong>Bureau Veritas</strong> — Another top-tier option with global coverage.</li>
-            <li><strong>Intertek</strong> — Strong in both optical and material testing.</li>
-            <li><strong>TÜV Rheinland</strong> — Especially trusted in the EU market.</li>
-            <li><strong>Local university labs</strong> — Often 30-50% cheaper for basic UV testing. Check if they&apos;re accredited.</li>
+            <li><strong>SGS</strong> -- Global leader. Labs in China, US, EU. Widely recognized.</li>
+            <li><strong>Bureau Veritas</strong> -- Another top-tier option with global coverage.</li>
+            <li><strong>Intertek</strong> -- Strong in both optical and material testing.</li>
+            <li><strong>TÜV Rheinland</strong> -- Especially trusted in the EU market.</li>
+            <li><strong>Local university labs</strong> -- Often 30-50% cheaper for basic UV testing. Check if they&apos;re accredited.</li>
           </ul>
 
           <h2 id="factory-role" className="text-3xl font-bold mt-16 mb-6">What Your Factory Should Provide</h2>
           <p>
-            A good factory — one that&apos;s serious about quality and compliance — should provide most 
+            A good factory -- one that&apos;s serious about quality and compliance -- should provide most 
             of what you need without you having to ask. Here&apos;s what we provide at EyeView, and 
             what you should expect from any reputable manufacturer:
           </p>
           <ul>
-            <li><strong>UV400 test certificate</strong> for every production batch (not just once — every batch)</li>
+            <li><strong>UV400 test certificate</strong> for every production batch (not just once -- every batch)</li>
             <li><strong>CE Declaration of Conformity template</strong> that you can customize with your brand name</li>
             <li><strong>FDA drop ball test records</strong> on file and available on request</li>
             <li><strong>Material safety data sheets (MSDS)</strong> for frame materials</li>
@@ -417,9 +417,9 @@ export default function FdaCeCertificationPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Do sunglasses need FDA approval to sell in the US?</h3>
               <p className="text-gray-600">
-                Not &quot;approval&quot; — but FDA compliance, yes. Sunglasses are Class I medical devices. 
+                Not &quot;approval&quot; -- but FDA compliance, yes. Sunglasses are Class I medical devices. 
                 Manufacturers/importers must register with the FDA and list their products. Lenses must pass 
-                impact resistance tests. There&apos;s no pre-market approval process — it&apos;s registration 
+                impact resistance tests. There&apos;s no pre-market approval process -- it&apos;s registration 
                 plus compliance with performance standards.
               </p>
             </div>
@@ -443,7 +443,7 @@ export default function FdaCeCertificationPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">What UV protection do sunglasses need?</h3>
               <p className="text-gray-600">
-                UV400 — blocking 99-100% of UV radiation up to 400nm — is the global baseline. Every 
+                UV400 -- blocking 99-100% of UV radiation up to 400nm -- is the global baseline. Every 
                 major market requires adequate UV protection. Don&apos;t sell sunglasses without UV400 
                 certification. The risk to consumers (and your liability) is too high.
               </p>
@@ -452,7 +452,7 @@ export default function FdaCeCertificationPage() {
               <h3 className="font-bold text-lg mb-2">Can my sunglasses get seized at customs for non-compliance?</h3>
               <p className="text-gray-600">
                 Yes. US CBP can detain shipments lacking FDA registration. EU customs regularly seizes 
-                products without CE marking. Australia is the strictest — non-compliant sunglasses are 
+                products without CE marking. Australia is the strictest -- non-compliant sunglasses are 
                 routinely destroyed. I&apos;ve seen clients lose $10,000-$50,000 in seized shipments. 
                 The compliance testing costs a fraction of that.
               </p>
@@ -464,7 +464,7 @@ export default function FdaCeCertificationPage() {
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               We handle FDA, CE, and UV compliance for every order we produce. Our team can walk you 
               through the requirements for your specific markets and provide all necessary documentation. 
-              No extra charge for standard compliance — it&apos;s part of doing business right.
+              No extra charge for standard compliance -- it&apos;s part of doing business right.
             </p>
             <Link href="/contact" className="btn-primary">
               Ask Jacky About Compliance
@@ -476,15 +476,15 @@ export default function FdaCeCertificationPage() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
-                <p className="text-gray-600 text-sm">FDA/CE certified — meets US and EU safety standards for optical quality.</p>
+                <p className="text-gray-600 text-sm">FDA/CE certified -- meets US and EU safety standards for optical quality.</p>
               </Link>
               <Link href="/products/polarized" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Polarized Sunglasses</h3>
-                <p className="text-gray-600 text-sm">UV400 certified — blocks 100% of UVA/UVB radiation, meets ANSI Z80.3.</p>
+                <p className="text-gray-600 text-sm">UV400 certified -- blocks 100% of UVA/UVB radiation, meets ANSI Z80.3.</p>
               </Link>
               <Link href="/certifications" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Our Certifications</h3>
-                <p className="text-gray-600 text-sm">Full compliance documentation — FDA, CE, UV400, ISO 9001, ANSI Z80.3.</p>
+                <p className="text-gray-600 text-sm">Full compliance documentation -- FDA, CE, UV400, ISO 9001, ANSI Z80.3.</p>
               </Link>
             </div>
           </div>
@@ -494,7 +494,7 @@ export default function FdaCeCertificationPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/blog/sunglasses-quality-control" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Sunglasses Quality Control: Factory Inspection Checklist</h3>
-                <p className="text-gray-600 text-sm">What to check before approving a production run — from lens clarity to hinge tension.</p>
+                <p className="text-gray-600 text-sm">What to check before approving a production run -- from lens clarity to hinge tension.</p>
               </Link>
               <Link href="/blog/import-sunglasses-guide" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">How to Import Sunglasses from China</h3>

@@ -35,7 +35,7 @@ export default function CreareBrandOcchialiPage() {
           "dateModified": "2026-05-02",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Guida completa passo passo per lanciare il tuo brand di occhiali da sole — dalla ricerca di mercato alla prima vendita.",
+          "description": "Guida completa passo passo per lanciare il tuo brand di occhiali da sole -- dalla ricerca di mercato alla prima vendita.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/creare-brand-occhiali" },
           "inLanguage": "it"
         })}} />
@@ -101,7 +101,7 @@ export default function CreareBrandOcchialiPage() {
 
           <h2 id="step-2" className="text-2xl font-bold mt-12 mb-4">Step 2: Definisci il Tuo Brand</h2>
           <p>
-            Il tuo brand è più di un logo — è la tua storia, i tuoi valori e la promessa che fai ai clienti.
+            Il tuo brand è più di un logo -- è la tua storia, i tuoi valori e la promessa che fai ai clienti.
           </p>
 
           <h3 className="text-xl font-semibold mt-6 mb-3">Elementi del Brand:</h3>
@@ -278,5 +278,6 @@ export default function CreareBrandOcchialiPage() {
         </section>
       </div>
     </article>
+    </>
   )
 }

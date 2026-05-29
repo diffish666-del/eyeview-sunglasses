@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: '¿Cuánto Cuesta Iniciar una Marca de Gafas de Sol en 2026?',
-  description: 'Un dueño de fábrica desglosa cada costo para iniciar una marca de gafas — desde desarrollo de producto hasta marketing. Cifras reales desde $3.000 bootstrap hasta $50.000+ lanzamiento premium.',
+  description: 'Un dueño de fábrica desglosa cada costo para iniciar una marca de gafas -- desde desarrollo de producto hasta marketing. Cifras reales desde $3.000 bootstrap hasta $50.000+ lanzamiento premium.',
   keywords: 'costo iniciar marca gafas, crear marca gafas costo, inversión negocio gafas, presupuesto marca gafas',
   alternates: {
     canonical: '/es/blog/costo-iniciar-marca-gafas',
@@ -27,7 +27,7 @@ export default function Page() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un dueño de fábrica desglosa cada costo para iniciar una marca de gafas — desde desarrollo de producto hasta marketing. Cifras reales desde $3.000 bootstrap hasta $50.000+ lanzamiento premium.",
+          "description": "Un dueño de fábrica desglosa cada costo para iniciar una marca de gafas -- desde desarrollo de producto hasta marketing. Cifras reales desde $3.000 bootstrap hasta $50.000+ lanzamiento premium.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/costo-iniciar-marca-gafas" },
           "inLanguage": "es"
         })}} />
@@ -74,7 +74,7 @@ export default function Page() {
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">¿Tienes Preguntas? Hablemos.</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas — solo consejos honestos basados en 20 años de experiencia.
+              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas -- solo consejos honestos basados en 20 años de experiencia.
             </p>
             <Link href="/es/contacto" className="btn-primary">
               Agenda una Llamada Gratis con Jacky

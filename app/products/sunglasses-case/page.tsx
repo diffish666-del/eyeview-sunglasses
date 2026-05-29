@@ -24,11 +24,11 @@ export const metadata: Metadata = {
 const caseFaqs = [
   {
     question: 'What is the minimum order for wholesale sunglass cases?',
-    answer: '100 pieces for standard cases with your logo printed. If you want fully custom molds or special materials, the MOQ goes up to 500 pieces. But honestly, 100 is enough for most brands to test the market. We recommend starting with our standard EVA hard case — it is the most popular, the cheapest to customize, and customers expect it. Once you know your volume, you can scale up to custom designs.',
+    answer: '100 pieces for standard cases with your logo printed. If you want fully custom molds or special materials, the MOQ goes up to 500 pieces. But honestly, 100 is enough for most brands to test the market. We recommend starting with our standard EVA hard case -- it is the most popular, the cheapest to customize, and customers expect it. Once you know your volume, you can scale up to custom designs.',
   },
   {
     question: 'What is the difference between hard cases and soft pouches?',
-    answer: 'Hard cases (usually EVA or ABS) give your sunglasses real protection — drop protection, crush protection, the works. They are what you would expect from a $100+ pair of sunglasses. Soft pouches (microfiber or velvet) are for scratch protection during normal use and they double as cleaning cloths. Most brands use both: hard case for shipping and retail display, soft pouch for the customer to carry daily. If you are on a tight budget, start with the hard case — it adds more perceived value.',
+    answer: 'Hard cases (usually EVA or ABS) give your sunglasses real protection -- drop protection, crush protection, the works. They are what you would expect from a $100+ pair of sunglasses. Soft pouches (microfiber or velvet) are for scratch protection during normal use and they double as cleaning cloths. Most brands use both: hard case for shipping and retail display, soft pouch for the customer to carry daily. If you are on a tight budget, start with the hard case -- it adds more perceived value.',
   },
   {
     question: 'Can I get my logo printed on the cases?',
@@ -36,7 +36,7 @@ const caseFaqs = [
   },
   {
     question: 'What materials do you offer for sunglass cases?',
-    answer: 'Four main categories. EVA (compressed ethylene-vinyl acetate) is the most popular — it is the standard hard case with a soft interior lining, costs $0.80-2.50 depending on size and customization. ABS plastic is harder and more rigid than EVA, gives that premium click-shut feel, and runs $1.20-3.00. Microfiber and velvet pouches are the soft option — $0.30-0.80 each, and they double as cleaning cloths. Leather cases are the premium tier — genuine or synthetic leather with a magnetic closure, $2.50-6.00, and they make your brand look expensive. Pick based on your retail positioning.',
+    answer: 'Four main categories. EVA (compressed ethylene-vinyl acetate) is the most popular -- it is the standard hard case with a soft interior lining, costs $0.80-2.50 depending on size and customization. ABS plastic is harder and more rigid than EVA, gives that premium click-shut feel, and runs $1.20-3.00. Microfiber and velvet pouches are the soft option -- $0.30-0.80 each, and they double as cleaning cloths. Leather cases are the premium tier -- genuine or synthetic leather with a magnetic closure, $2.50-6.00, and they make your brand look expensive. Pick based on your retail positioning.',
   },
   {
     question: 'Do you offer custom shapes and sizes?',
@@ -51,35 +51,35 @@ const caseFaqs = [
 const products = [
   {
     name: 'Standard EVA Hard Case',
-    description: 'This is the one you see with every mid-range sunglasses brand. EVA foam with a soft interior lining (usually black or grey microsuede), a zipper on one side, and your logo screen-printed on the front. It is about 160mm x 70mm x 45mm on the outside — fits aviators, wayfarers, and round frames without issue. The shell is firm enough to survive being tossed in a backpack, and the interior is soft enough that it will not scratch lenses. We sell more of these than any other case type. If you are not sure where to start, start here.',
+    description: 'This is the one you see with every mid-range sunglasses brand. EVA foam with a soft interior lining (usually black or grey microsuede), a zipper on one side, and your logo screen-printed on the front. It is about 160mm x 70mm x 45mm on the outside -- fits aviators, wayfarers, and round frames without issue. The shell is firm enough to survive being tossed in a backpack, and the interior is soft enough that it will not scratch lenses. We sell more of these than any other case type. If you are not sure where to start, start here.',
     price: '$0.80 - $2.50',
     moq: '100 pcs',
     features: ['EVA Shell', 'Soft Interior Lining', 'Zipper Closure', 'Custom Logo Printing'],
   },
   {
     name: 'Premium ABS Hard Case',
-    description: 'The step-up from EVA. ABS plastic shell with a satisfying click-shut magnetic closure. This is what you see with premium and designer brands — it feels solid in your hand, it protects against serious drops, and the rigid shape means it never gets squished in a bag. Interior is usually a molded EVA insert with micro suede covering so the sunglasses sit perfectly in place. We can do custom colors for the shell (Pantone matching), and the front can be printed, embossed, or fitted with a metal badge. Adds real perceived value to your brand.',
+    description: 'The step-up from EVA. ABS plastic shell with a satisfying click-shut magnetic closure. This is what you see with premium and designer brands -- it feels solid in your hand, it protects against serious drops, and the rigid shape means it never gets squished in a bag. Interior is usually a molded EVA insert with micro suede covering so the sunglasses sit perfectly in place. We can do custom colors for the shell (Pantone matching), and the front can be printed, embossed, or fitted with a metal badge. Adds real perceived value to your brand.',
     price: '$1.20 - $3.50',
     moq: '100 pcs',
     features: ['ABS Plastic Shell', 'Magnetic Closure', 'Molded Interior', 'Custom Colors'],
   },
   {
     name: 'Microfiber Soft Pouch',
-    description: 'The everyday carry option. Drawstring or zipper closure, made from premium microfiber that is soft enough to clean your lenses and tough enough to protect against scratches. Size is about 190mm x 90mm — big enough for most sunglasses and small enough to fit in a pocket or small bag. The microfiber material is the key here — it is the same stuff they use for lens cleaning cloths, so customers use it for both storage and cleaning. Logo can be screen-printed or woven as a patch. Most brands include this as a bonus with every purchase.',
+    description: 'The everyday carry option. Drawstring or zipper closure, made from premium microfiber that is soft enough to clean your lenses and tough enough to protect against scratches. Size is about 190mm x 90mm -- big enough for most sunglasses and small enough to fit in a pocket or small bag. The microfiber material is the key here -- it is the same stuff they use for lens cleaning cloths, so customers use it for both storage and cleaning. Logo can be screen-printed or woven as a patch. Most brands include this as a bonus with every purchase.',
     price: '$0.30 - $0.80',
     moq: '100 pcs',
     features: ['Microfiber Material', 'Scratch Protection', 'Double as Cleaning Cloth', 'Lightweight'],
   },
   {
     name: 'Leather Case',
-    description: 'The premium option. Genuine leather or high-quality synthetic leather with a magnetic flap closure. Interior is lined with soft microsuede or velvet. This is what you use when you want your brand to look expensive — it is the kind of case that makes someone think "these sunglasses cost $200" even if they are $80. We offer full-grain leather, top-grain leather, and PU leather (synthetic) depending on your price point. Logo can be embossed (pressed into the leather, very classy), debossed, or fitted with a metal plate. Custom colors available.',
+    description: 'The premium option. Genuine leather or high-quality synthetic leather with a magnetic flap closure. Interior is lined with soft microsuede or velvet. This is what you use when you want your brand to look expensive -- it is the kind of case that makes someone think "these sunglasses cost $200" even if they are $80. We offer full-grain leather, top-grain leather, and PU leather (synthetic) depending on your price point. Logo can be embossed (pressed into the leather, very classy), debossed, or fitted with a metal plate. Custom colors available.',
     price: '$2.50 - $6.00',
     moq: '100 pcs',
     features: ['Genuine/Synthetic Leather', 'Magnetic Flap', 'Embossed Logo', 'Premium Feel'],
   },
   {
     name: 'Foldable Silicone Case',
-    description: 'The practical option for active brands. Made from food-grade silicone, this case folds flat when empty (about 10mm thick) and expands to fit your sunglasses. It is waterproof, washable, and nearly indestructible — drop it, step on it, throw it in the river, it does not care. Great for sports brands, outdoor companies, and beach lifestyle labels. Available in any color (silicone is easy to color-match), and your logo can be debossed directly into the material. Not as premium-looking as EVA or leather, but customers love the functionality.',
+    description: 'The practical option for active brands. Made from food-grade silicone, this case folds flat when empty (about 10mm thick) and expands to fit your sunglasses. It is waterproof, washable, and nearly indestructible -- drop it, step on it, throw it in the river, it does not care. Great for sports brands, outdoor companies, and beach lifestyle labels. Available in any color (silicone is easy to color-match), and your logo can be debossed directly into the material. Not as premium-looking as EVA or leather, but customers love the functionality.',
     price: '$0.60 - $1.80',
     moq: '200 pcs',
     features: ['Food-Grade Silicone', 'Foldable Design', 'Waterproof', 'Vibrant Colors'],
@@ -144,10 +144,10 @@ export default function SunglassCasePage() {
                 Here is something most sunglasses brands get wrong: they spend $8-15 per pair on a great product, then ship it in a flimsy plastic bag that makes it feel like a $5 gas station purchase. The case is the first thing your customer touches when they open the box. It sets the tone for everything that follows. A good case says "this is a real product." A bad case says "I cut corners everywhere."
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                We have been manufacturing and supplying <strong>custom sunglass cases</strong> for over 15 years. Our factory produces 500,000+ cases per month for brands in 60+ countries. We make everything from the standard EVA hard case you see everywhere to premium leather cases with embossed logos, from foldable silicone cases for sports brands to fully custom shapes that no one else has. And we do it at prices that actually work for wholesale — because the case should be an investment in your brand, not a budget-killer.
+                We have been manufacturing and supplying <strong>custom sunglass cases</strong> for over 15 years. Our factory produces 500,000+ cases per month for brands in 60+ countries. We make everything from the standard EVA hard case you see everywhere to premium leather cases with embossed logos, from foldable silicone cases for sports brands to fully custom shapes that no one else has. And we do it at prices that actually work for wholesale -- because the case should be an investment in your brand, not a budget-killer.
               </p>
               <p className="text-lg leading-relaxed">
-                Whether you need 100 cases to go with your first sunglass order or 50,000 cases for a national retail launch, we have the capacity. And because we make both the sunglasses and the cases, we can ship them together — one shipment, one tracking number, one less thing to worry about.
+                Whether you need 100 cases to go with your first sunglass order or 50,000 cases for a national retail launch, we have the capacity. And because we make both the sunglasses and the cases, we can ship them together -- one shipment, one tracking number, one less thing to worry about.
               </p>
             </div>
           </div>
@@ -199,7 +199,7 @@ export default function SunglassCasePage() {
                       ['Closure Type', 'Zipper / Magnetic flap / Snap button / Drawstring'],
                       ['Logo Methods', 'Screen print / Emboss / Deboss / Metal badge / Heat transfer'],
                       ['Custom Colors', 'Pantone matching available for EVA, ABS, silicone, and leather'],
-                      ['Certifications', 'REACH (EVA) · CPSIA (pouches) · REACH (leather) — docs on request'],
+                      ['Certifications', 'REACH (EVA) · CPSIA (pouches) · REACH (leather) -- docs on request'],
                       ['MOQ', '100 pieces standard | 500 pieces for custom molds'],
                       ['Sample Time', '3-5 business days (standard) | 7-10 days (custom mold)'],
                       ['Production Time', '10-15 days standard / 7-10 days rush'],
@@ -236,7 +236,7 @@ export default function SunglassCasePage() {
                 <div className="text-3xl mb-4">🔒</div>
                 <h3 className="text-xl font-bold mb-3">ABS Hard Case</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  The premium upgrade. Rigid ABS plastic shell with magnetic closure — that satisfying "click" when you shut it. Interior is a molded EVA insert with microsuede so the sunglasses sit perfectly. This is what you see with <a href="https://www.luxottica.com" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Luxottica</a> brands and designer labels. If your retail price is $80+, this is the case that matches. Custom colors, metal badge logo options, and a weight that feels substantial.
+                  The premium upgrade. Rigid ABS plastic shell with magnetic closure -- that satisfying "click" when you shut it. Interior is a molded EVA insert with microsuede so the sunglasses sit perfectly. This is what you see with <a href="https://www.luxottica.com" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Luxottica</a> brands and designer labels. If your retail price is $80+, this is the case that matches. Custom colors, metal badge logo options, and a weight that feels substantial.
                 </p>
                 <div className="text-primary-600 font-bold">$1.20 - $3.50 / piece</div>
               </div>
@@ -245,7 +245,7 @@ export default function SunglassCasePage() {
                 <div className="text-3xl mb-4">🧹</div>
                 <h3 className="text-xl font-bold mb-3">Microfiber Pouch</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  The everyday carry. Soft microfiber that protects against scratches AND doubles as a lens cleaning cloth. Customers love this because it is useful — they actually use it every day. Best as a complement to a hard case (hard case for shipping, pouch for daily carry), but some budget brands use it alone. Screen-print your logo or add a woven patch. Available in black, grey, blue, red, and custom colors.
+                  The everyday carry. Soft microfiber that protects against scratches AND doubles as a lens cleaning cloth. Customers love this because it is useful -- they actually use it every day. Best as a complement to a hard case (hard case for shipping, pouch for daily carry), but some budget brands use it alone. Screen-print your logo or add a woven patch. Available in black, grey, blue, red, and custom colors.
                 </p>
                 <div className="text-primary-600 font-bold">$0.30 - $0.80 / piece</div>
               </div>
@@ -254,7 +254,7 @@ export default function SunglassCasePage() {
                 <div className="text-3xl mb-4">👜</div>
                 <h3 className="text-xl font-bold mb-3">Leather Case</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  The luxury play. Genuine or synthetic leather with a magnetic flap closure. Interior lined with soft microsuede or velvet. Embossed logo (pressed into the leather) looks incredibly classy. This is what separates premium brands from everyone else. When someone picks up a leather case, they think "expensive" — even if the sunglasses inside are $80. We offer full-grain, top-grain, and PU leather depending on your budget.
+                  The luxury play. Genuine or synthetic leather with a magnetic flap closure. Interior lined with soft microsuede or velvet. Embossed logo (pressed into the leather) looks incredibly classy. This is what separates premium brands from everyone else. When someone picks up a leather case, they think "expensive" -- even if the sunglasses inside are $80. We offer full-grain, top-grain, and PU leather depending on your budget.
                 </p>
                 <div className="text-primary-600 font-bold">$2.50 - $6.00 / piece</div>
               </div>
@@ -272,7 +272,7 @@ export default function SunglassCasePage() {
                 <div className="text-3xl mb-4">✨</div>
                 <h3 className="text-xl font-bold mb-3">Custom Shape</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  The differentiator. We make a custom mold and you get a case that no one else has. Shaped like your logo, shaped like a mini sunglasses display, built-in stand — anything you can imagine. Mold cost is $100-300 one-time, then per-unit pricing is the same as standard cases. This is what separates brands that look generic from brands that look intentional.
+                  The differentiator. We make a custom mold and you get a case that no one else has. Shaped like your logo, shaped like a mini sunglasses display, built-in stand -- anything you can imagine. Mold cost is $100-300 one-time, then per-unit pricing is the same as standard cases. This is what separates brands that look generic from brands that look intentional.
                 </p>
                 <div className="text-primary-600 font-bold">$1.00 - $4.00 / piece</div>
               </div>
@@ -289,11 +289,11 @@ export default function SunglassCasePage() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🖨️ Screen Printing</h3>
-                <p className="text-sm text-gray-600">Most popular method. Ink is pressed through a mesh screen onto the case surface. Works on EVA, microfiber, and ABS. Best for 1-2 color logos. Costs $0.10-0.30 per case. Holds up well — survives thousands of zips without fading.</p>
+                <p className="text-sm text-gray-600">Most popular method. Ink is pressed through a mesh screen onto the case surface. Works on EVA, microfiber, and ABS. Best for 1-2 color logos. Costs $0.10-0.30 per case. Holds up well -- survives thousands of zips without fading.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🔤 Embossing / Debossing</h3>
-                <p className="text-sm text-gray-600">Your logo is pressed into the material (embossed = raised, debossed = indented). Works best on leather and EVA. No ink needed — the texture itself is the branding. Looks premium. Costs $0.20-0.50 per case. The classic luxury approach.</p>
+                <p className="text-sm text-gray-600">Your logo is pressed into the material (embossed = raised, debossed = indented). Works best on leather and EVA. No ink needed -- the texture itself is the branding. Looks premium. Costs $0.20-0.50 per case. The classic luxury approach.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🏷️ Metal Badge</h3>
@@ -305,7 +305,7 @@ export default function SunglassCasePage() {
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🧵 Woven Patch</h3>
-                <p className="text-sm text-gray-600">Your logo woven into a fabric patch, then sewn or glued onto the case. Works on microfiber pouches and EVA cases. Very durable — the logo is literally woven into threads. Costs $0.15-0.35 per patch. Classic look that never goes out of style.</p>
+                <p className="text-sm text-gray-600">Your logo woven into a fabric patch, then sewn or glued onto the case. Works on microfiber pouches and EVA cases. Very durable -- the logo is literally woven into threads. Costs $0.15-0.35 per patch. Classic look that never goes out of style.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">⚡ Laser Engraving</h3>
@@ -367,7 +367,7 @@ export default function SunglassCasePage() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-primary-400">🏪 Sunglasses Brands</h3>
-                <p className="text-gray-300 text-sm">New and established brands that need cases to go with their sunglasses. Most order cases + sunglasses together from us — one shipment, one tracking number.</p>
+                <p className="text-gray-300 text-sm">New and established brands that need cases to go with their sunglasses. Most order cases + sunglasses together from us -- one shipment, one tracking number.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-primary-400">🛍️ Retail Shops</h3>
@@ -431,7 +431,7 @@ export default function SunglassCasePage() {
           <section className="bg-primary-600 rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-3xl font-bold mb-4">Ready to Order Sunglass Cases?</h2>
             <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
-              Tell us what you need — case type, quantity, logo method — and we will get back to you within 24 hours with pricing.
+              Tell us what you need -- case type, quantity, logo method -- and we will get back to you within 24 hours with pricing.
               Samples ship in 3-5 days. No commitment until you are ready.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

@@ -18,7 +18,7 @@ const posts = [
   {
     slug: 'tendencias-diseno-gafas-2026',
     title: 'Tendencias de Diseño de Gafas de Sol para 2026: Qué Se Vende Ahora',
-    excerpt: 'Un dueño de fábrica revela las tendencias más calientes de gafas para 2026 con datos reales de ventas — monturas oversize, revival Y2K, materiales sostenibles y más.',
+    excerpt: 'Un dueño de fábrica revela las tendencias más calientes de gafas para 2026 con datos reales de ventas -- monturas oversize, revival Y2K, materiales sostenibles y más.',
     date: '4 de mayo de 2026',
     category: 'Tendencias',
     readTime: '13 min de lectura',
@@ -28,7 +28,7 @@ const posts = [
   {
     slug: 'costo-iniciar-marca-gafas',
     title: '¿Cuánto Cuesta Iniciar una Marca de Gafas de Sol en 2026?',
-    excerpt: 'Desglose completo de costos — desde desarrollo de producto hasta marketing. Cifras reales desde $3.000 bootstrap hasta $50.000+ lanzamiento premium.',
+    excerpt: 'Desglose completo de costos -- desde desarrollo de producto hasta marketing. Cifras reales desde $3.000 bootstrap hasta $50.000+ lanzamiento premium.',
     date: '4 de mayo de 2026',
     category: 'Negocio',
     readTime: '15 min de lectura',
@@ -38,7 +38,7 @@ const posts = [
   {
     slug: 'estrategia-precios-gafas',
     title: 'Estrategia de Precios para Gafas de Sol: Del Costo de Fábrica al Precio Retail',
-    excerpt: 'La economía real de los precios de gafas — costos de fábrica, márgenes mayoristas, márgenes retail y estrategias de precios que funcionan para marcas nuevas y establecidas.',
+    excerpt: 'La economía real de los precios de gafas -- costos de fábrica, márgenes mayoristas, márgenes retail y estrategias de precios que funcionan para marcas nuevas y establecidas.',
     date: '4 de mayo de 2026',
     category: 'Negocio',
     readTime: '13 min de lectura',
@@ -48,7 +48,7 @@ const posts = [
   {
     slug: 'control-calidad-gafas',
     title: 'Control de Calidad de Gafas de Sol: Checklist de Inspección de Fábrica',
-    excerpt: 'El checklist completo de QC — pruebas de lentes, inspección de monturas, verificación de bisagras, verificación UV y qué buscar antes de aprobar la producción.',
+    excerpt: 'El checklist completo de QC -- pruebas de lentes, inspección de monturas, verificación de bisagras, verificación UV y qué buscar antes de aprobar la producción.',
     date: '4 de mayo de 2026',
     category: 'Fabricación',
     readTime: '14 min de lectura',
@@ -58,7 +58,7 @@ const posts = [
   {
     slug: 'certificacion-fda-ce-gafas',
     title: 'Certificación FDA y CE para Gafas de Sol: Guía Completa de Cumplimiento',
-    excerpt: 'Registro FDA, marcado CE, pruebas UV y estándares ANSI — guía paso a paso para vender gafas en EE.UU., la UE y globalmente.',
+    excerpt: 'Registro FDA, marcado CE, pruebas UV y estándares ANSI -- guía paso a paso para vender gafas en EE.UU., la UE y globalmente.',
     date: '4 de mayo de 2026',
     category: 'Cumplimiento',
     readTime: '15 min de lectura',
@@ -68,7 +68,7 @@ const posts = [
   {
     slug: 'guia-importar-gafas',
     title: 'Cómo Importar Gafas de Sol desde China: Guía Completa 2026',
-    excerpt: 'Desde el otro lado de la ecuación — aprovisionamiento, envío, aranceles, control de calidad y los errores que veo cometer cada mes.',
+    excerpt: 'Desde el otro lado de la ecuación -- aprovisionamiento, envío, aranceles, control de calidad y los errores que veo cometer cada mes.',
     date: '4 de mayo de 2026',
     category: 'Aprovisionamiento',
     readTime: '16 min de lectura',
@@ -78,7 +78,7 @@ const posts = [
   {
     slug: 'fabricacion-sostenible-gafas',
     title: 'Fabricación Sostenible de Gafas de Sol: Materiales y Procesos Ecológicos',
-    excerpt: 'Bio-acetato, nylon reciclado, plástico oceánico, empaque ecológico — qué significa realmente "sostenible" en la producción de gafas y cuánto cuesta.',
+    excerpt: 'Bio-acetato, nylon reciclado, plástico oceánico, empaque ecológico -- qué significa realmente "sostenible" en la producción de gafas y cuánto cuesta.',
     date: '4 de mayo de 2026',
     category: 'Sostenibilidad',
     readTime: '13 min de lectura',
@@ -88,7 +88,7 @@ const posts = [
   {
     slug: 'gafas-segun-forma-rostro',
     title: 'Las Mejores Gafas de Sol según Tu Forma de Rostro: Guía Completa',
-    excerpt: 'Encuentra las gafas perfectas para tu forma de rostro — redondo, ovalado, cuadrado, corazón, oblongo. Con ejemplos reales y consejos de compra.',
+    excerpt: 'Encuentra las gafas perfectas para tu forma de rostro -- redondo, ovalado, cuadrado, corazón, oblongo. Con ejemplos reales y consejos de compra.',
     date: '4 de mayo de 2026',
     category: 'Guía de Estilo',
     readTime: '12 min de lectura',
@@ -98,7 +98,7 @@ const posts = [
   {
     slug: 'empaque-personalizado-gafas',
     title: 'Empaque Personalizado para Gafas de Sol: Guía Completa de Branding 2026',
-    excerpt: 'Cada opción de empaque desglosada — estuches rígidos, fundas, cajas retail, etiquetas y más. Costos reales por pieza y consejos de unboxing.',
+    excerpt: 'Cada opción de empaque desglosada -- estuches rígidos, fundas, cajas retail, etiquetas y más. Costos reales por pieza y consejos de unboxing.',
     date: '3 de mayo de 2026',
     category: 'Branding',
     readTime: '14 min de lectura',
@@ -118,7 +118,7 @@ const posts = [
   {
     slug: 'guia-recubrimientos-gafas',
     title: 'Guía de Recubrimientos para Gafas: Espejo, Antirreflejo, Hidrofóbico y Más',
-    excerpt: 'Cada tipo de recubrimiento desglosado — qué hace, cuánto cuesta y cuáles combinar. Costos reales de producción incluidos.',
+    excerpt: 'Cada tipo de recubrimiento desglosado -- qué hace, cuánto cuesta y cuáles combinar. Costos reales de producción incluidos.',
     date: '3 de mayo de 2026',
     category: 'Tecnología',
     readTime: '14 min de lectura',
@@ -138,7 +138,7 @@ const posts = [
   {
     slug: 'uv400-vs-polarizado',
     title: 'UV400 vs Polarizado: ¿Cuál es la Diferencia y Necesitas Ambos?',
-    excerpt: 'La diferencia real entre UV400 y polarizado — qué hace cada una, impacto en costos al por mayor y cuándo tu marca necesita una, ambas o ninguna.',
+    excerpt: 'La diferencia real entre UV400 y polarizado -- qué hace cada una, impacto en costos al por mayor y cuándo tu marca necesita una, ambas o ninguna.',
     date: '3 de mayo de 2026',
     category: 'Tecnología',
     readTime: '14 min de lectura',
@@ -168,7 +168,7 @@ const posts = [
   {
     slug: 'oem-vs-odm',
     title: 'OEM vs ODM en Gafas de Sol: ¿Cuál es la Diferencia? Guía Completa',
-    excerpt: 'Después de 3.000 conversaciones sobre OEM vs ODM, aquí va la versión honesta — costos reales, plazos reales y un marco de decisión que realmente te ayuda a elegir.',
+    excerpt: 'Después de 3.000 conversaciones sobre OEM vs ODM, aquí va la versión honesta -- costos reales, plazos reales y un marco de decisión que realmente te ayuda a elegir.',
     date: '20 de abril de 2026',
     category: 'Fabricación',
     readTime: '12 min de lectura',
@@ -178,7 +178,7 @@ const posts = [
   {
     slug: 'crear-marca-gafas',
     title: 'Cómo Crear tu Propia Marca de Gafas de Sol: Guía Completa',
-    excerpt: 'La guía completa desde la idea hasta la primera venta — investigación de mercado, aprovisionamiento, branding, precios y marketing. Todo lo que me hubiera gustado saber cuando empecé en 2006.',
+    excerpt: 'La guía completa desde la idea hasta la primera venta -- investigación de mercado, aprovisionamiento, branding, precios y marketing. Todo lo que me hubiera gustado saber cuando empecé en 2006.',
     date: '28 de marzo de 2026',
     category: 'Negocio',
     readTime: '10 min de lectura',
@@ -200,7 +200,7 @@ export default function BlogPage() {
             Directo Desde la Fábrica
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Información sin rodeos sobre fabricación de gafas de sol, aprovisionamiento y creación de marcas — 
+            Información sin rodeos sobre fabricación de gafas de sol, aprovisionamiento y creación de marcas -- 
             escrita por alguien que fabrica gafas desde 2006.
           </p>
           <div className="flex items-center justify-center gap-3 mt-6">
@@ -272,7 +272,7 @@ export default function BlogPage() {
             Recibe Novedades de Fábrica en tu Correo
           </h2>
           <p className="text-primary-100 mb-8 max-w-xl mx-auto">
-            Un email al mes. Sin relleno — solo consejos de fabricación, tendencias del mercado 
+            Un email al mes. Sin relleno -- solo consejos de fabricación, tendencias del mercado 
             y estrategias de aprovisionamiento que realmente te ayudan a construir una mejor marca.
           </p>
           <form className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">

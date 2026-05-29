@@ -35,7 +35,7 @@ const features = [
   {
     emoji: '🎨',
     title: 'Personnalisation Complète',
-    description: 'De la conception de la monture et la couleur des verres à la gravure du logo et l\'emballage personnalisé — nous donnons vie à votre vision de lunettes de soleil avec des capacités complètes de fabrication OEM et ODM.',
+    description: 'De la conception de la monture et la couleur des verres à la gravure du logo et l\'emballage personnalisé -- nous donnons vie à votre vision de lunettes de soleil avec des capacités complètes de fabrication OEM et ODM.',
   },
   {
     emoji: '💰',
@@ -55,7 +55,7 @@ const features = [
   {
     emoji: '📦',
     title: 'Quantité Minimum de Commande Faible',
-    description: 'Commencez avec seulement 50 pièces par style — parfait pour les nouvelles marques testant le marché, les boutiques et les campagnes promotionnelles. Sans engagement d\'inventaire massif.',
+    description: 'Commencez avec seulement 50 pièces par style -- parfait pour les nouvelles marques testant le marché, les boutiques et les campagnes promotionnelles. Sans engagement d\'inventaire massif.',
   },
   {
     emoji: '🌍',
@@ -79,7 +79,7 @@ const products = [
 ];
 
 const steps = [
-  { step: '01', title: 'Consultation Initiale', description: 'Partagez vos besoins — style, quantité, personnalisation et budget. Notre équipe offre des conseils experts pour vous aider à choisir les produits adaptés à votre marché.' },
+  { step: '01', title: 'Consultation Initiale', description: 'Partagez vos besoins -- style, quantité, personnalisation et budget. Notre équipe offre des conseils experts pour vous aider à choisir les produits adaptés à votre marché.' },
   { step: '02', title: 'Design et Échantillonnage', description: 'Nous créons des designs détaillés selon vos spécifications. Recevez des échantillons physiques en 5-7 jours ouvrables pour votre révision et approbation avant la production en série.' },
   { step: '03', title: 'Approbation et Production', description: 'Une fois les échantillons approuvés, nous lançons la production à grande échelle. Notre capacité gère des commandes de 50 à 100 000+ pièces avec un contrôle qualité constant.' },
   { step: '04', title: 'Inspection Qualité', description: 'Chaque lot passe par une inspection qualité complète en 6 points incluant des tests de protection UV, durabilité des charnières, clarté des verres et alignement des montures.' },
@@ -117,7 +117,7 @@ const faqs = [
   },
   {
     question: 'Comment démarrer une commande de lunettes de soleil en gros ?',
-    answer: 'Commencer est simple : 1) Contactez-nous par email à jacky@eyeviewsunglasses.com ou WhatsApp au +86-18850281211 avec vos besoins. 2) Notre équipe fournira un devis détaillé sous 24 heures. 3) Examinez et approuvez les échantillons. 4) Passez votre commande et nous nous occupons du reste. Nous accueillons aussi bien les primo-acheteurs que les marques établies.',
+    answer: 'Commencer est simple : 1) Contactez-nous par email à sales@eyeviewsunglasses.com ou WhatsApp au +86-18850281211 avec vos besoins. 2) Notre équipe fournira un devis détaillé sous 24 heures. 3) Examinez et approuvez les échantillons. 4) Passez votre commande et nous nous occupons du reste. Nous accueillons aussi bien les primo-acheteurs que les marques établies.',
   },
 ];
 
@@ -137,7 +137,7 @@ const howToJsonLd = {
       '@type': 'HowToStep',
       position: 1,
       name: 'Consultation Initiale',
-      text: 'Partagez vos besoins — style, quantité, personnalisation et budget. Notre équipe offre des conseils experts.',
+      text: 'Partagez vos besoins -- style, quantité, personnalisation et budget. Notre équipe offre des conseils experts.',
       url: 'https://eyeviewsunglasses.com/fr/contact/',
     },
     {

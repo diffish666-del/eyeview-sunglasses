@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'How Much Does It Cost to Start a Sunglasses Brand in 2026?',
-  description: 'A factory owner breaks down every cost to start a sunglasses brand — from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.',
+  description: 'A factory owner breaks down every cost to start a sunglasses brand -- from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.',
   keywords: 'sunglasses startup cost, start sunglasses brand cost, eyewear business investment, sunglasses brand budget, how much to start sunglasses company',
   alternates: {
     canonical: '/blog/sunglasses-startup-cost',
@@ -28,7 +28,7 @@ export default function SunglassesStartupCostPage() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "A factory owner breaks down every cost to start a sunglasses brand — from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.",
+          "description": "A factory owner breaks down every cost to start a sunglasses brand -- from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/sunglasses-startup-cost" }
         })}} />
 
@@ -77,7 +77,7 @@ export default function SunglassesStartupCostPage() {
             How Much Does It Cost to Start a Sunglasses Brand in 2026?
           </h1>
           <p className="text-xl text-gray-600">
-            I&apos;ve helped over 500 brands launch since 2006. Here&apos;s what they actually spent — no 
+            I&apos;ve helped over 500 brands launch since 2006. Here&apos;s what they actually spent -- no 
             sugar-coating, no &quot;it depends.&quot; Real budgets from real launches.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -125,10 +125,10 @@ export default function SunglassesStartupCostPage() {
           <p>
             On the other end, I&apos;ve had clients spend <strong>$80,000+ before selling a single pair</strong>. 
             Custom OEM designs, Italian acetate, premium packaging, professional photoshoots, influencer seeding 
-            — the works. They built a beautiful brand. But they also didn&apos;t break even for 14 months.
+            -- the works. They built a beautiful brand. But they also didn&apos;t break even for 14 months.
           </p>
           <p>
-            The sweet spot for most first-time founders? <strong>$8,000–$15,000</strong>. That gets you a 
+            The sweet spot for most first-time founders? <strong>$8,000-$15,000</strong>. That gets you a 
             professional-looking brand with 3-5 styles, proper packaging, a decent website, and enough 
             marketing budget to get your first 100 customers.
           </p>
@@ -150,10 +150,10 @@ export default function SunglassesStartupCostPage() {
             it costs:
           </p>
           <ul>
-            <li><strong>Product samples:</strong> $20–$60 per pair × 5-10 styles to evaluate = $100–$600</li>
-            <li><strong>First production run:</strong> $3.50–$8 per pair × 100-300 pairs per style × 2-3 styles = $700–$7,200</li>
-            <li><strong>Logo customization:</strong> $0–$50 per style for laser engraving or pad printing setup</li>
-            <li><strong>Total product cost (ODM):</strong> $900–$8,000</li>
+            <li><strong>Product samples:</strong> $20-$60 per pair × 5-10 styles to evaluate = $100-$600</li>
+            <li><strong>First production run:</strong> $3.50-$8 per pair × 100-300 pairs per style × 2-3 styles = $700-$7,200</li>
+            <li><strong>Logo customization:</strong> $0-$50 per style for laser engraving or pad printing setup</li>
+            <li><strong>Total product cost (ODM):</strong> $900-$8,000</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">OEM Route (Premium)</h3>
@@ -161,17 +161,17 @@ export default function SunglassesStartupCostPage() {
             Custom designs from scratch. More expensive, but the frames are exclusively yours.
           </p>
           <ul>
-            <li><strong>Mold/tooling:</strong> $800–$3,000 per style × 2-3 styles = $1,600–$9,000</li>
-            <li><strong>Design fees:</strong> $200–$800 per style if the factory helps with CAD refinement</li>
-            <li><strong>Samples:</strong> $50–$200 per pair × 2-3 rounds = $300–$1,200</li>
-            <li><strong>First production run:</strong> $5–$15 per pair × 300-500 pairs per style × 2-3 styles = $3,000–$22,500</li>
-            <li><strong>Total product cost (OEM):</strong> $5,100–$33,500</li>
+            <li><strong>Mold/tooling:</strong> $800-$3,000 per style × 2-3 styles = $1,600-$9,000</li>
+            <li><strong>Design fees:</strong> $200-$800 per style if the factory helps with CAD refinement</li>
+            <li><strong>Samples:</strong> $50-$200 per pair × 2-3 rounds = $300-$1,200</li>
+            <li><strong>First production run:</strong> $5-$15 per pair × 300-500 pairs per style × 2-3 styles = $3,000-$22,500</li>
+            <li><strong>Total product cost (OEM):</strong> $5,100-$33,500</li>
           </ul>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">💡 My Recommendation for First-Timers</h3>
             <p className="text-blue-800">
-              Start with 2-3 ODM styles, 150-200 pairs each. Total product investment: $1,500–$4,000. This gives 
+              Start with 2-3 ODM styles, 150-200 pairs each. Total product investment: $1,500-$4,000. This gives 
               you enough variety to test the market without betting everything on untested designs. Once you know 
               what sells, invest in OEM for your proven winners. Read more about this approach in our{' '}
               <Link href="/blog/start-sunglasses-brand" className="text-blue-700 underline">complete brand-starting guide</Link>.
@@ -187,7 +187,7 @@ export default function SunglassesStartupCostPage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Brand Identity</h3>
           <ul>
-            <li><strong>Logo design:</strong> $0 (DIY with Canva) to $500-$2,000 (professional designer). I&apos;d budget at least $200-$500 for a freelance designer on Fiverr or 99designs. Your logo goes on every frame, every case, every piece of marketing — it&apos;s worth getting right.</li>
+            <li><strong>Logo design:</strong> $0 (DIY with Canva) to $500-$2,000 (professional designer). I&apos;d budget at least $200-$500 for a freelance designer on Fiverr or 99designs. Your logo goes on every frame, every case, every piece of marketing -- it&apos;s worth getting right.</li>
             <li><strong>Brand guidelines:</strong> $0-$500. Color palette, typography, tone of voice. If you hire a designer for the logo, ask them to include basic guidelines.</li>
             <li><strong>Brand name &amp; domain:</strong> $10-$50/year for a .com domain. Budget $0-$500 if you need to buy a premium domain from someone who&apos;s squatting on it.</li>
           </ul>
@@ -199,17 +199,17 @@ export default function SunglassesStartupCostPage() {
             for the full breakdown, but here&apos;s the summary:
           </p>
           <ul>
-            <li><strong>Basic packaging (pouch + cleaning cloth + sticker):</strong> $0.50–$1.50 per pair</li>
-            <li><strong>Mid-range (custom hard case + branded cloth + box):</strong> $2–$5 per pair</li>
-            <li><strong>Premium (magnetic box + leather case + accessories):</strong> $5–$15 per pair</li>
-            <li><strong>Design files for packaging:</strong> $100–$500 if you hire a designer</li>
+            <li><strong>Basic packaging (pouch + cleaning cloth + sticker):</strong> $0.50-$1.50 per pair</li>
+            <li><strong>Mid-range (custom hard case + branded cloth + box):</strong> $2-$5 per pair</li>
+            <li><strong>Premium (magnetic box + leather case + accessories):</strong> $5-$15 per pair</li>
+            <li><strong>Design files for packaging:</strong> $100-$500 if you hire a designer</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Product Photography</h3>
           <ul>
             <li><strong>DIY (iPhone + natural light + white background):</strong> $0. Honestly, modern phones take great product shots. YouTube has hundreds of tutorials.</li>
-            <li><strong>Freelance photographer:</strong> $300–$1,500 for a full product shoot (flat lays, lifestyle shots, model shots for 3-5 styles)</li>
-            <li><strong>Professional studio shoot:</strong> $2,000–$8,000+ with models, styling, and retouching</li>
+            <li><strong>Freelance photographer:</strong> $300-$1,500 for a full product shoot (flat lays, lifestyle shots, model shots for 3-5 styles)</li>
+            <li><strong>Professional studio shoot:</strong> $2,000-$8,000+ with models, styling, and retouching</li>
           </ul>
           <p>
             My honest advice? Start with DIY or a $300-$500 freelancer. Your first photos don&apos;t need to be 
@@ -228,15 +228,15 @@ export default function SunglassesStartupCostPage() {
             <li><strong>Shopify Basic:</strong> $39/month + 2.9% transaction fees. This is what 70% of our clients use. It works, it&apos;s reliable, and you can set it up in a weekend.</li>
             <li><strong>WooCommerce (WordPress):</strong> $10-$30/month for hosting + free plugin. More customizable but requires more technical knowledge.</li>
             <li><strong>Squarespace Commerce:</strong> $33/month. Beautiful templates, less flexibility than Shopify.</li>
-            <li><strong>Custom website:</strong> $3,000–$15,000+. Only if you have a very specific vision and the budget to match.</li>
+            <li><strong>Custom website:</strong> $3,000-$15,000+. Only if you have a very specific vision and the budget to match.</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Essential E-Commerce Costs</h3>
           <ul>
             <li><strong>Shopify theme:</strong> $0 (free themes are solid) to $350 for a premium theme</li>
-            <li><strong>Essential apps:</strong> $0–$100/month (email marketing, reviews, analytics)</li>
+            <li><strong>Essential apps:</strong> $0-$100/month (email marketing, reviews, analytics)</li>
             <li><strong>Payment processing:</strong> Built into Shopify&apos;s transaction fees</li>
-            <li><strong>First-year e-commerce budget:</strong> $500–$2,000</li>
+            <li><strong>First-year e-commerce budget:</strong> $500-$2,000</li>
           </ul>
 
           {/* Compliance & Legal */}
@@ -248,12 +248,12 @@ export default function SunglassesStartupCostPage() {
             <Link href="/blog/fda-ce-certification-sunglasses" className="text-primary-600 hover:underline">FDA &amp; CE certification guide</Link>.
           </p>
           <ul>
-            <li><strong>Business registration (LLC):</strong> $50–$500 depending on your state/country</li>
-            <li><strong>Trademark registration:</strong> $250–$750 per class (do this early — protecting your brand name costs way less than fighting a trademark dispute later)</li>
-            <li><strong>Product liability insurance:</strong> $500–$2,000/year. Non-negotiable if you&apos;re selling eyewear. One defective pair that causes eye damage could sink your entire business.</li>
-            <li><strong>UV/compliance testing:</strong> $300–$800 per style. Your factory should provide basic UV400 certification, but independent testing gives you an extra layer of protection.</li>
+            <li><strong>Business registration (LLC):</strong> $50-$500 depending on your state/country</li>
+            <li><strong>Trademark registration:</strong> $250-$750 per class (do this early -- protecting your brand name costs way less than fighting a trademark dispute later)</li>
+            <li><strong>Product liability insurance:</strong> $500-$2,000/year. Non-negotiable if you&apos;re selling eyewear. One defective pair that causes eye damage could sink your entire business.</li>
+            <li><strong>UV/compliance testing:</strong> $300-$800 per style. Your factory should provide basic UV400 certification, but independent testing gives you an extra layer of protection.</li>
             <li><strong>CE marking (if selling in EU):</strong> Usually handled by the factory at no extra cost if they&apos;re already certified</li>
-            <li><strong>FDA registration (if selling in US):</strong> Free to register, but compliance testing adds $200–$500</li>
+            <li><strong>FDA registration (if selling in US):</strong> Free to register, but compliance testing adds $200-$500</li>
           </ul>
 
           <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg my-8">
@@ -276,8 +276,8 @@ export default function SunglassesStartupCostPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Social Media (Low Budget)</h3>
           <ul>
             <li><strong>Content creation:</strong> $0 (DIY with your phone) to $500-$2,000/month (freelance content creator)</li>
-            <li><strong>Paid ads (Meta/Instagram/TikTok):</strong> $500–$2,000/month to start. I&apos;d recommend $500/month minimum to test what works. Below that, you&apos;re not getting enough data to optimize.</li>
-            <li><strong>Influencer seeding:</strong> $0–$500. Send free pairs to 10-20 micro-influencers (5K-50K followers). Many will post for free product. Don&apos;t pay for posts until you know what converts.</li>
+            <li><strong>Paid ads (Meta/Instagram/TikTok):</strong> $500-$2,000/month to start. I&apos;d recommend $500/month minimum to test what works. Below that, you&apos;re not getting enough data to optimize.</li>
+            <li><strong>Influencer seeding:</strong> $0-$500. Send free pairs to 10-20 micro-influencers (5K-50K followers). Many will post for free product. Don&apos;t pay for posts until you know what converts.</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">SEO &amp; Content Marketing (Slow but Free-ish)</h3>
@@ -291,7 +291,7 @@ export default function SunglassesStartupCostPage() {
           <ul>
             <li><strong>Press release distribution:</strong> $0 (pitch journalists directly) to $300-$500 (PR Newswire)</li>
             <li><strong>Launch event:</strong> $0 (Instagram Live launch) to $2,000-$10,000 (physical pop-up)</li>
-            <li><strong>PR agency:</strong> $2,000–$5,000/month. Not recommended for launch — you can DIY press outreach at this stage.</li>
+            <li><strong>PR agency:</strong> $2,000-$5,000/month. Not recommended for launch -- you can DIY press outreach at this stage.</li>
           </ul>
 
           {/* Hidden Costs */}
@@ -301,12 +301,12 @@ export default function SunglassesStartupCostPage() {
             and I&apos;ve watched them blindside first-time founders more times than I can count.
           </p>
           <ul>
-            <li><strong>Shipping from factory:</strong> Sea freight runs $1–$3 per pair (for orders of 500+ pairs). Air freight is $3–$8 per pair but gets your product in 5-7 days instead of 25-35.</li>
+            <li><strong>Shipping from factory:</strong> Sea freight runs $1-$3 per pair (for orders of 500+ pairs). Air freight is $3-$8 per pair but gets your product in 5-7 days instead of 25-35.</li>
             <li><strong>Import duties:</strong> 2% for sunglasses entering the US (HTS code 9004.10). EU is typically 2.9%. These aren&apos;t huge percentages, but they add up on large orders.</li>
-            <li><strong>Customs broker:</strong> $150–$300 per shipment if you use one. You can self-clear through CBP for smaller shipments.</li>
-            <li><strong>Returns and defects:</strong> Budget 3–5% of your inventory value. Even with great QC, some pairs come back. That&apos;s retail.</li>
-            <li><strong>Shipping to customers:</strong> $3–$7 per order (USPS First Class or equivalent). Free shipping is table stakes in 2026 — build it into your price.</li>
-            <li><strong>Accounting software:</strong> $15–$50/month (QuickBooks, Xero). You need to track costs from day one.</li>
+            <li><strong>Customs broker:</strong> $150-$300 per shipment if you use one. You can self-clear through CBP for smaller shipments.</li>
+            <li><strong>Returns and defects:</strong> Budget 3-5% of your inventory value. Even with great QC, some pairs come back. That&apos;s retail.</li>
+            <li><strong>Shipping to customers:</strong> $3-$7 per order (USPS First Class or equivalent). Free shipping is table stakes in 2026 -- build it into your price.</li>
+            <li><strong>Accounting software:</strong> $15-$50/month (QuickBooks, Xero). You need to track costs from day one.</li>
             <li><strong>Reorders:</strong> Your first order won&apos;t last forever. Budget for a reorder 2-3 months after launch. Many brands forget this and go out of stock right when momentum builds.</li>
           </ul>
 
@@ -320,19 +320,19 @@ export default function SunglassesStartupCostPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">The $5,000 Bootstrap Launch</h3>
           <div className="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg my-8">
             <ul className="text-green-800 space-y-2">
-              <li><strong>Product:</strong> 2 ODM styles × 150 pairs each = $1,500–$2,400</li>
-              <li><strong>Packaging:</strong> Basic pouch + cloth + sticker = $150–$300</li>
-              <li><strong>Branding:</strong> Fiverr logo + DIY brand = $100–$300</li>
+              <li><strong>Product:</strong> 2 ODM styles × 150 pairs each = $1,500-$2,400</li>
+              <li><strong>Packaging:</strong> Basic pouch + cloth + sticker = $150-$300</li>
+              <li><strong>Branding:</strong> Fiverr logo + DIY brand = $100-$300</li>
               <li><strong>Website:</strong> Shopify Basic + free theme = $100 (3 months)</li>
               <li><strong>Photography:</strong> DIY iPhone shots = $0</li>
-              <li><strong>Legal:</strong> LLC registration = $100–$300</li>
-              <li><strong>Marketing:</strong> $500–$1,000 in Meta ads + influencer seeding</li>
-              <li><strong>Shipping/duties:</strong> $200–$400</li>
-              <li className="font-bold pt-2 border-t border-green-300">Total: $2,650–$4,700</li>
+              <li><strong>Legal:</strong> LLC registration = $100-$300</li>
+              <li><strong>Marketing:</strong> $500-$1,000 in Meta ads + influencer seeding</li>
+              <li><strong>Shipping/duties:</strong> $200-$400</li>
+              <li className="font-bold pt-2 border-t border-green-300">Total: $2,650-$4,700</li>
             </ul>
           </div>
           <p>
-            This works. I&apos;ve seen it work. A woman from Denver did almost exactly this in 2024 — two styles, 
+            This works. I&apos;ve seen it work. A woman from Denver did almost exactly this in 2024 -- two styles, 
             100 pairs each, sold through Instagram and a basic Shopify store. She sold out in 8 weeks and 
             reinvested into 5 styles for her second order.
           </p>
@@ -340,16 +340,16 @@ export default function SunglassesStartupCostPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">The $15,000 Serious Launch</h3>
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <ul className="text-blue-800 space-y-2">
-              <li><strong>Product:</strong> 3 ODM styles + 1 OEM style × 200-300 pairs each = $4,000–$7,000</li>
-              <li><strong>Packaging:</strong> Custom hard cases + branded boxes = $800–$1,500</li>
-              <li><strong>Branding:</strong> Professional logo + guidelines = $500–$1,000</li>
-              <li><strong>Website:</strong> Shopify + premium theme + key apps = $500–$800</li>
-              <li><strong>Photography:</strong> Freelance shoot with model = $500–$1,500</li>
-              <li><strong>Legal:</strong> LLC + trademark + insurance = $1,000–$2,000</li>
-              <li><strong>Compliance:</strong> UV testing + CE/FDA = $500–$1,000</li>
-              <li><strong>Marketing:</strong> $2,000–$3,000 (ads + content + influencers)</li>
-              <li><strong>Shipping/duties:</strong> $500–$1,000</li>
-              <li className="font-bold pt-2 border-t border-blue-300">Total: $10,300–$18,800</li>
+              <li><strong>Product:</strong> 3 ODM styles + 1 OEM style × 200-300 pairs each = $4,000-$7,000</li>
+              <li><strong>Packaging:</strong> Custom hard cases + branded boxes = $800-$1,500</li>
+              <li><strong>Branding:</strong> Professional logo + guidelines = $500-$1,000</li>
+              <li><strong>Website:</strong> Shopify + premium theme + key apps = $500-$800</li>
+              <li><strong>Photography:</strong> Freelance shoot with model = $500-$1,500</li>
+              <li><strong>Legal:</strong> LLC + trademark + insurance = $1,000-$2,000</li>
+              <li><strong>Compliance:</strong> UV testing + CE/FDA = $500-$1,000</li>
+              <li><strong>Marketing:</strong> $2,000-$3,000 (ads + content + influencers)</li>
+              <li><strong>Shipping/duties:</strong> $500-$1,000</li>
+              <li className="font-bold pt-2 border-t border-blue-300">Total: $10,300-$18,800</li>
             </ul>
           </div>
           <p>
@@ -361,16 +361,16 @@ export default function SunglassesStartupCostPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">The $50,000 Premium Launch</h3>
           <div className="bg-purple-50 border-l-4 border-purple-500 p-6 rounded-r-lg my-8">
             <ul className="text-purple-800 space-y-2">
-              <li><strong>Product:</strong> 5 OEM styles × 500 pairs each = $15,000–$30,000</li>
-              <li><strong>Packaging:</strong> Premium magnetic boxes + leather cases = $3,000–$5,000</li>
-              <li><strong>Branding:</strong> Full brand identity package = $2,000–$5,000</li>
-              <li><strong>Website:</strong> Custom design or premium Shopify build = $3,000–$8,000</li>
-              <li><strong>Photography:</strong> Professional studio + models + video = $3,000–$8,000</li>
-              <li><strong>Legal:</strong> LLC + trademark + insurance + lawyer review = $2,000–$4,000</li>
-              <li><strong>Compliance:</strong> Full testing suite = $1,000–$2,000</li>
-              <li><strong>Marketing:</strong> $5,000–$10,000 (ads + PR + influencers + launch event)</li>
-              <li><strong>Shipping/duties:</strong> $1,500–$3,000</li>
-              <li className="font-bold pt-2 border-t border-purple-300">Total: $35,500–$75,000</li>
+              <li><strong>Product:</strong> 5 OEM styles × 500 pairs each = $15,000-$30,000</li>
+              <li><strong>Packaging:</strong> Premium magnetic boxes + leather cases = $3,000-$5,000</li>
+              <li><strong>Branding:</strong> Full brand identity package = $2,000-$5,000</li>
+              <li><strong>Website:</strong> Custom design or premium Shopify build = $3,000-$8,000</li>
+              <li><strong>Photography:</strong> Professional studio + models + video = $3,000-$8,000</li>
+              <li><strong>Legal:</strong> LLC + trademark + insurance + lawyer review = $2,000-$4,000</li>
+              <li><strong>Compliance:</strong> Full testing suite = $1,000-$2,000</li>
+              <li><strong>Marketing:</strong> $5,000-$10,000 (ads + PR + influencers + launch event)</li>
+              <li><strong>Shipping/duties:</strong> $1,500-$3,000</li>
+              <li className="font-bold pt-2 border-t border-purple-300">Total: $35,500-$75,000</li>
             </ul>
           </div>
           <p>
@@ -402,7 +402,7 @@ export default function SunglassesStartupCostPage() {
           </p>
           <p>
             The margins on sunglasses are genuinely excellent. That&apos;s why this business attracts so many 
-            entrepreneurs — and why the{' '}
+            entrepreneurs -- and why the{' '}
             <Link href="/blog/sunglasses-pricing-strategy" className="text-primary-600 hover:underline">pricing strategy</Link>{' '}
             you choose matters so much.
           </p>
@@ -410,7 +410,7 @@ export default function SunglassesStartupCostPage() {
           {/* How to Save Money */}
           <h2 id="save-money" className="text-3xl font-bold mt-16 mb-6">How to Save Money Without Cutting Corners</h2>
           <p>
-            After watching hundreds of launches, here are the money-saving moves that work — and the ones 
+            After watching hundreds of launches, here are the money-saving moves that work -- and the ones 
             that backfire.
           </p>
 
@@ -440,9 +440,9 @@ export default function SunglassesStartupCostPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">How much does it cost to start a sunglasses brand?</h3>
               <p className="text-gray-600">
-                Bootstrap launch: $3,000–$5,000 (ODM, basic branding, Shopify). Serious launch: $10,000–$25,000 
-                (mix of ODM/OEM, professional branding, real marketing budget). Premium launch: $30,000–$50,000+ 
-                (full OEM, custom everything). Most successful first-time brands start in the $8,000–$15,000 range.
+                Bootstrap launch: $3,000-$5,000 (ODM, basic branding, Shopify). Serious launch: $10,000-$25,000 
+                (mix of ODM/OEM, professional branding, real marketing budget). Premium launch: $30,000-$50,000+ 
+                (full OEM, custom everything). Most successful first-time brands start in the $8,000-$15,000 range.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
@@ -472,7 +472,7 @@ export default function SunglassesStartupCostPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Is a sunglasses brand profitable?</h3>
               <p className="text-gray-600">
-                Yes — sunglasses brands can be very profitable due to high margins and repeat purchases. Most of 
+                Yes -- sunglasses brands can be very profitable due to high margins and repeat purchases. Most of 
                 our successful clients break even within 3-6 months and reach profitability within year one. The 
                 global eyewear market is projected to exceed $270 billion by 2028, with independent brands 
                 capturing an increasing share.
@@ -484,7 +484,7 @@ export default function SunglassesStartupCostPage() {
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">Ready to Get a Real Quote for Your Brand?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              I&apos;ll give you an honest cost breakdown based on your specific plans — number of styles, 
+              I&apos;ll give you an honest cost breakdown based on your specific plans -- number of styles, 
               quantities, materials, packaging. No surprises, no hidden fees. Just the real numbers you 
               need to make a smart decision.
             </p>
@@ -499,15 +499,15 @@ export default function SunglassesStartupCostPage() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/products/promotional" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Promotional Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Starting from $0.80/pair — perfect for brand launches and event marketing.</p>
+                <p className="text-gray-600 text-sm">Starting from $0.80/pair -- perfect for brand launches and event marketing.</p>
               </Link>
               <Link href="/products/prescription" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Prescription Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Custom Rx options — single vision, progressive, polarized. 2-3x retail price.</p>
+                <p className="text-gray-600 text-sm">Custom Rx options -- single vision, progressive, polarized. 2-3x retail price.</p>
               </Link>
               <Link href="/products/eco-friendly" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Eco-Friendly Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Sustainable materials — 30-50% retail premium with verified eco credentials.</p>
+                <p className="text-gray-600 text-sm">Sustainable materials -- 30-50% retail premium with verified eco credentials.</p>
               </Link>
             </div>
           </div>
@@ -518,7 +518,7 @@ export default function SunglassesStartupCostPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/blog/start-sunglasses-brand" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">How to Start a Sunglasses Brand: Complete Guide</h3>
-                <p className="text-gray-600 text-sm">The full playbook from idea to first sale — everything beyond just the costs.</p>
+                <p className="text-gray-600 text-sm">The full playbook from idea to first sale -- everything beyond just the costs.</p>
               </Link>
               <Link href="/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM Sunglasses: What&apos;s the Difference?</h3>

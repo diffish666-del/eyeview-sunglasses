@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Montures TR90 vs Acétate vs Métal: Guide Complet de l\'Acheteur 2026',
-  description: 'Un propriétaire d\'usine explique les vraies différences entre les montures TR90, acétate et métal — durabilité, poids, coût, et quel matériau est bon pour votre marque.',
+  description: 'Un propriétaire d\'usine explique les vraies différences entre les montures TR90, acétate et métal -- durabilité, poids, coût, et quel matériau est bon pour votre marque.',
   keywords: 'TR90 vs acétate vs métal lunettes, matériaux montures lunettes, montures TR90, montures acétate, montures métal, lunettes légères, lunettes flexibles, montures lunettes gros',
   alternates: {
     canonical: '/fr/blog/montures-tr90-acetate-metal',
@@ -27,7 +27,7 @@ export default function Page() {
           "dateModified": "2026-05-23",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondateur", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un propriétaire d'usine explique les vraies différences entre les montures TR90, acétate et métal — durabilité, poids, coût, et quel matériau est bon pour votre marque.",
+          "description": "Un propriétaire d'usine explique les vraies différences entre les montures TR90, acétate et métal -- durabilité, poids, coût, et quel matériau est bon pour votre marque.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/fr/blog/montures-tr90-acetate-metal" },
           "inLanguage": "fr"
         })}} />
@@ -36,8 +36,8 @@ export default function Page() {
           "@context": "https://schema.org",
           "@type": "FAQPage",
           "mainEntity": [
-            { "@type": "Question", "name": "Quel matériau de monture est le plus durable?", "acceptedAnswer": { "@type": "Answer", "text": "Le TR90 est le plus durable pour la résistance aux chocs et la flexibilité — il peut se plier et reprendre sa forme sans se casser. L'acétate est durable pour un usage quotidien mais peut se fissurer sous un stress extrême. Les montures en métal sont solides mais peuvent se déformer et sont plus difficiles à réparer. Pour les sports actifs ou les enfants, le TR90 est le clair gagnant." } },
-            { "@type": "Question", "name": "Quel matériau de monture est le plus léger?", "acceptedAnswer": { "@type": "Answer", "text": "Le TR90 est le plus léger — une monture TR90 typique pèse 15-20 grammes. Les montures en métal sont les suivantes à 20-30 grammes selon l'alliage. L'acétate est le plus lourd à 25-40 grammes car il est sculpté dans des blocs solides de matériau. Si le poids est votre priorité, le TR90 est le meilleur choix." } },
+            { "@type": "Question", "name": "Quel matériau de monture est le plus durable?", "acceptedAnswer": { "@type": "Answer", "text": "Le TR90 est le plus durable pour la résistance aux chocs et la flexibilité -- il peut se plier et reprendre sa forme sans se casser. L'acétate est durable pour un usage quotidien mais peut se fissurer sous un stress extrême. Les montures en métal sont solides mais peuvent se déformer et sont plus difficiles à réparer. Pour les sports actifs ou les enfants, le TR90 est le clair gagnant." } },
+            { "@type": "Question", "name": "Quel matériau de monture est le plus léger?", "acceptedAnswer": { "@type": "Answer", "text": "Le TR90 est le plus léger -- une monture TR90 typique pèse 15-20 grammes. Les montures en métal sont les suivantes à 20-30 grammes selon l'alliage. L'acétate est le plus lourd à 25-40 grammes car il est sculpté dans des blocs solides de matériau. Si le poids est votre priorité, le TR90 est le meilleur choix." } },
             { "@type": "Question", "name": "Quel matériau de monture est le meilleur pour les lunettes de mode?", "acceptedAnswer": { "@type": "Answer", "text": "L'acétate est la norme d'or pour les lunettes de mode. Il peut être coupé en formes audacieuses et épaisses, poli à haute brillance, et vient en centaines de couleurs et motifs (tortue, marbre, dégradé, transparent). Les marques de luxe comme Tom Ford, Gucci et Prada utilisent presque exclusivement l'acétate." } },
             { "@type": "Question", "name": "Combien coûtent les différents matériaux de monture en gros?", "acceptedAnswer": { "@type": "Answer", "text": "En gros en usine: les montures TR90 coûtent 3-8$/paire selon la complexité. Les montures en acétate coûtent 5-15$/paire (l'acétate premium poli à la main peut atteindre 20$+). Les montures en métal coûtent 4-12$/paire selon l'alliage et le placage." } },
             { "@type": "Question", "name": "Les montures en métal sont-elles meilleures pour les personnes allergiques?", "acceptedAnswer": { "@type": "Answer", "text": "Cela dépend du métal. L'acier inoxydable et le titane sont hypoallergéniques et sûrs pour les peaux sensibles. Cependant, certains alliages métalliques moins chers contiennent du nickel, qui peut provoquer des réactions allergiques. Si vous cherchez des montures en métal pour une marque, spécifiez toujours des alliages sans nickel." } }
@@ -88,9 +88,9 @@ export default function Page() {
             Quand vous sourcez des lunettes de soleil pour votre marque, vous choisissez essentiellement entre trois matériaux de monture:
           </p>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>TR90</strong> — Un thermoplastique flexible et ultra-léger de Suisse (Gril TR90 est la version premium)</li>
-            <li><strong>Acétate</strong> — Un plastique d'origine végétale sculpté et poli en formes audacieuses et premium</li>
-            <li><strong>Métal</strong> — Montures en acier inoxydable, aluminium ou titane pour un look classique et élégant</li>
+            <li><strong>TR90</strong> -- Un thermoplastique flexible et ultra-léger de Suisse (Gril TR90 est la version premium)</li>
+            <li><strong>Acétate</strong> -- Un plastique d'origine végétale sculpté et poli en formes audacieuses et premium</li>
+            <li><strong>Métal</strong> -- Montures en acier inoxydable, aluminium ou titane pour un look classique et élégant</li>
           </ul>
           <p className="text-gray-700 mb-4">
             Chacun a ses forces et ses faiblesses. Aucun n'est le &quot;meilleur&quot; partout. Le bon choix dépend du positionnement de votre marque, votre client cible et votre point de prix.
@@ -107,12 +107,12 @@ export default function Page() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Caractéristiques Clés</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Poids:</strong> 15-20 grammes par monture — l'option la plus légère disponible</li>
+            <li><strong>Poids:</strong> 15-20 grammes par monture -- l'option la plus légère disponible</li>
             <li><strong>Flexibilité:</strong> Peut se plier significativement et reprendre sa forme sans se casser</li>
-            <li><strong>Résistance aux chocs:</strong> Extrêmement élevée — survit aux chutes, aux assises et aux piétinements</li>
+            <li><strong>Résistance aux chocs:</strong> Extrêmement élevée -- survit aux chutes, aux assises et aux piétinements</li>
             <li><strong>Finition de surface:</strong> Mat ou semi-brillant, ne peut pas être poli à haute brillance comme l'acétate</li>
-            <li><strong>Options de couleur:</strong> Limitées aux couleurs moulées par injection — pas de motifs tortue, marbre ou en couches</li>
-            <li><strong>Hypoallergénique:</strong> Oui — sûr pour tous les types de peau</li>
+            <li><strong>Options de couleur:</strong> Limitées aux couleurs moulées par injection -- pas de motifs tortue, marbre ou en couches</li>
+            <li><strong>Hypoallergénique:</strong> Oui -- sûr pour tous les types de peau</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Idéal Pour</h3>
@@ -125,7 +125,7 @@ export default function Page() {
           </ul>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-4 mb-6">
-            <p className="text-blue-800 font-medium">💡 Conseil d'Usine: Si vous cherchez du TR90, demandez &quot;Gril TR90&quot; (l'original suisse) plutôt que du TR90 générique. La différence de qualité est notable — meilleure flexibilité, meilleure cohérence de couleur et moins de risque de déformation avec le temps.</p>
+            <p className="text-blue-800 font-medium">💡 Conseil d'Usine: Si vous cherchez du TR90, demandez &quot;Gril TR90&quot; (l'original suisse) plutôt que du TR90 générique. La différence de qualité est notable -- meilleure flexibilité, meilleure cohérence de couleur et moins de risque de déformation avec le temps.</p>
           </div>
         </section>
 
@@ -139,12 +139,12 @@ export default function Page() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Caractéristiques Clés</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Poids:</strong> 25-40 grammes par monture — l'option la plus lourde</li>
-            <li><strong>Flexibilité:</strong> Faible — rigide et substantiel, peut se fissurer sous un stress extrême</li>
+            <li><strong>Poids:</strong> 25-40 grammes par monture -- l'option la plus lourde</li>
+            <li><strong>Flexibilité:</strong> Faible -- rigide et substantiel, peut se fissurer sous un stress extrême</li>
             <li><strong>Finition de surface:</strong> Poli haute brillance, sensation riche et premium</li>
-            <li><strong>Options de couleur:</strong> Virtuellement illimitées — couleurs unies, tortue, marbre, dégradé, transparent, couches, motifs mixtes</li>
-            <li><strong>Options de forme:</strong> Audacieuses, épaisses, sculpturales — l'acétate peut être sculpté en n'importe quelle forme</li>
-            <li><strong>Hypoallergénique:</strong> Oui — d'origine végétale, sûr pour les peaux sensibles</li>
+            <li><strong>Options de couleur:</strong> Virtuellement illimitées -- couleurs unies, tortue, marbre, dégradé, transparent, couches, motifs mixtes</li>
+            <li><strong>Options de forme:</strong> Audacieuses, épaisses, sculpturales -- l'acétate peut être sculpté en n'importe quelle forme</li>
+            <li><strong>Hypoallergénique:</strong> Oui -- d'origine végétale, sûr pour les peaux sensibles</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Idéal Pour</h3>
@@ -157,7 +157,7 @@ export default function Page() {
           </ul>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-4 mb-6">
-            <p className="text-amber-800 font-medium">🔥 Conseil d'Usine: La qualité de l'acétate varie considérablement selon l'origine. L'acétate italien (de Mazza ou Albini) est la norme d'or — couleurs plus riches, meilleur poli, matériau plus consistant. L'acétate chinois est moins cher mais peut paraître plat et terne. Pour une marque premium, insistez sur l'acétate italien.</p>
+            <p className="text-amber-800 font-medium">🔥 Conseil d'Usine: La qualité de l'acétate varie considérablement selon l'origine. L'acétate italien (de Mazza ou Albini) est la norme d'or -- couleurs plus riches, meilleur poli, matériau plus consistant. L'acétate chinois est moins cher mais peut paraître plat et terne. Pour une marque premium, insistez sur l'acétate italien.</p>
           </div>
         </section>
 
@@ -172,17 +172,17 @@ export default function Page() {
             <li><strong>Acier inoxydable:</strong> Le plus courant, bon équilibre de résistance et de coût</li>
             <li><strong>Titane:</strong> Premium, léger, hypoallergénique, plus cher</li>
             <li><strong>Aluminium:</strong> Très léger, look moderne, moins courant</li>
-            <li><strong>Nickel argent (Monel):</strong> Bon marché, facile à travailler, mais peut causer des allergies — à éviter pour les marques premium</li>
+            <li><strong>Nickel argent (Monel):</strong> Bon marché, facile à travailler, mais peut causer des allergies -- à éviter pour les marques premium</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Caractéristiques Clés</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Poids:</strong> 20-30 grammes par monture — poids moyen</li>
-            <li><strong>Flexibilité:</strong> Faible à moyenne — peut se plier mais peut ne pas reprendre sa forme</li>
+            <li><strong>Poids:</strong> 20-30 grammes par monture -- poids moyen</li>
+            <li><strong>Flexibilité:</strong> Faible à moyenne -- peut se plier mais peut ne pas reprendre sa forme</li>
             <li><strong>Finition de surface:</strong> Peut être plaqué or, argent, or rose, gunmetal, noir mat, etc.</li>
-            <li><strong>Options de forme:</strong> Designs minces, élégants, fil de fer — ne peut pas faire de looks audacieux/épais</li>
-            <li><strong>Durabilité:</strong> Forte mais les charnières sont le point faible — le métal fatigue avec le temps</li>
-            <li><strong>Hypoallergénique:</strong> Dépend de l'alliage — l'acier inoxydable et le titane sont sûrs, les alliages de nickel ne le sont pas</li>
+            <li><strong>Options de forme:</strong> Designs minces, élégants, fil de fer -- ne peut pas faire de looks audacieux/épais</li>
+            <li><strong>Durabilité:</strong> Forte mais les charnières sont le point faible -- le métal fatigue avec le temps</li>
+            <li><strong>Hypoallergénique:</strong> Dépend de l'alliage -- l'acier inoxydable et le titane sont sûrs, les alliages de nickel ne le sont pas</li>
           </ul>
 
           <div className="bg-red-50 border-l-4 border-red-500 p-4 mb-6">
@@ -264,14 +264,14 @@ export default function Page() {
             <div className="bg-gray-50 rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Quel matériau de monture est le plus durable?</h3>
               <p className="text-gray-700">
-                Le TR90 est le plus durable pour la résistance aux chocs et la flexibilité — il peut se plier et reprendre sa forme sans se casser. L'acétate est durable pour un usage quotidien mais peut se fissurer sous un stress extrême. Les montures en métal sont fortes mais peuvent se déformer et sont plus difficiles à réparer. Pour les sports actifs ou les enfants, le TR90 est le clair gagnant. Pour les lignes axées sur la mode, l'acétate offre le meilleur équilibre de durabilité et de sensation premium.
+                Le TR90 est le plus durable pour la résistance aux chocs et la flexibilité -- il peut se plier et reprendre sa forme sans se casser. L'acétate est durable pour un usage quotidien mais peut se fissurer sous un stress extrême. Les montures en métal sont fortes mais peuvent se déformer et sont plus difficiles à réparer. Pour les sports actifs ou les enfants, le TR90 est le clair gagnant. Pour les lignes axées sur la mode, l'acétate offre le meilleur équilibre de durabilité et de sensation premium.
               </p>
             </div>
 
             <div className="bg-gray-50 rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Quel matériau de monture est le plus léger?</h3>
               <p className="text-gray-700">
-                Le TR90 est le plus léger — une monture TR90 typique pèse 15-20 grammes. Les montures en métal sont les suivantes à 20-30 grammes selon l'alliage. L'acétate est le plus lourd à 25-40 grammes car il est sculpté dans des blocs solides de matériau. Si le poids est votre priorité (pour le confort toute la journée ou les lunettes de soleil pour enfants), le TR90 est le meilleur choix.
+                Le TR90 est le plus léger -- une monture TR90 typique pèse 15-20 grammes. Les montures en métal sont les suivantes à 20-30 grammes selon l'alliage. L'acétate est le plus lourd à 25-40 grammes car il est sculpté dans des blocs solides de matériau. Si le poids est votre priorité (pour le confort toute la journée ou les lunettes de soleil pour enfants), le TR90 est le meilleur choix.
               </p>
             </div>
 
@@ -301,7 +301,7 @@ export default function Page() {
         <div className="bg-gradient-to-r from-primary-600 to-primary-700 rounded-2xl p-8 text-white text-center">
           <h2 className="text-3xl font-bold mb-4">Prêt à Source les Bonnes Montures?</h2>
           <p className="text-xl mb-6 opacity-90">
-            Que vous ayez besoin de TR90 pour la performance, d'acétate pour la mode, ou de métal pour le style classique — nous vous aiderons à trouver la monture parfaite pour votre marque.
+            Que vous ayez besoin de TR90 pour la performance, d'acétate pour la mode, ou de métal pour le style classique -- nous vous aiderons à trouver la monture parfaite pour votre marque.
           </p>
           <Link 
             href="/fr/contact" 

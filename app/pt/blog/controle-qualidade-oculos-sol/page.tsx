@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Controle de Qualidade de Óculos de Sol: Checklist de Inspeção de Fábrica',
-  description: 'Um dono de fábrica compartilha o checklist completo de QC para óculos — lens testing, frame inspection, hinge checks, UV verification, and what to look for before approving production.',
+  description: 'Um dono de fábrica compartilha o checklist completo de QC para óculos -- lens testing, frame inspection, hinge checks, UV verification, and what to look for before approving production.',
   keywords: 'controle qualidade óculos de sol, inspeção eyewear, padrões teste óculos, checklist QC óculos, defeitos óculos',
   alternates: {
     canonical: '/pt/blog/controle-qualidade-oculos-sol',
@@ -27,7 +27,7 @@ export default function SunglassesQualityControlPage() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Um dono de fábrica compartilha o checklist completo de QC para óculos — from lens testing to packaging inspection.",
+          "description": "Um dono de fábrica compartilha o checklist completo de QC para óculos -- from lens testing to packaging inspection.",
           "inLanguage": "pt",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/pt/blog/controle-qualidade-oculos-sol" }
         })}} />
@@ -39,7 +39,7 @@ export default function SunglassesQualityControlPage() {
             {
               "@type": "Question",
               "name": "What should I check when inspecting sunglasses quality?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Key quality checks: lens clarity (no distortion, bubbles, or scratches), UV400 protection verification, hinge tension and smoothness, frame symmetry, color consistency across the batch, logo placement accuracy, nose pad alignment, and overall finish quality. Hold each pair up to text — any waviness or distortion in the text indicates poor optical quality." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Key quality checks: lens clarity (no distortion, bubbles, or scratches), UV400 protection verification, hinge tension and smoothness, frame symmetry, color consistency across the batch, logo placement accuracy, nose pad alignment, and overall finish quality. Hold each pair up to text -- any waviness or distortion in the text indicates poor optical quality." }
             },
             {
               "@type": "Question",
@@ -49,7 +49,7 @@ export default function SunglassesQualityControlPage() {
             {
               "@type": "Question",
               "name": "How much does third-party sunglasses inspection cost?",
-              "acceptedAnswer": { "@type": "Answer", "text": "A standard pre-shipment inspection by companies like SGS, Bureau Veritas, or QIMA costs $200-$400 per inspection (one man-day). This covers a statistical sample of your order based on AQL standards. Full-day inspections for larger orders cost $300-$600. It's one of the best investments you can make — catching quality issues before shipping saves 10-50x the inspection cost." }
+              "acceptedAnswer": { "@type": "Answer", "text": "A standard pre-shipment inspection by companies like SGS, Bureau Veritas, or QIMA costs $200-$400 per inspection (one man-day). This covers a statistical sample of your order based on AQL standards. Full-day inspections for larger orders cost $300-$600. It's one of the best investments you can make -- catching quality issues before shipping saves 10-50x the inspection cost." }
             },
             {
               "@type": "Question",
@@ -104,7 +104,7 @@ export default function SunglassesQualityControlPage() {
           <p className="text-xl text-gray-600 mb-8">
             Um cliente me disse uma vez: &quot;Jacky, CQ é chato.&quot; Eu respondi: &quot;Lidar com 
             200 reclamações de clientes e uma taxa de devolução de 15% também é.&quot; Controle de qualidade é a parte menos 
-            empolgante do negócio de óculos de sol — e a mais importante. Aqui está o sistema que funciona.
+            empolgante do negócio de óculos de sol -- e a mais importante. Aqui está o sistema que funciona.
           </p>
 
           <h2 id="why-qc" className="text-3xl font-bold mt-16 mb-6">Por que CQ Não é Negociável</h2>
@@ -144,7 +144,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Verificação de polarização:</strong> Se polarizadas, verifique com a tela de um celular — girar os óculos 90° deve escurecer/clarear a tela. Ambas as lentes devem reagir de forma idêntica. Veja nosso{' '}
+                <div><strong>Verificação de polarização:</strong> Se polarizadas, verifique com a tela de um celular -- girar os óculos 90° deve escurecer/clarear a tela. Ambas as lentes devem reagir de forma idêntica. Veja nosso{' '}
                   <Link href="/pt/blog/uv400-vs-polarizado" className="text-primary-600 hover:underline">guia UV400 vs polarizado</Link>{' '}
                   para mais informações sobre testes de polarização.
                 </div>
@@ -161,7 +161,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Encaixe das lentes:</strong> As lentes devem ficar perfeitamente encaixadas na armação, sem folgas, rotação ou movimento. Pressione suavemente — não deve haver nenhuma folga.</div>
+                <div><strong>Encaixe das lentes:</strong> As lentes devem ficar perfeitamente encaixadas na armação, sem folgas, rotação ou movimento. Pressione suavemente -- não deve haver nenhuma folga.</div>
               </li>
             </ul>
           </div>
@@ -177,7 +177,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Consistência de cor:</strong> Compare 5-10 pares do mesmo lote. A cor deve ser uniforme. O acetato pode variar levemente entre as chapas — aceitável dentro de um tom.</div>
+                <div><strong>Consistência de cor:</strong> Compare 5-10 pares do mesmo lote. A cor deve ser uniforme. O acetato pode variar levemente entre as chapas -- aceitável dentro de um tom.</div>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
@@ -209,7 +209,7 @@ export default function SunglassesQualityControlPage() {
             <ul className="space-y-3">
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Tensão da dobradiça:</strong> Abra e feche as hastes 10 vezes. O movimento deve ser suave, mas firme — não frouxo, não duro. Ambos os lados devem parecer idênticos.</div>
+                <div><strong>Tensão da dobradiça:</strong> Abra e feche as hastes 10 vezes. O movimento deve ser suave, mas firme -- não frouxo, não duro. Ambos os lados devem parecer idênticos.</div>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
@@ -217,7 +217,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Aperto dos parafusos:</strong> Todos os parafusos devem estar apertados. Use uma chave de joalheiro para verificar — não devem girar facilmente. Composto de trava de rosca deve ser aplicado.</div>
+                <div><strong>Aperto dos parafusos:</strong> Todos os parafusos devem estar apertados. Use uma chave de joalheiro para verificar -- não devem girar facilmente. Composto de trava de rosca deve ser aplicado.</div>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
@@ -225,7 +225,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Acabamento metálico:</strong> Verifique o acabamento das dobradiças e parafusos quanto à consistência — sem ferrugem, descoloração ou defeitos no banho.</div>
+                <div><strong>Acabamento metálico:</strong> Verifique o acabamento das dobradiças e parafusos quanto à consistência -- sem ferrugem, descoloração ou defeitos no banho.</div>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
@@ -253,7 +253,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Pintura/revestimento (se aplicável):</strong> Aplicação uniforme, sem escorrimentos, sem pontos finos, sem descascamento. Teste de adesão: aplique e remova fita adesiva — nenhum revestimento deve soltar.</div>
+                <div><strong>Pintura/revestimento (se aplicável):</strong> Aplicação uniforme, sem escorrimentos, sem pontos finos, sem descascamento. Teste de adesão: aplique e remova fita adesiva -- nenhum revestimento deve soltar.</div>
               </li>
             </ul>
           </div>
@@ -263,7 +263,7 @@ export default function SunglassesQualityControlPage() {
           <ul>
             <li><strong>Teste de uso:</strong> Coloque no rosto. Ficam nivelados? O peso está equilibrado? Apertam atrás das orelhas? As plaquetas nasais são confortáveis? 30 segundos de uso dizem mais do que 5 minutos de inspeção visual.</li>
             <li><strong>Teste de queda:</strong> Deixe cair da altura de uma mesa (75cm) em uma superfície dura. Devem sobreviver sem quebrar, trincar ou soltar as lentes. Isso simula acidentes do mundo real.</li>
-            <li><strong>Teste de flexão:</strong> Flexione suavemente a frente da armação — deve ter leve flexibilidade e retornar à forma. Rígido = quebradiço. Flexível demais = material barato.</li>
+            <li><strong>Teste de flexão:</strong> Flexione suavemente a frente da armação -- deve ter leve flexibilidade e retornar à forma. Rígido = quebradiço. Flexível demais = material barato.</li>
             <li><strong>Retenção das hastes:</strong> Segure a armação e agite suavemente. As hastes devem permanecer abertas. Se fecharem facilmente, a tensão da dobradiça está muito frouxa.</li>
           </ul>
 
@@ -272,7 +272,7 @@ export default function SunglassesQualityControlPage() {
             <li>☐ Estojo fecha corretamente e protege os óculos</li>
             <li>☐ Pano de limpeza está limpo, com a marca correta e no tamanho certo</li>
             <li>☐ Etiquetas e tags possuem informações corretas (UV, CE, marca, modelo)</li>
-            <li>☐ Caixa/estojo corresponde ao design aprovado — cores, texto, códigos de barras</li>
+            <li>☐ Caixa/estojo corresponde ao design aprovado -- cores, texto, códigos de barras</li>
             <li>☐ Óculos encaixam corretamente no estojo sem movimento excessivo</li>
             <li>☐ Sem danos na embalagem por manuseio</li>
             <li>☐ Quantidade correta embalada por caixa</li>
@@ -327,13 +327,13 @@ export default function SunglassesQualityControlPage() {
             Com base nos nossos dados internos de CQ dos últimos 3 anos, aqui estão os defeitos que detectamos com mais frequência:
           </p>
           <ol>
-            <li className="mb-3"><strong>Distorção da lente (22% dos defeitos):</strong> Ondulação óptica visível ao olhar através da lente. Causada por espessura irregular da lente ou moldagem deficiente. Este é um defeito MAIOR — rejeição automática.</li>
+            <li className="mb-3"><strong>Distorção da lente (22% dos defeitos):</strong> Ondulação óptica visível ao olhar através da lente. Causada por espessura irregular da lente ou moldagem deficiente. Este é um defeito MAIOR -- rejeição automática.</li>
             <li className="mb-3"><strong>Tensão desigual da dobradiça (18%):</strong> Uma haste mais apertada ou mais frouxa que a outra. Causada por torque inconsistente dos parafusos ou variação nos componentes da dobradiça. Defeito maior.</li>
             <li className="mb-3"><strong>Assimetria da armação (14%):</strong> Um lado fica mais alto que o outro quando colocado em uma superfície plana. Causado por empenamento durante o resfriamento (acetato) ou moldagem inconsistente (TR90).</li>
             <li className="mb-3"><strong>Arranhões na superfície (12%):</strong> Arranhões finos na lente ou na superfície da armação por manuseio durante a produção. Menor se superficial, maior se profundo.</li>
             <li className="mb-3"><strong>Inconsistência de cor (8%):</strong> Leves variações de tonalidade entre pares no mesmo lote. Comum com acetato devido à variação natural do material. Defeito menor, a menos que seja óbvio.</li>
             <li className="mb-3"><strong>Defeitos no logo (7%):</strong> Logos desalinhados, borrados ou incompletos. Geralmente por problemas na impressão tampográfica. Varia de menor a maior dependendo da gravidade.</li>
-            <li className="mb-3"><strong>Parafusos soltos (6%):</strong> Parafusos que não estão com o torque adequado ou sem composto de trava de rosca. Defeito maior — vão cair durante o uso.</li>
+            <li className="mb-3"><strong>Parafusos soltos (6%):</strong> Parafusos que não estão com o torque adequado ou sem composto de trava de rosca. Defeito maior -- vão cair durante o uso.</li>
             <li className="mb-3"><strong>Problemas nas plaquetas nasais (5%):</strong> Plaquetas desalinhadas, soltas ou desconfortáveis. De menor a maior dependendo do impacto no ajuste.</li>
             <li className="mb-3"><strong>Polimento fraco (5%):</strong> Pontos ásperos, brilho desigual ou resíduos de polimento. Defeito menor, mas afeta a qualidade percebida.</li>
             <li className="mb-3"><strong>Especificações erradas (3%):</strong> Cor de lente incorreta, cor de armação errada ou tamanho errado. Geralmente detectado cedo, mas devastador se passar despercebido.</li>
@@ -345,7 +345,7 @@ export default function SunglassesQualityControlPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">O que devo verificar ao inspecionar a qualidade de óculos de sol?</h3>
               <p className="text-gray-600">
-                Clareza das lentes (segure diante de um texto — zero distorção), verificação UV400, tensão 
+                Clareza das lentes (segure diante de um texto -- zero distorção), verificação UV400, tensão 
                 e suavidade das dobradiças, simetria da armação, consistência de cor, precisão do logo, alinhamento das plaquetas nasais 
                 e acabamento geral. O teste de texto através da lente é a verificação individual mais importante.
               </p>
@@ -362,7 +362,7 @@ export default function SunglassesQualityControlPage() {
               <h3 className="font-bold text-lg mb-2">Quanto custa uma inspeção de óculos de sol por terceiros?</h3>
               <p className="text-gray-600">
                 $200-$400 por inspeção (um dia de trabalho) com empresas como SGS, Bureau Veritas ou 
-                QIMA. O melhor investimento de $200-$400 que você pode fazer — detectar problemas antes do envio economiza 
+                QIMA. O melhor investimento de $200-$400 que você pode fazer -- detectar problemas antes do envio economiza 
                 de 10 a 50 vezes o custo da inspeção.
               </p>
             </div>
@@ -371,7 +371,7 @@ export default function SunglassesQualityControlPage() {
               <p className="text-gray-600">
                 Top 5: distorção da lente (22%), tensão desigual da dobradiça (18%), assimetria da armação (14%), 
                 arranhões na superfície (12%) e inconsistência de cor (8%). Distorção da lente e problemas 
-                nas dobradiças são os mais críticos — afetam diretamente a experiência do usuário.
+                nas dobradiças são os mais críticos -- afetam diretamente a experiência do usuário.
               </p>
             </div>
           </div>
@@ -380,7 +380,7 @@ export default function SunglassesQualityControlPage() {
             <h3 className="text-2xl font-bold mb-4">Quer Ver Nosso Processo de CQ em Ação?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Podemos mostrar nosso processo de CQ da fábrica em uma videochamada, ou enviar um relatório 
-              detalhado de CQ de um lote de produção recente. Qualidade não é só uma alegação — é 
+              detalhado de CQ de um lote de produção recente. Qualidade não é só uma alegação -- é 
               algo que podemos mostrar.
             </p>
             <Link href="/pt/contato" className="btn-primary">
@@ -393,7 +393,7 @@ export default function SunglassesQualityControlPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/pt/blog/certificacao-fda-ce-oculos-sol" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Guia de Certificação FDA e CE</h3>
-                <p className="text-gray-600 text-sm">Testes de conformidade fazem parte do controle de qualidade — veja o que é exigido.</p>
+                <p className="text-gray-600 text-sm">Testes de conformidade fazem parte do controle de qualidade -- veja o que é exigido.</p>
               </Link>
               <Link href="/pt/blog/encontrar-fabricante-oculos-sol" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Como Encontrar um Fabricante Confiável</h3>

@@ -27,7 +27,7 @@ export default function TrovareProduttoreOcchialiPage() {
           "dateModified": "2026-05-02",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un proprietario di fabbrica rivela come trovare, valutare e scegliere un produttore di occhiali da sole — con 10 criteri chiave, avvertenze sulle truffe e consigli di negoziazione reali.",
+          "description": "Un proprietario di fabbrica rivela come trovare, valutare e scegliere un produttore di occhiali da sole -- con 10 criteri chiave, avvertenze sulle truffe e consigli di negoziazione reali.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/trovare-produttore-occhiali" },
           "inLanguage": "it"
         })}} />
@@ -39,7 +39,7 @@ export default function TrovareProduttoreOcchialiPage() {
             {
               "@type": "Question",
               "name": "Dove posso trovare produttori di occhiali da sole?",
-              "acceptedAnswer": { "@type": "Answer", "text": "I canali principali sono: Alibaba e Global Sources (le directory online più grandi), fiere di settore come MIDO a Milano e Vision Expo a Las Vegas, ricerca Google con parole chiave specifiche, associazioni di settore come The Vision Council, e referenze dirette da altri proprietari di brand. Ogni canale ha pro e contro — Alibaba ha il maggior numero di opzioni ma richiede una verifica attenta, mentre le fiere ti permettono di incontrare le fabbriche di persona." }
+              "acceptedAnswer": { "@type": "Answer", "text": "I canali principali sono: Alibaba e Global Sources (le directory online più grandi), fiere di settore come MIDO a Milano e Vision Expo a Las Vegas, ricerca Google con parole chiave specifiche, associazioni di settore come The Vision Council, e referenze dirette da altri proprietari di brand. Ogni canale ha pro e contro -- Alibaba ha il maggior numero di opzioni ma richiede una verifica attenta, mentre le fiere ti permettono di incontrare le fabbriche di persona." }
             },
             {
               "@type": "Question",
@@ -49,7 +49,7 @@ export default function TrovareProduttoreOcchialiPage() {
             {
               "@type": "Question",
               "name": "Qual è un buon MOQ per la produzione di occhiali da sole?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Per l'ODM (design esistenti con il tuo branding): 100-300 pezzi per modello è lo standard, anche se alcune fabbriche offrono 50 pezzi per i primi ordini. Per l'OEM (design personalizzati): 300-1.000 pezzi per modello a causa dei costi degli stampi. Diffida delle fabbriche con MOQ estremamente bassi (sotto i 20 pezzi) — spesso sono società commerciali, non produttori reali." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Per l'ODM (design esistenti con il tuo branding): 100-300 pezzi per modello è lo standard, anche se alcune fabbriche offrono 50 pezzi per i primi ordini. Per l'OEM (design personalizzati): 300-1.000 pezzi per modello a causa dei costi degli stampi. Diffida delle fabbriche con MOQ estremamente bassi (sotto i 20 pezzi) -- spesso sono società commerciali, non produttori reali." }
             },
             {
               "@type": "Question",
@@ -75,7 +75,7 @@ export default function TrovareProduttoreOcchialiPage() {
             Come Trovare un Produttore di Occhiali da Sole Affidabile nel 2026
           </h1>
           <p className="text-xl text-gray-600">
-            Ti dirò esattamente come trovare una fabbrica come la mia — e soprattutto,
+            Ti dirò esattamente come trovare una fabbrica come la mia -- e soprattutto,
             come evitare quelle che ti faranno perdere soldi e tempo.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -111,7 +111,7 @@ export default function TrovareProduttoreOcchialiPage() {
           </p>
           <p>
             Marcus mi ha trovato attraverso un thread su Reddit. Abbiamo sistemato il suo prodotto, ricostruito la sua linea, e ora
-            sta andando bene. Ma quella lezione da $8.000 non doveva succedere. Ed è per questo che scrivo questo — dalla
+            sta andando bene. Ma quella lezione da $8.000 non doveva succedere. Ed è per questo che scrivo questo -- dalla
             prospettiva di qualcuno che sta nel lato produttivo dal 2006.
           </p>
 
@@ -150,13 +150,13 @@ export default function TrovareProduttoreOcchialiPage() {
           <p>
             Devo essere diretto perché questo è il problema che fa inciampare più acquirenti alle prime armi di qualsiasi altra cosa.
             <a href="https://www.alibaba.com/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Alibaba</a> è
-            un marketplace, non una directory di fabbriche. Chiunque può pubblicare annunci — comprese le società commerciali.
+            un marketplace, non una directory di fabbriche. Chiunque può pubblicare annunci -- comprese le società commerciali.
           </p>
 
           <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-red-900 mb-3">Segnali d&apos;Allarme delle Società Commerciali su Alibaba:</h3>
             <ul className="text-red-800 space-y-2">
-              <li><strong>La gamma prodotti è assurdamente ampia.</strong> Occhiali da sole E custodie per telefoni E borse E gioielli? Non è una fabbrica — è un catalogo.</li>
+              <li><strong>La gamma prodotti è assurdamente ampia.</strong> Occhiali da sole E custodie per telefoni E borse E gioielli? Non è una fabbrica -- è un catalogo.</li>
               <li><strong>Le foto della fabbrica sembrano generiche o stock.</strong> Le vere fabbriche mostrano reparti di produzione reali e disordinati.</li>
               <li><strong>L&apos;indirizzo è un palazzo uffici, non una zona industriale.</strong> Cerca il loro indirizzo su Google Maps.</li>
               <li><strong>Evitano le videochiamate.</strong> Chiedi un tour video dal vivo della &quot;loro&quot; fabbrica. Un vero produttore te la mostrerà con orgoglio.</li>
@@ -167,26 +167,26 @@ export default function TrovareProduttoreOcchialiPage() {
           <h2 id="fiere" className="text-3xl font-bold mt-16 mb-6">Fiere che Valgono il Biglietto Aereo</h2>
           <div className="space-y-6 my-8">
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">MIDO — Milano, Italia (Febbraio)</h3>
+              <h3 className="font-bold text-lg mb-2">MIDO -- Milano, Italia (Febbraio)</h3>
               <p className="text-gray-600 text-sm">La fiera dell&apos;eyewear più grande al mondo. 50.000+ visitatori, 1.200+ espositori. Se fai sul serio con l&apos;eyewear, devi andare al MIDO almeno una volta.</p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">Vision Expo — Las Vegas e New York (Marzo e Ottobre)</h3>
+              <h3 className="font-bold text-lg mb-2">Vision Expo -- Las Vegas e New York (Marzo e Ottobre)</h3>
               <p className="text-gray-600 text-sm">Le principali fiere dell&apos;eyewear USA. Più piccole del MIDO ma più focalizzate sul mercato americano.</p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">Fiera di Canton — Guangzhou, Cina (Aprile e Ottobre)</h3>
+              <h3 className="font-bold text-lg mb-2">Fiera di Canton -- Guangzhou, Cina (Aprile e Ottobre)</h3>
               <p className="text-gray-600 text-sm">La madre di tutte le fiere cinesi. Non specifica per l&apos;eyewear, ma la sezione occhiali da sole è enorme.</p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">SILMO — Parigi, Francia (Settembre)</h3>
+              <h3 className="font-bold text-lg mb-2">SILMO -- Parigi, Francia (Settembre)</h3>
               <p className="text-gray-600 text-sm">La seconda fiera dell&apos;eyewear più grande d&apos;Europa. Più orientata al design rispetto al MIDO.</p>
             </div>
           </div>
 
           <h2 id="dieci-criteri" className="text-3xl font-bold mt-16 mb-6">10 Cose che Controllerei Se Fossi al Tuo Posto</h2>
           <p>
-            Se fossi dall&apos;altra parte del tavolo — un proprietario di brand che valuta una fabbrica — ecco esattamente
+            Se fossi dall&apos;altra parte del tavolo -- un proprietario di brand che valuta una fabbrica -- ecco esattamente
             cosa guarderei.
           </p>
           <ol>
@@ -248,9 +248,9 @@ export default function TrovareProduttoreOcchialiPage() {
           </p>
           <ol>
             <li><strong>Richiedi 3-5 paia campione</strong> di stili e materiali diversi.</li>
-            <li><strong>Paga per i campioni.</strong> Sì, i campioni costano — $20-200 per paio. Le fabbriche che offrono &quot;campioni gratuiti&quot; sono o disperate o stanno includendo il costo nel prezzo di produzione.</li>
-            <li><strong>Ispeziona a fondo.</strong> Quando arrivano i campioni, non guardarli soltanto — usali. Indossali per una settimana. Puliscili. Falli cadere. Apri e chiudi le cerniere 100 volte.</li>
-            <li><strong>Dai feedback dettagliati.</strong> &quot;Belli&quot; non è un feedback utile. &quot;La punta dell&apos;asta preme sull&apos;orecchio dopo 20 minuti&quot; — questo è utile.</li>
+            <li><strong>Paga per i campioni.</strong> Sì, i campioni costano -- $20-200 per paio. Le fabbriche che offrono &quot;campioni gratuiti&quot; sono o disperate o stanno includendo il costo nel prezzo di produzione.</li>
+            <li><strong>Ispeziona a fondo.</strong> Quando arrivano i campioni, non guardarli soltanto -- usali. Indossali per una settimana. Puliscili. Falli cadere. Apri e chiudi le cerniere 100 volte.</li>
+            <li><strong>Dai feedback dettagliati.</strong> &quot;Belli&quot; non è un feedback utile. &quot;La punta dell&apos;asta preme sull&apos;orecchio dopo 20 minuti&quot; -- questo è utile.</li>
             <li><strong>Revisiona i campioni modificati.</strong> Se servivano modifiche, la fabbrica dovrebbe inviare campioni aggiornati prima della produzione.</li>
           </ol>
 
@@ -259,7 +259,7 @@ export default function TrovareProduttoreOcchialiPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Cosa Funziona ✅</h3>
           <ul>
             <li><strong>Mostra potenziale a lungo termine.</strong> &quot;Iniziamo con 300 pezzi ma puntiamo a scalare a 5.000 entro un anno se la qualità è buona.&quot;</li>
-            <li><strong>Chiedi preventivi a 3-4 fabbriche.</strong> Non mentire — dì semplicemente che stai confrontando opzioni. La concorrenza mantiene tutti onesti.</li>
+            <li><strong>Chiedi preventivi a 3-4 fabbriche.</strong> Non mentire -- dì semplicemente che stai confrontando opzioni. La concorrenza mantiene tutti onesti.</li>
             <li><strong>Offri di pagare più velocemente.</strong> Se puoi fare il 50% di acconto o il pagamento completo all&apos;approvazione, alcune fabbriche abbasseranno il prezzo del 3-5%.</li>
             <li><strong>Aumenta il volume per modello.</strong> Passare da 200 a 500 pezzi di un modello mi dà un prezzo migliore di 500 pezzi divisi in 5 modelli.</li>
             <li><strong>Sii un buon cliente.</strong> Comunicazione chiara, feedback tempestivi sui campioni, pagamenti puntuali.</li>
@@ -277,7 +277,7 @@ export default function TrovareProduttoreOcchialiPage() {
             <h3 className="text-2xl font-bold mb-4">Pronto a Trovare il Tuo Produttore?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Faccio questo dal 2006. Ho visto cosa funziona e cosa no. Se vuoi una valutazione onesta di
-              un produttore che stai considerando — o se vuoi sapere se siamo la fabbrica giusta per te — parliamone.
+              un produttore che stai considerando -- o se vuoi sapere se siamo la fabbrica giusta per te -- parliamone.
             </p>
             <Link href="/it/contatto" className="btn-primary">
               Parla con Jacky
@@ -292,7 +292,7 @@ export default function TrovareProduttoreOcchialiPage() {
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Come verifico se un produttore è legittimo?</h3>
-              <p className="text-gray-600">Chiedi una videochiamata dal vivo del reparto produzione. Verifica il loro indirizzo su Google Maps — dovrebbe essere in una zona industriale. Ordina campioni. Chiedi referenze clienti. Controlla se hanno esposto alle fiere.</p>
+              <p className="text-gray-600">Chiedi una videochiamata dal vivo del reparto produzione. Verifica il loro indirizzo su Google Maps -- dovrebbe essere in una zona industriale. Ordina campioni. Chiedi referenze clienti. Controlla se hanno esposto alle fiere.</p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Quanto costano gli occhiali da sole da un produttore?</h3>
@@ -309,11 +309,11 @@ export default function TrovareProduttoreOcchialiPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/it/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM Occhiali da Sole: Guida Completa</h3>
-                <p className="text-gray-600 text-sm">Hai trovato una fabbrica? Ora decidi come vuoi lavorare con loro — design personalizzati o pronti all&apos;uso.</p>
+                <p className="text-gray-600 text-sm">Hai trovato una fabbrica? Ora decidi come vuoi lavorare con loro -- design personalizzati o pronti all&apos;uso.</p>
               </Link>
               <Link href="/it/blog/creare-brand-occhiali" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Come Creare il Tuo Brand di Occhiali da Sole</h3>
-                <p className="text-gray-600 text-sm">La guida completa dall&apos;idea alla prima vendita — la produzione è solo un pezzo del puzzle.</p>
+                <p className="text-gray-600 text-sm">La guida completa dall&apos;idea alla prima vendita -- la produzione è solo un pezzo del puzzle.</p>
               </Link>
             </div>
           </div>

@@ -35,7 +35,7 @@ const features = [
   {
     emoji: '🎨',
     title: 'Personalizzazione Completa',
-    description: 'Dal design della montatura al colore delle lenti, dall\'incisione del logo al packaging personalizzato — realizziamo la tua visione unica di occhiali da sole con capacità complete di produzione OEM e ODM.',
+    description: 'Dal design della montatura al colore delle lenti, dall\'incisione del logo al packaging personalizzato -- realizziamo la tua visione unica di occhiali da sole con capacità complete di produzione OEM e ODM.',
   },
   {
     emoji: '💰',
@@ -55,7 +55,7 @@ const features = [
   {
     emoji: '📦',
     title: 'Ordine Minimo Basso',
-    description: 'Inizia con soli 50 pezzi per modello — perfetto per nuovi brand che testano il mercato, boutique e campagne promozionali. Nessun impegno di inventario massiccio.',
+    description: 'Inizia con soli 50 pezzi per modello -- perfetto per nuovi brand che testano il mercato, boutique e campagne promozionali. Nessun impegno di inventario massiccio.',
   },
   {
     emoji: '🌍',
@@ -79,7 +79,7 @@ const products = [
 ];
 
 const steps = [
-  { step: '01', title: 'Richiesta e Consulenza', description: 'Condividi le tue esigenze — stile, quantità, personalizzazione e budget. Il nostro team offre consulenza esperta per aiutarti a scegliere i prodotti giusti per il tuo mercato.' },
+  { step: '01', title: 'Richiesta e Consulenza', description: 'Condividi le tue esigenze -- stile, quantità, personalizzazione e budget. Il nostro team offre consulenza esperta per aiutarti a scegliere i prodotti giusti per il tuo mercato.' },
   { step: '02', title: 'Design e Campionatura', description: 'Creiamo design dettagliati basati sulle tue specifiche. Ricevi campioni fisici in 5-7 giorni lavorativi per la tua revisione e approvazione prima della produzione in serie.' },
   { step: '03', title: 'Approvazione e Produzione', description: 'Una volta approvati i campioni, avviamo la produzione su larga scala. La nostra capacità gestisce ordini da 50 a oltre 100.000 pezzi con controllo qualità costante.' },
   { step: '04', title: 'Ispezione Qualità', description: 'Ogni lotto supera un\'ispezione di qualità completa a 6 punti che include test di protezione UV, durabilità delle cerniere, chiarezza delle lenti e allineamento delle montature.' },
@@ -117,7 +117,7 @@ const faqs = [
   },
   {
     question: 'Come posso iniziare con un ordine all\'ingrosso di occhiali da sole?',
-    answer: 'Iniziare è semplice: 1) Contattaci via email a jacky@eyeviewsunglasses.com o WhatsApp al +86-18850281211 con le tue esigenze. 2) Il nostro team fornirà un preventivo dettagliato entro 24 ore. 3) Rivedi e approva i campioni. 4) Effettua il tuo ordine e noi ci occupiamo del resto. Accogliamo sia acquirenti alla prima esperienza che brand affermati.',
+    answer: 'Iniziare è semplice: 1) Contattaci via email a sales@eyeviewsunglasses.com o WhatsApp al +86-18850281211 con le tue esigenze. 2) Il nostro team fornirà un preventivo dettagliato entro 24 ore. 3) Rivedi e approva i campioni. 4) Effettua il tuo ordine e noi ci occupiamo del resto. Accogliamo sia acquirenti alla prima esperienza che brand affermati.',
   },
 ];
 
@@ -137,7 +137,7 @@ const howToJsonLd = {
       '@type': 'HowToStep',
       position: 1,
       name: 'Richiesta e Consulenza',
-      text: 'Condividi le tue esigenze — stile, quantità, personalizzazione e budget. Il nostro team offre consulenza esperta.',
+      text: 'Condividi le tue esigenze -- stile, quantità, personalizzazione e budget. Il nostro team offre consulenza esperta.',
       url: 'https://eyeviewsunglasses.com/it/contatti/',
     },
     {

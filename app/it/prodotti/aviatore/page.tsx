@@ -24,69 +24,69 @@ export const metadata: Metadata = {
 const aviatorFaqs = [
   {
     question: 'What is the minimum order for wholesale aviator sunglasses?',
-    answer: 'Just 100 pieces per model. And here is the nice part — you can mix within that 100. So you could do 20 gold frames with grey lenses, 30 silver with blue mirror, and 50 black with gradient. That lets you test which combos your customers actually buy instead of guessing. Most of our aviator clients start with 200-300 pieces across 2-3 color combos, then reorder the winners in bigger quantities.',
+    answer: 'Just 100 pieces per model. And here is the nice part -- you can mix within that 100. So you could do 20 gold frames with grey lenses, 30 silver with blue mirror, and 50 black with gradient. That lets you test which combos your customers actually buy instead of guessing. Most of our aviator clients start with 200-300 pieces across 2-3 color combos, then reorder the winners in bigger quantities.',
   },
   {
     question: 'What metal options do you have for aviator frames?',
-    answer: 'Three main ones. Stainless steel is our most popular — tough, looks great, does not tarnish, and runs $8-12/pair. Aluminum alloy is about 40% lighter (great for all-day wear), costs $10-14/pair. And then there is beta-titanium for the premium end — hypoallergenic (the International Organization for Standardization classifies titanium as a biocompatible material per ISO 5832), insanely light at 15-20 grams, and nearly impossible to break. Titanium runs $14-22/pair but it lets you charge $80-150+ at retail, so the margins are actually better. Any of them can be plated in gold, silver, black, rose gold, or custom colors.',
+    answer: 'Three main ones. Stainless steel is our most popular -- tough, looks great, does not tarnish, and runs $8-12/pair. Aluminum alloy is about 40% lighter (great for all-day wear), costs $10-14/pair. And then there is beta-titanium for the premium end -- hypoallergenic (the International Organization for Standardization classifies titanium as a biocompatible material per ISO 5832), insanely light at 15-20 grams, and nearly impossible to break. Titanium runs $14-22/pair but it lets you charge $80-150+ at retail, so the margins are actually better. Any of them can be plated in gold, silver, black, rose gold, or custom colors.',
   },
   {
     question: 'Can I get my logo engraved on aviator sunglasses?',
-    answer: 'Absolutely, and honestly this is where metal aviators really shine compared to plastic frames. Laser engraving looks incredible on metal — crisp, permanent, and classy. We can engrave on the inside or outside of the temples. If you want something bolder, we do 3D metal badges (zinc alloy or stainless steel) that solder right onto the temple or bridge. There is also lens printing for subtle corner logos and custom-engraved nose pads if you really want to go all-in on branding.',
+    answer: 'Absolutely, and honestly this is where metal aviators really shine compared to plastic frames. Laser engraving looks incredible on metal -- crisp, permanent, and classy. We can engrave on the inside or outside of the temples. If you want something bolder, we do 3D metal badges (zinc alloy or stainless steel) that solder right onto the temple or bridge. There is also lens printing for subtle corner logos and custom-engraved nose pads if you really want to go all-in on branding.',
   },
   {
     question: 'Do you offer polarized lenses for aviators?',
-    answer: 'We do, and I would strongly recommend them. Our TAC polarized lenses use a 7-layer film that kills 99% of glare — the difference is night and day, especially for driving. Here is the business case: polarized aviators sell for 25-40% more at retail than standard UV400. So a pair that retails at $40 non-polarized can easily sell at $50-55 polarized. We also do photochromic lenses (darken in sunlight), mirror coatings, anti-reflective coatings, and gradient tints. Mix and match however you want.',
+    answer: 'We do, and I would strongly recommend them. Our TAC polarized lenses use a 7-layer film that kills 99% of glare -- the difference is night and day, especially for driving. Here is the business case: polarized aviators sell for 25-40% more at retail than standard UV400. So a pair that retails at $40 non-polarized can easily sell at $50-55 polarized. We also do photochromic lenses (darken in sunlight), mirror coatings, anti-reflective coatings, and gradient tints. Mix and match however you want.',
   },
   {
     question: 'How are aviators different from wayfarers for wholesale?',
-    answer: 'Good question — we get this a lot. The short version: aviators are metal, wayfarers are acetate/plastic. That means aviators cost a bit more per pair ($8-14 vs $5-11) but they also carry a more premium feel. Aviators tend to skew slightly more masculine and have that military/pilot heritage going for them. Wayfarers are more unisex and come in way more colors. Honestly? Most successful brands carry both. If you have to pick one, aviators if you are going for premium positioning, wayfarers if you want volume.',
+    answer: 'Good question -- we get this a lot. The short version: aviators are metal, wayfarers are acetate/plastic. That means aviators cost a bit more per pair ($8-14 vs $5-11) but they also carry a more premium feel. Aviators tend to skew slightly more masculine and have that military/pilot heritage going for them. Wayfarers are more unisex and come in way more colors. Honestly? Most successful brands carry both. If you have to pick one, aviators if you are going for premium positioning, wayfarers if you want volume.',
   },
   {
     question: 'What packaging can I get with my aviator order?',
-    answer: 'We do the whole range. Most popular setup is a branded hard case (EVA with your logo printed on it) plus a microfiber pouch that doubles as a cleaning cloth. Runs about $1.50-2.50 per set depending on materials. We also do leather cases, metal tins, custom cardboard boxes with full-color printing, warranty cards, and hang tags. For premium lines, some clients go with magnetic closure boxes or even wooden cases. Packaging MOQ is 500 pieces — but you can use generic packaging for your first small order and switch to custom on the reorder.',
+    answer: 'We do the whole range. Most popular setup is a branded hard case (EVA with your logo printed on it) plus a microfiber pouch that doubles as a cleaning cloth. Runs about $1.50-2.50 per set depending on materials. We also do leather cases, metal tins, custom cardboard boxes with full-color printing, warranty cards, and hang tags. For premium lines, some clients go with magnetic closure boxes or even wooden cases. Packaging MOQ is 500 pieces -- but you can use generic packaging for your first small order and switch to custom on the reorder.',
   },
 ]
 
 const products = [
   {
     name: 'Classic Gold Aviator',
-    description: 'This is the one everyone pictures when you say "aviator." Polished gold-tone stainless steel, teardrop shape, green G-15 tinted lenses that cut glare without making everything look weird. The gold finish is PVD-coated (not cheap spray paint) so it holds up to daily wear. We sell more of these than any other single SKU — and most of our clients say the same. If you are starting an eyewear brand and want one safe bet, this is it.',
+    description: 'This is the one everyone pictures when you say "aviator." Polished gold-tone stainless steel, teardrop shape, green G-15 tinted lenses that cut glare without making everything look weird. The gold finish is PVD-coated (not cheap spray paint) so it holds up to daily wear. We sell more of these than any other single SKU -- and most of our clients say the same. If you are starting an eyewear brand and want one safe bet, this is it.',
     price: '$8.50 - $12.00',
     moq: '100 pcs',
     features: ['Stainless Steel', 'G-15 Green Lens', 'PVD Gold Finish', 'Silicone Nose Pads'],
   },
   {
     name: 'Silver Mirror Aviator',
-    description: 'Silver frame, silver mirror lenses — the kind of sunglasses you see on every beach vacation. The mirror coating reflects about 60% of incoming light, which makes these genuinely good for bright conditions (not just cool-looking). The frame is rhodium-plated stainless steel that will not tarnish even in salty coastal air. Spring hinges give them a little flex so they fit different head sizes without feeling too tight or too loose. Big seller for resort brands and beach shops.',
+    description: 'Silver frame, silver mirror lenses -- the kind of sunglasses you see on every beach vacation. The mirror coating reflects about 60% of incoming light, which makes these genuinely good for bright conditions (not just cool-looking). The frame is rhodium-plated stainless steel that will not tarnish even in salty coastal air. Spring hinges give them a little flex so they fit different head sizes without feeling too tight or too loose. Big seller for resort brands and beach shops.',
     price: '$9.00 - $13.00',
     moq: '100 pcs',
     features: ['Rhodium Plated', 'Mirror Coating', 'Spring Hinges', 'Corrosion Resistant'],
   },
   {
     name: 'Matte Black Stealth Aviator',
-    description: 'For brands going after that tactical, no-nonsense look. The matte electroplating gives the frame a completely non-reflective surface — very different feel from shiny gold or silver. Paired with dark smoke lenses that block 85% of visible light, these are serious sun protection. We see a lot of orders for these from outdoor brands, law enforcement supply companies, and menswear labels. The reinforced temple tips are a nice touch — they grip without sliding even when you sweat.',
+    description: 'For brands going after that tactical, no-nonsense look. The matte electroplating gives the frame a completely non-reflective surface -- very different feel from shiny gold or silver. Paired with dark smoke lenses that block 85% of visible light, these are serious sun protection. We see a lot of orders for these from outdoor brands, law enforcement supply companies, and menswear labels. The reinforced temple tips are a nice touch -- they grip without sliding even when you sweat.',
     price: '$9.00 - $13.00',
     moq: '100 pcs',
     features: ['Matte Finish', 'Dark Smoke Lens', 'Reinforced Tips', 'Non-Reflective'],
   },
   {
     name: 'Rose Gold Fashion Aviator',
-    description: 'Rose gold has been the hot finish for about five years now and it shows no sign of slowing down. The warm pink-gold tone photographs beautifully (huge for brands that sell through Instagram), and it flatters basically every skin tone. We pair these with pink gradient lenses — dark at the top, light at the bottom — which gives them that effortless fashion look. Made from aluminum alloy so they come in at under 25 grams. If your customer is a 22-year-old woman shopping on her phone, this is what she is clicking on.',
+    description: 'Rose gold has been the hot finish for about five years now and it shows no sign of slowing down. The warm pink-gold tone photographs beautifully (huge for brands that sell through Instagram), and it flatters basically every skin tone. We pair these with pink gradient lenses -- dark at the top, light at the bottom -- which gives them that effortless fashion look. Made from aluminum alloy so they come in at under 25 grams. If your customer is a 22-year-old woman shopping on her phone, this is what she is clicking on.',
     price: '$10.00 - $14.00',
     moq: '100 pcs',
     features: ['Aluminum Alloy', 'Pink Gradient Lens', 'Under 25g', 'Rose Gold Tone'],
   },
   {
     name: 'Blue Mirror Polarized Aviator',
-    description: 'Vivid ocean blue mirror lenses with real polarization underneath — so they look amazing AND actually work. The TAC polarized film blocks 99% of glare bouncing off water, roads, and snow. Gunmetal frame keeps the focus on those lenses. This is our go-to recommendation for clients selling to the coastal/surf/fishing crowd. They photograph well, they perform well, and they justify a higher retail price because of the polarization. Runs about $2-3 more per pair than non-polarized, but you can charge $15-20 more at retail.',
+    description: 'Vivid ocean blue mirror lenses with real polarization underneath -- so they look amazing AND actually work. The TAC polarized film blocks 99% of glare bouncing off water, roads, and snow. Gunmetal frame keeps the focus on those lenses. This is our go-to recommendation for clients selling to the coastal/surf/fishing crowd. They photograph well, they perform well, and they justify a higher retail price because of the polarization. Runs about $2-3 more per pair than non-polarized, but you can charge $15-20 more at retail.',
     price: '$11.00 - $15.00',
     moq: '100 pcs',
     features: ['TAC Polarized', 'Blue Mirror', 'Gunmetal Frame', '99% Glare Reduction'],
   },
   {
     name: 'Premium Titanium Aviator',
-    description: 'The top of our aviator line. Beta-titanium frame that weighs 15 grams — you barely feel it on your face. Titanium is hypoallergenic (no nickel, no reactions), corrosion-proof, and you can bend it and it springs right back. We pair these with anti-reflective CR-39 optical lenses — same grade you would find in $200+ designer frames. This is for brands that want to compete at the premium end of the market. Your retail price can easily be $80-150+, and the per-unit cost is still only $14-22. Do the math on those margins.',
+    description: 'The top of our aviator line. Beta-titanium frame that weighs 15 grams -- you barely feel it on your face. Titanium is hypoallergenic (no nickel, no reactions), corrosion-proof, and you can bend it and it springs right back. We pair these with anti-reflective CR-39 optical lenses -- same grade you would find in $200+ designer frames. This is for brands that want to compete at the premium end of the market. Your retail price can easily be $80-150+, and the per-unit cost is still only $14-22. Do the math on those margins.',
     price: '$14.00 - $22.00',
     moq: '100 pcs',
     features: ['Beta Titanium', 'CR-39 Optical Lens', 'Anti-Reflective', 'Just 15 Grams'],
@@ -141,13 +141,13 @@ export default function AviatorPageIt() {
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
               <p className="text-xl leading-relaxed mb-4">
-                Here is a fun bit of history: the aviator was never supposed to be a fashion item. Back in 1936, <a href="https://www.bausch.com/our-company/history/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Bausch &amp; Lomb</a> got a contract from the U.S. Army Air Corps to design sunglasses for military pilots. The problem was specific — pilots were flying higher and faster than ever, and the sun was wrecking their vision. The solution? A big teardrop-shaped lens that covered the entire eye socket, a thin metal frame that weighed almost nothing under a flight helmet, and a double bridge across the nose to spread the pressure. They called them &ldquo;aviators&rdquo; because, well, that is who wore them.
+                Here is a fun bit of history: the aviator was never supposed to be a fashion item. Back in 1936, <a href="https://www.bausch.com/our-company/history/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Bausch &amp; Lomb</a> got a contract from the U.S. Army Air Corps to design sunglasses for military pilots. The problem was specific -- pilots were flying higher and faster than ever, and the sun was wrecking their vision. The solution? A big teardrop-shaped lens that covered the entire eye socket, a thin metal frame that weighed almost nothing under a flight helmet, and a double bridge across the nose to spread the pressure. They called them &ldquo;aviators&rdquo; because, well, that is who wore them.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Then World War II happened, and suddenly millions of soldiers were wearing these things. When they came home, they kept wearing them. By the 1960s and 70s, aviators had jumped from the cockpit to Hollywood — worn by everyone from Paul Newman to the cast of Top Gun. The style just stuck. Almost 90 years later, the basic design has barely changed, and aviators are still one of the top three selling sunglasses shapes worldwide. That is not a trend — that is a classic.
+                Then World War II happened, and suddenly millions of soldiers were wearing these things. When they came home, they kept wearing them. By the 1960s and 70s, aviators had jumped from the cockpit to Hollywood -- worn by everyone from Paul Newman to the cast of Top Gun. The style just stuck. Almost 90 years later, the basic design has barely changed, and aviators are still one of the top three selling sunglasses shapes worldwide. That is not a trend -- that is a classic.
               </p>
               <p className="text-lg leading-relaxed">
-                We produce over 200,000 pairs of <strong>custom aviator sunglasses</strong> per year for brands in 50+ countries. Our factory runs dedicated metal frame production lines with CNC machining, PVD electroplating, and precision lens mounting. Whether you need 100 pairs to test a new market or 50,000 pairs for a national retail rollout, we have the capacity and the experience. And because aviators are our bread and butter, we have the process dialed in — which means faster production, fewer defects, and better pricing.
+                We produce over 200,000 pairs of <strong>custom aviator sunglasses</strong> per year for brands in 50+ countries. Our factory runs dedicated metal frame production lines with CNC machining, PVD electroplating, and precision lens mounting. Whether you need 100 pairs to test a new market or 50,000 pairs for a national retail rollout, we have the capacity and the experience. And because aviators are our bread and butter, we have the process dialed in -- which means faster production, fewer defects, and better pricing.
               </p>
             </div>
           </div>
@@ -197,14 +197,14 @@ export default function AviatorPageIt() {
                       ['Bridge Width', '14mm / 15mm / 16mm / 18mm'],
                       ['Temple Length', '135mm / 140mm / 145mm'],
                       ['Lens Height', '48mm - 52mm (teardrop shape)'],
-                      ['UV Protection', 'UV400 — blocks 100% of UVA (315-380nm) and UVB (280-315nm)'],
-                      ['Polarization', 'Optional 7-layer TAC film — 99% glare reduction'],
+                      ['UV Protection', 'UV400 -- blocks 100% of UVA (315-380nm) and UVB (280-315nm)'],
+                      ['Polarization', 'Optional 7-layer TAC film -- 99% glare reduction'],
                       ['Frame Colors', 'Gold, Silver, Gunmetal, Matte Black, Rose Gold, or custom PVD'],
                       ['Lens Colors', 'Grey, Green G-15, Brown, Blue, Pink, Mirror, Gradient'],
                       ['Nose Pads', 'Adjustable silicone with titanium arm'],
                       ['Hinges', 'Standard barrel or spring-loaded (flex fit)'],
-                      ['Certifications', 'CE (EN ISO 12312-1) · FDA (21 CFR 801.410) · UV400 · ISO 9001 — docs available on request'],
-                      ['MOQ', '100 pieces per model — mix colors allowed'],
+                      ['Certifications', 'CE (EN ISO 12312-1) · FDA (21 CFR 801.410) · UV400 · ISO 9001 -- docs available on request'],
+                      ['MOQ', '100 pieces per model -- mix colors allowed'],
                       ['Sample Time', '3-5 business days'],
                       ['Production Time', '15-20 days standard / 10-12 days rush'],
                     ].map(([label, value], i) => (
@@ -223,7 +223,7 @@ export default function AviatorPageIt() {
           <section className="mb-20">
             <h2 className="text-3xl font-bold text-center mb-4">Picking the Right Metal for Your Aviators</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-              This is one of the first decisions you will make, and it affects everything — cost, weight, durability, and how premium your product feels in someone&apos;s hand. Here is the honest breakdown.
+              This is one of the first decisions you will make, and it affects everything -- cost, weight, durability, and how premium your product feels in someone&apos;s hand. Here is the honest breakdown.
             </p>
 
             <div className="grid md:grid-cols-3 gap-8">
@@ -231,7 +231,7 @@ export default function AviatorPageIt() {
                 <div className="text-3xl mb-4">🔩</div>
                 <h3 className="text-xl font-bold mb-3">Stainless Steel</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Our most popular option and what we recommend for most brands. We use <a href="https://en.wikipedia.org/wiki/SAE_304_stainless_steel" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">304 or 316L grade steel</a> — the same stuff in good watches. It is strong, it does not corrode, and it takes plating beautifully. Gold, silver, black, rose gold — all of them look sharp on steel and hold up over time. The weight (28-32g) actually works in your favor here because customers associate that slight heft with quality. Best fit for brands retailing at $20-60.
+                  Our most popular option and what we recommend for most brands. We use <a href="https://en.wikipedia.org/wiki/SAE_304_stainless_steel" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">304 or 316L grade steel</a> -- the same stuff in good watches. It is strong, it does not corrode, and it takes plating beautifully. Gold, silver, black, rose gold -- all of them look sharp on steel and hold up over time. The weight (28-32g) actually works in your favor here because customers associate that slight heft with quality. Best fit for brands retailing at $20-60.
                 </p>
                 <div className="text-primary-600 font-bold">$8 - $12 / pair</div>
               </div>
@@ -240,7 +240,7 @@ export default function AviatorPageIt() {
                 <div className="text-3xl mb-4">🪶</div>
                 <h3 className="text-xl font-bold mb-3">Aluminum Alloy</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  If your customers care about comfort — and especially if they wear sunglasses all day — aluminum is worth the upgrade. At 18-22g it is noticeably lighter than steel. We use <a href="https://en.wikipedia.org/wiki/6061_aluminium_alloy" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">6061-T6 or 7075 aircraft-grade alloy</a> (same stuff they use in airplane fuselages, if you want a selling point). The frames can be anodized in pretty much any color, and the finish is really durable. Good fit for outdoor brands, athleisure lines, and the $40-80 retail range.
+                  If your customers care about comfort -- and especially if they wear sunglasses all day -- aluminum is worth the upgrade. At 18-22g it is noticeably lighter than steel. We use <a href="https://en.wikipedia.org/wiki/6061_aluminium_alloy" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">6061-T6 or 7075 aircraft-grade alloy</a> (same stuff they use in airplane fuselages, if you want a selling point). The frames can be anodized in pretty much any color, and the finish is really durable. Good fit for outdoor brands, athleisure lines, and the $40-80 retail range.
                 </p>
                 <div className="text-primary-600 font-bold">$10 - $14 / pair</div>
               </div>
@@ -249,7 +249,7 @@ export default function AviatorPageIt() {
                 <div className="text-3xl mb-4">💎</div>
                 <h3 className="text-xl font-bold mb-3">Titanium</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  The prestige play. Beta-titanium at 15-18g is almost comically light — people put them on and immediately go &ldquo;wow.&rdquo; It is 100% hypoallergenic (no nickel at all), which is a real selling point for sensitive skin. And the flexibility is wild — you can bend the temples almost flat and they spring right back. The catch? It costs more. But here is the thing: titanium lets you retail at $80-200+ with a straight face. The per-pair margins are often better than cheaper frames.
+                  The prestige play. Beta-titanium at 15-18g is almost comically light -- people put them on and immediately go &ldquo;wow.&rdquo; It is 100% hypoallergenic (no nickel at all), which is a real selling point for sensitive skin. And the flexibility is wild -- you can bend the temples almost flat and they spring right back. The catch? It costs more. But here is the thing: titanium lets you retail at $80-200+ with a straight face. The per-pair margins are often better than cheaper frames.
                 </p>
                 <div className="text-primary-600 font-bold">$14 - $22 / pair</div>
               </div>
@@ -266,7 +266,7 @@ export default function AviatorPageIt() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">Polycarbonate (PC)</h3>
-                <p className="text-sm text-gray-600">The standard. Impact-resistant, lightweight, shatter-proof — 10x stronger than glass. Works for everything from casual wear to sports. All our colors and mirror coatings are available on PC. This is what 70% of our clients use.</p>
+                <p className="text-sm text-gray-600">The standard. Impact-resistant, lightweight, shatter-proof -- 10x stronger than glass. Works for everything from casual wear to sports. All our colors and mirror coatings are available on PC. This is what 70% of our clients use.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">TAC Polarized</h3>
@@ -304,19 +304,19 @@ export default function AviatorPageIt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Laser engraving</strong> — our most popular. Clean, permanent, looks great on metal. Inside or outside temple.</span>
+                    <span><strong>Laser engraving</strong> -- our most popular. Clean, permanent, looks great on metal. Inside or outside temple.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Metal badge</strong> — a little 3D zinc alloy or steel badge soldered to the temple. Feels expensive.</span>
+                    <span><strong>Metal badge</strong> -- a little 3D zinc alloy or steel badge soldered to the temple. Feels expensive.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Lens printing</strong> — small logo silk-screened in the corner of the lens. Subtle but visible.</span>
+                    <span><strong>Lens printing</strong> -- small logo silk-screened in the corner of the lens. Subtle but visible.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Custom nose pads</strong> — your logo engraved or printed on the silicone pads. A nice detail.</span>
+                    <span><strong>Custom nose pads</strong> -- your logo engraved or printed on the silicone pads. A nice detail.</span>
                   </li>
                 </ul>
               </div>
@@ -326,11 +326,11 @@ export default function AviatorPageIt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Frame:</strong> Gold, Silver, Black, Gunmetal, Rose Gold — or give us a Pantone code and we will match it</span>
+                    <span><strong>Frame:</strong> Gold, Silver, Black, Gunmetal, Rose Gold -- or give us a Pantone code and we will match it</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Lens tints:</strong> Grey, Green, Brown, Blue, Pink, Yellow, Red — or custom match</span>
+                    <span><strong>Lens tints:</strong> Grey, Green, Brown, Blue, Pink, Yellow, Red -- or custom match</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
@@ -348,11 +348,11 @@ export default function AviatorPageIt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Hard cases:</strong> EVA zipper, leather magnetic, or metal tin — all with your logo printed</span>
+                    <span><strong>Hard cases:</strong> EVA zipper, leather magnetic, or metal tin -- all with your logo printed</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Soft pouches:</strong> Microfiber drawstring with logo — doubles as a cleaning cloth</span>
+                    <span><strong>Soft pouches:</strong> Microfiber drawstring with logo -- doubles as a cleaning cloth</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
@@ -360,7 +360,7 @@ export default function AviatorPageIt() {
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Extras:</strong> Cleaning cloths, warranty cards, hang tags, stickers — all branded</span>
+                    <span><strong>Extras:</strong> Cleaning cloths, warranty cards, hang tags, stickers -- all branded</span>
                   </li>
                 </ul>
               </div>
@@ -377,7 +377,7 @@ export default function AviatorPageIt() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-primary-400">🏪 Eyewear Brand Owners</h3>
-                <p className="text-gray-300 text-sm">First-time and established brands building their product line. Aviators are usually the first style they launch — they are safe, they sell, and they look good in marketing photos.</p>
+                <p className="text-gray-300 text-sm">First-time and established brands building their product line. Aviators are usually the first style they launch -- they are safe, they sell, and they look good in marketing photos.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-primary-400">🛍️ Retail Shops</h3>
@@ -432,7 +432,7 @@ export default function AviatorPageIt() {
               <Link href="/it/prodotti/sportivo" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">🏃</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Sport Sunglasses</h3>
-                <p className="text-gray-600 text-sm">If your customers need something tougher than aviators — TR90 wraparound frames with anti-slip grips for running, cycling, and outdoor sports.</p>
+                <p className="text-gray-600 text-sm">If your customers need something tougher than aviators -- TR90 wraparound frames with anti-slip grips for running, cycling, and outdoor sports.</p>
               </Link>
             </div>
           </section>
@@ -441,7 +441,7 @@ export default function AviatorPageIt() {
           <section className="bg-primary-600 rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-3xl font-bold mb-4">Ready to Order Aviators?</h2>
             <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
-              Tell us what you need — style, quantity, any custom work — and we will get back to you within 24 hours with pricing.
+              Tell us what you need -- style, quantity, any custom work -- and we will get back to you within 24 hours with pricing.
               Samples ship in 3-5 days. No commitment until you are ready.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

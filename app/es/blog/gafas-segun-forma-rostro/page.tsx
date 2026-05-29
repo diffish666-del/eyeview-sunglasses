@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Las Mejores Gafas de Sol según Tu Forma de Rostro: Guía Completa',
-  description: 'Encuentra las gafas perfectas para tu forma de rostro — redondo, ovalado, cuadrado, corazón, oblongo. Un dueño de fábrica explica qué monturas favorecen cada forma de rostro.',
+  description: 'Encuentra las gafas perfectas para tu forma de rostro -- redondo, ovalado, cuadrado, corazón, oblongo. Un dueño de fábrica explica qué monturas favorecen cada forma de rostro.',
   keywords: 'gafas según forma rostro, gafas cara redonda, gafas cara ovalada, gafas cara cuadrada, guía compra gafas de sol',
   alternates: {
     canonical: '/es/blog/gafas-segun-forma-rostro',
@@ -27,7 +27,7 @@ export default function Page() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Encuentra las gafas perfectas para tu forma de rostro — redondo, ovalado, cuadrado, corazón, oblongo. Un dueño de fábrica explica qué monturas favorecen cada forma de rostro.",
+          "description": "Encuentra las gafas perfectas para tu forma de rostro -- redondo, ovalado, cuadrado, corazón, oblongo. Un dueño de fábrica explica qué monturas favorecen cada forma de rostro.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/gafas-segun-forma-rostro" },
           "inLanguage": "es"
         })}} />
@@ -36,8 +36,8 @@ export default function Page() {
           "@context": "https://schema.org",
           "@type": "FAQPage",
           "mainEntity": [
-            { "@type": "Question", "name": "¿Qué gafas quedan mejor en un rostro redondo?", "acceptedAnswer": { "@type": "Answer", "text": "Monturas angulares y geométricas — cuadradas, rectangulares, wayfarer y cat-eye añaden definición y contraste a las curvas suaves del rostro." } },
-            { "@type": "Question", "name": "¿Qué gafas van bien con un rostro ovalado?", "acceptedAnswer": { "@type": "Answer", "text": "Los rostros ovalados son los más versátiles — casi cualquier forma funciona. Aviadores, wayfarers, oversize cuadrados, cat-eye y redondos todos funcionan." } },
+            { "@type": "Question", "name": "¿Qué gafas quedan mejor en un rostro redondo?", "acceptedAnswer": { "@type": "Answer", "text": "Monturas angulares y geométricas -- cuadradas, rectangulares, wayfarer y cat-eye añaden definición y contraste a las curvas suaves del rostro." } },
+            { "@type": "Question", "name": "¿Qué gafas van bien con un rostro ovalado?", "acceptedAnswer": { "@type": "Answer", "text": "Los rostros ovalados son los más versátiles -- casi cualquier forma funciona. Aviadores, wayfarers, oversize cuadrados, cat-eye y redondos todos funcionan." } },
             { "@type": "Question", "name": "¿Qué gafas son mejores para un rostro cuadrado?", "acceptedAnswer": { "@type": "Answer", "text": "Monturas redondas y ovaladas suavizan los ángulos fuertes. Aviadores, monturas redondas, cat-eye curvos y estilo clubmaster funcionan bien." } }
           ]
         })}} />
@@ -68,22 +68,22 @@ export default function Page() {
 
           <h2 className="text-3xl font-bold mt-16 mb-6">Preguntas Frecuentes</h2>
           <div className="space-y-6">
-            <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Qué gafas quedan mejor en un rostro redondo?</h3><p className="text-gray-600">Monturas angulares y geométricas — cuadradas, rectangulares, wayfarer y cat-eye añaden definición y contraste a las curvas suaves del rostro.</p></div>
-            <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Qué gafas van bien con un rostro ovalado?</h3><p className="text-gray-600">Los rostros ovalados son los más versátiles — casi cualquier forma funciona. Aviadores, wayfarers, oversize cuadrados, cat-eye y redondos todos funcionan.</p></div>
+            <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Qué gafas quedan mejor en un rostro redondo?</h3><p className="text-gray-600">Monturas angulares y geométricas -- cuadradas, rectangulares, wayfarer y cat-eye añaden definición y contraste a las curvas suaves del rostro.</p></div>
+            <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Qué gafas van bien con un rostro ovalado?</h3><p className="text-gray-600">Los rostros ovalados son los más versátiles -- casi cualquier forma funciona. Aviadores, wayfarers, oversize cuadrados, cat-eye y redondos todos funcionan.</p></div>
             <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Qué gafas son mejores para un rostro cuadrado?</h3><p className="text-gray-600">Monturas redondas y ovaladas suavizan los ángulos fuertes. Aviadores, monturas redondas, cat-eye curvos y estilo clubmaster funcionan bien.</p></div>
           </div>
 
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">¿Tienes Preguntas? Hablemos.</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas — solo consejos honestos basados en 20 años de experiencia.
+              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas -- solo consejos honestos basados en 20 años de experiencia.
             </p>
             <Link href="/es/contacto" className="btn-primary">
               Agenda una Llamada Gratis con Jacky
             </Link>
           </div>
 
-          <div className="mt-16 pt-8 border-t border-gray-200"><h2 className="text-2xl font-bold mb-6">Más Desde la Fábrica</h2><div className="grid md:grid-cols-2 gap-6"><Link href="/es/blog/tendencias-diseno-gafas-2026" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Tendencias de Diseño de Gafas para 2026</h3><p className="text-gray-600 text-sm">Qué formas y estilos están de moda — basado en datos reales de pedidos.</p></Link><Link href="/es/blog/comparacion-materiales-monturas" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">TR90 vs Acetato vs Metal</h3><p className="text-gray-600 text-sm">Qué material funciona mejor para cada forma de montura.</p></Link></div></div>
+          <div className="mt-16 pt-8 border-t border-gray-200"><h2 className="text-2xl font-bold mb-6">Más Desde la Fábrica</h2><div className="grid md:grid-cols-2 gap-6"><Link href="/es/blog/tendencias-diseno-gafas-2026" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Tendencias de Diseño de Gafas para 2026</h3><p className="text-gray-600 text-sm">Qué formas y estilos están de moda -- basado en datos reales de pedidos.</p></Link><Link href="/es/blog/comparacion-materiales-monturas" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">TR90 vs Acetato vs Metal</h3><p className="text-gray-600 text-sm">Qué material funciona mejor para cada forma de montura.</p></Link></div></div>
         </div>
       </div>
     </article>

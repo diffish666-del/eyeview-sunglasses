@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Guia de Revestimentos para Óculos: Espelhado, Antirreflexo, Hidrofóbico e Mais',
-  description: 'Um dono de fábrica detalha cada tipo de revestimento para óculos — mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs por par and which coatings stack together.',
+  description: 'Um dono de fábrica detalha cada tipo de revestimento para óculos -- mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs por par and which coatings stack together.',
   keywords: 'tipos revestimento óculos, revestimento espelhado, antirreflexo óculos, hidrofóbico lentes, oleofóbico, anti-embaçante, filtro luz azul',
   alternates: {
     canonical: '/pt/blog/guia-revestimentos-oculos-sol',
@@ -28,7 +28,7 @@ export default function SunglassesCoatingGuidePage() {
           "dateModified": "2026-05-03",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Um dono de fábrica detalha cada tipo de revestimento para óculos — mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs por par and which coatings stack together.",
+          "description": "Um dono de fábrica detalha cada tipo de revestimento para óculos -- mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs por par and which coatings stack together.",
           "inLanguage": "pt",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/pt/blog/guia-revestimentos-oculos-sol" }
         })}} />
@@ -51,12 +51,12 @@ export default function SunglassesCoatingGuidePage() {
             {
               "@type": "Question",
               "name": "Can you combine multiple lens coatings on one pair of sunglasses?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Yes — and you should. Most coatings are designed to stack. The standard layering order from lens surface outward is: hard coat (base layer), then AR coating, then mirror coating (if applicable), then hydrophobic and oleophobic as the outermost layers. Anti-fog is applied to the inner lens surface. The only combination that doesn't work is a full mirror coat with AR on the same side — the mirror already handles reflection." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Yes -- and you should. Most coatings are designed to stack. The standard layering order from lens surface outward is: hard coat (base layer), then AR coating, then mirror coating (if applicable), then hydrophobic and oleophobic as the outermost layers. Anti-fog is applied to the inner lens surface. The only combination that doesn't work is a full mirror coat with AR on the same side -- the mirror already handles reflection." }
             },
             {
               "@type": "Question",
               "name": "How long do sunglasses coatings last?",
-              "acceptedAnswer": { "@type": "Answer", "text": "It depends on the coating and how you treat them. Hard coat lasts the lifetime of the lens. AR coating lasts 2-3 years with normal use. Mirror coatings last 1-3 years depending on quality — cheap single-layer mirrors degrade faster. Hydrophobic and oleophobic coatings wear down the fastest, typically 1-2 years, because they're the outermost layer taking all the abuse from cleaning and handling. Anti-fog coatings last 1-2 years." }
+              "acceptedAnswer": { "@type": "Answer", "text": "It depends on the coating and how you treat them. Hard coat lasts the lifetime of the lens. AR coating lasts 2-3 years with normal use. Mirror coatings last 1-3 years depending on quality -- cheap single-layer mirrors degrade faster. Hydrophobic and oleophobic coatings wear down the fastest, typically 1-2 years, because they're the outermost layer taking all the abuse from cleaning and handling. Anti-fog coatings last 1-2 years." }
             },
             {
               "@type": "Question",
@@ -116,20 +116,20 @@ export default function SunglassesCoatingGuidePage() {
           </p>
           <p>
             Pergunta justa. E não, eu não estava inflando nada. O que a maioria das pessoas não percebe é o seguinte: 
-            o material da lente — seja CR-39, policarbonato, náilon ou TAC — é apenas a base. 
+            o material da lente -- seja CR-39, policarbonato, náilon ou TAC -- é apenas a base. 
             Os revestimentos são o que transformam uma lente decente em uma ótima. São a diferença entre óculos de sol 
             que parecem premium e óculos que parecem brinde de posto de gasolina.
           </p>
           <p>
             Eu dirijo uma fábrica de óculos de sol desde 2006. Nossa sala de revestimentos é um dos 
-            departamentos mais caros do chão de fábrica — câmaras de deposição a vácuo, banhos de limpeza ultrasônica, 
+            departamentos mais caros do chão de fábrica -- câmaras de deposição a vácuo, banhos de limpeza ultrasônica, 
             ambientes com clima controlado. Tudo isso existe porque revestimentos são tão importantes assim. Se 
             você está construindo uma marca de óculos, ou apenas tentando entender pelo que está pagando, 
             este guia cobre todos os principais tipos de revestimento, quanto custam em escala de produção e 
             como combiná-los sem desperdiçar dinheiro.
           </p>
           <p>
-            Para o básico sobre materiais de lente — CR-39 vs. policarbonato vs. náilon — confira 
+            Para o básico sobre materiais de lente -- CR-39 vs. policarbonato vs. náilon -- confira 
             nosso <Link href="/pt/blog/guia-lentes-oculos-sol" className="text-primary-600 hover:underline">guia de lentes para óculos de sol</Link> primeiro. 
             Este artigo continua de onde aquele parou.
           </p>
@@ -138,14 +138,14 @@ export default function SunglassesCoatingGuidePage() {
           <h2 id="why-coatings-matter" className="text-3xl font-bold mt-16 mb-6">Por que Revestimentos Importam Mais do que Você Pensa</h2>
           <p>
             Pegue duas lentes de policarbonato idênticas. Mesmo material, mesmo tom, mesma proteção UV400. Coloque uma 
-            combinação de revestimentos multicamada premium em uma e deixe a outra sem nada. Entregue a qualquer pessoa — sua 
+            combinação de revestimentos multicamada premium em uma e deixe a outra sem nada. Entregue a qualquer pessoa -- sua 
             avó, uma criança de dez anos, não importa. Eles vão escolher a lente revestida como &quot;melhor&quot; em 
             cinco segundos.
           </p>
           <p>
             A lente revestida é mais clara. Não mancha tão fácil. A água forma gotas e escorre em vez de se espalhar. 
             Não há aquele reflexo irritante ricocheteando da parte de trás da lente nos seus olhos. Simplesmente parece 
-            um produto mais caro — porque é, mas não tanto quanto você pensaria.
+            um produto mais caro -- porque é, mas não tanto quanto você pensaria.
           </p>
           <p>
             Revestimentos adicionam de $0,50 a $5,00 por par em escala de fábrica. Em um par de óculos 
@@ -157,7 +157,7 @@ export default function SunglassesCoatingGuidePage() {
           <h2 id="mirror-coating" className="text-3xl font-bold mt-16 mb-6">Revestimento Espelhado (Flash)</h2>
           <p>
             O revestimento espelhado é o que todo mundo reconhece. Aquelas lentes refletivas que você vê em salva-vidas, 
-            instrutores de esqui e metade das pessoas no Coachella — isso é espelhado. Também é chamado de flash 
+            instrutores de esqui e metade das pessoas no Coachella -- isso é espelhado. Também é chamado de flash 
             coating ou revo coating, dependendo de quem você pergunta.
           </p>
 
@@ -166,7 +166,7 @@ export default function SunglassesCoatingGuidePage() {
             O revestimento espelhado é uma fina camada metálica ou de óxido metálico aplicada na superfície frontal da 
             lente por deposição a vácuo. A camada metálica reflete uma parte da luz recebida antes 
             de ela passar pela lente, reduzindo a transmissão total de luz. Pense nisso como um espelho 
-            unidirecional — as pessoas veem seu reflexo, você enxerga através claramente.
+            unidirecional -- as pessoas veem seu reflexo, você enxerga através claramente.
           </p>
           <p>
             Trabalhamos com três níveis:
@@ -179,13 +179,13 @@ export default function SunglassesCoatingGuidePage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Quanto Custa</h3>
           <p>
-            Flash de camada única: <strong>$0,40–$0,80 por par.</strong> Espelho multicamada completo: <strong>$1,00–$1,80 por par.</strong> Espelho 
-            degradê: <strong>$1,80–$3,00 por par.</strong> O preço sobe porque cada camada adicional exige mais uma passagem pela 
+            Flash de camada única: <strong>$0,40-$0,80 por par.</strong> Espelho multicamada completo: <strong>$1,00-$1,80 por par.</strong> Espelho 
+            degradê: <strong>$1,80-$3,00 por par.</strong> O preço sobe porque cada camada adicional exige mais uma passagem pela 
             câmara de vácuo, e o trabalho de degradê precisa de operadores qualificados controlando a deposição manualmente.
           </p>
           <p>
             O espelhado é especialmente popular nos nossos{' '}
-            <Link href="/products/sport" className="text-primary-600 hover:underline">óculos esportivos</Link> — 
+            <Link href="/products/sport" className="text-primary-600 hover:underline">óculos esportivos</Link> -- 
             espelhos azuis e verdes em armações envolventes são os mais vendidos para marcas de esportes outdoor e aquáticos.
           </p>
 
@@ -194,20 +194,20 @@ export default function SunglassesCoatingGuidePage() {
           <p>
             O revestimento AR é o herói desconhecido dos revestimentos de óculos. Não parece chamativo. A maioria dos clientes 
             nem sabe que existe. Mas todo ótico do mundo vai te dizer que é um dos 
-            revestimentos mais importantes em qualquer lente — de grau ou de sol.
+            revestimentos mais importantes em qualquer lente -- de grau ou de sol.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Como Funciona</h3>
           <p>
             Quando a luz atinge a superfície de uma lente, cerca de 4-8% é refletida de volta em vez de passar. Em 
-            óculos de sol, a superfície traseira é o problema. A luz vem de trás de você — o céu, prédios, 
-            janelas de carro — atinge a parte interna da lente e ricocheteia direto nos seus olhos. Isso é 
+            óculos de sol, a superfície traseira é o problema. A luz vem de trás de você -- o céu, prédios, 
+            janelas de carro -- atinge a parte interna da lente e ricocheteia direto nos seus olhos. Isso é 
             o reflexo traseiro, e causa fadiga ocular, vista apertada e dores de cabeça em viagens longas.
           </p>
           <p>
             O <a href="https://en.wikipedia.org/wiki/Anti-reflective_coating" target="_blank" rel="noopener" className="text-primary-600 hover:underline">revestimento antirreflexo</a> usa 
-            interferência de filme fino para cancelar a luz refletida. Múltiplas camadas de óxidos metálicos — tipicamente 
-            fluoreto de magnésio, dióxido de silício ou dióxido de titânio — são depositadas em espessuras precisas. 
+            interferência de filme fino para cancelar a luz refletida. Múltiplas camadas de óxidos metálicos -- tipicamente 
+            fluoreto de magnésio, dióxido de silício ou dióxido de titânio -- são depositadas em espessuras precisas. 
             Cada camada cancela um comprimento de onda específico de luz refletida. Mais camadas = cobertura de espectro mais ampla = 
             menos reflexo.
           </p>
@@ -224,8 +224,8 @@ export default function SunglassesCoatingGuidePage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Quanto Custa</h3>
           <p>
-            AR de camada única (básico): <strong>$0,30–$0,60 por par.</strong> AR multicamada (premium, 4-6 camadas): <strong>$0,60–$1,50 por par.</strong> A 
-            versão multicamada reduz o reflexo de ~4% para menos de 0,5% — você literalmente não consegue ver nenhum 
+            AR de camada única (básico): <strong>$0,30-$0,60 por par.</strong> AR multicamada (premium, 4-6 camadas): <strong>$0,60-$1,50 por par.</strong> A 
+            versão multicamada reduz o reflexo de ~4% para menos de 0,5% -- você literalmente não consegue ver nenhum 
             reflexo na superfície traseira. Vale cada centavo.
           </p>
 
@@ -234,41 +234,41 @@ export default function SunglassesCoatingGuidePage() {
           <p>
             Hidrofóbico significa que repele água. Aplique em uma lente e a água forma pequenas gotas 
             e escorre em vez de se espalhar em uma mancha borrada. Se você já viu aqueles vídeos de 
-            água dançando no para-brisa de um carro — mesmo princípio, aplicado a óculos.
+            água dançando no para-brisa de um carro -- mesmo princípio, aplicado a óculos.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Como Funciona</h3>
           <p>
             É uma camada em nanoescala de fluoropolímero ou material à base de silicone que reduz a energia 
             superficial da lente. Baixa energia superficial = líquidos não conseguem se espalhar e aderir. Eles formam gotas 
-            e deslizam pela gravidade. O revestimento é incrivelmente fino — cerca de 10-20 nanômetros. Você 
+            e deslizam pela gravidade. O revestimento é incrivelmente fino -- cerca de 10-20 nanômetros. Você 
             não consegue ver, não consegue sentir, mas muda completamente como a lente se comporta em condições úmidas.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Quanto Custa</h3>
           <p>
-            <strong>$0,20–$0,50 por par.</strong> Um dos revestimentos mais baratos que aplicamos, e um dos mais 
-            impactantes para a experiência do usuário. Eu coloco hidrofóbico em tudo — não há razão para não colocar 
+            <strong>$0,20-$0,50 por par.</strong> Um dos revestimentos mais baratos que aplicamos, e um dos mais 
+            impactantes para a experiência do usuário. Eu coloco hidrofóbico em tudo -- não há razão para não colocar 
             nesse ponto de preço.
           </p>
           <p>
             É particularmente crítico para{' '}
             <Link href="/products/sport" className="text-primary-600 hover:underline">óculos esportivos</Link>. 
-            Corredores, ciclistas, atletas de esportes aquáticos — qualquer um que lide com chuva, spray ou suor precisa desse revestimento. 
+            Corredores, ciclistas, atletas de esportes aquáticos -- qualquer um que lide com chuva, spray ou suor precisa desse revestimento. 
             Sem ele, um respingo transforma a lente em uma mancha borrada.
           </p>
 
           {/* Oleophobic */}
           <h2 id="oleophobic" className="text-3xl font-bold mt-16 mb-6">Revestimento Oleofóbico</h2>
           <p>
-            O oleofóbico é o primo do hidrofóbico — mas em vez de repelir água, repele óleos. Impressões digitais, 
+            O oleofóbico é o primo do hidrofóbico -- mas em vez de repelir água, repele óleos. Impressões digitais, 
             oleosidade do rosto, protetor solar, aquela mancha misteriosa que aparece no momento em que você coloca os óculos 
             no topo da cabeça. O revestimento oleofóbico cuida de tudo isso.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Como Funciona</h3>
           <p>
-            Similar ao hidrofóbico — uma camada de fluoropolímero que reduz a energia superficial — mas otimizada para 
+            Similar ao hidrofóbico -- uma camada de fluoropolímero que reduz a energia superficial -- mas otimizada para 
             substâncias oleicas (óleos e gorduras) em vez de apenas água. Na prática, a maioria dos revestimentos modernos comercializados 
             como &quot;hidrofóbicos&quot; já tem algumas propriedades oleofóbicas embutidas. Mas um revestimento oleofóbico 
             dedicado é visivelmente melhor em resistir a impressões digitais e facilitar a limpeza.
@@ -282,8 +282,8 @@ export default function SunglassesCoatingGuidePage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Quanto Custa</h3>
           <p>
-            <strong>$0,30–$0,60 por par.</strong> Frequentemente combinado com hidrofóbico em uma única etapa de aplicação, 
-            o que reduz o combo para <strong>$0,40–$0,80</strong> no total para ambos. A maioria das fábricas aplica os dois 
+            <strong>$0,30-$0,60 por par.</strong> Frequentemente combinado com hidrofóbico em uma única etapa de aplicação, 
+            o que reduz o combo para <strong>$0,40-$0,80</strong> no total para ambos. A maioria das fábricas aplica os dois 
             juntos como um pacote &quot;hidro-oleofóbico.&quot;
           </p>
 
@@ -299,19 +299,19 @@ export default function SunglassesCoatingGuidePage() {
           <p>
             O embaçamento acontece quando ar quente e úmido atinge uma superfície de lente fria. Pequenas gotas de água se formam e 
             dispersam a luz. Os revestimentos anti-embaçante funcionam de duas formas: ou absorvem umidade (abordagem 
-            hidrofílica — o revestimento espalha a água em um filme fino invisível em vez de deixá-la formar gotas) 
+            hidrofílica -- o revestimento espalha a água em um filme fino invisível em vez de deixá-la formar gotas) 
             ou usam uma camada surfactante que impede a formação de gotas desde o início.
           </p>
           <p>
             A abordagem hidrofílica é mais comum em óculos de performance. Ela não impede a umidade de 
-            pousar na lente — apenas torna a umidade invisível. A superfície da lente permanece opticamente clara 
+            pousar na lente -- apenas torna a umidade invisível. A superfície da lente permanece opticamente clara 
             mesmo quando está tecnicamente molhada.
           </p>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 Importante: Anti-Embaçante Vai por Dentro</h3>
             <p className="text-amber-800">
-              O anti-embaçante é aplicado na superfície interna da lente — o lado voltado para sua pele. É lá que 
+              O anti-embaçante é aplicado na superfície interna da lente -- o lado voltado para sua pele. É lá que 
               o embaçamento acontece, porque o calor do seu corpo e a respiração criam o diferencial de temperatura. 
               Colocar anti-embaçante por fora seria como colocar uma capa de chuva nas paredes internas da sua casa.
             </p>
@@ -319,9 +319,9 @@ export default function SunglassesCoatingGuidePage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Quanto Custa</h3>
           <p>
-            <strong>$0,40–$0,80 por par.</strong> Os revestimentos permanentes na faixa superior duram 
+            <strong>$0,40-$0,80 por par.</strong> Os revestimentos permanentes na faixa superior duram 
             1-2 anos. Versões mais baratas degradam mais rápido, especialmente com limpeza frequente. Para óculos esportivos 
-            onde embaçamento é questão de segurança — ciclismo, esqui, corrida — gaste os $0,30 extras na versão premium.
+            onde embaçamento é questão de segurança -- ciclismo, esqui, corrida -- gaste os $0,30 extras na versão premium.
           </p>
 
           {/* Hard Coat */}
@@ -333,7 +333,7 @@ export default function SunglassesCoatingGuidePage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Como Funciona</h3>
           <p>
-            A maioria das lentes de óculos de sol — especialmente policarbonato e CR-39 — são materiais relativamente macios. 
+            A maioria das lentes de óculos de sol -- especialmente policarbonato e CR-39 -- são materiais relativamente macios. 
             O policarbonato é ótimo para resistência a impacto, mas risca só de olhar torto. O revestimento rígido 
             é uma fina camada de laca à base de silicone ou óxido metálico (geralmente dióxido de silício) que aumenta 
             dramaticamente a dureza superficial.
@@ -341,13 +341,13 @@ export default function SunglassesCoatingGuidePage() {
           <p>
             Testamos o revestimento rígido com um teste de abrasão com lã de aço: 50 passadas de lã de aço #0000 com pressão 
             controlada. Uma lente de policarbonato sem revestimento fica parecendo que um gato atacou. Uma lente com revestimento rígido 
-            adequado mostra marcações mínimas. Não é invisível — você ainda pode riscá-la se tentar — mas transforma 
+            adequado mostra marcações mínimas. Não é invisível -- você ainda pode riscá-la se tentar -- mas transforma 
             o uso diário normal de &quot;destruído em três meses&quot; para &quot;parece bom por anos.&quot;
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Quanto Custa</h3>
           <p>
-            <strong>$0,15–$0,40 por par.</strong> O revestimento mais barato da lista, e o que eu considero 
+            <strong>$0,15-$0,40 por par.</strong> O revestimento mais barato da lista, e o que eu considero 
             absolutamente inegociável. Não envio um único par sem revestimento rígido. Qualquer fábrica que 
             oferece lentes de policarbonato sem revestimento rígido está cortando custos ou não sabe 
             o que está fazendo. De qualquer forma, caia fora.
@@ -366,27 +366,27 @@ export default function SunglassesCoatingGuidePage() {
             O revestimento de filtro de luz azul bloqueia ou reflete seletivamente a luz azul visível de alta energia (HEV) na 
             faixa de comprimento de onda de 380-450nm. Existem duas abordagens: um tom absorvente embutido no material 
             da lente (dá à lente um leve tom amarelado) ou um revestimento refletivo que desvia a luz azul 
-            (produz um reflexo azul-roxo tênue na superfície da lente — você já viu isso nos &quot;óculos para 
+            (produz um reflexo azul-roxo tênue na superfície da lente -- você já viu isso nos &quot;óculos para 
             computador&quot;).
           </p>
           <p>
             Para óculos de sol especificamente, a abordagem de revestimento refletivo é mais popular porque não 
-            altera o tom da lente. Sua lente cinza continua cinza, sua marrom continua marrom — mas está filtrando 
+            altera o tom da lente. Sua lente cinza continua cinza, sua marrom continua marrom -- mas está filtrando 
             20-40% da luz azul HEV além da proteção UV400 padrão que todos os óculos de sol de qualidade 
             já devem fornecer.
           </p>
           <p>
             Nossa{' '}
             <Link href="/products/blue-light" className="text-primary-600 hover:underline">coleção de luz azul</Link> combina 
-            esse revestimento com nossas armações mais vendidas — é uma das nossas categorias de crescimento mais rápido.
+            esse revestimento com nossas armações mais vendidas -- é uma das nossas categorias de crescimento mais rápido.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Quanto Custa</h3>
           <p>
-            <strong>$0,50–$1,20 por par.</strong> O revestimento tipo refletivo fica na faixa superior porque 
+            <strong>$0,50-$1,20 por par.</strong> O revestimento tipo refletivo fica na faixa superior porque 
             exige uma etapa dedicada de deposição a vácuo. O tipo absorvente é mais barato mas muda a cor da lente. 
             Para marcas de óculos focadas em bem-estar digital ou no público de profissionais urbanos de 25-40 anos, 
-            esse revestimento se paga sozinho — clientes buscam ativamente e pagam um premium de $10-20 no varejo.
+            esse revestimento se paga sozinho -- clientes buscam ativamente e pagam um premium de $10-20 no varejo.
           </p>
 
           {/* Cost Breakdown Table */}
@@ -408,15 +408,15 @@ export default function SunglassesCoatingGuidePage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Rígido (Hard Coat)</td><td className="px-6 py-4">$0,15–$0,40</td><td className="px-6 py-4">Vida útil da lente</td><td className="px-6 py-4">Obrigatório</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Hidrofóbico</td><td className="px-6 py-4">$0,20–$0,50</td><td className="px-6 py-4">1–2 anos</td><td className="px-6 py-4">Altamente recomendado</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Oleofóbico</td><td className="px-6 py-4">$0,30–$0,60</td><td className="px-6 py-4">1–2 anos</td><td className="px-6 py-4">Recomendado</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Antirreflexo (AR)</td><td className="px-6 py-4">$0,30–$1,50</td><td className="px-6 py-4">2–3 anos</td><td className="px-6 py-4">Altamente recomendado</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Anti-Embaçante</td><td className="px-6 py-4">$0,40–$0,80</td><td className="px-6 py-4">1–2 anos</td><td className="px-6 py-4">Uso esportivo/atividade</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Filtro de Luz Azul</td><td className="px-6 py-4">$0,50–$1,20</td><td className="px-6 py-4">2–3 anos</td><td className="px-6 py-4">Demanda crescente</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Espelhado (camada única)</td><td className="px-6 py-4">$0,40–$0,80</td><td className="px-6 py-4">1–2 anos</td><td className="px-6 py-4">Depende do estilo</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Espelhado (multicamada)</td><td className="px-6 py-4">$1,00–$1,80</td><td className="px-6 py-4">2–3 anos</td><td className="px-6 py-4">Depende do estilo</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Espelhado (degradê)</td><td className="px-6 py-4">$1,80–$3,00</td><td className="px-6 py-4">2–3 anos</td><td className="px-6 py-4">Apenas premium</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Rígido (Hard Coat)</td><td className="px-6 py-4">$0,15-$0,40</td><td className="px-6 py-4">Vida útil da lente</td><td className="px-6 py-4">Obrigatório</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Hidrofóbico</td><td className="px-6 py-4">$0,20-$0,50</td><td className="px-6 py-4">1-2 anos</td><td className="px-6 py-4">Altamente recomendado</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Oleofóbico</td><td className="px-6 py-4">$0,30-$0,60</td><td className="px-6 py-4">1-2 anos</td><td className="px-6 py-4">Recomendado</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Antirreflexo (AR)</td><td className="px-6 py-4">$0,30-$1,50</td><td className="px-6 py-4">2-3 anos</td><td className="px-6 py-4">Altamente recomendado</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Anti-Embaçante</td><td className="px-6 py-4">$0,40-$0,80</td><td className="px-6 py-4">1-2 anos</td><td className="px-6 py-4">Uso esportivo/atividade</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Filtro de Luz Azul</td><td className="px-6 py-4">$0,50-$1,20</td><td className="px-6 py-4">2-3 anos</td><td className="px-6 py-4">Demanda crescente</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Espelhado (camada única)</td><td className="px-6 py-4">$0,40-$0,80</td><td className="px-6 py-4">1-2 anos</td><td className="px-6 py-4">Depende do estilo</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Espelhado (multicamada)</td><td className="px-6 py-4">$1,00-$1,80</td><td className="px-6 py-4">2-3 anos</td><td className="px-6 py-4">Depende do estilo</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Espelhado (degradê)</td><td className="px-6 py-4">$1,80-$3,00</td><td className="px-6 py-4">2-3 anos</td><td className="px-6 py-4">Apenas premium</td></tr>
               </tbody>
             </table>
           </div>
@@ -424,17 +424,17 @@ export default function SunglassesCoatingGuidePage() {
           <div className="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-green-900 mb-2">Custos Reais de Combinação</h3>
             <ul className="text-green-800 space-y-1">
-              <li><strong>Econômico stack</strong> (hard coat + hydrophobic): $0.35–$0.90 por par</li>
-              <li><strong>Mid-range stack</strong> (hard coat + AR + hydro-oleophobic): $1.25–$2.50 por par</li>
-              <li><strong>Premium stack</strong> (hard coat + AR + hydro-oleophobic + mirror): $2.50–$5.00 por par</li>
-              <li><strong>Sport premium</strong> (hard coat + AR + hydro-oleophobic + anti-fog + mirror): $3.00–$5.50 por par</li>
+              <li><strong>Econômico stack</strong> (hard coat + hydrophobic): $0.35-$0.90 por par</li>
+              <li><strong>Mid-range stack</strong> (hard coat + AR + hydro-oleophobic): $1.25-$2.50 por par</li>
+              <li><strong>Premium stack</strong> (hard coat + AR + hydro-oleophobic + mirror): $2.50-$5.00 por par</li>
+              <li><strong>Sport premium</strong> (hard coat + AR + hydro-oleophobic + anti-fog + mirror): $3.00-$5.50 por par</li>
             </ul>
           </div>
 
           {/* Stacking */}
           <h2 id="stacking" className="text-3xl font-bold mt-16 mb-6">Quais Revestimentos Combinam (e Quais Não)</h2>
           <p>
-            É aqui que a maioria dos donos de marca fica confusa — e onde algumas fábricas aproveitam essa 
+            É aqui que a maioria dos donos de marca fica confusa -- e onde algumas fábricas aproveitam essa 
             confusão para empurrar combinações desnecessárias. Então vou ser direto com você.
           </p>
 
@@ -448,34 +448,34 @@ export default function SunglassesCoatingGuidePage() {
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">Superfície Externa (frente da lente), de Baixo para Cima:</h3>
             <ol className="text-blue-800 space-y-1">
-              <li><strong>1. Revestimento rígido</strong> — diretamente na lente, funciona como base de aderência</li>
-              <li><strong>2. Revestimento AR</strong> — sobre o revestimento rígido (se aplicado na superfície frontal)</li>
-              <li><strong>3. Revestimento espelhado</strong> — camada metálica mais externa (substitui o AR frontal se usado)</li>
-              <li><strong>4. Hidrofóbico + oleofóbico</strong> — a camada mais superficial, protegendo tudo abaixo</li>
+              <li><strong>1. Revestimento rígido</strong> -- diretamente na lente, funciona como base de aderência</li>
+              <li><strong>2. Revestimento AR</strong> -- sobre o revestimento rígido (se aplicado na superfície frontal)</li>
+              <li><strong>3. Revestimento espelhado</strong> -- camada metálica mais externa (substitui o AR frontal se usado)</li>
+              <li><strong>4. Hidrofóbico + oleofóbico</strong> -- a camada mais superficial, protegendo tudo abaixo</li>
             </ol>
           </div>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">Superfície Interna (traseira da lente, voltada para o olho):</h3>
             <ol className="text-blue-800 space-y-1">
-              <li><strong>1. Revestimento rígido</strong> — camada base</li>
-              <li><strong>2. Revestimento AR</strong> — este é o AR crítico da superfície traseira para eliminar o reflexo traseiro</li>
-              <li><strong>3. Anti-embaçante</strong> — camada mais interna, voltada para a pele</li>
-              <li><strong>4. Hidrofóbico + oleofóbico</strong> — camada superior na superfície traseira (se não usar anti-embaçante)</li>
+              <li><strong>1. Revestimento rígido</strong> -- camada base</li>
+              <li><strong>2. Revestimento AR</strong> -- este é o AR crítico da superfície traseira para eliminar o reflexo traseiro</li>
+              <li><strong>3. Anti-embaçante</strong> -- camada mais interna, voltada para a pele</li>
+              <li><strong>4. Hidrofóbico + oleofóbico</strong> -- camada superior na superfície traseira (se não usar anti-embaçante)</li>
             </ol>
           </div>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Combinações que Não Funcionam</h3>
           <p>
             Na verdade só existe um conflito rígido: <strong>você não pode colocar revestimento AR e espelhado completo 
-            na mesma superfície.</strong> O revestimento espelhado já está gerenciando a luz refletida — adicionar AR embaixo 
+            na mesma superfície.</strong> O revestimento espelhado já está gerenciando a luz refletida -- adicionar AR embaixo 
             dele na superfície frontal é redundante e pode causar problemas de delaminação. Espelhado na frente, 
             AR atrás. Esse é o padrão e funciona perfeitamente.
           </p>
           <p>
             Outro conflito mais leve: <strong>anti-embaçante e hidrofóbico na mesma superfície</strong> trabalham um contra 
             o outro. O hidrofóbico repele água. O anti-embaçante funciona espalhando água em um filme invisível. Eles têm 
-            objetivos opostos. Na superfície interna, escolha um — e para armações esportivas, anti-embaçante é a escolha certa. 
+            objetivos opostos. Na superfície interna, escolha um -- e para armações esportivas, anti-embaçante é a escolha certa. 
             Guarde o hidrofóbico para a superfície externa.
           </p>
 
@@ -502,7 +502,7 @@ export default function SunglassesCoatingGuidePage() {
               <li>
                 <strong>Esporte performance ($50-150 no varejo):</strong> Rígido + AR traseiro + hidro-oleofóbico (frente) + anti-embaçante (traseiro) + espelhado opcional. 
                 Confira nossa{' '}
-                <Link href="/products/sport" className="text-primary-600 hover:underline">coleção esportiva</Link> — 
+                <Link href="/products/sport" className="text-primary-600 hover:underline">coleção esportiva</Link> -- 
                 essa é a combinação exata que usamos. Custo: ~$2,50-4,00/par.
               </li>
             </ul>
@@ -511,7 +511,7 @@ export default function SunglassesCoatingGuidePage() {
           <p>
             Mais uma coisa sobre combinações: não deixe ninguém te dizer que mais revestimentos sempre significa melhor. 
             Já tive clientes pedindo sete revestimentos em uma armação de entrada vendida a $20. Os revestimentos 
-            custavam mais que a armação e lente juntas. Isso não é inteligente — é só caro. Combine 
+            custavam mais que a armação e lente juntas. Isso não é inteligente -- é só caro. Combine 
             os revestimentos com o nível do produto e as necessidades do usuário final. Um óculos de praia não 
             precisa de anti-embaçante. Um óculos para dirigir não precisa de espelhado. Seja intencional.
           </p>
@@ -520,7 +520,7 @@ export default function SunglassesCoatingGuidePage() {
             <h3 className="text-2xl font-bold mb-4">Precisa de Ajuda para Escolher os Revestimentos Certos?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Cada produto e mercado é diferente. Vou ajudá-lo a descobrir qual combinação de revestimentos 
-              faz sentido para sua marca, seu preço e seus clientes — sem empurrar 
+              faz sentido para sua marca, seu preço e seus clientes -- sem empurrar 
               revestimentos que você não precisa.
             </p>
             <Link href="/pt/contato" className="btn-primary">
@@ -547,7 +547,7 @@ export default function SunglassesCoatingGuidePage() {
                 Em volumes de fábrica, revestimentos individuais variam de $0,15 para rígido a $3,00 para 
                 espelhado degradê premium. Uma combinação prática de faixa média (rígido + AR + hidro-oleofóbico) fica 
                 em torno de $1,50-$2,00 por par. Uma combinação premium completa com espelhado adiciona $3,50-$5,00 por par. 
-                Esses são custos de produção — não o que você verá no varejo.
+                Esses são custos de produção -- não o que você verá no varejo.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
@@ -555,7 +555,7 @@ export default function SunglassesCoatingGuidePage() {
               <p className="text-gray-600">
                 Sim, e você deveria. A ordem padrão das camadas é rígido como base, depois AR, depois espelhado 
                 (se usado), depois hidrofóbico e oleofóbico por cima. Anti-embaçante vai apenas na superfície interna. 
-                O único conflito: não coloque espelhado completo e AR na mesma superfície da lente — o espelhado já 
+                O único conflito: não coloque espelhado completo e AR na mesma superfície da lente -- o espelhado já 
                 cuida do reflexo nesse lado.
               </p>
             </div>
@@ -563,7 +563,7 @@ export default function SunglassesCoatingGuidePage() {
               <h3 className="font-bold text-lg mb-2">Quanto tempo duram os revestimentos de óculos?</h3>
               <p className="text-gray-600">
                 O rígido dura a vida útil da lente. O revestimento AR aguenta 2-3 anos. Revestimentos espelhados 
-                duram 1-3 anos dependendo do número de camadas — espelhados baratos de camada única desbotam rápido. Hidrofóbico 
+                duram 1-3 anos dependendo do número de camadas -- espelhados baratos de camada única desbotam rápido. Hidrofóbico 
                 e oleofóbico se desgastam mais rápido, em 1-2 anos, porque são a camada mais externa 
                 recebendo o desgaste diário. Revestimentos anti-embaçante duram cerca de 1-2 anos.
               </p>
@@ -585,11 +585,11 @@ export default function SunglassesCoatingGuidePage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/pt/blog/guia-lentes-oculos-sol" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Guia de Lentes para Óculos: Materiais, Tons e o que Realmente Importa</h3>
-                <p className="text-gray-600 text-sm">CR-39, policarbonato, náilon, TAC — qual material de lente é o certo para sua marca? O complemento deste guia de revestimentos.</p>
+                <p className="text-gray-600 text-sm">CR-39, policarbonato, náilon, TAC -- qual material de lente é o certo para sua marca? O complemento deste guia de revestimentos.</p>
               </Link>
               <Link href="/products/sport" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Coleção de Óculos Esportivos</h3>
-                <p className="text-gray-600 text-sm">Veja nossa linha completa esportiva — cada par construído com a combinação premium de revestimentos descrita neste guia.</p>
+                <p className="text-gray-600 text-sm">Veja nossa linha completa esportiva -- cada par construído com a combinação premium de revestimentos descrita neste guia.</p>
               </Link>
             </div>
           </div>

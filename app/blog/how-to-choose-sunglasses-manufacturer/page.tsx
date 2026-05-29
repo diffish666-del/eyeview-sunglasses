@@ -38,7 +38,7 @@ export default function HowToChooseManufacturer() {
             {
               "@type": "Question",
               "name": "How long does it take to evaluate a sunglasses manufacturer?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Plan for 2-4 weeks. Week 1: research and shortlist 5-10 factories. Week 2: request samples and quotes. Week 3: evaluate samples and check references. Week 4: negotiate terms and place trial order. Don't rush this — a bad manufacturer choice costs thousands." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Plan for 2-4 weeks. Week 1: research and shortlist 5-10 factories. Week 2: request samples and quotes. Week 3: evaluate samples and check references. Week 4: negotiate terms and place trial order. Don't rush this -- a bad manufacturer choice costs thousands." }
             },
             {
               "@type": "Question",
@@ -48,7 +48,7 @@ export default function HowToChooseManufacturer() {
             {
               "@type": "Question",
               "name": "What's the difference between OEM and ODM when choosing a manufacturer?",
-              "acceptedAnswer": { "@type": "Answer", "text": "OEM manufacturers need your designs and specifications — they manufacture to your blueprint. ODM manufacturers have existing designs you can customize with your branding. For new brands, ODM is faster and cheaper to start. For established brands with unique designs, OEM gives you full control. Choose a manufacturer that offers the model that fits your needs." }
+              "acceptedAnswer": { "@type": "Answer", "text": "OEM manufacturers need your designs and specifications -- they manufacture to your blueprint. ODM manufacturers have existing designs you can customize with your branding. For new brands, ODM is faster and cheaper to start. For established brands with unique designs, OEM gives you full control. Choose a manufacturer that offers the model that fits your needs." }
             }
           ]
         })}} />
@@ -72,7 +72,7 @@ export default function HowToChooseManufacturer() {
           I get about three emails a week from people asking me to evaluate sunglasses manufacturers they&apos;re considering. Some send me factory profiles. Some send me photos of samples. Some just paste a WeChat chat log and ask &ldquo;is this legit?&rdquo;
         </p>
         <p className="text-lg leading-relaxed mb-4">
-          Here&apos;s the honest truth: most of the time, the factory they&apos;re looking at is fine. The problem isn&apos;t the factory — it&apos;s the <strong>evaluation process</strong>. Most buyers don&apos;t know what to look for, so they default to price and response time. That&apos;s how you end up with 5,000 pairs of sunglasses that look great in the catalog but arrive with scratched lenses, loose hinges, and colors that don&apos;t match the sample.
+          Here&apos;s the honest truth: most of the time, the factory they&apos;re looking at is fine. The problem isn&apos;t the factory -- it&apos;s the <strong>evaluation process</strong>. Most buyers don&apos;t know what to look for, so they default to price and response time. That&apos;s how you end up with 5,000 pairs of sunglasses that look great in the catalog but arrive with scratched lenses, loose hinges, and colors that don&apos;t match the sample.
         </p>
         <p className="text-lg leading-relaxed mb-4">
           I&apos;ve been running a sunglasses factory since 2006. I&apos;ve also worked with buyers who&apos;ve made every mistake in the book. So I know both sides of this table. Here are the 10 things I tell people to check before committing to a sunglasses manufacturer.
@@ -88,7 +88,7 @@ export default function HowToChooseManufacturer() {
             { num: '2', title: 'Production Capacity', desc: 'Can they handle your order size? A factory that makes 100 pairs/day can&apos;t reliably deliver 10,000 pairs in two weeks. Ask for their monthly output and current utilization.' },
             { num: '3', title: 'Quality Control Process', desc: 'Do they have a documented QC process? At minimum: incoming material inspection, in-process checks, and final random inspection (AQL 2.5 standard). If they say &ldquo;we check everything,&rdquo; ask for the checklist.' },
             { num: '4', title: 'Certifications', desc: 'FDA registration (for US market), CE marking (for EU), UV400 testing reports, ISO 9001 for quality management. These aren&apos;t optional if you&apos;re selling legally.' },
-            { num: '5', title: 'Sample Quality', desc: 'Order samples from 3-5 factories before committing. Compare lens clarity, hinge smoothness, frame symmetry, and color accuracy. The sample is what you&apos;ll get — if it&apos;s bad, the production run will be worse.' },
+            { num: '5', title: 'Sample Quality', desc: 'Order samples from 3-5 factories before committing. Compare lens clarity, hinge smoothness, frame symmetry, and color accuracy. The sample is what you&apos;ll get -- if it&apos;s bad, the production run will be worse.' },
             { num: '6', title: 'Communication Responsiveness', desc: 'How fast do they reply? How clear is their English (or your language)? A factory that takes 3 days to answer a simple question will take 3 weeks to resolve a production problem.' },
             { num: '7', title: 'MOQ Flexibility', desc: 'Good factories will work with new brands on MOQ. If a factory insists on 1,000+ pairs for a first order without negotiation, they&apos;re not interested in growing with you.' },
             { num: '8', title: 'Lead Time Realism', desc: 'Be suspicious of factories promising 5-day production for custom orders. Realistic lead times: 15-25 days for standard, 25-35 days for custom. Rush is possible but costs 20-50% more.' },
@@ -164,7 +164,7 @@ export default function HowToChooseManufacturer() {
           {[
             {
               q: 'How long does it take to evaluate a sunglasses manufacturer?',
-              a: 'Plan for 2-4 weeks. Week 1: research and shortlist 5-10 factories. Week 2: request samples and quotes. Week 3: evaluate samples and check references. Week 4: negotiate terms and place trial order. Don&apos;t rush this — a bad manufacturer choice costs thousands.'
+              a: 'Plan for 2-4 weeks. Week 1: research and shortlist 5-10 factories. Week 2: request samples and quotes. Week 3: evaluate samples and check references. Week 4: negotiate terms and place trial order. Don&apos;t rush this -- a bad manufacturer choice costs thousands.'
             },
             {
               q: 'Should I visit the factory in person?',
@@ -172,7 +172,7 @@ export default function HowToChooseManufacturer() {
             },
             {
               q: 'What&apos;s the difference between OEM and ODM when choosing a manufacturer?',
-              a: 'OEM manufacturers need your designs and specifications — they manufacture to your blueprint. ODM manufacturers have existing designs you can customize with your branding. For new brands, ODM is faster and cheaper to start. For established brands with unique designs, OEM gives you full control. Choose a manufacturer that offers the model that fits your needs.'
+              a: 'OEM manufacturers need your designs and specifications -- they manufacture to your blueprint. ODM manufacturers have existing designs you can customize with your branding. For new brands, ODM is faster and cheaper to start. For established brands with unique designs, OEM gives you full control. Choose a manufacturer that offers the model that fits your needs.'
             },
           ].map((faq, i) => (
             <div key={i} className="bg-white rounded-xl p-6 shadow-sm">
@@ -186,7 +186,7 @@ export default function HowToChooseManufacturer() {
       {/* CTA */}
       <div className="bg-primary-600 rounded-xl p-8 text-center text-white">
         <h2 className="text-2xl font-bold mb-4">Ready to Find Your Manufacturer?</h2>
-        <p className="mb-6">Tell us about your brand and we&apos;ll give you an honest quote — no pressure, no obligation. If we&apos;re not the right fit, we&apos;ll tell you that too.</p>
+        <p className="mb-6">Tell us about your brand and we&apos;ll give you an honest quote -- no pressure, no obligation. If we&apos;re not the right fit, we&apos;ll tell you that too.</p>
         <Link href="/contact" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg inline-block">
           Contact Jacky for a Quote
         </Link>
@@ -198,7 +198,7 @@ export default function HowToChooseManufacturer() {
         <div className="grid md:grid-cols-2 gap-6">
           <Link href="/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
             <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM Sunglasses: Complete Guide</h3>
-            <p className="text-gray-600 text-sm">The honest breakdown of both manufacturing models — from someone who runs a factory.</p>
+            <p className="text-gray-600 text-sm">The honest breakdown of both manufacturing models -- from someone who runs a factory.</p>
           </Link>
           <Link href="/blog/find-sunglasses-manufacturer" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
             <h3 className="font-bold text-primary-600 mb-2">How to Find a Reliable Sunglasses Manufacturer</h3>
@@ -213,15 +213,15 @@ export default function HowToChooseManufacturer() {
         <div className="grid md:grid-cols-3 gap-6">
           <Link href="/products/wayfarer" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
             <h3 className="font-bold text-primary-600 mb-2">Wayfarer Sunglasses</h3>
-            <p className="text-gray-600 text-sm">Best-selling style — MOQ 50 pairs, perfect for new brands.</p>
+            <p className="text-gray-600 text-sm">Best-selling style -- MOQ 50 pairs, perfect for new brands.</p>
           </Link>
           <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
             <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
-            <p className="text-gray-600 text-sm">Classic metal frames — premium quality, competitive pricing.</p>
+            <p className="text-gray-600 text-sm">Classic metal frames -- premium quality, competitive pricing.</p>
           </Link>
           <Link href="/products/promotional" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
             <h3 className="font-bold text-primary-600 mb-2">Promotional Sunglasses</h3>
-            <p className="text-gray-600 text-sm">From $0.80/pair — ideal for event marketing and brand awareness.</p>
+            <p className="text-gray-600 text-sm">From $0.80/pair -- ideal for event marketing and brand awareness.</p>
           </Link>
         </div>
       </div>

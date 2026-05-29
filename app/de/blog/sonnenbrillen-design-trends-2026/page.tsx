@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Sonnenbrillen-Design-Trends 2026: Was sich jetzt verkauft',
-  description: 'Ein Sonnenbrillen-Fabrikinhaber verrät die angesagtesten Brillen-Designtrends für 2026. Echte Verkaufsdaten — übergroße Fassungen, Y2K-Revival, nachhaltige Materialien und mehr.',
+  description: 'Ein Sonnenbrillen-Fabrikinhaber verrät die angesagtesten Brillen-Designtrends für 2026. Echte Verkaufsdaten -- übergroße Fassungen, Y2K-Revival, nachhaltige Materialien und mehr.',
   keywords: 'Sonnenbrillen Trends 2026, Brillen Designtrends, beliebte Sonnenbrillen Modelle, trendige Sonnenbrillen, Sonnenbrillen Mode Trends',
   alternates: { canonical: '/de/blog/sonnenbrillen-design-trends-2026', languages: { 'en': '/blog/sunglasses-design-trends-2026', 'de': '/de/blog/sonnenbrillen-design-trends-2026' } },
 }
@@ -25,7 +25,7 @@ export default function SonnenbrillenDesignTrends2026Page() {
             <span>4. Mai 2026</span><span>•</span><span>11 Min. Lesezeit</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Sonnenbrillen-Design-Trends 2026: Was sich jetzt verkauft</h1>
-          <p className="text-xl text-gray-600">Vergessen Sie Modemagazine — ich sehe die Trends in den Bestellungen. Hier sind die Designs, die unsere Kunden tatsächlich kaufen, mit echten Produktionsdaten.</p>
+          <p className="text-xl text-gray-600">Vergessen Sie Modemagazine -- ich sehe die Trends in den Bestellungen. Hier sind die Designs, die unsere Kunden tatsächlich kaufen, mit echten Produktionsdaten.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
             <div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Gründer, EyeView Sunglasses</div></div>
@@ -33,12 +33,12 @@ export default function SonnenbrillenDesignTrends2026Page() {
         </header>
 
         <div className="prose prose-lg max-w-none">
-          <p className="text-xl text-gray-600 mb-8">Die meisten Trend-Artikel basieren auf Laufstegen und Instagram. Meiner basiert auf Bestelldaten — was Marken tatsächlich in Produktion geben. Das ist der Unterschied zwischen dem, was cool aussieht, und dem, was sich verkauft.</p>
+          <p className="text-xl text-gray-600 mb-8">Die meisten Trend-Artikel basieren auf Laufstegen und Instagram. Meiner basiert auf Bestelldaten -- was Marken tatsächlich in Produktion geben. Das ist der Unterschied zwischen dem, was cool aussieht, und dem, was sich verkauft.</p>
 
           <h2 className="text-3xl font-bold mt-16 mb-6">Top 5 Trends 2026</h2>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">1. Übergroße Eckige Fassungen</h3>
-          <p>Der dominante Trend des Jahres. Übergroße eckige und rechteckige Fassungen machen 35 % aller unserer Bestellungen aus — ein Anstieg von 28 % in 2025. Besonders beliebt in dickem Acetat mit kräftigen Farben.</p>
+          <p>Der dominante Trend des Jahres. Übergroße eckige und rechteckige Fassungen machen 35 % aller unserer Bestellungen aus -- ein Anstieg von 28 % in 2025. Besonders beliebt in dickem Acetat mit kräftigen Farben.</p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">2. Y2K-Revival: Schmale Ovale & Shields</h3>
           <p>Die 2000er sind zurück. Schmale ovale Fassungen und durchgehende Shield-Gläser erleben ein starkes Comeback, besonders bei der Gen-Z-Zielgruppe. 18 % unserer Bestellungen in Q1 2026.</p>
@@ -50,20 +50,20 @@ export default function SonnenbrillenDesignTrends2026Page() {
           <p>Am anderen Ende des Spektrums: ultraleichte, minimalistische Designs ohne oder mit halbem Rand. Beliebt bei Marken, die &quot;weniger ist mehr&quot; verkaufen. Besonders in Metall-Bügel + randloses Glas.</p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">5. Nachhaltige Materialien</h3>
-          <p>Bio-Acetat, recyceltes Nylon, Ozeanplastik — nachhaltige Materialien sind kein Nischenthema mehr. 12 % unserer Kunden bestellen jetzt mindestens ein Modell in nachhaltigen Materialien. Tendenz stark steigend.</p>
+          <p>Bio-Acetat, recyceltes Nylon, Ozeanplastik -- nachhaltige Materialien sind kein Nischenthema mehr. 12 % unserer Kunden bestellen jetzt mindestens ein Modell in nachhaltigen Materialien. Tendenz stark steigend.</p>
 
           <h2 className="text-3xl font-bold mt-16 mb-6">Farben, die sich verkaufen</h2>
           <ul>
-            <li><strong>#1 Schildpatt</strong> — zeitlos, nie aus der Mode, über alle Altersgruppen hinweg</li>
-            <li><strong>#2 Schwarz glänzend</strong> — der Klassiker, immer sichere Wahl</li>
-            <li><strong>#3 Transparentes Acetat</strong> — klar, leichtes Rosa oder Bernstein</li>
-            <li><strong>#4 Kräftige Einzelfarben</strong> — Rot, Blau, Grün in dickem Acetat</li>
-            <li><strong>#5 Pastelltöne</strong> — Lavendel, Mint, Pfirsich — besonders bei weiblicher Zielgruppe</li>
+            <li><strong>#1 Schildpatt</strong> -- zeitlos, nie aus der Mode, über alle Altersgruppen hinweg</li>
+            <li><strong>#2 Schwarz glänzend</strong> -- der Klassiker, immer sichere Wahl</li>
+            <li><strong>#3 Transparentes Acetat</strong> -- klar, leichtes Rosa oder Bernstein</li>
+            <li><strong>#4 Kräftige Einzelfarben</strong> -- Rot, Blau, Grün in dickem Acetat</li>
+            <li><strong>#5 Pastelltöne</strong> -- Lavendel, Mint, Pfirsich -- besonders bei weiblicher Zielgruppe</li>
           </ul>
 
           <div className="bg-primary-50 border-l-4 border-primary-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-primary-900 mb-2">Mein Rat für neue Marken:</h3>
-            <p className="text-primary-800">Starten Sie mit 3–5 Modellen: 1 übergroße eckige, 1 Cat-Eye oder runde, 1 klassische Wayfarer-Form. In Schildpatt, Schwarz und einer Trendfarbe. Das deckt 80 % der Nachfrage ab und minimiert Ihr Risiko.</p>
+            <p className="text-primary-800">Starten Sie mit 3-5 Modellen: 1 übergroße eckige, 1 Cat-Eye oder runde, 1 klassische Wayfarer-Form. In Schildpatt, Schwarz und einer Trendfarbe. Das deckt 80 % der Nachfrage ab und minimiert Ihr Risiko.</p>
           </div>
 
           <h2 className="text-3xl font-bold mt-16 mb-6">FAQ</h2>
@@ -74,7 +74,7 @@ export default function SonnenbrillenDesignTrends2026Page() {
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Sind übergroße Sonnenbrillen noch in?</h3>
-              <p className="text-gray-600">Absolut ja — stärker denn je. 35 % aller Bestellungen in 2026, Anstieg von 28 % in 2025. Besonders übergroße eckige und rechteckige Formen dominieren.</p>
+              <p className="text-gray-600">Absolut ja -- stärker denn je. 35 % aller Bestellungen in 2026, Anstieg von 28 % in 2025. Besonders übergroße eckige und rechteckige Formen dominieren.</p>
             </div>
           </div>
 

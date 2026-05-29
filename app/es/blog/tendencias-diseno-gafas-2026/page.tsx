@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Tendencias de Diseño de Gafas de Sol para 2026: Qué Se Vende Ahora',
-  description: 'Un dueño de fábrica revela las tendencias más calientes de diseño de gafas para 2026. Datos reales de ventas — monturas oversize, revival Y2K, materiales sostenibles y más.',
+  description: 'Un dueño de fábrica revela las tendencias más calientes de diseño de gafas para 2026. Datos reales de ventas -- monturas oversize, revival Y2K, materiales sostenibles y más.',
   keywords: 'tendencias gafas 2026, tendencias diseño gafas, estilos populares gafas, gafas de moda 2026',
   alternates: {
     canonical: '/es/blog/tendencias-diseno-gafas-2026',
@@ -27,7 +27,7 @@ export default function Page() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un dueño de fábrica revela las tendencias más calientes de diseño de gafas para 2026. Datos reales de ventas — monturas oversize, revival Y2K, materiales sostenibles y más.",
+          "description": "Un dueño de fábrica revela las tendencias más calientes de diseño de gafas para 2026. Datos reales de ventas -- monturas oversize, revival Y2K, materiales sostenibles y más.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/tendencias-diseno-gafas-2026" },
           "inLanguage": "es"
         })}} />
@@ -37,7 +37,7 @@ export default function Page() {
           "@type": "FAQPage",
           "mainEntity": [
             { "@type": "Question", "name": "¿Qué estilos de gafas están de moda en 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Las mayores tendencias: monturas oversize cuadradas y rectangulares, óvalos estrechos y lentes shield inspirados en el Y2K, acetato grueso en colores atrevidos, estilos rimless minimalistas y materiales sostenibles/bio-based." } },
-            { "@type": "Question", "name": "¿Las gafas oversize siguen de moda en 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Sí — las monturas oversize representan el 35% de todos los pedidos en nuestra fábrica. La forma ha pasado de oversize redonda/cat-eye a oversize cuadrada y rectangular." } },
+            { "@type": "Question", "name": "¿Las gafas oversize siguen de moda en 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Sí -- las monturas oversize representan el 35% de todos los pedidos en nuestra fábrica. La forma ha pasado de oversize redonda/cat-eye a oversize cuadrada y rectangular." } },
             { "@type": "Question", "name": "¿Qué colores de gafas son populares en 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Negro y carey siguen dominando (50%+). El crecimiento más rápido es en monturas translúcidas/cristal (+45% interanual), colores atrevidos como rojo cereza y azul cobalto (+60%), y tonos tierra (+35%)." } }
           ]
         })}} />
@@ -69,14 +69,14 @@ export default function Page() {
           <h2 className="text-3xl font-bold mt-16 mb-6">Preguntas Frecuentes</h2>
           <div className="space-y-6">
             <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Qué estilos de gafas están de moda en 2026?</h3><p className="text-gray-600">Las mayores tendencias: monturas oversize cuadradas y rectangulares, óvalos estrechos y lentes shield inspirados en el Y2K, acetato grueso en colores atrevidos, estilos rimless minimalistas y materiales sostenibles/bio-based.</p></div>
-            <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Las gafas oversize siguen de moda en 2026?</h3><p className="text-gray-600">Sí — las monturas oversize representan el 35% de todos los pedidos en nuestra fábrica. La forma ha pasado de oversize redonda/cat-eye a oversize cuadrada y rectangular.</p></div>
+            <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Las gafas oversize siguen de moda en 2026?</h3><p className="text-gray-600">Sí -- las monturas oversize representan el 35% de todos los pedidos en nuestra fábrica. La forma ha pasado de oversize redonda/cat-eye a oversize cuadrada y rectangular.</p></div>
             <div className="bg-white border border-gray-200 rounded-lg p-6"><h3 className="font-bold text-lg mb-2">¿Qué colores de gafas son populares en 2026?</h3><p className="text-gray-600">Negro y carey siguen dominando (50%+). El crecimiento más rápido es en monturas translúcidas/cristal (+45% interanual), colores atrevidos como rojo cereza y azul cobalto (+60%), y tonos tierra (+35%).</p></div>
           </div>
 
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">¿Tienes Preguntas? Hablemos.</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas — solo consejos honestos basados en 20 años de experiencia.
+              Hago llamadas de 15 minutos con nuevos dueños de marca cada semana. Sin discurso de ventas -- solo consejos honestos basados en 20 años de experiencia.
             </p>
             <Link href="/es/contacto" className="btn-primary">
               Agenda una Llamada Gratis con Jacky

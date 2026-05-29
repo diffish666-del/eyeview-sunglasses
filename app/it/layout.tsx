@@ -7,7 +7,7 @@ const localBusinessJsonLd = {
   "description": "Leading wholesale sunglasses manufacturer offering OEM & ODM custom sunglasses with 15+ years of experience.",
   "url": "https://eyeviewsunglasses.com/it",
   "telephone": "+86-18850281211",
-  "email": "jacky@eyeviewsunglasses.com",
+  "email": "sales@eyeviewsunglasses.com",
   "address": {
     "@type": "PostalAddress",
     "addressCountry": "CN"

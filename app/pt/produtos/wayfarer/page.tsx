@@ -28,61 +28,61 @@ const wayfarerFaqs = [
   },
   {
     question: 'Quantas cores e padrões vocês oferecem para armações wayfarer?',
-    answer: 'Mais de 200 e contando. Os clássicos — preto sólido, tartaruga escuro, tartaruga mel — estão sempre em estoque e prontos para enviar. Mas também temos cores transparentes (cristal, azul claro, rosa blush), combinações bicolor, efeitos mármore, padrões de veio de madeira e algumas coisas bem chamativas como acetato com glitter. Se você tem uma cor Pantone específica ou um padrão em mente, podemos conseguir chapas de acetato personalizadas — isso leva 7-10 dias extras e o MOQ sobe para 300 peças, mas vale a pena se você quer algo que ninguém mais tenha.',
+    answer: 'Mais de 200 e contando. Os clássicos -- preto sólido, tartaruga escuro, tartaruga mel -- estão sempre em estoque e prontos para enviar. Mas também temos cores transparentes (cristal, azul claro, rosa blush), combinações bicolor, efeitos mármore, padrões de veio de madeira e algumas coisas bem chamativas como acetato com glitter. Se você tem uma cor Pantone específica ou um padrão em mente, podemos conseguir chapas de acetato personalizadas -- isso leva 7-10 dias extras e o MOQ sobe para 300 peças, mas vale a pena se você quer algo que ninguém mais tenha.',
   },
   {
     question: 'Como os wayfarers se comparam com os aviadores para minha marca?',
-    answer: 'Sinceramente, são os dois estilos que recomendamos para toda marca nova começar, mas têm pontos fortes diferentes. Os wayfarers são de acetato, então vêm em muito mais cores e padrões — isso significa mais SKUs e mais variedade visual na sua página de produtos ou prateleira. Também custam menos por par ($5-11 vs $8-14 para aviadores) então suas margens podem ser melhores. Os aviadores são de metal e têm uma sensação mais premium e elegante. O wayfarer é mais casual, mais colorido, mais unissex. Se você tiver que escolher um: wayfarers para volume e variedade, aviadores para posicionamento premium. Mas falando sério, a maioria dos nossos clientes bem-sucedidos trabalha com ambos.',
+    answer: 'Sinceramente, são os dois estilos que recomendamos para toda marca nova começar, mas têm pontos fortes diferentes. Os wayfarers são de acetato, então vêm em muito mais cores e padrões -- isso significa mais SKUs e mais variedade visual na sua página de produtos ou prateleira. Também custam menos por par ($5-11 vs $8-14 para aviadores) então suas margens podem ser melhores. Os aviadores são de metal e têm uma sensação mais premium e elegante. O wayfarer é mais casual, mais colorido, mais unissex. Se você tiver que escolher um: wayfarers para volume e variedade, aviadores para posicionamento premium. Mas falando sério, a maioria dos nossos clientes bem-sucedidos trabalha com ambos.',
   },
   {
     question: 'Quais opções de logo funcionam melhor em óculos wayfarer?',
-    answer: 'Armações de acetato dão opções diferentes das de metal. O método mais popular é a estampagem a quente (lâmina dourada ou prateada) no interior da haste — fica limpo e premium. Também fazemos serigrafia (qualquer cor, interior ou exterior da haste), logos em relevo ou baixo-relevo pressionados diretamente no acetato, e insígnias de metal inseridas na haste. Para a frente da armação, alguns clientes colocam um pequeno rebite metálico ou tachão decorativo com seu logo. A estampagem a quente no interior da haste é onde a maioria das marcas começa — custa cerca de $0,15-0,20 extra por par.',
+    answer: 'Armações de acetato dão opções diferentes das de metal. O método mais popular é a estampagem a quente (lâmina dourada ou prateada) no interior da haste -- fica limpo e premium. Também fazemos serigrafia (qualquer cor, interior ou exterior da haste), logos em relevo ou baixo-relevo pressionados diretamente no acetato, e insígnias de metal inseridas na haste. Para a frente da armação, alguns clientes colocam um pequeno rebite metálico ou tachão decorativo com seu logo. A estampagem a quente no interior da haste é onde a maioria das marcas começa -- custa cerca de $0,15-0,20 extra por par.',
   },
   {
     question: 'Qual é o MOQ para óculos wayfarer personalizados?',
-    answer: 'Igual a tudo que fabricamos — 100 peças por modelo. Você pode misturar cores dentro dessas 100, o que é ótimo para testar. Um primeiro pedido típico de uma marca nova se parece com algo assim: 30 pretos, 20 tartaruga, 20 transparentes, 15 preto fosco, 15 de algo divertido como azul ou rosa. Isso dá cinco opções na sua loja sem um compromisso financeiro enorme. Quando você faz novo pedido, a maioria dos clientes dobra nos 2-3 cores que venderam melhor e elimina as que não saíram.',
+    answer: 'Igual a tudo que fabricamos -- 100 peças por modelo. Você pode misturar cores dentro dessas 100, o que é ótimo para testar. Um primeiro pedido típico de uma marca nova se parece com algo assim: 30 pretos, 20 tartaruga, 20 transparentes, 15 preto fosco, 15 de algo divertido como azul ou rosa. Isso dá cinco opções na sua loja sem um compromisso financeiro enorme. Quando você faz novo pedido, a maioria dos clientes dobra nos 2-3 cores que venderam melhor e elimina as que não saíram.',
   },
 ]
 
 const products = [
   {
     name: 'Wayfarer Preto Clássico',
-    description: 'O que começou tudo e continua superando todos os outros em vendas. Acetato preto sólido, lentes cinza UV400, acabamento polido. É o equivalente em óculos de sol a uma camiseta branca — combina com tudo e nunca sai de moda. Enviamos mais deste SKU individual do que de qualquer outro wayfarer do nosso catálogo. Se você está testando o mercado e só pode escolher uma cor, é esta. Toda e cada marca de óculos do planeta tem um wayfarer preto, e tem uma razão para isso.',
+    description: 'O que começou tudo e continua superando todos os outros em vendas. Acetato preto sólido, lentes cinza UV400, acabamento polido. É o equivalente em óculos de sol a uma camiseta branca -- combina com tudo e nunca sai de moda. Enviamos mais deste SKU individual do que de qualquer outro wayfarer do nosso catálogo. Se você está testando o mercado e só pode escolher uma cor, é esta. Toda e cada marca de óculos do planeta tem um wayfarer preto, e tem uma razão para isso.',
     price: '$5,50 - $9,00',
     moq: '100 pçs',
     features: ['Acetato Preto Sólido', 'Lente Cinza UV400', 'Acabamento Polido', 'Dobradiças de Mola'],
   },
   {
     name: 'Wayfarer Tartaruga',
-    description: 'Acetato tartaruga escuro clássico — aquele padrão de redemoinhos âmbar e marrom que tem sido um básico de moda masculina por décadas. Cada par tem um padrão ligeiramente diferente por causa de como as chapas de acetato são cortadas, o que na verdade adiciona à sensação premium (não existem dois pares exatamente iguais). Usamos um tartaruga profundo e quente que fotografa bem e atrai todas as faixas etárias. É o segundo mais vendido da nossa linha wayfarer e muitas marcas o usam como sua opção "premium" ao lado do preto.',
+    description: 'Acetato tartaruga escuro clássico -- aquele padrão de redemoinhos âmbar e marrom que tem sido um básico de moda masculina por décadas. Cada par tem um padrão ligeiramente diferente por causa de como as chapas de acetato são cortadas, o que na verdade adiciona à sensação premium (não existem dois pares exatamente iguais). Usamos um tartaruga profundo e quente que fotografa bem e atrai todas as faixas etárias. É o segundo mais vendido da nossa linha wayfarer e muitas marcas o usam como sua opção "premium" ao lado do preto.',
     price: '$6,00 - $10,00',
     moq: '100 pçs',
     features: ['Padrão Tartaruga Escuro', 'Único por Par', 'Lente Degradê Marrom', 'Polido à Mão'],
   },
   {
     name: 'Wayfarer Cristal Transparente',
-    description: 'Armação de acetato transparente com um leve brilho que captura a luz. Este estilo explodiu nos últimos anos — está por todo Instagram e TikTok, e o público jovem (18-30) responde muito bem. Combinado com lentes levemente tingidas em cinza ou azul para um visual limpo e moderno. A armação transparente também torna o logo mais visível se você faz branding no interior da haste. Grande vendedor para marcas fashion-forward e lojas de praia/resort. Espere que este fotografe muito bem para seus anúncios.',
+    description: 'Armação de acetato transparente com um leve brilho que captura a luz. Este estilo explodiu nos últimos anos -- está por todo Instagram e TikTok, e o público jovem (18-30) responde muito bem. Combinado com lentes levemente tingidas em cinza ou azul para um visual limpo e moderno. A armação transparente também torna o logo mais visível se você faz branding no interior da haste. Grande vendedor para marcas fashion-forward e lojas de praia/resort. Espere que este fotografe muito bem para seus anúncios.',
     price: '$6,50 - $10,50',
     moq: '100 pçs',
     features: ['Acetato Transparente', 'Lente Tingida Suave', 'Favorito nas Redes Sociais', 'Branding Visível'],
   },
   {
     name: 'Wayfarer Preto Fosco',
-    description: 'Mesma forma que o preto clássico mas com um acabamento fosco de toque suave que muda completamente a vibe. A superfície fosca é conseguida através de um processo especial de tamboreamento que remove o brilho sem afetar a durabilidade. Parece mais moderno, mais discreto — como a diferença entre uma capinha de celular brilhante e fosca. Combinado com lentes escuras esfumaçadas. Este vai bem com marcas streetwear, marcas minimalistas e qualquer marca que busque um visual de "luxo discreto". Custo por par ligeiramente mais alto pelo passo extra de acabamento.',
+    description: 'Mesma forma que o preto clássico mas com um acabamento fosco de toque suave que muda completamente a vibe. A superfície fosca é conseguida através de um processo especial de tamboreamento que remove o brilho sem afetar a durabilidade. Parece mais moderno, mais discreto -- como a diferença entre uma capinha de celular brilhante e fosca. Combinado com lentes escuras esfumaçadas. Este vai bem com marcas streetwear, marcas minimalistas e qualquer marca que busque um visual de "luxo discreto". Custo por par ligeiramente mais alto pelo passo extra de acabamento.',
     price: '$6,50 - $10,50',
     moq: '100 pçs',
     features: ['Fosco Toque Suave', 'Acabamento Tamboreado', 'Lente Esfumaçada Escura', 'Estética Moderna'],
   },
   {
     name: 'Wayfarer Degradê Azul Oceano',
-    description: 'Uma armação de acetato azul translúcido que degrada de azul marinho profundo no topo para azul mais claro embaixo — realmente chamativo pessoalmente. Combinado com lentes degradê azuis que combinam com o tom da armação. Este é o tipo de produto que faz alguém parar de rolar. Não é para toda marca (é mais declaração do que básico), mas para linhas resort, coleções de verão e marcas que querem se destacar em uma prateleira cheia, funciona. Vemos muitos pedidos deste para edições limitadas e lançamentos sazonais.',
+    description: 'Uma armação de acetato azul translúcido que degrada de azul marinho profundo no topo para azul mais claro embaixo -- realmente chamativo pessoalmente. Combinado com lentes degradê azuis que combinam com o tom da armação. Este é o tipo de produto que faz alguém parar de rolar. Não é para toda marca (é mais declaração do que básico), mas para linhas resort, coleções de verão e marcas que querem se destacar em uma prateleira cheia, funciona. Vemos muitos pedidos deste para edições limitadas e lançamentos sazonais.',
     price: '$7,00 - $11,00',
     moq: '100 pçs',
     features: ['Acetato Degradê Azul', 'Lente Combinando', 'Peça de Declaração', 'Pronto para Edição Limitada'],
   },
   {
     name: 'Wayfarer Acetato Vermelho',
-    description: 'Acetato vermelho ousado e sem desculpas que exige atenção. Não é vermelho cereja nem vermelho bombeiro — é mais um bordô-vermelho profundo e sofisticado que transmite confiança sem ser espalhafatoso. Combinado com lentes marrons para calorosidade. É um movimento poderoso em uma coleção: atrai o olhar no grid do seu site, destaca no Instagram e sinaliza que sua marca não tem medo de cor. Vende especialmente bem para mulheres e para marcas que miram no público consciente de moda. Um acréscimo inteligente ao lado dos seus básicos preto e tartaruga.',
+    description: 'Acetato vermelho ousado e sem desculpas que exige atenção. Não é vermelho cereja nem vermelho bombeiro -- é mais um bordô-vermelho profundo e sofisticado que transmite confiança sem ser espalhafatoso. Combinado com lentes marrons para calorosidade. É um movimento poderoso em uma coleção: atrai o olhar no grid do seu site, destaca no Instagram e sinaliza que sua marca não tem medo de cor. Vende especialmente bem para mulheres e para marcas que miram no público consciente de moda. Um acréscimo inteligente ao lado dos seus básicos preto e tartaruga.',
     price: '$7,00 - $11,00',
     moq: '100 pçs',
     features: ['Acetato Vermelho Profundo', 'Lente Quente Marrom', 'Chama Atenção', 'Fashion Forward'],
@@ -140,10 +140,10 @@ export default function WayfarerPagePt() {
                 O wayfarer tem uma história que nenhum outro modelo de óculos de sol pode igualar. Em 1952, um <a href="https://en.wikipedia.org/wiki/Ray-Ban_Wayfarer" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">designer chamado Raymond Stegeman</a> na Bausch &amp; Lomb fez algo radical: abandonou o metal completamente e projetou uma armação de óculos feita de um novo material chamado acetato. O resultado era ousado, angular e completamente diferente de tudo que as pessoas tinham visto antes. Parecia o futuro.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Hollywood percebeu rápido. James Dean usou wayfarer em <em>Juventude Transviada</em>. Audrey Hepburn usou em <em>Bonequinha de Luxo</em>. Nos anos 60, os wayfarers estavam em todo lugar — em estrelas do rock, políticos, artistas e pessoas comuns que simplesmente queriam ficar bem. As vendas caíram nos anos 70 e 80, mas então <em>Top Gun</em> e <em>Clube dos Cinco</em> os trouxeram de volta com força. O padrão se repetiu a cada década desde então: wayfarers caem ligeiramente, depois voltam mais fortes. A essa altura, chamá-los de &ldquo;tendência&rdquo; não faz sentido. São um item permanente.
+                Hollywood percebeu rápido. James Dean usou wayfarer em <em>Juventude Transviada</em>. Audrey Hepburn usou em <em>Bonequinha de Luxo</em>. Nos anos 60, os wayfarers estavam em todo lugar -- em estrelas do rock, políticos, artistas e pessoas comuns que simplesmente queriam ficar bem. As vendas caíram nos anos 70 e 80, mas então <em>Top Gun</em> e <em>Clube dos Cinco</em> os trouxeram de volta com força. O padrão se repetiu a cada década desde então: wayfarers caem ligeiramente, depois voltam mais fortes. A essa altura, chamá-los de &ldquo;tendência&rdquo; não faz sentido. São um item permanente.
               </p>
               <p className="text-lg leading-relaxed">
-                Como <strong>fabricante de óculos wayfarer</strong>, produzimos essas armações em <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acetato de grau italiano</a> premium — o mesmo tipo de material usado por marcas de luxo que cobram $200-400 no varejo. O acetato é de origem vegetal (fibras de algodão e polpa de madeira), hipoalergênico, e tem uma riqueza de cor que o plástico moldado por injeção simplesmente não consegue replicar. Temos mais de 200 cores e padrões em estoque, e podemos conseguir acetato personalizado para requisitos únicos de marca. Com preços a partir de apenas $5,50 por par, wayfarers no atacado oferecem algumas das melhores margens de todo o negócio de óculos.
+                Como <strong>fabricante de óculos wayfarer</strong>, produzimos essas armações em <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acetato de grau italiano</a> premium -- o mesmo tipo de material usado por marcas de luxo que cobram $200-400 no varejo. O acetato é de origem vegetal (fibras de algodão e polpa de madeira), hipoalergênico, e tem uma riqueza de cor que o plástico moldado por injeção simplesmente não consegue replicar. Temos mais de 200 cores e padrões em estoque, e podemos conseguir acetato personalizado para requisitos únicos de marca. Com preços a partir de apenas $5,50 por par, wayfarers no atacado oferecem algumas das melhores margens de todo o negócio de óculos.
               </p>
             </div>
           </div>
@@ -228,14 +228,14 @@ export default function WayfarerPagePt() {
                       ['Largura da Ponte', '18mm / 20mm / 22mm'],
                       ['Comprimento da Haste', '140mm / 145mm / 150mm'],
                       ['Altura da Lente', '38mm - 44mm'],
-                      ['Proteção UV', 'UV400 — bloqueia 100% da radiação UVA e UVB'],
-                      ['Polarização', 'Opcional película TAC de 7 camadas — 99% de redução de reflexo'],
+                      ['Proteção UV', 'UV400 -- bloqueia 100% da radiação UVA e UVB'],
+                      ['Polarização', 'Opcional película TAC de 7 camadas -- 99% de redução de reflexo'],
                       ['Cores da Armação', '200+ cores de acetato: sólido, tartaruga, transparente, mármore, degradê, personalizado'],
-                      ['Cores da Lente', 'Cinza, Marrom, Verde, Azul, Rosa, Amarelo, Espelhado, Degradê — todas disponíveis'],
+                      ['Cores da Lente', 'Cinza, Marrom, Verde, Azul, Rosa, Amarelo, Espelhado, Degradê -- todas disponíveis'],
                       ['Dobradiças', 'Dobradiças de mola de 5 barris (padrão) ou 7 barris (premium)'],
-                      ['Ponte Nasal', 'Ponte integrada keyhole ou sela — moldada na armação'],
+                      ['Ponte Nasal', 'Ponte integrada keyhole ou sela -- moldada na armação'],
                       ['Certificações', 'CE (EN ISO 12312-1) · FDA (21 CFR 801.410) · UV400 · ISO 9001'],
-                      ['MOQ', '100 peças por modelo — mistura de cores permitida'],
+                      ['MOQ', '100 peças por modelo -- mistura de cores permitida'],
                       ['Prazo de Amostra', '3-5 dias úteis'],
                       ['Prazo de Produção', '15-20 dias padrão / 10-12 dias urgente'],
                     ].map(([label, value], i) => (
@@ -261,7 +261,7 @@ export default function WayfarerPagePt() {
               <div className="bg-white rounded-xl p-8 border border-gray-200">
                 <h3 className="text-xl font-bold mb-4 text-green-700">✅ Acetato (O Que Recomendamos)</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  O <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acetato</a> é feito de fibras de algodão e polpa de madeira — é tecnicamente um material de origem vegetal, o que é um bom ângulo de sustentabilidade para o marketing. É cortado de chapas sólidas (não moldado por injeção), o que significa que as cores vão de lado a lado. Arranhe a superfície e a cor ainda está lá. O material tem uma calorosidade e profundidade naturais que parecem caras. Também é hipoalergênico e ajustável — ópticos podem ajustar armações de acetato com calor para um ajuste personalizado.
+                  O <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">acetato</a> é feito de fibras de algodão e polpa de madeira -- é tecnicamente um material de origem vegetal, o que é um bom ângulo de sustentabilidade para o marketing. É cortado de chapas sólidas (não moldado por injeção), o que significa que as cores vão de lado a lado. Arranhe a superfície e a cor ainda está lá. O material tem uma calorosidade e profundidade naturais que parecem caras. Também é hipoalergênico e ajustável -- ópticos podem ajustar armações de acetato com calor para um ajuste personalizado.
                 </p>
                 <p className="text-gray-600 leading-relaxed">
                   Nosso acetato vem de fabricantes italianos estabelecidos como <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Mazzucchelli</a> (fundada em 1849) que fornecem a mesma matéria-prima para casas de óculos de luxo. A diferença de custo vs plástico é de $2-3/par, mas o salto no valor percebido no varejo é de $20-40. É a melhor melhoria em retorno sobre investimento que você pode fazer.
@@ -271,10 +271,10 @@ export default function WayfarerPagePt() {
               <div className="bg-white rounded-xl p-8 border border-gray-200">
                 <h3 className="text-xl font-bold mb-4 text-gray-500">⚠️ PC / Plástico Moldado por Injeção</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Também oferecemos isso, e tem seu lugar — principalmente para produtos promocionais, linhas econômicas abaixo de $15 no varejo e óculos infantis onde a durabilidade importa mais que a sensação. O plástico PC é mais leve (20-24g vs 28-32g do acetato), mais barato ($3,50-6/par) e virtualmente indestrutível.
+                  Também oferecemos isso, e tem seu lugar -- principalmente para produtos promocionais, linhas econômicas abaixo de $15 no varejo e óculos infantis onde a durabilidade importa mais que a sensação. O plástico PC é mais leve (20-24g vs 28-32g do acetato), mais barato ($3,50-6/par) e virtualmente indestrutível.
                 </p>
                 <p className="text-gray-600 leading-relaxed">
-                  Mas não tem sensação premium. A cor é superficial (pode ser arranhada), o acabamento é brilhante de um jeito que grita &ldquo;barato&rdquo; e não há variação natural de padrão. Se sua marca está posicionada acima dos óculos de posto de gasolina, vá de acetato. Se você está fazendo um brinde promocional de $5 para uma feira, plástico está ok. Não julgamos — fabricamos ambos.
+                  Mas não tem sensação premium. A cor é superficial (pode ser arranhada), o acabamento é brilhante de um jeito que grita &ldquo;barato&rdquo; e não há variação natural de padrão. Se sua marca está posicionada acima dos óculos de posto de gasolina, vá de acetato. Se você está fazendo um brinde promocional de $5 para uma feira, plástico está ok. Não julgamos -- fabricamos ambos.
                 </p>
               </div>
             </div>
@@ -293,19 +293,19 @@ export default function WayfarerPagePt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estampagem a quente</strong> — lâmina dourada ou prateada prensada na haste. Limpo, luxuoso, nosso mais popular para wayfarers. ~$0,15-0,20/par.</span>
+                    <span><strong>Estampagem a quente</strong> -- lâmina dourada ou prateada prensada na haste. Limpo, luxuoso, nosso mais popular para wayfarers. ~$0,15-0,20/par.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Serigrafia</strong> — qualquer cor, interior ou exterior da haste. Mais visível que a estampagem a quente.</span>
+                    <span><strong>Serigrafia</strong> -- qualquer cor, interior ou exterior da haste. Mais visível que a estampagem a quente.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Relevo / baixo-relevo</strong> — logo prensado diretamente no acetato. Sutil, tátil, muito premium.</span>
+                    <span><strong>Relevo / baixo-relevo</strong> -- logo prensado diretamente no acetato. Sutil, tátil, muito premium.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Insígnia metálica</strong> — pequeno logo de metal inserido na haste. Efeito 3D que se destaca.</span>
+                    <span><strong>Insígnia metálica</strong> -- pequeno logo de metal inserido na haste. Efeito 3D que se destaca.</span>
                   </li>
                 </ul>
               </div>
@@ -315,19 +315,19 @@ export default function WayfarerPagePt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>200+ cores de acetato em estoque</strong> — sólido, tartaruga, transparente, mármore, veio de madeira, degradê</span>
+                    <span><strong>200+ cores de acetato em estoque</strong> -- sólido, tartaruga, transparente, mármore, veio de madeira, degradê</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Igualação Pantone personalizada</strong> — nos dê um código de cor e conseguimos o acetato sob medida (MOQ 300 pçs)</span>
+                    <span><strong>Igualação Pantone personalizada</strong> -- nos dê um código de cor e conseguimos o acetato sob medida (MOQ 300 pçs)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Armações bicolor</strong> — cor diferente interior vs exterior para um visual em camadas</span>
+                    <span><strong>Armações bicolor</strong> -- cor diferente interior vs exterior para um visual em camadas</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Acabamento fosco ou brilhante</strong> — brilhante é padrão, fosco custa ~$0,30/par extra</span>
+                    <span><strong>Acabamento fosco ou brilhante</strong> -- brilhante é padrão, fosco custa ~$0,30/par extra</span>
                   </li>
                 </ul>
               </div>
@@ -337,7 +337,7 @@ export default function WayfarerPagePt() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Estojos rígidos:</strong> EVA, couro sintético ou papelão — todos com seu logo. $0,80-2,50/un dependendo do material.</span>
+                    <span><strong>Estojos rígidos:</strong> EVA, couro sintético ou papelão -- todos com seu logo. $0,80-2,50/un dependendo do material.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
@@ -374,11 +374,11 @@ export default function WayfarerPagePt() {
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🎪 Empresas de Eventos e Promoção</h3>
-                <p className="text-gray-600 text-sm">Eventos corporativos, festivais de música, casamentos, feiras — wayfarers de cor personalizada com logo são o brinde perfeito. As pessoas realmente guardam e usam.</p>
+                <p className="text-gray-600 text-sm">Eventos corporativos, festivais de música, casamentos, feiras -- wayfarers de cor personalizada com logo são o brinde perfeito. As pessoas realmente guardam e usam.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🏬 Lojas de Varejo e Boutiques</h3>
-                <p className="text-gray-600 text-sm">Lojas físicas que querem sua própria marca. A variedade de cores permite encher um display com uma única forma de armação — o que simplifica o estoque.</p>
+                <p className="text-gray-600 text-sm">Lojas físicas que querem sua própria marca. A variedade de cores permite encher um display com uma única forma de armação -- o que simplifica o estoque.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">👗 Marcas de Moda e Vestuário</h3>
@@ -386,7 +386,7 @@ export default function WayfarerPagePt() {
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🏖️ Resort e Turismo</h3>
-                <p className="text-gray-600 text-sm">Hotéis, cruzeiros e lojas de turistas. Wayfarers personalizados com o nome do destino são ótimos souvenirs que as pessoas realmente usam — não mais um ímã de geladeira.</p>
+                <p className="text-gray-600 text-sm">Hotéis, cruzeiros e lojas de turistas. Wayfarers personalizados com o nome do destino são ótimos souvenirs que as pessoas realmente usam -- não mais um ímã de geladeira.</p>
               </div>
             </div>
           </section>

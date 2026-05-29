@@ -21,7 +21,7 @@ const sportCategories = [
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$10.00 - $15.00',
     moq: '100 pcs',
-    description: 'You\'re doing 40km/h on a descent. A bug hits your eye. Game over. That\'s why every serious cyclist needs proper eyewear — not fashion shades from a gas station. Our cycling sunglasses wrap around the face to block wind, dust, and insects from every angle. The interchangeable lens system lets riders swap between clear lenses for dawn rides, yellow for overcast days, and dark tints for noon blasts. And the anti-slip rubber grips? They actually grip tighter when you sweat. No more pushing glasses back up your nose mid-climb.',
+    description: 'You\'re doing 40km/h on a descent. A bug hits your eye. Game over. That\'s why every serious cyclist needs proper eyewear -- not fashion shades from a gas station. Our cycling sunglasses wrap around the face to block wind, dust, and insects from every angle. The interchangeable lens system lets riders swap between clear lenses for dawn rides, yellow for overcast days, and dark tints for noon blasts. And the anti-slip rubber grips? They actually grip tighter when you sweat. No more pushing glasses back up your nose mid-climb.',
     features: ['Aerodynamic wraparound design', 'Interchangeable 3-lens system', 'Sweat-activated rubber grips', 'Ventilated anti-fog frame'],
   },
   {
@@ -29,15 +29,15 @@ const sportCategories = [
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$9.50 - $14.00',
     moq: '100 pcs',
-    description: 'Here\'s the thing about running sunglasses — if you can feel them on your face, they\'re wrong. Our running frames weigh under 25 grams. That\'s lighter than a AA battery. Marathoners wear them for 4+ hours without even noticing. The flexible TR90 frame absorbs the constant bounce of running, and the wide lenses give you full peripheral vision so you can spot that pothole or that off-leash dog before it\'s too late. We\'ve had running club owners order 500+ pairs at a time for team kits.',
-    features: ['Under 25g — lighter than a battery', 'Hydrophilic sweat-grip pads', 'Full peripheral vision', 'Bounce-absorbing flexible frame'],
+    description: 'Here\'s the thing about running sunglasses -- if you can feel them on your face, they\'re wrong. Our running frames weigh under 25 grams. That\'s lighter than a AA battery. Marathoners wear them for 4+ hours without even noticing. The flexible TR90 frame absorbs the constant bounce of running, and the wide lenses give you full peripheral vision so you can spot that pothole or that off-leash dog before it\'s too late. We\'ve had running club owners order 500+ pairs at a time for team kits.',
+    features: ['Under 25g -- lighter than a battery', 'Hydrophilic sweat-grip pads', 'Full peripheral vision', 'Bounce-absorbing flexible frame'],
   },
   {
     name: 'Fishing Sunglasses',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$11.00 - $16.00',
     moq: '100 pcs',
-    description: 'Picture this — you\'re out on the lake at 6am, the sun\'s bouncing off the water and you can\'t see your line. Every angler knows that blinding glare. Our fishing sunglasses cut right through it. The polarized lenses strip away surface reflection so you can actually see into the water — spot the fish, read the structure, watch your lure. Amber and copper tints boost contrast in both freshwater and saltwater. One fishing guide in Florida told us these glasses "paid for themselves on the first charter." We also offer floating frame options because, let\'s be honest, sunglasses and boats don\'t always mix well.',
+    description: 'Picture this -- you\'re out on the lake at 6am, the sun\'s bouncing off the water and you can\'t see your line. Every angler knows that blinding glare. Our fishing sunglasses cut right through it. The polarized lenses strip away surface reflection so you can actually see into the water -- spot the fish, read the structure, watch your lure. Amber and copper tints boost contrast in both freshwater and saltwater. One fishing guide in Florida told us these glasses "paid for themselves on the first charter." We also offer floating frame options because, let\'s be honest, sunglasses and boats don\'t always mix well.',
     features: ['Polarized glare-cutting lenses', 'Amber/copper contrast tints', 'Floating frame option available', 'Saltwater-resistant hinges'],
   },
   {
@@ -45,7 +45,7 @@ const sportCategories = [
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$10.50 - $15.50',
     moq: '100 pcs',
-    description: 'Golf is a game of inches, and you can\'t play inches if you can\'t see the ball. Our golf sunglasses use rose and amber lens tints that make a white ball pop against a green fairway. Tracking the ball flight against a bright sky? Easy. Reading the break on a sunlit green? Much clearer. The frame is so light you\'ll forget you\'re wearing them mid-swing — which is exactly the point. We supply several golf resort pro shops across Southeast Asia, and the feedback is always the same: "Players actually want to buy them after trying them on."',
+    description: 'Golf is a game of inches, and you can\'t play inches if you can\'t see the ball. Our golf sunglasses use rose and amber lens tints that make a white ball pop against a green fairway. Tracking the ball flight against a bright sky? Easy. Reading the break on a sunlit green? Much clearer. The frame is so light you\'ll forget you\'re wearing them mid-swing -- which is exactly the point. We supply several golf resort pro shops across Southeast Asia, and the feedback is always the same: "Players actually want to buy them after trying them on."',
     features: ['Rose/amber ball-tracking lenses', 'Featherlight swing-friendly fit', 'Wide temple sun shade', 'Pro-shop tested and approved'],
   },
   {
@@ -53,7 +53,7 @@ const sportCategories = [
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$12.00 - $17.00',
     moq: '100 pcs',
-    description: 'Did you know UV levels jump 10% for every 1,000 meters of elevation? At the top of a ski run, your eyes are getting hammered. Snow blindness is real — and it\'s painful. Our ski sunglasses use Category 3-4 dark lenses that block 92-97% of visible light. The close-fitting wraparound design keeps wind and snow out of your eyes, while anti-fog ventilation channels prevent that annoying lens fogging when you\'re breathing hard on a mogul run. Helmet-compatible temple tips mean no pressure points under your helmet. A ski rental shop in Hokkaido orders 2,000 pairs from us every season.',
+    description: 'Did you know UV levels jump 10% for every 1,000 meters of elevation? At the top of a ski run, your eyes are getting hammered. Snow blindness is real -- and it\'s painful. Our ski sunglasses use Category 3-4 dark lenses that block 92-97% of visible light. The close-fitting wraparound design keeps wind and snow out of your eyes, while anti-fog ventilation channels prevent that annoying lens fogging when you\'re breathing hard on a mogul run. Helmet-compatible temple tips mean no pressure points under your helmet. A ski rental shop in Hokkaido orders 2,000 pairs from us every season.',
     features: ['Cat 3-4 snow blindness protection', 'Anti-fog ventilation channels', 'Wind-blocking close fit', 'Helmet-compatible design'],
   },
   {
@@ -61,7 +61,7 @@ const sportCategories = [
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$10.00 - $15.00',
     moq: '100 pcs',
-    description: 'An outfielder staring into the sun on a fly ball — that split second of blindness can cost the game. Our baseball sunglasses are built for exactly this moment. The amber polarized lenses sharpen a white ball against blue sky like nothing else. And these aren\'t flimsy frames — they meet ASTM F803 impact standards, meaning they can handle a line drive to the face. The secure wraparound stays locked during diving catches and headfirst slides. We\'ve supplied Little League teams, college programs, and rec leagues across 12 countries.',
+    description: 'An outfielder staring into the sun on a fly ball -- that split second of blindness can cost the game. Our baseball sunglasses are built for exactly this moment. The amber polarized lenses sharpen a white ball against blue sky like nothing else. And these aren\'t flimsy frames -- they meet ASTM F803 impact standards, meaning they can handle a line drive to the face. The secure wraparound stays locked during diving catches and headfirst slides. We\'ve supplied Little League teams, college programs, and rec leagues across 12 countries.',
     features: ['ASTM F803 impact protection', 'Amber polarized ball tracking', 'Secure no-slip wraparound', 'Shatterproof polycarbonate lens'],
   },
 ]
@@ -90,7 +90,7 @@ export default function SportPage() {
       <FAQPageSchema faqs={[
         {
           question: 'What is the best lens material for sport sunglasses?',
-          answer: 'Polycarbonate is the best lens material for sport sunglasses — it\'s impact-resistant, lightweight, and naturally UV protective. TAC is a good alternative for casual sports (walking, cycling) but polycarbonate is essential for high-impact sports (baseball, basketball, skiing). All our sport sunglasses use polycarbonate lenses as standard.',
+          answer: 'Polycarbonate is the best lens material for sport sunglasses -- it\'s impact-resistant, lightweight, and naturally UV protective. TAC is a good alternative for casual sports (walking, cycling) but polycarbonate is essential for high-impact sports (baseball, basketball, skiing). All our sport sunglasses use polycarbonate lenses as standard.',
         },
         {
           question: 'What frame material is best for sport sunglasses?',
@@ -119,7 +119,7 @@ export default function SportPage() {
             Sport Sunglasses Wholesale
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Built for athletes who actually need their sunglasses to perform — not just look good.
+            Built for athletes who actually need their sunglasses to perform -- not just look good.
             Polarized TAC lenses, featherlight TR90 frames, and wraparound designs that stay put
             when you&apos;re pushing hard. From cycling clubs to fishing charters, we supply the
             eyewear that works as hard as the people wearing it.
@@ -142,7 +142,7 @@ export default function SportPage() {
             <p>
               Let&apos;s be blunt: those $3 sunglasses from the checkout counter will fall off your face
               the moment you start sweating. They&apos;ll fog up when you breathe hard. They&apos;ll bounce
-              around on every stride. And worst of all — some of them don&apos;t even block UV properly,
+              around on every stride. And worst of all -- some of them don&apos;t even block UV properly,
               which means they&apos;re actually <em>more dangerous</em> than wearing nothing at all. (Dark
               lenses without UV protection dilate your pupils, letting in more harmful radiation.
               Not good.)
@@ -150,17 +150,17 @@ export default function SportPage() {
             <p>
               Real sport sunglasses solve problems that athletes actually have. Glare from wet roads
               during a morning ride? Polarized TAC lenses kill it. Frames that shatter on impact?
-              TR90 nylon bends instead of breaking — you can literally twist them 90 degrees and they
+              TR90 nylon bends instead of breaking -- you can literally twist them 90 degrees and they
               snap right back. Glasses sliding down a sweaty nose? Hydrophilic rubber pads grip
               <em> tighter</em> when wet. These aren&apos;t gimmicks. They&apos;re the difference between
               gear that helps you perform and gear that gets in the way. The <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">World Health Organization</a> recommends
-              UV-protective eyewear for anyone spending extended time outdoors — and athletes are at the top of that list.
+              UV-protective eyewear for anyone spending extended time outdoors -- and athletes are at the top of that list.
             </p>
             <p>
               We&apos;ve been manufacturing sport sunglasses for over 8 years, shipping to outdoor
               retailers, sports teams, gym chains, and promotional companies across 50+ countries.
               Whether you need 100 pairs for a cycling team or 10,000 for a retail launch, we&apos;ve
-              got you covered — and we&apos;ll put your logo on them too.
+              got you covered -- and we&apos;ll put your logo on them too.
             </p>
           </div>
         </section>
@@ -214,11 +214,11 @@ export default function SportPage() {
           <h2 className="text-3xl font-bold text-center mb-8">The Tech Behind the Toughness</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div>
-              <h3 className="text-xl font-semibold mb-4">🔬 TR90 Frames — Bend Them, They Won&apos;t Break</h3>
+              <h3 className="text-xl font-semibold mb-4">🔬 TR90 Frames -- Bend Them, They Won&apos;t Break</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
                 TR90 is a thermoplastic nylon originally developed in Switzerland. It&apos;s the same
                 family of materials used in high-end sports equipment. What makes it special? It&apos;s
-                35% lighter than regular plastic frames — most of our sport frames weigh between
+                35% lighter than regular plastic frames -- most of our sport frames weigh between
                 22-28 grams. You can bend a TR90 frame 90 degrees and it springs right back. Try
                 that with a cheap pair from the market. It&apos;s also hypoallergenic, so no itchy red
                 marks after a long ride. Works fine in freezing ski conditions (-40°C) and won&apos;t
@@ -226,13 +226,13 @@ export default function SportPage() {
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
                 <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>35% lighter than standard plastic</li>
-                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Survives 90° bending — no snap</li>
+                <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Survives 90° bending -- no snap</li>
                 <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Handles -40°C to 120°C</li>
                 <li className="flex items-center"><span className="w-2 h-2 bg-primary-600 rounded-full mr-2"></span>Hypoallergenic & BPA-free</li>
               </ul>
             </div>
             <div>
-              <h3 className="text-xl font-semibold mb-4">🛡️ TAC Polarized Lenses — 7 Layers of &quot;Whoa&quot;</h3>
+              <h3 className="text-xl font-semibold mb-4">🛡️ TAC Polarized Lenses -- 7 Layers of &quot;Whoa&quot;</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
                 Our TAC lenses aren&apos;t just a tinted piece of plastic. They&apos;re a 7-layer sandwich:
                 hard coating on the outside for scratch resistance, TAC material layers for structural
@@ -256,9 +256,9 @@ export default function SportPage() {
         <section className="mb-16">
           <h2 className="text-3xl font-bold text-center mb-8">What Sets These Apart</h2>
           <div className="grid md:grid-cols-4 gap-6">
-            <FeatureCard icon="🏃" title="Stupid Light" description="Under 28g. You'll forget they're on your face — until someone asks where you got them." />
+            <FeatureCard icon="🏃" title="Stupid Light" description="Under 28g. You'll forget they're on your face -- until someone asks where you got them." />
             <FeatureCard icon="🛡️" title="Impact Tough" description="Polycarbonate lenses that meet ANSI Z87.1. A rock chip won't ruin your ride." />
-            <FeatureCard icon="💧" title="No Fog, Ever" description="Ventilated channels keep air moving. Sprint up a hill — lenses stay clear." />
+            <FeatureCard icon="💧" title="No Fog, Ever" description="Ventilated channels keep air moving. Sprint up a hill -- lenses stay clear." />
             <FeatureCard icon="☀️" title="Real UV400" description="Lab-tested, certified. Blocks 100% of UVA/UVB/UVC. Not just a sticker claim." />
           </div>
         </section>
@@ -321,27 +321,27 @@ export default function SportPage() {
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="What's the minimum order? Can I start small?"
-              answer="Yep — 100 pieces per style and color is our standard MOQ. If you want your own logo and custom colors, that bumps up to 300 pieces. But honestly, most first-time buyers start with a mixed sample order to test the market. Just tell us what you're after and we'll figure out a way to make it work."
+              answer="Yep -- 100 pieces per style and color is our standard MOQ. If you want your own logo and custom colors, that bumps up to 300 pieces. But honestly, most first-time buyers start with a mixed sample order to test the market. Just tell us what you're after and we'll figure out a way to make it work."
             />
             <FaqItem
-              question="TR90 vs. polycarbonate — which should I pick?"
-              answer="Short answer: TR90 if you can afford it. It's 35% lighter, way more flexible (you can literally bend it flat and it springs back), and it feels premium. Polycarbonate is totally fine for budget lines — it's still impact-resistant and gets the job done. But if your customers are serious athletes or you're positioning as a premium brand, go TR90. The price difference is usually only $1-2 per pair."
+              question="TR90 vs. polycarbonate -- which should I pick?"
+              answer="Short answer: TR90 if you can afford it. It's 35% lighter, way more flexible (you can literally bend it flat and it springs back), and it feels premium. Polycarbonate is totally fine for budget lines -- it's still impact-resistant and gets the job done. But if your customers are serious athletes or you're positioning as a premium brand, go TR90. The price difference is usually only $1-2 per pair."
             />
             <FaqItem
               question="Are all your sport sunglasses polarized?"
-              answer="Polarization is available on every model, but it's not always included by default on the standard line — it's optional. On our premium line, TAC polarized lenses come standard. We offer 12+ lens colors including gray, brown, amber, yellow (great for low light), blue mirror, red mirror, and clear. We also do photochromic lenses that auto-adjust to sunlight. Those are popular with cyclists who ride from dawn to noon."
+              answer="Polarization is available on every model, but it's not always included by default on the standard line -- it's optional. On our premium line, TAC polarized lenses come standard. We offer 12+ lens colors including gray, brown, amber, yellow (great for low light), blue mirror, red mirror, and clear. We also do photochromic lenses that auto-adjust to sunlight. Those are popular with cyclists who ride from dawn to noon."
             />
             <FaqItem
               question="Can you put our logo on them?"
-              answer="Absolutely. We do logo printing on temples (pad printing or laser etching), lens etching, custom frame colors with Pantone matching, custom packaging — the works. One client sent us a napkin sketch of a frame design and we turned it into a 3D prototype in two weeks. If you can dream it, we can probably make it."
+              answer="Absolutely. We do logo printing on temples (pad printing or laser etching), lens etching, custom frame colors with Pantone matching, custom packaging -- the works. One client sent us a napkin sketch of a frame design and we turned it into a 3D prototype in two weeks. If you can dream it, we can probably make it."
             />
             <FaqItem
               question="What certifications come with these?"
-              answer="Every pair ships with CE and FDA compliance. Our premium line also meets ANSI Z87.1 — that's the industrial impact resistance standard, meaning these lenses can take a hit from a steel ball at high velocity without shattering. We provide UV400 lab test reports from independent labs. Need AS/NZS 1067 for the Australian market? We can do that too."
+              answer="Every pair ships with CE and FDA compliance. Our premium line also meets ANSI Z87.1 -- that's the industrial impact resistance standard, meaning these lenses can take a hit from a steel ball at high velocity without shattering. We provide UV400 lab test reports from independent labs. Need AS/NZS 1067 for the Australian market? We can do that too."
             />
             <FaqItem
               question="How fast can you ship?"
-              answer="Stock items without customization? 3-5 business days. Custom orders with your logo and colors? 15-25 days for production, then 5-7 days air freight to most countries. Sea freight is cheaper but takes 20-35 days. We ship via DHL, FedEx, UPS — your call. Rush orders? Talk to us. We've pulled off 10-day turnarounds before when a client had a deadline."
+              answer="Stock items without customization? 3-5 business days. Custom orders with your logo and colors? 15-25 days for production, then 5-7 days air freight to most countries. Sea freight is cheaper but takes 20-35 days. We ship via DHL, FedEx, UPS -- your call. Rush orders? Talk to us. We've pulled off 10-day turnarounds before when a client had a deadline."
             />
           </div>
         </section>
@@ -350,7 +350,7 @@ export default function SportPage() {
         <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
           <h2 className="text-3xl font-bold mb-4">Let&apos;s Get Your Sport Line Started</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Sports teams, outdoor shops, fitness brands, promo companies — we&apos;ve worked with them all.
+            Sports teams, outdoor shops, fitness brands, promo companies -- we&apos;ve worked with them all.
             Tell us what you need, and we&apos;ll send samples so you can see the quality for yourself.
             No pressure, no commitment on samples.
           </p>
@@ -382,8 +382,8 @@ export default function SportPage() {
           },
           {
             "@type": "Question",
-            "name": "TR90 vs. polycarbonate — which should I pick?",
-            "acceptedAnswer": { "@type": "Answer", "text": "TR90 if you can afford it — it's 35% lighter, way more flexible, and feels premium. Polycarbonate is fine for budget lines. The price difference is usually only $1-2 per pair." }
+            "name": "TR90 vs. polycarbonate -- which should I pick?",
+            "acceptedAnswer": { "@type": "Answer", "text": "TR90 if you can afford it -- it's 35% lighter, way more flexible, and feels premium. Polycarbonate is fine for budget lines. The price difference is usually only $1-2 per pair." }
           },
           {
             "@type": "Question",
@@ -393,7 +393,7 @@ export default function SportPage() {
           {
             "@type": "Question",
             "name": "Can you put our logo on them?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Absolutely — logo printing on temples, lens etching, custom frame colors with Pantone matching, and custom packaging. We can also create entirely new frame designs from your concept." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Absolutely -- logo printing on temples, lens etching, custom frame colors with Pantone matching, and custom packaging. We can also create entirely new frame designs from your concept." }
           },
           {
             "@type": "Question",
@@ -403,7 +403,7 @@ export default function SportPage() {
           {
             "@type": "Question",
             "name": "How fast can you ship?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Stock items ship in 3-5 business days. Custom orders take 15-25 days production plus 5-7 days air freight. Rush orders possible — we've done 10-day turnarounds." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Stock items ship in 3-5 business days. Custom orders take 15-25 days production plus 5-7 days air freight. Rush orders possible -- we've done 10-day turnarounds." }
           }
         ]
       })}} />

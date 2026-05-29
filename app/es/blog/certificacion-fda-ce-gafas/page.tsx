@@ -54,7 +54,7 @@ export default function CertificacionFdaCeGafasPage() {
             {
               "@type": "Question",
               "name": "¿Pueden confiscar mis gafas de sol en aduanas por incumplimiento?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Sí. Las aduanas de EE.UU. pueden retener gafas sin registro FDA adecuado. Las aduanas de la UE confiscan regularmente envíos sin marcado CE. Australia es particularmente estricta — las gafas no conformes son rutinariamente destruidas. He visto personalmente a clientes perder envíos completos de $10.000-$50.000 por documentación faltante." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Sí. Las aduanas de EE.UU. pueden retener gafas sin registro FDA adecuado. Las aduanas de la UE confiscan regularmente envíos sin marcado CE. Australia es particularmente estricta -- las gafas no conformes son rutinariamente destruidas. He visto personalmente a clientes perder envíos completos de $10.000-$50.000 por documentación faltante." }
             }
           ]
         })}} />
@@ -71,7 +71,7 @@ export default function CertificacionFdaCeGafasPage() {
           </h1>
           <p className="text-xl text-gray-600">
             Nadie empieza una marca de gafas porque le emocione el cumplimiento normativo. 
-            Pero si te saltas este paso, tus gafas podrían ser confiscadas en aduanas — o algo peor. 
+            Pero si te saltas este paso, tus gafas podrían ser confiscadas en aduanas -- o algo peor. 
             Aquí va todo lo que necesitas saber, simplificado.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -102,7 +102,7 @@ export default function CertificacionFdaCeGafasPage() {
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-600 mb-8">
             Llevo exportando gafas de sol 20 años. En ese tiempo, he visto a tres clientes perder envíos 
-            completos por confiscación en aduanas — más de $120.000 en producto destruido en total. Cada 
+            completos por confiscación en aduanas -- más de $120.000 en producto destruido en total. Cada 
             caso era prevenible. Las pruebas habrían costado menos de $500.
           </p>
 
@@ -122,7 +122,7 @@ export default function CertificacionFdaCeGafasPage() {
           <p>
             Algo que sorprende a la mayoría: <strong>la FDA clasifica las gafas de sol como dispositivos 
             médicos</strong>. Específicamente, dispositivos médicos Clase I bajo 21 CFR 886.5850. No te 
-            asustes — Clase I es la categoría de menor riesgo, y los requisitos son directos.
+            asustes -- Clase I es la categoría de menor riesgo, y los requisitos son directos.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
@@ -186,7 +186,7 @@ export default function CertificacionFdaCeGafasPage() {
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 Importante: Autocertificación</h3>
             <p className="text-amber-800">
-              El marcado CE para gafas es <strong>autocertificado</strong> — no necesitas un organismo 
+              El marcado CE para gafas es <strong>autocertificado</strong> -- no necesitas un organismo 
               notificado para aprobar tu producto. Tú (o tu fábrica) realizan las pruebas, compilan el 
               expediente técnico y firman la Declaración de Conformidad. Esto lo hace asequible, pero 
               también significa que eres legalmente responsable de la exactitud de tus declaraciones.
@@ -225,11 +225,11 @@ export default function CertificacionFdaCeGafasPage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">Solo transmitancia UV400</td><td className="px-6 py-4">$100–$300</td><td className="px-6 py-4">3-5 días</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">EN ISO 12312-1 completa (CE)</td><td className="px-6 py-4">$300–$600</td><td className="px-6 py-4">5-10 días</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Suite completa ANSI Z80.3</td><td className="px-6 py-4">$300–$500</td><td className="px-6 py-4">5-10 días</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Australia)</td><td className="px-6 py-4">$400–$800</td><td className="px-6 py-4">7-14 días</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Prueba de bola FDA</td><td className="px-6 py-4">$50–$150</td><td className="px-6 py-4">1-3 días</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Solo transmitancia UV400</td><td className="px-6 py-4">$100-$300</td><td className="px-6 py-4">3-5 días</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">EN ISO 12312-1 completa (CE)</td><td className="px-6 py-4">$300-$600</td><td className="px-6 py-4">5-10 días</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Suite completa ANSI Z80.3</td><td className="px-6 py-4">$300-$500</td><td className="px-6 py-4">5-10 días</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Australia)</td><td className="px-6 py-4">$400-$800</td><td className="px-6 py-4">7-14 días</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Prueba de bola FDA</td><td className="px-6 py-4">$50-$150</td><td className="px-6 py-4">1-3 días</td></tr>
               </tbody>
             </table>
           </div>
@@ -279,7 +279,7 @@ export default function CertificacionFdaCeGafasPage() {
           <div className="space-y-6">
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿Las gafas necesitan aprobación FDA para venderse en EE.UU.?</h3>
-              <p className="text-gray-600">No &quot;aprobación&quot; — pero sí cumplimiento FDA. Las gafas son dispositivos médicos Clase I. Los fabricantes/importadores deben registrarse y listar sus productos.</p>
+              <p className="text-gray-600">No &quot;aprobación&quot; -- pero sí cumplimiento FDA. Las gafas son dispositivos médicos Clase I. Los fabricantes/importadores deben registrarse y listar sus productos.</p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿Cuánto cuestan las pruebas de cumplimiento?</h3>

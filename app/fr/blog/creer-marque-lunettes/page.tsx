@@ -35,7 +35,7 @@ export default function CreerMarqueLunettesPage() {
           "dateModified": "2026-05-02",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondateur", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Guide complet pour lancer votre propre marque de lunettes de soleil — de l'idée à la première vente.",
+          "description": "Guide complet pour lancer votre propre marque de lunettes de soleil -- de l'idée à la première vente.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/fr/blog/creer-marque-lunettes" },
           "inLanguage": "fr"
         })}} />
@@ -89,7 +89,7 @@ export default function CreerMarqueLunettesPage() {
           </p>
           <p>Quelques niches qui fonctionnent en 2026 :</p>
           <ul>
-            <li><strong>Sport et outdoor :</strong> Cyclisme, pêche, golf — chaque sport a des besoins spécifiques en verres et en montures</li>
+            <li><strong>Sport et outdoor :</strong> Cyclisme, pêche, golf -- chaque sport a des besoins spécifiques en verres et en montures</li>
             <li><strong>Mode durable :</strong> Bio-acétate, plastique océanique recyclé, packaging éco-responsable</li>
             <li><strong>Lifestyle premium :</strong> Acétate haut de gamme, verres polarisés, positionnement 100-200 $</li>
             <li><strong>Enfants :</strong> Montures flexibles, indestructibles, couleurs vives</li>
@@ -102,10 +102,10 @@ export default function CreerMarqueLunettesPage() {
             plutôt que les 500 autres options disponibles. Définissez :
           </p>
           <ul>
-            <li>Votre histoire — pourquoi cette marque existe</li>
-            <li>Votre client idéal — âge, style de vie, budget</li>
-            <li>Votre positionnement prix — entrée de gamme (20-40 $), milieu de gamme (50-100 $) ou premium (100 $+)</li>
-            <li>Votre identité visuelle — couleurs, typographie, ton de voix</li>
+            <li>Votre histoire -- pourquoi cette marque existe</li>
+            <li>Votre client idéal -- âge, style de vie, budget</li>
+            <li>Votre positionnement prix -- entrée de gamme (20-40 $), milieu de gamme (50-100 $) ou premium (100 $+)</li>
+            <li>Votre identité visuelle -- couleurs, typographie, ton de voix</li>
           </ul>
 
           <h2 id="etape-3" className="text-3xl font-bold mt-16 mb-6">Étape 3 : Trouver un fabricant</h2>
@@ -116,7 +116,7 @@ export default function CreerMarqueLunettesPage() {
           </p>
           <p>Points clés :</p>
           <ul>
-            <li>Choisissez entre <Link href="/fr/blog/oem-vs-odm" className="text-primary-600 hover:underline">OEM et ODM</Link> — ODM pour commencer, OEM quand vous êtes prêt</li>
+            <li>Choisissez entre <Link href="/fr/blog/oem-vs-odm" className="text-primary-600 hover:underline">OEM et ODM</Link> -- ODM pour commencer, OEM quand vous êtes prêt</li>
             <li>Commandez des échantillons de 2-3 usines minimum</li>
             <li>Vérifiez les certifications : CE, FDA, UV400, ISO 9001</li>
             <li>Évaluez la réactivité et la qualité de communication</li>
@@ -135,7 +135,7 @@ export default function CreerMarqueLunettesPage() {
           <h2 id="etape-5" className="text-3xl font-bold mt-16 mb-6">Étape 5 : Commande et contrôle qualité</h2>
           <p>
             Votre première commande devrait être conservatrice. Commencez avec le{' '}
-            <Link href="/fr/blog/guide-moq-lunettes" className="text-primary-600 hover:underline">minimum viable</Link> —
+            <Link href="/fr/blog/guide-moq-lunettes" className="text-primary-600 hover:underline">minimum viable</Link> --
             testez le marché avant d&apos;investir massivement.
           </p>
           <p>
@@ -164,7 +164,7 @@ export default function CreerMarqueLunettesPage() {
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">Prêt à Vous Lancer ?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Je vous accompagne de A à Z — de la sélection des modèles à la livraison à votre porte.
+              Je vous accompagne de A à Z -- de la sélection des modèles à la livraison à votre porte.
               20 ans d&apos;expérience, zéro intermédiaire.
             </p>
             <Link href="/fr/contact" className="btn-primary">
@@ -188,5 +188,6 @@ export default function CreerMarqueLunettesPage() {
         </div>
       </div>
     </article>
+    </>
   )
 }

@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Empaque Personalizado para Gafas de Sol: Guía Completa de Branding 2026',
-  description: 'Un dueño de fábrica desglosa cada opción de empaque para marcas de gafas de sol — estuches rígidos, fundas suaves, cajas retail, etiquetas y más. Costos reales, ejemplos y consejos que funcionan.',
+  description: 'Un dueño de fábrica desglosa cada opción de empaque para marcas de gafas de sol -- estuches rígidos, fundas suaves, cajas retail, etiquetas y más. Costos reales, ejemplos y consejos que funcionan.',
   keywords: 'empaque personalizado gafas de sol, estuche gafas personalizado, packaging gafas, caja gafas de sol, funda gafas personalizada, etiqueta gafas',
   alternates: {
     canonical: '/es/blog/empaque-personalizado-gafas',
@@ -27,7 +27,7 @@ export default function EmpaquPersonalizadoGafasPage() {
           "dateModified": "2026-05-03",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un dueño de fábrica desglosa cada opción de empaque para marcas de gafas de sol — estuches, fundas, cajas, etiquetas, paños de limpieza, tarjetas de garantía. Costos reales por pieza y consejos de unboxing.",
+          "description": "Un dueño de fábrica desglosa cada opción de empaque para marcas de gafas de sol -- estuches, fundas, cajas, etiquetas, paños de limpieza, tarjetas de garantía. Costos reales por pieza y consejos de unboxing.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/empaque-personalizado-gafas" },
           "inLanguage": "es"
         })}} />
@@ -39,27 +39,27 @@ export default function EmpaquPersonalizadoGafasPage() {
             {
               "@type": "Question",
               "name": "¿Cuánto cuesta el empaque personalizado para gafas de sol por unidad?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Depende de lo que incluyas. Un kit básico — funda de microfibra con marca, etiqueta y bolsa de polietileno — cuesta $0,60–$1,20 por unidad. Un kit de gama media con estuche EVA con cremallera, paño de limpieza y caja retail impresa cuesta $2,50–$5,00 por unidad. El empaque premium con caja rígida de cierre magnético, estuche de cuero, tarjeta de garantía y papel de seda puede llegar a $6–$12 por unidad. Todos los precios a cantidades de 500+ piezas." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Depende de lo que incluyas. Un kit básico -- funda de microfibra con marca, etiqueta y bolsa de polietileno -- cuesta $0,60-$1,20 por unidad. Un kit de gama media con estuche EVA con cremallera, paño de limpieza y caja retail impresa cuesta $2,50-$5,00 por unidad. El empaque premium con caja rígida de cierre magnético, estuche de cuero, tarjeta de garantía y papel de seda puede llegar a $6-$12 por unidad. Todos los precios a cantidades de 500+ piezas." }
             },
             {
               "@type": "Question",
               "name": "¿Cuál es el mejor material de estuche para una marca premium de gafas?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Para posicionamiento premium, los estuches rígidos forrados en cuero PU o los estuches tipo concha con cierre magnético funcionan mejor. Se sienten costosos en la mano, protegen el producto durante el envío y quedan bien en fotos para redes sociales. El cuero genuino es una opción pero añade $2–4 por estuche comparado con PU, y la mayoría de clientes no nota la diferencia." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Para posicionamiento premium, los estuches rígidos forrados en cuero PU o los estuches tipo concha con cierre magnético funcionan mejor. Se sienten costosos en la mano, protegen el producto durante el envío y quedan bien en fotos para redes sociales. El cuero genuino es una opción pero añade $2-4 por estuche comparado con PU, y la mayoría de clientes no nota la diferencia." }
             },
             {
               "@type": "Question",
               "name": "¿Cuál es la cantidad mínima de pedido para empaque personalizado de gafas?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Los MOQ varían por artículo. Fundas de microfibra impresas: 200–500 piezas. Estuches EVA personalizados: 300–500 piezas. Cajas retail impresas: 500–1.000 piezas (la impresión offset requiere tiradas más altas). Etiquetas: 500–1.000 piezas. Paños de limpieza: 500 piezas." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Los MOQ varían por artículo. Fundas de microfibra impresas: 200-500 piezas. Estuches EVA personalizados: 300-500 piezas. Cajas retail impresas: 500-1.000 piezas (la impresión offset requiere tiradas más altas). Etiquetas: 500-1.000 piezas. Paños de limpieza: 500 piezas." }
             },
             {
               "@type": "Question",
               "name": "¿El empaque realmente afecta las ventas de gafas de sol?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Sin duda. Hemos visto clientes aumentar su valor promedio de pedido un 15–30% solo mejorando el empaque. Una marca cambió de una bolsa de polietileno simple a un estuche EVA con marca y caja magnética — mismas gafas, mismo precio — y su tasa de devolución bajó un 40% mientras las recompras subieron." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Sin duda. Hemos visto clientes aumentar su valor promedio de pedido un 15-30% solo mejorando el empaque. Una marca cambió de una bolsa de polietileno simple a un estuche EVA con marca y caja magnética -- mismas gafas, mismo precio -- y su tasa de devolución bajó un 40% mientras las recompras subieron." }
             },
             {
               "@type": "Question",
               "name": "¿Debo incluir una tarjeta de garantía con mis gafas de sol?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Sí — y no solo por la garantía en sí. Una tarjeta de garantía bien diseñada hace tres trabajos: hace que tu marca se sienta legítima y establecida, te da espacio para instrucciones de cuidado (lo que reduce devoluciones por error del usuario), y es espacio ideal para un código QR enlazando a tu Instagram, página de reseñas o programa de referidos. El costo es insignificante — $0,03–$0,08 por tarjeta en volumen." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Sí -- y no solo por la garantía en sí. Una tarjeta de garantía bien diseñada hace tres trabajos: hace que tu marca se sienta legítima y establecida, te da espacio para instrucciones de cuidado (lo que reduce devoluciones por error del usuario), y es espacio ideal para un código QR enlazando a tu Instagram, página de reseñas o programa de referidos. El costo es insignificante -- $0,03-$0,08 por tarjeta en volumen." }
             }
           ]
         })}} />
@@ -111,12 +111,12 @@ export default function EmpaquPersonalizadoGafasPage() {
           </p>
           <p>
             Escucho alguna versión de esto cada mes. Un dueño de marca pasa meses perfeccionando el diseño de la montura, 
-            clavando la calidad de las lentes, construyendo la web — y luego mete el producto terminado en una funda 
+            clavando la calidad de las lentes, construyendo la web -- y luego mete el producto terminado en una funda 
             genérica negra y lo envía en un sobre marrón. Es como cocinar un plato con estrella Michelin y servirlo en 
             un plato de cartón.
           </p>
           <p>
-            Llevo fabricando gafas de sol desde 2006. En esos 20 años, he empacado millones de pares — desde gafas 
+            Llevo fabricando gafas de sol desde 2006. En esos 20 años, he empacado millones de pares -- desde gafas 
             de $2 en bolsas de plástico hasta ediciones limitadas de $200 en estuches de cuero cosidos a mano. Lo 
             único que sé con certeza: <strong>el empaque personalizado para gafas de sol no es un gasto. Es una 
             inversión que se paga sola.</strong>
@@ -140,7 +140,7 @@ export default function EmpaquPersonalizadoGafasPage() {
           </p>
           <p>
             ¿Qué pasó? Su tasa de devolución bajó al 4,5%. Su calificación promedio subió de 4,1 a 4,6 estrellas. 
-            Y — aquí viene la parte que les hizo llamarme para darme las gracias — su tasa de recompra subió un 
+            Y -- aquí viene la parte que les hizo llamarme para darme las gracias -- su tasa de recompra subió un 
             22% en seis meses. Las mismas gafas. El mismo precio. Diferente empaque.
           </p>
           <p>
@@ -162,7 +162,7 @@ export default function EmpaquPersonalizadoGafasPage() {
           <h2 id="estuches-rigidos" className="text-3xl font-bold mt-16 mb-6">Estuches Rígidos: EVA, Cuero y Lata Metálica</h2>
           <p>
             Los estuches rígidos son la columna vertebral del empaque de gafas. Protegen el producto, quedan bien 
-            en un estante, y los clientes realmente los conservan — lo que significa que tu logo se queda en su 
+            en un estante, y los clientes realmente los conservan -- lo que significa que tu logo se queda en su 
             tocador durante años. Eso es branding que no puedes comprar.
           </p>
 
@@ -173,71 +173,71 @@ export default function EmpaquPersonalizadoGafasPage() {
             y económico de personalizar.
           </p>
           <ul>
-            <li><strong>Costo:</strong> $0,80–$2,00 por estuche a 500+ piezas.</li>
+            <li><strong>Costo:</strong> $0,80-$2,00 por estuche a 500+ piezas.</li>
             <li><strong>Personalización:</strong> Logo grabado, impreso, tela exterior personalizada, tiradores de cremallera, color interior.</li>
-            <li><strong>Ideal para:</strong> Marcas de gama media ($30–$80 retail). Marcas deportivas y outdoor. E-commerce.</li>
-            <li><strong>MOQ:</strong> 300–500 piezas para diseños personalizados.</li>
+            <li><strong>Ideal para:</strong> Marcas de gama media ($30-$80 retail). Marcas deportivas y outdoor. E-commerce.</li>
+            <li><strong>MOQ:</strong> 300-500 piezas para diseños personalizados.</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Estuches de Cuero PU y Cuero Genuino</h3>
           <ul>
-            <li><strong>Costo cuero PU:</strong> $1,50–$3,50 por estuche a 500+ piezas. Cierre magnético añade $0,20–$0,40.</li>
-            <li><strong>Costo cuero genuino:</strong> $3,50–$7,00 por estuche. Sinceramente, la mayoría de clientes no nota la diferencia con un buen PU.</li>
-            <li><strong>Ideal para:</strong> Marcas premium ($80–$200+ retail). Marcas de moda. Ediciones limitadas.</li>
-            <li><strong>MOQ:</strong> 300–500 piezas para PU. 500+ para cuero genuino.</li>
+            <li><strong>Costo cuero PU:</strong> $1,50-$3,50 por estuche a 500+ piezas. Cierre magnético añade $0,20-$0,40.</li>
+            <li><strong>Costo cuero genuino:</strong> $3,50-$7,00 por estuche. Sinceramente, la mayoría de clientes no nota la diferencia con un buen PU.</li>
+            <li><strong>Ideal para:</strong> Marcas premium ($80-$200+ retail). Marcas de moda. Ediciones limitadas.</li>
+            <li><strong>MOQ:</strong> 300-500 piezas para PU. 500+ para cuero genuino.</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Latas Metálicas</h3>
           <ul>
-            <li><strong>Costo:</strong> $1,80–$4,00 por lata a 500+ piezas.</li>
+            <li><strong>Costo:</strong> $1,80-$4,00 por lata a 500+ piezas.</li>
             <li><strong>El detalle:</strong> Las latas se abollan. Necesitas empacarlas con cuidado para envío.</li>
             <li><strong>Ideal para:</strong> Marcas con estética vintage, outdoor o industrial.</li>
-            <li><strong>MOQ:</strong> 500–1.000 piezas.</li>
+            <li><strong>MOQ:</strong> 500-1.000 piezas.</li>
           </ul>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">Mi Recomendación de Estuche por Punto de Precio:</h3>
             <ul className="text-blue-800 space-y-1">
               <li><strong>Menos de $30 retail:</strong> Omite el estuche rígido. Usa una funda de microfibra de calidad.</li>
-              <li><strong>$30–$80 retail:</strong> Estuche EVA con cremallera. La mejor relación calidad-precio.</li>
-              <li><strong>$80–$150 retail:</strong> Estuche tipo concha en cuero PU con cierre magnético.</li>
+              <li><strong>$30-$80 retail:</strong> Estuche EVA con cremallera. La mejor relación calidad-precio.</li>
+              <li><strong>$80-$150 retail:</strong> Estuche tipo concha en cuero PU con cierre magnético.</li>
               <li><strong>$150+ retail:</strong> Cuero genuino o PU de alta gama con herrajes metálicos.</li>
             </ul>
           </div>
 
           <h2 id="fundas-suaves" className="text-3xl font-bold mt-16 mb-6">Fundas Suaves y Bolsas de Microfibra</h2>
           <p>
-            Todo par de gafas necesita una funda — incluso si también viene con estuche rígido. La funda funciona 
+            Todo par de gafas necesita una funda -- incluso si también viene con estuche rígido. La funda funciona 
             como paño de limpieza, protege las lentes cuando el estuche es demasiado voluminoso, y te da una 
             superficie más de branding.
           </p>
           <ul>
-            <li><strong>Fundas de microfibra con cordón:</strong> $0,15–$0,50 por funda a 500+ piezas.</li>
-            <li><strong>Fundas de terciopelo:</strong> $0,30–$0,80 por funda. Populares con marcas de moda.</li>
-            <li><strong>Fundas de lona:</strong> $0,40–$1,00 por funda. Ideales para marcas outdoor y sostenibles.</li>
+            <li><strong>Fundas de microfibra con cordón:</strong> $0,15-$0,50 por funda a 500+ piezas.</li>
+            <li><strong>Fundas de terciopelo:</strong> $0,30-$0,80 por funda. Populares con marcas de moda.</li>
+            <li><strong>Fundas de lona:</strong> $0,40-$1,00 por funda. Ideales para marcas outdoor y sostenibles.</li>
           </ul>
 
           <h2 id="cajas-retail" className="text-3xl font-bold mt-16 mb-6">Cajas Retail: Donde Vive el Atractivo en Estante</h2>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Cajas Plegables de Cartón</h3>
           <ul>
-            <li><strong>Costo:</strong> $0,30–$1,00 por caja a 1.000+ piezas.</li>
+            <li><strong>Costo:</strong> $0,30-$1,00 por caja a 1.000+ piezas.</li>
             <li><strong>Personalización:</strong> Impresión CMYK a todo color, barniz UV selectivo, estampado en caliente, grabado/relieve.</li>
-            <li><strong>MOQ:</strong> 500–1.000 piezas para offset. 200+ para impresión digital.</li>
+            <li><strong>MOQ:</strong> 500-1.000 piezas para offset. 200+ para impresión digital.</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Cajas Rígidas (Cierre Magnético)</h3>
           <ul>
-            <li><strong>Costo:</strong> $2,00–$5,00 por caja a 500+ piezas.</li>
+            <li><strong>Costo:</strong> $2,00-$5,00 por caja a 500+ piezas.</li>
             <li><strong>Ideal para:</strong> Marcas premium y de lujo ($100+ retail). Sets de regalo. Ediciones limitadas.</li>
-            <li><strong>MOQ:</strong> 300–500 piezas.</li>
+            <li><strong>MOQ:</strong> 300-500 piezas.</li>
           </ul>
 
           <h2 id="etiquetas" className="text-3xl font-bold mt-16 mb-6">Etiquetas Colgantes</h2>
           <ul>
-            <li><strong>Costo:</strong> $0,03–$0,12 por etiqueta a 1.000+ piezas. Son baratas. No hay excusa para no tener una.</li>
+            <li><strong>Costo:</strong> $0,03-$0,12 por etiqueta a 1.000+ piezas. Son baratas. No hay excusa para no tener una.</li>
             <li><strong>Qué incluir:</strong> Logo, nombre del modelo, especificaciones de lentes (polarizadas, UV400, espejo), código de barras si vendes en retail.</li>
-            <li><strong>MOQ:</strong> 500–1.000 piezas.</li>
+            <li><strong>MOQ:</strong> 500-1.000 piezas.</li>
           </ul>
 
           <h2 id="panos-limpieza" className="text-3xl font-bold mt-16 mb-6">Paños de Limpieza con Marca</h2>
@@ -247,7 +247,7 @@ export default function EmpaquPersonalizadoGafasPage() {
             de mayor frecuencia en todo tu kit.
           </p>
           <ul>
-            <li><strong>Costo:</strong> $0,08–$0,30 por paño a 500+ piezas.</li>
+            <li><strong>Costo:</strong> $0,08-$0,30 por paño a 500+ piezas.</li>
             <li><strong>Material:</strong> Usa microfibra de 200+ GSM. Cualquier cosa más delgada se siente barata y no limpia bien.</li>
             <li><strong>MOQ:</strong> 500 piezas.</li>
           </ul>
@@ -258,18 +258,18 @@ export default function EmpaquPersonalizadoGafasPage() {
             y trabaja más que cualquier otro inserto en tu caja.
           </p>
           <ul>
-            <li><strong>Costo:</strong> $0,03–$0,08 por tarjeta a 1.000+ piezas.</li>
+            <li><strong>Costo:</strong> $0,03-$0,08 por tarjeta a 1.000+ piezas.</li>
             <li><strong>Qué incluir:</strong> Términos de garantía, instrucciones de cuidado, historia de marca, redes sociales, código QR y un mensaje de agradecimiento.</li>
           </ul>
 
           <div className="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-green-900 mb-2">El Pack de Insertos Inteligente:</h3>
             <ol className="text-green-800 space-y-2">
-              <li><strong>Tarjeta de garantía/cuidado</strong> — plegada, con código QR a tu web</li>
-              <li><strong>Tarjeta de agradecimiento</strong> — personal, corta, con código de descuento para la próxima compra</li>
-              <li><strong>Sticker</strong> — cuesta $0,02–$0,05. Los clientes los pegan en laptops y botellas. Publicidad gratis.</li>
+              <li><strong>Tarjeta de garantía/cuidado</strong> -- plegada, con código QR a tu web</li>
+              <li><strong>Tarjeta de agradecimiento</strong> -- personal, corta, con código de descuento para la próxima compra</li>
+              <li><strong>Sticker</strong> -- cuesta $0,02-$0,05. Los clientes los pegan en laptops y botellas. Publicidad gratis.</li>
             </ol>
-            <p className="text-green-800 mt-3">Costo total de los tres: $0,10–$0,20 por set.</p>
+            <p className="text-green-800 mt-3">Costo total de los tres: $0,10-$0,20 por set.</p>
           </div>
 
           <h2 id="desglose-costos" className="text-3xl font-bold mt-16 mb-6">Desglose Completo de Costos: Económico a Premium</h2>
@@ -286,11 +286,11 @@ export default function EmpaquPersonalizadoGafasPage() {
               </thead>
               <tbody className="divide-y divide-gray-200">
                 <tr className="bg-white"><td className="px-6 py-4 font-medium">Estuche</td><td className="px-6 py-4">Funda microfibra ($0,20)</td><td className="px-6 py-4">EVA con cremallera ($1,20)</td><td className="px-6 py-4">Cuero PU tipo concha ($2,80)</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Paño de limpieza</td><td className="px-6 py-4">— (la funda funciona)</td><td className="px-6 py-4">Microfibra impresa ($0,15)</td><td className="px-6 py-4">Microfibra sublimada ($0,25)</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Paño de limpieza</td><td className="px-6 py-4">-- (la funda funciona)</td><td className="px-6 py-4">Microfibra impresa ($0,15)</td><td className="px-6 py-4">Microfibra sublimada ($0,25)</td></tr>
                 <tr className="bg-white"><td className="px-6 py-4 font-medium">Caja</td><td className="px-6 py-4">Bolsa polietileno ($0,05)</td><td className="px-6 py-4">Cartón plegable ($0,60)</td><td className="px-6 py-4">Caja rígida magnética ($3,50)</td></tr>
                 <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Etiqueta</td><td className="px-6 py-4">Cartulina básica ($0,04)</td><td className="px-6 py-4">Gruesa + UV selectivo ($0,08)</td><td className="px-6 py-4">Con estampado caliente ($0,12)</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4 font-medium">Tarjeta garantía</td><td className="px-6 py-4">—</td><td className="px-6 py-4">Tarjeta simple ($0,05)</td><td className="px-6 py-4">Folleto plegado ($0,15)</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Extras</td><td className="px-6 py-4">—</td><td className="px-6 py-4">Sticker ($0,03)</td><td className="px-6 py-4">Sticker + tarjeta agradecimiento ($0,10)</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4 font-medium">Tarjeta garantía</td><td className="px-6 py-4">--</td><td className="px-6 py-4">Tarjeta simple ($0,05)</td><td className="px-6 py-4">Folleto plegado ($0,15)</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Extras</td><td className="px-6 py-4">--</td><td className="px-6 py-4">Sticker ($0,03)</td><td className="px-6 py-4">Sticker + tarjeta agradecimiento ($0,10)</td></tr>
                 <tr className="bg-primary-50 font-bold"><td className="px-6 py-4">Total Por Unidad</td><td className="px-6 py-4">$0,29</td><td className="px-6 py-4">$2,11</td><td className="px-6 py-4">$6,92</td></tr>
               </tbody>
             </table>
@@ -351,7 +351,7 @@ export default function EmpaquPersonalizadoGafasPage() {
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">¿Necesitas Ayuda con tu Empaque?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Diseñamos y producimos kits completos de empaque personalizado para gafas de sol — desde estuches 
+              Diseñamos y producimos kits completos de empaque personalizado para gafas de sol -- desde estuches 
               hasta cajas y etiquetas. Envíame tus directrices de marca y te prepararé una cotización en 48 horas.
             </p>
             <Link href="/es/contacto" className="btn-primary">
@@ -365,22 +365,22 @@ export default function EmpaquPersonalizadoGafasPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿Cuánto cuesta el empaque personalizado por unidad?</h3>
               <p className="text-gray-600">
-                Un kit básico cuesta $0,60–$1,20 por unidad. Gama media con estuche EVA, paño y caja: $2,50–$5,00. 
-                Premium con caja rígida magnética y estuche de cuero: $6–$12. Todo a cantidades de 500+ piezas.
+                Un kit básico cuesta $0,60-$1,20 por unidad. Gama media con estuche EVA, paño y caja: $2,50-$5,00. 
+                Premium con caja rígida magnética y estuche de cuero: $6-$12. Todo a cantidades de 500+ piezas.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿Cuál es el mejor material de estuche para una marca premium?</h3>
               <p className="text-gray-600">
                 Estuches rígidos forrados en cuero PU o tipo concha con cierre magnético. Se sienten costosos, 
-                protegen el producto y quedan bien en fotos de unboxing. El cuero genuino añade $2–4 por estuche 
+                protegen el producto y quedan bien en fotos de unboxing. El cuero genuino añade $2-4 por estuche 
                 comparado con PU, y la mayoría no nota la diferencia.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿El empaque realmente afecta las ventas?</h3>
               <p className="text-gray-600">
-                Sí. Hemos visto clientes aumentar su valor promedio de pedido un 15–30% solo mejorando el empaque. 
+                Sí. Hemos visto clientes aumentar su valor promedio de pedido un 15-30% solo mejorando el empaque. 
                 El empaque establece expectativas antes de que el cliente siquiera se pruebe el producto.
               </p>
             </div>
@@ -388,7 +388,7 @@ export default function EmpaquPersonalizadoGafasPage() {
               <h3 className="font-bold text-lg mb-2">¿Debo incluir una tarjeta de garantía?</h3>
               <p className="text-gray-600">
                 Siempre. Hace que tu marca se sienta legítima, da espacio para instrucciones de cuidado 
-                (lo que reduce devoluciones), y es espacio ideal para un código QR. Cuesta $0,03–$0,08 por tarjeta. 
+                (lo que reduce devoluciones), y es espacio ideal para un código QR. Cuesta $0,03-$0,08 por tarjeta. 
                 No hay razón para no incluir una.
               </p>
             </div>
@@ -399,7 +399,7 @@ export default function EmpaquPersonalizadoGafasPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/es/blog/crear-marca-gafas" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Cómo Crear tu Marca de Gafas de Sol: Guía Completa</h3>
-                <p className="text-gray-600 text-sm">La guía completa — desde la idea hasta la primera venta.</p>
+                <p className="text-gray-600 text-sm">La guía completa -- desde la idea hasta la primera venta.</p>
               </Link>
               <Link href="/es/productos" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Explora Nuestra Colección de Gafas</h3>

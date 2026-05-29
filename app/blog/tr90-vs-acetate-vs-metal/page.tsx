@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'TR90 vs Acetate vs Metal Sunglasses Frames: The Complete 2026 Buyer\'s Guide',
-  description: 'A sunglasses factory owner explains the real differences between TR90, acetate, and metal frames — durability, weight, cost, and which material is right for your brand.',
+  description: 'A sunglasses factory owner explains the real differences between TR90, acetate, and metal frames -- durability, weight, cost, and which material is right for your brand.',
   keywords: 'TR90 vs acetate vs metal sunglasses, sunglass frame materials, TR90 frames, acetate frames, metal frames, lightweight sunglasses, flexible sunglasses, wholesale sunglasses frames',
 }
 
@@ -21,7 +21,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "A sunglasses factory owner explains TR90 vs acetate vs metal frames — durability, weight, cost, and which material is right for your brand.",
+          "description": "A sunglasses factory owner explains TR90 vs acetate vs metal frames -- durability, weight, cost, and which material is right for your brand.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/tr90-vs-acetate-vs-metal" }
         })}} />
 
@@ -33,12 +33,12 @@ export default function Tr90VsAcetateVsMetalPage() {
             {
               "@type": "Question",
               "name": "Which frame material is the most durable?",
-              "acceptedAnswer": { "@type": "Answer", "text": "TR90 is the most durable for impact resistance and flexibility — it can bend and return to shape without breaking. Acetate is durable for everyday wear but can crack under extreme stress. Metal frames are strong but can bend out of shape and are harder to repair. For active sports or kids, TR90 is the clear winner. For fashion-focused lines, acetate offers the best balance of durability and premium feel." }
+              "acceptedAnswer": { "@type": "Answer", "text": "TR90 is the most durable for impact resistance and flexibility -- it can bend and return to shape without breaking. Acetate is durable for everyday wear but can crack under extreme stress. Metal frames are strong but can bend out of shape and are harder to repair. For active sports or kids, TR90 is the clear winner. For fashion-focused lines, acetate offers the best balance of durability and premium feel." }
             },
             {
               "@type": "Question",
               "name": "Which frame material is the lightest?",
-              "acceptedAnswer": { "@type": "Answer", "text": "TR90 is the lightest — a typical TR90 frame weighs 15-20 grams. Metal frames are next at 20-30 grams depending on the alloy. Acetate is the heaviest at 25-40 grams because it's carved from solid blocks of material. If weight is your priority (for all-day comfort or children's sunglasses), TR90 is the best choice." }
+              "acceptedAnswer": { "@type": "Answer", "text": "TR90 is the lightest -- a typical TR90 frame weighs 15-20 grams. Metal frames are next at 20-30 grams depending on the alloy. Acetate is the heaviest at 25-40 grams because it's carved from solid blocks of material. If weight is your priority (for all-day comfort or children's sunglasses), TR90 is the best choice." }
             },
             {
               "@type": "Question",
@@ -105,9 +105,9 @@ export default function Tr90VsAcetateVsMetalPage() {
             When you&apos;re sourcing sunglasses for your brand, you&apos;re basically choosing between three frame materials:
           </p>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>TR90</strong> — A flexible, ultra-lightweight thermoplastic from Switzerland (Gril TR90 is the premium version)</li>
-            <li><strong>Acetate</strong> — A plant-based plastic carved and polished into bold, premium shapes</li>
-            <li><strong>Metal</strong> — Stainless steel, aluminum, or titanium frames for a sleek, classic look</li>
+            <li><strong>TR90</strong> -- A flexible, ultra-lightweight thermoplastic from Switzerland (Gril TR90 is the premium version)</li>
+            <li><strong>Acetate</strong> -- A plant-based plastic carved and polished into bold, premium shapes</li>
+            <li><strong>Metal</strong> -- Stainless steel, aluminum, or titanium frames for a sleek, classic look</li>
           </ul>
           <p className="text-gray-700 mb-4">
             Each has strengths and weaknesses. None is &quot;best&quot; across the board. The right choice depends on your brand positioning, your target customer, and your price point.
@@ -128,12 +128,12 @@ export default function Tr90VsAcetateVsMetalPage() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Key Characteristics</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Weight:</strong> 15-20 grams per frame — the lightest option available</li>
+            <li><strong>Weight:</strong> 15-20 grams per frame -- the lightest option available</li>
             <li><strong>Flexibility:</strong> Can bend significantly and return to shape without breaking</li>
-            <li><strong>Impact resistance:</strong> Extremely high — survives drops, sits, and being stepped on</li>
+            <li><strong>Impact resistance:</strong> Extremely high -- survives drops, sits, and being stepped on</li>
             <li><strong>Surface finish:</strong> Matte or semi-gloss, cannot be polished to high shine like acetate</li>
-            <li><strong>Color options:</strong> Limited to injection-molded colors — no tortoise, marble, or layered patterns</li>
-            <li><strong>Hypoallergenic:</strong> Yes — safe for all skin types</li>
+            <li><strong>Color options:</strong> Limited to injection-molded colors -- no tortoise, marble, or layered patterns</li>
+            <li><strong>Hypoallergenic:</strong> Yes -- safe for all skin types</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Best For</h3>
@@ -151,7 +151,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           </p>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-4 mb-6">
-            <p className="text-blue-800 font-medium">💡 Factory Tip: If you&apos;re sourcing TR90, ask for &quot;Gril TR90&quot; (the Swiss original) rather than generic TR90. The quality difference is noticeable — better flexibility, better color consistency, and less risk of frame deformation over time.</p>
+            <p className="text-blue-800 font-medium">💡 Factory Tip: If you&apos;re sourcing TR90, ask for &quot;Gril TR90&quot; (the Swiss original) rather than generic TR90. The quality difference is noticeable -- better flexibility, better color consistency, and less risk of frame deformation over time.</p>
           </div>
         </section>
 
@@ -169,12 +169,12 @@ export default function Tr90VsAcetateVsMetalPage() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Key Characteristics</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Weight:</strong> 25-40 grams per frame — the heaviest option</li>
-            <li><strong>Flexibility:</strong> Low — rigid and substantial, can crack under extreme stress</li>
+            <li><strong>Weight:</strong> 25-40 grams per frame -- the heaviest option</li>
+            <li><strong>Flexibility:</strong> Low -- rigid and substantial, can crack under extreme stress</li>
             <li><strong>Surface finish:</strong> High-gloss polish, rich and premium feel</li>
-            <li><strong>Color options:</strong> Virtually unlimited — solid colors, tortoise, marble, gradient, transparent, layered, mixed patterns</li>
-            <li><strong>Shape options:</strong> Bold, thick, sculptural — acetate can be carved into any shape</li>
-            <li><strong>Hypoallergenic:</strong> Yes — plant-based, safe for sensitive skin</li>
+            <li><strong>Color options:</strong> Virtually unlimited -- solid colors, tortoise, marble, gradient, transparent, layered, mixed patterns</li>
+            <li><strong>Shape options:</strong> Bold, thick, sculptural -- acetate can be carved into any shape</li>
+            <li><strong>Hypoallergenic:</strong> Yes -- plant-based, safe for sensitive skin</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Best For</h3>
@@ -188,11 +188,11 @@ export default function Tr90VsAcetateVsMetalPage() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Limitations</h3>
           <p className="text-gray-700 mb-4">
-            Acetate is heavier and less flexible than TR90. It&apos;s also more expensive to produce because each frame requires hand labor (cutting, carving, polishing). And the production time is longer — a typical acetate frame takes 2-3 weeks to produce versus 3-5 days for TR90.
+            Acetate is heavier and less flexible than TR90. It&apos;s also more expensive to produce because each frame requires hand labor (cutting, carving, polishing). And the production time is longer -- a typical acetate frame takes 2-3 weeks to produce versus 3-5 days for TR90.
           </p>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-4 mb-6">
-            <p className="text-amber-800 font-medium">🔥 Factory Tip: Acetate quality varies dramatically by source. Italian acetate (from Mazza or Albini) is the gold standard — richer colors, better polish, more consistent material. Chinese acetate is cheaper but can look flat and dull. For a premium brand, insist on Italian acetate.</p>
+            <p className="text-amber-800 font-medium">🔥 Factory Tip: Acetate quality varies dramatically by source. Italian acetate (from Mazza or Albini) is the gold standard -- richer colors, better polish, more consistent material. Chinese acetate is cheaper but can look flat and dull. For a premium brand, insist on Italian acetate.</p>
           </div>
         </section>
 
@@ -208,17 +208,17 @@ export default function Tr90VsAcetateVsMetalPage() {
             <li><strong>Stainless steel:</strong> Most common, good balance of strength and cost</li>
             <li><strong>Titanium:</strong> Premium, lightweight, hypoallergenic, more expensive</li>
             <li><strong>Aluminum:</strong> Very lightweight, modern look, less common</li>
-            <li><strong>Nickel silver (Monel):</strong> Cheap, easy to work with, but can cause allergies — avoid for premium brands</li>
+            <li><strong>Nickel silver (Monel):</strong> Cheap, easy to work with, but can cause allergies -- avoid for premium brands</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Key Characteristics</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-6">
-            <li><strong>Weight:</strong> 20-30 grams per frame — medium weight</li>
-            <li><strong>Flexibility:</strong> Low to medium — can bend but may not return to shape</li>
+            <li><strong>Weight:</strong> 20-30 grams per frame -- medium weight</li>
+            <li><strong>Flexibility:</strong> Low to medium -- can bend but may not return to shape</li>
             <li><strong>Surface finish:</strong> Can be plated in gold, silver, rose gold, gunmetal, matte black, etc.</li>
-            <li><strong>Shape options:</strong> Thin, sleek, wire-frame designs — can&apos;t do bold/thick looks</li>
-            <li><strong>Durability:</strong> Strong but hinges are the weak point — metal fatigues over time</li>
-            <li><strong>Hypoallergenic:</strong> Depends on the alloy — stainless steel and titanium are safe, nickel alloys are not</li>
+            <li><strong>Shape options:</strong> Thin, sleek, wire-frame designs -- can&apos;t do bold/thick looks</li>
+            <li><strong>Durability:</strong> Strong but hinges are the weak point -- metal fatigues over time</li>
+            <li><strong>Hypoallergenic:</strong> Depends on the alloy -- stainless steel and titanium are safe, nickel alloys are not</li>
           </ul>
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Best For</h3>
@@ -232,7 +232,7 @@ export default function Tr90VsAcetateVsMetalPage() {
 
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Limitations</h3>
           <p className="text-gray-700 mb-4">
-            Metal frames can bend out of shape and are harder to repair than plastic frames. The plating can wear off over time (especially on cheaper frames). And if you use the wrong alloy, customers can develop skin allergies — which means returns and bad reviews.
+            Metal frames can bend out of shape and are harder to repair than plastic frames. The plating can wear off over time (especially on cheaper frames). And if you use the wrong alloy, customers can develop skin allergies -- which means returns and bad reviews.
           </p>
 
           <div className="bg-red-50 border-l-4 border-red-500 p-4 mb-6">
@@ -337,7 +337,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           </ul>
 
           <div className="bg-green-50 border-l-4 border-green-500 p-4 mb-6">
-            <p className="text-green-800 font-medium">💰 Factory Tip: If you&apos;re ordering 1000+ pieces, you can typically negotiate 15-25% off the per-unit price regardless of material. The biggest savings come from TR90 at volume — you can get frames for $2-3 each at 2000+ quantity.</p>
+            <p className="text-green-800 font-medium">💰 Factory Tip: If you&apos;re ordering 1000+ pieces, you can typically negotiate 15-25% off the per-unit price regardless of material. The biggest savings come from TR90 at volume -- you can get frames for $2-3 each at 2000+ quantity.</p>
           </div>
         </section>
 
@@ -353,20 +353,20 @@ export default function Tr90VsAcetateVsMetalPage() {
             <div className="bg-white border rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">1. What&apos;s your retail price point?</h3>
               <ul className="list-disc pl-6 space-y-1 text-gray-700">
-                <li><strong>$20-50:</strong> TR90 — best value, customers won&apos;t expect premium materials at this price</li>
-                <li><strong>$50-100:</strong> Metal or entry-level acetate — good balance of quality and cost</li>
-                <li><strong>$100-300:</strong> Premium acetate — customers expect hand-polished, substantial frames</li>
-                <li><strong>$300+:</strong> Italian acetate or titanium — nothing less will do</li>
+                <li><strong>$20-50:</strong> TR90 -- best value, customers won&apos;t expect premium materials at this price</li>
+                <li><strong>$50-100:</strong> Metal or entry-level acetate -- good balance of quality and cost</li>
+                <li><strong>$100-300:</strong> Premium acetate -- customers expect hand-polished, substantial frames</li>
+                <li><strong>$300+:</strong> Italian acetate or titanium -- nothing less will do</li>
               </ul>
             </div>
 
             <div className="bg-white border rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">2. Who&apos;s your target customer?</h3>
               <ul className="list-disc pl-6 space-y-1 text-gray-700">
-                <li><strong>Athletes/active users:</strong> TR90 — lightweight, flexible, impact-resistant</li>
-                <li><strong>Fashion-conscious women:</strong> Acetate — bold colors, premium feel, trend-driven</li>
-                <li><strong>Professional men:</strong> Metal — sleek, classic, understated</li>
-                <li><strong>Children:</strong> TR90 — unbreakable, lightweight, safe</li>
+                <li><strong>Athletes/active users:</strong> TR90 -- lightweight, flexible, impact-resistant</li>
+                <li><strong>Fashion-conscious women:</strong> Acetate -- bold colors, premium feel, trend-driven</li>
+                <li><strong>Professional men:</strong> Metal -- sleek, classic, understated</li>
+                <li><strong>Children:</strong> TR90 -- unbreakable, lightweight, safe</li>
               </ul>
             </div>
 
@@ -397,7 +397,7 @@ export default function Tr90VsAcetateVsMetalPage() {
             <div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">🎨 Acetate patterns are getting bolder</h3>
               <p className="text-gray-700">
-                2026 is seeing a surge in mixed-pattern acetate — tortoise combined with transparent, marble effects, and gradient colors. The &quot;quiet luxury&quot; trend is pushing acetate towards richer, more complex patterns that are harder to counterfeit.
+                2026 is seeing a surge in mixed-pattern acetate -- tortoise combined with transparent, marble effects, and gradient colors. The &quot;quiet luxury&quot; trend is pushing acetate towards richer, more complex patterns that are harder to counterfeit.
               </p>
             </div>
 
@@ -425,14 +425,14 @@ export default function Tr90VsAcetateVsMetalPage() {
             <div className="bg-gray-50 rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Which frame material is the most durable?</h3>
               <p className="text-gray-700">
-                TR90 is the most durable for impact resistance and flexibility — it can bend and return to shape without breaking. Acetate is durable for everyday wear but can crack under extreme stress. Metal frames are strong but can bend out of shape and are harder to repair. For active sports or kids, TR90 is the clear winner. For fashion-focused lines, acetate offers the best balance of durability and premium feel.
+                TR90 is the most durable for impact resistance and flexibility -- it can bend and return to shape without breaking. Acetate is durable for everyday wear but can crack under extreme stress. Metal frames are strong but can bend out of shape and are harder to repair. For active sports or kids, TR90 is the clear winner. For fashion-focused lines, acetate offers the best balance of durability and premium feel.
               </p>
             </div>
 
             <div className="bg-gray-50 rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Which frame material is the lightest?</h3>
               <p className="text-gray-700">
-                TR90 is the lightest — a typical TR90 frame weighs 15-20 grams. Metal frames are next at 20-30 grams depending on the alloy. Acetate is the heaviest at 25-40 grams because it&apos;s carved from solid blocks of material. If weight is your priority (for all-day comfort or children&apos;s sunglasses), TR90 is the best choice.
+                TR90 is the lightest -- a typical TR90 frame weighs 15-20 grams. Metal frames are next at 20-30 grams depending on the alloy. Acetate is the heaviest at 25-40 grams because it&apos;s carved from solid blocks of material. If weight is your priority (for all-day comfort or children&apos;s sunglasses), TR90 is the best choice.
               </p>
             </div>
 
@@ -463,7 +463,7 @@ export default function Tr90VsAcetateVsMetalPage() {
         <div className="bg-gradient-to-r from-primary-600 to-primary-700 rounded-2xl p-8 text-white text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Source the Right Frames?</h2>
           <p className="text-xl mb-6 opacity-90">
-            Whether you need TR90 for performance, acetate for fashion, or metal for classic style — we&apos;ll help you find the perfect frame for your brand.
+            Whether you need TR90 for performance, acetate for fashion, or metal for classic style -- we&apos;ll help you find the perfect frame for your brand.
           </p>
           <Link 
             href="/contact" 

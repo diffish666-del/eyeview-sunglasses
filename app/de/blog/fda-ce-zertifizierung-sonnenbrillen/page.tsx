@@ -37,8 +37,8 @@ export default function FdaCeZertifizierungPage() {
           "mainEntity": [
             { "@type": "Question", "name": "Brauchen Sonnenbrillen eine FDA-Zulassung für den US-Verkauf?", "acceptedAnswer": { "@type": "Answer", "text": "Sonnenbrillen brauchen keine FDA-'Zulassung', aber FDA-Konformität. Die FDA klassifiziert Sonnenbrillen als Medizinprodukte (Klasse I) unter 21 CFR 886.5850. Hersteller und Importeure müssen ihren Betrieb bei der FDA registrieren und ihre Produkte listen. Die Gläser müssen auch Schlagfestigkeitsanforderungen gemäß 21 CFR 801.410 erfüllen." } },
             { "@type": "Question", "name": "Was ist die CE-Kennzeichnung für Sonnenbrillen?", "acceptedAnswer": { "@type": "Answer", "text": "Die CE-Kennzeichnung zeigt, dass Sonnenbrillen EU-Sicherheits-, Gesundheits- und Umweltanforderungen entsprechen. Der Schlüsselstandard ist EN ISO 12312-1, der UV-Schutz, optische Qualität und mechanische Festigkeit abdeckt. CE-Kennzeichnung ist Pflicht für den Verkauf in EU, EWR und UK." } },
-            { "@type": "Question", "name": "Was kostet die Compliance-Prüfung für Sonnenbrillen?", "acceptedAnswer": { "@type": "Answer", "text": "Basis-UV400-Tests kosten $100–$300 pro Modell. Volle Compliance-Prüfung (UV, Schlagfestigkeit, optische Qualität) liegt bei $300–$800 pro Modell. FDA-Registrierung ist kostenlos. CE-Dokumentation kostet $200–$500 mit Berater. Die meisten seriösen Fabriken integrieren Basistests in die Produktionskosten." } },
-            { "@type": "Question", "name": "Können Sonnenbrillen am Zoll beschlagnahmt werden?", "acceptedAnswer": { "@type": "Answer", "text": "Ja. US-Zoll kann Sonnenbrillen ohne FDA-Registrierung zurückhalten. EU-Zoll beschlagnahmt regelmäßig Sendungen ohne CE-Kennzeichnung. Australien ist besonders streng. Ich habe persönlich erlebt, wie Kunden Sendungen im Wert von $10.000–$50.000 wegen fehlender Dokumentation verloren haben." } }
+            { "@type": "Question", "name": "Was kostet die Compliance-Prüfung für Sonnenbrillen?", "acceptedAnswer": { "@type": "Answer", "text": "Basis-UV400-Tests kosten $100-$300 pro Modell. Volle Compliance-Prüfung (UV, Schlagfestigkeit, optische Qualität) liegt bei $300-$800 pro Modell. FDA-Registrierung ist kostenlos. CE-Dokumentation kostet $200-$500 mit Berater. Die meisten seriösen Fabriken integrieren Basistests in die Produktionskosten." } },
+            { "@type": "Question", "name": "Können Sonnenbrillen am Zoll beschlagnahmt werden?", "acceptedAnswer": { "@type": "Answer", "text": "Ja. US-Zoll kann Sonnenbrillen ohne FDA-Registrierung zurückhalten. EU-Zoll beschlagnahmt regelmäßig Sendungen ohne CE-Kennzeichnung. Australien ist besonders streng. Ich habe persönlich erlebt, wie Kunden Sendungen im Wert von $10.000-$50.000 wegen fehlender Dokumentation verloren haben." } }
           ]
         })}} />
 
@@ -54,7 +54,7 @@ export default function FdaCeZertifizierungPage() {
           </h1>
           <p className="text-xl text-gray-600">
             Niemand gründet eine Sonnenbrillenmarke, weil er sich für regulatorische Compliance begeistert. 
-            Aber überspringen Sie diesen Schritt, und Ihre Sonnenbrillen könnten am Zoll beschlagnahmt werden — 
+            Aber überspringen Sie diesen Schritt, und Ihre Sonnenbrillen könnten am Zoll beschlagnahmt werden -- 
             oder Schlimmeres. Hier ist alles, was Sie wissen müssen, vereinfacht erklärt.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -83,7 +83,7 @@ export default function FdaCeZertifizierungPage() {
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-600 mb-8">
             Ich exportiere seit 20 Jahren Sonnenbrillen. In dieser Zeit habe ich drei Kunden ganze 
-            Sendungen an den Zoll verlieren sehen — insgesamt über $120.000 an zerstörtem Produkt. 
+            Sendungen an den Zoll verlieren sehen -- insgesamt über $120.000 an zerstörtem Produkt. 
             Jeder einzelne Fall war vermeidbar. Die Tests hätten weniger als $500 gekostet.
           </p>
 
@@ -104,16 +104,16 @@ export default function FdaCeZertifizierungPage() {
           <h2 id="fda-usa" className="text-3xl font-bold mt-16 mb-6">FDA-Anforderungen: Sonnenbrillenverkauf in den USA</h2>
           <p>
             Überraschung: <strong>Die FDA klassifiziert Sonnenbrillen als Medizinprodukte</strong>. 
-            Genauer: Klasse-I-Medizinprodukte unter 21 CFR 886.5850. Keine Panik — Klasse I ist die 
+            Genauer: Klasse-I-Medizinprodukte unter 21 CFR 886.5850. Keine Panik -- Klasse I ist die 
             niedrigste Risikokategorie, und die Anforderungen sind überschaubar.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">Schritt 1: FDA-Betriebsregistrierung</h3>
             <p className="text-blue-800">
-              Jeder Hersteller und Importeur muss sich bei der FDA registrieren — online über das{' '}
+              Jeder Hersteller und Importeur muss sich bei der FDA registrieren -- online über das{' '}
               <a href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-registration-and-listing" target="_blank" rel="noopener" className="underline">FDA FURLS-System</a>. 
-              Kostenlos, muss aber jährlich erneuert werden (1. Oktober – 31. Dezember).
+              Kostenlos, muss aber jährlich erneuert werden (1. Oktober - 31. Dezember).
             </p>
           </div>
 
@@ -136,7 +136,7 @@ export default function FdaCeZertifizierungPage() {
             <li><strong>UV-Durchlässigkeit:</strong> Maximal erlaubte UV-Strahlung je nach Filterkategorie</li>
             <li><strong>Optische Qualität:</strong> Sphärische, astigmatische und prismatische Toleranzen</li>
             <li><strong>Mechanische Festigkeit:</strong> Mindest-Robustheitsanforderungen</li>
-            <li><strong>Filterkategorien (0–4):</strong> Wie viel sichtbares Licht das Glas durchlässt</li>
+            <li><strong>Filterkategorien (0-4):</strong> Wie viel sichtbares Licht das Glas durchlässt</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">CE-Filterkategorien</h3>
@@ -151,11 +151,11 @@ export default function FdaCeZertifizierungPage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">Kat. 0</td><td className="px-6 py-4">80–100 %</td><td className="px-6 py-4">Mode/Innenbereich</td><td className="px-6 py-4">Ja</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Kat. 1</td><td className="px-6 py-4">43–80 %</td><td className="px-6 py-4">Wenig Sonne</td><td className="px-6 py-4">Ja</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Kat. 2</td><td className="px-6 py-4">18–43 %</td><td className="px-6 py-4">Mittlere Sonne</td><td className="px-6 py-4">Ja</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Kat. 3</td><td className="px-6 py-4">8–18 %</td><td className="px-6 py-4">Starke Sonne</td><td className="px-6 py-4">Ja</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Kat. 4</td><td className="px-6 py-4">3–8 %</td><td className="px-6 py-4">Extrem (Gletscher etc.)</td><td className="px-6 py-4 text-red-600 font-bold">NEIN</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Kat. 0</td><td className="px-6 py-4">80-100 %</td><td className="px-6 py-4">Mode/Innenbereich</td><td className="px-6 py-4">Ja</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Kat. 1</td><td className="px-6 py-4">43-80 %</td><td className="px-6 py-4">Wenig Sonne</td><td className="px-6 py-4">Ja</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Kat. 2</td><td className="px-6 py-4">18-43 %</td><td className="px-6 py-4">Mittlere Sonne</td><td className="px-6 py-4">Ja</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Kat. 3</td><td className="px-6 py-4">8-18 %</td><td className="px-6 py-4">Starke Sonne</td><td className="px-6 py-4">Ja</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Kat. 4</td><td className="px-6 py-4">3-8 %</td><td className="px-6 py-4">Extrem (Gletscher etc.)</td><td className="px-6 py-4 text-red-600 font-bold">NEIN</td></tr>
               </tbody>
             </table>
           </div>
@@ -163,7 +163,7 @@ export default function FdaCeZertifizierungPage() {
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 Wichtig: Selbstzertifizierung</h3>
             <p className="text-amber-800">
-              Die CE-Kennzeichnung für Sonnenbrillen ist <strong>selbstzertifiziert</strong> — Sie brauchen 
+              Die CE-Kennzeichnung für Sonnenbrillen ist <strong>selbstzertifiziert</strong> -- Sie brauchen 
               keine benannte Stelle. Sie (oder Ihre Fabrik) führen die Tests durch, erstellen die technische 
               Dokumentation und unterzeichnen die Konformitätserklärung. Erschwinglich, aber Sie haften 
               rechtlich für die Richtigkeit Ihrer Angaben.
@@ -172,8 +172,8 @@ export default function FdaCeZertifizierungPage() {
 
           <h2 id="uv-tests" className="text-3xl font-bold mt-16 mb-6">UV-Schutzstandards</h2>
           <p>
-            <strong>UV400 bedeutet, dass das Glas 99–100 % der UV-Strahlung bis 400 Nanometer blockiert</strong> — 
-            sowohl UVA (315–400 nm) als auch UVB (280–315 nm). Das ist der weltweite Mindeststandard. 
+            <strong>UV400 bedeutet, dass das Glas 99-100 % der UV-Strahlung bis 400 Nanometer blockiert</strong> -- 
+            sowohl UVA (315-400 nm) als auch UVB (280-315 nm). Das ist der weltweite Mindeststandard. 
             Mehr Details in unserem{' '}
             <Link href="/de/blog/uv400-vs-polarisiert" className="text-primary-600 hover:underline">UV400 vs. Polarisiert Ratgeber</Link>.
           </p>
@@ -196,17 +196,17 @@ export default function FdaCeZertifizierungPage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">Nur UV400-Durchlässigkeit</td><td className="px-6 py-4">$100–$300</td><td className="px-6 py-4">3–5 Tage</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Vollständig EN ISO 12312-1 (CE)</td><td className="px-6 py-4">$300–$600</td><td className="px-6 py-4">5–10 Tage</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">ANSI Z80.3 komplett</td><td className="px-6 py-4">$300–$500</td><td className="px-6 py-4">5–10 Tage</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Australien)</td><td className="px-6 py-4">$400–$800</td><td className="px-6 py-4">7–14 Tage</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">FDA-Falltest</td><td className="px-6 py-4">$50–$150</td><td className="px-6 py-4">1–3 Tage</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Nur UV400-Durchlässigkeit</td><td className="px-6 py-4">$100-$300</td><td className="px-6 py-4">3-5 Tage</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Vollständig EN ISO 12312-1 (CE)</td><td className="px-6 py-4">$300-$600</td><td className="px-6 py-4">5-10 Tage</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">ANSI Z80.3 komplett</td><td className="px-6 py-4">$300-$500</td><td className="px-6 py-4">5-10 Tage</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Australien)</td><td className="px-6 py-4">$400-$800</td><td className="px-6 py-4">7-14 Tage</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">FDA-Falltest</td><td className="px-6 py-4">$50-$150</td><td className="px-6 py-4">1-3 Tage</td></tr>
               </tbody>
             </table>
           </div>
           <p>
             <strong>Empfohlene Prüflabore:</strong> SGS, Bureau Veritas, Intertek, TÜV Rheinland. 
-            Lokale Uni-Labore sind oft 30–50 % günstiger für Basis-UV-Tests — prüfen Sie die Akkreditierung.
+            Lokale Uni-Labore sind oft 30-50 % günstiger für Basis-UV-Tests -- prüfen Sie die Akkreditierung.
           </p>
 
           <h2 id="checkliste" className="text-3xl font-bold mt-16 mb-6">Ihre Compliance-Checkliste</h2>
@@ -236,7 +236,7 @@ export default function FdaCeZertifizierungPage() {
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Was kostet Compliance-Prüfung?</h3>
-              <p className="text-gray-600">Basis-UV: $100–$300/Modell. Volle CE-Compliance: $300–$600/Modell. FDA-Registrierung ist kostenlos. Die meisten guten Fabriken integrieren Basistests in die Produktionskosten.</p>
+              <p className="text-gray-600">Basis-UV: $100-$300/Modell. Volle CE-Compliance: $300-$600/Modell. FDA-Registrierung ist kostenlos. Die meisten guten Fabriken integrieren Basistests in die Produktionskosten.</p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Können Sonnenbrillen am Zoll beschlagnahmt werden?</h3>
@@ -249,7 +249,7 @@ export default function FdaCeZertifizierungPage() {
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Wir kümmern uns um FDA-, CE- und UV-Compliance für jede Bestellung. Unser Team begleitet 
               Sie durch die Anforderungen für Ihre spezifischen Märkte und stellt alle nötige 
-              Dokumentation bereit. Ohne Aufpreis — das gehört zum professionellen Geschäft.
+              Dokumentation bereit. Ohne Aufpreis -- das gehört zum professionellen Geschäft.
             </p>
             <Link href="/de/kontakt" className="btn-primary">Jacky zu Compliance fragen</Link>
           </div>

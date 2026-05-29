@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'TR90 vs Acetato vs Metallo: Quale Materiale per la Montatura È Giusto per il Tuo Brand?',
-  description: 'Un proprietario di fabbrica analizza le montature in TR90, acetato e metallo — dati reali sui costi, confronti di peso, test di resistenza e quale materiale funziona meglio per diverse strategie di brand.',
+  description: 'Un proprietario di fabbrica analizza le montature in TR90, acetato e metallo -- dati reali sui costi, confronti di peso, test di resistenza e quale materiale funziona meglio per diverse strategie di brand.',
   keywords: 'confronto materiali montature occhiali, occhiali TR90, montature acetato, montature metallo, TR90 vs acetato, costo materiali montature',
   alternates: {
     canonical: '/it/blog/confronto-materiali-montature',
@@ -27,7 +27,7 @@ export default function ConfrontoMaterialiMontaturePage() {
           "dateModified": "2026-05-03",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un proprietario di fabbrica analizza le montature in TR90, acetato e metallo — dati reali sui costi, confronti di peso, resistenza e quale materiale si adatta al tuo brand.",
+          "description": "Un proprietario di fabbrica analizza le montature in TR90, acetato e metallo -- dati reali sui costi, confronti di peso, resistenza e quale materiale si adatta al tuo brand.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/confronto-materiali-montature" },
           "inLanguage": "it"
         })}} />
@@ -39,27 +39,27 @@ export default function ConfrontoMaterialiMontaturePage() {
             {
               "@type": "Question",
               "name": "Cos'è il TR90 e perché viene usato negli occhiali da sole?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Il TR90 è una poliammide termoplastica (polimero a base di nylon) sviluppata originariamente per uso medico e militare. È estremamente leggero — circa 15-20 grammi per una montatura completa — e praticamente infrangibile nell'uso normale. È diventato il materiale preferito per occhiali sportivi e lifestyle perché si flette invece di rompersi, resiste al sudore e ai prodotti chimici, e costa $3-8 per montatura all'ingrosso." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Il TR90 è una poliammide termoplastica (polimero a base di nylon) sviluppata originariamente per uso medico e militare. È estremamente leggero -- circa 15-20 grammi per una montatura completa -- e praticamente infrangibile nell'uso normale. È diventato il materiale preferito per occhiali sportivi e lifestyle perché si flette invece di rompersi, resiste al sudore e ai prodotti chimici, e costa $3-8 per montatura all'ingrosso." }
             },
             {
               "@type": "Question",
               "name": "L'acetato è migliore del TR90 per gli occhiali da sole?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Dipende dal posizionamento del tuo brand. L'acetato ha un aspetto e una sensazione più premium — colori più ricchi, pattern più profondi, un peso maggiore che comunica qualità. Ma il TR90 è più leggero, più resistente e più economico. Se stai costruendo un brand di moda o lusso, l'acetato vince. Se punti a clienti sportivi, outdoor o attenti al prezzo, il TR90 è la scelta migliore." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Dipende dal posizionamento del tuo brand. L'acetato ha un aspetto e una sensazione più premium -- colori più ricchi, pattern più profondi, un peso maggiore che comunica qualità. Ma il TR90 è più leggero, più resistente e più economico. Se stai costruendo un brand di moda o lusso, l'acetato vince. Se punti a clienti sportivi, outdoor o attenti al prezzo, il TR90 è la scelta migliore." }
             },
             {
               "@type": "Question",
               "name": "Quanto costano i diversi materiali delle montature all'ingrosso?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Prezzi reali di fabbrica: le montature in TR90 vanno da $3-8 per paio, quelle in acetato costano $5-11, e quelle in metallo variano da $8-22 a seconda della lega e della costruzione. Questi sono costi solo per la montatura — aggiungi $1,50-8 per le lenti a seconda del tipo e dei rivestimenti." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Prezzi reali di fabbrica: le montature in TR90 vanno da $3-8 per paio, quelle in acetato costano $5-11, e quelle in metallo variano da $8-22 a seconda della lega e della costruzione. Questi sono costi solo per la montatura -- aggiungi $1,50-8 per le lenti a seconda del tipo e dei rivestimenti." }
             },
             {
               "@type": "Question",
               "name": "Quale materiale per montature è il più resistente?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Il TR90 vince sulla resistenza agli urti — può flettersi oltre 90 gradi senza rompersi e sopravvive se ci si siede sopra, se viene calpestato o fatto cadere ripetutamente. Il metallo è rigido e può deformarsi permanentemente o perdere la forma. L'acetato è a metà strada — è robusto ma può creparsi con impatti forti. Per la resistenza nell'uso attivo, il TR90 è il re." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Il TR90 vince sulla resistenza agli urti -- può flettersi oltre 90 gradi senza rompersi e sopravvive se ci si siede sopra, se viene calpestato o fatto cadere ripetutamente. Il metallo è rigido e può deformarsi permanentemente o perdere la forma. L'acetato è a metà strada -- è robusto ma può creparsi con impatti forti. Per la resistenza nell'uso attivo, il TR90 è il re." }
             },
             {
               "@type": "Question",
               "name": "Posso combinare diversi materiali nella mia linea di occhiali?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Assolutamente — e la maggior parte dei brand di successo fa esattamente questo. Un brand tipico potrebbe avere montature sportive in TR90 a $29-49 al dettaglio, montature fashion in acetato a $79-149 e un paio di aviator in metallo a $99-179. Combinare i materiali ti permette di coprire diversi punti di prezzo e segmenti di clientela senza diluire il tuo brand." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Assolutamente -- e la maggior parte dei brand di successo fa esattamente questo. Un brand tipico potrebbe avere montature sportive in TR90 a $29-49 al dettaglio, montature fashion in acetato a $79-149 e un paio di aviator in metallo a $99-179. Combinare i materiali ti permette di coprire diversi punti di prezzo e segmenti di clientela senza diluire il tuo brand." }
             }
           ]
         })}} />
@@ -76,7 +76,7 @@ export default function ConfrontoMaterialiMontaturePage() {
           </h1>
           <p className="text-xl text-gray-600">
             Ogni settimana qualcuno mi chiede: &quot;Jacky, quale materiale per la montatura dovrei usare?&quot;
-            Dopo 20 anni e circa 12 milioni di montature, ecco la risposta vera — con dati reali sui costi dal nostro reparto produzione.
+            Dopo 20 anni e circa 12 milioni di montature, ecco la risposta vera -- con dati reali sui costi dal nostro reparto produzione.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
@@ -128,7 +128,7 @@ export default function ConfrontoMaterialiMontaturePage() {
 
           <h2 id="tr90" className="text-3xl font-bold mt-16 mb-6">TR90: L&apos;Atleta</h2>
           <p>
-            <a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Il TR90 è una poliammide termoplastica</a> —
+            <a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Il TR90 è una poliammide termoplastica</a> --
             fondamentalmente un nylon super-ingegnerizzato. È stato sviluppato originariamente per apparecchiature mediche e applicazioni militari dove
             serviva qualcosa che non si rompesse, non irritasse la pelle e non pesasse praticamente nulla. L&apos;industria dell&apos;eyewear lo ha preso in prestito,
             e ora è ovunque.
@@ -143,10 +143,10 @@ export default function ConfrontoMaterialiMontaturePage() {
           <p>
             <strong>Durabilità:</strong> Tengo una montatura in TR90 sulla scrivania per le demo. La piego, la torco, ci mi siedo sopra,
             la lancio attraverso la stanza. Lo faccio da tre anni con lo stesso paio. Funziona ancora perfettamente. Il TR90 ha
-            quella che gli ingegneri chiamano &quot;memoria&quot; — puoi deformarlo e torna alla forma originale.
+            quella che gli ingegneri chiamano &quot;memoria&quot; -- puoi deformarlo e torna alla forma originale.
           </p>
           <p>
-            <strong>Resistenza chimica:</strong> Sudore, crema solare, acqua salata, repellente per insetti — niente di tutto ciò influisce sul TR90.
+            <strong>Resistenza chimica:</strong> Sudore, crema solare, acqua salata, repellente per insetti -- niente di tutto ciò influisce sul TR90.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
@@ -155,7 +155,7 @@ export default function ConfrontoMaterialiMontaturePage() {
               <li><strong>Peso montatura:</strong> 15-20g</li>
               <li><strong>Costo di fabbrica:</strong> $3-8 per montatura</li>
               <li><strong>Fascia retail tipica:</strong> $19-69</li>
-              <li><strong>Velocità di produzione:</strong> Veloce — stampaggio a iniezione in secondi</li>
+              <li><strong>Velocità di produzione:</strong> Veloce -- stampaggio a iniezione in secondi</li>
               <li><strong>Ideale per:</strong> Sport, outdoor, bambini, brand value</li>
               <li><strong>Test di flessione:</strong> Si piega oltre 90° senza rompersi</li>
             </ul>
@@ -164,7 +164,7 @@ export default function ConfrontoMaterialiMontaturePage() {
           <h2 id="acetato" className="text-3xl font-bold mt-16 mb-6">Acetato: L&apos;Icona della Moda</h2>
           <p>
             L&apos;acetato è il materiale che ha costruito l&apos;industria dell&apos;eyewear di lusso. Quando pensi ai Ray-Ban Wayfarer,
-            alle montature Tom Ford o agli occhiali oversize Celine — quello è acetato. È fatto con fibre di cotone
+            alle montature Tom Ford o agli occhiali oversize Celine -- quello è acetato. È fatto con fibre di cotone
             e pasta di legno trasformate in lastre di acetato di cellulosa, che vengono poi tagliate, sagomate e lucidate a mano.
             Il migliore viene da <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Mazzucchelli in Italia</a>,
             che lo producono dal 1849.
@@ -173,15 +173,15 @@ export default function ConfrontoMaterialiMontaturePage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Cosa Fa Bene l&apos;Acetato</h3>
           <p>
             <strong>Estetica:</strong> Nient&apos;altro si avvicina. L&apos;acetato ha profondità. Tieni una buona montatura in acetato tartarugato
-            controluce e vedrai strati di ambra, marrone e oro che turbinano attraverso il materiale —
+            controluce e vedrai strati di ambra, marrone e oro che turbinano attraverso il materiale --
             ogni paio leggermente diverso. Non è un pattern stampato; è letteralmente integrato nel materiale.
           </p>
           <p>
             <strong>Gamma colori:</strong> Oltre 200 colori e pattern, dal nero classico a design multi-strato con
-            colori interni ed esterni contrastanti. Trasparente, opaco, sfumato, marmorizzato — l&apos;acetato può fare tutto.
+            colori interni ed esterni contrastanti. Trasparente, opaco, sfumato, marmorizzato -- l&apos;acetato può fare tutto.
           </p>
           <p>
-            <strong>Percezione premium:</strong> L&apos;acetato ha peso — 25-35 grammi per una montatura tipica. Si riscalda
+            <strong>Percezione premium:</strong> L&apos;acetato ha peso -- 25-35 grammi per una montatura tipica. Si riscalda
             a temperatura corporea. Fa un &quot;click&quot; soddisfacente quando le cerniere si chiudono. Questi sono dettagli minimi, ma
             si sommano in una sensazione di qualità che giustifica prezzi premium.
           </p>
@@ -192,16 +192,16 @@ export default function ConfrontoMaterialiMontaturePage() {
               <li><strong>Peso montatura:</strong> 25-35g</li>
               <li><strong>Costo di fabbrica:</strong> $5-11 per montatura</li>
               <li><strong>Fascia retail tipica:</strong> $49-199</li>
-              <li><strong>Velocità di produzione:</strong> Lenta — processo multi-giorno per montatura</li>
+              <li><strong>Velocità di produzione:</strong> Lenta -- processo multi-giorno per montatura</li>
               <li><strong>Ideale per:</strong> Moda, lifestyle, brand premium e lusso</li>
-              <li><strong>Test di flessione:</strong> Moderato — resiste alla piegatura, può creparsi sotto forza</li>
+              <li><strong>Test di flessione:</strong> Moderato -- resiste alla piegatura, può creparsi sotto forza</li>
             </ul>
           </div>
 
           <h2 id="metallo" className="text-3xl font-bold mt-16 mb-6">Metallo: Il Classico</h2>
           <p>
-            Le montature in metallo esistono dal 1700. Benjamin Franklin indossava occhiali in metallo. L&apos;aviator —
-            probabilmente la forma di occhiali da sole più iconica di sempre — è una montatura in metallo.
+            Le montature in metallo esistono dal 1700. Benjamin Franklin indossava occhiali in metallo. L&apos;aviator --
+            probabilmente la forma di occhiali da sole più iconica di sempre -- è una montatura in metallo.
           </p>
           <p>
             Gli occhiali da sole in metallo di oggi usano acciaio inossidabile, titanio, alluminio, leghe di nichel o
@@ -212,7 +212,7 @@ export default function ConfrontoMaterialiMontaturePage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Cosa Fa Bene il Metallo</h3>
           <p>
             <strong>Profili sottili ed eleganti:</strong> Il metallo permette di creare montature incredibilmente sottili.
-            Un design wire-frame in metallo può essere spesso 1-2mm — provaci con acetato o TR90 e si spezzerebbe.
+            Un design wire-frame in metallo può essere spesso 1-2mm -- provaci con acetato o TR90 e si spezzerebbe.
             Se l&apos;estetica del tuo brand è minimalista, sleek o architettonica, il metallo è il tuo materiale.
           </p>
           <p>
@@ -221,7 +221,7 @@ export default function ConfrontoMaterialiMontaturePage() {
           </p>
           <p>
             <strong>Percezione premium:</strong> Le montature in metallo sembrano costose. Il tocco fresco dell&apos;acciaio inossidabile spazzolato,
-            la flessibilità del titanio, la lucentezza del tono oro lucidato — sono segnali sensoriali che giustificano
+            la flessibilità del titanio, la lucentezza del tono oro lucidato -- sono segnali sensoriali che giustificano
             prezzi premium.
           </p>
 
@@ -231,9 +231,9 @@ export default function ConfrontoMaterialiMontaturePage() {
               <li><strong>Peso montatura:</strong> 12-35g (varia in base alla lega)</li>
               <li><strong>Costo di fabbrica:</strong> $8-22 per montatura</li>
               <li><strong>Fascia retail tipica:</strong> $59-249</li>
-              <li><strong>Velocità di produzione:</strong> Media — fabbricazione multi-step</li>
+              <li><strong>Velocità di produzione:</strong> Media -- fabbricazione multi-step</li>
               <li><strong>Ideale per:</strong> Brand classici, minimalisti, premium, professionali</li>
-              <li><strong>Test di flessione:</strong> Basso — si piega permanentemente sotto forza</li>
+              <li><strong>Test di flessione:</strong> Basso -- si piega permanentemente sotto forza</li>
             </ul>
           </div>
 
@@ -272,7 +272,7 @@ export default function ConfrontoMaterialiMontaturePage() {
           <h2 id="costi-reali" className="text-3xl font-bold mt-16 mb-6">Costi Reali dal Reparto Produzione</h2>
           <p>
             Ecco i numeri che nessun altro pubblica. Questi sono costi di produzione reali dalla nostra
-            fabbrica — non stime, non medie, ma quello che pagherai quando fai un ordine.
+            fabbrica -- non stime, non medie, ma quello che pagherai quando fai un ordine.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Costi Montatura TR90</h3>
@@ -290,7 +290,7 @@ export default function ConfrontoMaterialiMontaturePage() {
           <ul>
             <li><strong>Lastra di acetato:</strong> $1,50-3,00 per montatura (il Mazzucchelli italiano aggiunge $1-2 rispetto all&apos;acetato cinese)</li>
             <li><strong>Taglio CNC:</strong> $0,60-1,00</li>
-            <li><strong>Burattatura e lucidatura:</strong> $0,80-1,50 (qui avviene la magia — 24-48 ore di burattatura danno all&apos;acetato la sua lucentezza caratteristica)</li>
+            <li><strong>Burattatura e lucidatura:</strong> $0,80-1,50 (qui avviene la magia -- 24-48 ore di burattatura danno all&apos;acetato la sua lucentezza caratteristica)</li>
             <li><strong>Cerniere:</strong> $0,40-1,00 (cerniere a cinque cilindri per il premium, tre cilindri per lo standard)</li>
             <li><strong>Finitura a mano:</strong> $0,50-1,50</li>
             <li><strong>Assemblaggio e QC:</strong> $0,50-1,00</li>
@@ -324,13 +324,13 @@ export default function ConfrontoMaterialiMontaturePage() {
           <p>
             Costo consegnato: $6-14 per paio. Sweet spot retail: $29-59. Questo ti dà un markup 4-5x, che è
             salutare per i brand DTC. A $69+ al dettaglio, i clienti iniziano a confrontare le tue montature in TR90 con opzioni in acetato
-            allo stesso prezzo — e l&apos;acetato sembra più premium. Mantieni il TR90 nella fascia value-to-midrange.
+            allo stesso prezzo -- e l&apos;acetato sembra più premium. Mantieni il TR90 nella fascia value-to-midrange.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Strategia Retail Acetato</h3>
           <p>
             Costo consegnato: $9-18 per paio. Sweet spot retail: $79-149. Qui è dove vivono la maggior parte dei brand di
-            eyewear indipendenti — ed è una fascia comprovata. Acetato italiano con lenti polarizzate? Puoi
+            eyewear indipendenti -- ed è una fascia comprovata. Acetato italiano con lenti polarizzate? Puoi
             spingerti fino a $149-199 al dettaglio se il tuo branding lo supporta.
           </p>
 
@@ -353,7 +353,7 @@ export default function ConfrontoMaterialiMontaturePage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Scenario 2: Brand Moda/Lifestyle</h3>
           <p>
             <strong>Scegli acetato.</strong> Un brand DTC di Brooklyn voleva montature chunky e audaci in colorazioni
-            stagionali. Abbiamo trovato lastre di acetato personalizzate — una stagione era verde smeraldo con pagliuzze d&apos;oro,
+            stagionali. Abbiamo trovato lastre di acetato personalizzate -- una stagione era verde smeraldo con pagliuzze d&apos;oro,
             un&apos;altra era rosa cipria. Le montature sembrano costare $300. Vendono a $129.
           </p>
 
@@ -366,7 +366,7 @@ export default function ConfrontoMaterialiMontaturePage() {
 
           <h2 id="combinare-materiali" className="text-3xl font-bold mt-16 mb-6">La Mossa Intelligente: Combina i Tuoi Materiali</h2>
           <p>
-            I migliori brand non scelgono un solo materiale — li usano tutti e tre strategicamente. Ecco
+            I migliori brand non scelgono un solo materiale -- li usano tutti e tre strategicamente. Ecco
             una struttura di collezione che raccomando ai nuovi proprietari di brand:
           </p>
           <ul>
@@ -382,7 +382,7 @@ export default function ConfrontoMaterialiMontaturePage() {
             <h3 className="text-2xl font-bold mb-4">Hai Bisogno di Aiuto per Scegliere?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Mandami il tuo concetto di brand e il prezzo retail target. Ti dirò esattamente quale
-              materiale — o combinazione di materiali — ti dà il miglior prodotto al tuo punto di prezzo.
+              materiale -- o combinazione di materiali -- ti dà il miglior prodotto al tuo punto di prezzo.
               Nessun costo, nessun obbligo.
             </p>
             <Link href="/it/contatto" className="btn-primary">
@@ -396,7 +396,7 @@ export default function ConfrontoMaterialiMontaturePage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Cos&apos;è il TR90 e perché viene usato negli occhiali da sole?</h3>
               <p className="text-gray-600">
-                Il TR90 è una poliammide termoplastica — un tipo di polimero a base di nylon sviluppato originariamente per
+                Il TR90 è una poliammide termoplastica -- un tipo di polimero a base di nylon sviluppato originariamente per
                 applicazioni mediche e militari. Pesa circa 15-20 grammi per una montatura completa ed è
                 praticamente infrangibile nell&apos;uso normale. È il preferito per occhiali sportivi e lifestyle
                 perché si flette invece di rompersi, resiste al sudore e ai prodotti chimici, e costa $3-8 per
@@ -406,7 +406,7 @@ export default function ConfrontoMaterialiMontaturePage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">L&apos;acetato è migliore del TR90 per gli occhiali da sole?</h3>
               <p className="text-gray-600">
-                Dipende da cosa vendi. L&apos;acetato ha un aspetto e una sensazione più premium — colori più ricchi,
+                Dipende da cosa vendi. L&apos;acetato ha un aspetto e una sensazione più premium -- colori più ricchi,
                 pattern più profondi, un peso soddisfacente che comunica qualità. Il TR90 è più leggero, più resistente e
                 più economico. Stai costruendo un brand di moda? Acetato. Un brand sportivo o value? TR90.
                 Una collezione completa? Usa entrambi.
@@ -416,14 +416,14 @@ export default function ConfrontoMaterialiMontaturePage() {
               <h3 className="font-bold text-lg mb-2">Quanto costano i diversi materiali all&apos;ingrosso?</h3>
               <p className="text-gray-600">
                 Direttamente dal nostro reparto produzione: montature TR90 $3-8 per paio, acetato $5-11,
-                e metallo da $8-22 a seconda della lega. Sono prezzi solo montatura — aggiungi
+                e metallo da $8-22 a seconda della lega. Sono prezzi solo montatura -- aggiungi
                 $1,50-8 per lenti, rivestimenti e assemblaggio.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Quale materiale è il più resistente?</h3>
               <p className="text-gray-600">
-                Il TR90 vince sulla resistenza agli urti — si flette oltre 90° senza rompersi e sopravvive se ci si siede sopra,
+                Il TR90 vince sulla resistenza agli urti -- si flette oltre 90° senza rompersi e sopravvive se ci si siede sopra,
                 viene calpestato e fatto cadere. Il metallo è rigido e può deformarsi permanentemente. L&apos;acetato è robusto ma può
                 creparsi con impatti forti. Per l&apos;uso attivo e la resistenza, il TR90 è il re.
               </p>
@@ -443,7 +443,7 @@ export default function ConfrontoMaterialiMontaturePage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/it/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM Occhiali da Sole: Guida Completa</h3>
-                <p className="text-gray-600 text-sm">La versione onesta di OEM vs ODM — da qualcuno che sta nel reparto produzione dal 2006.</p>
+                <p className="text-gray-600 text-sm">La versione onesta di OEM vs ODM -- da qualcuno che sta nel reparto produzione dal 2006.</p>
               </Link>
               <Link href="/it/blog/guida-lenti-occhiali" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Guida alle Lenti per Occhiali da Sole: Tutto Quello che Devi Sapere</h3>

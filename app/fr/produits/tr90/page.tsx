@@ -25,7 +25,7 @@ export const metadata: Metadata = {
 const tr90Faqs = [
   {
     question: 'Qu\u2019est-ce que le TR90 exactement et pourquoi est-il utilisé pour les lunettes de soleil ?',
-    answer: 'Le TR90 est un polyamide thermoplastique (nylon) développé à l\u2019origine par EMS-Grivory en Suisse sous la marque Grilamid TR90. Il a été conçu spécifiquement pour les applications optiques — c\u2019est-à-dire qu\u2019il a été pensé dès le départ pour fabriquer des montures de lunettes. Ses propriétés clés sont : ultralégèreté (une monture finie ne pèse que 15-20 grammes), flexibilité extrême (on peut le plier presque en deux et il reprend sa forme), mémoire de forme (il conserve sa forme pendant des années d\u2019utilisation quotidienne), hypoallergénicité (sans nickel, sans BPA, sans réaction cutanée) et haute résistance thermique (température de déformation d\u2019environ 120 °C). Il est fabriqué par moulage par injection, ce qui rend la production rapide et constante — et maintient les coûts bas. En résumé, le TR90 vous offre une monture qui ne pèse rien, ne casse jamais et n\u2019irrite jamais les peaux sensibles. C\u2019est pourquoi il est devenu le matériau de référence pour les lunettes de sport, les lunettes pour enfants et les montures légères du quotidien.',
+    answer: 'Le TR90 est un polyamide thermoplastique (nylon) développé à l\u2019origine par EMS-Grivory en Suisse sous la marque Grilamid TR90. Il a été conçu spécifiquement pour les applications optiques -- c\u2019est-à-dire qu\u2019il a été pensé dès le départ pour fabriquer des montures de lunettes. Ses propriétés clés sont : ultralégèreté (une monture finie ne pèse que 15-20 grammes), flexibilité extrême (on peut le plier presque en deux et il reprend sa forme), mémoire de forme (il conserve sa forme pendant des années d\u2019utilisation quotidienne), hypoallergénicité (sans nickel, sans BPA, sans réaction cutanée) et haute résistance thermique (température de déformation d\u2019environ 120 °C). Il est fabriqué par moulage par injection, ce qui rend la production rapide et constante -- et maintient les coûts bas. En résumé, le TR90 vous offre une monture qui ne pèse rien, ne casse jamais et n\u2019irrite jamais les peaux sensibles. C\u2019est pourquoi il est devenu le matériau de référence pour les lunettes de sport, les lunettes pour enfants et les montures légères du quotidien.',
   },
   {
     question: 'Comment le TR90 se compare-t-il à l\u2019acétate et aux montures en métal ?',
@@ -33,26 +33,26 @@ const tr90Faqs = [
   },
   {
     question: 'Peut-on imprimer ou colorer les montures TR90 avec des designs personnalisés ?',
-    answer: 'Oui, mais les options sont différentes de celles de l\u2019acétate. La couleur du TR90 est déterminée lors du moulage par injection — nous ajoutons des granulés de couleur masterbatch à la résine Grilamid brute, de sorte que la couleur traverse tout le matériau. Nous disposons d\u2019environ 30 couleurs standard (noir mat, noir brillant, bleu marine mat, gris, rouge, orange, blanc, transparent, etc.) et nous pouvons reproduire des couleurs Pantone personnalisées avec un minimum de 500 pièces. Pour la décoration de surface, nous proposons la tampographie (logos, motifs, graphiques multicolores sur les branches), l\u2019impression UV (impression de qualité photographique en couleurs sur surfaces planes), le transfert hydrographique (impression par immersion pour motifs camouflage, fibre de carbone, veinage bois qui épousent les courbes) et la gravure laser. Nous réalisons également un revêtement caoutchouté (une finition mate au toucher doux qui ajoute de l\u2019adhérence et un toucher premium) et un revêtement PVD métallique sur les accents des branches. La seule chose que le TR90 ne peut pas reproduire est la profondeur de couleur en couches de l\u2019acétate — les motifs écaille, marbre et cristal ne sont pas réalisables en matériau moulé par injection.',
+    answer: 'Oui, mais les options sont différentes de celles de l\u2019acétate. La couleur du TR90 est déterminée lors du moulage par injection -- nous ajoutons des granulés de couleur masterbatch à la résine Grilamid brute, de sorte que la couleur traverse tout le matériau. Nous disposons d\u2019environ 30 couleurs standard (noir mat, noir brillant, bleu marine mat, gris, rouge, orange, blanc, transparent, etc.) et nous pouvons reproduire des couleurs Pantone personnalisées avec un minimum de 500 pièces. Pour la décoration de surface, nous proposons la tampographie (logos, motifs, graphiques multicolores sur les branches), l\u2019impression UV (impression de qualité photographique en couleurs sur surfaces planes), le transfert hydrographique (impression par immersion pour motifs camouflage, fibre de carbone, veinage bois qui épousent les courbes) et la gravure laser. Nous réalisons également un revêtement caoutchouté (une finition mate au toucher doux qui ajoute de l\u2019adhérence et un toucher premium) et un revêtement PVD métallique sur les accents des branches. La seule chose que le TR90 ne peut pas reproduire est la profondeur de couleur en couches de l\u2019acétate -- les motifs écaille, marbre et cristal ne sont pas réalisables en matériau moulé par injection.',
   },
   {
     question: 'Le TR90 est-il sûr pour les lunettes de soleil pour enfants ?',
-    answer: 'Le TR90 est sans doute le meilleur matériau pour les lunettes pour enfants, et voici pourquoi. Premièrement, il est virtuellement incassable — les enfants sont durs avec leurs lunettes, et le TR90 fléchit au lieu de se casser. Nous avons testé nos montures enfants avec plus de 5 000 cycles d\u2019ouverture-fermeture de charnière sans aucune défaillance. Deuxièmement, il est hypoallergénique — sans nickel, sans BPA, sans phtalates, sans latex. Les enfants ont une peau plus sensible que les adultes, et les montures métalliques contenant du nickel peuvent provoquer des dermatites de contact. Troisièmement, il est ultralégèr avec 12-15 grammes pour les montures taille enfant — des lunettes lourdes glissent sur les petits nez et les enfants les enlèvent tout simplement. Quatrièmement, le TR90 est conforme aux normes de sécurité des jouets EN 71 (nous pouvons fournir la documentation de test), exigées par certains marchés pour les lunettes vendues aux enfants de moins de 14 ans. Et cinquièmement, le faible coût (3,50-6,00 $ la paire pour les montures enfants) le rend économique pour les parents qui savent que leur enfant les perdra ou les cassera probablement dans les six mois.',
+    answer: 'Le TR90 est sans doute le meilleur matériau pour les lunettes pour enfants, et voici pourquoi. Premièrement, il est virtuellement incassable -- les enfants sont durs avec leurs lunettes, et le TR90 fléchit au lieu de se casser. Nous avons testé nos montures enfants avec plus de 5 000 cycles d\u2019ouverture-fermeture de charnière sans aucune défaillance. Deuxièmement, il est hypoallergénique -- sans nickel, sans BPA, sans phtalates, sans latex. Les enfants ont une peau plus sensible que les adultes, et les montures métalliques contenant du nickel peuvent provoquer des dermatites de contact. Troisièmement, il est ultralégèr avec 12-15 grammes pour les montures taille enfant -- des lunettes lourdes glissent sur les petits nez et les enfants les enlèvent tout simplement. Quatrièmement, le TR90 est conforme aux normes de sécurité des jouets EN 71 (nous pouvons fournir la documentation de test), exigées par certains marchés pour les lunettes vendues aux enfants de moins de 14 ans. Et cinquièmement, le faible coût (3,50-6,00 $ la paire pour les montures enfants) le rend économique pour les parents qui savent que leur enfant les perdra ou les cassera probablement dans les six mois.',
   },
   {
     question: 'Quelle température le TR90 peut-il supporter ?',
-    answer: 'Le TR90 a une température de fléchissement sous charge (HDT) d\u2019environ 120 °C (248 °F) à 1,8 MPa — nettement plus élevée que le nylon standard (environ 75 °C) et bien supérieure à celle de l\u2019acétate (qui ramollit à 70-80 °C). En termes pratiques, cela signifie que les montures TR90 peuvent sans problème survivre si on les laisse sur un tableau de bord en été (qui peut atteindre 70-90 °C), si on les porte dans un sauna ou si on les expose à de l\u2019eau chaude sans se déformer. C\u2019est un véritable argument de vente, surtout pour les marques de sport et de plein air — les athlètes laissent leurs lunettes dans des voitures chaudes, sur des tableaux de bord de bateaux et dans des sacs de sport à côté de vêtements en sueur. Le TR90 résiste à tout cela. La résistance au froid est tout aussi impressionnante : le TR90 reste flexible jusqu\u2019à -40 °C, il ne devient donc pas cassant en conditions hivernales. À titre de comparaison, les montures bon marché en polycarbonate peuvent devenir cassantes en dessous de 0 °C.',
+    answer: 'Le TR90 a une température de fléchissement sous charge (HDT) d\u2019environ 120 °C (248 °F) à 1,8 MPa -- nettement plus élevée que le nylon standard (environ 75 °C) et bien supérieure à celle de l\u2019acétate (qui ramollit à 70-80 °C). En termes pratiques, cela signifie que les montures TR90 peuvent sans problème survivre si on les laisse sur un tableau de bord en été (qui peut atteindre 70-90 °C), si on les porte dans un sauna ou si on les expose à de l\u2019eau chaude sans se déformer. C\u2019est un véritable argument de vente, surtout pour les marques de sport et de plein air -- les athlètes laissent leurs lunettes dans des voitures chaudes, sur des tableaux de bord de bateaux et dans des sacs de sport à côté de vêtements en sueur. Le TR90 résiste à tout cela. La résistance au froid est tout aussi impressionnante : le TR90 reste flexible jusqu\u2019à -40 °C, il ne devient donc pas cassant en conditions hivernales. À titre de comparaison, les montures bon marché en polycarbonate peuvent devenir cassantes en dessous de 0 °C.',
   },
   {
     question: 'Quelle est la quantité minimum de commande pour les lunettes de soleil TR90 ?',
-    answer: 'Le MOQ standard est de 100 pièces par modèle en utilisant notre bibliothèque de moules existants — nous disposons de plus de 80 designs de montures TR90 en stock couvrant les modèles sport enveloppants, wayfarer, ronds, rectangulaires, style aviateur et formes enfants. Vous pouvez mélanger les couleurs au sein de ces 100 pièces. Pour un design de monture entièrement personnalisé, nous facturons des frais de moule de 1 500 à 3 000 $ selon la complexité (les moules TR90 sont plus chers que l\u2019usinage CNC de l\u2019acétate car les moules d\u2019injection sont en acier et usinés avec précision). Le MOQ pour un moule personnalisé est de 500 pièces sur la première commande. Pour les couleurs Pantone personnalisées, le minimum est de 500 pièces car nous devons mélanger et tester le masterbatch. Pour les couleurs standard en stock, il n\u2019y a pas de minimum au-delà des 100 pièces de base.',
+    answer: 'Le MOQ standard est de 100 pièces par modèle en utilisant notre bibliothèque de moules existants -- nous disposons de plus de 80 designs de montures TR90 en stock couvrant les modèles sport enveloppants, wayfarer, ronds, rectangulaires, style aviateur et formes enfants. Vous pouvez mélanger les couleurs au sein de ces 100 pièces. Pour un design de monture entièrement personnalisé, nous facturons des frais de moule de 1 500 à 3 000 $ selon la complexité (les moules TR90 sont plus chers que l\u2019usinage CNC de l\u2019acétate car les moules d\u2019injection sont en acier et usinés avec précision). Le MOQ pour un moule personnalisé est de 500 pièces sur la première commande. Pour les couleurs Pantone personnalisées, le minimum est de 500 pièces car nous devons mélanger et tester le masterbatch. Pour les couleurs standard en stock, il n\u2019y a pas de minimum au-delà des 100 pièces de base.',
   },
 ]
 
 const products = [
   {
     name: 'Sport Wrap TR90',
-    description: 'Notre modèle TR90 le plus vendu. Design enveloppant intégral qui bloque le vent, la poussière et la lumière périphérique. Les plaquettes nasales en caoutchouc et les embouts de branches offrent une adhérence antidérapante même quand vous transpirez. La forme enveloppante épouse la courbure du visage, offrant une couverture à 180 degrés sans l\u2019aspect « œil d\u2019insecte ». Ne pèse que 18 grammes — la plupart des clients oublient qu\u2019ils les portent en cinq minutes. C\u2019est la monture que les équipes cyclistes, les clubs de course et les marques de pêche commandent en grandes quantités. Disponible en 15 couleurs standard avec options de verres polarisés.',
+    description: 'Notre modèle TR90 le plus vendu. Design enveloppant intégral qui bloque le vent, la poussière et la lumière périphérique. Les plaquettes nasales en caoutchouc et les embouts de branches offrent une adhérence antidérapante même quand vous transpirez. La forme enveloppante épouse la courbure du visage, offrant une couverture à 180 degrés sans l\u2019aspect « œil d\u2019insecte ». Ne pèse que 18 grammes -- la plupart des clients oublient qu\u2019ils les portent en cinq minutes. C\u2019est la monture que les équipes cyclistes, les clubs de course et les marques de pêche commandent en grandes quantités. Disponible en 15 couleurs standard avec options de verres polarisés.',
     price: '$4.50 - $7.50',
     moq: '100 pcs',
     features: ['Design Enveloppant', 'Adhérence Caoutchouc', '18g Ultralégèr', 'Branche Antidérapante'],
@@ -66,7 +66,7 @@ const products = [
   },
   {
     name: 'Kids Flex TR90',
-    description: 'Conçu pour les 4-12 ans avec une flexibilité supplémentaire intégrée au design. Les branches disposent d\u2019une zone de flexion intégrée qui leur permet de se plier vers l\u2019extérieur sans casser — important car les enfants attrapent leurs lunettes par une branche et tirent. Hypoallergénique, sans BPA, sans phtalates. Plaquettes nasales en caoutchouc dimensionnées pour les ponts plus petits. Disponible en couleurs vives et amusantes — bleu électrique, rose vif, vert citron, orange coucher de soleil, noir mat (pour le marché « enfant cool »). Ne pèse que 12 grammes. Les parents les achètent parce qu\u2019ils savent que les enfants les maltraiteront. Nous avons des clients qui les vendent en lots de 3 car les parents s\u2019attendent à devoir les remplacer.',
+    description: 'Conçu pour les 4-12 ans avec une flexibilité supplémentaire intégrée au design. Les branches disposent d\u2019une zone de flexion intégrée qui leur permet de se plier vers l\u2019extérieur sans casser -- important car les enfants attrapent leurs lunettes par une branche et tirent. Hypoallergénique, sans BPA, sans phtalates. Plaquettes nasales en caoutchouc dimensionnées pour les ponts plus petits. Disponible en couleurs vives et amusantes -- bleu électrique, rose vif, vert citron, orange coucher de soleil, noir mat (pour le marché « enfant cool »). Ne pèse que 12 grammes. Les parents les achètent parce qu\u2019ils savent que les enfants les maltraiteront. Nous avons des clients qui les vendent en lots de 3 car les parents s\u2019attendent à devoir les remplacer.',
     price: '$3.50 - $6.00',
     moq: '100 pcs',
     features: ['Âges 4-12', 'Branches Extra Flex', '12g de Poids', 'Sans BPA/Phtalates'],
@@ -80,14 +80,14 @@ const products = [
   },
   {
     name: 'TR90 + Metal Combo',
-    description: 'Face avant en TR90 avec branches en acier inoxydable ou titane. Cet hybride vous offre la flexibilité légère du TR90 là où c\u2019est le plus important (la face avant qui touche votre visage) et le look premium des branches métalliques. Les branches en métal peuvent être gravées au laser avec votre logo — ce qui rend beaucoup mieux que l\u2019impression sur plastique. Pèse environ 20 grammes au total. C\u2019est notre recommandation privilégiée pour les marques qui veulent un look de transition sport-casual — suffisamment technique pour l\u2019extérieur, suffisamment élégant pour un dîner en ville.',
+    description: 'Face avant en TR90 avec branches en acier inoxydable ou titane. Cet hybride vous offre la flexibilité légère du TR90 là où c\u2019est le plus important (la face avant qui touche votre visage) et le look premium des branches métalliques. Les branches en métal peuvent être gravées au laser avec votre logo -- ce qui rend beaucoup mieux que l\u2019impression sur plastique. Pèse environ 20 grammes au total. C\u2019est notre recommandation privilégiée pour les marques qui veulent un look de transition sport-casual -- suffisamment technique pour l\u2019extérieur, suffisamment élégant pour un dîner en ville.',
     price: '$7.00 - $11.00',
     moq: '100 pcs',
     features: ['Hybride TR90 + Métal', 'Gravure Laser', '20g de Poids', 'Crossover Sport-Casual'],
   },
   {
     name: 'TR90 Shield / Visière',
-    description: 'Design écran à verre unique en TR90 — un verre continu couvrant les deux yeux avec une monture supérieure TR90 et un système de branches. C\u2019est le style que l\u2019on voit sur les cyclistes professionnels, les patineurs de vitesse et les skieurs de compétition. Champ de vision maximal, zéro obstruction de la monture dans la vue centrale et style aérodynamique agressif. Le verre unique est en polycarbonate avec revêtements optionnels miroir, polarisé ou photochromique. Plaquette nasale ajustable et orifices de ventilation pour prévenir la buée. Si votre marque cible les athlètes sérieux, c\u2019est la monture qui gagne en crédibilité.',
+    description: 'Design écran à verre unique en TR90 -- un verre continu couvrant les deux yeux avec une monture supérieure TR90 et un système de branches. C\u2019est le style que l\u2019on voit sur les cyclistes professionnels, les patineurs de vitesse et les skieurs de compétition. Champ de vision maximal, zéro obstruction de la monture dans la vue centrale et style aérodynamique agressif. Le verre unique est en polycarbonate avec revêtements optionnels miroir, polarisé ou photochromique. Plaquette nasale ajustable et orifices de ventilation pour prévenir la buée. Si votre marque cible les athlètes sérieux, c\u2019est la monture qui gagne en crédibilité.',
     price: '$6.00 - $9.00',
     moq: '100 pcs',
     features: ['Verre Écran Unique', 'Ventilation Antibuée', 'Champ Visuel Maximal', 'Design Aérodynamique'],
@@ -142,13 +142,13 @@ export default function TR90PageFr() {
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
               <p className="text-xl leading-relaxed mb-4">
-                Laissez-moi vous montrer quelque chose. Prenez une paire de lunettes de soleil ordinaires — celles que vous achetez dans une station-service. Maintenant, pliez les branches. Vous entendez ce craquement ? C&apos;est du polycarbonate bon marché qui vous dit qu&apos;il est sur le point de casser. Maintenant, essayez la même chose avec une monture TR90. Vous pouvez pratiquement la plier en deux. Elle reprend sa forme immédiatement. Pas de craquement, pas de fissure, pas de déformation permanente. Cette flexibilité n&apos;est pas un gadget — c&apos;est l&apos;avantage technique fondamental du <a href="https://www.emsgrivory.com/en/products/grilamid-tr/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Grilamid TR90</a>, un <a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">polyamide</a> thermoplastique développé par l&apos;entreprise chimique suisse EMS-Grivory spécifiquement pour les applications optiques.
+                Laissez-moi vous montrer quelque chose. Prenez une paire de lunettes de soleil ordinaires -- celles que vous achetez dans une station-service. Maintenant, pliez les branches. Vous entendez ce craquement ? C&apos;est du polycarbonate bon marché qui vous dit qu&apos;il est sur le point de casser. Maintenant, essayez la même chose avec une monture TR90. Vous pouvez pratiquement la plier en deux. Elle reprend sa forme immédiatement. Pas de craquement, pas de fissure, pas de déformation permanente. Cette flexibilité n&apos;est pas un gadget -- c&apos;est l&apos;avantage technique fondamental du <a href="https://www.emsgrivory.com/en/products/grilamid-tr/" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Grilamid TR90</a>, un <a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">polyamide</a> thermoplastique développé par l&apos;entreprise chimique suisse EMS-Grivory spécifiquement pour les applications optiques.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Voici les chiffres qui comptent : une monture TR90 finie pèse 15-20 grammes. À titre de comparaison, les montures en acétate pèsent 25-35 grammes et les montures en métal pèsent 28-35 grammes. Cette différence de 10-15 grammes peut ne pas sembler importante sur le papier, mais portez une monture TR90 après avoir porté de l&apos;acétate toute la journée et vous comprendrez immédiatement pourquoi les athlètes, les professionnels du plein air et de plus en plus de consommateurs au quotidien font le changement. On les oublie complètement. Pas de pression sur le nez, pas de glissement, pas de marques rouges derrière les oreilles. Pour les <Link href="/fr/produits/sport" className="text-primary-600 hover:underline">marques de sport</Link> et les <Link href="/fr/produits/enfants" className="text-primary-600 hover:underline">lunettes pour enfants</Link>, le TR90 n&apos;est pas seulement une bonne option — c&apos;est le choix évident.
+                Voici les chiffres qui comptent : une monture TR90 finie pèse 15-20 grammes. À titre de comparaison, les montures en acétate pèsent 25-35 grammes et les montures en métal pèsent 28-35 grammes. Cette différence de 10-15 grammes peut ne pas sembler importante sur le papier, mais portez une monture TR90 après avoir porté de l&apos;acétate toute la journée et vous comprendrez immédiatement pourquoi les athlètes, les professionnels du plein air et de plus en plus de consommateurs au quotidien font le changement. On les oublie complètement. Pas de pression sur le nez, pas de glissement, pas de marques rouges derrière les oreilles. Pour les <Link href="/fr/produits/sport" className="text-primary-600 hover:underline">marques de sport</Link> et les <Link href="/fr/produits/enfants" className="text-primary-600 hover:underline">lunettes pour enfants</Link>, le TR90 n&apos;est pas seulement une bonne option -- c&apos;est le choix évident.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Du point de vue de la fabrication, le TR90 est moulé par injection — ce qui signifie que nous alimentons des granulés de Grilamid dans un cylindre chauffé, injectons le matériau fondu dans un moule en acier de précision sous haute pression et obtenons une monture finie en environ 45 secondes. Comparez cela avec les montures en acétate qui nécessitent 5 à 7 jours de découpe, de polissage au tonneau et de polissage à la main. Le résultat est une production plus rapide, un coût unitaire inférieur et une qualité extrêmement constante. Notre taux de défauts en TR90 est inférieur à 0,5 % — contre 3-5 % pour l&apos;acétate. Si vous avez besoin de grands volumes à des prix compétitifs sans sacrifier la qualité, le TR90 est le matériau qui le rend possible.
+                Du point de vue de la fabrication, le TR90 est moulé par injection -- ce qui signifie que nous alimentons des granulés de Grilamid dans un cylindre chauffé, injectons le matériau fondu dans un moule en acier de précision sous haute pression et obtenons une monture finie en environ 45 secondes. Comparez cela avec les montures en acétate qui nécessitent 5 à 7 jours de découpe, de polissage au tonneau et de polissage à la main. Le résultat est une production plus rapide, un coût unitaire inférieur et une qualité extrêmement constante. Notre taux de défauts en TR90 est inférieur à 0,5 % -- contre 3-5 % pour l&apos;acétate. Si vous avez besoin de grands volumes à des prix compétitifs sans sacrifier la qualité, le TR90 est le matériau qui le rend possible.
               </p>
               <p className="text-lg leading-relaxed">
                 Nous produisons environ 500 000 montures TR90 par an entre modèles sport enveloppants, wayfarers décontractés, styles enfants et designs hybrides sport-casual. Notre bibliothèque de moules comprend plus de 80 designs prêts à l&apos;emploi, et nous exploitons quatre machines de moulage par injection dédiées à la production de TR90. Que vous lanciez une marque de lunettes de sport, ajoutiez une gamme enfants ou construisiez une collection légère pour le quotidien, voici tout ce que vous devez savoir.
@@ -184,7 +184,7 @@ export default function TR90PageFr() {
                   <div className="w-full bg-gray-100 rounded-full h-4">
                     <div className="bg-gray-400 h-4 rounded-full" style={{ width: '40%' }}></div>
                   </div>
-                  <p className="text-sm text-gray-500 mt-2">Proche du TR90 en poids, mais rigide — pas de flexion. Sensation métallique premium avec une bonne légèreté.</p>
+                  <p className="text-sm text-gray-500 mt-2">Proche du TR90 en poids, mais rigide -- pas de flexion. Sensation métallique premium avec une bonne légèreté.</p>
                 </div>
 
                 <div className="bg-white rounded-xl p-6 border border-gray-100">
@@ -195,7 +195,7 @@ export default function TR90PageFr() {
                   <div className="w-full bg-gray-100 rounded-full h-4">
                     <div className="bg-gray-400 h-4 rounded-full" style={{ width: '60%' }}></div>
                   </div>
-                  <p className="text-sm text-gray-500 mt-2">Le matériau de luxe. Magnifique mais plus lourd. Ce poids fait partie de sa &ldquo;sensation premium&rdquo; — mais n&apos;est pas idéal pour le sport.</p>
+                  <p className="text-sm text-gray-500 mt-2">Le matériau de luxe. Magnifique mais plus lourd. Ce poids fait partie de sa &ldquo;sensation premium&rdquo; -- mais n&apos;est pas idéal pour le sport.</p>
                 </div>
 
                 <div className="bg-white rounded-xl p-6 border border-gray-100">
@@ -268,21 +268,21 @@ export default function TR90PageFr() {
                     {[
                       ['Matériau de la Monture', 'EMS-Grivory Grilamid TR90 (polyamide thermoplastique d\u2019ingénierie suisse)'],
                       ['Poids de la Monture', '15-20g (monture complète) / 12-15g (enfant) / 14g (semi-cerclé)'],
-                      ['Flexibilité', 'Matériau à mémoire de forme — se plie à 90°+ et reprend sa forme d\u2019origine. Plus de 5 000 cycles de flexion testés.'],
-                      ['Résistance à la Chaleur', 'HDT 120 °C (248 °F) — résiste aux tableaux de bord, saunas, eau chaude'],
-                      ['Résistance au Froid', 'Reste flexible jusqu\u2019à -40 °C (-40 °F) — pas de fragilité en hiver'],
-                      ['Hypoallergénique', 'Oui — sans nickel, sans BPA, sans phtalates, sans latex'],
+                      ['Flexibilité', 'Matériau à mémoire de forme -- se plie à 90°+ et reprend sa forme d\u2019origine. Plus de 5 000 cycles de flexion testés.'],
+                      ['Résistance à la Chaleur', 'HDT 120 °C (248 °F) -- résiste aux tableaux de bord, saunas, eau chaude'],
+                      ['Résistance au Froid', 'Reste flexible jusqu\u2019à -40 °C (-40 °F) -- pas de fragilité en hiver'],
+                      ['Hypoallergénique', 'Oui -- sans nickel, sans BPA, sans phtalates, sans latex'],
                       ['Matériau des Verres', 'Polycarbonate / TAC Polarisé / Photochromique'],
-                      ['Protection UV', 'UV400 — bloque 100 % des UVA (315-380nm) et UVB (280-315nm)'],
+                      ['Protection UV', 'UV400 -- bloque 100 % des UVA (315-380nm) et UVB (280-315nm)'],
                       ['Plaquettes Nasales', 'Caoutchouc TPE intégré (antidérapant) ou plaquettes en silicone ajustables'],
-                      ['Embouts de Branches', 'Adhérence en caoutchouc TPE co-moulé — antidérapant même mouillé'],
+                      ['Embouts de Branches', 'Adhérence en caoutchouc TPE co-moulé -- antidérapant même mouillé'],
                       ['Couleurs en Stock', '30+ standard : noir mat, noir brillant, bleu marine, gris, rouge, orange, blanc, transparent, etc.'],
-                      ['Couleurs Personnalisées', 'Correspondance Pantone disponible — MOQ 500 pcs pour masterbatch personnalisé'],
+                      ['Couleurs Personnalisées', 'Correspondance Pantone disponible -- MOQ 500 pcs pour masterbatch personnalisé'],
                       ['Finitions de Surface', 'Mat, brillant, revêtement caoutchouté (toucher doux), accents PVD métalliques'],
                       ['Options d\u2019Impression', 'Tampographie, impression UV, transfert hydrographique (camouflage, fibre de carbone), gravure laser'],
                       ['Certifications', 'CE (EN ISO 12312-1) · FDA · UV400 · ISO 9001 · EN 71 (enfants)'],
                       ['MOQ', '100 pcs par modèle (moules en stock) / 500 pcs (moules personnalisés)'],
-                      ['Frais de Moule (Personnalisé)', '1 500 - 3 000 $ paiement unique — moule d\u2019injection en acier'],
+                      ['Frais de Moule (Personnalisé)', '1 500 - 3 000 $ paiement unique -- moule d\u2019injection en acier'],
                       ['Délai d\u2019Échantillon', '3-5 jours ouvrables'],
                       ['Délai de Production', '12-18 jours standard / 8-10 jours urgent'],
                     ].map(([label, value], i) => (
@@ -307,11 +307,11 @@ export default function TR90PageFr() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🪶 Ultralégèr</h3>
-                <p className="text-sm text-gray-600">Avec une densité de 1,14 g/cm³, le TR90 est l&apos;un des matériaux de monture les plus légers disponibles. Un modèle sport enveloppant à monture complète ne pèse que 18 grammes — à peu près le poids de trois feuilles de papier. Les clients oublient littéralement qu&apos;ils les portent, ce qui est exactement ce dont les athlètes ont besoin.</p>
+                <p className="text-sm text-gray-600">Avec une densité de 1,14 g/cm³, le TR90 est l&apos;un des matériaux de monture les plus légers disponibles. Un modèle sport enveloppant à monture complète ne pèse que 18 grammes -- à peu près le poids de trois feuilles de papier. Les clients oublient littéralement qu&apos;ils les portent, ce qui est exactement ce dont les athlètes ont besoin.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">💪 Flexibilité à mémoire de forme</h3>
-                <p className="text-sm text-gray-600">Le TR90 possède une véritable mémoire de forme — pliez-le, tordez-le, asseyez-vous dessus, il reprend sa forme d&apos;origine. Nous testons chaque design de monture avec plus de 5 000 cycles d&apos;ouverture-fermeture et une flexion de branche à 90 degrés sans déformation permanente. Le polycarbonate standard échoue à ce test à environ 500 cycles.</p>
+                <p className="text-sm text-gray-600">Le TR90 possède une véritable mémoire de forme -- pliez-le, tordez-le, asseyez-vous dessus, il reprend sa forme d&apos;origine. Nous testons chaque design de monture avec plus de 5 000 cycles d&apos;ouverture-fermeture et une flexion de branche à 90 degrés sans déformation permanente. Le polycarbonate standard échoue à ce test à environ 500 cycles.</p>
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🌡️ Résistant aux températures</h3>
@@ -327,7 +327,7 @@ export default function TR90PageFr() {
               </div>
               <div className="bg-white rounded-xl p-6">
                 <h3 className="font-bold mb-2">🏭 Efficacité de production</h3>
-                <p className="text-sm text-gray-600">Le temps de cycle de moulage par injection est d&apos;environ 45 secondes par monture — contre 5-7 jours pour l&apos;acétate. Cela signifie une livraison plus rapide (12-18 jours contre 20-28 jours), un coût unitaire inférieur et des taux de défauts inférieurs à 0,5 %. Pour les commandes en volume, l&apos;avantage en termes de coût et de rapidité est significatif.</p>
+                <p className="text-sm text-gray-600">Le temps de cycle de moulage par injection est d&apos;environ 45 secondes par monture -- contre 5-7 jours pour l&apos;acétate. Cela signifie une livraison plus rapide (12-18 jours contre 20-28 jours), un coût unitaire inférieur et des taux de défauts inférieurs à 0,5 %. Pour les commandes en volume, l&apos;avantage en termes de coût et de rapidité est significatif.</p>
               </div>
             </div>
           </section>
@@ -345,23 +345,23 @@ export default function TR90PageFr() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Les marques de sport</strong> — cyclisme, course, pêche, golf, ski. Le TR90 est le standard de l&apos;industrie pour les lunettes de performance.</span>
+                    <span><strong>Les marques de sport</strong> -- cyclisme, course, pêche, golf, ski. Le TR90 est le standard de l&apos;industrie pour les lunettes de performance.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Les lunettes pour enfants</strong> — incassables, ultralégères, hypoallergéniques. Le matériau a pratiquement été conçu pour les enfants.</span>
+                    <span><strong>Les lunettes pour enfants</strong> -- incassables, ultralégères, hypoallergéniques. Le matériau a pratiquement été conçu pour les enfants.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Les gammes confort au quotidien</strong> — pour les marques qui misent sur le port toute la journée et le message &ldquo;vous oubliez que vous les portez&rdquo;.</span>
+                    <span><strong>Les gammes confort au quotidien</strong> -- pour les marques qui misent sur le port toute la journée et le message &ldquo;vous oubliez que vous les portez&rdquo;.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Les marques volume/rapport qualité-prix</strong> — faible coût unitaire avec une qualité réelle. Point optimal retail de 20-50 $.</span>
+                    <span><strong>Les marques volume/rapport qualité-prix</strong> -- faible coût unitaire avec une qualité réelle. Point optimal retail de 20-50 $.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-green-600 mt-1">•</span>
-                    <span><strong>Promotionnel / corporate</strong> — suffisamment abordable pour les cadeaux mais avec une qualité suffisante pour que les gens les portent vraiment.</span>
+                    <span><strong>Promotionnel / corporate</strong> -- suffisamment abordable pour les cadeaux mais avec une qualité suffisante pour que les gens les portent vraiment.</span>
                   </li>
                 </ul>
               </div>
@@ -371,15 +371,15 @@ export default function TR90PageFr() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-yellow-600 mt-1">•</span>
-                    <span><strong>Combos TR90 + métal</strong> — face avant TR90 avec branches métalliques pour un look de transition sport-casual.</span>
+                    <span><strong>Combos TR90 + métal</strong> -- face avant TR90 avec branches métalliques pour un look de transition sport-casual.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-yellow-600 mt-1">•</span>
-                    <span><strong>Sport avec prescription</strong> — TR90 avec rainures de verre compatibles RX pour insert optique ou montage direct.</span>
+                    <span><strong>Sport avec prescription</strong> -- TR90 avec rainures de verre compatibles RX pour insert optique ou montage direct.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-yellow-600 mt-1">•</span>
-                    <span><strong>Marques multi-gammes</strong> — beaucoup de nos clients utilisent le TR90 pour leur gamme sport/active et l&apos;acétate pour leur gamme mode.</span>
+                    <span><strong>Marques multi-gammes</strong> -- beaucoup de nos clients utilisent le TR90 pour leur gamme sport/active et l&apos;acétate pour leur gamme mode.</span>
                   </li>
                 </ul>
               </div>
@@ -389,15 +389,15 @@ export default function TR90PageFr() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-red-500 mt-1">•</span>
-                    <span><strong>Le luxe / haute couture</strong> — le TR90 n&apos;a pas la richesse visuelle de l&apos;acétate. Pas d&apos;écaille, pas de marbre, pas de profondeur cristalline.</span>
+                    <span><strong>Le luxe / haute couture</strong> -- le TR90 n&apos;a pas la richesse visuelle de l&apos;acétate. Pas d&apos;écaille, pas de marbre, pas de profondeur cristalline.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-red-500 mt-1">•</span>
-                    <span><strong>Positionnement retail à 100 $+</strong> — le matériau ne transmet pas la sensation premium nécessaire à ce prix (sauf s&apos;il s&apos;agit d&apos;une marque performance/technologie).</span>
+                    <span><strong>Positionnement retail à 100 $+</strong> -- le matériau ne transmet pas la sensation premium nécessaire à ce prix (sauf s&apos;il s&apos;agit d&apos;une marque performance/technologie).</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-red-500 mt-1">•</span>
-                    <span><strong>Style classique/héritage</strong> — les aviateurs et wayfarers en TR90 fonctionnent mais manquent de la chaleur et du caractère du métal ou de l&apos;acétate.</span>
+                    <span><strong>Style classique/héritage</strong> -- les aviateurs et wayfarers en TR90 fonctionnent mais manquent de la chaleur et du caractère du métal ou de l&apos;acétate.</span>
                   </li>
                 </ul>
               </div>
@@ -417,19 +417,19 @@ export default function TR90PageFr() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Couleur intégrale</strong> — 30+ couleurs standard, ou correspondance Pantone (MOQ 500 pcs)</span>
+                    <span><strong>Couleur intégrale</strong> -- 30+ couleurs standard, ou correspondance Pantone (MOQ 500 pcs)</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Revêtement caoutchouté</strong> — finition mate au toucher doux qui ajoute adhérence et sensation premium</span>
+                    <span><strong>Revêtement caoutchouté</strong> -- finition mate au toucher doux qui ajoute adhérence et sensation premium</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Hydrographique</strong> — impression par transfert dans l&apos;eau pour motifs camouflage, fibre de carbone, veinage bois</span>
+                    <span><strong>Hydrographique</strong> -- impression par transfert dans l&apos;eau pour motifs camouflage, fibre de carbone, veinage bois</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Bicolore</strong> — couleurs différentes pour la face et les branches grâce au moulage multi-injection</span>
+                    <span><strong>Bicolore</strong> -- couleurs différentes pour la face et les branches grâce au moulage multi-injection</span>
                   </li>
                 </ul>
               </div>
@@ -439,19 +439,19 @@ export default function TR90PageFr() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Tampographie</strong> — logo multicolore sur les branches, jusqu&apos;à 4 couleurs</span>
+                    <span><strong>Tampographie</strong> -- logo multicolore sur les branches, jusqu&apos;à 4 couleurs</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Impression UV</strong> — qualité photographique, en couleurs, détails fins sur surfaces planes</span>
+                    <span><strong>Impression UV</strong> -- qualité photographique, en couleurs, détails fins sur surfaces planes</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Gravure laser</strong> — permanente, fonctionne aussi sur les surfaces caoutchoutées</span>
+                    <span><strong>Gravure laser</strong> -- permanente, fonctionne aussi sur les surfaces caoutchoutées</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Plaque métallique</strong> — plaque logo en alliage de zinc incrustée dans la branche lors du moulage</span>
+                    <span><strong>Plaque métallique</strong> -- plaque logo en alliage de zinc incrustée dans la branche lors du moulage</span>
                   </li>
                 </ul>
               </div>
@@ -461,19 +461,19 @@ export default function TR90PageFr() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Étui sport</strong> — EVA semi-rigide avec clip mousqueton, marqué. 1,00-1,80 $ par set.</span>
+                    <span><strong>Étui sport</strong> -- EVA semi-rigide avec clip mousqueton, marqué. 1,00-1,80 $ par set.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Pochette microfibre</strong> — à cordon avec logo imprimé. 0,30-0,60 $ pièce.</span>
+                    <span><strong>Pochette microfibre</strong> -- à cordon avec logo imprimé. 0,30-0,60 $ pièce.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Cordon de maintien</strong> — cordon néoprène marqué. Excellent complément pour les gammes sport. 0,40-0,80 $.</span>
+                    <span><strong>Cordon de maintien</strong> -- cordon néoprène marqué. Excellent complément pour les gammes sport. 0,40-0,80 $.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-600 mt-1">•</span>
-                    <span><strong>Boîte retail</strong> — impression couleurs, insert personnalisé, fiche technique. 0,80-1,50 $.</span>
+                    <span><strong>Boîte retail</strong> -- impression couleurs, insert personnalisé, fiche technique. 0,80-1,50 $.</span>
                   </li>
                 </ul>
               </div>
@@ -484,7 +484,7 @@ export default function TR90PageFr() {
           <section className="mb-20 bg-gray-900 rounded-2xl p-8 md:p-12 text-white">
             <h2 className="text-3xl font-bold text-center mb-4">Options de verres pour montures TR90</h2>
             <p className="text-gray-300 text-center max-w-3xl mx-auto mb-10">
-              Le verre compte autant que la monture. Voici les options que nous associons au TR90 — en particulier pour l&apos;usage sportif et actif.
+              Le verre compte autant que la monture. Voici les options que nous associons au TR90 -- en particulier pour l&apos;usage sportif et actif.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -494,15 +494,15 @@ export default function TR90PageFr() {
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-blue-400">🌗 Photochromique</h3>
-                <p className="text-gray-300 text-sm">S&apos;assombrit au soleil, s&apos;éclaircit en intérieur. De Catégorie 0-1 en intérieur à Catégorie 2-3 en extérieur en environ 30 secondes. Excellent argument de vente pour l&apos;usage sportif toute la journée — commencez votre course à l&apos;aube, terminez à midi, une seule paire gère tout. Ajoute 3-4 $ par paire.</p>
+                <p className="text-gray-300 text-sm">S&apos;assombrit au soleil, s&apos;éclaircit en intérieur. De Catégorie 0-1 en intérieur à Catégorie 2-3 en extérieur en environ 30 secondes. Excellent argument de vente pour l&apos;usage sportif toute la journée -- commencez votre course à l&apos;aube, terminez à midi, une seule paire gère tout. Ajoute 3-4 $ par paire.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-blue-400">🪞 Revêtements Miroir</h3>
-                <p className="text-gray-300 text-sm">Argent, bleu, rouge, or, vert, violet, rose — appliqués sur des verres polarisés ou en PC standard. Le look agressif se marie parfaitement avec les montures TR90 sport. Le miroir bleu sur un modèle enveloppant TR90 noir mat est l&apos;un de nos best-sellers de tous les temps.</p>
+                <p className="text-gray-300 text-sm">Argent, bleu, rouge, or, vert, violet, rose -- appliqués sur des verres polarisés ou en PC standard. Le look agressif se marie parfaitement avec les montures TR90 sport. Le miroir bleu sur un modèle enveloppant TR90 noir mat est l&apos;un de nos best-sellers de tous les temps.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-blue-400">🟡 Jaune/Ambre (Faible luminosité)</h3>
-                <p className="text-gray-300 text-sm">Teinte de Catégorie 1 qui améliore le contraste par temps couvert, brumeux ou en faible luminosité. Populaire pour le cyclisme, le tir, le ski et la conduite au crépuscule. Pas assez sombre pour le plein soleil — commercialisé comme option de verre dédiée aux faibles luminosités.</p>
+                <p className="text-gray-300 text-sm">Teinte de Catégorie 1 qui améliore le contraste par temps couvert, brumeux ou en faible luminosité. Populaire pour le cyclisme, le tir, le ski et la conduite au crépuscule. Pas assez sombre pour le plein soleil -- commercialisé comme option de verre dédiée aux faibles luminosités.</p>
               </div>
               <div className="bg-white/10 rounded-xl p-6 backdrop-blur-sm">
                 <h3 className="font-bold mb-2 text-blue-400">💧 Hydrophobe + Oléophobe</h3>
@@ -535,17 +535,17 @@ export default function TR90PageFr() {
               <Link href="/fr/produits/sport" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">🏃</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Lunettes de Soleil Sport</h3>
-                <p className="text-gray-600 text-sm">Notre collection complète de lunettes sport — enveloppantes, écrans, semi-cerclées. La plupart des styles disponibles en TR90 avec options de verres polarisés et photochromiques.</p>
+                <p className="text-gray-600 text-sm">Notre collection complète de lunettes sport -- enveloppantes, écrans, semi-cerclées. La plupart des styles disponibles en TR90 avec options de verres polarisés et photochromiques.</p>
               </Link>
               <Link href="/fr/produits/enfants" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">👶</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Lunettes de Soleil Enfants</h3>
-                <p className="text-gray-600 text-sm">Le TR90 est le matériau idéal pour les lunettes pour enfants — incassables, ultralégères, hypoallergéniques. Tailles pour les 0-14 ans.</p>
+                <p className="text-gray-600 text-sm">Le TR90 est le matériau idéal pour les lunettes pour enfants -- incassables, ultralégères, hypoallergéniques. Tailles pour les 0-14 ans.</p>
               </Link>
               <Link href="/fr/produits/polarise" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">📖</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Lunettes Polarisées</h3>
-                <p className="text-gray-600 text-sm">Guide complet des verres pour lunettes de soleil — polarisés, photochromiques, miroir, CR-39. Découvrez quelles options de verres s&apos;associent le mieux aux montures TR90.</p>
+                <p className="text-gray-600 text-sm">Guide complet des verres pour lunettes de soleil -- polarisés, photochromiques, miroir, CR-39. Découvrez quelles options de verres s&apos;associent le mieux aux montures TR90.</p>
               </Link>
             </div>
           </section>
@@ -554,7 +554,7 @@ export default function TR90PageFr() {
           <section className="bg-primary-600 rounded-2xl p-8 md:p-12 text-center text-white">
             <h2 className="text-3xl font-bold mb-4">Prêt à commander des montures TR90 ?</h2>
             <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
-              Dites-nous ce dont vous avez besoin — modèles sport enveloppants, montures enfants, styles décontractés ou quelque chose de personnalisé. Nous vous enverrons des échantillons de notre bibliothèque de plus de 80 moules sous 3-5 jours. Prix, calendrier de production et options de personnalisation inclus. Aucun engagement tant que vous n&apos;êtes pas prêt à commander.
+              Dites-nous ce dont vous avez besoin -- modèles sport enveloppants, montures enfants, styles décontractés ou quelque chose de personnalisé. Nous vous enverrons des échantillons de notre bibliothèque de plus de 80 moules sous 3-5 jours. Prix, calendrier de production et options de personnalisation inclus. Aucun engagement tant que vous n&apos;êtes pas prêt à commander.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/fr/contact" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">

@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Estratégia de Preços para Óculos de Sol: Do Custo de Fábrica ao Preço de Varejo',
-  description: 'Um dono de fábrica revela a economia real de preços de óculos de sol — factory costs, wholesale markup, retail margins, and pricing strategies that work for new and established brands.',
+  description: 'Um dono de fábrica revela a economia real de preços de óculos de sol -- factory costs, wholesale markup, retail margins, and pricing strategies that work for new and established brands.',
   keywords: 'preços óculos de sol, markup eyewear, preço atacado óculos, margem lucro óculos, estratégia preço varejo',
   alternates: {
     canonical: '/pt/blog/estrategia-precos-oculos-sol',
@@ -27,7 +27,7 @@ export default function SunglassesPricingStrategyPage() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Um dono de fábrica revela a economia real de preços de óculos de sol — from factory floor to retail shelf.",
+          "description": "Um dono de fábrica revela a economia real de preços de óculos de sol -- from factory floor to retail shelf.",
           "inLanguage": "pt",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/pt/blog/estrategia-precos-oculos-sol" }
         })}} />
@@ -39,12 +39,12 @@ export default function SunglassesPricingStrategyPage() {
             {
               "@type": "Question",
               "name": "What is the typical markup on sunglasses?",
-              "acceptedAnswer": { "@type": "Answer", "text": "The typical markup chain: Fatory cost × 2-3 = wholesale price × 2-2.5 = retail price. So a pair that costs $5 to manufacture might wholesale at $12-15 and retail at $25-35. Direct-to-consumer (DTC) brands skip the wholesale step and capture the full margin, selling that same $5 pair for $25-45. Luxo brands apply even higher markups — a $10-20 factory cost pair can retail for $200-500+." }
+              "acceptedAnswer": { "@type": "Answer", "text": "The typical markup chain: Fatory cost × 2-3 = wholesale price × 2-2.5 = retail price. So a pair that costs $5 to manufacture might wholesale at $12-15 and retail at $25-35. Direct-to-consumer (DTC) brands skip the wholesale step and capture the full margin, selling that same $5 pair for $25-45. Luxo brands apply even higher markups -- a $10-20 factory cost pair can retail for $200-500+." }
             },
             {
               "@type": "Question",
               "name": "How much do sunglasses cost to manufacture?",
-              "acceptedAnswer": { "@type": "Answer", "text": "ODM sunglasses: $3-8 por par (including polarized lenses and basic packaging). OEM custom designs: $5-15+ por par depending on materials and complexity. Premium materials (Italian acetate, Zeiss lenses) can push costs to $15-30 por par. These are FOB factory costs — add $2-5 por par for shipping, duties, and packaging to get your landed cost." }
+              "acceptedAnswer": { "@type": "Answer", "text": "ODM sunglasses: $3-8 por par (including polarized lenses and basic packaging). OEM custom designs: $5-15+ por par depending on materials and complexity. Premium materials (Italian acetate, Zeiss lenses) can push costs to $15-30 por par. These are FOB factory costs -- add $2-5 por par for shipping, duties, and packaging to get your landed cost." }
             },
             {
               "@type": "Question",
@@ -70,7 +70,7 @@ export default function SunglassesPricingStrategyPage() {
             Estratégia de Preços para Óculos de Sol: Do Custo de Fábrica ao Preço de Varejo
           </h1>
           <p className="text-xl text-gray-600">
-            Eu vejo os dois lados da equação de preços todos os dias — quanto custa fabricar óculos de sol e 
+            Eu vejo os dois lados da equação de preços todos os dias -- quanto custa fabricar óculos de sol e 
             por quanto são vendidos. A diferença é maior do que a maioria das pessoas imagina, e entendê-la é a 
             chave para construir uma marca lucrativa.
           </p>
@@ -99,7 +99,7 @@ export default function SunglassesPricingStrategyPage() {
 
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-600 mb-8">
-            Aqui vai um fato que surpreende a maioria das pessoas: um par de óculos de sol que é vendido no varejo por $150 normalmente custa $8-$15 para fabricar. Isso é um markup de 10-20x. E os pares de luxo de $300+? Frequentemente $15-$30 para produzir. A indústria de óculos funciona com margens enormes — e é exatamente isso que a torna atraente para novas marcas.
+            Aqui vai um fato que surpreende a maioria das pessoas: um par de óculos de sol que é vendido no varejo por $150 normalmente custa $8-$15 para fabricar. Isso é um markup de 10-20x. E os pares de luxo de $300+? Frequentemente $15-$30 para produzir. A indústria de óculos funciona com margens enormes -- e é exatamente isso que a torna atraente para novas marcas.
           </p>
 
           <h2 id="factory-costs" className="text-3xl font-bold mt-16 mb-6">Quanto Óculos de Sol Realmente Custam para Fabricar</h2>
@@ -119,13 +119,13 @@ export default function SunglassesPricingStrategyPage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">Armação (material + mão de obra)</td><td className="px-6 py-4">$1,00–$2,00</td><td className="px-6 py-4">$2,50–$5,00</td><td className="px-6 py-4">$5,00–$12,00</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Lentes (par)</td><td className="px-6 py-4">$0,50–$1,50</td><td className="px-6 py-4">$1,50–$3,00</td><td className="px-6 py-4">$3,00–$8,00</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Dobradiças &amp; ferragens</td><td className="px-6 py-4">$0,20–$0,50</td><td className="px-6 py-4">$0,50–$1,50</td><td className="px-6 py-4">$1,50–$3,00</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Apoios nasais</td><td className="px-6 py-4">$0,05–$0,10</td><td className="px-6 py-4">$0,10–$0,30</td><td className="px-6 py-4">$0,30–$0,80</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Aplicação do logo</td><td className="px-6 py-4">$0,10–$0,20</td><td className="px-6 py-4">$0,20–$0,50</td><td className="px-6 py-4">$0,50–$1,50</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Montagem &amp; CQ</td><td className="px-6 py-4">$0,50–$1,00</td><td className="px-6 py-4">$1,00–$2,00</td><td className="px-6 py-4">$2,00–$4,00</td></tr>
-                <tr className="bg-white font-bold"><td className="px-6 py-4">Total FOB</td><td className="px-6 py-4">$2,35–$5,30</td><td className="px-6 py-4">$5,80–$12,30</td><td className="px-6 py-4">$12,30–$29,30</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Armação (material + mão de obra)</td><td className="px-6 py-4">$1,00-$2,00</td><td className="px-6 py-4">$2,50-$5,00</td><td className="px-6 py-4">$5,00-$12,00</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Lentes (par)</td><td className="px-6 py-4">$0,50-$1,50</td><td className="px-6 py-4">$1,50-$3,00</td><td className="px-6 py-4">$3,00-$8,00</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Dobradiças &amp; ferragens</td><td className="px-6 py-4">$0,20-$0,50</td><td className="px-6 py-4">$0,50-$1,50</td><td className="px-6 py-4">$1,50-$3,00</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Apoios nasais</td><td className="px-6 py-4">$0,05-$0,10</td><td className="px-6 py-4">$0,10-$0,30</td><td className="px-6 py-4">$0,30-$0,80</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Aplicação do logo</td><td className="px-6 py-4">$0,10-$0,20</td><td className="px-6 py-4">$0,20-$0,50</td><td className="px-6 py-4">$0,50-$1,50</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Montagem &amp; CQ</td><td className="px-6 py-4">$0,50-$1,00</td><td className="px-6 py-4">$1,00-$2,00</td><td className="px-6 py-4">$2,00-$4,00</td></tr>
+                <tr className="bg-white font-bold"><td className="px-6 py-4">Total FOB</td><td className="px-6 py-4">$2,35-$5,30</td><td className="px-6 py-4">$5,80-$12,30</td><td className="px-6 py-4">$12,30-$29,30</td></tr>
               </tbody>
             </table>
           </div>
@@ -151,18 +151,18 @@ export default function SunglassesPricingStrategyPage() {
               <li><strong>Imposto de importação (2% EUA):</strong> $0,12</li>
               <li><strong>Seguro &amp; despachante aduaneiro:</strong> $0,30</li>
               <li><strong>Armazenagem doméstica:</strong> $0,20</li>
-              <li className="font-bold pt-2 border-t border-blue-300">Custo total entregue: $10,62–$13,12</li>
+              <li className="font-bold pt-2 border-t border-blue-300">Custo total entregue: $10,62-$13,12</li>
             </ul>
           </div>
 
           <p>
-            Este é o número que você usa para todos os cálculos de preço — não o preço FOB da fábrica. Já vi muitas marcas novas precificarem com base no custo de fábrica e depois se perguntarem por que suas margens são mais finas do que o esperado. Para mais sobre custos de importação, veja nosso{' '}
+            Este é o número que você usa para todos os cálculos de preço -- não o preço FOB da fábrica. Já vi muitas marcas novas precificarem com base no custo de fábrica e depois se perguntarem por que suas margens são mais finas do que o esperado. Para mais sobre custos de importação, veja nosso{' '}
             <Link href="/pt/blog/guia-importacao-oculos-sol" className="text-primary-600 hover:underline">guia de importação</Link>.
           </p>
 
           <h2 id="markup-chain" className="text-3xl font-bold mt-16 mb-6">A Cadeia de Markup: Fábrica → Atacado → Varejo</h2>
           <p>
-            A cadeia de markup tradicional de óculos é brutal — de um jeito bom se você é a marca:
+            A cadeia de markup tradicional de óculos é brutal -- de um jeito bom se você é a marca:
           </p>
           <ol>
             <li><strong>Custo de fábrica → Preço de atacado:</strong> markup de 2-3x. Um custo de fábrica de $6 se torna um preço de atacado de $12-$18.</li>
@@ -242,7 +242,7 @@ export default function SunglassesPricingStrategyPage() {
 
           <h2 id="pricing-psychology" className="text-3xl font-bold mt-16 mb-6">Psicologia de Preços que Funciona</h2>
           <p>
-            Precificação não é só matemática — é psicologia. Aqui estão as estratégias que vi nossos clientes mais bem-sucedidos usarem:
+            Precificação não é só matemática -- é psicologia. Aqui estão as estratégias que vi nossos clientes mais bem-sucedidos usarem:
           </p>
           <ul>
             <li className="mb-4"><strong>Preço charm ($39 vs $40):</strong> Ainda funciona. $39 parece significativamente mais barato que $40, mesmo sendo $1 de diferença. As marcas DTC de óculos mais bem-sucedidas precificam a $29, $39, $49 ou $59.</li>
@@ -287,7 +287,7 @@ export default function SunglassesPricingStrategyPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Por qual preço devo vender meus óculos?</h3>
               <p className="text-gray-600">
-                Econômico: $15-$30. Intermediário: $30-$80. Premium: $80-$150. Luxo: $150+. A maioria das novas marcas DTC tem sucesso na faixa de $30-$60 — boas margens, preço acessível, espaço para gastos com marketing.
+                Econômico: $15-$30. Intermediário: $30-$80. Premium: $80-$150. Luxo: $150+. A maioria das novas marcas DTC tem sucesso na faixa de $30-$60 -- boas margens, preço acessível, espaço para gastos com marketing.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
@@ -301,7 +301,7 @@ export default function SunglassesPricingStrategyPage() {
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">Precisa de Ajuda com Seu Modelo de Preços?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Vou fornecer um detalhamento de custos para seu produto específico — materiais, 
+              Vou fornecer um detalhamento de custos para seu produto específico -- materiais, 
               lentes, embalagem e frete. Com os números reais, você pode construir uma estratégia de preços 
               que realmente funciona.
             </p>

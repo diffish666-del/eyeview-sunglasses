@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Top Sunglasses Design Trends for 2026: What\'s Selling Now',
-  description: 'A sunglasses factory owner reveals the hottest eyewear design trends for 2026. Real sales data on what\'s moving — oversized frames, Y2K revivals, sustainable materials, and more.',
+  description: 'A sunglasses factory owner reveals the hottest eyewear design trends for 2026. Real sales data on what\'s moving -- oversized frames, Y2K revivals, sustainable materials, and more.',
   keywords: 'sunglasses trends 2026, eyewear design trends, popular sunglasses styles, trending sunglasses, sunglasses fashion trends',
   alternates: {
     canonical: '/blog/sunglasses-design-trends-2026',
@@ -53,7 +53,7 @@ export default function SunglassesDesignTrends2026Page() {
             {
               "@type": "Question",
               "name": "What frame material is most popular for sunglasses in 2026?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Acetate leads at about 40% of our orders, followed by TR90/nylon (30%), metal (20%), and mixed materials (10%). The biggest growth is in bio-based acetate and recycled nylon — brands are increasingly requesting sustainable materials as consumers demand eco-friendly products." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Acetate leads at about 40% of our orders, followed by TR90/nylon (30%), metal (20%), and mixed materials (10%). The biggest growth is in bio-based acetate and recycled nylon -- brands are increasingly requesting sustainable materials as consumers demand eco-friendly products." }
             }
           ]
         })}} />
@@ -125,7 +125,7 @@ export default function SunglassesDesignTrends2026Page() {
 
           <h2 id="trend-1" className="text-3xl font-bold mt-16 mb-6">1. Oversized Is Still King (But the Shape Changed)</h2>
           <p>
-            Oversized sunglasses aren&apos;t going anywhere — but the dominant shape has shifted. In 2024-2025, 
+            Oversized sunglasses aren&apos;t going anywhere -- but the dominant shape has shifted. In 2024-2025, 
             oversized round and cat-eye dominated. In 2026, it&apos;s all about <strong>oversized square and 
             rectangular</strong> frames.
           </p>
@@ -135,13 +135,13 @@ export default function SunglassesDesignTrends2026Page() {
           </p>
           <ul>
             <li><strong>Oversized square:</strong> 40% of oversized orders (was 25% last year)</li>
-            <li><strong>Oversized rectangular:</strong> 25% (new entrant — barely existed in 2024)</li>
+            <li><strong>Oversized rectangular:</strong> 25% (new entrant -- barely existed in 2024)</li>
             <li><strong>Oversized cat-eye:</strong> 20% (down from 35%)</li>
             <li><strong>Oversized round:</strong> 15% (down from 30%)</li>
           </ul>
           <p>
             Think Jackie O meets modern architecture. Clean lines, sharp corners, but with enough curve to 
-            be flattering. The lenses are big — 55-60mm — and the temples are chunky. This silhouette 
+            be flattering. The lenses are big -- 55-60mm -- and the temples are chunky. This silhouette 
             works incredibly well for the{' '}
             <Link href="/blog/sunglasses-face-shape-guide" className="text-primary-600 hover:underline">most common face shapes</Link>, 
             which is part of why it&apos;s selling so well.
@@ -159,24 +159,24 @@ export default function SunglassesDesignTrends2026Page() {
           <h2 id="trend-2" className="text-3xl font-bold mt-16 mb-6">2. Y2K Revival: Narrow Frames &amp; Shield Lenses</h2>
           <p>
             The late &apos;90s/early 2000s aesthetic continues to dominate with Gen Z and younger Millennial 
-            buyers. Narrow oval frames, tiny rectangles, and wraparound shield lenses are back — and they&apos;re 
+            buyers. Narrow oval frames, tiny rectangles, and wraparound shield lenses are back -- and they&apos;re 
             not just a TikTok novelty anymore. They&apos;re driving real sales.
           </p>
           <p>
             What&apos;s interesting is how this trend has matured. In 2024, the Y2K frames were almost costume-like 
-            — extremely narrow, almost unwearable. In 2026, brands have refined the proportions. The frames are 
+            -- extremely narrow, almost unwearable. In 2026, brands have refined the proportions. The frames are 
             still narrow by historical standards, but they&apos;re wearable for daily use. The lenses are 
             40-48mm wide instead of the 35mm micro-frames from two years ago.
           </p>
           <p>
-            Shield lenses — the single-piece curved lens that wraps around the face — are the fastest-growing 
+            Shield lenses -- the single-piece curved lens that wraps around the face -- are the fastest-growing 
             sub-category. Orders for shield-style frames are up <strong>65% year-over-year</strong>. They&apos;re 
             popular with both sport and fashion brands, which tells me this trend has staying power.
           </p>
 
           <h2 id="trend-3" className="text-3xl font-bold mt-16 mb-6">3. Chunky Acetate in Bold Colors</h2>
           <p>
-            Acetate is having a moment. Not the thin, refined acetate of the 2010s — thick, chunky, 
+            Acetate is having a moment. Not the thin, refined acetate of the 2010s -- thick, chunky, 
             unapologetic acetate in colors you can see from across the room.
           </p>
           <p>
@@ -200,7 +200,7 @@ export default function SunglassesDesignTrends2026Page() {
           <h2 id="trend-4" className="text-3xl font-bold mt-16 mb-6">4. Rimless &amp; Semi-Rimless Minimalism</h2>
           <p>
             On the opposite end of the spectrum from chunky acetate, rimless and semi-rimless styles are 
-            surging. This is the &quot;quiet luxury&quot; effect — consumers who want eyewear that&apos;s 
+            surging. This is the &quot;quiet luxury&quot; effect -- consumers who want eyewear that&apos;s 
             understated, elegant, and doesn&apos;t scream for attention.
           </p>
           <p>
@@ -212,13 +212,13 @@ export default function SunglassesDesignTrends2026Page() {
             The challenge with rimless is quality control. Without a full frame to hide behind, every 
             imperfection in the lens edge and mounting is visible. This is where{' '}
             <Link href="/blog/sunglasses-quality-control" className="text-primary-600 hover:underline">quality control</Link>{' '}
-            becomes critical — and where cheap factories really struggle. If you&apos;re considering rimless 
+            becomes critical -- and where cheap factories really struggle. If you&apos;re considering rimless 
             styles, make sure your manufacturer has experience with them.
           </p>
 
           <h2 id="trend-5" className="text-3xl font-bold mt-16 mb-6">5. Sustainable &amp; Bio-Based Materials</h2>
           <p>
-            This isn&apos;t just a trend — it&apos;s a permanent shift. In 2024, &quot;sustainable&quot; was a 
+            This isn&apos;t just a trend -- it&apos;s a permanent shift. In 2024, &quot;sustainable&quot; was a 
             nice-to-have checkbox. In 2026, it&apos;s a <em>requirement</em> for many retailers and a 
             major selling point for DTC brands.
           </p>
@@ -242,7 +242,7 @@ export default function SunglassesDesignTrends2026Page() {
           <p>
             The line between sport eyewear and fashion eyewear continues to blur. We&apos;re seeing fashion 
             brands order wraparound sport frames, and sport brands order refined acetate styles. The 
-            crossover zone — athletic-inspired frames with premium materials and finishes — is one of 
+            crossover zone -- athletic-inspired frames with premium materials and finishes -- is one of 
             the fastest-growing categories.
           </p>
           <p>
@@ -256,7 +256,7 @@ export default function SunglassesDesignTrends2026Page() {
             <li>Price points: $40-$120 retail (higher than pure sport, lower than pure luxury)</li>
           </ul>
           <p>
-            This trend is driven by the athleisure lifestyle — people want sunglasses they can wear 
+            This trend is driven by the athleisure lifestyle -- people want sunglasses they can wear 
             to brunch and on a bike ride without looking ridiculous at either. The{' '}
             <Link href="/blog/uv400-vs-polarized" className="text-primary-600 hover:underline">polarized lens technology</Link>{' '}
             that used to be sport-only is now standard across most price points.
@@ -264,7 +264,7 @@ export default function SunglassesDesignTrends2026Page() {
 
           <h2 id="trend-7" className="text-3xl font-bold mt-16 mb-6">7. Colored &amp; Gradient Lenses</h2>
           <p>
-            Lens color used to be an afterthought — grey or brown, maybe green if you were feeling adventurous. 
+            Lens color used to be an afterthought -- grey or brown, maybe green if you were feeling adventurous. 
             In 2026, the lens <em>is</em> the design statement for many styles.
           </p>
           <p>
@@ -307,7 +307,7 @@ export default function SunglassesDesignTrends2026Page() {
                 <tr className="bg-white"><td className="px-6 py-4">Bold Colors (red, blue, green)</td><td className="px-6 py-4">9%</td><td className="px-6 py-4">+60%</td></tr>
                 <tr className="bg-gray-50"><td className="px-6 py-4">Earth Tones (olive, sand, terracotta)</td><td className="px-6 py-4">8%</td><td className="px-6 py-4">+35%</td></tr>
                 <tr className="bg-white"><td className="px-6 py-4">Gold/Silver Metal</td><td className="px-6 py-4">7%</td><td className="px-6 py-4">+5%</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Other</td><td className="px-6 py-4">4%</td><td className="px-6 py-4">—</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Other</td><td className="px-6 py-4">4%</td><td className="px-6 py-4">--</td></tr>
               </tbody>
             </table>
           </div>
@@ -327,19 +327,19 @@ export default function SunglassesDesignTrends2026Page() {
           <h3 className="text-2xl font-bold mt-8 mb-4">If You&apos;re Launching a New Brand</h3>
           <ul>
             <li>Start with <strong>3-5 styles</strong> that cover different face shapes and occasions</li>
-            <li>Include at least one oversized square/rectangular frame — it&apos;s the safest bet</li>
+            <li>Include at least one oversized square/rectangular frame -- it&apos;s the safest bet</li>
             <li>Offer each style in <strong>2-3 colors</strong>: always include black and tortoise, plus one trend color</li>
-            <li>Stock gradient brown and grey lenses as defaults — add one fashion lens option (green gradient or blue mirror)</li>
+            <li>Stock gradient brown and grey lenses as defaults -- add one fashion lens option (green gradient or blue mirror)</li>
             <li>Don&apos;t chase every trend. Pick the 1-2 that align with your brand identity</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">If You&apos;re Expanding an Existing Line</h3>
           <ul>
             <li>Look at what&apos;s selling and what&apos;s not. Double down on winners, cut losers</li>
-            <li>Add <strong>one trend-forward style</strong> per season — shield lens, chunky acetate, or sport-luxury crossover</li>
-            <li>Test a <strong>sustainable material option</strong> if you haven&apos;t already — bio-acetate or recycled nylon</li>
-            <li>Consider a <strong>translucent colorway</strong> for your bestselling frame — it&apos;s a low-risk way to tap a hot trend</li>
-            <li>Experiment with <strong>green gradient lenses</strong> — the data says they&apos;re not a fad</li>
+            <li>Add <strong>one trend-forward style</strong> per season -- shield lens, chunky acetate, or sport-luxury crossover</li>
+            <li>Test a <strong>sustainable material option</strong> if you haven&apos;t already -- bio-acetate or recycled nylon</li>
+            <li>Consider a <strong>translucent colorway</strong> for your bestselling frame -- it&apos;s a low-risk way to tap a hot trend</li>
+            <li>Experiment with <strong>green gradient lenses</strong> -- the data says they&apos;re not a fad</li>
           </ul>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
@@ -368,7 +368,7 @@ export default function SunglassesDesignTrends2026Page() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Are oversized sunglasses still in style in 2026?</h3>
               <p className="text-gray-600">
-                Absolutely — oversized frames represent 35% of all orders in our factory. The shape has 
+                Absolutely -- oversized frames represent 35% of all orders in our factory. The shape has 
                 shifted from oversized round/cat-eye toward oversized square and rectangular silhouettes. 
                 This trend has legs because oversized frames are universally flattering and provide 
                 excellent sun protection.
@@ -399,7 +399,7 @@ export default function SunglassesDesignTrends2026Page() {
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               I can send you our latest ODM catalog with 400+ styles, including all the 2026 trending 
               shapes and colors. Or if you have a specific trend in mind, let&apos;s talk about making 
-              it happen — OEM or ODM.
+              it happen -- OEM or ODM.
             </p>
             <Link href="/contact" className="btn-primary">
               Get the 2026 Catalog
@@ -411,15 +411,15 @@ export default function SunglassesDesignTrends2026Page() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Oversized aviators are trending in 2026 — available in metal and acetate.</p>
+                <p className="text-gray-600 text-sm">Oversized aviators are trending in 2026 -- available in metal and acetate.</p>
               </Link>
               <Link href="/products/cat-eye" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Cat Eye Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Soft cat eye is the new shape — more wearable, still feminine and bold.</p>
+                <p className="text-gray-600 text-sm">Soft cat eye is the new shape -- more wearable, still feminine and bold.</p>
               </Link>
               <Link href="/products/eco-friendly" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Eco-Friendly Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Sustainable materials are the #1 trend — bio-acetate, bamboo, recycled ocean plastic.</p>
+                <p className="text-gray-600 text-sm">Sustainable materials are the #1 trend -- bio-acetate, bamboo, recycled ocean plastic.</p>
               </Link>
             </div>
           </div>

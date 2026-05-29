@@ -17,7 +17,7 @@ export default function CertificationFdaCeLunettesPage() {
           { "@type": "Question", "name": "Les lunettes de soleil ont-elles besoin d'une approbation FDA pour être vendues aux États-Unis ?", "acceptedAnswer": { "@type": "Answer", "text": "Les lunettes n'ont pas besoin d'une « approbation » FDA mais elles doivent être conformes à la FDA. La FDA classe les lunettes de soleil comme dispositifs médicaux de classe I. Les fabricants et importateurs doivent enregistrer leur établissement auprès de la FDA et lister leurs produits. Les verres doivent aussi répondre aux exigences de résistance aux chocs." } },
           { "@type": "Question", "name": "Qu'est-ce que le marquage CE pour les lunettes de soleil ?", "acceptedAnswer": { "@type": "Answer", "text": "Le marquage CE indique que les lunettes sont conformes aux exigences de sécurité de l'UE. La norme clé est EN ISO 12312-1, qui couvre la protection UV, la qualité optique et la résistance mécanique. Le marquage CE est obligatoire pour vendre dans l'UE, l'EEE et le Royaume-Uni." } },
           { "@type": "Question", "name": "Combien coûtent les tests de conformité pour les lunettes ?", "acceptedAnswer": { "@type": "Answer", "text": "Test UV400 de base : 100-300 $ par style. Test complet de conformité (UV, résistance aux chocs, qualité optique) : 300-800 $ par style. L'enregistrement FDA est gratuit. La plupart des usines réputées incluent les tests de base dans leurs coûts de production." } },
-          { "@type": "Question", "name": "Mes lunettes peuvent-elles être saisies en douane ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. Les douanes américaines peuvent retenir les lunettes sans enregistrement FDA. Les douanes européennes saisissent régulièrement les envois sans marquage CE. L'Australie est la plus stricte — les lunettes non conformes sont systématiquement saisies et détruites. J'ai vu des clients perdre des envois de 10 000-50 000 $." } }
+          { "@type": "Question", "name": "Mes lunettes peuvent-elles être saisies en douane ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. Les douanes américaines peuvent retenir les lunettes sans enregistrement FDA. Les douanes européennes saisissent régulièrement les envois sans marquage CE. L'Australie est la plus stricte -- les lunettes non conformes sont systématiquement saisies et détruites. J'ai vu des clients perdre des envois de 10 000-50 000 $." } }
         ] })}} />
 
         <header className="mb-12">
@@ -26,7 +26,7 @@ export default function CertificationFdaCeLunettesPage() {
             <span>4 mai 2026</span><span>•</span><span>15 min de lecture</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Certification FDA et CE pour Lunettes de Soleil : Guide de Conformité Complet</h1>
-          <p className="text-xl text-gray-600">Personne ne lance une marque de lunettes par passion pour la conformité réglementaire. Mais sautez cette étape et vos lunettes pourraient être saisies en douane — ou pire. Voici tout ce que vous devez savoir, simplifié.</p>
+          <p className="text-xl text-gray-600">Personne ne lance une marque de lunettes par passion pour la conformité réglementaire. Mais sautez cette étape et vos lunettes pourraient être saisies en douane -- ou pire. Voici tout ce que vous devez savoir, simplifié.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
             <div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Fondateur, EyeView Sunglasses</div></div>
@@ -48,7 +48,7 @@ export default function CertificationFdaCeLunettesPage() {
         </nav>
 
         <div className="prose prose-lg max-w-none">
-          <p className="text-xl text-gray-600 mb-8">J&apos;exporte des lunettes depuis 20 ans. En ce temps, j&apos;ai vu trois clients perdre des envois entiers saisis en douane — totalisant plus de 120 000 $ de produit détruit. Chaque cas était évitable. Les tests auraient coûté moins de 500 $.</p>
+          <p className="text-xl text-gray-600 mb-8">J&apos;exporte des lunettes depuis 20 ans. En ce temps, j&apos;ai vu trois clients perdre des envois entiers saisis en douane -- totalisant plus de 120 000 $ de produit détruit. Chaque cas était évitable. Les tests auraient coûté moins de 500 $.</p>
 
           <h2 id="pourquoi-conformite" className="text-3xl font-bold mt-16 mb-6">Pourquoi la conformité compte (histoires vraies)</h2>
           <p>Carlos, un créateur de marque de Miami, a commandé 3 000 paires en 2023 pour 18 000 $. Les douanes américaines ont bloqué l&apos;envoi faute de documentation d&apos;enregistrement FDA. 45 jours de retenue. Il a raté toute sa fenêtre de lancement estival.</p>
@@ -87,7 +87,7 @@ export default function CertificationFdaCeLunettesPage() {
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-amber-900 mb-2">💡 Important : auto-certification</h3>
-            <p className="text-amber-800">Le marquage CE pour les lunettes est <strong>auto-certifié</strong> — pas besoin d&apos;organisme notifié. Vous réalisez les tests, compilez le dossier technique et signez la Déclaration de Conformité. Abordable, mais vous êtes juridiquement responsable.</p>
+            <p className="text-amber-800">Le marquage CE pour les lunettes est <strong>auto-certifié</strong> -- pas besoin d&apos;organisme notifié. Vous réalisez les tests, compilez le dossier technique et signez la Déclaration de Conformité. Abordable, mais vous êtes juridiquement responsable.</p>
           </div>
 
           <h2 id="normes-uv" className="text-3xl font-bold mt-16 mb-6">Normes de protection UV</h2>
@@ -105,10 +105,10 @@ export default function CertificationFdaCeLunettesPage() {
             <table className="w-full border-collapse">
               <thead><tr className="bg-gray-900 text-white"><th className="px-6 py-4 text-left">Type de test</th><th className="px-6 py-4 text-left">Coût/style</th><th className="px-6 py-4 text-left">Délai</th></tr></thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">Transmittance UV400 seule</td><td className="px-6 py-4">100–300 $</td><td className="px-6 py-4">3-5 jours</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">EN ISO 12312-1 complète (CE)</td><td className="px-6 py-4">300–600 $</td><td className="px-6 py-4">5-10 jours</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">ANSI Z80.3 complète</td><td className="px-6 py-4">300–500 $</td><td className="px-6 py-4">5-10 jours</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Australie)</td><td className="px-6 py-4">400–800 $</td><td className="px-6 py-4">7-14 jours</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Transmittance UV400 seule</td><td className="px-6 py-4">100-300 $</td><td className="px-6 py-4">3-5 jours</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">EN ISO 12312-1 complète (CE)</td><td className="px-6 py-4">300-600 $</td><td className="px-6 py-4">5-10 jours</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">ANSI Z80.3 complète</td><td className="px-6 py-4">300-500 $</td><td className="px-6 py-4">5-10 jours</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">AS/NZS 1067 (Australie)</td><td className="px-6 py-4">400-800 $</td><td className="px-6 py-4">7-14 jours</td></tr>
               </tbody>
             </table>
           </div>

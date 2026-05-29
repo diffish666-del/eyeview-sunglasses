@@ -62,7 +62,7 @@ const organizationJsonLd = {
   url: 'https://eyeviewsunglasses.com',
   logo: 'https://eyeviewsunglasses.com/logo.png',
   description: 'Leading wholesale sunglasses manufacturer offering OEM & ODM custom sunglasses with 15+ years of experience.',
-  email: 'jacky@eyeviewsunglasses.com',
+  email: 'sales@eyeviewsunglasses.com',
   telephone: '+86-18850281211',
   address: {
     '@type': 'PostalAddress',
@@ -84,7 +84,7 @@ const localBusinessJsonLd = {
   'description': 'Leading wholesale sunglasses manufacturer offering OEM & ODM custom sunglasses with 15+ years of experience. CE/FDA/ISO 9001 certified.',
   'url': 'https://eyeviewsunglasses.com',
   'telephone': '+86-18850281211',
-  'email': 'jacky@eyeviewsunglasses.com',
+  'email': 'sales@eyeviewsunglasses.com',
   'address': {
     '@type': 'PostalAddress',
     'addressCountry': 'CN',

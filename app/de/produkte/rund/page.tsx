@@ -20,42 +20,42 @@ const products = [
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 Stk.',
-    description: 'Das Original. Dünner Golddraht, perfekt kreisförmige Gläser, verstellbare Silikon-Nasenpads. Das ist die Fassung, die John Lennon ikonisch machte und nach der jeder Vintage-Liebhaber immer noch greift. Wir verkaufen davon mehr als von jedem anderen runden Stil — und wir fertigen sie seit 8 Jahren ohne eine einzige Designänderung. Weil man nicht repariert, was nicht kaputt ist.',
+    description: 'Das Original. Dünner Golddraht, perfekt kreisförmige Gläser, verstellbare Silikon-Nasenpads. Das ist die Fassung, die John Lennon ikonisch machte und nach der jeder Vintage-Liebhaber immer noch greift. Wir verkaufen davon mehr als von jedem anderen runden Stil -- und wir fertigen sie seit 8 Jahren ohne eine einzige Designänderung. Weil man nicht repariert, was nicht kaputt ist.',
   },
   {
     name: 'Runde Silberfassung',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 Stk.',
-    description: 'Gleiche klassische Rundform, kühlerer Ton. Die gebürstete Silberoberfläche spricht die Minimalisten an — skandinavische Designfans, Tech-Arbeiter, die „Weniger ist mehr"-Fraktion. Passt perfekt zu neutralen Garderoben. Einer unserer skandinavischen Distributoren führt ausschließlich silberne Runde und bewegt über 3.000 Paar pro Quartal.',
+    description: 'Gleiche klassische Rundform, kühlerer Ton. Die gebürstete Silberoberfläche spricht die Minimalisten an -- skandinavische Designfans, Tech-Arbeiter, die „Weniger ist mehr"-Fraktion. Passt perfekt zu neutralen Garderoben. Einer unserer skandinavischen Distributoren führt ausschließlich silberne Runde und bewegt über 3.000 Paar pro Quartal.',
   },
   {
     name: 'Vintage Rund Schwarz',
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$8.50 - $12.50',
     moq: '100 Stk.',
-    description: 'Dickes schwarzes Acetat mit markantem Profil. Das ist keine zierliche Drahtfassung — es ist ein Statement. Denken Sie Architekt, Kunstprofessor, Kreativdirektor. Die substanzielle Konstruktion gibt ihr ein Premium-Gewicht in der Hand, das Qualität schreit. Beliebt bei unabhängigen Brillenboutiquen, die etwas Kräftigeres als Metall suchen.',
+    description: 'Dickes schwarzes Acetat mit markantem Profil. Das ist keine zierliche Drahtfassung -- es ist ein Statement. Denken Sie Architekt, Kunstprofessor, Kreativdirektor. Die substanzielle Konstruktion gibt ihr ein Premium-Gewicht in der Hand, das Qualität schreit. Beliebt bei unabhängigen Brillenboutiquen, die etwas Kräftigeres als Metall suchen.',
   },
   {
     name: 'Runde Acetat Schildpatt',
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 Stk.',
-    description: 'Warmes Schildpattmuster in geschichtetem Acetat. Die mehrfarbigen Braun- und Bernsteintöne erzeugen eine Tiefe, die einfarbige Fassungen nicht bieten können. Das ist die „Smart Casual" unter den runden Sonnenbrillen — funktioniert zum T-Shirt, funktioniert zum Blazer. Konstant eine unserer Top 5 bei Nachbestellungen über alle Produktlinien hinweg.',
+    description: 'Warmes Schildpattmuster in geschichtetem Acetat. Die mehrfarbigen Braun- und Bernsteintöne erzeugen eine Tiefe, die einfarbige Fassungen nicht bieten können. Das ist die „Smart Casual" unter den runden Sonnenbrillen -- funktioniert zum T-Shirt, funktioniert zum Blazer. Konstant eine unserer Top 5 bei Nachbestellungen über alle Produktlinien hinweg.',
   },
   {
     name: 'Runde Farbgläser',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$9.50 - $13.50',
     moq: '100 Stk.',
-    description: 'Rosa Gläser. Blaue Gläser. Gelbe Gläser. Grüne Gläser. Das ist die Festival-Fassung — Coachella, Glastonbury, Tomorrowland. Die dünne Goldmetallfassung mit leuchtend gefärbten Gläsern fängt diese Freigeist-Bohemian-Energie ein. Wir beliefern mehrere Musikfestival-Merchandiser, die diese vor Ort für das 5-8-fache des Großhandelspreises verkaufen. Die Margen sind verrückt.',
+    description: 'Rosa Gläser. Blaue Gläser. Gelbe Gläser. Grüne Gläser. Das ist die Festival-Fassung -- Coachella, Glastonbury, Tomorrowland. Die dünne Goldmetallfassung mit leuchtend gefärbten Gläsern fängt diese Freigeist-Bohemian-Energie ein. Wir beliefern mehrere Musikfestival-Merchandiser, die diese vor Ort für das 5-8-fache des Großhandelspreises verkaufen. Die Margen sind verrückt.',
   },
   {
     name: 'Oversize Rund',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$10.00 - $14.00',
     moq: '100 Stk.',
-    description: 'Die dramatische Schwester. 56-60mm Gläser, die das halbe Gesicht bedecken und quer durch den Raum ein Statement setzen. Oversize-Runde sind in den sozialen Medien explodiert — Influencer lieben die Proportionen. Mehr Sonnenschutz als Standard-Runde obendrein, also tatsächlich schützender. Derzeit unser am schnellsten wachsender Rund-Stil, plus 40% im Jahresvergleich.',
+    description: 'Die dramatische Schwester. 56-60mm Gläser, die das halbe Gesicht bedecken und quer durch den Raum ein Statement setzen. Oversize-Runde sind in den sozialen Medien explodiert -- Influencer lieben die Proportionen. Mehr Sonnenschutz als Standard-Runde obendrein, also tatsächlich schützender. Derzeit unser am schnellsten wachsender Rund-Stil, plus 40% im Jahresvergleich.',
   },
 ]
 
@@ -99,7 +99,7 @@ export default function RundPage() {
           <div className="max-w-4xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
               Die runde Fassung begann nicht als modische Wahl. In den frühen 1900er Jahren war
-              sie einfach die am einfachsten herzustellende Form — Kreise waren leicht zu schleifen.
+              sie einfach die am einfachsten herzustellende Form -- Kreise waren leicht zu schleifen.
               Aber dann geschah etwas. John Lennon griff in den 1960ern zu einem Paar kleiner
               Drahtrunder und machte sie zum visuellen Symbol einer ganzen Generation. Frieden,
               Liebe und perfekt kreisförmige Gläser. Über Nacht ging die runde Fassung von
@@ -108,7 +108,7 @@ export default function RundPage() {
             <p>
               Die Liste derer, die Runde berühmt machten, liest sich wie eine kulturelle
               Ruhmeshalle. Janis Joplin in Woodstock. Ozzy Osbourne auf der Bühne. Gandhi beim
-              Anführen einer Nation. Steve Jobs beim iPhone-Launch. Jeder wählte runde Fassungen —
+              Anführen einer Nation. Steve Jobs beim iPhone-Launch. Jeder wählte runde Fassungen --
               und jeder gab ihnen eine andere Bedeutung. Rebellion. Kreativität. Weisheit.
               Schlichtheit. Das ist die Kraft dieser Form: Sie passt sich an, wer sie trägt.
             </p>
@@ -116,7 +116,7 @@ export default function RundPage() {
               Schnellvorlauf bis heute. Die Gen Z entdeckte Vintage-Mode und ging voll rein.
               Runde Sonnenbrillen gehören wieder zu den weltweiten Top 5-Bestsellern, angetrieben
               von Second-Hand-Kultur, Festival-Fashion und der ästhetischen Seite von TikTok.
-              Die Nachfrage ist real und wächst — unsere Bestellungen für runde Fassungen sind
+              Die Nachfrage ist real und wächst -- unsere Bestellungen für runde Fassungen sind
               seit 2022 jährlich um 35% gestiegen. Und mit der <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">WHO-Warnung vor kumulativer UV-Belastung</a>,
               sind modische Sonnenbrillen, die tatsächlich die Augen schützen, relevanter denn je.
               Wenn Sie keine Runden führen, lassen Sie Geld auf dem Tisch liegen.
@@ -174,7 +174,7 @@ export default function RundPage() {
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Die authentische „Lennon"-Größe. Klein und bewusst. Diese sind für Leute, die
                 Wert darauf legen, die Vintage-Proportionen exakt richtig zu treffen. Sie bedecken
-                nicht viel Gesicht — das ist der Punkt. Es geht um die Ästhetik, nicht um die
+                nicht viel Gesicht -- das ist der Punkt. Es geht um die Ästhetik, nicht um die
                 Abdeckung. Sehr beliebt bei Vintage-Puristen, Korrektionsbrillen-Käufern und
                 der „Harry Potter-Generation." Bestseller in Optikgeschäften.
               </p>
@@ -189,7 +189,7 @@ export default function RundPage() {
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Die sichere Wahl. Mittlere Runde passen zur breitesten Palette von Gesichtern
                 und sprechen Männer und Frauen gleichermaßen an. Nicht zu vintage, nicht zu
-                trendy — genau richtig. Wenn Sie neu im Sortiment runder Fassungen sind und
+                trendy -- genau richtig. Wenn Sie neu im Sortiment runder Fassungen sind und
                 Ihren Markt noch nicht kennen, fangen Sie hier an. Diese haben die höchste
                 Verkaufsquote und niedrigste Rücksendequote aller runden Größen, die wir
                 produzieren.
@@ -206,7 +206,7 @@ export default function RundPage() {
                 Das Statement-Stück. Oversize-Runde sind überall auf Instagram und TikTok.
                 Große Proportionen, maximales Drama, viel Sonnenschutz. Das sind die Fassungen,
                 die „OMG, wo hast du die her"-Reaktionen auslösen. Derzeit unser am schnellsten
-                wachsendes Segment — plus 40% im Jahresvergleich. Wenn Ihre Kunden unter 35
+                wachsendes Segment -- plus 40% im Jahresvergleich. Wenn Ihre Kunden unter 35
                 sind, ist das wahrscheinlich, was sie wollen.
               </p>
               <ul className="space-y-1 text-sm text-gray-600">
@@ -263,7 +263,7 @@ export default function RundPage() {
             <Link href="/de/produkte/katzenaugen" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">😎</div>
               <h3 className="font-semibold mb-2">Katzenaugen-Sonnenbrillen</h3>
-              <p className="text-sm text-gray-600">Eine weitere Vintage-Ikone — passt gut in Kollektionen</p>
+              <p className="text-sm text-gray-600">Eine weitere Vintage-Ikone -- passt gut in Kollektionen</p>
             </Link>
             <Link href="/de/produkte/polarisiert" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🔆</div>
@@ -284,23 +284,23 @@ export default function RundPage() {
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="Passen runde Sonnenbrillen zu runden Gesichtern?"
-              answer="Ehrlich? Kommt drauf an. Die gängige Meinung sagt: ‚Nein — Kreise auf Kreisen machen alles runder.' Und das stimmt für manche. Aber viele Leute mit runden Gesichtern tragen sie trotzdem gern. Unsere Empfehlung: Wenn Sie für den allgemeinen Einzelhandel einkaufen, setzen Sie auf mittlere und Oversize-Runde (die passen zu mehr Gesichtsformen). Wenn ein Kunde mit rundem Gesicht fragt, schlagen Sie stattdessen eine eckige Form wie unsere Cat-Eye oder Wayfarer vor. Aber weisen Sie niemanden ab — Moderegeln sind dazu da, gebrochen zu werden."
+              answer="Ehrlich? Kommt drauf an. Die gängige Meinung sagt: ‚Nein -- Kreise auf Kreisen machen alles runder.' Und das stimmt für manche. Aber viele Leute mit runden Gesichtern tragen sie trotzdem gern. Unsere Empfehlung: Wenn Sie für den allgemeinen Einzelhandel einkaufen, setzen Sie auf mittlere und Oversize-Runde (die passen zu mehr Gesichtsformen). Wenn ein Kunde mit rundem Gesicht fragt, schlagen Sie stattdessen eine eckige Form wie unsere Cat-Eye oder Wayfarer vor. Aber weisen Sie niemanden ab -- Moderegeln sind dazu da, gebrochen zu werden."
             />
             <FaqItem
-              question="Metall oder Acetat — was ist der wirkliche Unterschied?"
-              answer="Metall-Runde sind leichter (15-22g vs. 25-35g), dünner und filigraner. Sie haben verstellbare Nasenpads, passen also zu mehr Gesichtsformen. Acetat-Runde sind markanter, schwerer auf die ‚Premium'-Art und in viel mehr Farben und Mustern erhältlich — Schildpatt, Marmor, transparente Töne. Beide erfüllen FDA UV-Schutzstandards. Metall sagt ‚minimalistischer Intellektueller.' Acetat sagt ‚modebewusster Kreativer.' Beide verkaufen sich gut, aber an unterschiedliche Kunden."
+              question="Metall oder Acetat -- was ist der wirkliche Unterschied?"
+              answer="Metall-Runde sind leichter (15-22g vs. 25-35g), dünner und filigraner. Sie haben verstellbare Nasenpads, passen also zu mehr Gesichtsformen. Acetat-Runde sind markanter, schwerer auf die ‚Premium'-Art und in viel mehr Farben und Mustern erhältlich -- Schildpatt, Marmor, transparente Töne. Beide erfüllen FDA UV-Schutzstandards. Metall sagt ‚minimalistischer Intellektueller.' Acetat sagt ‚modebewusster Kreativer.' Beide verkaufen sich gut, aber an unterschiedliche Kunden."
             />
             <FaqItem
               question="Können runde Fassungen mit Korrektionsgläsern bestückt werden?"
-              answer="Absolut. Rund ist tatsächlich die einfachste Form für Korrektionsgläser, weil der symmetrische Kreis die optische Korrektur gleichmäßig verteilt. Wir liefern alle unsere runden Fassungen korrektionsfertig mit Demogläsern. Funktioniert für Einstärke, Bifokal und Gleitsicht. Runde Korrektionsfassungen sind ein riesiger Markt — denken Sie an all die Harry-Potter-Fans, die tatsächlich eine Brille brauchen!"
+              answer="Absolut. Rund ist tatsächlich die einfachste Form für Korrektionsgläser, weil der symmetrische Kreis die optische Korrektur gleichmäßig verteilt. Wir liefern alle unsere runden Fassungen korrektionsfertig mit Demogläsern. Funktioniert für Einstärke, Bifokal und Gleitsicht. Runde Korrektionsfassungen sind ein riesiger Markt -- denken Sie an all die Harry-Potter-Fans, die tatsächlich eine Brille brauchen!"
             />
             <FaqItem
               question="Welche Glasfarben verkaufen sich am besten bei runden Fassungen?"
-              answer="Topseller in der Reihenfolge: (1) Klassisches Grün G-15 — der authentische Vintage-Look, (2) Grau — neutral, passt zu allem, (3) Braun/Bernstein — wärmerer Ton, toller Kontrast, (4) Blau-Spiegel — jüngere Zielgruppe liebt diese, (5) Gelb/Rosa/Orange getönt — Festival- und Bohemian-Käufer. Verlaufsgläser (oben dunkel, unten heller) sind gerade auch ein Riesentrend, besonders bei Oversize-Runden."
+              answer="Topseller in der Reihenfolge: (1) Klassisches Grün G-15 -- der authentische Vintage-Look, (2) Grau -- neutral, passt zu allem, (3) Braun/Bernstein -- wärmerer Ton, toller Kontrast, (4) Blau-Spiegel -- jüngere Zielgruppe liebt diese, (5) Gelb/Rosa/Orange getönt -- Festival- und Bohemian-Käufer. Verlaufsgläser (oben dunkel, unten heller) sind gerade auch ein Riesentrend, besonders bei Oversize-Runden."
             />
             <FaqItem
               question="Wie hoch ist die MOQ und wie schnell geht es?"
-              answer="100 Stück pro Stil und Farbe für Lagerdesigns. 300 Stück für individuelles OEM (Ihr Logo, Pantone-Farben, individuelle Verpackung). Produktion dauert 15-25 Tage für Individualbestellungen, 3-5 Tage für Lagerartikel. Wir machen auch komplettes ODM — schicken Sie uns eine Skizze oder ein Referenzfoto und wir erstellen ein neues Design von Grund auf. Ein Kunde mailte uns ein Vintage-Foto von Sonnenbrillen aus den 1960ern und wir haben die Fassung in 3 Wochen nachgebaut."
+              answer="100 Stück pro Stil und Farbe für Lagerdesigns. 300 Stück für individuelles OEM (Ihr Logo, Pantone-Farben, individuelle Verpackung). Produktion dauert 15-25 Tage für Individualbestellungen, 3-5 Tage für Lagerartikel. Wir machen auch komplettes ODM -- schicken Sie uns eine Skizze oder ein Referenzfoto und wir erstellen ein neues Design von Grund auf. Ein Kunde mailte uns ein Vintage-Foto von Sonnenbrillen aus den 1960ern und wir haben die Fassung in 3 Wochen nachgebaut."
             />
           </div>
         </section>
@@ -309,7 +309,7 @@ export default function RundPage() {
         <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
           <h2 className="text-3xl font-bold mb-4">Vintage wird nie alt</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Modemarken, Optikgeschäfte, Vintage-Boutiquen, Festival-Merchandiser — runde
+            Modemarken, Optikgeschäfte, Vintage-Boutiquen, Festival-Merchandiser -- runde
             Fassungen verkaufen sich überall. Holen Sie sich Muster, überzeugen Sie sich von
             der Qualität, dann reden wir über Zahlen.
           </p>
@@ -347,7 +347,7 @@ export default function RundPage() {
           {
             "@type": "Question",
             "name": "Können runde Fassungen mit Korrektionsgläsern bestückt werden?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Ja — rund ist die einfachste Form für Korrektionsgläser dank symmetrischer Geometrie. Alle unsere runden Fassungen werden korrektionsfertig mit Demogläsern für Einstärke, Bifokal und Gleitsicht geliefert." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Ja -- rund ist die einfachste Form für Korrektionsgläser dank symmetrischer Geometrie. Alle unsere runden Fassungen werden korrektionsfertig mit Demogläsern für Einstärke, Bifokal und Gleitsicht geliefert." }
           },
           {
             "@type": "Question",

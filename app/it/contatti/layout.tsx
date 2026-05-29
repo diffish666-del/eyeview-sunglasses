@@ -2,10 +2,10 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Contatta EyeView | Preventivo Gratuito e Campioni per Occhiali da Sole Personalizzati',
-  description: 'Contatta EyeView Sunglasses per un preventivo gratuito. Rispondiamo entro 24 ore. WhatsApp: +86-18850281211. Email: jacky@eyeviewsunglasses.com. Campioni in 3-5 giorni.',
+  description: 'Contatta EyeView Sunglasses per un preventivo gratuito. Rispondiamo entro 24 ore. WhatsApp: +86-18850281211. Email: sales@eyeviewsunglasses.com. Campioni in 3-5 giorni.',
   openGraph: {
     title: 'Contatta EyeView | Preventivo Gratuito e Campioni per Occhiali da Sole Personalizzati',
-    description: 'Contatta EyeView Sunglasses per un preventivo gratuito. Rispondiamo entro 24 ore. WhatsApp: +86-18850281211. Email: jacky@eyeviewsunglasses.com. Campioni in 3-5 giorni.',
+    description: 'Contatta EyeView Sunglasses per un preventivo gratuito. Rispondiamo entro 24 ore. WhatsApp: +86-18850281211. Email: sales@eyeviewsunglasses.com. Campioni in 3-5 giorni.',
     type: 'website',
     url: 'https://eyeviewsunglasses.com/it/contatti',
   },

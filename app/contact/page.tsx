@@ -45,7 +45,7 @@ export default function ContactPage() {
       // If Formspree fails, try backup endpoint
       if (!response.ok) {
         console.warn('Formspree failed, trying backup...')
-        response = await fetch('https://formsubmit.co/ajax/jacky@eyeviewsunglasses.com', {
+        response = await fetch('https://formsubmit.co/ajax/sales@eyeviewsunglasses.com', {
           method: 'POST',
           body: formData,
           headers: {
@@ -64,8 +64,8 @@ export default function ContactPage() {
       // Final fallback: open email client
       const subject = encodeURIComponent('Sunglasses Inquiry from ' + data.name)
       const body = encodeURIComponent(`Name: ${data.name}\nEmail: ${data.email}\nCompany: ${data.company || 'N/A'}\nPhone: ${data.phone || 'N/A'}\nInterest: ${data.interest || 'N/A'}\nQuantity: ${data.quantity || 'N/A'}\n\nMessage:\n${data.message}`)
-      window.location.href = `mailto:jacky@eyeviewsunglasses.com?subject=${subject}&body=${body}`
-      setError('Form submission failed. Your email client should open now. If not, please email us directly at jacky@eyeviewsunglasses.com')
+      window.location.href = `mailto:sales@eyeviewsunglasses.com?subject=${subject}&body=${body}`
+      setError('Form submission failed. Your email client should open now. If not, please email us directly at sales@eyeviewsunglasses.com')
     }
     setSubmitting(false)
   }
@@ -90,7 +90,7 @@ export default function ContactPage() {
               <p className="text-primary-700">
                 Our team will review your requirements and send you a detailed quote 
                 with pricing, MOQ, and timeline. If you have urgent questions, 
-                feel free to contact us directly at  jacky@eyeviewsunglasses.com
+                feel free to contact us directly at  sales@eyeviewsunglasses.com
               </p>
             </div>
             <a href="/" className="btn-primary inline-block">
@@ -261,8 +261,8 @@ export default function ContactPage() {
                   <span className="text-2xl mr-3">📧</span>
                   <div>
                     <div className="text-sm text-gray-500">Email</div>
-                    <a href="mailto:jacky@eyeviewsunglasses.com" className="font-medium text-primary-600 hover:underline">
-                      jacky@eyeviewsunglasses.com
+                    <a href="mailto:sales@eyeviewsunglasses.com" className="font-medium text-primary-600 hover:underline">
+                      sales@eyeviewsunglasses.com
                     </a>
                   </div>
                 </div>

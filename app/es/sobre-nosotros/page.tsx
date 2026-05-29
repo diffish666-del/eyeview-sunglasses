@@ -61,7 +61,7 @@ export default function AboutPageEs() {
               <div className="space-y-4 text-gray-600">
                 <p>
                   EyeView comenzó en 2006 en un taller que, honestamente, no era mucho más grande que 
-                  un garaje para dos coches. Éramos yo — Jacky Chen — y un técnico, puliendo armazones 
+                  un garaje para dos coches. Éramos yo -- Jacky Chen -- y un técnico, puliendo armazones 
                   de acetato a mano y ensamblando bisagras manualmente. Nuestra primera &quot;producción&quot; 
                   fue de 200 pares para una tienda de surf en Sídney. Empaqué cada caja personalmente.
                 </p>
@@ -74,7 +74,7 @@ export default function AboutPageEs() {
                 <p>
                   Hoy, operamos una instalación de 5,000 m² con 5 líneas de producción, más de 150 
                   empleados y la capacidad de producir 10,000 pares por día. Hemos servido a más de 
-                  500 marcas en más de 50 países — desde startups de Kickstarter que piden 100 pares 
+                  500 marcas en más de 50 países -- desde startups de Kickstarter que piden 100 pares 
                   hasta cadenas retail que piden 50,000. El taller desapareció hace tiempo, pero la 
                   mentalidad no: cada par sigue siendo inspeccionado como si fuera para esa tienda de 
                   surf en Sídney.
@@ -108,7 +108,7 @@ export default function AboutPageEs() {
               <p className="text-gray-600">
                 Ser la fábrica a la que la próxima generación de grandes marcas de gafas señale y diga: 
                 &quot;Ellos nos ayudaron a empezar.&quot; Ya hemos ayudado a lanzar cientos de marcas. 
-                Queremos ayudar a lanzar miles más — y mantener creciendo a las que ya hemos lanzado. 
+                Queremos ayudar a lanzar miles más -- y mantener creciendo a las que ya hemos lanzado. 
                 Tu éxito es nuestro mejor marketing.
               </p>
             </div>
@@ -143,7 +143,7 @@ export default function AboutPageEs() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Capacidades de la Fábrica</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Nuestra instalación está construida para la flexibilidad — producciones pequeñas y pedidos 
+              Nuestra instalación está construida para la flexibilidad -- producciones pequeñas y pedidos 
               grandes, OEM y ODM, diseños simples e ingeniería compleja.
             </p>
           </div>
@@ -166,7 +166,7 @@ export default function AboutPageEs() {
             <CapabilityCard
               icon="🔬"
               title="Laboratorio de QC Interno"
-              description="Pruebas de transmisión UV, pruebas de impacto, pruebas de ciclos de bisagra y verificación dimensional — todo se realiza internamente antes de cualquier envío."
+              description="Pruebas de transmisión UV, pruebas de impacto, pruebas de ciclos de bisagra y verificación dimensional -- todo se realiza internamente antes de cualquier envío."
             />
             <CapabilityCard
               icon="🎨"
@@ -187,7 +187,7 @@ export default function AboutPageEs() {
             <h2 className="text-3xl font-bold mb-4">Certificaciones y Cumplimiento</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Cada producto que enviamos cumple con los estándares internacionales de seguridad y calidad. 
-              Estas no son insignias que coleccionamos — son requisitos que nos tomamos en serio.
+              Estas no son insignias que coleccionamos -- son requisitos que nos tomamos en serio.
             </p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
@@ -261,13 +261,13 @@ export default function AboutPageEs() {
           </div>
           <div className="grid md:grid-cols-2 gap-8">
             <TestimonialCard
-              quote="Empezamos con 200 pares ODM como prueba. Tres años después, pedimos 5,000 pares OEM personalizados por trimestre. EyeView creció con nosotros — nunca nos presionaron para pedir más de lo que estábamos preparados."
+              quote="Empezamos con 200 pares ODM como prueba. Tres años después, pedimos 5,000 pares OEM personalizados por trimestre. EyeView creció con nosotros -- nunca nos presionaron para pedir más de lo que estábamos preparados."
               name="Rachel M."
               title="Fundadora, Coastal Shade Co."
               location="Melbourne, Australia"
             />
             <TestimonialCard
-              quote="Había tenido malas experiencias con dos fábricas antes de encontrar EyeView. La diferencia fue inmediata — el equipo de Jacky realmente escuchó lo que necesitaba en vez de simplemente cotizarme la opción más barata. La calidad ha sido consistente en 12 pedidos."
+              quote="Había tenido malas experiencias con dos fábricas antes de encontrar EyeView. La diferencia fue inmediata -- el equipo de Jacky realmente escuchó lo que necesitaba en vez de simplemente cotizarme la opción más barata. La calidad ha sido consistente en 12 pedidos."
               name="Marcus T."
               title="CEO, Elevate Eyewear"
               location="Atlanta, EE.UU."
@@ -279,7 +279,7 @@ export default function AboutPageEs() {
               location="Estocolmo, Suecia"
             />
             <TestimonialCard
-              quote="Como startup sin experiencia en gafas, esperaba ser ignorado por las fábricas reales. EyeView trató mi primer pedido de 100 piezas con la misma seriedad que sus clientes grandes. Esa lealtad funciona en ambas direcciones — ahora somos una de sus cuentas más grandes."
+              quote="Como startup sin experiencia en gafas, esperaba ser ignorado por las fábricas reales. EyeView trató mi primer pedido de 100 piezas con la misma seriedad que sus clientes grandes. Esa lealtad funciona en ambas direcciones -- ahora somos una de sus cuentas más grandes."
               name="Priya K."
               title="Fundadora, Dusk & Dawn Eyewear"
               location="Toronto, Canadá"
@@ -306,7 +306,7 @@ export default function AboutPageEs() {
             <ValueCard
               icon="💬"
               title="Comunicación Directa"
-              description="Si algo va a tardar 60 días, decimos 60 días — no 30. Si un material no funciona para tu diseño, te lo decimos antes de que desperdicies dinero en un molde. Sin sorpresas."
+              description="Si algo va a tardar 60 días, decimos 60 días -- no 30. Si un material no funciona para tu diseño, te lo decimos antes de que desperdicies dinero en un molde. Sin sorpresas."
             />
           </div>
         </section>
@@ -316,7 +316,7 @@ export default function AboutPageEs() {
           <h2 className="text-3xl font-bold mb-4">¿Quieres Ver Lo Que Podemos Hacer por Tu Marca?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
             Ya sea que estés lanzando tu primera línea o escalando una marca existente, nos encantaría 
-            conversar. Sin compromiso, sin presión de venta — solo una conversación honesta sobre lo que 
+            conversar. Sin compromiso, sin presión de venta -- solo una conversación honesta sobre lo que 
             es posible.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

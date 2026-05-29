@@ -69,7 +69,7 @@ export default function TrustPage() {
             Trust & Credibility
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We don&apos;t just claim quality — we prove it. Here&apos;s the evidence behind why 500+ brands trust EyeView as their manufacturing partner.
+            We don&apos;t just claim quality -- we prove it. Here&apos;s the evidence behind why 500+ brands trust EyeView as their manufacturing partner.
           </p>
         </div>
 
@@ -78,7 +78,7 @@ export default function TrustPage() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">International Certifications</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Every product we ship meets or exceeds international safety and quality standards. These aren&apos;t badges we collect — they&apos;re requirements we take seriously.
+              Every product we ship meets or exceeds international safety and quality standards. These aren&apos;t badges we collect -- they&apos;re requirements we take seriously.
             </p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -97,7 +97,7 @@ export default function TrustPage() {
             <CertCard
               badge="🏆"
               name="ISO 9001:2015"
-              description="International Quality Management certification. Our entire production process — from raw material sourcing to final inspection — follows ISO 9001 quality management principles."
+              description="International Quality Management certification. Our entire production process -- from raw material sourcing to final inspection -- follows ISO 9001 quality management principles."
               standard="ISO 9001:2015"
             />
             <CertCard
@@ -133,13 +133,13 @@ export default function TrustPage() {
             <QCStep
               number="01"
               title="UV Transmission Testing"
-              description="Every lens batch is tested for UVA/UVB transmission. We verify 100% UV400 protection — blocking all rays up to 400nm."
+              description="Every lens batch is tested for UVA/UVB transmission. We verify 100% UV400 protection -- blocking all rays up to 400nm."
               icon="☀️"
             />
             <QCStep
               number="02"
               title="Impact Resistance"
-              description="Frames and lenses undergo impact testing to ensure they meet ANSI Z80.3 standards. Balls dropped from specified heights — lenses must not crack or shatter."
+              description="Frames and lenses undergo impact testing to ensure they meet ANSI Z80.3 standards. Balls dropped from specified heights -- lenses must not crack or shatter."
               icon="💥"
             />
             <QCStep
@@ -185,7 +185,7 @@ export default function TrustPage() {
           </div>
           <div className="grid md:grid-cols-2 gap-8">
             <TestimonialCard
-              quote="We started with 200 ODM pairs as a test. Three years later, we&apos;re ordering 5,000 custom OEM pairs per quarter. EyeView grew with us — they never pushed us to order more than we were ready for."
+              quote="We started with 200 ODM pairs as a test. Three years later, we&apos;re ordering 5,000 custom OEM pairs per quarter. EyeView grew with us -- they never pushed us to order more than we were ready for."
               name="Rachel M."
               title="Founder"
               company="Coastal Shade Co."
@@ -193,7 +193,7 @@ export default function TrustPage() {
               years="3+ years"
             />
             <TestimonialCard
-              quote="I&apos;d been burned by two other factories before finding EyeView. The difference was immediate — Jacky&apos;s team actually listened to what I needed instead of just quoting me the cheapest option. Quality has been consistent across 12 orders now."
+              quote="I&apos;d been burned by two other factories before finding EyeView. The difference was immediate -- Jacky&apos;s team actually listened to what I needed instead of just quoting me the cheapest option. Quality has been consistent across 12 orders now."
               name="Marcus T."
               title="CEO"
               company="Elevate Eyewear"
@@ -209,7 +209,7 @@ export default function TrustPage() {
               years="4+ years"
             />
             <TestimonialCard
-              quote="As a startup with zero eyewear experience, I expected to be ignored by real factories. EyeView treated my 100-piece first order with the same seriousness as their big clients. That loyalty goes both ways — we&apos;re now one of their bigger accounts."
+              quote="As a startup with zero eyewear experience, I expected to be ignored by real factories. EyeView treated my 100-piece first order with the same seriousness as their big clients. That loyalty goes both ways -- we&apos;re now one of their bigger accounts."
               name="Priya K."
               title="Founder"
               company="Dusk & Dawn Eyewear"
@@ -290,7 +290,7 @@ export default function TrustPage() {
             <EthicsCard
               icon="📋"
               title="Transparent Pricing"
-              description="No hidden fees, no surprise charges. Our quotes include everything — tooling, sampling, packaging, and documentation. What we quote is what you pay."
+              description="No hidden fees, no surprise charges. Our quotes include everything -- tooling, sampling, packaging, and documentation. What we quote is what you pay."
             />
           </div>
         </section>
@@ -300,7 +300,7 @@ export default function TrustPage() {
           <h2 className="text-3xl font-bold mb-4">Ready to See the Quality for Yourself?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
             Order samples and inspect the quality yourself. We&apos;ll send you 5 pairs in different materials 
-            so you can compare side by side — no obligation, no pressure.
+            so you can compare side by side -- no obligation, no pressure.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact" className="btn-primary">

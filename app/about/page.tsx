@@ -54,7 +54,7 @@ export default function AboutPage() {
               <div className="space-y-4 text-gray-600">
                 <p>
                   EyeView started in 2006 in a workshop that was, honestly, not much bigger than a 
-                  two-car garage. It was me — Jacky Chen — and one technician, hand-polishing acetate frames 
+                  two-car garage. It was me -- Jacky Chen -- and one technician, hand-polishing acetate frames 
                   and assembling hinges by hand. Our first &quot;production run&quot; was 200 pairs for a surf shop 
                   in Sydney. I hand-packed every box.
                 </p>
@@ -65,7 +65,7 @@ export default function AboutPage() {
                 </p>
                 <p>
                   Today, we operate a 5,000 m² facility with 5 production lines, 150+ employees, and the 
-                  capacity to produce 10,000 pairs per day. We&apos;ve served over 500 brands in 50+ countries — 
+                  capacity to produce 10,000 pairs per day. We&apos;ve served over 500 brands in 50+ countries -- 
                   from Kickstarter startups ordering 100 pairs to retail chains ordering 50,000. The workshop 
                   is long gone, but the mindset isn&apos;t: every pair still gets inspected like it&apos;s going to 
                   that surf shop in Sydney.
@@ -98,7 +98,7 @@ export default function AboutPage() {
               <p className="text-gray-600">
                 To be the factory that the next generation of great eyewear brands points to and says, 
                 &quot;They helped us get started.&quot; We&apos;ve already helped launch hundreds of brands. 
-                We want to help launch thousands more — and keep the ones we&apos;ve launched growing. 
+                We want to help launch thousands more -- and keep the ones we&apos;ve launched growing. 
                 Your success is our best marketing.
               </p>
             </div>
@@ -133,7 +133,7 @@ export default function AboutPage() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Factory Capabilities</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Our facility is built for flexibility — small runs and large orders, OEM and ODM, 
+              Our facility is built for flexibility -- small runs and large orders, OEM and ODM, 
               simple designs and complex engineering.
             </p>
           </div>
@@ -156,7 +156,7 @@ export default function AboutPage() {
             <CapabilityCard
               icon="🔬"
               title="In-House QC Lab"
-              description="UV transmission testing, impact testing, hinge cycle testing, and dimensional verification — all done on-site before anything ships."
+              description="UV transmission testing, impact testing, hinge cycle testing, and dimensional verification -- all done on-site before anything ships."
             />
             <CapabilityCard
               icon="🎨"
@@ -177,7 +177,7 @@ export default function AboutPage() {
             <h2 className="text-3xl font-bold mb-4">Certifications & Compliance</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Every product we ship meets international safety and quality standards. 
-              These aren&apos;t badges we collect — they&apos;re requirements we take seriously.
+              These aren&apos;t badges we collect -- they&apos;re requirements we take seriously.
             </p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
@@ -251,13 +251,13 @@ export default function AboutPage() {
           </div>
           <div className="grid md:grid-cols-2 gap-8">
             <TestimonialCard
-              quote="We started with 200 ODM pairs as a test. Three years later, we're ordering 5,000 custom OEM pairs per quarter. EyeView grew with us — they never pushed us to order more than we were ready for."
+              quote="We started with 200 ODM pairs as a test. Three years later, we're ordering 5,000 custom OEM pairs per quarter. EyeView grew with us -- they never pushed us to order more than we were ready for."
               name="Rachel M."
               title="Founder, Coastal Shade Co."
               location="Melbourne, Australia"
             />
             <TestimonialCard
-              quote="I'd been burned by two other factories before finding EyeView. The difference was immediate — Jacky's team actually listened to what I needed instead of just quoting me the cheapest option. Quality has been consistent across 12 orders now."
+              quote="I'd been burned by two other factories before finding EyeView. The difference was immediate -- Jacky's team actually listened to what I needed instead of just quoting me the cheapest option. Quality has been consistent across 12 orders now."
               name="Marcus T."
               title="CEO, Elevate Eyewear"
               location="Atlanta, USA"
@@ -269,7 +269,7 @@ export default function AboutPage() {
               location="Stockholm, Sweden"
             />
             <TestimonialCard
-              quote="As a startup with zero eyewear experience, I expected to be ignored by real factories. EyeView treated my 100-piece first order with the same seriousness as their big clients. That loyalty goes both ways — we're now one of their bigger accounts."
+              quote="As a startup with zero eyewear experience, I expected to be ignored by real factories. EyeView treated my 100-piece first order with the same seriousness as their big clients. That loyalty goes both ways -- we're now one of their bigger accounts."
               name="Priya K."
               title="Founder, Dusk & Dawn Eyewear"
               location="Toronto, Canada"
@@ -296,7 +296,7 @@ export default function AboutPage() {
             <ValueCard
               icon="💬"
               title="Straight Talk"
-              description="If something will take 60 days, we say 60 days — not 30. If a material won't work for your design, we tell you before you waste money on a mold. No surprises."
+              description="If something will take 60 days, we say 60 days -- not 30. If a material won't work for your design, we tell you before you waste money on a mold. No surprises."
             />
           </div>
         </section>
@@ -362,7 +362,7 @@ export default function AboutPage() {
           <h2 className="text-3xl font-bold mb-4">Want to See What We Can Do for Your Brand?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
             Whether you&apos;re launching your first line or scaling an existing brand, we&apos;d love to talk. 
-            No obligation, no hard sell — just an honest conversation about what&apos;s possible.
+            No obligation, no hard sell -- just an honest conversation about what&apos;s possible.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact" className="btn-primary">

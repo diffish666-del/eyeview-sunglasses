@@ -96,7 +96,7 @@ export default function CertificationsPageFr() {
               "name": "Puis-je usar sus certificados para el marketing de mi propia marque?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Oui. Quand nous fabriquons lunettes de soleil bajo votre marque (OEM/ODM), tous los certificados e informes de pruebas se emiten para el nombre de votre marque et las spécifications de votre produit. Puedes usar estos certificados en vos matériaux de marketing, emballage retail et documentation de conformité. Nonsautres nous encargamos de todo el papeleo — solo necesitas decirnos los detalles de votre marque."
+                "text": "Oui. Quand nous fabriquons lunettes de soleil bajo votre marque (OEM/ODM), tous los certificados e informes de pruebas se emiten para el nombre de votre marque et las spécifications de votre produit. Puedes usar estos certificados en vos matériaux de marketing, emballage retail et documentation de conformité. Nonsautres nous encargamos de todo el papeleo -- solo necesitas decirnos los detalles de votre marque."
               }
             }
           ]
@@ -109,7 +109,7 @@ export default function CertificationsPageFr() {
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Aprendí par las malas par qué el conformité importa. Hace unos ans, uno de notres clients 
-            tuvo un expédition de 8,000 paires confiscado dans la aduana de Hamburgo — no parce qui las lunettes fueran 
+            tuvo un expédition de 8,000 paires confiscado dans la aduana de Hamburgo -- no parce qui las lunettes fueran 
             malas, sino parce qui son fournisseur anterior no había proporcionado la documentation CE adecuada. 
             Ocho mil paires, sentados en un almacén, invendibles. Ese client vino a nosautres, et nous asûremos 
             de qui jamais volviera a pasar. Chaque paire qui nous expédions sale de notre{' '}
@@ -140,7 +140,7 @@ export default function CertificationsPageFr() {
               icon="🇪🇺"
               name="Certifié CE"
               standard="EN ISO 12312-1:2013"
-              description="Si vendes en Europa, el marquedo CE no est opcional — est la ley. Nuestras lunettes de soleil cumplen avec EN ISO 12312-1:2013, cubriendo protection UV, qualité óptica, résistance mecánica etiquetado. Chaque expédition à la UE incluye une Declaration de Conformidad. Sin plus sorpresas tipo Hamburgo."
+              description="Si vendes en Europa, el marquedo CE no est opcional -- est la ley. Nuestras lunettes de soleil cumplen avec EN ISO 12312-1:2013, cubriendo protection UV, qualité óptica, résistance mecánica etiquetado. Chaque expédition à la UE incluye une Declaration de Conformidad. Sin plus sorpresas tipo Hamburgo."
               link="https://single-market-economy.ec.europa.eu/single-market/ce-marking_en"
               linkText="Más Sur el Marquedo CE →"
             />
@@ -148,7 +148,7 @@ export default function CertificationsPageFr() {
               icon="🏭"
               name="ISO 9001:2015"
               standard="Sistema de Gestión de Qualité"
-              description="Todo notre proceso de fabrication — depuis la inspection de matrias primas jusqu'à el emballage final — opera bajo un sistema de gestión de qualité certificado ISO 9001:2015. Esto significa procedimientos documentados, auditorías internas regulares et meilleura continua. Non est emocionante, mais est la razón par la qui notre tasa de defectos se mantiene par debajo du 0.5%."
+              description="Todo notre proceso de fabrication -- depuis la inspection de matrias primas jusqu'à el emballage final -- opera bajo un sistema de gestión de qualité certificado ISO 9001:2015. Esto significa procedimientos documentados, auditorías internas regulares et meilleura continua. Non est emocionante, mais est la razón par la qui notre tasa de defectos se mantiene par debajo du 0.5%."
               link="https://www.iso.org/iso-9001-quality-management.html"
               linkText="Sur ISO 9001 →"
             />
@@ -158,7 +158,7 @@ export default function CertificationsPageFr() {
               standard="100% Bloqueo UVA/UVB"
               description={<>
                 UV400 significa qui notres verres bloquean tous los rayos de luz avec longitudes de onda 
-                de jusqu'à 400 nanómetros — eso cubre el 100% de la radiation UVA (315–400nm) et UVB (280–315nm). 
+                de jusqu'à 400 nanómetros -- eso cubre el 100% de la radiation UVA (315-400nm) et UVB (280-315nm). 
                 Probamos chaque lote de verres avec un espectrofotómetro antes de qui continúe la production. 
                 Si un lote no alcanza UV400, se rechaza. Punto. Conoce plus sur cómo probamos en notre{' '}
                 <Link href="/fr/produits/polarise" className="text-primary-600 hovoir:underline">guía de verres</Link>.
@@ -171,7 +171,7 @@ export default function CertificationsPageFr() {
               description={<>
                 ANSI Z80.3 est el Nonrme Nacional Americano para lunettes de soleil sin prescripción. Cubre 
                 qualité óptica, transmitancia UV, résistance au impact e inflamabilidad. Aunque no est 
-                legalmente requerido comme el registro FDA, los principales détaillants de EE.UU. le esperan — 
+                legalmente requerido comme el registro FDA, los principales détaillants de EE.UU. le esperan -- 
                 et nosautres le cumplimos. Nuestras{' '}
                 <Link href="/fr/produits/polarise" className="text-primary-600 hovoir:underline">verres polarisées</Link> se 
                 prueban según las spécifications ANSI Z80.3 para claridad óptica et eficiencia de polarisation.
@@ -211,7 +211,7 @@ export default function CertificationsPageFr() {
             <InspectionCard
               step={1}
               title="Prueba de Transmisión UV"
-              description="Chaque lote de verres se prueba avec un espectrofotómetro para voirificar los niveles de protection UV400. Medimos la transmitancia en todo el espectro UV (280–400nm). Cualquier lote qui no bloquee el 99.9%+ de la radiation UV se rechaza — sin retrabajo, sin excepciones."
+              description="Chaque lote de verres se prueba avec un espectrofotómetro para voirificar los niveles de protection UV400. Medimos la transmitancia en todo el espectro UV (280-400nm). Cualquier lote qui no bloquee el 99.9%+ de la radiation UV se rechaza -- sin retrabajo, sin excepciones."
             />
             <InspectionCard
               step={2}
@@ -221,12 +221,12 @@ export default function CertificationsPageFr() {
             <InspectionCard
               step={3}
               title="Prueba de Ciclos de Bisagra"
-              description="Abrimos et cerramos chaque design de charnière plus de 2,000 veces usando equipos de prueba automatizados para simular ans de uso diario. Bisagras de resorte, charnières de barril, charnières flex — chaque tipo tiene son propio requisito de conteo de ciclos. Bisagras sueltas ou duras significan un redesign, no une aprobation."
+              description="Abrimos et cerramos chaque design de charnière plus de 2,000 veces usando equipos de prueba automatizados para simular ans de uso diario. Bisagras de resorte, charnières de barril, charnières flex -- chaque tipo tiene son propio requisito de conteo de ciclos. Bisagras sueltas ou duras significan un redesign, no une aprobation."
             />
             <InspectionCard
               step={4}
               title="Voirification Dimensional"
-              description="Las dimensiones du monture se miden contra la hoja de spécifications original usando calibres digitales et comparadores ópticos. Longitud de branche, ancho de pont, altura de lente — chaque medida debe estar dentro de la tolerancia de ±0.5mm. Así est comme asûremos la consistencia de tallas entre producciones."
+              description="Las dimensiones du monture se miden contra la hoja de spécifications original usando calibres digitales et comparadores ópticos. Longitud de branche, ancho de pont, altura de lente -- chaque medida debe estar dentro de la tolerancia de ±0.5mm. Así est comme asûremos la consistencia de tallas entre producciones."
             />
             <InspectionCard
               step={5}
@@ -253,7 +253,7 @@ export default function CertificationsPageFr() {
             <div>
               <h2 className="text-3xl font-bold mb-6">Lo Que Se Envía Con Chaque Commande</h2>
               <p className="text-gray-600 mb-6">
-                La documentation de conformité no est algo secundario — est pairete de notre proceso de 
+                La documentation de conformité no est algo secundario -- est pairete de notre proceso de 
                 production. Chaque expédition sale de notre{' '}
                 <Link href="/fr/a-propos" className="text-primary-600 hovoir:underline">usine</Link> avec 
                 un paquete de documentation complet. Votre agente aduanero et socios retail tendrán 
@@ -278,7 +278,7 @@ export default function CertificationsPageFr() {
                 />
                 <DocumentItem
                   title="Hojas de Datos de Sécurité de Matériaux"
-                  description="MSDS para tous los matériaux usados en production — matériaux de monture, revêtements de verres, componentes de charnière, matériaux de emballage. Esenciales para el conformité de importation en muchos marchés."
+                  description="MSDS para tous los matériaux usados en production -- matériaux de monture, revêtements de verres, componentes de charnière, matériaux de emballage. Esenciales para el conformité de importation en muchos marchés."
                 />
               </ul>
             </div>
@@ -299,7 +299,7 @@ export default function CertificationsPageFr() {
             <h2 className="text-3xl font-bold mb-4">Questions Fréquentes</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Estas sont las preguntas de conformité qui escuchamos avec plus frecuencia de nouveaus clients. 
-              Si la tuya no está ici, solo pregunta — estamos encantados de ser específicos.
+              Si la tuya no está ici, solo pregunta -- estamos encantados de ser específicos.
             </p>
           </div>
           <div className="max-w-3xl mx-auto space-y-6">
@@ -313,7 +313,7 @@ export default function CertificationsPageFr() {
             />
             <FAQItem
               question="Qué nivel de protection UV proporcionan sus verres?"
-              answer="Toutes las verres EyeView proporcionan protection UV400, qui bloquea el 99.9–100% de la radiation UVA et UVB jusqu'à 400 nanómetros. Esta est la clasification de protection UV plus alta disponible para lunettes de soleil. Chaque lote de verres se prueba avec un espectrofotómetro para voirificar los niveles de transmisión UV antes de qui continúe la production."
+              answer="Toutes las verres EyeView proporcionan protection UV400, qui bloquea el 99.9-100% de la radiation UVA et UVB jusqu'à 400 nanómetros. Esta est la clasification de protection UV plus alta disponible para lunettes de soleil. Chaque lote de verres se prueba avec un espectrofotómetro para voirificar los niveles de transmisión UV antes de qui continúe la production."
             />
             <FAQItem
               question="Proposez-vous informes de pruebas de terceros?"
@@ -325,7 +325,7 @@ export default function CertificationsPageFr() {
             />
             <FAQItem
               question="Puis-je usar sus certificados para el marketing de mi propia marque?"
-              answer="Oui. Quand nous fabriquons lunettes de soleil bajo votre marque (OEM/ODM), tous los certificados e informes de pruebas se emiten para el nombre de votre marque et las spécifications de votre produit. Puedes usarlos en vos matériaux de marketing, emballage retail et documentation de conformité. Nonsautres nous encargamos de todo el papeleo — solo necesitas decirnos los detalles de votre marque."
+              answer="Oui. Quand nous fabriquons lunettes de soleil bajo votre marque (OEM/ODM), tous los certificados e informes de pruebas se emiten para el nombre de votre marque et las spécifications de votre produit. Puedes usarlos en vos matériaux de marketing, emballage retail et documentation de conformité. Nonsautres nous encargamos de todo el papeleo -- solo necesitas decirnos los detalles de votre marque."
             />
           </div>
         </section>
@@ -335,7 +335,7 @@ export default function CertificationsPageFr() {
           <h2 className="text-3xl font-bold mb-4">Necesitas Documentation de Conformité?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
             Ya sea qui necesites informes de pruebas para un commande existente, certificados para un nouveau 
-            marché, ou simplemente quieras entender qué documentation necesitarás — contactez-nous. Te 
+            marché, ou simplemente quieras entender qué documentation necesitarás -- contactez-nous. Te 
             conseguiremos la documentation correcta, rápido.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

@@ -20,28 +20,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$5.50 - $8.50',
     moq: '100 pzas',
-    description: 'Seamos honestos — los bebés mastican todo. Por eso estos armazones están hechos de silicona de grado alimenticio, el mismo material de las tetinas de biberón. Literalmente podrías ponértelos en la boca (tu bebé lo hará). Completamente libres de BPA, ftalatos, y lo suficientemente suaves para no pinchar ni pellizcar. La correa ajustable los mantiene en su lugar incluso cuando tu pequeño está decidido a quitárselos. Lo cual hará. Repetidamente.',
+    description: 'Seamos honestos -- los bebés mastican todo. Por eso estos armazones están hechos de silicona de grado alimenticio, el mismo material de las tetinas de biberón. Literalmente podrías ponértelos en la boca (tu bebé lo hará). Completamente libres de BPA, ftalatos, y lo suficientemente suaves para no pinchar ni pellizcar. La correa ajustable los mantiene en su lugar incluso cuando tu pequeño está decidido a quitárselos. Lo cual hará. Repetidamente.',
   },
   {
     name: 'Gafas de Sol para Niños Pequeños (3-5 años)',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$6.00 - $9.00',
     moq: '100 pzas',
-    description: '¿Sabes qué les pasa a las gafas de sol de niños pequeños? Las pisan, se sientan sobre ellas, las lanzan por la habitación y las entierran en el arenero. Por eso las fabricamos con TPE — un material flexible que se dobla, tuerce y aguanta todo tipo de abuso, y luego vuelve a su forma original. Disponibles en más de 15 colores porque aparentemente todo niño de 4 años tiene una opinión muy firme sobre su color favorito. (Generalmente es rosa. O verde dinosaurio.)',
+    description: '¿Sabes qué les pasa a las gafas de sol de niños pequeños? Las pisan, se sientan sobre ellas, las lanzan por la habitación y las entierran en el arenero. Por eso las fabricamos con TPE -- un material flexible que se dobla, tuerce y aguanta todo tipo de abuso, y luego vuelve a su forma original. Disponibles en más de 15 colores porque aparentemente todo niño de 4 años tiene una opinión muy firme sobre su color favorito. (Generalmente es rosa. O verde dinosaurio.)',
   },
   {
     name: 'Gafas de Sol Deportivas para Niños (6-9 años)',
     image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=400&fit=crop',
     price: '$7.00 - $10.00',
     moq: '100 pzas',
-    description: 'Para el niño que siempre está afuera — práctica de fútbol, clases de natación, paseos en bicicleta por el vecindario. Son versiones reducidas de nuestros armazones deportivos para adultos con armazones flexibles de TR90 y cobertura envolvente. Opción polarizada disponible para viajes a la playa y días de nieve. Una liga deportiva juvenil en California ordenó 800 pares el año pasado para su programa de verano. Su comentario: "Por fin, gafas deportivas que realmente le quedan a los niños."',
+    description: 'Para el niño que siempre está afuera -- práctica de fútbol, clases de natación, paseos en bicicleta por el vecindario. Son versiones reducidas de nuestros armazones deportivos para adultos con armazones flexibles de TR90 y cobertura envolvente. Opción polarizada disponible para viajes a la playa y días de nieve. Una liga deportiva juvenil en California ordenó 800 pares el año pasado para su programa de verano. Su comentario: "Por fin, gafas deportivas que realmente le quedan a los niños."',
   },
   {
     name: 'Gafas de Moda Ojo de Gato para Niñas (6-10 años)',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$7.00 - $10.00',
     moq: '100 pzas',
-    description: 'Mini ojos de gato para niñas que quieren verse como Mamá (o su YouTuber favorita). Acentos brillantes, colores pastel, decoraciones de corazón en las patillas — todo lo que hace que una niña de 7 años grite "¡ME ENCANTAN!" Los mismos estándares de seguridad que todos nuestros armazones infantiles, solo que con mucha más purpurina. Son verdaderas estrellas en boutiques infantiles y tiendas de resorts de playa.',
+    description: 'Mini ojos de gato para niñas que quieren verse como Mamá (o su YouTuber favorita). Acentos brillantes, colores pastel, decoraciones de corazón en las patillas -- todo lo que hace que una niña de 7 años grite "¡ME ENCANTAN!" Los mismos estándares de seguridad que todos nuestros armazones infantiles, solo que con mucha más purpurina. Son verdaderas estrellas en boutiques infantiles y tiendas de resorts de playa.',
   },
   {
     name: 'Aviador para Niños (8-12 años)',
@@ -55,7 +55,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 pzas',
-    description: 'Para los atletas junior que se toman su deporte en serio. Las lentes polarizadas TAC cortan el resplandor del agua, la nieve y el pavimento — una diferencia real para niños en natación, esquí o pescando con papá. Estos son nuestros armazones premium para niños y los que los padres piden específicamente cuando quieren la mejor protección que el dinero puede comprar. Una escuela de natación en Sídney los usa exclusivamente para sus clases al aire libre.',
+    description: 'Para los atletas junior que se toman su deporte en serio. Las lentes polarizadas TAC cortan el resplandor del agua, la nieve y el pavimento -- una diferencia real para niños en natación, esquí o pescando con papá. Estos son nuestros armazones premium para niños y los que los padres piden específicamente cuando quieren la mejor protección que el dinero puede comprar. Una escuela de natación en Sídney los usa exclusivamente para sus clases al aire libre.',
   },
 ]
 
@@ -81,7 +81,7 @@ export default function KidsPageEs() {
             Los padres no se andan con juegos cuando se trata de los ojos de sus hijos. Nosotros tampoco.
             Cada par es libre de BPA, certificado UV400, y cumple con los estándares de seguridad
             CPSIA, ASTM F963 y EN71. Armazones flexibles que sobreviven al caos infantil. Protección UV
-            real — no solo plástico tintado. Edades 0-12, desde $5.50.
+            real -- no solo plástico tintado. Edades 0-12, desde $5.50.
           </p>
         </div>
 
@@ -103,7 +103,7 @@ export default function KidsPageEs() {
               de los 10 años, el cristalino de un niño transmite más del 75% de los rayos UV-A y el 70% de los
               rayos UV-B directamente a la retina. ¿El cristalino de un adulto? Solo alrededor del 10%. Eso
               significa que los ojos de tu hijo absorben aproximadamente 6-7 veces más daño UV en el mismo día
-              soleado. Y aquí viene la parte preocupante — la <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">OMS dice que hasta el 80%</a> de la exposición
+              soleado. Y aquí viene la parte preocupante -- la <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">OMS dice que hasta el 80%</a> de la exposición
               UV de toda la vida de una persona ocurre antes de los 18 años.
             </p>
             <p>
@@ -114,7 +114,7 @@ export default function KidsPageEs() {
             </p>
             <p>
               Exactamente por eso nos tomamos las gafas de sol para niños tan en serio. Cada par que fabricamos
-              es probado en laboratorio para cumplir con UV400 — lo que significa que bloquean el 99.9% de la
+              es probado en laboratorio para cumplir con UV400 -- lo que significa que bloquean el 99.9% de la
               radiación UV hasta 400 nanómetros. Proporcionamos los informes de prueba. Tenemos las
               certificaciones. Cuando un padre toma un par de nuestras gafas de sol para niños, puede confiar
               en que los ojos de su hijo están realmente protegidos. No solo sombreados. Protegidos.
@@ -166,7 +166,7 @@ export default function KidsPageEs() {
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🇺🇸</div>
               <h3 className="font-bold mb-2">CPSIA</h3>
-              <p className="text-sm text-gray-600">La más importante para el mercado de EE.UU. Plomo por debajo de 100ppm, cero ftalatos. Si vendes productos infantiles en América, <a href="https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">esto no es opcional — es la ley</a>. Lo tenemos cubierto.</p>
+              <p className="text-sm text-gray-600">La más importante para el mercado de EE.UU. Plomo por debajo de 100ppm, cero ftalatos. Si vendes productos infantiles en América, <a href="https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">esto no es opcional -- es la ley</a>. Lo tenemos cubierto.</p>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🇺🇸</div>
@@ -181,7 +181,7 @@ export default function KidsPageEs() {
             <div className="bg-white rounded-xl p-6 shadow-sm text-center">
               <div className="text-4xl mb-3">🌍</div>
               <h3 className="font-bold mb-2">CE & FDA</h3>
-              <p className="text-sm text-gray-600">CE para Europa, FDA para el mercado óptico de EE.UU. Ambos verifican que nuestras afirmaciones de protección UV son reales — no solo etiquetas de marketing en armazones baratos.</p>
+              <p className="text-sm text-gray-600">CE para Europa, FDA para el mercado óptico de EE.UU. Ambos verifican que nuestras afirmaciones de protección UV son reales -- no solo etiquetas de marketing en armazones baratos.</p>
             </div>
           </div>
         </section>
@@ -194,7 +194,7 @@ export default function KidsPageEs() {
               <h3 className="text-xl font-semibold mb-4">🍼 Silicona de Grado Alimenticio (0-3 Años)</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 El mismo material de las tetinas de biberón y los mordedores. Si es seguro para
-                ir a la boca de un bebé — y va a ir a su boca, garantizado — es seguro para
+                ir a la boca de un bebé -- y va a ir a su boca, garantizado -- es seguro para
                 las gafas de sol. Infinitamente doblables, imposiblemente suaves, libres de BPA,
                 ftalatos, PVC y látex. No irritan la piel sensible del bebé. Diseñamos estas
                 para el padre que se preocupa por todo. (Lo entendemos. Nosotros también somos padres.)
@@ -217,7 +217,7 @@ export default function KidsPageEs() {
                 Para los niños mayores que practican deportes, andan en bicicleta y generalmente
                 son rudos con todo lo que poseen. El TR90 es un 35% más ligero que el plástico
                 regular, se flexiona sin romperse, y soporta temperaturas de -40°C a 120°C (así
-                que sí, sobrevive al ser olvidado en un auto caliente). Hipoalergénico también —
+                que sí, sobrevive al ser olvidado en un auto caliente). Hipoalergénico también --
                 sin marcas rojas con comezón detrás de las orejas después de un largo día afuera.
               </p>
             </div>
@@ -267,7 +267,7 @@ export default function KidsPageEs() {
             <Link href="/es/productos/deportivo" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🏃</div>
               <h3 className="font-semibold mb-2">Gafas Deportivas</h3>
-              <p className="text-sm text-gray-600">Armazones deportivos para adultos — ¡padres e hijos pueden combinar!</p>
+              <p className="text-sm text-gray-600">Armazones deportivos para adultos -- ¡padres e hijos pueden combinar!</p>
             </Link>
             <Link href="/es/productos/polarizado" className="card p-6 text-center hover:shadow-lg transition-shadow">
               <div className="text-4xl mb-3">🔆</div>
@@ -288,27 +288,27 @@ export default function KidsPageEs() {
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="¿A qué edad es demasiado pronto para las gafas de sol?"
-              answer="La Academia Americana de Oftalmología dice que a los 6 meses. Antes de eso, mantén a los bebés en la sombra con sombreros y toldos de cochecito. Pero una vez que tienen 6 meses y pasan tiempo al aire libre, sus ojos necesitan protección UV. Sabemos que suena temprano — pero recuerda, sus ojitos dejan pasar 6-7 veces más UV que los tuyos. Cuanto antes empieces, mejor."
+              answer="La Academia Americana de Oftalmología dice que a los 6 meses. Antes de eso, mantén a los bebés en la sombra con sombreros y toldos de cochecito. Pero una vez que tienen 6 meses y pasan tiempo al aire libre, sus ojos necesitan protección UV. Sabemos que suena temprano -- pero recuerda, sus ojitos dejan pasar 6-7 veces más UV que los tuyos. Cuanto antes empieces, mejor."
             />
             <FaqItem
               question="¿Son realmente protectoras o solo bonitas?"
-              answer="¡Las dos cosas! Pero la protección va primero. Cada par bloquea el 99.9% de la radiación UV hasta 400 nanómetros — verificado por pruebas de laboratorio independientes. Te enviamos los informes de prueba si los quieres. Cuidado con las gafas de sol baratas para niños que son solo plástico oscuro tintado sin filtro UV. Esas en realidad empeoran las cosas al dilatar las pupilas y dejar entrar más rayos dañinos. Nuestras gafas son bonitas Y seguras."
+              answer="¡Las dos cosas! Pero la protección va primero. Cada par bloquea el 99.9% de la radiación UV hasta 400 nanómetros -- verificado por pruebas de laboratorio independientes. Te enviamos los informes de prueba si los quieres. Cuidado con las gafas de sol baratas para niños que son solo plástico oscuro tintado sin filtro UV. Esas en realidad empeoran las cosas al dilatar las pupilas y dejar entrar más rayos dañinos. Nuestras gafas son bonitas Y seguras."
             />
             <FaqItem
               question="Mi hijo destruye todo. ¿Sobrevivirán estas?"
-              answer="Literalmente las diseñamos para eso. ¿Los armazones de silicona para bebés? Infinitamente doblables. ¿Los armazones de TPE para niños pequeños? Los probamos para sobrevivir más de 500 ciclos de flexión y caídas desde 1.5 metros. ¿Los armazones de TR90 para niños mayores? Dóblalos 90 grados — vuelven a su posición. No podemos prometer que sean 100% indestructibles (los niños son creativos), pero son los armazones más resistentes que sabemos hacer."
+              answer="Literalmente las diseñamos para eso. ¿Los armazones de silicona para bebés? Infinitamente doblables. ¿Los armazones de TPE para niños pequeños? Los probamos para sobrevivir más de 500 ciclos de flexión y caídas desde 1.5 metros. ¿Los armazones de TR90 para niños mayores? Dóblalos 90 grados -- vuelven a su posición. No podemos prometer que sean 100% indestructibles (los niños son creativos), pero son los armazones más resistentes que sabemos hacer."
             />
             <FaqItem
               question="¿Qué certificaciones tienen? Necesito saberlo para mi tienda."
-              answer="Todo lo que necesitas: CPSIA (obligatorio para productos infantiles en EE.UU. — plomo bajo 100ppm, cero ftalatos), ASTM F963 (seguridad de juguetes de EE.UU.), EN71 (seguridad de juguetes de la UE), marcado CE, y estándares ópticos FDA. Proporcionamos documentación completa de certificación con cada pedido al por mayor. Si aduanas hace preguntas, tendrás el papeleo listo."
+              answer="Todo lo que necesitas: CPSIA (obligatorio para productos infantiles en EE.UU. -- plomo bajo 100ppm, cero ftalatos), ASTM F963 (seguridad de juguetes de EE.UU.), EN71 (seguridad de juguetes de la UE), marcado CE, y estándares ópticos FDA. Proporcionamos documentación completa de certificación con cada pedido al por mayor. Si aduanas hace preguntas, tendrás el papeleo listo."
             />
             <FaqItem
               question="¿Puedo personalizarlas con nuestra marca o personajes de caricatura?"
-              answer="Totalmente. Colores personalizados (más de 20 estándar más coincidencia Pantone), diseños de personajes en las patillas, tu logotipo de marca, armazones con purpurina, patillas que brillan en la oscuridad — lo que quieras. MOQ para diseños personalizados es de 300 piezas por estilo. Hemos hecho colaboraciones de personajes con licencia, diseños de mascotas escolares, e incluso sets combinados padre-hijo. Solo envíanos tu idea y te haremos un mock-up."
+              answer="Totalmente. Colores personalizados (más de 20 estándar más coincidencia Pantone), diseños de personajes en las patillas, tu logotipo de marca, armazones con purpurina, patillas que brillan en la oscuridad -- lo que quieras. MOQ para diseños personalizados es de 300 piezas por estilo. Hemos hecho colaboraciones de personajes con licencia, diseños de mascotas escolares, e incluso sets combinados padre-hijo. Solo envíanos tu idea y te haremos un mock-up."
             />
             <FaqItem
               question="¿Las gafas de sol para bebés vienen con correas?"
-              answer="Sí — correas de neopreno ajustables desmontables, ajustables de 14cm a 18cm. Suaves con la piel del bebé, lo suficientemente seguras para mantenerse en un bebé inquieto. Para armazones de niños pequeños (3-5 años), ofrecemos accesorios de correa opcionales que se enganchan y desenganchan. La mayoría de los padres usan la correa hasta los 3-4 años, luego cambian a patillas regulares una vez que el niño es lo suficientemente grande para mantenerlas puestas."
+              answer="Sí -- correas de neopreno ajustables desmontables, ajustables de 14cm a 18cm. Suaves con la piel del bebé, lo suficientemente seguras para mantenerse en un bebé inquieto. Para armazones de niños pequeños (3-5 años), ofrecemos accesorios de correa opcionales que se enganchan y desenganchan. La mayoría de los padres usan la correa hasta los 3-4 años, luego cambian a patillas regulares una vez que el niño es lo suficientemente grande para mantenerlas puestas."
             />
           </div>
         </section>
@@ -318,7 +318,7 @@ export default function KidsPageEs() {
           <h2 className="text-3xl font-bold mb-4">Protege los Ojitos. Gana la Confianza de los Padres.</h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
             Boutiques infantiles, jugueterías, consultorios pediátricos, campamentos de verano, resorts
-            de playa, tiendas de útiles escolares — nuestras gafas de sol para niños se venden en todos
+            de playa, tiendas de útiles escolares -- nuestras gafas de sol para niños se venden en todos
             los lugares donde compran los padres. Documentación completa de seguridad incluida. Muestras
             gratuitas disponibles.
           </p>
@@ -366,12 +366,12 @@ export default function KidsPageEs() {
           {
             "@type": "Question",
             "name": "¿Puedo personalizar las gafas de sol para niños con logotipos de marca o personajes?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Sí — colores personalizados, diseños de personajes, logotipos de marca, armazones con purpurina, patillas que brillan en la oscuridad. MOQ para diseños personalizados es de 300 piezas por estilo." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Sí -- colores personalizados, diseños de personajes, logotipos de marca, armazones con purpurina, patillas que brillan en la oscuridad. MOQ para diseños personalizados es de 300 piezas por estilo." }
           },
           {
             "@type": "Question",
             "name": "¿Las gafas de sol para bebés vienen con correas para la cabeza?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Sí — correas de neopreno ajustables desmontables (14-18cm). Los armazones para niños pequeños tienen correas opcionales con clip. La mayoría de los padres usan correas hasta los 3-4 años." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Sí -- correas de neopreno ajustables desmontables (14-18cm). Los armazones para niños pequeños tienen correas opcionales con clip. La mayoría de los padres usan correas hasta los 3-4 años." }
           }
         ]
       })}} />

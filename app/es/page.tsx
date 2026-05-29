@@ -35,7 +35,7 @@ const features = [
   {
     emoji: '🎨',
     title: 'Personalización Total',
-    description: 'Desde el diseño del armazón y el color de las lentes hasta el grabado del logo y el empaque personalizado — hacemos realidad tu visión de gafas de sol con capacidades completas de fabricación OEM y ODM.',
+    description: 'Desde el diseño del armazón y el color de las lentes hasta el grabado del logo y el empaque personalizado -- hacemos realidad tu visión de gafas de sol con capacidades completas de fabricación OEM y ODM.',
   },
   {
     emoji: '💰',
@@ -55,7 +55,7 @@ const features = [
   {
     emoji: '📦',
     title: 'Pedido Mínimo Bajo',
-    description: 'Comienza con tan solo 50 piezas por estilo — perfecto para nuevas marcas probando el mercado, tiendas boutique y campañas promocionales. Sin compromisos de inventario masivos.',
+    description: 'Comienza con tan solo 50 piezas por estilo -- perfecto para nuevas marcas probando el mercado, tiendas boutique y campañas promocionales. Sin compromisos de inventario masivos.',
   },
   {
     emoji: '🌍',
@@ -79,7 +79,7 @@ const products = [
 ];
 
 const steps = [
-  { step: '01', title: 'Consulta Inicial', description: 'Comparte tus requisitos — estilo, cantidad, necesidades de personalización y presupuesto. Nuestro equipo ofrece orientación experta para ayudarte a elegir los productos adecuados para tu mercado.' },
+  { step: '01', title: 'Consulta Inicial', description: 'Comparte tus requisitos -- estilo, cantidad, necesidades de personalización y presupuesto. Nuestro equipo ofrece orientación experta para ayudarte a elegir los productos adecuados para tu mercado.' },
   { step: '02', title: 'Diseño y Muestreo', description: 'Creamos diseños detallados basados en tus especificaciones. Recibe muestras físicas en 5-7 días hábiles para tu revisión y aprobación antes de la producción en masa.' },
   { step: '03', title: 'Aprobación y Producción', description: 'Una vez que apruebes las muestras, iniciamos la producción a gran escala. Nuestra capacidad maneja pedidos de 50 a 100,000+ piezas con control de calidad constante.' },
   { step: '04', title: 'Inspección de Calidad', description: 'Cada lote pasa por una inspección de calidad integral de 6 puntos incluyendo pruebas de protección UV, durabilidad de bisagras, claridad de lentes y alineación de armazones.' },
@@ -117,7 +117,7 @@ const faqs = [
   },
   {
     question: '¿Cómo empiezo con un pedido de gafas de sol al por mayor?',
-    answer: 'Comenzar es sencillo: 1) Contáctanos por email a jacky@eyeviewsunglasses.com o WhatsApp al +86-18850281211 con tus requisitos. 2) Nuestro equipo proporcionará una cotización detallada en 24 horas. 3) Revisa y aprueba las muestras. 4) Realiza tu pedido y nosotros nos encargamos del resto. Damos la bienvenida tanto a compradores primerizos como a marcas establecidas.',
+    answer: 'Comenzar es sencillo: 1) Contáctanos por email a sales@eyeviewsunglasses.com o WhatsApp al +86-18850281211 con tus requisitos. 2) Nuestro equipo proporcionará una cotización detallada en 24 horas. 3) Revisa y aprueba las muestras. 4) Realiza tu pedido y nosotros nos encargamos del resto. Damos la bienvenida tanto a compradores primerizos como a marcas establecidas.',
   },
 ];
 
@@ -137,7 +137,7 @@ const howToJsonLd = {
       '@type': 'HowToStep',
       position: 1,
       name: 'Consulta Inicial',
-      text: 'Comparte tus requisitos — estilo, cantidad, necesidades de personalización y presupuesto. Nuestro equipo ofrece orientación experta.',
+      text: 'Comparte tus requisitos -- estilo, cantidad, necesidades de personalización y presupuesto. Nuestro equipo ofrece orientación experta.',
       url: 'https://eyeviewsunglasses.com/es/contacto/',
     },
     {

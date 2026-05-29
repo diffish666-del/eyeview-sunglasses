@@ -1,13 +1,13 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
-export const metadata: Metadata = { title: 'Guía de Recubrimientos para Gafas de Sol: Espejo, Antirreflejo, Hidrofóbico y Más', description: 'Un dueño de fábrica desglosa cada tipo de recubrimiento para gafas — espejo, AR, hidrofóbico, oleofóbico, antivaho, endurecido, filtro de luz azul. Costos reales por par y qué recubrimientos combinar.', keywords: 'recubrimientos gafas de sol, recubrimiento espejo, antirreflejo gafas, hidrofóbico lentes, oleofóbico, antivaho gafas, endurecido lentes, filtro luz azul', alternates: { canonical: '/es/blog/guia-recubrimientos-gafas', languages: { 'en': '/blog/sunglasses-coating-guide', 'es': '/es/blog/guia-recubrimientos-gafas' } } }
+export const metadata: Metadata = { title: 'Guía de Recubrimientos para Gafas de Sol: Espejo, Antirreflejo, Hidrofóbico y Más', description: 'Un dueño de fábrica desglosa cada tipo de recubrimiento para gafas -- espejo, AR, hidrofóbico, oleofóbico, antivaho, endurecido, filtro de luz azul. Costos reales por par y qué recubrimientos combinar.', keywords: 'recubrimientos gafas de sol, recubrimiento espejo, antirreflejo gafas, hidrofóbico lentes, oleofóbico, antivaho gafas, endurecido lentes, filtro luz azul', alternates: { canonical: '/es/blog/guia-recubrimientos-gafas', languages: { 'en': '/blog/sunglasses-coating-guide', 'es': '/es/blog/guia-recubrimientos-gafas' } } }
 export default function GuiaRecubrimientosPage() { return (
 <article className="py-12"><div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Guía de Recubrimientos para Gafas de Sol: Espejo, Antirreflejo, Hidrofóbico y Más", "datePublished": "2026-05-03", "dateModified": "2026-05-03", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Guía completa de recubrimientos para lentes de gafas de sol con costos reales de producción.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/guia-recubrimientos-gafas" }, "inLanguage": "es" })}} />
 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
 { "@type": "Question", "name": "¿Cuáles son los principales tipos de recubrimientos para gafas de sol?", "acceptedAnswer": { "@type": "Answer", "text": "Los siete tipos principales son: recubrimiento espejo (flash) para reducción de deslumbramiento y estilo, antirreflejo (AR) para eliminar el reflejo posterior, hidrofóbico para repeler agua, oleofóbico para resistir huellas y aceites, antivaho para prevenir condensación, endurecido para resistencia a rayaduras, y filtro de luz azul para bloquear luz azul de alta energía." } },
 { "@type": "Question", "name": "¿Cuánto cuestan los recubrimientos por par?", "acceptedAnswer": { "@type": "Answer", "text": "A escala de fábrica, los costos van desde $0,15 para endurecido básico hasta $1,80-$3,00 para espejo multicapa premium. Un stack completo de 4-5 recubrimientos típicamente añade $2,50-$5,00 a tu costo por par." } },
-{ "@type": "Question", "name": "¿Se pueden combinar múltiples recubrimientos en un par?", "acceptedAnswer": { "@type": "Answer", "text": "Sí — y deberías. El orden estándar desde la superficie de la lente hacia afuera es: endurecido (capa base), luego AR, luego espejo (si aplica), luego hidrofóbico y oleofóbico como capas externas. El antivaho se aplica en la superficie interna de la lente." } },
+{ "@type": "Question", "name": "¿Se pueden combinar múltiples recubrimientos en un par?", "acceptedAnswer": { "@type": "Answer", "text": "Sí -- y deberías. El orden estándar desde la superficie de la lente hacia afuera es: endurecido (capa base), luego AR, luego espejo (si aplica), luego hidrofóbico y oleofóbico como capas externas. El antivaho se aplica en la superficie interna de la lente." } },
 { "@type": "Question", "name": "¿Cuánto duran los recubrimientos?", "acceptedAnswer": { "@type": "Answer", "text": "El endurecido dura toda la vida de la lente. El AR dura 2-3 años. Los recubrimientos espejo duran 1-3 años según calidad. Hidrofóbico y oleofóbico se desgastan más rápido, típicamente 1-2 años. El antivaho dura 1-2 años." } }
 ] })}} />
 
@@ -41,7 +41,7 @@ export default function GuiaRecubrimientosPage() { return (
 <p>Los recubrimientos añaden entre $0,50 y $5,00 por par a escala de fábrica. En unas gafas que se venden a $50-$150 retail, es un error de redondeo. Pero la diferencia en calidad percibida es abismal.</p>
 
 <h2 id="espejo" className="text-3xl font-bold mt-16 mb-6">Recubrimiento Espejo (Flash)</h2>
-<p>Tres grados: <strong>Flash monocapa</strong> ($0,40-$0,80/par) — brillo sutil. <strong>Espejo multicapa</strong> ($1,00-$1,80/par) — el clásico reflejo total. <strong>Espejo degradado</strong> ($1,80-$3,00/par) — más espejo arriba, menos abajo.</p>
+<p>Tres grados: <strong>Flash monocapa</strong> ($0,40-$0,80/par) -- brillo sutil. <strong>Espejo multicapa</strong> ($1,00-$1,80/par) -- el clásico reflejo total. <strong>Espejo degradado</strong> ($1,80-$3,00/par) -- más espejo arriba, menos abajo.</p>
 
 <h2 id="antirreflejo" className="text-3xl font-bold mt-16 mb-6">Recubrimiento Antirreflejo (AR)</h2>
 <p>El héroe anónimo. Elimina el reflejo de la superficie posterior de la lente. AR monocapa: $0,30-$0,60/par. AR multicapa premium: $0,60-$1,50/par.</p>
@@ -64,13 +64,13 @@ export default function GuiaRecubrimientosPage() { return (
 <h2 id="costos" className="text-3xl font-bold mt-16 mb-6">Desglose de Costos por Par</h2>
 <div className="overflow-x-auto my-8"><table className="w-full border-collapse"><thead><tr className="bg-gray-900 text-white"><th className="px-6 py-4 text-left">Recubrimiento</th><th className="px-6 py-4 text-left">Costo/Par</th><th className="px-6 py-4 text-left">Durabilidad</th><th className="px-6 py-4 text-left">Prioridad</th></tr></thead>
 <tbody className="divide-y divide-gray-200">
-<tr className="bg-white"><td className="px-6 py-4 font-medium">Endurecido</td><td className="px-6 py-4">$0,15–$0,40</td><td className="px-6 py-4">Vida de la lente</td><td className="px-6 py-4">Obligatorio</td></tr>
-<tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Hidrofóbico</td><td className="px-6 py-4">$0,20–$0,50</td><td className="px-6 py-4">1–2 años</td><td className="px-6 py-4">Muy recomendado</td></tr>
-<tr className="bg-white"><td className="px-6 py-4 font-medium">Oleofóbico</td><td className="px-6 py-4">$0,30–$0,60</td><td className="px-6 py-4">1–2 años</td><td className="px-6 py-4">Recomendado</td></tr>
-<tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Antirreflejo (AR)</td><td className="px-6 py-4">$0,30–$1,50</td><td className="px-6 py-4">2–3 años</td><td className="px-6 py-4">Muy recomendado</td></tr>
-<tr className="bg-white"><td className="px-6 py-4 font-medium">Antivaho</td><td className="px-6 py-4">$0,40–$0,80</td><td className="px-6 py-4">1–2 años</td><td className="px-6 py-4">Uso deportivo</td></tr>
-<tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Filtro luz azul</td><td className="px-6 py-4">$0,50–$1,20</td><td className="px-6 py-4">2–3 años</td><td className="px-6 py-4">Demanda creciente</td></tr>
-<tr className="bg-white"><td className="px-6 py-4 font-medium">Espejo multicapa</td><td className="px-6 py-4">$1,00–$1,80</td><td className="px-6 py-4">2–3 años</td><td className="px-6 py-4">Según estilo</td></tr>
+<tr className="bg-white"><td className="px-6 py-4 font-medium">Endurecido</td><td className="px-6 py-4">$0,15-$0,40</td><td className="px-6 py-4">Vida de la lente</td><td className="px-6 py-4">Obligatorio</td></tr>
+<tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Hidrofóbico</td><td className="px-6 py-4">$0,20-$0,50</td><td className="px-6 py-4">1-2 años</td><td className="px-6 py-4">Muy recomendado</td></tr>
+<tr className="bg-white"><td className="px-6 py-4 font-medium">Oleofóbico</td><td className="px-6 py-4">$0,30-$0,60</td><td className="px-6 py-4">1-2 años</td><td className="px-6 py-4">Recomendado</td></tr>
+<tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Antirreflejo (AR)</td><td className="px-6 py-4">$0,30-$1,50</td><td className="px-6 py-4">2-3 años</td><td className="px-6 py-4">Muy recomendado</td></tr>
+<tr className="bg-white"><td className="px-6 py-4 font-medium">Antivaho</td><td className="px-6 py-4">$0,40-$0,80</td><td className="px-6 py-4">1-2 años</td><td className="px-6 py-4">Uso deportivo</td></tr>
+<tr className="bg-gray-50"><td className="px-6 py-4 font-medium">Filtro luz azul</td><td className="px-6 py-4">$0,50-$1,20</td><td className="px-6 py-4">2-3 años</td><td className="px-6 py-4">Demanda creciente</td></tr>
+<tr className="bg-white"><td className="px-6 py-4 font-medium">Espejo multicapa</td><td className="px-6 py-4">$1,00-$1,80</td><td className="px-6 py-4">2-3 años</td><td className="px-6 py-4">Según estilo</td></tr>
 </tbody></table></div>
 
 <h2 id="combinaciones" className="text-3xl font-bold mt-16 mb-6">Qué Recubrimientos Combinar</h2>
@@ -97,7 +97,7 @@ export default function GuiaRecubrimientosPage() { return (
 
 <div className="mt-16 pt-8 border-t border-gray-200"><h2 className="text-2xl font-bold mb-6">Más Desde la Fábrica</h2>
 <div className="grid md:grid-cols-2 gap-6">
-<Link href="/es/blog/guia-lentes-gafas" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Guía de Lentes para Gafas de Sol</h3><p className="text-gray-600 text-sm">CR-39, policarbonato, nylon, TAC — ¿qué material de lente es adecuado para tu marca?</p></Link>
+<Link href="/es/blog/guia-lentes-gafas" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Guía de Lentes para Gafas de Sol</h3><p className="text-gray-600 text-sm">CR-39, policarbonato, nylon, TAC -- ¿qué material de lente es adecuado para tu marca?</p></Link>
 <Link href="/es/blog/uv400-vs-polarizado" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">UV400 vs Polarizado: ¿Cuál es la Diferencia?</h3><p className="text-gray-600 text-sm">Qué hace cada tecnología, su impacto en costos y cuándo necesitas una o ambas.</p></Link>
 </div></div>
 </div>

@@ -38,7 +38,7 @@ const posts = [
   {
     slug: 'oem-vs-odm',
     title: 'OEM vs ODM Sonnenbrillen: Was ist der Unterschied? Kompletter Leitfaden',
-    excerpt: 'Nach 3.000 Gesprächen über OEM vs ODM — hier die ehrliche Version. Echte Kosten, echte Lieferzeiten und ein Entscheidungsrahmen, der Ihnen wirklich hilft.',
+    excerpt: 'Nach 3.000 Gesprächen über OEM vs ODM -- hier die ehrliche Version. Echte Kosten, echte Lieferzeiten und ein Entscheidungsrahmen, der Ihnen wirklich hilft.',
     date: '20. April 2026',
     category: 'Fertigung',
     readTime: '12 Min. Lesezeit',
@@ -48,7 +48,7 @@ const posts = [
   {
     slug: 'sonnenbrillen-marke-gruenden',
     title: 'Eigene Sonnenbrillenmarke gründen: Kompletter Leitfaden',
-    excerpt: 'Der komplette Fahrplan von der Idee zum ersten Verkauf — Marktforschung, Beschaffung, Branding, Preise und Marketing. Alles, was ich 2006 gerne gewusst hätte.',
+    excerpt: 'Der komplette Fahrplan von der Idee zum ersten Verkauf -- Marktforschung, Beschaffung, Branding, Preise und Marketing. Alles, was ich 2006 gerne gewusst hätte.',
     date: '28. März 2026',
     category: 'Business',
     readTime: '10 Min. Lesezeit',
@@ -58,7 +58,7 @@ const posts = [
   {
     slug: 'fda-ce-zertifizierung-sonnenbrillen',
     title: 'FDA- & CE-Zertifizierung für Sonnenbrillen: Compliance-Leitfaden',
-    excerpt: 'FDA-Registrierung, CE-Kennzeichnung, UV-Tests und ANSI-Standards erklärt. Schritt für Schritt — damit Ihre Sendung nicht am Zoll hängen bleibt.',
+    excerpt: 'FDA-Registrierung, CE-Kennzeichnung, UV-Tests und ANSI-Standards erklärt. Schritt für Schritt -- damit Ihre Sendung nicht am Zoll hängen bleibt.',
     date: '4. Mai 2026',
     category: 'Compliance',
     readTime: '15 Min. Lesezeit',
@@ -68,7 +68,7 @@ const posts = [
   {
     slug: 'individuelle-sonnenbrillen-verpackung',
     title: 'Individuelle Sonnenbrillen-Verpackung: Branding-Leitfaden 2026',
-    excerpt: 'Hartschalenetuis, Mikrofaserbeutel, Einzelhandelsboxen und mehr — echte Kosten pro Stück und Tipps, die den wahrgenommenen Wert um 86 % steigern.',
+    excerpt: 'Hartschalenetuis, Mikrofaserbeutel, Einzelhandelsboxen und mehr -- echte Kosten pro Stück und Tipps, die den wahrgenommenen Wert um 86 % steigern.',
     date: '3. Mai 2026',
     category: 'Branding',
     readTime: '14 Min. Lesezeit',
@@ -78,7 +78,7 @@ const posts = [
   {
     slug: 'vergleich-rahmenmaterialien',
     title: 'TR90 vs. Acetat vs. Metall: Welches Fassungsmaterial passt?',
-    excerpt: 'Drei Materialien, drei Welten — echte Kostendaten, Gewichtsvergleiche und welches Material für welche Markenstrategie am besten funktioniert.',
+    excerpt: 'Drei Materialien, drei Welten -- echte Kostendaten, Gewichtsvergleiche und welches Material für welche Markenstrategie am besten funktioniert.',
     date: '3. Mai 2026',
     category: 'Materialien',
     readTime: '13 Min. Lesezeit',
@@ -88,7 +88,7 @@ const posts = [
   {
     slug: 'sonnenbrillen-import-ratgeber',
     title: 'Sonnenbrillen aus China importieren: Kompletter Leitfaden 2026',
-    excerpt: 'Von der Beschaffung bis zur Lieferung — Versand, Zoll, Compliance und die 7 häufigsten Importfehler vermeiden.',
+    excerpt: 'Von der Beschaffung bis zur Lieferung -- Versand, Zoll, Compliance und die 7 häufigsten Importfehler vermeiden.',
     date: '4. Mai 2026',
     category: 'Import',
     readTime: '14 Min. Lesezeit',
@@ -98,7 +98,7 @@ const posts = [
   {
     slug: 'sonnenbrillen-beschichtungen-ratgeber',
     title: 'Sonnenbrillen-Beschichtungen: Spiegel, AR, Hydrophob & mehr',
-    excerpt: 'Jede Beschichtungsart erklärt — mit echten Kosten pro Paar und welche sich kombinieren lassen.',
+    excerpt: 'Jede Beschichtungsart erklärt -- mit echten Kosten pro Paar und welche sich kombinieren lassen.',
     date: '3. Mai 2026',
     category: 'Technologie',
     readTime: '12 Min. Lesezeit',
@@ -108,7 +108,7 @@ const posts = [
   {
     slug: 'sonnenbrillen-design-trends-2026',
     title: 'Sonnenbrillen-Design-Trends 2026: Was sich jetzt verkauft',
-    excerpt: 'Echte Verkaufsdaten statt Modemagazin-Spekulation — übergroße Fassungen, Y2K-Revival, nachhaltige Materialien und die Farben, die tatsächlich gehen.',
+    excerpt: 'Echte Verkaufsdaten statt Modemagazin-Spekulation -- übergroße Fassungen, Y2K-Revival, nachhaltige Materialien und die Farben, die tatsächlich gehen.',
     date: '4. Mai 2026',
     category: 'Trends',
     readTime: '11 Min. Lesezeit',
@@ -118,7 +118,7 @@ const posts = [
   {
     slug: 'sonnenbrillen-gesichtsform-ratgeber',
     title: 'Die beste Sonnenbrille für Ihre Gesichtsform',
-    excerpt: 'Rund, oval, eckig, herzförmig oder länglich — welche Fassungen zu welcher Gesichtsform passen. Mit echten Beispielen.',
+    excerpt: 'Rund, oval, eckig, herzförmig oder länglich -- welche Fassungen zu welcher Gesichtsform passen. Mit echten Beispielen.',
     date: '4. Mai 2026',
     category: 'Stil-Ratgeber',
     readTime: '10 Min. Lesezeit',
@@ -128,7 +128,7 @@ const posts = [
   {
     slug: 'uv400-vs-polarisiert',
     title: 'UV400 vs. Polarisiert: Was ist der Unterschied?',
-    excerpt: 'Zwei Technologien, zwei Aufgaben — UV-Schutz vs. Blendreduktion. Kosten, Nutzen und wann Ihre Marke beides braucht.',
+    excerpt: 'Zwei Technologien, zwei Aufgaben -- UV-Schutz vs. Blendreduktion. Kosten, Nutzen und wann Ihre Marke beides braucht.',
     date: '3. Mai 2026',
     category: 'Technologie',
     readTime: '10 Min. Lesezeit',
@@ -138,7 +138,7 @@ const posts = [
   {
     slug: 'sonnenbrillen-mindestbestellmenge-ratgeber',
     title: 'Sonnenbrillen-Mindestbestellmenge: Wie viele Paare zuerst?',
-    excerpt: 'ODM ab 50 Stück, OEM ab 300+ — die kluge Skalierungsstrategie für Ihre erste Bestellung ohne Überinvestition.',
+    excerpt: 'ODM ab 50 Stück, OEM ab 300+ -- die kluge Skalierungsstrategie für Ihre erste Bestellung ohne Überinvestition.',
     date: '3. Mai 2026',
     category: 'Fertigung',
     readTime: '11 Min. Lesezeit',
@@ -148,7 +148,7 @@ const posts = [
   {
     slug: 'sonnenbrillen-preisstrategie',
     title: 'Sonnenbrillen-Preisstrategie: Vom Fabrikpreis zum Einzelhandel',
-    excerpt: 'Die echte Wirtschaft hinter Sonnenbrillenpreisen — Fabrikkosten, Aufschläge, Margen und die goldene Regel der Preisgestaltung.',
+    excerpt: 'Die echte Wirtschaft hinter Sonnenbrillenpreisen -- Fabrikkosten, Aufschläge, Margen und die goldene Regel der Preisgestaltung.',
     date: '4. Mai 2026',
     category: 'Business',
     readTime: '12 Min. Lesezeit',
@@ -158,7 +158,7 @@ const posts = [
   {
     slug: 'sonnenbrillen-qualitaetskontrolle',
     title: 'Sonnenbrillen-Qualitätskontrolle: Inspektions-Checkliste',
-    excerpt: 'Die komplette QK-Checkliste — Glastests, Fassungsinspektion, Scharnierprüfung und wann Sie eine Drittanbieter-Inspektion beauftragen sollten.',
+    excerpt: 'Die komplette QK-Checkliste -- Glastests, Fassungsinspektion, Scharnierprüfung und wann Sie eine Drittanbieter-Inspektion beauftragen sollten.',
     date: '4. Mai 2026',
     category: 'Qualität',
     readTime: '13 Min. Lesezeit',
@@ -168,7 +168,7 @@ const posts = [
   {
     slug: 'sonnenbrillen-gruendungskosten',
     title: 'Kosten einer Sonnenbrillenmarke: Leitfaden 2026',
-    excerpt: 'Jede Kostenposition aufgeschlüsselt — von $3.000 Bootstrap bis $50.000+ Premium-Launch. Echte Zahlen aus 20 Jahren Erfahrung.',
+    excerpt: 'Jede Kostenposition aufgeschlüsselt -- von $3.000 Bootstrap bis $50.000+ Premium-Launch. Echte Zahlen aus 20 Jahren Erfahrung.',
     date: '4. Mai 2026',
     category: 'Business',
     readTime: '12 Min. Lesezeit',
@@ -178,7 +178,7 @@ const posts = [
   {
     slug: 'nachhaltige-sonnenbrillen-herstellung',
     title: 'Nachhaltige Sonnenbrillen-Herstellung: Materialien & Prozesse',
-    excerpt: 'Bio-Acetat, recyceltes Nylon, Ozeanplastik — was „nachhaltig" wirklich bedeutet und kostet. Ohne Greenwashing.',
+    excerpt: 'Bio-Acetat, recyceltes Nylon, Ozeanplastik -- was „nachhaltig" wirklich bedeutet und kostet. Ohne Greenwashing.',
     date: '4. Mai 2026',
     category: 'Nachhaltigkeit',
     readTime: '12 Min. Lesezeit',
@@ -200,7 +200,7 @@ export default function BlogPage() {
             Direkt aus der Fabrik
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ungeschönte Einblicke in Sonnenbrillen-Herstellung, Beschaffung und Markenaufbau — 
+            Ungeschönte Einblicke in Sonnenbrillen-Herstellung, Beschaffung und Markenaufbau -- 
             geschrieben von jemandem, der seit 2006 Sonnenbrillen produziert.
           </p>
           <div className="flex items-center justify-center gap-3 mt-6">
@@ -272,7 +272,7 @@ export default function BlogPage() {
             Fabrik-Neuigkeiten direkt in Ihr Postfach
           </h2>
           <p className="text-primary-100 mb-8 max-w-xl mx-auto">
-            Eine E-Mail pro Monat. Kein Füllmaterial — nur Fertigungstipps, Markttrends 
+            Eine E-Mail pro Monat. Kein Füllmaterial -- nur Fertigungstipps, Markttrends 
             und Beschaffungsstrategien, die Ihnen wirklich helfen, eine bessere Marke aufzubauen.
           </p>
           <form className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">

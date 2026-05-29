@@ -20,21 +20,21 @@ const products = [
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$6.00 - $10.00',
     moq: '100 pcs',
-    description: 'Look propre et professionnel avec des verres transparents qui filtrent la lumière bleue sans aucune teinte visible. Vos clients peuvent les porter en réunion, en visioconférence Zoom, ou à leur bureau toute la journée sans avoir l\u2019air de porter des lunettes « spéciales ». C\u2019est notre modèle lumière bleue le plus vendu — il surpasse tout le reste dans cette catégorie 3 contre 1 parce qu\u2019il ressemble à des lunettes normales.',
+    description: 'Look propre et professionnel avec des verres transparents qui filtrent la lumière bleue sans aucune teinte visible. Vos clients peuvent les porter en réunion, en visioconférence Zoom, ou à leur bureau toute la journée sans avoir l\u2019air de porter des lunettes « spéciales ». C\u2019est notre modèle lumière bleue le plus vendu -- il surpasse tout le reste dans cette catégorie 3 contre 1 parce qu\u2019il ressemble à des lunettes normales.',
   },
   {
     name: 'Lunettes Gaming Lumière Bleue',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$7.00 - $11.00',
     moq: '100 pcs',
-    description: 'Conçues pour le public gamer. Les verres teintés ambre bloquent plus de lumière bleue que les versions transparentes (60-90 % vs 30-40 %), et les gamers préfèrent en fait la teinte chaude — elle améliore le contraste dans les environnements de jeu sombres et réduit la dureté des éclairs lumineux. Monture légère avec plaquettes nasales en caoutchouc pour ces sessions de 6 heures de Valorant. Une équipe d\u2019esports en Corée a commandé 200 paires comme équipement d\u2019équipe.',
+    description: 'Conçues pour le public gamer. Les verres teintés ambre bloquent plus de lumière bleue que les versions transparentes (60-90 % vs 30-40 %), et les gamers préfèrent en fait la teinte chaude -- elle améliore le contraste dans les environnements de jeu sombres et réduit la dureté des éclairs lumineux. Monture légère avec plaquettes nasales en caoutchouc pour ces sessions de 6 heures de Valorant. Une équipe d\u2019esports en Corée a commandé 200 paires comme équipement d\u2019équipe.',
   },
   {
     name: 'Bloqueur Lumière Bleue Verres Clairs',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$6.50 - $10.50',
     moq: '100 pcs',
-    description: 'L\u2019option discrète. Ces verres ont un revêtement subtil anti lumière bleue qui est presque invisible — juste un léger reflet quand la lumière frappe au bon angle. Aucune teinte jaune. Conçues pour les personnes qui veulent une protection mais ne veulent pas que quiconque sache qu\u2019elles portent des lunettes lumière bleue. Populaires auprès des professionnels, avocats, cadres — le public « je ne porte pas de lunettes gadget ».',
+    description: 'L\u2019option discrète. Ces verres ont un revêtement subtil anti lumière bleue qui est presque invisible -- juste un léger reflet quand la lumière frappe au bon angle. Aucune teinte jaune. Conçues pour les personnes qui veulent une protection mais ne veulent pas que quiconque sache qu\u2019elles portent des lunettes lumière bleue. Populaires auprès des professionnels, avocats, cadres -- le public « je ne porte pas de lunettes gadget ».',
   },
   {
     name: 'Aviateur Lumière Bleue',
@@ -48,14 +48,14 @@ const products = [
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$7.50 - $11.50',
     moq: '100 pcs',
-    description: 'La forme wayfarer en version lumière bleue. Monture en acétate, look professionnel, véritable protection d\u2019écran. C\u2019est la monture que nous recommandons pour les programmes de cadeaux d\u2019entreprise — les entreprises achètent 50 à 500 paires à la fois avec leur logo sur la branche pour des packages bien-être des employés. Une entreprise tech à Bangalore a commandé 1 200 paires pour toute son équipe d\u2019ingénieurs.',
+    description: 'La forme wayfarer en version lumière bleue. Monture en acétate, look professionnel, véritable protection d\u2019écran. C\u2019est la monture que nous recommandons pour les programmes de cadeaux d\u2019entreprise -- les entreprises achètent 50 à 500 paires à la fois avec leur logo sur la branche pour des packages bien-être des employés. Une entreprise tech à Bangalore a commandé 1 200 paires pour toute son équipe d\u2019ingénieurs.',
   },
   {
     name: 'Lunettes Lumière Bleue Enfants',
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$5.50 - $9.00',
     moq: '100 pcs',
-    description: 'Les enfants passent des heures sur les tablettes, téléphones et ordinateurs portables — pour l\u2019école, les jeux, YouTube. Les parents s\u2019en inquiètent. Ces lunettes leur offrent une solution. Montures flexibles dimensionnées pour les 5-12 ans, matériaux sans BPA, et verres filtrant la lumière bleue. Des écoles dans trois pays les ont adoptées pour leurs programmes de laboratoire informatique. La tranquillité d\u2019esprit d\u2019un parent inquiet, à partir de 5,50 $.',
+    description: 'Les enfants passent des heures sur les tablettes, téléphones et ordinateurs portables -- pour l\u2019école, les jeux, YouTube. Les parents s\u2019en inquiètent. Ces lunettes leur offrent une solution. Montures flexibles dimensionnées pour les 5-12 ans, matériaux sans BPA, et verres filtrant la lumière bleue. Des écoles dans trois pays les ont adoptées pour leurs programmes de laboratoire informatique. La tranquillité d\u2019esprit d\u2019un parent inquiet, à partir de 5,50 $.',
   },
 ]
 
@@ -79,7 +79,7 @@ export default function BlueLightPageFr() {
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Sept heures. C&apos;est le temps moyen qu&apos;un adulte passe devant un écran chaque jour.
-            Yeux secs, maux de tête, troubles du sommeil — ça vous parle ? Les lunettes anti lumière bleue sont
+            Yeux secs, maux de tête, troubles du sommeil -- ça vous parle ? Les lunettes anti lumière bleue sont
             la catégorie à la croissance la plus rapide dans la lunetterie, et nous les fabriquons pour des marques dans
             plus de 40 pays. Verres transparents, verres ambrés, montures mode, tailles enfants. MOQ 100 pièces.
           </p>
@@ -100,7 +100,7 @@ export default function BlueLightPageFr() {
           <div className="max-w-4xl mx-auto text-gray-700 leading-relaxed space-y-4">
             <p>
               La lumière bleue est partout. Le soleil en produit. Votre téléphone en produit. Votre
-              ordinateur portable, votre télé, vos néons de bureau — tous bombardent vos yeux de lumière bleue
+              ordinateur portable, votre télé, vos néons de bureau -- tous bombardent vos yeux de lumière bleue
               toute la journée. Et voici le problème : nos yeux ne sont pas très bons pour la bloquer.
               La lumière bleue (longueurs d&apos;onde entre 380-500nm) traverse directement la cornée et
               le cristallin pour frapper la rétine directement.
@@ -110,13 +110,13 @@ export default function BlueLightPageFr() {
               que la fatigue visuelle numérique touche environ 65 % des adultes qui utilisent des écrans
               régulièrement. Les symptômes incluent les yeux secs, la vision floue, les maux de tête et les douleurs
               au cou et aux épaules.
-              Mais le problème de sommeil est peut-être le plus important — la lumière bleue supprime la production de
+              Mais le problème de sommeil est peut-être le plus important -- la lumière bleue supprime la production de
               mélatonine, l&apos;hormone qui dit à votre cerveau « c&apos;est l&apos;heure de dormir ». Faites défiler votre téléphone
               à 23h et votre cerveau pense qu&apos;il est midi. Pas étonnant que les gens n&apos;arrivent pas à s&apos;endormir.
             </p>
             <p>
               C&apos;est pourquoi les lunettes anti lumière bleue ont explosé. Ce ne sont pas un dispositif médical et
-              nous ne faisons pas de déclarations médicales — mais des millions de personnes rapportent moins de fatigue oculaire,
+              nous ne faisons pas de déclarations médicales -- mais des millions de personnes rapportent moins de fatigue oculaire,
               moins de maux de tête et un meilleur sommeil en les portant devant les écrans. Le marché
               devrait atteindre 4,5 milliards de dollars à l&apos;échelle mondiale d&apos;ici 2026, selon les études du secteur.
               La <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">FDA</a> réglemente
@@ -166,19 +166,19 @@ export default function BlueLightPageFr() {
 
         {/* Options de verres */}
         <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Transparent ou ambre — quel verre stocker ?</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Transparent ou ambre -- quel verre stocker ?</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🔍 Verres transparents</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 Aucune teinte visible. La protection est dans le revêtement, pas dans la couleur. Parfaits
-                pour les personnes qui doivent voir des couleurs fidèles — designers, photographes,
-                monteurs vidéo — et quiconque ne veut pas expliquer pourquoi ses lunettes ont l&apos;air
+                pour les personnes qui doivent voir des couleurs fidèles -- designers, photographes,
+                monteurs vidéo -- et quiconque ne veut pas expliquer pourquoi ses lunettes ont l&apos;air
                 jaunes. Bloquent 30-40 % de la lumière bleue dans la plage 415-455nm (les longueurs d&apos;onde
                 les plus nocives). C&apos;est ce qui se vend en milieu de bureau et professionnel.
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li>• Protection invisible — aucune teinte</li>
+                <li>• Protection invisible -- aucune teinte</li>
                 <li>• Fidélité des couleurs préservée</li>
                 <li>• Bloque 30-40 % de la lumière bleue nocive</li>
                 <li>• Idéal pour : bureau, design, usage professionnel</li>
@@ -188,18 +188,18 @@ export default function BlueLightPageFr() {
             <div className="bg-white rounded-xl p-6 shadow-sm">
               <h3 className="text-xl font-semibold mb-4">🟡 Verres ambre / jaunes</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Teinte chaude visible. Bloque nettement plus de lumière bleue — 60-90 % selon
+                Teinte chaude visible. Bloque nettement plus de lumière bleue -- 60-90 % selon
                 la profondeur de teinte. La couleur ambre filtre les fréquences bleues agressives et
                 crée une expérience visuelle plus chaude et plus confortable. Les gamers adorent. Les personnes
                 qui utilisent des écrans le soir adorent. Le contraste amélioré est un véritable avantage
                 pour le gaming et la lecture en conditions de faible luminosité.
               </p>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li>• Teinte ambre visible — ton chaud</li>
+                <li>• Teinte ambre visible -- ton chaud</li>
                 <li>• Bloque 60-90 % de la lumière bleue</li>
                 <li>• Contraste amélioré pour le gaming</li>
                 <li>• Idéal pour : gaming, utilisation en soirée, lecture</li>
-                <li>• Croissance rapide — surtout sur le marché du gaming</li>
+                <li>• Croissance rapide -- surtout sur le marché du gaming</li>
               </ul>
             </div>
           </div>
@@ -215,7 +215,7 @@ export default function BlueLightPageFr() {
                 <p className="text-gray-700 mb-3 leading-relaxed">
                   Un revêtement antireflet multicouche est appliqué sur la surface du verre. L&apos;une de
                   ces couches est spécifiquement calibrée pour réfléchir les longueurs d&apos;onde de lumière bleue (415-455nm)
-                  loin de l&apos;œil. Vous pouvez le voir fonctionner — inclinez le verre et vous remarquerez
+                  loin de l&apos;œil. Vous pouvez le voir fonctionner -- inclinez le verre et vous remarquerez
                   un léger reflet bleu-violet. C&apos;est la lumière bleue qui rebondit au lieu
                   de passer à travers.
                 </p>
@@ -226,7 +226,7 @@ export default function BlueLightPageFr() {
                 <p className="text-gray-700 mb-3 leading-relaxed">
                   Le matériau anti lumière bleue est mélangé directement dans la résine du verre lors de
                   la fabrication. Cela crée un verre qui absorbe la lumière bleue sur toute son
-                  épaisseur — pas seulement en surface. Le résultat est un filtrage de lumière bleue plus puissant
+                  épaisseur -- pas seulement en surface. Le résultat est un filtrage de lumière bleue plus puissant
                   et une teinte ambre visible. Comme le filtrage est dans le matériau du verre
                   lui-même, il ne peut pas s&apos;user ni être rayé.
                 </p>
@@ -246,7 +246,7 @@ export default function BlueLightPageFr() {
             <StatCard number="65 %" label="Adultes rapportent une fatigue oculaire" />
           </div>
           <p className="text-center text-sm text-gray-600 mt-6 max-w-2xl mx-auto">
-            Les lunettes anti lumière bleue ne sont pas une mode — le temps d&apos;écran ne fait qu&apos;augmenter. Télétravail,
+            Les lunettes anti lumière bleue ne sont pas une mode -- le temps d&apos;écran ne fait qu&apos;augmenter. Télétravail,
             apprentissage en ligne, gaming mobile, streaming... le marché continue de croître parce que
             le problème continue de croître.
           </p>
@@ -277,8 +277,8 @@ export default function BlueLightPageFr() {
               Voici une grande opportunité que la plupart des acheteurs en gros manquent : les lunettes anti lumière bleue avec prescription.
               Environ 75 % des adultes ont besoin d&apos;une forme de correction visuelle. Cela signifie que 75 % des clients potentiels
               de lunettes anti lumière bleue ont aussi besoin de verres correcteurs. Nous fabriquons toutes nos montures
-              anti lumière bleue en version Rx-ready — expédiées avec des verres de démonstration pour que les opticiens puissent installer des
-              prescriptions personnalisées. Vision simple, bifocale, progressive — tout est compatible.
+              anti lumière bleue en version Rx-ready -- expédiées avec des verres de démonstration pour que les opticiens puissent installer des
+              prescriptions personnalisées. Vision simple, bifocale, progressive -- tout est compatible.
             </p>
             <p>
               La marge sur les lunettes anti lumière bleue avec prescription est encore meilleure que sur les plano (sans correction).
@@ -314,31 +314,31 @@ export default function BlueLightPageFr() {
 
         {/* FAQ */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold text-center mb-8">Questions sur la lumière bleue — sans jargon</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Questions sur la lumière bleue -- sans jargon</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <FaqItem
               question="Les lunettes anti lumière bleue fonctionnent-elles vraiment ?"
-              answer="Voici la réponse honnête : la science débat encore de savoir si la lumière bleue cause des dommages oculaires à long terme. Ce qui EST bien documenté, c&apos;est que l&apos;utilisation prolongée des écrans cause la fatigue visuelle numérique — yeux secs, maux de tête, vision floue. De nombreux utilisateurs rapportent un soulagement réel en portant des lunettes anti lumière bleue. Le bénéfice sur le sommeil a des preuves plus solides — la lumière bleue supprime la mélatonine, et la filtrer le soir peut aider à s&apos;endormir plus vite. Nous ne faisons pas de déclarations médicales. Nous laissons les clients essayer et décider par eux-mêmes. Le taux de réapprovisionnement parle de lui-même."
+              answer="Voici la réponse honnête : la science débat encore de savoir si la lumière bleue cause des dommages oculaires à long terme. Ce qui EST bien documenté, c&apos;est que l&apos;utilisation prolongée des écrans cause la fatigue visuelle numérique -- yeux secs, maux de tête, vision floue. De nombreux utilisateurs rapportent un soulagement réel en portant des lunettes anti lumière bleue. Le bénéfice sur le sommeil a des preuves plus solides -- la lumière bleue supprime la mélatonine, et la filtrer le soir peut aider à s&apos;endormir plus vite. Nous ne faisons pas de déclarations médicales. Nous laissons les clients essayer et décider par eux-mêmes. Le taux de réapprovisionnement parle de lui-même."
             />
             <FaqItem
-              question="Verres transparents ou ambrés — que dois-je stocker ?"
+              question="Verres transparents ou ambrés -- que dois-je stocker ?"
               answer="Les deux, idéalement. Mais si vous ne pouvez en choisir qu&apos;un, optez pour le transparent. Les verres transparents représentent environ 70 % de nos commandes lumière bleue parce qu&apos;ils ressemblent à des lunettes normales et n&apos;altèrent pas les couleurs. Les verres ambrés sont les favoris des gamers (filtrage plus fort, contraste amélioré) et se vendent bien dans les boutiques de gaming et aux utilisateurs d&apos;écrans en soirée. Conseil pro : stockez du transparent pour la vente générale, de l&apos;ambre pour les audiences gaming/tech."
             />
             <FaqItem
               question="Combien de lumière bleue bloquent-elles réellement ?"
-              answer="Les verres transparents bloquent 30-40 % de la lumière bleue dans la plage 415-455nm (les longueurs d&apos;onde potentiellement les plus nocives). Les verres ambrés bloquent 60-90 % selon la profondeur de teinte. Nous fournissons des rapports de transmission spectrale avec les commandes en gros pour que vous puissiez montrer aux clients exactement ce qu&apos;ils obtiennent. Pas de vagues déclarations « bloque la lumière bleue » — de vrais chiffres, de vraies données de test."
+              answer="Les verres transparents bloquent 30-40 % de la lumière bleue dans la plage 415-455nm (les longueurs d&apos;onde potentiellement les plus nocives). Les verres ambrés bloquent 60-90 % selon la profondeur de teinte. Nous fournissons des rapports de transmission spectrale avec les commandes en gros pour que vous puissiez montrer aux clients exactement ce qu&apos;ils obtiennent. Pas de vagues déclarations « bloque la lumière bleue » -- de vrais chiffres, de vraies données de test."
             />
             <FaqItem
               question="Peuvent-elles être combinées avec des verres de prescription ?"
-              answer="Absolument — et vous devriez ! Environ 75 % des adultes ont besoin d&apos;une correction visuelle, donc les montures anti lumière bleue Rx-ready sont un marché énorme. Toutes nos montures sont expédiées avec des verres de démonstration que les opticiens peuvent remplacer par des verres de prescription anti lumière bleue. Compatible vision simple, bifocale et progressive. La marge sur les lunettes anti lumière bleue avec prescription est remarquable — 80-150 $ au détail sur une monture en gros à 10 $."
+              answer="Absolument -- et vous devriez ! Environ 75 % des adultes ont besoin d&apos;une correction visuelle, donc les montures anti lumière bleue Rx-ready sont un marché énorme. Toutes nos montures sont expédiées avec des verres de démonstration que les opticiens peuvent remplacer par des verres de prescription anti lumière bleue. Compatible vision simple, bifocale et progressive. La marge sur les lunettes anti lumière bleue avec prescription est remarquable -- 80-150 $ au détail sur une monture en gros à 10 $."
             />
             <FaqItem
               question="Quelle est la meilleure façon de vendre des lunettes anti lumière bleue ?"
-              answer="La démo qui tue : mettez une paire à votre client et faites-le regarder son téléphone pendant 30 secondes. Puis retirez-les. La plupart des gens remarquent immédiatement la différence — l&apos;écran semble plus agressif sans elles. Ce moment « ah-ha » conclut la vente. Pour les boutiques en ligne, concentrez-vous sur le problème (maux de tête, yeux secs, mauvais sommeil) et la solution. Les programmes de cadeaux d&apos;entreprise sont aussi massifs — les entreprises achètent des centaines de paires pour le bien-être des employés. Nous pouvons personnaliser avec les logos d&apos;entreprise."
+              answer="La démo qui tue : mettez une paire à votre client et faites-le regarder son téléphone pendant 30 secondes. Puis retirez-les. La plupart des gens remarquent immédiatement la différence -- l&apos;écran semble plus agressif sans elles. Ce moment « ah-ha » conclut la vente. Pour les boutiques en ligne, concentrez-vous sur le problème (maux de tête, yeux secs, mauvais sommeil) et la solution. Les programmes de cadeaux d&apos;entreprise sont aussi massifs -- les entreprises achètent des centaines de paires pour le bien-être des employés. Nous pouvons personnaliser avec les logos d&apos;entreprise."
             />
             <FaqItem
               question="Quel est le MOQ et le délai ?"
-              answer="100 pièces par style et couleur. Les articles en stock sont expédiés en 3-5 jours. Les commandes personnalisées avec votre logo et votre branding prennent 15-25 jours. Nous faisons aussi de l&apos;emballage cadeau d&apos;entreprise — boîtes personnalisées avec le nom de votre entreprise, chiffons microfibre marqués, tout le nécessaire. Une startup tech a commandé 500 paires en emballage marqué comme cadeaux de bienvenue pour les nouveaux employés. Coût : environ 9 $ la paire tout compris. Valeur perçue du cadeau au détail ? 30-40 $ facile."
+              answer="100 pièces par style et couleur. Les articles en stock sont expédiés en 3-5 jours. Les commandes personnalisées avec votre logo et votre branding prennent 15-25 jours. Nous faisons aussi de l&apos;emballage cadeau d&apos;entreprise -- boîtes personnalisées avec le nom de votre entreprise, chiffons microfibre marqués, tout le nécessaire. Une startup tech a commandé 500 paires en emballage marqué comme cadeaux de bienvenue pour les nouveaux employés. Coût : environ 9 $ la paire tout compris. Valeur perçue du cadeau au détail ? 30-40 $ facile."
             />
           </div>
         </section>
@@ -375,11 +375,11 @@ export default function BlueLightPageFr() {
           {
             "@type": "Question",
             "name": "Les lunettes anti lumière bleue fonctionnent-elles vraiment ?",
-            "acceptedAnswer": { "@type": "Answer", "text": "La science débat encore des dommages à long terme de la lumière bleue, mais le soulagement de la fatigue visuelle numérique est bien documenté. De nombreux utilisateurs rapportent moins de fatigue oculaire, moins de maux de tête et un meilleur sommeil. Le bénéfice sur le sommeil a des preuves plus solides — la lumière bleue supprime la production de mélatonine." }
+            "acceptedAnswer": { "@type": "Answer", "text": "La science débat encore des dommages à long terme de la lumière bleue, mais le soulagement de la fatigue visuelle numérique est bien documenté. De nombreux utilisateurs rapportent moins de fatigue oculaire, moins de maux de tête et un meilleur sommeil. Le bénéfice sur le sommeil a des preuves plus solides -- la lumière bleue supprime la production de mélatonine." }
           },
           {
             "@type": "Question",
-            "name": "Verres transparents ou ambrés — que stocker ?",
+            "name": "Verres transparents ou ambrés -- que stocker ?",
             "acceptedAnswer": { "@type": "Answer", "text": "Les deux idéalement, mais les verres transparents représentent 70 % des commandes. Ils ressemblent à des lunettes normales et n\u2019altèrent pas les couleurs. Les verres ambrés sont populaires auprès des gamers pour un filtrage plus fort et un contraste amélioré." }
           },
           {
@@ -390,7 +390,7 @@ export default function BlueLightPageFr() {
           {
             "@type": "Question",
             "name": "Peut-on combiner les lunettes anti lumière bleue avec des verres de prescription ?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Oui — toutes les montures sont expédiées Rx-ready avec des verres de démonstration. Environ 75 % des adultes ont besoin d\u2019une correction visuelle, faisant des lunettes anti lumière bleue avec prescription un marché énorme avec d\u2019excellentes marges." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Oui -- toutes les montures sont expédiées Rx-ready avec des verres de démonstration. Environ 75 % des adultes ont besoin d\u2019une correction visuelle, faisant des lunettes anti lumière bleue avec prescription un marché énorme avec d\u2019excellentes marges." }
           },
           {
             "@type": "Question",

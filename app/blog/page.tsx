@@ -32,7 +32,7 @@ const posts = [
   {
     slug: 'import-sunglasses-guide',
     title: 'How to Import Sunglasses from China: Complete 2026 Guide',
-    excerpt: 'A Chinese sunglasses factory owner explains how to import sunglasses from China — sourcing, shipping, customs duties, quality control, and common mistakes to avoid.',
+    excerpt: 'A Chinese sunglasses factory owner explains how to import sunglasses from China -- sourcing, shipping, customs duties, quality control, and common mistakes to avoid.',
     date: 'May 4, 2026',
     category: 'Sourcing',
     readTime: '16 min read',
@@ -42,7 +42,7 @@ const posts = [
   {
     slug: 'sunglasses-design-trends-2026',
     title: 'Top Sunglasses Design Trends for 2026: What\'s Selling Now',
-    excerpt: 'A sunglasses factory owner reveals the hottest eyewear design trends for 2026. Real sales data on what\'s moving — oversized frames, Y2K revivals, sustainable materials, and more.',
+    excerpt: 'A sunglasses factory owner reveals the hottest eyewear design trends for 2026. Real sales data on what\'s moving -- oversized frames, Y2K revivals, sustainable materials, and more.',
     date: 'May 4, 2026',
     category: 'Trends',
     readTime: '12 min read',
@@ -52,7 +52,7 @@ const posts = [
   {
     slug: 'sunglasses-face-shape-guide',
     title: 'Best Sunglasses for Your Face Shape: Complete Buying Guide',
-    excerpt: 'Find the perfect sunglasses for your face shape — round, oval, square, heart, oblong. A factory owner explains which frames flatter each face shape with real examples and buying tips.',
+    excerpt: 'Find the perfect sunglasses for your face shape -- round, oval, square, heart, oblong. A factory owner explains which frames flatter each face shape with real examples and buying tips.',
     date: 'May 4, 2026',
     category: 'Buying Guide',
     readTime: '10 min read',
@@ -62,7 +62,7 @@ const posts = [
   {
     slug: 'sunglasses-pricing-strategy',
     title: 'Sunglasses Pricing Strategy: From Factory Cost to Retail Price',
-    excerpt: 'A factory owner reveals the real economics of sunglasses pricing — factory costs, wholesale markup, retail margins, and pricing strategies that work for new and established brands.',
+    excerpt: 'A factory owner reveals the real economics of sunglasses pricing -- factory costs, wholesale markup, retail margins, and pricing strategies that work for new and established brands.',
     date: 'May 4, 2026',
     category: 'Business',
     readTime: '14 min read',
@@ -72,7 +72,7 @@ const posts = [
   {
     slug: 'sunglasses-quality-control',
     title: 'Sunglasses Quality Control: Factory Inspection Checklist',
-    excerpt: 'A factory owner shares the complete sunglasses QC checklist — lens testing, frame inspection, hinge checks, UV verification, and what to look for before approving production.',
+    excerpt: 'A factory owner shares the complete sunglasses QC checklist -- lens testing, frame inspection, hinge checks, UV verification, and what to look for before approving production.',
     date: 'May 4, 2026',
     category: 'Manufacturing',
     readTime: '13 min read',
@@ -82,7 +82,7 @@ const posts = [
   {
     slug: 'sunglasses-startup-cost',
     title: 'How Much Does It Cost to Start a Sunglasses Brand in 2026?',
-    excerpt: 'A factory owner breaks down every cost to start a sunglasses brand — from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.',
+    excerpt: 'A factory owner breaks down every cost to start a sunglasses brand -- from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.',
     date: 'May 4, 2026',
     category: 'Business',
     readTime: '15 min read',
@@ -92,7 +92,7 @@ const posts = [
   {
     slug: 'sustainable-sunglasses-manufacturing',
     title: 'Sustainable Sunglasses Manufacturing: Eco-Friendly Materials & Processes',
-    excerpt: 'A factory owner explains sustainable sunglasses manufacturing — bio-acetate, recycled nylon, ocean plastic, eco-friendly packaging, and what "sustainable" actually means in eyewear production.',
+    excerpt: 'A factory owner explains sustainable sunglasses manufacturing -- bio-acetate, recycled nylon, ocean plastic, eco-friendly packaging, and what "sustainable" actually means in eyewear production.',
     date: 'May 4, 2026',
     category: 'Manufacturing',
     readTime: '14 min read',
@@ -102,7 +102,7 @@ const posts = [
   {
     slug: 'frame-material-comparison',
     title: 'TR90 vs Acetate vs Metal Sunglasses: Which Frame Material Is Right for Your Brand?',
-    excerpt: 'A factory owner breaks down TR90, acetate, and metal sunglasses frames — real cost data, weight comparisons, durability tests, and which material works best for different brand strategies.',
+    excerpt: 'A factory owner breaks down TR90, acetate, and metal sunglasses frames -- real cost data, weight comparisons, durability tests, and which material works best for different brand strategies.',
     date: 'May 4, 2026',
     category: 'Manufacturing',
     readTime: '14 min read',
@@ -112,7 +112,7 @@ const posts = [
   {
     slug: 'uv400-vs-polarized',
     title: 'UV400 vs Polarized Sunglasses: What\'s the Difference and Do You Need Both?',
-    excerpt: 'A sunglasses factory owner explains the real difference between UV400 and polarized lenses — what each does, wholesale cost impact, and when your brand needs one, both, or neither.',
+    excerpt: 'A sunglasses factory owner explains the real difference between UV400 and polarized lenses -- what each does, wholesale cost impact, and when your brand needs one, both, or neither.',
     date: 'May 4, 2026',
     category: 'Technology',
     readTime: '12 min read',
@@ -122,7 +122,7 @@ const posts = [
   {
     slug: 'sunglasses-coating-guide',
     title: 'Sunglasses Coating Guide: Mirror, Anti-Reflective, Hydrophobic & More',
-    excerpt: 'A factory owner breaks down every sunglasses coating type — mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs per pair and which coatings stack together.',
+    excerpt: 'A factory owner breaks down every sunglasses coating type -- mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs per pair and which coatings stack together.',
     date: 'May 4, 2026',
     category: 'Technology',
     readTime: '15 min read',
@@ -142,7 +142,7 @@ const posts = [
   {
     slug: 'custom-sunglasses-packaging',
     title: 'Custom Sunglasses Packaging: Complete Branding Guide for 2026',
-    excerpt: 'A factory owner breaks down every packaging option for sunglasses brands — hard cases, soft pouches, retail boxes, hang tags, and more. Real costs, real examples, and tips that actually work.',
+    excerpt: 'A factory owner breaks down every packaging option for sunglasses brands -- hard cases, soft pouches, retail boxes, hang tags, and more. Real costs, real examples, and tips that actually work.',
     date: 'May 4, 2026',
     category: 'Branding',
     readTime: '14 min read',
@@ -172,7 +172,7 @@ const posts = [
   {
     slug: 'oem-vs-odm',
     title: 'OEM vs ODM Sunglasses: What\'s the Difference? Complete Guide',
-    excerpt: 'After 3,000 conversations about OEM vs ODM, here\'s the honest version — real costs, real timelines, and a decision framework that actually helps you choose.',
+    excerpt: 'After 3,000 conversations about OEM vs ODM, here\'s the honest version -- real costs, real timelines, and a decision framework that actually helps you choose.',
     date: 'April 20, 2026',
     category: 'Manufacturing',
     readTime: '12 min read',
@@ -182,7 +182,7 @@ const posts = [
   {
     slug: 'start-sunglasses-brand',
     title: 'How to Start a Sunglasses Brand: Complete Guide',
-    excerpt: 'The full playbook from idea to first sale — market research, sourcing, branding, pricing, and marketing. Everything I wish someone told me when I started in 2006.',
+    excerpt: 'The full playbook from idea to first sale -- market research, sourcing, branding, pricing, and marketing. Everything I wish someone told me when I started in 2006.',
     date: 'March 28, 2026',
     category: 'Business',
     readTime: '10 min read',
@@ -204,7 +204,7 @@ export default function BlogPage() {
             From the Factory Floor
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Straight talk about sunglasses manufacturing, sourcing, and brand building — 
+            Straight talk about sunglasses manufacturing, sourcing, and brand building -- 
             written by someone who&apos;s been making sunglasses since 2006.
           </p>
           <div className="flex items-center justify-center gap-3 mt-6">
@@ -276,7 +276,7 @@ export default function BlogPage() {
             Get Factory Insights in Your Inbox
           </h2>
           <p className="text-primary-100 mb-8 max-w-xl mx-auto">
-            One email per month. No fluff — just the manufacturing tips, market trends, 
+            One email per month. No fluff -- just the manufacturing tips, market trends, 
             and sourcing strategies that actually help you build a better brand.
           </p>
           <form className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">

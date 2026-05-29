@@ -20,23 +20,23 @@ export const metadata: Metadata = {
 const rxFaqs = [
   {
     question: 'What prescription types can you manufacture?',
-    answer: 'We cover the full range. Single vision is our bread and butter — that is your standard distance or reading prescription in tinted lenses. Progressive (no-line bifocal) is the fastest-growing segment because customers want distance, intermediate, and near vision in one pair of sunglasses. We also do traditional bifocal (with the visible line) though demand has dropped significantly. For specialized needs, we can do prism lenses, anisometropic prescriptions (different power in each eye up to ±8.00 sphere), and even free-form digital surfacing for high-precision prescriptions. Our lens lab uses digital free-form generators that handle prescriptions from ±0.25 to ±8.00 sphere and up to ±4.00 cylinder for astigmatism.',
+    answer: 'We cover the full range. Single vision is our bread and butter -- that is your standard distance or reading prescription in tinted lenses. Progressive (no-line bifocal) is the fastest-growing segment because customers want distance, intermediate, and near vision in one pair of sunglasses. We also do traditional bifocal (with the visible line) though demand has dropped significantly. For specialized needs, we can do prism lenses, anisometropic prescriptions (different power in each eye up to ±8.00 sphere), and even free-form digital surfacing for high-precision prescriptions. Our lens lab uses digital free-form generators that handle prescriptions from ±0.25 to ±8.00 sphere and up to ±4.00 cylinder for astigmatism.',
   },
   {
     question: 'What lens materials do you offer for prescription sunglasses?',
-    answer: 'Three main options. Polycarbonate is the standard — it is impact-resistant, lightweight (about 2.0g per lens), and inherently UV-blocking. This is what we recommend for most prescription sunglasses because it meets FDA drop-ball impact requirements without extra treatment. TR-90 (polyamide) is another lightweight option with slightly better optical clarity than polycarbonate, though it costs about $1-2 more per pair. For premium orders, we offer high-index 1.60 or 1.67 MR-8 polyurethane — thinner, lighter, and optically superior with an Abbe value of 41 (versus 30 for polycarbonate, meaning less chromatic aberration). MR-8 adds $3-5 per pair but if your brand is positioned as premium and your customers have stronger prescriptions, the visual difference is noticeable.',
+    answer: 'Three main options. Polycarbonate is the standard -- it is impact-resistant, lightweight (about 2.0g per lens), and inherently UV-blocking. This is what we recommend for most prescription sunglasses because it meets FDA drop-ball impact requirements without extra treatment. TR-90 (polyamide) is another lightweight option with slightly better optical clarity than polycarbonate, though it costs about $1-2 more per pair. For premium orders, we offer high-index 1.60 or 1.67 MR-8 polyurethane -- thinner, lighter, and optically superior with an Abbe value of 41 (versus 30 for polycarbonate, meaning less chromatic aberration). MR-8 adds $3-5 per pair but if your brand is positioned as premium and your customers have stronger prescriptions, the visual difference is noticeable.',
   },
   {
     question: 'Can prescription sunglasses be polarized?',
-    answer: 'Yes, absolutely. We can put polarized treatment on any prescription lens material — polycarbonate, TR-90, or MR-8. The polarized film is laminated between lens layers during the edging process, so the prescription curve and polarization work together seamlessly. Polarized prescription lenses add about $2-4 per pair depending on material. Tint options for polarized Rx lenses are limited to gray, brown, and green (those are the only colors that work with polarization technology), but within those three, we can match any density from 15% to 85% visible light transmission. For most prescription sunglasses, we recommend gray at 75-85% density — it preserves true color perception while cutting glare.',
+    answer: 'Yes, absolutely. We can put polarized treatment on any prescription lens material -- polycarbonate, TR-90, or MR-8. The polarized film is laminated between lens layers during the edging process, so the prescription curve and polarization work together seamlessly. Polarized prescription lenses add about $2-4 per pair depending on material. Tint options for polarized Rx lenses are limited to gray, brown, and green (those are the only colors that work with polarization technology), but within those three, we can match any density from 15% to 85% visible light transmission. For most prescription sunglasses, we recommend gray at 75-85% density -- it preserves true color perception while cutting glare.',
   },
   {
     question: 'What coatings can be applied to prescription sunglass lenses?',
-    answer: 'Pretty much everything. The standard stack we recommend is: hard coat (scratch resistance) on both sides, then anti-reflective coating on the back surface (the side facing your eye) to eliminate reflected light bouncing off the inside of the lens, then hydrophobic/oleophobic top coat. For prescription sunglasses specifically, the backside AR coating is critical — without it, customers see their own eye reflected in the lens, which is distracting and looks cheap. We can also do photochromic (transition) treatment on prescription lenses — the lens darkens in UV light. This lets you sell one pair that works indoors and outdoors, which is a compelling product story.',
+    answer: 'Pretty much everything. The standard stack we recommend is: hard coat (scratch resistance) on both sides, then anti-reflective coating on the back surface (the side facing your eye) to eliminate reflected light bouncing off the inside of the lens, then hydrophobic/oleophobic top coat. For prescription sunglasses specifically, the backside AR coating is critical -- without it, customers see their own eye reflected in the lens, which is distracting and looks cheap. We can also do photochromic (transition) treatment on prescription lenses -- the lens darkens in UV light. This lets you sell one pair that works indoors and outdoors, which is a compelling product story.',
   },
   {
     question: 'What is the minimum order quantity for prescription sunglasses?',
-    answer: 'MOQ is 100 pieces per frame style, but there is a catch with prescription: each individual prescription is unique, so you need to provide us with a prescription breakdown. For example, if your MOQ is 100 pairs, a typical distribution might be: 20 pairs at plano (no prescription, for customers who just want sunglasses), 30 pairs at -1.00 to -2.00 sphere (the most common range), 35 pairs at -2.25 to -4.00, 10 pairs at -4.25 to -6.00, and 5 pairs at -6.25+. We provide a standard prescription distribution template that is based on global refractive error data. If you are targeting a specific market — say, older demographics for reading sunglasses — we adjust the distribution accordingly.',
+    answer: 'MOQ is 100 pieces per frame style, but there is a catch with prescription: each individual prescription is unique, so you need to provide us with a prescription breakdown. For example, if your MOQ is 100 pairs, a typical distribution might be: 20 pairs at plano (no prescription, for customers who just want sunglasses), 30 pairs at -1.00 to -2.00 sphere (the most common range), 35 pairs at -2.25 to -4.00, 10 pairs at -4.25 to -6.00, and 5 pairs at -6.25+. We provide a standard prescription distribution template that is based on global refractive error data. If you are targeting a specific market -- say, older demographics for reading sunglasses -- we adjust the distribution accordingly.',
   },
   {
     question: 'How long does prescription sunglasses production take?',
@@ -47,42 +47,42 @@ const rxFaqs = [
 const products = [
   {
     name: 'Single Vision Prescription Sunglasses',
-    description: 'Standard distance or reading prescription in tinted sunglass lenses. Available in polycarbonate, TR-90, or high-index 1.60 MR-8 material. Tint options: gray, brown, green, or custom. This is the most common prescription sunglass order — simple, reliable, and cost-effective. Covers 80% of the prescription market.',
+    description: 'Standard distance or reading prescription in tinted sunglass lenses. Available in polycarbonate, TR-90, or high-index 1.60 MR-8 material. Tint options: gray, brown, green, or custom. This is the most common prescription sunglass order -- simple, reliable, and cost-effective. Covers 80% of the prescription market.',
     price: '$8.00 - $18.00',
     moq: '100 pcs',
     features: ['±0.25 to ±8.00 Sphere', 'Polycarbonate / MR-8', 'UV400 Protection', 'Hard Coat + AR Back'],
   },
   {
     name: 'Progressive Prescription Sunglasses',
-    description: 'No-line bifocal prescription sunglasses with distance, intermediate, and near vision zones in a single tinted lens. The fastest-growing segment in the Rx sunglass market. We use digital free-form surfacing for a wide, comfortable reading zone — older versions of progressives had a narrow "corridor" that made it hard to find the reading zone. Our free-form progressives have a 40% wider reading zone than traditional progressives. Adds $5-8 per pair over single vision.',
+    description: 'No-line bifocal prescription sunglasses with distance, intermediate, and near vision zones in a single tinted lens. The fastest-growing segment in the Rx sunglass market. We use digital free-form surfacing for a wide, comfortable reading zone -- older versions of progressives had a narrow "corridor" that made it hard to find the reading zone. Our free-form progressives have a 40% wider reading zone than traditional progressives. Adds $5-8 per pair over single vision.',
     price: '$15.00 - $28.00',
     moq: '100 pcs',
     features: ['Digital Free-Form', 'Wide Reading Zone', 'Add +1.00 to +3.00', 'Anti-Reflective Back'],
   },
   {
     name: 'Polarized Prescription Sunglasses',
-    description: 'Prescription lenses with built-in polarization — cuts glare from roads, water, and snow while correcting vision. Available in gray, brown, or green tint. The polarized film is laminated between lens layers during the edging process, so the prescription accuracy is not affected. This is the premium option that customers are willing to pay extra for. A pair that retails at $60 in standard prescription can sell at $90-120 polarized prescription.',
+    description: 'Prescription lenses with built-in polarization -- cuts glare from roads, water, and snow while correcting vision. Available in gray, brown, or green tint. The polarized film is laminated between lens layers during the edging process, so the prescription accuracy is not affected. This is the premium option that customers are willing to pay extra for. A pair that retails at $60 in standard prescription can sell at $90-120 polarized prescription.',
     price: '$12.00 - $25.00',
     moq: '100 pcs',
     features: ['TAC Polarized Film', 'Gray / Brown / Green', 'Glare Reduction 99%', 'UV400 + Polarized'],
   },
   {
     name: 'Photochromic Prescription Sunglasses',
-    description: 'Transition lenses that clear up indoors and darken in sunlight. One pair that works everywhere — this is a powerful product story for your brand. We offer two types: lens-color-change photochromic (the entire lens darkens) and clear-to-sunglass photochromic (starts clear, darkens to gray/brown/green in UV). The latter is more popular for sunglasses because customers get a clear prescription pair and a sunglass pair in one. Adds $4-6 per pair over standard prescription.',
+    description: 'Transition lenses that clear up indoors and darken in sunlight. One pair that works everywhere -- this is a powerful product story for your brand. We offer two types: lens-color-change photochromic (the entire lens darkens) and clear-to-sunglass photochromic (starts clear, darkens to gray/brown/green in UV). The latter is more popular for sunglasses because customers get a clear prescription pair and a sunglass pair in one. Adds $4-6 per pair over standard prescription.',
     price: '$14.00 - $26.00',
     moq: '100 pcs',
     features: ['Clear-to-Dark Transition', 'UV-Activated', 'Indoor + Outdoor', '1-2 Min Activation'],
   },
   {
     name: 'Blue Light Prescription Sunglasses',
-    description: 'Prescription sunglasses with blue light filtering — for customers who spend hours on screens and also need outdoor sun protection. The lens blocks 90%+ of harmful blue light (415-455nm range) while maintaining a sunglass tint for outdoor use. The blue light filter is built into the lens material (not a coating that can scratch off), so it lasts the life of the lenses. This is a niche but growing category — especially for professionals who commute and spend most of their day at a computer.',
+    description: 'Prescription sunglasses with blue light filtering -- for customers who spend hours on screens and also need outdoor sun protection. The lens blocks 90%+ of harmful blue light (415-455nm range) while maintaining a sunglass tint for outdoor use. The blue light filter is built into the lens material (not a coating that can scratch off), so it lasts the life of the lenses. This is a niche but growing category -- especially for professionals who commute and spend most of their day at a computer.',
     price: '$10.00 - $22.00',
     moq: '100 pcs',
     features: ['90%+ Blue Light Block', 'Built-In (Not Coated)', '415-455nm Range', 'Tinted for Outdoor'],
   },
   {
     name: 'Reading Sunglasses (Presbyopia)',
-    description: 'Ready-made reading sunglasses in standard reading powers (+1.00 to +4.00) for the mass market. No custom prescription needed — customers just pick their reading strength. These are perfect for retail display, pharmacy checkout, beach shops, and online direct sales. We produce them in batches of common powers, so the cost is much lower than custom prescription. Each pair includes a printed card showing the power and a simple eye chart for self-testing. Margins on reading sunglasses are excellent — production cost $2-4, retail $15-30.',
+    description: 'Ready-made reading sunglasses in standard reading powers (+1.00 to +4.00) for the mass market. No custom prescription needed -- customers just pick their reading strength. These are perfect for retail display, pharmacy checkout, beach shops, and online direct sales. We produce them in batches of common powers, so the cost is much lower than custom prescription. Each pair includes a printed card showing the power and a simple eye chart for self-testing. Margins on reading sunglasses are excellent -- production cost $2-4, retail $15-30.',
     price: '$2.00 - $5.00',
     moq: '500 pcs',
     features: ['+1.00 to +4.00 Powers', 'Ready-Made (No Rx Needed)', 'Retail-Ready Packaging', 'Self-Test Card Included'],
@@ -137,13 +137,13 @@ export default function PrescriptionSunglassesPage() {
           <div className="max-w-4xl mx-auto mb-16">
             <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
               <p className="text-xl leading-relaxed mb-4">
-                Here is a number that will surprise you: <strong>4 billion people worldwide</strong> need vision correction. That is half the planet wearing glasses or contacts. And a significant portion of those people also need sunglasses — either a tinted prescription pair for outdoors, or reading sunglasses for when they hit their mid-forties. The global prescription sunglass market is worth over $15 billion and growing at 6% annually (<a href="https://www.grandviewresearch.com/industry-analysis/eyeglass-lens-market" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Grand View Research, 2024</a>). If your eyewear brand does not have a prescription offering, you are leaving half your potential customers on the table.
+                Here is a number that will surprise you: <strong>4 billion people worldwide</strong> need vision correction. That is half the planet wearing glasses or contacts. And a significant portion of those people also need sunglasses -- either a tinted prescription pair for outdoors, or reading sunglasses for when they hit their mid-forties. The global prescription sunglass market is worth over $15 billion and growing at 6% annually (<a href="https://www.grandviewresearch.com/industry-analysis/eyeglass-lens-market" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Grand View Research, 2024</a>). If your eyewear brand does not have a prescription offering, you are leaving half your potential customers on the table.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                We have operated a digital lens lab in our factory since 2014. We use <a href="https://en.wikipedia.org/wiki/Free-form_optics" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">digital free-form surfacing</a> equipment from Topcon and Hoya — the same machines that independent optical labs use worldwide. The difference is that we integrate prescription lenses into sunglass frames at scale, with full OEM customization. Your brand, your frame choice, your lens material, your tint, your coatings — all manufactured under one roof with the same quality control we apply to every pair we produce.
+                We have operated a digital lens lab in our factory since 2014. We use <a href="https://en.wikipedia.org/wiki/Free-form_optics" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">digital free-form surfacing</a> equipment from Topcon and Hoya -- the same machines that independent optical labs use worldwide. The difference is that we integrate prescription lenses into sunglass frames at scale, with full OEM customization. Your brand, your frame choice, your lens material, your tint, your coatings -- all manufactured under one roof with the same quality control we apply to every pair we produce.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                The business opportunity here is significant. Prescription sunglasses command <strong>2-3x the retail price</strong> of standard sunglasses. A wayfarer that sells for $35 non-prescription can sell for $80-120 with prescription lenses. And the customer loyalty is unmatched — once someone finds a brand that makes prescription sunglasses they like, they come back every two years for a new pair (and they tell their friends). Let me show you what we can do.
+                The business opportunity here is significant. Prescription sunglasses command <strong>2-3x the retail price</strong> of standard sunglasses. A wayfarer that sells for $35 non-prescription can sell for $80-120 with prescription lenses. And the customer loyalty is unmatched -- once someone finds a brand that makes prescription sunglasses they like, they come back every two years for a new pair (and they tell their friends). Let me show you what we can do.
               </p>
             </div>
           </div>
@@ -160,7 +160,7 @@ export default function PrescriptionSunglassesPage() {
                 <div className="text-3xl mb-4">🔵</div>
                 <h3 className="text-xl font-bold mb-3">Polycarbonate</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  The industry standard for prescription sunglass lenses. Impact-resistant (meets FDA drop-ball test), lightweight at 2.0g per lens, and inherently blocks 100% UV without any coating. The optical clarity is decent (Abbe value 30) — fine for most prescriptions. The limitation is that polycarbonate is harder to coat, so the coating adhesion is not as strong as MR-8. We compensate with a plasma pre-treatment that significantly improves coating bond strength. Best for: everyday prescription sunglasses, sports eyewear, kids prescription.
+                  The industry standard for prescription sunglass lenses. Impact-resistant (meets FDA drop-ball test), lightweight at 2.0g per lens, and inherently blocks 100% UV without any coating. The optical clarity is decent (Abbe value 30) -- fine for most prescriptions. The limitation is that polycarbonate is harder to coat, so the coating adhesion is not as strong as MR-8. We compensate with a plasma pre-treatment that significantly improves coating bond strength. Best for: everyday prescription sunglasses, sports eyewear, kids prescription.
                 </p>
                 <div className="text-primary-600 font-bold">$3-6 per lens (base)</div>
               </div>
@@ -169,7 +169,7 @@ export default function PrescriptionSunglassesPage() {
                 <div className="text-3xl mb-4">💎</div>
                 <h3 className="text-xl font-bold mb-3">MR-8 High-Index 1.60</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  MR-8 is a polyurethane material from Mitsui Chemicals (Japan) that is widely considered the best all-around lens material. It combines a high refractive index (1.60 — thinner than polycarbonate) with excellent optical clarity (Abbe value 41 — significantly less chromatic aberration). The coating adhesion is superb, which means the hard coat, AR, and hydrophobic layers bond more strongly and last longer. It is slightly heavier than polycarbonate (2.2g per lens) but the visual difference is worth it. Best for: premium prescription sunglasses, moderate to high prescriptions, fashion-forward brands.
+                  MR-8 is a polyurethane material from Mitsui Chemicals (Japan) that is widely considered the best all-around lens material. It combines a high refractive index (1.60 -- thinner than polycarbonate) with excellent optical clarity (Abbe value 41 -- significantly less chromatic aberration). The coating adhesion is superb, which means the hard coat, AR, and hydrophobic layers bond more strongly and last longer. It is slightly heavier than polycarbonate (2.2g per lens) but the visual difference is worth it. Best for: premium prescription sunglasses, moderate to high prescriptions, fashion-forward brands.
                 </p>
                 <div className="text-primary-600 font-bold">$6-10 per lens (base)</div>
               </div>
@@ -178,7 +178,7 @@ export default function PrescriptionSunglassesPage() {
                 <div className="text-3xl mb-4">⚡</div>
                 <h3 className="text-xl font-bold mb-3">High-Index 1.67</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  For stronger prescriptions (above ±4.00 sphere), 1.67 high-index keeps the lenses thin and attractive. A -6.00 prescription in 1.67 index is roughly 30% thinner at the edge than the same prescription in 1.50 standard index. The trade-off is slightly lower Abbe value (32) and higher cost. For prescriptions above ±6.00, we recommend 1.67 or even 1.74 index (available on request). Thin lenses matter for sunglasses because thick edges are visible through the tint and look unattractive — customers notice.
+                  For stronger prescriptions (above ±4.00 sphere), 1.67 high-index keeps the lenses thin and attractive. A -6.00 prescription in 1.67 index is roughly 30% thinner at the edge than the same prescription in 1.50 standard index. The trade-off is slightly lower Abbe value (32) and higher cost. For prescriptions above ±6.00, we recommend 1.67 or even 1.74 index (available on request). Thin lenses matter for sunglasses because thick edges are visible through the tint and look unattractive -- customers notice.
                 </p>
                 <div className="text-primary-600 font-bold">$8-14 per lens (base)</div>
               </div>
@@ -228,10 +228,10 @@ export default function PrescriptionSunglassesPage() {
                 <div className="space-y-3">
                   {[
                     ['Plano (no prescription)', '20 pairs', 'For customers who want tinted lenses only'],
-                    ['SPH -0.25 to -2.00', '25 pairs', 'Mild myopia — most common range globally'],
-                    ['SPH -2.25 to -4.00', '30 pairs', 'Moderate myopia — largest single segment'],
+                    ['SPH -0.25 to -2.00', '25 pairs', 'Mild myopia -- most common range globally'],
+                    ['SPH -2.25 to -4.00', '30 pairs', 'Moderate myopia -- largest single segment'],
                     ['SPH -4.25 to -6.00', '15 pairs', 'Moderate-high myopia'],
-                    ['SPH -6.25 to -8.00', '7 pairs', 'High myopia — requires high-index material'],
+                    ['SPH -6.25 to -8.00', '7 pairs', 'High myopia -- requires high-index material'],
                     ['CYL (astigmatism)', '3 pairs', 'Included across the above ranges as needed'],
                   ].map(([range, qty, note], i) => (
                     <div key={i} className="flex items-center justify-between py-2 border-b border-gray-100 last:border-0">
@@ -248,23 +248,23 @@ export default function PrescriptionSunglassesPage() {
                 <ul className="space-y-2 text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-blue-600 mt-1">✓</span>
-                    <span><strong>Frame selection</strong> — any frame from our catalog or your custom design</span>
+                    <span><strong>Frame selection</strong> -- any frame from our catalog or your custom design</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-blue-600 mt-1">✓</span>
-                    <span><strong>Lens material preference</strong> — we recommend based on your price point and target market</span>
+                    <span><strong>Lens material preference</strong> -- we recommend based on your price point and target market</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-blue-600 mt-1">✓</span>
-                    <span><strong>Prescription breakdown</strong> — we provide a template, or use our standard distribution above</span>
+                    <span><strong>Prescription breakdown</strong> -- we provide a template, or use our standard distribution above</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-blue-600 mt-1">✓</span>
-                    <span><strong>Tint color and density</strong> — gray and brown are top sellers; we can custom-match</span>
+                    <span><strong>Tint color and density</strong> -- gray and brown are top sellers; we can custom-match</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-blue-600 mt-1">✓</span>
-                    <span><strong>Coating preferences</strong> — hard coat + backside AR is standard; add polarized/photochromic as needed</span>
+                    <span><strong>Coating preferences</strong> -- hard coat + backside AR is standard; add polarized/photochromic as needed</span>
                   </li>
                 </ul>
               </div>
@@ -281,9 +281,9 @@ export default function PrescriptionSunglassesPage() {
             <div className="grid md:grid-cols-2 gap-6">
               {[
                 { icon: '🛡️', name: 'Hard Coat', desc: 'Anti-scratch layer applied to both surfaces. Essential for sunglass lenses that get set down on tables, tossed in bags, and exposed to sand and dust. Without it, polycarbonate lenses scratch within weeks. We use a thermal-cured silicone-based hard coat that passes the Steel Wool Test (ASTM D968).' },
-                { icon: '🔇', name: 'Anti-Reflective (Back Surface)', desc: 'Applied to the back (eye-facing) surface only. Eliminates the annoying reflection of the wearer\'s eye that you see in cheap prescription sunglasses. Customers immediately notice the difference — it makes the lenses look clearer and more premium. We strongly recommend this for any prescription sunglass over $50 retail.' },
+                { icon: '🔇', name: 'Anti-Reflective (Back Surface)', desc: 'Applied to the back (eye-facing) surface only. Eliminates the annoying reflection of the wearer\'s eye that you see in cheap prescription sunglasses. Customers immediately notice the difference -- it makes the lenses look clearer and more premium. We strongly recommend this for any prescription sunglass over $50 retail.' },
                 { icon: '💧', name: 'Hydrophobic / Oleophobic', desc: 'The "Teflon" layer on top. Repels water, oil, fingerprints, and sweat. Makes lenses much easier to clean and keeps them looking clear throughout the day. Especially important for sunglasses because sweat and sunscreen get on the lenses constantly. Lasts 1-2 years with normal use before degrading.' },
-                { icon: '🌊', name: 'Polarized Film', desc: 'A polarizing film laminated between lens layers that blocks horizontally-polarized light — the glare that bounces off roads, water, car hoods, and snow. Reduces eye fatigue significantly for driving and outdoor activities. Available in gray (neutral color), brown (enhances contrast), and green (balanced).' },
+                { icon: '🌊', name: 'Polarized Film', desc: 'A polarizing film laminated between lens layers that blocks horizontally-polarized light -- the glare that bounces off roads, water, car hoods, and snow. Reduces eye fatigue significantly for driving and outdoor activities. Available in gray (neutral color), brown (enhances contrast), and green (balanced).' },
               ].map((coating, i) => (
                 <div key={i} className="bg-white rounded-xl p-6 border border-gray-100">
                   <div className="text-3xl mb-3">{coating.icon}</div>
@@ -359,7 +359,7 @@ export default function PrescriptionSunglassesPage() {
               <Link href="/certifications" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">📋</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Our Certifications</h3>
-                <p className="text-gray-600 text-sm">FDA, CE, UV400, ANSI Z80.3 — see the compliance standards our prescription lenses meet for the US, EU, and global markets.</p>
+                <p className="text-gray-600 text-sm">FDA, CE, UV400, ANSI Z80.3 -- see the compliance standards our prescription lenses meet for the US, EU, and global markets.</p>
               </Link>
             </div>
           </section>

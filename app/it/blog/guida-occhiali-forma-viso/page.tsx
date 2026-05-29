@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'I Migliori Occhiali da Sole per la Tua Forma del Viso: Guida Completa',
-  description: 'Trova gli occhiali da sole perfetti per la tua forma del viso — rotondo, ovale, quadrato, a cuore, oblungo. Un proprietario di fabbrica spiega quali montature valorizzano ogni forma con esempi reali.',
+  description: 'Trova gli occhiali da sole perfetti per la tua forma del viso -- rotondo, ovale, quadrato, a cuore, oblungo. Un proprietario di fabbrica spiega quali montature valorizzano ogni forma con esempi reali.',
   keywords: 'occhiali forma viso, migliori occhiali viso rotondo, occhiali viso ovale, occhiali viso quadrato, occhiali viso cuore, guida acquisto occhiali',
   alternates: { canonical: '/it/blog/guida-occhiali-forma-viso', languages: { 'en': '/blog/sunglasses-face-shape-guide', 'it': '/it/blog/guida-occhiali-forma-viso' } },
 }
@@ -38,7 +38,7 @@ export default function GuidaFormaVisoPage() {
 
           <h2 className="text-3xl font-bold mt-16 mb-6">Viso Ovale</h2>
           <p><strong>Caratteristiche:</strong> Proporzionato, leggermente più stretto a fronte e mascella, zigomi prominenti.</p>
-          <p><strong>Montature ideali:</strong> Praticamente tutto! Il viso ovale è il più versatile. Wayfarer, aviator, cat-eye, rotondi — prova tutto.</p>
+          <p><strong>Montature ideali:</strong> Praticamente tutto! Il viso ovale è il più versatile. Wayfarer, aviator, cat-eye, rotondi -- prova tutto.</p>
           <p><strong>Consiglio:</strong> Scegli montature larghe quanto il punto più largo del viso per mantenere le proporzioni naturali.</p>
 
           <h2 className="text-3xl font-bold mt-16 mb-6">Viso Quadrato</h2>
@@ -58,7 +58,7 @@ export default function GuidaFormaVisoPage() {
 
           <div className="bg-primary-50 border-l-4 border-primary-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-primary-900 mb-2">Consiglio per i Brand:</h3>
-            <p className="text-primary-800">Includi una guida alla forma del viso sul tuo sito web. È uno dei contenuti più cercati nel settore eyewear e aiuta i clienti a sentirsi sicuri nell&apos;acquisto — soprattutto online dove non possono provare. I brand che includono questa guida vedono tassi di reso inferiori del 15-20%.</p>
+            <p className="text-primary-800">Includi una guida alla forma del viso sul tuo sito web. È uno dei contenuti più cercati nel settore eyewear e aiuta i clienti a sentirsi sicuri nell&apos;acquisto -- soprattutto online dove non possono provare. I brand che includono questa guida vedono tassi di reso inferiori del 15-20%.</p>
           </div>
 
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
@@ -70,12 +70,13 @@ export default function GuidaFormaVisoPage() {
           <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">Altro dal Reparto Produzione</h2>
             <div className="grid md:grid-cols-2 gap-6">
-              <Link href="/it/blog/tendenze-design-occhiali-2026" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Tendenze Design Occhiali 2026</h3><p className="text-gray-600 text-sm">Cosa si vende adesso — dati reali dalla nostra fabbrica.</p></Link>
+              <Link href="/it/blog/tendenze-design-occhiali-2026" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Tendenze Design Occhiali 2026</h3><p className="text-gray-600 text-sm">Cosa si vende adesso -- dati reali dalla nostra fabbrica.</p></Link>
               <Link href="/it/blog/confronto-materiali-montature" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">TR90 vs Acetato vs Metallo</h3><p className="text-gray-600 text-sm">Quale materiale è giusto per il tuo brand?</p></Link>
             </div>
           </div>
         </div>
       </div>
     </article>
+    </>
   )
 }

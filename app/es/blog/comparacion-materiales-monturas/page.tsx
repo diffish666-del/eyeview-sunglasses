@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'TR90 vs Acetato vs Metal: ¿Qué Material de Montura Es el Adecuado para Tu Marca?',
-  description: 'Un dueño de fábrica desglosa monturas TR90, acetato y metal — datos reales de costos, comparaciones de peso, pruebas de durabilidad y qué material funciona mejor para cada estrategia de marca.',
+  description: 'Un dueño de fábrica desglosa monturas TR90, acetato y metal -- datos reales de costos, comparaciones de peso, pruebas de durabilidad y qué material funciona mejor para cada estrategia de marca.',
   keywords: 'comparación materiales monturas gafas, gafas TR90, monturas acetato, monturas metal gafas, TR90 vs acetato, costo materiales gafas',
   alternates: {
     canonical: '/es/blog/comparacion-materiales-monturas',
@@ -26,7 +26,7 @@ export default function ComparacionMaterialesMonturaPage() {
           "dateModified": "2026-05-03",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un dueño de fábrica desglosa monturas TR90, acetato y metal — costos reales, peso, durabilidad y qué material se adapta a tu marca.",
+          "description": "Un dueño de fábrica desglosa monturas TR90, acetato y metal -- costos reales, peso, durabilidad y qué material se adapta a tu marca.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/comparacion-materiales-monturas" },
           "inLanguage": "es"
         })}} />
@@ -35,10 +35,10 @@ export default function ComparacionMaterialesMonturaPage() {
           "@context": "https://schema.org",
           "@type": "FAQPage",
           "mainEntity": [
-            { "@type": "Question", "name": "¿Qué es TR90 y por qué se usa en gafas de sol?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 es una poliamida termoplástica (polímero a base de nylon) desarrollada originalmente para uso médico y militar. Es extremadamente ligera — unos 15-20 gramos por montura completa — y prácticamente irrompible en uso normal. Se ha convertido en el material preferido para gafas deportivas porque se flexiona en vez de romperse, resiste el sudor y los químicos, y cuesta $3-8 por montura al por mayor." } },
-            { "@type": "Question", "name": "¿Es el acetato mejor que el TR90 para gafas de sol?", "acceptedAnswer": { "@type": "Answer", "text": "Depende de tu posicionamiento de marca. El acetato se ve y se siente más premium — colores más ricos, patrones más profundos, peso más sustancioso que transmite calidad. Pero el TR90 es más ligero, más duradero y más barato. Si construyes una marca de moda o lujo, gana el acetato. Si apuntas a clientes deportivos u orientados al valor, el TR90 es mejor." } },
-            { "@type": "Question", "name": "¿Cuánto cuestan los diferentes materiales de montura al por mayor?", "acceptedAnswer": { "@type": "Answer", "text": "Precios reales de fábrica: monturas TR90 cuestan $3-8 por par, monturas de acetato $5-11, y monturas metálicas de $8-22 dependiendo de la aleación y construcción. Estos son costos solo de montura — añade $1,50-8 para lentes según tipo y recubrimientos." } },
-            { "@type": "Question", "name": "¿Puedo mezclar materiales de montura en mi línea?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutamente — y la mayoría de marcas exitosas hacen exactamente eso. Una marca típica podría tener monturas TR90 deportivas a $29-49 retail, monturas de acetato de moda a $79-149, y un par de aviadores metálicos a $99-179. Mezclar materiales te permite cubrir diferentes puntos de precio y segmentos de clientes." } }
+            { "@type": "Question", "name": "¿Qué es TR90 y por qué se usa en gafas de sol?", "acceptedAnswer": { "@type": "Answer", "text": "TR90 es una poliamida termoplástica (polímero a base de nylon) desarrollada originalmente para uso médico y militar. Es extremadamente ligera -- unos 15-20 gramos por montura completa -- y prácticamente irrompible en uso normal. Se ha convertido en el material preferido para gafas deportivas porque se flexiona en vez de romperse, resiste el sudor y los químicos, y cuesta $3-8 por montura al por mayor." } },
+            { "@type": "Question", "name": "¿Es el acetato mejor que el TR90 para gafas de sol?", "acceptedAnswer": { "@type": "Answer", "text": "Depende de tu posicionamiento de marca. El acetato se ve y se siente más premium -- colores más ricos, patrones más profundos, peso más sustancioso que transmite calidad. Pero el TR90 es más ligero, más duradero y más barato. Si construyes una marca de moda o lujo, gana el acetato. Si apuntas a clientes deportivos u orientados al valor, el TR90 es mejor." } },
+            { "@type": "Question", "name": "¿Cuánto cuestan los diferentes materiales de montura al por mayor?", "acceptedAnswer": { "@type": "Answer", "text": "Precios reales de fábrica: monturas TR90 cuestan $3-8 por par, monturas de acetato $5-11, y monturas metálicas de $8-22 dependiendo de la aleación y construcción. Estos son costos solo de montura -- añade $1,50-8 para lentes según tipo y recubrimientos." } },
+            { "@type": "Question", "name": "¿Puedo mezclar materiales de montura en mi línea?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutamente -- y la mayoría de marcas exitosas hacen exactamente eso. Una marca típica podría tener monturas TR90 deportivas a $29-49 retail, monturas de acetato de moda a $79-149, y un par de aviadores metálicos a $99-179. Mezclar materiales te permite cubrir diferentes puntos de precio y segmentos de clientes." } }
           ]
         })}} />
 
@@ -50,7 +50,7 @@ export default function ComparacionMaterialesMonturaPage() {
             <span>14 min de lectura</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">TR90 vs Acetato vs Metal: ¿Qué Material de Montura Es el Adecuado para Tu Marca?</h1>
-          <p className="text-xl text-gray-600">Cada semana alguien me pregunta: &quot;Jacky, ¿qué material de montura debería usar?&quot; Después de 20 años y unos 12 millones de monturas, aquí va la respuesta real — con datos de costos reales de nuestra planta de producción.</p>
+          <p className="text-xl text-gray-600">Cada semana alguien me pregunta: &quot;Jacky, ¿qué material de montura debería usar?&quot; Después de 20 años y unos 12 millones de monturas, aquí va la respuesta real -- con datos de costos reales de nuestra planta de producción.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
             <div>
@@ -83,8 +83,8 @@ export default function ComparacionMaterialesMonturaPage() {
           <p>Los clientes no suelen saber nombrar el material de sus gafas. Pero <em>sienten</em> la diferencia al instante. Toman un par y en tres segundos ya han juzgado: &quot;estas se sienten baratas&quot; o &quot;estas se sienten caras.&quot; Esa reacción visceral tiene casi todo que ver con el material.</p>
 
           <h2 id="tr90" className="text-3xl font-bold mt-16 mb-6">TR90: El Atleta</h2>
-          <p><a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener" className="text-primary-600 hover:underline">TR90 es una poliamida termoplástica</a> — básicamente un nylon super-ingeniería. Fue desarrollado originalmente para equipos médicos y aplicaciones militares.</p>
-          <p><strong>Peso:</strong> Una montura TR90 completa pesa 15-20 gramos. <strong>Durabilidad:</strong> Puedes doblarla, torcerla, sentarte encima. TR90 tiene &quot;memoria&quot; — se deforma y vuelve a su forma original. <strong>Resistencia química:</strong> Sudor, protector solar, agua salada — nada afecta al TR90. <strong>Costo:</strong> El moldeo por inyección es rápido y eficiente, $3-8 por montura.</p>
+          <p><a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener" className="text-primary-600 hover:underline">TR90 es una poliamida termoplástica</a> -- básicamente un nylon super-ingeniería. Fue desarrollado originalmente para equipos médicos y aplicaciones militares.</p>
+          <p><strong>Peso:</strong> Una montura TR90 completa pesa 15-20 gramos. <strong>Durabilidad:</strong> Puedes doblarla, torcerla, sentarte encima. TR90 tiene &quot;memoria&quot; -- se deforma y vuelve a su forma original. <strong>Resistencia química:</strong> Sudor, protector solar, agua salada -- nada afecta al TR90. <strong>Costo:</strong> El moldeo por inyección es rápido y eficiente, $3-8 por montura.</p>
           <p><strong>Donde falla:</strong> Se ve y se siente como plástico. Rango de colores limitado (~40 colores sólidos). No grita &quot;lujo&quot;.</p>
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">TR90 en Cifras:</h3>
@@ -99,7 +99,7 @@ export default function ComparacionMaterialesMonturaPage() {
           <h2 id="acetato" className="text-3xl font-bold mt-16 mb-6">Acetato: El Ícono de la Moda</h2>
           <p>El acetato es el material que construyó la industria de gafas de lujo. Está hecho de fibras de algodón y pulpa de madera procesadas en láminas de acetato de celulosa. El mejor viene de <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Mazzucchelli en Italia</a>.</p>
           <p><strong>Estética:</strong> Nada se le acerca. Profundidad de color, patrones carey con capas. <strong>200+ colores y patrones.</strong> <strong>Percepción premium:</strong> Pesa 25-35g, se calienta a la temperatura de la piel, hace un &quot;clic&quot; satisfactorio al cerrarse.</p>
-          <p><strong>Donde falla:</strong> No flexiona como TR90 — puede rajarse. Sensible a protector solar. 3-5x más lento de producir. Más pesado.</p>
+          <p><strong>Donde falla:</strong> No flexiona como TR90 -- puede rajarse. Sensible a protector solar. 3-5x más lento de producir. Más pesado.</p>
           <div className="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-green-900 mb-2">Acetato en Cifras:</h3>
             <ul className="text-green-800 space-y-1">
@@ -111,8 +111,8 @@ export default function ComparacionMaterialesMonturaPage() {
           </div>
 
           <h2 id="metal" className="text-3xl font-bold mt-16 mb-6">Metal: El Clásico</h2>
-          <p>Las monturas metálicas existen desde el siglo XVIII. El aviador — posiblemente la forma de gafas de sol más icónica — es una montura metálica. Las gafas de hoy usan acero inoxidable, titanio, aluminio o aleaciones de níquel.</p>
-          <p><strong>Perfiles delgados y elegantes:</strong> El metal permite monturas de 1-2mm de grosor. <strong>Atractivo atemporal.</strong> <strong>Máxima ajustabilidad.</strong> <strong>El titanio puede ser tan ligero como 12-15g</strong> — más ligero que el TR90.</p>
+          <p>Las monturas metálicas existen desde el siglo XVIII. El aviador -- posiblemente la forma de gafas de sol más icónica -- es una montura metálica. Las gafas de hoy usan acero inoxidable, titanio, aluminio o aleaciones de níquel.</p>
+          <p><strong>Perfiles delgados y elegantes:</strong> El metal permite monturas de 1-2mm de grosor. <strong>Atractivo atemporal.</strong> <strong>Máxima ajustabilidad.</strong> <strong>El titanio puede ser tan ligero como 12-15g</strong> -- más ligero que el TR90.</p>
           <p><strong>Donde falla:</strong> El más caro. Puede corroerse. Se deforma permanentemente si se dobla. Alergias al níquel (10-15% de la población).</p>
           <div className="bg-purple-50 border-l-4 border-purple-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-purple-900 mb-2">Metal en Cifras:</h3>
@@ -166,7 +166,7 @@ export default function ComparacionMaterialesMonturaPage() {
           <div className="space-y-6">
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿Qué es TR90?</h3>
-              <p className="text-gray-600">Una poliamida termoplástica — tipo nylon de ingeniería. Pesa 15-20g, es prácticamente irrompible, resiste sudor y químicos, y cuesta $3-8 por montura al por mayor.</p>
+              <p className="text-gray-600">Una poliamida termoplástica -- tipo nylon de ingeniería. Pesa 15-20g, es prácticamente irrompible, resiste sudor y químicos, y cuesta $3-8 por montura al por mayor.</p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿Es el acetato mejor que el TR90?</h3>
@@ -174,7 +174,7 @@ export default function ComparacionMaterialesMonturaPage() {
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿Cuál es el material más duradero?</h3>
-              <p className="text-gray-600">TR90 gana en resistencia al impacto — flexiona 90°+ sin romperse. El metal se deforma permanentemente. El acetato es resistente pero puede rajarse con impacto fuerte.</p>
+              <p className="text-gray-600">TR90 gana en resistencia al impacto -- flexiona 90°+ sin romperse. El metal se deforma permanentemente. El acetato es resistente pero puede rajarse con impacto fuerte.</p>
             </div>
           </div>
 

@@ -28,7 +28,7 @@ export default function EncontrarFabricanteGafasPage() {
           "dateModified": "2026-05-02",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un dueño de fábrica revela cómo encontrar, evaluar y elegir un fabricante de gafas de sol — con 10 criterios clave, alertas de estafas y consejos reales de negociación.",
+          "description": "Un dueño de fábrica revela cómo encontrar, evaluar y elegir un fabricante de gafas de sol -- con 10 criterios clave, alertas de estafas y consejos reales de negociación.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/es/blog/encontrar-fabricante-gafas" },
           "inLanguage": "es"
         })}} />
@@ -41,17 +41,17 @@ export default function EncontrarFabricanteGafasPage() {
             {
               "@type": "Question",
               "name": "¿Dónde puedo encontrar fabricantes de gafas de sol?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Los principales canales son: Alibaba y Global Sources (los directorios en línea más grandes), ferias como MIDO en Milán y Vision Expo en Las Vegas, búsqueda en Google con palabras clave específicas, asociaciones del sector como The Vision Council, y referencias directas de otros propietarios de marcas. Cada canal tiene ventajas y desventajas — Alibaba tiene más opciones pero requiere una verificación cuidadosa, mientras que las ferias permiten conocer a las fábricas cara a cara." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Los principales canales son: Alibaba y Global Sources (los directorios en línea más grandes), ferias como MIDO en Milán y Vision Expo en Las Vegas, búsqueda en Google con palabras clave específicas, asociaciones del sector como The Vision Council, y referencias directas de otros propietarios de marcas. Cada canal tiene ventajas y desventajas -- Alibaba tiene más opciones pero requiere una verificación cuidadosa, mientras que las ferias permiten conocer a las fábricas cara a cara." }
             },
             {
               "@type": "Question",
               "name": "¿Cómo verifico si un fabricante de gafas de sol es legítimo?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Comprueba: licencias comerciales verificadas, certificaciones de fábrica (CE, FDA, ISO 9001), fotos y vídeos reales de la fábrica (no imágenes de stock), disposición a hacer videollamada de la planta de producción, informes de auditoría de terceros (BSCI, Sedex), historial de participación en ferias, y referencias de clientes existentes. Además, pide muestras antes de comprometerte con cualquier producción — una fábrica legítima estará encantada de enviar muestras." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Comprueba: licencias comerciales verificadas, certificaciones de fábrica (CE, FDA, ISO 9001), fotos y vídeos reales de la fábrica (no imágenes de stock), disposición a hacer videollamada de la planta de producción, informes de auditoría de terceros (BSCI, Sedex), historial de participación en ferias, y referencias de clientes existentes. Además, pide muestras antes de comprometerte con cualquier producción -- una fábrica legítima estará encantada de enviar muestras." }
             },
             {
               "@type": "Question",
               "name": "¿Cuál es un buen MOQ para fabricación de gafas de sol?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Para ODM (diseños existentes con tu marca): 100-300 piezas por modelo es lo estándar, aunque algunas fábricas ofrecen 50 piezas para primeros pedidos. Para OEM (diseños personalizados): 300-1.000 piezas por modelo debido a los costos de moldes. Desconfía de fábricas con MOQ extremadamente bajos (menos de 20 piezas) — suelen ser empresas intermediarias, no fabricantes reales." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Para ODM (diseños existentes con tu marca): 100-300 piezas por modelo es lo estándar, aunque algunas fábricas ofrecen 50 piezas para primeros pedidos. Para OEM (diseños personalizados): 300-1.000 piezas por modelo debido a los costos de moldes. Desconfía de fábricas con MOQ extremadamente bajos (menos de 20 piezas) -- suelen ser empresas intermediarias, no fabricantes reales." }
             },
             {
               "@type": "Question",
@@ -61,7 +61,7 @@ export default function EncontrarFabricanteGafasPage() {
             {
               "@type": "Question",
               "name": "¿Cuánto tiempo tarda en recibir gafas de sol de un fabricante?",
-              "acceptedAnswer": { "@type": "Answer", "text": "ODM: 20-45 días desde la confirmación del pedido hasta el envío. OEM: 45-90 días incluyendo fabricación de moldes, muestreo y producción. Añade 5-30 días de envío según el método (flete aéreo vs marítimo). Los primeros pedidos siempre tardan más debido a las rondas de muestreo y aprobación — presupuesta 2-3 semanas extra para los ajustes." }
+              "acceptedAnswer": { "@type": "Answer", "text": "ODM: 20-45 días desde la confirmación del pedido hasta el envío. OEM: 45-90 días incluyendo fabricación de moldes, muestreo y producción. Añade 5-30 días de envío según el método (flete aéreo vs marítimo). Los primeros pedidos siempre tardan más debido a las rondas de muestreo y aprobación -- presupuesta 2-3 semanas extra para los ajustes." }
             },
             {
               "@type": "Question",
@@ -83,7 +83,7 @@ export default function EncontrarFabricanteGafasPage() {
             Cómo Encontrar un Fabricante de Gafas de Sol Fiable en 2026
           </h1>
           <p className="text-xl text-gray-600">
-            Te voy a contar exactamente cómo encontrar una fábrica como la mía — y lo que es más importante, 
+            Te voy a contar exactamente cómo encontrar una fábrica como la mía -- y lo que es más importante, 
             cómo evitar las que te harán perder dinero y tiempo.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -123,7 +123,7 @@ export default function EncontrarFabricanteGafasPage() {
           </p>
           <p>
             Marcus me encontró a través de un hilo en Reddit. Arreglamos su producto, reconstruimos su línea, 
-            y ahora le va bien. Pero esa lección de $8.000 no tenía por qué pasar. Y por eso escribo esto — 
+            y ahora le va bien. Pero esa lección de $8.000 no tenía por qué pasar. Y por eso escribo esto -- 
             desde la perspectiva de alguien que lleva en el lado de la fabricación desde 2006. Conozco cada truco, 
             cada atajo y cada trampa, porque los he visto desarrollarse cientos de veces.
           </p>
@@ -163,7 +163,7 @@ export default function EncontrarFabricanteGafasPage() {
           <p>
             <a href="https://thevisioncouncil.org/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">The Vision Council</a> (EE.UU.) 
             y <a href="https://www.mido.com/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">MIDO</a> (Italia/global) 
-            mantienen directorios de fabricantes. Estos suelen estar más curados que Alibaba — no encontrarás 
+            mantienen directorios de fabricantes. Estos suelen estar más curados que Alibaba -- no encontrarás 
             operaciones improvisadas en sus listados. La{' '}
             <a href="https://www.anfao.it/en/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">asociación italiana de gafas ANFAO</a> es 
             otro recurso sólido si buscas fabricación europea.
@@ -184,7 +184,7 @@ export default function EncontrarFabricanteGafasPage() {
           </p>
           <p>
             <a href="https://www.alibaba.com/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Alibaba</a> es 
-            un marketplace, no un directorio de fábricas. Cualquiera puede publicar ahí — incluyendo empresas 
+            un marketplace, no un directorio de fábricas. Cualquiera puede publicar ahí -- incluyendo empresas 
             intermediarias. Una empresa intermediaria es básicamente un intermediario: no fabrican nada. Toman tu 
             pedido, buscan la fábrica más barata que lo cumpla, añaden un 15-30% de margen, y te lo envían. 
             Pierdes control sobre la calidad, la comunicación es más lenta, y los problemas son más difíciles 
@@ -198,7 +198,7 @@ export default function EncontrarFabricanteGafasPage() {
           <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-red-900 mb-3">Señales de Empresa Intermediaria en Alibaba:</h3>
             <ul className="text-red-800 space-y-2">
-              <li><strong>La gama de productos es absurdamente amplia.</strong> ¿Gafas de sol Y fundas de móvil Y bolsos Y joyería? Eso no es una fábrica — es un catálogo.</li>
+              <li><strong>La gama de productos es absurdamente amplia.</strong> ¿Gafas de sol Y fundas de móvil Y bolsos Y joyería? Eso no es una fábrica -- es un catálogo.</li>
               <li><strong>Las fotos de fábrica parecen genéricas o de stock.</strong> Las fábricas reales muestran plantas de producción reales y desordenadas. Las intermediarias muestran fotos prístinas, sospechosamente perfectas.</li>
               <li><strong>La dirección es un edificio de oficinas, no una zona industrial.</strong> Pon su dirección en Google Maps. Una fábrica debería estar en una zona industrial, no en el piso 15 de una torre comercial.</li>
               <li><strong>Evitan las videollamadas.</strong> Pide un tour en vídeo en directo de &quot;su&quot; fábrica. Un fabricante real te la mostrará con orgullo. Una intermediaria pondrá excusas.</li>
@@ -208,7 +208,7 @@ export default function EncontrarFabricanteGafasPage() {
 
           <p>
             Dicho esto, Alibaba <em>puede</em> funcionar. Algunas fábricas legítimas sí publican ahí. Úsalo como 
-            herramienta de descubrimiento — encuentra proveedores potenciales y luego verifícalos de forma 
+            herramienta de descubrimiento -- encuentra proveedores potenciales y luego verifícalos de forma 
             independiente con videollamadas, pedidos de muestras y auditorías de terceros.
           </p>
 
@@ -222,7 +222,7 @@ export default function EncontrarFabricanteGafasPage() {
 
           <div className="space-y-6 my-8">
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">MIDO — Milán, Italia (febrero)</h3>
+              <h3 className="font-bold text-lg mb-2">MIDO -- Milán, Italia (febrero)</h3>
               <p className="text-gray-600 text-sm">
                 La feria de gafas más grande del mundo. Más de 50.000 asistentes, más de 1.200 expositores. 
                 Si te tomas en serio las gafas, necesitas ir a MIDO al menos una vez. Los fabricantes italianos 
@@ -230,7 +230,7 @@ export default function EncontrarFabricanteGafasPage() {
               </p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">Vision Expo — Las Vegas y Nueva York (marzo y octubre)</h3>
+              <h3 className="font-bold text-lg mb-2">Vision Expo -- Las Vegas y Nueva York (marzo y octubre)</h3>
               <p className="text-gray-600 text-sm">
                 Las principales ferias de gafas de EE.UU. Más pequeñas que MIDO pero más enfocadas en el mercado 
                 americano. Ideales para conocer fabricantes que ya entienden los requisitos de cumplimiento de 
@@ -238,7 +238,7 @@ export default function EncontrarFabricanteGafasPage() {
               </p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">Feria de Cantón — Guangzhou, China (abril y octubre)</h3>
+              <h3 className="font-bold text-lg mb-2">Feria de Cantón -- Guangzhou, China (abril y octubre)</h3>
               <p className="text-gray-600 text-sm">
                 La gran feria comercial china por excelencia. No es específica de gafas, pero la sección de 
                 gafas de sol es enorme. Encontrarás de todo, desde gafas de $0.50 de gasolinera hasta monturas 
@@ -247,7 +247,7 @@ export default function EncontrarFabricanteGafasPage() {
               </p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">SILMO — París, Francia (septiembre)</h3>
+              <h3 className="font-bold text-lg mb-2">SILMO -- París, Francia (septiembre)</h3>
               <p className="text-gray-600 text-sm">
                 La segunda feria de gafas más grande de Europa. Más enfocada en diseño que MIDO. Si tu marca 
                 se inclina hacia la moda y quieres encontrar fabricantes con fuertes capacidades de diseño, 
@@ -259,7 +259,7 @@ export default function EncontrarFabricanteGafasPage() {
           {/* 10 Criterios */}
           <h2 id="diez-criterios" className="text-3xl font-bold mt-16 mb-6">10 Cosas que Yo Comprobaría Si Fuera Tú</h2>
           <p>
-            Si yo estuviera al otro lado de la mesa — un dueño de marca evaluando una fábrica — esto es exactamente 
+            Si yo estuviera al otro lado de la mesa -- un dueño de marca evaluando una fábrica -- esto es exactamente 
             lo que miraría. Sin relleno, solo lo que realmente predice si vas a obtener un buen producto y un socio fiable.
           </p>
 
@@ -275,7 +275,7 @@ export default function EncontrarFabricanteGafasPage() {
           <p>
             La fabricación de gafas de sol no es algo que se domina en dos años. Busco un mínimo de 8 años. 
             En ese punto, una fábrica ha sobrevivido ciclos económicos, construido relaciones con proveedores 
-            y resuelto los problemas de su proceso de producción. Nosotros llevamos desde 2006 — y sigo aprendiendo.
+            y resuelto los problemas de su proceso de producción. Nosotros llevamos desde 2006 -- y sigo aprendiendo.
           </p>
 
           <h3 className="text-xl font-bold mt-8 mb-3">3. Certificaciones</h3>
@@ -300,21 +300,21 @@ export default function EncontrarFabricanteGafasPage() {
 
           <h3 className="text-xl font-bold mt-8 mb-3">5. Calidad de las Muestras</h3>
           <p>
-            Pide muestras antes de comprometerte con nada. No un par — pide 3-5 pares de diferentes estilos 
+            Pide muestras antes de comprometerte con nada. No un par -- pide 3-5 pares de diferentes estilos 
             y materiales. Comprueba:
           </p>
           <ul>
-            <li>Suavidad de las bisagras — ábrelas y ciérralas 50 veces. ¿Se aflojan?</li>
-            <li>Claridad de los lentes — sostenlos frente a un texto. ¿Hay distorsión o cambio de color?</li>
-            <li>Acabado de la montura — pasa el dedo por cada borde. ¿Hay rugosidad o puntos afilados?</li>
-            <li>Simetría — ponlas planas sobre una mesa. ¿Se asientan uniformemente?</li>
-            <li>Aplicación del logo — ¿es nítido, centrado y duradero? Intenta rascarlo suavemente.</li>
+            <li>Suavidad de las bisagras -- ábrelas y ciérralas 50 veces. ¿Se aflojan?</li>
+            <li>Claridad de los lentes -- sostenlos frente a un texto. ¿Hay distorsión o cambio de color?</li>
+            <li>Acabado de la montura -- pasa el dedo por cada borde. ¿Hay rugosidad o puntos afilados?</li>
+            <li>Simetría -- ponlas planas sobre una mesa. ¿Se asientan uniformemente?</li>
+            <li>Aplicación del logo -- ¿es nítido, centrado y duradero? Intenta rascarlo suavemente.</li>
           </ul>
 
           <h3 className="text-xl font-bold mt-8 mb-3">6. Calidad de la Comunicación</h3>
           <p>
             ¿Qué tan rápido responden? ¿Qué tan claro es su inglés? ¿Hacen preguntas inteligentes sobre tu 
-            proyecto o simplemente te dan un precio? Los buenos fabricantes sienten curiosidad por tu marca — 
+            proyecto o simplemente te dan un precio? Los buenos fabricantes sienten curiosidad por tu marca -- 
             quieren entender qué estás construyendo para ayudarte a construirlo mejor. Si la comunicación se 
             siente como sacar muelas, la producción también se sentirá así.
           </p>
@@ -332,7 +332,7 @@ export default function EncontrarFabricanteGafasPage() {
             Pregunta: &quot;¿Con cuántos clientes de marca activos trabajan?&quot; &quot;¿En qué mercados 
             venden?&quot; Una fábrica con más de 100 clientes activos en múltiples países ha demostrado su 
             valía. Una fábrica que no puede nombrar ni una sola referencia debería ponerte nervioso. Nosotros 
-            trabajamos con más de 500 marcas en más de 50 países — y estamos encantados de compartir referencias.
+            trabajamos con más de 500 marcas en más de 50 países -- y estamos encantados de compartir referencias.
           </p>
 
           <h3 className="text-xl font-bold mt-8 mb-3">9. Proceso de Control de Calidad</h3>
@@ -349,7 +349,7 @@ export default function EncontrarFabricanteGafasPage() {
             <a href="https://www.sgs.com/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">SGS</a> o Bureau Veritas) 
             inspeccione tu pedido antes del envío? Si sí, buena señal. Si se resisten o ponen excusas, pregúntate 
             por qué una fábrica tendría miedo de una verificación de calidad independiente. Nosotros damos la 
-            bienvenida a las inspecciones de terceros — de hecho las animamos para los primeros pedidos porque 
+            bienvenida a las inspecciones de terceros -- de hecho las animamos para los primeros pedidos porque 
             genera confianza más rápido.
           </p>
 
@@ -357,7 +357,7 @@ export default function EncontrarFabricanteGafasPage() {
           <h2 id="senales-alerta" className="text-3xl font-bold mt-16 mb-6">Señales de Alerta: Sal de Ahí Inmediatamente</h2>
           <p>
             Llevo suficiente tiempo en esta industria como para detectar problemas a kilómetros de distancia. 
-            Si ves cualquiera de estas señales, no negocies — simplemente vete.
+            Si ves cualquiera de estas señales, no negocies -- simplemente vete.
           </p>
 
           <div className="space-y-4 my-8">
@@ -393,7 +393,7 @@ export default function EncontrarFabricanteGafasPage() {
               <span className="text-2xl">🚩</span>
               <div>
                 <h4 className="font-bold text-red-900">Sin certificaciones, o &quot;las podemos conseguir después&quot;</h4>
-                <p className="text-red-800 text-sm">CE, FDA, UV400 — estas tardan meses en obtener y requieren infraestructura de pruebas real. Una fábrica que no las tiene ya es o muy nueva o no le importa el cumplimiento normativo.</p>
+                <p className="text-red-800 text-sm">CE, FDA, UV400 -- estas tardan meses en obtener y requieren infraestructura de pruebas real. Una fábrica que no las tiene ya es o muy nueva o no le importa el cumplimiento normativo.</p>
               </div>
             </div>
             <div className="flex gap-4 items-start bg-red-50 p-4 rounded-lg">
@@ -416,9 +416,9 @@ export default function EncontrarFabricanteGafasPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Cómo Debería Funcionar el Proceso de Muestras</h3>
           <ol>
             <li><strong>Solicita 3-5 pares de muestra</strong> de diferentes estilos y materiales. Si estás evaluando ODM, elige de su catálogo. Para OEM, envía tus especificaciones de diseño.</li>
-            <li><strong>Paga por las muestras.</strong> Sí, las muestras cuestan dinero — $20-200 por par según el tipo. Las fábricas que ofrecen &quot;muestras gratis&quot; están o desesperadas o incluyendo el costo en tu precio de producción. Yo cobro por las muestras porque envío producto real de calidad de producción, no basura.</li>
-            <li><strong>Inspecciona a fondo.</strong> Cuando lleguen las muestras, no solo las mires — úsalas. Llévalas puestas una semana. Límpialas. Déjalas caer (con cuidado). Abre y cierra las bisagras 100 veces. Déjalas en tu coche en un día caluroso. El objetivo es simular 3 meses de uso real en una semana.</li>
-            <li><strong>Da feedback detallado.</strong> &quot;Están bonitas&quot; no es feedback útil. &quot;La patilla me presiona detrás de la oreja después de 20 minutos&quot; o &quot;el tinte gris es demasiado cálido, quiero un gris más frío&quot; — eso sí es accionable. Las buenas fábricas adoran el feedback detallado porque significa menos problemas en producción.</li>
+            <li><strong>Paga por las muestras.</strong> Sí, las muestras cuestan dinero -- $20-200 por par según el tipo. Las fábricas que ofrecen &quot;muestras gratis&quot; están o desesperadas o incluyendo el costo en tu precio de producción. Yo cobro por las muestras porque envío producto real de calidad de producción, no basura.</li>
+            <li><strong>Inspecciona a fondo.</strong> Cuando lleguen las muestras, no solo las mires -- úsalas. Llévalas puestas una semana. Límpialas. Déjalas caer (con cuidado). Abre y cierra las bisagras 100 veces. Déjalas en tu coche en un día caluroso. El objetivo es simular 3 meses de uso real en una semana.</li>
+            <li><strong>Da feedback detallado.</strong> &quot;Están bonitas&quot; no es feedback útil. &quot;La patilla me presiona detrás de la oreja después de 20 minutos&quot; o &quot;el tinte gris es demasiado cálido, quiero un gris más frío&quot; -- eso sí es accionable. Las buenas fábricas adoran el feedback detallado porque significa menos problemas en producción.</li>
             <li><strong>Revisa las muestras corregidas.</strong> Si se necesitaron cambios, la fábrica debería enviar muestras actualizadas antes de la producción. Compáralas con las originales. ¿Realmente arreglaron lo que pediste? La atención al feedback de muestras es una vista previa de la atención a la calidad de producción.</li>
           </ol>
 
@@ -432,7 +432,7 @@ export default function EncontrarFabricanteGafasPage() {
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-3">Pruebas de Calidad Caseras:</h3>
             <ul className="text-blue-800 space-y-2">
-              <li><strong>Prueba UV:</strong> Pide a la fábrica los informes de prueba UV400. Si quieres verificar por tu cuenta, las tarjetas de prueba UV cuestan unos $10 en Amazon. Pon el lente sobre la tarjeta al sol — la tarjeta cambia de color según la transmisión UV.</li>
+              <li><strong>Prueba UV:</strong> Pide a la fábrica los informes de prueba UV400. Si quieres verificar por tu cuenta, las tarjetas de prueba UV cuestan unos $10 en Amazon. Pon el lente sobre la tarjeta al sol -- la tarjeta cambia de color según la transmisión UV.</li>
               <li><strong>Claridad óptica:</strong> Sostén el lente a 30 cm de tu ojo y mira un borde recto (marco de puerta, borde de ventana). Mueve el lente lentamente. Si la línea recta se dobla o deforma, el lente tiene distorsión óptica. Recházalo.</li>
               <li><strong>Prueba de polarización:</strong> Sostén dos lentes polarizados perpendiculares entre sí (ángulo de 90°). Si se oscurecen completamente, la polarización funciona. Si la luz sigue pasando, la polarización es débil o falsa.</li>
               <li><strong>Prueba de bisagras:</strong> Abre y cierra las patillas 200 veces. La tensión debería mantenerse constante. Si la bisagra se afloja después de 50 ciclos, estará floja en un mes de uso del cliente.</li>
@@ -453,13 +453,13 @@ export default function EncontrarFabricanteGafasPage() {
           <h2 id="negociacion" className="text-3xl font-bold mt-16 mb-6">Consejos de Negociación Desde el Otro Lado de la Mesa</h2>
           <p>
             Voy a darte una ventaja injusta: consejos de negociación de alguien que ha sido negociado miles de veces. 
-            Esto es lo que realmente mueve la aguja — y lo que no.
+            Esto es lo que realmente mueve la aguja -- y lo que no.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Lo que Funciona ✅</h3>
           <ul>
             <li><strong>Muestra potencial a largo plazo.</strong> &quot;Empezamos con 300 piezas pero planeamos escalar a 5.000 en un año si la calidad es buena.&quot; Yo daré mejor precio por eso porque estoy invirtiendo en una relación, no solo llenando un pedido.</li>
-            <li><strong>Pide cotizaciones a 3-4 fábricas.</strong> No mientas al respecto — simplemente dile a cada fábrica que estás comparando opciones. La competencia mantiene a todos honestos. &quot;Tengo tres cotizaciones entre $5.50 y $7.20 — ¿dónde pueden quedar?&quot; Eso es justo y directo.</li>
+            <li><strong>Pide cotizaciones a 3-4 fábricas.</strong> No mientas al respecto -- simplemente dile a cada fábrica que estás comparando opciones. La competencia mantiene a todos honestos. &quot;Tengo tres cotizaciones entre $5.50 y $7.20 -- ¿dónde pueden quedar?&quot; Eso es justo y directo.</li>
             <li><strong>Ofrece pagar más rápido.</strong> Lo estándar es 30% de anticipo, 70% antes del envío. Si puedes hacer 50% de anticipo o pago completo al aprobar, algunas fábricas bajarán el precio un 3-5% porque el pago rápido reduce su riesgo de flujo de caja.</li>
             <li><strong>Aumenta el volumen por modelo.</strong> Pasar de 200 a 500 piezas de un modelo me da mejor precio que 500 piezas divididas en 5 modelos. El tiempo de configuración por modelo es un costo real.</li>
             <li><strong>Sé un buen cliente.</strong> Comunicación clara, feedback oportuno de las muestras, pago a tiempo. Las fábricas recuerdan a los buenos clientes y les dan prioridad cuando los turnos de producción están apretados.</li>
@@ -469,8 +469,8 @@ export default function EncontrarFabricanteGafasPage() {
           <ul>
             <li><strong>&quot;Tu competidor me cotizó un 50% menos.&quot;</strong> No lo hizo. Las materias primas cuestan lo que cuestan. Si alguien cotizó un 50% menos, está usando materiales diferentes (peores) o mintiendo. Ambos lo sabemos.</li>
             <li><strong>Regatear centavos en pedidos pequeños.</strong> Pelear por $0.20 por unidad en un pedido de 200 piezas te ahorra $40 en total. Eso no vale la buena voluntad que pierdes. Guarda la negociación dura para cuando pidas 5.000+.</li>
-            <li><strong>Amenazar con ir a otro lado.</strong> Lo escuchamos semanalmente. Los clientes que realmente se van por precio suelen ser los que ninguna fábrica quiere — serán los primeros en disputar la calidad, pagar tarde y dejar malas reseñas.</li>
-            <li><strong>Pedir todo gratis.</strong> Muestras gratis, moldes gratis, envío gratis, diseño gratis. Todo tiene un costo. Una fábrica que regala todo está incluyendo ese costo en tu precio unitario — simplemente no lo ves.</li>
+            <li><strong>Amenazar con ir a otro lado.</strong> Lo escuchamos semanalmente. Los clientes que realmente se van por precio suelen ser los que ninguna fábrica quiere -- serán los primeros en disputar la calidad, pagar tarde y dejar malas reseñas.</li>
+            <li><strong>Pedir todo gratis.</strong> Muestras gratis, moldes gratis, envío gratis, diseño gratis. Todo tiene un costo. Una fábrica que regala todo está incluyendo ese costo en tu precio unitario -- simplemente no lo ves.</li>
           </ul>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
@@ -478,7 +478,7 @@ export default function EncontrarFabricanteGafasPage() {
             <p className="text-amber-800">
               El punto ideal de negociación es 5-12% de descuento sobre la cotización inicial. Si una fábrica 
               cotiza $7.00/par, conseguir $6.30-$6.65 es realista. Por debajo de eso, o están recortando calidad 
-              o comiéndose su margen — ninguna de las dos opciones es sostenible a largo plazo. Prefiero darte un 
+              o comiéndose su margen -- ninguna de las dos opciones es sostenible a largo plazo. Prefiero darte un 
               precio justo y entregar un gran producto que ganar una guerra de precios y entregar basura.
             </p>
           </div>
@@ -486,7 +486,7 @@ export default function EncontrarFabricanteGafasPage() {
           {/* Primer Pedido */}
           <h2 id="primer-pedido" className="text-3xl font-bold mt-16 mb-6">Tu Primer Pedido: Paso a Paso</h2>
           <p>
-            Esta es la secuencia exacta por la que guío a cada nuevo cliente. Guárdala en favoritos — la consultarás varias veces.
+            Esta es la secuencia exacta por la que guío a cada nuevo cliente. Guárdala en favoritos -- la consultarás varias veces.
           </p>
 
           <ol className="space-y-4">
@@ -502,15 +502,15 @@ export default function EncontrarFabricanteGafasPage() {
             </li>
             <li>
               <strong>Semana 4-5: Evaluar muestras.</strong> Usa las pruebas de calidad anteriores. Compara lado a lado. 
-              El ganador no siempre es el más barato — es el que tiene el mejor equilibrio de calidad, comunicación y precio.
+              El ganador no siempre es el más barato -- es el que tiene el mejor equilibrio de calidad, comunicación y precio.
             </li>
             <li>
               <strong>Semana 5-6: Negociar y firmar.</strong> Discute precio final, términos de pago, cronograma de producción 
-              y garantías de calidad. Pon todo por escrito — un acuerdo de compra o factura proforma con especificaciones adjuntas.
+              y garantías de calidad. Pon todo por escrito -- un acuerdo de compra o factura proforma con especificaciones adjuntas.
             </li>
             <li>
               <strong>Semana 6-7: Pagar anticipo e iniciar producción.</strong> Lo estándar es 30% de anticipo por T/T 
-              (transferencia bancaria). La fábrica comienza la producción. Mantén la comunicación — pide fotos de 
+              (transferencia bancaria). La fábrica comienza la producción. Mantén la comunicación -- pide fotos de 
               progreso en hitos clave.
             </li>
             <li>
@@ -524,7 +524,7 @@ export default function EncontrarFabricanteGafasPage() {
             <h3 className="text-2xl font-bold mb-4">¿Listo para Empezar a Buscar? Empieza Aquí.</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Escribí esta guía para que supieras qué buscar. Pero si quieres saltarte la búsqueda y hablar 
-              con una fábrica directamente — bueno, ya estás en nuestra web. Llevamos haciendo esto desde 2006, 
+              con una fábrica directamente -- bueno, ya estás en nuestra web. Llevamos haciendo esto desde 2006, 
               tenemos todas las certificaciones de la lista anterior, y respondemos consultas en menos de 12 horas. 
               Sin intermediarios. Sin trading company. Directo de fábrica.
             </p>
@@ -556,7 +556,7 @@ export default function EncontrarFabricanteGafasPage() {
               <h3 className="font-bold text-lg mb-2">¿Cómo verifico si un fabricante de gafas de sol es legítimo?</h3>
               <p className="text-gray-600">
                 Haz una videollamada y pide ver la planta de producción en directo. Comprueba certificaciones CE, FDA 
-                e ISO. Verifica su dirección de fábrica en Google Maps — debería estar en una zona industrial, no en 
+                e ISO. Verifica su dirección de fábrica en Google Maps -- debería estar en una zona industrial, no en 
                 un edificio de oficinas. Pide muestras. Solicita referencias de clientes. Comprueba si han expuesto 
                 en ferias. Si pasan todas estas pruebas, probablemente estés tratando con una fábrica real.
               </p>
@@ -566,7 +566,7 @@ export default function EncontrarFabricanteGafasPage() {
               <p className="text-gray-600">
                 ODM: 100-300 piezas por modelo es lo estándar. Nosotros empezamos desde 50 para primeros pedidos. 
                 OEM: 300-1.000+ por modelo debido a los costos de moldes. Desconfía de MOQ extremadamente bajos 
-                (menos de 20 piezas) — eso suele significar empresa intermediaria, no fábrica.
+                (menos de 20 piezas) -- eso suele significar empresa intermediaria, no fábrica.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
@@ -574,13 +574,13 @@ export default function EncontrarFabricanteGafasPage() {
               <p className="text-gray-600">
                 ODM: $3-8 por unidad. OEM: $5-15+ por unidad más $500-3.000 en costos de moldes por modelo. No 
                 olvides añadir envío (15-25% para pedidos pequeños), aranceles aduaneros (2-5%) y empaque. Tu costo 
-                real de entrega siempre es mayor que la cotización de fábrica — presupuesta un 20-30% adicional.
+                real de entrega siempre es mayor que la cotización de fábrica -- presupuesta un 20-30% adicional.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">¿Cuánto tiempo tarda en llegar un pedido de gafas de sol?</h3>
               <p className="text-gray-600">
-                ODM: 20-45 días. OEM: 45-90 días. Añade tiempo de envío — 5-7 días por avión, 20-30 días por barco. 
+                ODM: 20-45 días. OEM: 45-90 días. Añade tiempo de envío -- 5-7 días por avión, 20-30 días por barco. 
                 Los primeros pedidos siempre tardan más por las rondas de muestras. Presupuesta 2-3 semanas extra 
                 para los ajustes de tu primer pedido con cualquier fábrica nueva.
               </p>
@@ -603,11 +603,11 @@ export default function EncontrarFabricanteGafasPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/es/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM en Gafas de Sol: Guía Completa</h3>
-                <p className="text-gray-600 text-sm">¿Ya encontraste una fábrica? Ahora decide cómo quieres trabajar con ella — diseños personalizados o listos para usar.</p>
+                <p className="text-gray-600 text-sm">¿Ya encontraste una fábrica? Ahora decide cómo quieres trabajar con ella -- diseños personalizados o listos para usar.</p>
               </Link>
               <Link href="/es/blog/crear-marca-gafas" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Cómo Crear tu Marca de Gafas de Sol</h3>
-                <p className="text-gray-600 text-sm">La guía completa desde la idea hasta la primera venta — la fabricación es solo una pieza del rompecabezas.</p>
+                <p className="text-gray-600 text-sm">La guía completa desde la idea hasta la primera venta -- la fabricación es solo una pieza del rompecabezas.</p>
               </Link>
             </div>
           </div>

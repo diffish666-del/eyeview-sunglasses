@@ -27,7 +27,7 @@ export default function GuidaLentiOcchialiPage() {
           "dateModified": "2026-05-02",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Un proprietario di fabbrica analizza materiali, colori, rivestimenti e polarizzazione delle lenti — con costi reali e confronti onesti.",
+          "description": "Un proprietario di fabbrica analizza materiali, colori, rivestimenti e polarizzazione delle lenti -- con costi reali e confronti onesti.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/guida-lenti-occhiali" },
           "inLanguage": "it"
         })}} />
@@ -39,7 +39,7 @@ export default function GuidaLentiOcchialiPage() {
             {
               "@type": "Question",
               "name": "Qual è il miglior materiale per le lenti degli occhiali da sole?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Non esiste un singolo 'migliore' — dipende dall'uso. Il policarbonato vince per la resistenza agli urti (sport, bambini). Il CR-39 offre l'ottica più nitida per moda e uso quotidiano. Il vetro è il gold standard per i brand premium che vogliono resistenza ai graffi e chiarezza perfetta. Il TAC è il re del budget per le lenti polarizzate." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Non esiste un singolo 'migliore' -- dipende dall'uso. Il policarbonato vince per la resistenza agli urti (sport, bambini). Il CR-39 offre l'ottica più nitida per moda e uso quotidiano. Il vetro è il gold standard per i brand premium che vogliono resistenza ai graffi e chiarezza perfetta. Il TAC è il re del budget per le lenti polarizzate." }
             },
             {
               "@type": "Question",
@@ -49,12 +49,12 @@ export default function GuidaLentiOcchialiPage() {
             {
               "@type": "Question",
               "name": "Qual è la differenza tra lenti CR-39 e policarbonato?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Il CR-39 ha un'ottica superiore — meno distorsione, migliore chiarezza, immagine più nitida. Il policarbonato è 10 volte più resistente agli urti e più leggero del 20%. Per uso moda/quotidiano: CR-39. Per sport, bambini o applicazioni di sicurezza: policarbonato. Costo all'ingrosso: CR-39 $1,50-3,00, policarbonato $1,00-2,50 per paio." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Il CR-39 ha un'ottica superiore -- meno distorsione, migliore chiarezza, immagine più nitida. Il policarbonato è 10 volte più resistente agli urti e più leggero del 20%. Per uso moda/quotidiano: CR-39. Per sport, bambini o applicazioni di sicurezza: policarbonato. Costo all'ingrosso: CR-39 $1,50-3,00, policarbonato $1,00-2,50 per paio." }
             },
             {
               "@type": "Question",
               "name": "Di quale colore dovrebbero essere le lenti dei miei occhiali da sole?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Il grigio è il più versatile — riduce la luminosità uniformemente senza alterare i colori. Il marrone/ambra migliora il contrasto ed è ottimo per la guida. Il verde (stile G-15) è il classico aviator che equilibra riduzione della luminosità e percezione dei colori. Le lenti a specchio aggiungono stile e riducono la luce aggiuntiva. Per il tuo primo ordine, inizia con grigio e marrone — sono i più venduti ovunque." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Il grigio è il più versatile -- riduce la luminosità uniformemente senza alterare i colori. Il marrone/ambra migliora il contrasto ed è ottimo per la guida. Il verde (stile G-15) è il classico aviator che equilibra riduzione della luminosità e percezione dei colori. Le lenti a specchio aggiungono stile e riducono la luce aggiuntiva. Per il tuo primo ordine, inizia con grigio e marrone -- sono i più venduti ovunque." }
             }
           ]
         })}} />
@@ -104,8 +104,8 @@ export default function GuidaLentiOcchialiPage() {
 
           <h2 id="perche-le-lenti-contano" className="text-3xl font-bold mt-16 mb-6">Perché le Lenti Contano Più della Montatura</h2>
           <p>
-            I clienti notano le montature — ma <em>sentono</em> le lenti. Una lente mediocre causa affaticamento oculare,
-            distorsione e mal di testa dopo un&apos;ora d&apos;uso. Una buona lente è invisibile — fai semplicemente quello che stai facendo
+            I clienti notano le montature -- ma <em>sentono</em> le lenti. Una lente mediocre causa affaticamento oculare,
+            distorsione e mal di testa dopo un&apos;ora d&apos;uso. Una buona lente è invisibile -- fai semplicemente quello che stai facendo
             senza pensarci. Quella differenza impercettibile è ciò che trasforma un acquirente occasionale in un cliente fedele.
           </p>
 
@@ -115,14 +115,14 @@ export default function GuidaLentiOcchialiPage() {
           <p>
             Il CR-39 (Columbia Resin #39) è una resina plastica termoindurente inventata negli anni &apos;40. È il materiale
             per lenti più usato al mondo per una ragione: ha la migliore chiarezza ottica di qualsiasi plastica. Se
-            tieni una lente CR-39 accanto a una in policarbonato, la differenza si vede — il CR-39 è più nitido, con
+            tieni una lente CR-39 accanto a una in policarbonato, la differenza si vede -- il CR-39 è più nitido, con
             meno aberrazione cromatica e distorsione minima.
           </p>
           <ul>
             <li><strong>Costo all&apos;ingrosso:</strong> $1,50-3,00 per paio</li>
             <li><strong>Peso:</strong> Medio (leggermente più pesante del policarbonato)</li>
-            <li><strong>Resistenza agli urti:</strong> Buona ma non eccezionale — supera il test della palla FDA ma non è ideale per sport d&apos;impatto</li>
-            <li><strong>Resistenza ai graffi:</strong> Moderata — beneficia di un rivestimento hard coat</li>
+            <li><strong>Resistenza agli urti:</strong> Buona ma non eccezionale -- supera il test della palla FDA ma non è ideale per sport d&apos;impatto</li>
+            <li><strong>Resistenza ai graffi:</strong> Moderata -- beneficia di un rivestimento hard coat</li>
             <li><strong>Ideale per:</strong> Brand moda e lifestyle, uso quotidiano, qualsiasi situazione dove la chiarezza ottica è prioritaria</li>
           </ul>
 
@@ -130,26 +130,26 @@ export default function GuidaLentiOcchialiPage() {
           <p>
             Il policarbonato è la scelta per situazioni dove la sicurezza è importante. È 10 volte più resistente agli urti
             del CR-39, il che lo rende obbligatorio per occhiali sportivi, da bambino e di sicurezza. La NASA lo usa per
-            i visori dei caschi spaziali — non serve dire altro.
+            i visori dei caschi spaziali -- non serve dire altro.
           </p>
           <ul>
             <li><strong>Costo all&apos;ingrosso:</strong> $1,00-2,50 per paio</li>
             <li><strong>Peso:</strong> Leggero (il 20% meno del CR-39)</li>
-            <li><strong>Resistenza agli urti:</strong> Eccezionale — praticamente infrangibile nell&apos;uso normale</li>
-            <li><strong>Chiarezza ottica:</strong> Buona ma non all&apos;altezza del CR-39 — leggera aberrazione cromatica ai bordi</li>
+            <li><strong>Resistenza agli urti:</strong> Eccezionale -- praticamente infrangibile nell&apos;uso normale</li>
+            <li><strong>Chiarezza ottica:</strong> Buona ma non all&apos;altezza del CR-39 -- leggera aberrazione cromatica ai bordi</li>
             <li><strong>Ideale per:</strong> Sport, bambini, occhiali di sicurezza, brand attenti al budget</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">TAC: Il Re del Budget Polarizzato</h3>
           <p>
             TAC (Triacetato di Cellulosa) è il materiale più usato per le lenti polarizzate economiche. È una struttura
-            a sandwich — un film polarizzante tra due strati di triacetato. Il risultato è una lente polarizzata
+            a sandwich -- un film polarizzante tra due strati di triacetato. Il risultato è una lente polarizzata
             decente a una frazione del costo del CR-39 polarizzato.
           </p>
           <ul>
             <li><strong>Costo all&apos;ingrosso:</strong> $0,60-1,50 per paio (polarizzato incluso)</li>
             <li><strong>Chiarezza ottica:</strong> Accettabile ma inferiore a CR-39 e policarbonato</li>
-            <li><strong>Durabilità:</strong> Inferiore — più soggetta a graffi e delaminazione nel tempo</li>
+            <li><strong>Durabilità:</strong> Inferiore -- più soggetta a graffi e delaminazione nel tempo</li>
             <li><strong>Ideale per:</strong> Occhiali da sole sotto $30 al dettaglio, promozionali, prodotti ad alto volume</li>
           </ul>
 
@@ -162,8 +162,8 @@ export default function GuidaLentiOcchialiPage() {
           <ul>
             <li><strong>Costo all&apos;ingrosso:</strong> $3,00-8,00 per paio</li>
             <li><strong>Peso:</strong> Il più pesante di tutti i materiali per lenti</li>
-            <li><strong>Chiarezza ottica:</strong> La migliore — zero distorsione</li>
-            <li><strong>Resistenza ai graffi:</strong> Eccellente — la migliore di qualsiasi materiale per lenti</li>
+            <li><strong>Chiarezza ottica:</strong> La migliore -- zero distorsione</li>
+            <li><strong>Resistenza ai graffi:</strong> Eccellente -- la migliore di qualsiasi materiale per lenti</li>
             <li><strong>Ideale per:</strong> Brand premium e lusso, dove la qualità ottica è il punto di vendita</li>
           </ul>
 
@@ -189,7 +189,7 @@ export default function GuidaLentiOcchialiPage() {
 
           <h2 id="colori-lenti" className="text-3xl font-bold mt-16 mb-6">Colori delle Lenti: Quale Tinta per Quale Scopo</h2>
           <p>
-            Il colore della lente non è solo estetica — influenza la percezione dei colori, il contrasto e il comfort visivo.
+            Il colore della lente non è solo estetica -- influenza la percezione dei colori, il contrasto e il comfort visivo.
             Ecco la guida rapida:
           </p>
           <ul>
@@ -204,15 +204,15 @@ export default function GuidaLentiOcchialiPage() {
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">Il Mio Consiglio per il Primo Ordine:</h3>
             <p className="text-blue-800">
-              Inizia con grigio e marrone — rappresentano il 70% delle vendite globali di lenti. Aggiungi il verde (G-15)
+              Inizia con grigio e marrone -- rappresentano il 70% delle vendite globali di lenti. Aggiungi il verde (G-15)
               se hai modelli aviator. Le lenti a specchio come terza opzione aggiungono appeal visivo. Non esagerare con i
-              colori al primo ordine — scopri prima cosa vogliono i tuoi clienti.
+              colori al primo ordine -- scopri prima cosa vogliono i tuoi clienti.
             </p>
           </div>
 
           <h2 id="polarizzate" className="text-3xl font-bold mt-16 mb-6">Lenti Polarizzate: Vale la Pena?</h2>
           <p>
-            La polarizzazione elimina il riverbero riflesso — quella luce accecante che rimbalza dall&apos;acqua, dalla strada bagnata
+            La polarizzazione elimina il riverbero riflesso -- quella luce accecante che rimbalza dall&apos;acqua, dalla strada bagnata
             o dal cofano delle auto. Per guidare, pescare e sport acquatici, la differenza è notte e giorno.
           </p>
           <p>
@@ -301,7 +301,7 @@ export default function GuidaLentiOcchialiPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Qual è la differenza tra CR-39 e policarbonato?</h3>
               <p className="text-gray-600">
-                Il CR-39 ha un&apos;ottica superiore — meno distorsione, migliore chiarezza. Il policarbonato è 10 volte più
+                Il CR-39 ha un&apos;ottica superiore -- meno distorsione, migliore chiarezza. Il policarbonato è 10 volte più
                 resistente agli urti e il 20% più leggero. Per moda: CR-39. Per sport e bambini: policarbonato.
               </p>
             </div>
@@ -309,7 +309,7 @@ export default function GuidaLentiOcchialiPage() {
               <h3 className="font-bold text-lg mb-2">Di quale colore dovrebbero essere le lenti?</h3>
               <p className="text-gray-600">
                 Il grigio è il più versatile e il più venduto. Il marrone migliora il contrasto per la guida.
-                Il verde G-15 è il classico aviator. Inizia con grigio e marrone — coprono il 70% delle vendite globali.
+                Il verde G-15 è il classico aviator. Inizia con grigio e marrone -- coprono il 70% delle vendite globali.
               </p>
             </div>
           </div>

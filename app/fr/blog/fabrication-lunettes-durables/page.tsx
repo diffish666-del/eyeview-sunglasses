@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Fabrication Durable de Lunettes de Soleil : Matériaux et Procédés Éco-Responsables',
-  description: 'Un propriétaire d\'usine explique la fabrication durable de lunettes — bio-acétate, nylon recyclé, plastique océanique, packaging éco-responsable et ce que « durable » signifie vraiment dans la production de lunettes.',
+  description: 'Un propriétaire d\'usine explique la fabrication durable de lunettes -- bio-acétate, nylon recyclé, plastique océanique, packaging éco-responsable et ce que « durable » signifie vraiment dans la production de lunettes.',
   keywords: 'lunettes durables, fabrication éco-responsable lunettes, lunettes recyclées, bio-acétate lunettes, lunettes plastique océanique, lunettes écologiques',
   alternates: { canonical: '/fr/blog/fabrication-lunettes-durables', languages: { 'en': '/blog/sustainable-sunglasses-manufacturing', 'fr': '/fr/blog/fabrication-lunettes-durables' } },
 }
@@ -24,13 +24,13 @@ export default function FabricationLunettesDurablesPage() {
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Durabilité</span><span>4 mai 2026</span><span>•</span><span>12 min de lecture</span></div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Fabrication Durable de Lunettes : Matériaux et Procédés Éco-Responsables</h1>
-          <p className="text-xl text-gray-600">La durabilité dans la lunetterie n&apos;est plus une niche — c&apos;est une attente. Voici ce qui est réellement possible, ce que ça coûte, et ce qui relève du greenwashing.</p>
+          <p className="text-xl text-gray-600">La durabilité dans la lunetterie n&apos;est plus une niche -- c&apos;est une attente. Voici ce qui est réellement possible, ce que ça coûte, et ce qui relève du greenwashing.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200"><div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div><div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Fondateur, EyeView Sunglasses</div></div></div>
         </header>
         <div className="prose prose-lg max-w-none">
           <h2 className="text-3xl font-bold mt-16 mb-6">Les matériaux durables disponibles</h2>
           <h3 className="text-2xl font-bold mt-8 mb-4">Bio-acétate</h3>
-          <p>Fabriqué à partir de coton et de pulpe de bois — biodégradable dans les bonnes conditions. Aspect et toucher identiques à l&apos;acétate traditionnel. Surcoût : +15-25 % par rapport à l&apos;acétate standard.</p>
+          <p>Fabriqué à partir de coton et de pulpe de bois -- biodégradable dans les bonnes conditions. Aspect et toucher identiques à l&apos;acétate traditionnel. Surcoût : +15-25 % par rapport à l&apos;acétate standard.</p>
           <h3 className="text-2xl font-bold mt-8 mb-4">Nylon recyclé (rPET, Econyl)</h3>
           <p>Fabriqué à partir de filets de pêche et de déchets plastiques récupérés. Performances similaires au TR90. Surcoût : +20-30 %. Excellent argument marketing.</p>
           <h3 className="text-2xl font-bold mt-8 mb-4">Plastique océanique</h3>
@@ -60,11 +60,12 @@ export default function FabricationLunettesDurablesPage() {
             <h2 className="text-2xl font-bold mb-6">Depuis l&apos;Atelier</h2>
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/fr/blog/comparaison-materiaux-montures" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">TR90 vs Acétate vs Métal</h3><p className="text-gray-600 text-sm">Comparaison complète des matériaux de montures.</p></Link>
-              <Link href="/fr/blog/tendances-lunettes-2026" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Tendances Lunettes 2026</h3><p className="text-gray-600 text-sm">Le durable est une tendance majeure — voici les chiffres.</p></Link>
+              <Link href="/fr/blog/tendances-lunettes-2026" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Tendances Lunettes 2026</h3><p className="text-gray-600 text-sm">Le durable est une tendance majeure -- voici les chiffres.</p></Link>
             </div>
           </div>
         </div>
       </div>
     </article>
+    </>
   )
 }

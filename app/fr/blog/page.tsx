@@ -18,7 +18,7 @@ const posts = [
   {
     slug: 'packaging-lunettes-personnalise',
     title: 'Packaging Lunettes Personnalisé : Guide Complet du Branding 2026',
-    excerpt: 'Chaque option de packaging pour les marques de lunettes — étuis rigides, pochettes, boîtes retail, étiquettes. Coûts réels par pièce et conseils d\'unboxing.',
+    excerpt: 'Chaque option de packaging pour les marques de lunettes -- étuis rigides, pochettes, boîtes retail, étiquettes. Coûts réels par pièce et conseils d\'unboxing.',
     date: '3 mai 2026',
     category: 'Branding',
     readTime: '14 min de lecture',
@@ -28,7 +28,7 @@ const posts = [
   {
     slug: 'certification-fda-ce-lunettes',
     title: 'Certification FDA et CE pour Lunettes : Guide de Conformité Complet',
-    excerpt: 'Enregistrement FDA, marquage CE, tests UV et normes ANSI — guide étape par étape pour vendre aux États-Unis, en UE et dans le monde.',
+    excerpt: 'Enregistrement FDA, marquage CE, tests UV et normes ANSI -- guide étape par étape pour vendre aux États-Unis, en UE et dans le monde.',
     date: '4 mai 2026',
     category: 'Conformité',
     readTime: '15 min de lecture',
@@ -38,7 +38,7 @@ const posts = [
   {
     slug: 'guide-importation-lunettes',
     title: 'Comment Importer des Lunettes depuis la Chine : Guide Complet 2026',
-    excerpt: 'Le processus complet d\'importation — approvisionnement, expédition, droits de douane, contrôle qualité et erreurs à éviter.',
+    excerpt: 'Le processus complet d\'importation -- approvisionnement, expédition, droits de douane, contrôle qualité et erreurs à éviter.',
     date: '4 mai 2026',
     category: 'Approvisionnement',
     readTime: '16 min de lecture',
@@ -48,7 +48,7 @@ const posts = [
   {
     slug: 'tendances-lunettes-2026',
     title: 'Tendances Design Lunettes de Soleil 2026 : Ce Qui Se Vend',
-    excerpt: 'Les tendances vues depuis l\'atelier — montures oversize, revival Y2K, acétate épais, matériaux durables. Avec les données de ventes pour le prouver.',
+    excerpt: 'Les tendances vues depuis l\'atelier -- montures oversize, revival Y2K, acétate épais, matériaux durables. Avec les données de ventes pour le prouver.',
     date: '4 mai 2026',
     category: 'Tendances',
     readTime: '12 min de lecture',
@@ -58,7 +58,7 @@ const posts = [
   {
     slug: 'cout-lancement-marque-lunettes',
     title: 'Combien Coûte le Lancement d\'une Marque de Lunettes en 2026 ?',
-    excerpt: 'Chaque coût détaillé — de 3 000 $ (bootstrap) à 50 000 $+ (lancement premium). Les vrais chiffres, pas les estimations vagues.',
+    excerpt: 'Chaque coût détaillé -- de 3 000 $ (bootstrap) à 50 000 $+ (lancement premium). Les vrais chiffres, pas les estimations vagues.',
     date: '4 mai 2026',
     category: 'Business',
     readTime: '14 min de lecture',
@@ -68,7 +68,7 @@ const posts = [
   {
     slug: 'strategie-prix-lunettes',
     title: 'Stratégie de Prix Lunettes : Du Coût Usine au Prix de Vente',
-    excerpt: 'La vraie économie de la tarification — coûts usine, markup wholesale, marges retail et stratégies qui fonctionnent.',
+    excerpt: 'La vraie économie de la tarification -- coûts usine, markup wholesale, marges retail et stratégies qui fonctionnent.',
     date: '4 mai 2026',
     category: 'Business',
     readTime: '12 min de lecture',
@@ -78,7 +78,7 @@ const posts = [
   {
     slug: 'controle-qualite-lunettes',
     title: 'Contrôle Qualité Lunettes : Checklist d\'Inspection en Usine',
-    excerpt: 'La checklist complète — tests de verres, inspection de montures, vérification des charnières, contrôle UV. Quoi vérifier avant de valider.',
+    excerpt: 'La checklist complète -- tests de verres, inspection de montures, vérification des charnières, contrôle UV. Quoi vérifier avant de valider.',
     date: '4 mai 2026',
     category: 'Qualité',
     readTime: '12 min de lecture',
@@ -88,7 +88,7 @@ const posts = [
   {
     slug: 'guide-forme-visage-lunettes',
     title: 'Les Meilleures Lunettes pour Votre Forme de Visage',
-    excerpt: 'Trouvez les lunettes parfaites pour votre morphologie — rond, ovale, carré, cœur, oblong. Avec des exemples concrets.',
+    excerpt: 'Trouvez les lunettes parfaites pour votre morphologie -- rond, ovale, carré, cœur, oblong. Avec des exemples concrets.',
     date: '4 mai 2026',
     category: 'Guide d\'Achat',
     readTime: '10 min de lecture',
@@ -98,7 +98,7 @@ const posts = [
   {
     slug: 'fabrication-lunettes-durables',
     title: 'Fabrication Durable de Lunettes : Matériaux Éco-Responsables',
-    excerpt: 'Bio-acétate, nylon recyclé, plastique océanique — ce qui est vraiment possible, ce que ça coûte, et ce qui relève du greenwashing.',
+    excerpt: 'Bio-acétate, nylon recyclé, plastique océanique -- ce qui est vraiment possible, ce que ça coûte, et ce qui relève du greenwashing.',
     date: '4 mai 2026',
     category: 'Durabilité',
     readTime: '12 min de lecture',
@@ -108,7 +108,7 @@ const posts = [
   {
     slug: 'guide-revetements-lunettes',
     title: 'Guide des Traitements de Verres : Miroir, AR, Hydrophobe et Plus',
-    excerpt: 'Chaque type de traitement — miroir, anti-reflet, hydrophobe, oléophobe, anti-buée, anti-rayures. Coûts réels et combinaisons optimales.',
+    excerpt: 'Chaque type de traitement -- miroir, anti-reflet, hydrophobe, oléophobe, anti-buée, anti-rayures. Coûts réels et combinaisons optimales.',
     date: '3 mai 2026',
     category: 'Technologie',
     readTime: '12 min de lecture',
@@ -168,7 +168,7 @@ const posts = [
   {
     slug: 'oem-vs-odm',
     title: 'OEM vs ODM Lunettes de Soleil : Quelle Différence ? Guide Complet',
-    excerpt: 'Après 3 000 conversations sur OEM vs ODM, voici la version honnête — coûts réels, délais réels et un cadre de décision qui vous aide vraiment à choisir.',
+    excerpt: 'Après 3 000 conversations sur OEM vs ODM, voici la version honnête -- coûts réels, délais réels et un cadre de décision qui vous aide vraiment à choisir.',
     date: '20 avril 2026',
     category: 'Fabrication',
     readTime: '12 min de lecture',
@@ -178,7 +178,7 @@ const posts = [
   {
     slug: 'creer-marque-lunettes',
     title: 'Comment Créer Votre Marque de Lunettes de Soleil : Guide Complet',
-    excerpt: 'Le guide complet de l\'idée à la première vente — étude de marché, approvisionnement, branding, prix et marketing. Tout ce que j\'aurais aimé savoir en 2006.',
+    excerpt: 'Le guide complet de l\'idée à la première vente -- étude de marché, approvisionnement, branding, prix et marketing. Tout ce que j\'aurais aimé savoir en 2006.',
     date: '28 mars 2026',
     category: 'Business',
     readTime: '10 min de lecture',
@@ -201,7 +201,7 @@ export default function BlogPage() {
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Informations sans détour sur la fabrication de lunettes de soleil, l&apos;approvisionnement et la création
-            de marques — écrites par quelqu&apos;un qui fabrique des lunettes depuis 2006.
+            de marques -- écrites par quelqu&apos;un qui fabrique des lunettes depuis 2006.
           </p>
           <div className="flex items-center justify-center gap-3 mt-6">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
@@ -272,7 +272,7 @@ export default function BlogPage() {
             Recevez les Nouvelles de l&apos;Atelier dans Votre Boîte Mail
           </h2>
           <p className="text-primary-100 mb-8 max-w-xl mx-auto">
-            Un email par mois. Sans remplissage — juste des conseils de fabrication, des tendances du marché
+            Un email par mois. Sans remplissage -- juste des conseils de fabrication, des tendances du marché
             et des stratégies d&apos;approvisionnement qui vous aident vraiment à construire une meilleure marque.
           </p>
           <form className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">

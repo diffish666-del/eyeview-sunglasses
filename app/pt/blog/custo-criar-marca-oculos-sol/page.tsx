@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Quanto Custa Criar uma Marca de Óculos de Sol em 2026?',
-  description: 'Um dono de fábrica detalha cada custo para criar uma marca de óculos — from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.',
+  description: 'Um dono de fábrica detalha cada custo para criar uma marca de óculos -- from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.',
   keywords: 'custo criar marca óculos, investimento negócio óculos, orçamento marca óculos, quanto custa criar marca óculos',
   alternates: {
     canonical: '/pt/blog/custo-criar-marca-oculos-sol',
@@ -28,7 +28,7 @@ export default function SunglassesStartupCostPage() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fundador", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Um dono de fábrica detalha cada custo para criar uma marca de óculos — from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.",
+          "description": "Um dono de fábrica detalha cada custo para criar uma marca de óculos -- from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.",
           "inLanguage": "pt",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/pt/blog/custo-criar-marca-oculos-sol" }
         })}} />
@@ -78,7 +78,7 @@ export default function SunglassesStartupCostPage() {
             Quanto Custa Criar uma Marca de Óculos de Sol em 2026?
           </h1>
           <p className="text-xl text-gray-600">
-            Ajudei mais de 500 marcas a lançar desde 2006. Aqui está o que elas realmente gastaram — sem 
+            Ajudei mais de 500 marcas a lançar desde 2006. Aqui está o que elas realmente gastaram -- sem 
             enfeitar, sem &quot;depende.&quot; Orçamentos reais de lançamentos reais.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -126,10 +126,10 @@ export default function SunglassesStartupCostPage() {
           <p>
             No outro extremo, tive clientes que gastaram <strong>$80.000+ antes de vender um único par</strong>. 
             Designs OEM personalizados, acetato italiano, embalagem premium, fotos profissionais, envio para influenciadores 
-            — o pacote completo. Eles construíram uma marca linda. Mas também só empataram após 14 meses.
+            -- o pacote completo. Eles construíram uma marca linda. Mas também só empataram após 14 meses.
           </p>
           <p>
-            O ponto ideal para a maioria dos fundadores de primeira viagem? <strong>$8.000–$15.000</strong>. Isso garante 
+            O ponto ideal para a maioria dos fundadores de primeira viagem? <strong>$8.000-$15.000</strong>. Isso garante 
             uma marca com aparência profissional com 3-5 estilos, embalagem adequada, um site decente e orçamento 
             de marketing suficiente para conseguir seus primeiros 100 clientes.
           </p>
@@ -151,10 +151,10 @@ export default function SunglassesStartupCostPage() {
             custa:
           </p>
           <ul>
-            <li><strong>Amostras de produto:</strong> $20–$60 por par × 5-10 estilos para avaliar = $100–$600</li>
-            <li><strong>Primeira produção:</strong> $3,50–$8 por par × 100-300 pares por modelo × 2-3 estilos = $700–$7.200</li>
-            <li><strong>Personalização do logo:</strong> $0–$50 por modelo para gravação a laser ou setup de impressão tampográfica</li>
-            <li><strong>Custo total de produto (ODM):</strong> $900–$8.000</li>
+            <li><strong>Amostras de produto:</strong> $20-$60 por par × 5-10 estilos para avaliar = $100-$600</li>
+            <li><strong>Primeira produção:</strong> $3,50-$8 por par × 100-300 pares por modelo × 2-3 estilos = $700-$7.200</li>
+            <li><strong>Personalização do logo:</strong> $0-$50 por modelo para gravação a laser ou setup de impressão tampográfica</li>
+            <li><strong>Custo total de produto (ODM):</strong> $900-$8.000</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Rota OEM (Premium)</h3>
@@ -162,17 +162,17 @@ export default function SunglassesStartupCostPage() {
             Designs personalizados do zero. Mais caro, mas as armações são exclusivamente suas.
           </p>
           <ul>
-            <li><strong>Molde/ferramental:</strong> $800–$3.000 por modelo × 2-3 estilos = $1.600–$9.000</li>
-            <li><strong>Taxas de design:</strong> $200–$800 por modelo se a fábrica ajudar no refinamento do CAD</li>
-            <li><strong>Amostras:</strong> $50–$200 por par × 2-3 rodadas = $300–$1.200</li>
-            <li><strong>Primeira produção:</strong> $5–$15 por par × 300-500 pares por modelo × 2-3 estilos = $3.000–$22.500</li>
-            <li><strong>Custo total de produto (OEM):</strong> $5.100–$33.500</li>
+            <li><strong>Molde/ferramental:</strong> $800-$3.000 por modelo × 2-3 estilos = $1.600-$9.000</li>
+            <li><strong>Taxas de design:</strong> $200-$800 por modelo se a fábrica ajudar no refinamento do CAD</li>
+            <li><strong>Amostras:</strong> $50-$200 por par × 2-3 rodadas = $300-$1.200</li>
+            <li><strong>Primeira produção:</strong> $5-$15 por par × 300-500 pares por modelo × 2-3 estilos = $3.000-$22.500</li>
+            <li><strong>Custo total de produto (OEM):</strong> $5.100-$33.500</li>
           </ul>
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-2">💡 Minha Recomendação para Iniciantes</h3>
             <p className="text-blue-800">
-              Comece com 2-3 estilos ODM, 150-200 pares cada. Investimento total em produto: $1.500–$4.000. Isso dá 
+              Comece com 2-3 estilos ODM, 150-200 pares cada. Investimento total em produto: $1.500-$4.000. Isso dá 
               variedade suficiente para testar o mercado sem apostar tudo em designs não testados. Quando você souber 
               o que vende, invista em OEM para os campeões comprovados. Leia mais sobre essa abordagem em nosso{' '}
               <Link href="/pt/blog/criar-marca-oculos-sol" className="text-blue-700 underline">guia completo para criar sua marca</Link>.
@@ -188,7 +188,7 @@ export default function SunglassesStartupCostPage() {
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Identidade da Marca</h3>
           <ul>
-            <li><strong>Design do logo:</strong> $0 (faça você mesmo com Canva) a $500-$2.000 (designer profissional). Eu reservaria pelo menos $200-$500 para um designer freelancer no Fiverr ou 99designs. Seu logo vai em cada armação, cada estojo, cada peça de marketing — vale a pena acertar.</li>
+            <li><strong>Design do logo:</strong> $0 (faça você mesmo com Canva) a $500-$2.000 (designer profissional). Eu reservaria pelo menos $200-$500 para um designer freelancer no Fiverr ou 99designs. Seu logo vai em cada armação, cada estojo, cada peça de marketing -- vale a pena acertar.</li>
             <li><strong>Manual de marca:</strong> $0-$500. Paleta de cores, tipografia, tom de voz. Se contratar um designer para o logo, peça para incluir diretrizes básicas.</li>
             <li><strong>Nome da marca e domínio:</strong> $10-$50/ano para um domínio .com. Reserve $0-$500 se precisar comprar um domínio premium de alguém que está segurando.</li>
           </ul>
@@ -200,17 +200,17 @@ export default function SunglassesStartupCostPage() {
             para o detalhamento completo, mas aqui vai o resumo:
           </p>
           <ul>
-            <li><strong>Embalagem básica (bolsa + pano de limpeza + adesivo):</strong> $0,50–$1,50 por par</li>
-            <li><strong>Intermediária (estojo rígido personalizado + pano com marca + caixa):</strong> $2–$5 por par</li>
-            <li><strong>Premium (caixa magnética + estojo de couro + acessórios):</strong> $5–$15 por par</li>
-            <li><strong>Arquivos de design para embalagem:</strong> $100–$500 se contratar um designer</li>
+            <li><strong>Embalagem básica (bolsa + pano de limpeza + adesivo):</strong> $0,50-$1,50 por par</li>
+            <li><strong>Intermediária (estojo rígido personalizado + pano com marca + caixa):</strong> $2-$5 por par</li>
+            <li><strong>Premium (caixa magnética + estojo de couro + acessórios):</strong> $5-$15 por par</li>
+            <li><strong>Arquivos de design para embalagem:</strong> $100-$500 se contratar um designer</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Fotografia de Produto</h3>
           <ul>
             <li><strong>Faça você mesmo (iPhone + luz natural + fundo branco):</strong> $0. Sinceramente, celulares modernos tiram ótimas fotos de produto. O YouTube tem centenas de tutoriais.</li>
-            <li><strong>Fotógrafo freelancer:</strong> $300–$1.500 para uma sessão completa de fotos de produto (flat lays, fotos lifestyle, fotos com modelo para 3-5 estilos)</li>
-            <li><strong>Sessão em estúdio profissional:</strong> $2.000–$8.000+ com modelos, produção e retoque</li>
+            <li><strong>Fotógrafo freelancer:</strong> $300-$1.500 para uma sessão completa de fotos de produto (flat lays, fotos lifestyle, fotos com modelo para 3-5 estilos)</li>
+            <li><strong>Sessão em estúdio profissional:</strong> $2.000-$8.000+ com modelos, produção e retoque</li>
           </ul>
           <p>
             Meu conselho honesto? Comece com DIY ou um freelancer de $300-$500. Suas primeiras fotos não precisam 
@@ -229,15 +229,15 @@ export default function SunglassesStartupCostPage() {
             <li><strong>Shopify Basic:</strong> $39/mês + 2,9% de taxas de transação. É o que 70% dos nossos clientes usam. Funciona, é confiável e você pode configurar em um fim de semana.</li>
             <li><strong>WooCommerce (WordPress):</strong> $10-$30/mês para hospedagem + plugin gratuito. Mais personalizável, mas exige mais conhecimento técnico.</li>
             <li><strong>Squarespace Commerce:</strong> $33/mês. Templates bonitos, menos flexibilidade que o Shopify.</li>
-            <li><strong>Site personalizado:</strong> $3.000–$15.000+. Somente se você tiver uma visão muito específica e orçamento para bancar.</li>
+            <li><strong>Site personalizado:</strong> $3.000-$15.000+. Somente se você tiver uma visão muito específica e orçamento para bancar.</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">Custos Essenciais de E-Commerce</h3>
           <ul>
             <li><strong>Tema Shopify:</strong> $0 (temas gratuitos são bons) a $350 para um tema premium</li>
-            <li><strong>Apps essenciais:</strong> $0–$100/mês (e-mail marketing, avaliações, analytics)</li>
+            <li><strong>Apps essenciais:</strong> $0-$100/mês (e-mail marketing, avaliações, analytics)</li>
             <li><strong>Processamento de pagamento:</strong> Incluído nas taxas de transação do Shopify</li>
-            <li><strong>Orçamento de e-commerce do primeiro ano:</strong> $500–$2.000</li>
+            <li><strong>Orçamento de e-commerce do primeiro ano:</strong> $500-$2.000</li>
           </ul>
 
           {/* Compliance & Legal */}
@@ -249,12 +249,12 @@ export default function SunglassesStartupCostPage() {
             <Link href="/pt/blog/certificacao-fda-ce-oculos-sol" className="text-primary-600 hover:underline">guia de certificação FDA e CE</Link>.
           </p>
           <ul>
-            <li><strong>Registro empresarial (LLC):</strong> $50–$500 dependendo do seu estado/país</li>
-            <li><strong>Registro de marca:</strong> $250–$750 por classe (faça isso cedo — proteger o nome da sua marca custa muito menos do que disputar uma marca registrada depois)</li>
-            <li><strong>Seguro de responsabilidade do produto:</strong> $500–$2.000/ano. Inegociável se você vende óculos. Um par defeituoso que cause dano aos olhos pode afundar todo o seu negócio.</li>
-            <li><strong>Testes de UV/conformidade:</strong> $300–$800 por modelo. Sua fábrica deve fornecer certificação UV400 básica, mas testes independentes dão uma camada extra de proteção.</li>
+            <li><strong>Registro empresarial (LLC):</strong> $50-$500 dependendo do seu estado/país</li>
+            <li><strong>Registro de marca:</strong> $250-$750 por classe (faça isso cedo -- proteger o nome da sua marca custa muito menos do que disputar uma marca registrada depois)</li>
+            <li><strong>Seguro de responsabilidade do produto:</strong> $500-$2.000/ano. Inegociável se você vende óculos. Um par defeituoso que cause dano aos olhos pode afundar todo o seu negócio.</li>
+            <li><strong>Testes de UV/conformidade:</strong> $300-$800 por modelo. Sua fábrica deve fornecer certificação UV400 básica, mas testes independentes dão uma camada extra de proteção.</li>
             <li><strong>Marcação CE (se vender na UE):</strong> Geralmente cuidado pela fábrica sem custo extra se já forem certificados</li>
-            <li><strong>Registro FDA (se vender nos EUA):</strong> Registro gratuito, mas testes de conformidade adicionam $200–$500</li>
+            <li><strong>Registro FDA (se vender nos EUA):</strong> Registro gratuito, mas testes de conformidade adicionam $200-$500</li>
           </ul>
 
           <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg my-8">
@@ -277,8 +277,8 @@ export default function SunglassesStartupCostPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">Redes Sociais (Orçamento Baixo)</h3>
           <ul>
             <li><strong>Criação de conteúdo:</strong> $0 (faça você mesmo com o celular) a $500-$2.000/mês (criador de conteúdo freelancer)</li>
-            <li><strong>Anúncios pagos (Meta/Instagram/TikTok):</strong> $500–$2.000/mês para começar. Eu recomendo $500/mês no mínimo para testar o que funciona. Abaixo disso, você não obtém dados suficientes para otimizar.</li>
-            <li><strong>Envio para influenciadores:</strong> $0–$500. Envie pares gratuitos para 10-20 micro-influenciadores (5K-50K seguidores). Muitos publicarão pelo produto grátis. Não pague por posts até saber o que converte.</li>
+            <li><strong>Anúncios pagos (Meta/Instagram/TikTok):</strong> $500-$2.000/mês para começar. Eu recomendo $500/mês no mínimo para testar o que funciona. Abaixo disso, você não obtém dados suficientes para otimizar.</li>
+            <li><strong>Envio para influenciadores:</strong> $0-$500. Envie pares gratuitos para 10-20 micro-influenciadores (5K-50K seguidores). Muitos publicarão pelo produto grátis. Não pague por posts até saber o que converte.</li>
           </ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">SEO e Marketing de Conteúdo (Lento, mas Quase Gratuito)</h3>
@@ -292,7 +292,7 @@ export default function SunglassesStartupCostPage() {
           <ul>
             <li><strong>Distribuição de press release:</strong> $0 (aborde jornalistas diretamente) a $300-$500 (PR Newswire)</li>
             <li><strong>Evento de lançamento:</strong> $0 (lançamento via Instagram Live) a $2.000-$10.000 (pop-up físico)</li>
-            <li><strong>Agência de RP:</strong> $2.000–$5.000/mês. Não recomendado para o lançamento — você pode fazer a divulgação para a imprensa por conta própria nessa fase.</li>
+            <li><strong>Agência de RP:</strong> $2.000-$5.000/mês. Não recomendado para o lançamento -- você pode fazer a divulgação para a imprensa por conta própria nessa fase.</li>
           </ul>
 
           {/* Hidden Costs */}
@@ -302,12 +302,12 @@ export default function SunglassesStartupCostPage() {
             e eu já vi pegar fundadores de primeira viagem de surpresa mais vezes do que posso contar.
           </p>
           <ul>
-            <li><strong>Frete da fábrica:</strong> Frete marítimo custa $1–$3 por par (para pedidos de 500+ pares). Frete aéreo custa $3–$8 por par, mas entrega seu produto em 5-7 dias em vez de 25-35.</li>
+            <li><strong>Frete da fábrica:</strong> Frete marítimo custa $1-$3 por par (para pedidos de 500+ pares). Frete aéreo custa $3-$8 por par, mas entrega seu produto em 5-7 dias em vez de 25-35.</li>
             <li><strong>Impostos de importação:</strong> 2% para óculos de sol entrando nos EUA (código HTS 9004.10). UE é tipicamente 2,9%. Não são porcentagens enormes, mas se acumulam em pedidos grandes.</li>
-            <li><strong>Despachante aduaneiro:</strong> $150–$300 por envio se usar um. Você pode fazer o desembaraço por conta própria para envios menores.</li>
-            <li><strong>Devoluções e defeitos:</strong> Reserve 3–5% do valor do seu inventário. Mesmo com ótimo CQ, alguns pares voltam. Isso é varejo.</li>
-            <li><strong>Frete para clientes:</strong> $3–$7 por pedido (USPS First Class ou equivalente). Frete grátis é obrigação em 2026 — embuta no seu preço.</li>
-            <li><strong>Software de contabilidade:</strong> $15–$50/mês (QuickBooks, Xero). Você precisa rastrear custos desde o primeiro dia.</li>
+            <li><strong>Despachante aduaneiro:</strong> $150-$300 por envio se usar um. Você pode fazer o desembaraço por conta própria para envios menores.</li>
+            <li><strong>Devoluções e defeitos:</strong> Reserve 3-5% do valor do seu inventário. Mesmo com ótimo CQ, alguns pares voltam. Isso é varejo.</li>
+            <li><strong>Frete para clientes:</strong> $3-$7 por pedido (USPS First Class ou equivalente). Frete grátis é obrigação em 2026 -- embuta no seu preço.</li>
+            <li><strong>Software de contabilidade:</strong> $15-$50/mês (QuickBooks, Xero). Você precisa rastrear custos desde o primeiro dia.</li>
             <li><strong>Reposições:</strong> Seu primeiro pedido não vai durar para sempre. Reserve orçamento para reposição 2-3 meses após o lançamento. Muitas marcas esquecem disso e ficam sem estoque justo quando o momento está crescendo.</li>
           </ul>
 
@@ -321,19 +321,19 @@ export default function SunglassesStartupCostPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">O Lançamento Bootstrap de $5.000</h3>
           <div className="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg my-8">
             <ul className="text-green-800 space-y-2">
-              <li><strong>Produto:</strong> 2 estilos ODM × 150 pares cada = $1.500–$2.400</li>
-              <li><strong>Embalagem:</strong> Bolsa básica + pano + adesivo = $150–$300</li>
-              <li><strong>Branding:</strong> Logo no Fiverr + marca DIY = $100–$300</li>
+              <li><strong>Produto:</strong> 2 estilos ODM × 150 pares cada = $1.500-$2.400</li>
+              <li><strong>Embalagem:</strong> Bolsa básica + pano + adesivo = $150-$300</li>
+              <li><strong>Branding:</strong> Logo no Fiverr + marca DIY = $100-$300</li>
               <li><strong>Website:</strong> Shopify Basic + tema gratuito = $100 (3 meses)</li>
               <li><strong>Fotografia:</strong> Fotos DIY com iPhone = $0</li>
-              <li><strong>Jurídico:</strong> Registro de LLC = $100–$300</li>
-              <li><strong>Marketing:</strong> $500–$1.000 em anúncios Meta + envio para influenciadores</li>
-              <li><strong>Frete/impostos:</strong> $200–$400</li>
-              <li className="font-bold pt-2 border-t border-green-300">Total: $2,650–$4,700</li>
+              <li><strong>Jurídico:</strong> Registro de LLC = $100-$300</li>
+              <li><strong>Marketing:</strong> $500-$1.000 em anúncios Meta + envio para influenciadores</li>
+              <li><strong>Frete/impostos:</strong> $200-$400</li>
+              <li className="font-bold pt-2 border-t border-green-300">Total: $2,650-$4,700</li>
             </ul>
           </div>
           <p>
-            Isso funciona. Eu já vi funcionar. Uma mulher de Denver fez quase exatamente isso em 2024 — dois estilos, 
+            Isso funciona. Eu já vi funcionar. Uma mulher de Denver fez quase exatamente isso em 2024 -- dois estilos, 
             100 pares cada, vendidos pelo Instagram e uma loja Shopify básica. Ela esgotou em 8 semanas e 
             reinvestiu em 5 estilos para o segundo pedido.
           </p>
@@ -341,16 +341,16 @@ export default function SunglassesStartupCostPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">O Lançamento Sério de $15.000</h3>
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <ul className="text-blue-800 space-y-2">
-              <li><strong>Produto:</strong> 3 estilos ODM + 1 estilo OEM × 200-300 pares cada = $4.000–$7.000</li>
-              <li><strong>Embalagem:</strong> Estojos rígidos personalizados + caixas com marca = $800–$1.500</li>
-              <li><strong>Branding:</strong> Logo profissional + manual de marca = $500–$1.000</li>
-              <li><strong>Website:</strong> Shopify + tema premium + apps essenciais = $500–$800</li>
-              <li><strong>Fotografia:</strong> Sessão freelancer com modelo = $500–$1.500</li>
-              <li><strong>Jurídico:</strong> LLC + marca registrada + seguro = $1.000–$2.000</li>
-              <li><strong>Conformidade:</strong> Testes UV + CE/FDA = $500–$1.000</li>
-              <li><strong>Marketing:</strong> $2.000–$3.000 (anúncios + conteúdo + influenciadores)</li>
-              <li><strong>Frete/impostos:</strong> $500–$1.000</li>
-              <li className="font-bold pt-2 border-t border-blue-300">Total: $10,300–$18,800</li>
+              <li><strong>Produto:</strong> 3 estilos ODM + 1 estilo OEM × 200-300 pares cada = $4.000-$7.000</li>
+              <li><strong>Embalagem:</strong> Estojos rígidos personalizados + caixas com marca = $800-$1.500</li>
+              <li><strong>Branding:</strong> Logo profissional + manual de marca = $500-$1.000</li>
+              <li><strong>Website:</strong> Shopify + tema premium + apps essenciais = $500-$800</li>
+              <li><strong>Fotografia:</strong> Sessão freelancer com modelo = $500-$1.500</li>
+              <li><strong>Jurídico:</strong> LLC + marca registrada + seguro = $1.000-$2.000</li>
+              <li><strong>Conformidade:</strong> Testes UV + CE/FDA = $500-$1.000</li>
+              <li><strong>Marketing:</strong> $2.000-$3.000 (anúncios + conteúdo + influenciadores)</li>
+              <li><strong>Frete/impostos:</strong> $500-$1.000</li>
+              <li className="font-bold pt-2 border-t border-blue-300">Total: $10,300-$18,800</li>
             </ul>
           </div>
           <p>
@@ -362,16 +362,16 @@ export default function SunglassesStartupCostPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">O Lançamento Premium de $50.000</h3>
           <div className="bg-purple-50 border-l-4 border-purple-500 p-6 rounded-r-lg my-8">
             <ul className="text-purple-800 space-y-2">
-              <li><strong>Produto:</strong> 5 estilos OEM × 500 pares cada = $15.000–$30.000</li>
-              <li><strong>Embalagem:</strong> Caixas magnéticas premium + estojos de couro = $3.000–$5.000</li>
-              <li><strong>Branding:</strong> Pacote completo de identidade de marca = $2.000–$5.000</li>
-              <li><strong>Website:</strong> Design personalizado ou build premium Shopify = $3.000–$8.000</li>
-              <li><strong>Fotografia:</strong> Estúdio profissional + modelos + vídeo = $3.000–$8.000</li>
-              <li><strong>Jurídico:</strong> LLC + marca registrada + seguro + revisão de advogado = $2.000–$4.000</li>
-              <li><strong>Conformidade:</strong> Suíte completa de testes = $1.000–$2.000</li>
-              <li><strong>Marketing:</strong> $5.000–$10.000 (anúncios + RP + influenciadores + evento de lançamento)</li>
-              <li><strong>Frete/impostos:</strong> $1.500–$3.000</li>
-              <li className="font-bold pt-2 border-t border-purple-300">Total: $35,500–$75,000</li>
+              <li><strong>Produto:</strong> 5 estilos OEM × 500 pares cada = $15.000-$30.000</li>
+              <li><strong>Embalagem:</strong> Caixas magnéticas premium + estojos de couro = $3.000-$5.000</li>
+              <li><strong>Branding:</strong> Pacote completo de identidade de marca = $2.000-$5.000</li>
+              <li><strong>Website:</strong> Design personalizado ou build premium Shopify = $3.000-$8.000</li>
+              <li><strong>Fotografia:</strong> Estúdio profissional + modelos + vídeo = $3.000-$8.000</li>
+              <li><strong>Jurídico:</strong> LLC + marca registrada + seguro + revisão de advogado = $2.000-$4.000</li>
+              <li><strong>Conformidade:</strong> Suíte completa de testes = $1.000-$2.000</li>
+              <li><strong>Marketing:</strong> $5.000-$10.000 (anúncios + RP + influenciadores + evento de lançamento)</li>
+              <li><strong>Frete/impostos:</strong> $1.500-$3.000</li>
+              <li className="font-bold pt-2 border-t border-purple-300">Total: $35,500-$75,000</li>
             </ul>
           </div>
           <p>
@@ -403,7 +403,7 @@ export default function SunglassesStartupCostPage() {
           </p>
           <p>
             As margens em óculos de sol são genuinamente excelentes. É por isso que esse negócio atrai tantos 
-            empreendedores — e por isso a{' '}
+            empreendedores -- e por isso a{' '}
             <Link href="/pt/blog/estrategia-precos-oculos-sol" className="text-primary-600 hover:underline">estratégia de preços</Link>{' '}
             que você escolher importa tanto.
           </p>
@@ -411,7 +411,7 @@ export default function SunglassesStartupCostPage() {
           {/* How to Save Money */}
           <h2 id="save-money" className="text-3xl font-bold mt-16 mb-6">Como Economizar Sem Cortar Caminhos</h2>
           <p>
-            Depois de acompanhar centenas de lançamentos, aqui estão as estratégias de economia que funcionam — e as que 
+            Depois de acompanhar centenas de lançamentos, aqui estão as estratégias de economia que funcionam -- e as que 
             saem pela culatra.
           </p>
 
@@ -441,9 +441,9 @@ export default function SunglassesStartupCostPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Quanto custa criar uma marca de óculos de sol?</h3>
               <p className="text-gray-600">
-                Lançamento bootstrap: $3.000–$5.000 (ODM, branding básico, Shopify). Lançamento sério: $10.000–$25.000 
-                (mix de ODM/OEM, branding profissional, orçamento real de marketing). Lançamento premium: $30.000–$50.000+ 
-                (OEM completo, tudo personalizado). A maioria das marcas bem-sucedidas de primeira viagem começam na faixa de $8.000–$15.000.
+                Lançamento bootstrap: $3.000-$5.000 (ODM, branding básico, Shopify). Lançamento sério: $10.000-$25.000 
+                (mix de ODM/OEM, branding profissional, orçamento real de marketing). Lançamento premium: $30.000-$50.000+ 
+                (OEM completo, tudo personalizado). A maioria das marcas bem-sucedidas de primeira viagem começam na faixa de $8.000-$15.000.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
@@ -473,7 +473,7 @@ export default function SunglassesStartupCostPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">Uma marca de óculos de sol é lucrativa?</h3>
               <p className="text-gray-600">
-                Sim — marcas de óculos de sol podem ser muito lucrativas devido às altas margens e compras recorrentes. A maioria dos 
+                Sim -- marcas de óculos de sol podem ser muito lucrativas devido às altas margens e compras recorrentes. A maioria dos 
                 nossos clientes de sucesso empata em 3-6 meses e atinge a lucratividade no primeiro ano. O 
                 mercado global de óculos deve ultrapassar $270 bilhões até 2028, com marcas independentes 
                 conquistando uma fatia cada vez maior.
@@ -485,7 +485,7 @@ export default function SunglassesStartupCostPage() {
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">Pronto para Receber um Orçamento Real para Sua Marca?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              Vou fornecer um detalhamento honesto de custos baseado nos seus planos específicos — número de estilos, 
+              Vou fornecer um detalhamento honesto de custos baseado nos seus planos específicos -- número de estilos, 
               quantidades, materiais, embalagem. Sem surpresas, sem taxas ocultas. Apenas os números reais que você 
               precisa para tomar uma decisão inteligente.
             </p>
@@ -500,7 +500,7 @@ export default function SunglassesStartupCostPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/pt/blog/criar-marca-oculos-sol" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Como Criar Sua Marca de Óculos de Sol: Guia Completo</h3>
-                <p className="text-gray-600 text-sm">O guia completo da ideia à primeira venda — tudo além dos custos.</p>
+                <p className="text-gray-600 text-sm">O guia completo da ideia à primeira venda -- tudo além dos custos.</p>
               </Link>
               <Link href="/pt/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM Óculos de Sol: Qual a Diferença?</h3>

@@ -61,7 +61,7 @@ export default function AboutPageFr() {
               <div className="space-y-4 text-gray-600">
                 <p>
                   EyeView a d&eacute;marr&eacute; en 2006 dans un atelier qui, honn&ecirc;tement, n&apos;&eacute;tait pas beaucoup plus grand qu&apos;un
-                  garage pour deux voitures. C&apos;&eacute;tait moi — Jacky Chen — et un technicien, polissant des montures
+                  garage pour deux voitures. C&apos;&eacute;tait moi -- Jacky Chen -- et un technicien, polissant des montures
                   en ac&eacute;tate &agrave; la main et assemblant des charni&egrave;res manuellement. Notre premi&egrave;re &quot;production&quot;
                   &eacute;tait de 200 paires pour une boutique de surf &agrave; Sydney. J&apos;ai emball&eacute; chaque bo&icirc;te personnellement.
                 </p>
@@ -74,7 +74,7 @@ export default function AboutPageFr() {
                 <p>
                   Aujourd&apos;hui, nous exploitons une installation de 5 000 m&sup2; avec 5 lignes de production, plus de 150
                   employ&eacute;s et la capacit&eacute; de produire 10 000 paires par jour. Nous avons servi plus de
-                  500 marques dans plus de 50 pays — des startups Kickstarter commandant 100 paires
+                  500 marques dans plus de 50 pays -- des startups Kickstarter commandant 100 paires
                   aux cha&icirc;nes de distribution commandant 50 000. L&apos;atelier a disparu depuis longtemps, mais pas
                   l&apos;&eacute;tat d&apos;esprit : chaque paire est toujours inspect&eacute;e comme si elle &eacute;tait destin&eacute;e &agrave; cette boutique de
                   surf &agrave; Sydney.
@@ -107,7 +107,7 @@ export default function AboutPageFr() {
               <p className="text-gray-600">
                 &Ecirc;tre l&apos;usine que la prochaine g&eacute;n&eacute;ration de grandes marques de lunettes d&eacute;signera en disant :
                 &quot;Ils nous ont aid&eacute;s &agrave; d&eacute;marrer.&quot; Nous avons d&eacute;j&agrave; aid&eacute; &agrave; lancer des centaines de marques.
-                Nous voulons en aider des milliers d&apos;autres — et continuer &agrave; faire grandir celles que nous avons d&eacute;j&agrave; lanc&eacute;es.
+                Nous voulons en aider des milliers d&apos;autres -- et continuer &agrave; faire grandir celles que nous avons d&eacute;j&agrave; lanc&eacute;es.
                 Votre succ&egrave;s est notre meilleur marketing.
               </p>
             </div>
@@ -142,7 +142,7 @@ export default function AboutPageFr() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Capacit&eacute;s de l&apos;Usine</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Notre installation est con&ccedil;ue pour la flexibilit&eacute; — petites s&eacute;ries et grandes commandes, OEM et ODM,
+              Notre installation est con&ccedil;ue pour la flexibilit&eacute; -- petites s&eacute;ries et grandes commandes, OEM et ODM,
               designs simples et ing&eacute;nierie complexe.
             </p>
           </div>
@@ -165,7 +165,7 @@ export default function AboutPageFr() {
             <CapabilityCard
               icon="🔬"
               title="Laboratoire CQ Interne"
-              description="Tests de transmission UV, tests d&apos;impact, tests de cycles de charni&egrave;re et v&eacute;rification dimensionnelle — tout est r&eacute;alis&eacute; sur place avant toute exp&eacute;dition."
+              description="Tests de transmission UV, tests d&apos;impact, tests de cycles de charni&egrave;re et v&eacute;rification dimensionnelle -- tout est r&eacute;alis&eacute; sur place avant toute exp&eacute;dition."
             />
             <CapabilityCard
               icon="🎨"
@@ -186,7 +186,7 @@ export default function AboutPageFr() {
             <h2 className="text-3xl font-bold mb-4">Certifications et Conformit&eacute;</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Chaque produit que nous exp&eacute;dions respecte les normes internationales de s&eacute;curit&eacute; et de qualit&eacute;.
-              Ce ne sont pas des badges que nous collectionnons — ce sont des exigences que nous prenons au s&eacute;rieux.
+              Ce ne sont pas des badges que nous collectionnons -- ce sont des exigences que nous prenons au s&eacute;rieux.
             </p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
@@ -260,13 +260,13 @@ export default function AboutPageFr() {
           </div>
           <div className="grid md:grid-cols-2 gap-8">
             <TestimonialCard
-              quote="Nous avons commenc&eacute; avec 200 paires ODM comme test. Trois ans plus tard, nous commandons 5 000 paires OEM personnalis&eacute;es par trimestre. EyeView a grandi avec nous — ils ne nous ont jamais pouss&eacute;s &agrave; commander plus que ce que nous &eacute;tions pr&ecirc;ts &agrave; absorber."
+              quote="Nous avons commenc&eacute; avec 200 paires ODM comme test. Trois ans plus tard, nous commandons 5 000 paires OEM personnalis&eacute;es par trimestre. EyeView a grandi avec nous -- ils ne nous ont jamais pouss&eacute;s &agrave; commander plus que ce que nous &eacute;tions pr&ecirc;ts &agrave; absorber."
               name="Rachel M."
               title="Fondatrice, Coastal Shade Co."
               location="Melbourne, Australie"
             />
             <TestimonialCard
-              quote="J&apos;avais eu de mauvaises exp&eacute;riences avec deux autres usines avant de trouver EyeView. La diff&eacute;rence a &eacute;t&eacute; imm&eacute;diate — l&apos;&eacute;quipe de Jacky a vraiment &eacute;cout&eacute; ce dont j&apos;avais besoin au lieu de simplement me proposer l&apos;option la moins ch&egrave;re. La qualit&eacute; est constante sur 12 commandes."
+              quote="J&apos;avais eu de mauvaises exp&eacute;riences avec deux autres usines avant de trouver EyeView. La diff&eacute;rence a &eacute;t&eacute; imm&eacute;diate -- l&apos;&eacute;quipe de Jacky a vraiment &eacute;cout&eacute; ce dont j&apos;avais besoin au lieu de simplement me proposer l&apos;option la moins ch&egrave;re. La qualit&eacute; est constante sur 12 commandes."
               name="Marcus T."
               title="PDG, Elevate Eyewear"
               location="Atlanta, &Eacute;tats-Unis"
@@ -278,7 +278,7 @@ export default function AboutPageFr() {
               location="Stockholm, Su&egrave;de"
             />
             <TestimonialCard
-              quote="En tant que startup sans exp&eacute;rience dans la lunetterie, je m&apos;attendais &agrave; &ecirc;tre ignor&eacute; par les vraies usines. EyeView a trait&eacute; ma premi&egrave;re commande de 100 pi&egrave;ces avec le m&ecirc;me s&eacute;rieux que ses gros clients. Cette loyaut&eacute; fonctionne dans les deux sens — nous sommes maintenant l&apos;un de leurs plus gros comptes."
+              quote="En tant que startup sans exp&eacute;rience dans la lunetterie, je m&apos;attendais &agrave; &ecirc;tre ignor&eacute; par les vraies usines. EyeView a trait&eacute; ma premi&egrave;re commande de 100 pi&egrave;ces avec le m&ecirc;me s&eacute;rieux que ses gros clients. Cette loyaut&eacute; fonctionne dans les deux sens -- nous sommes maintenant l&apos;un de leurs plus gros comptes."
               name="Priya K."
               title="Fondatrice, Dusk &amp; Dawn Eyewear"
               location="Toronto, Canada"
@@ -305,7 +305,7 @@ export default function AboutPageFr() {
             <ValueCard
               icon="💬"
               title="La Franchise"
-              description="Si quelque chose prendra 60 jours, nous disons 60 jours — pas 30. Si un mat&eacute;riau ne convient pas &agrave; votre design, nous vous le disons avant que vous ne gaspilliez de l&apos;argent dans un moule. Pas de surprises."
+              description="Si quelque chose prendra 60 jours, nous disons 60 jours -- pas 30. Si un mat&eacute;riau ne convient pas &agrave; votre design, nous vous le disons avant que vous ne gaspilliez de l&apos;argent dans un moule. Pas de surprises."
             />
           </div>
         </section>
@@ -315,7 +315,7 @@ export default function AboutPageFr() {
           <h2 className="text-3xl font-bold mb-4">Envie de voir ce que nous pouvons faire pour votre marque ?</h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
             Que vous lanciez votre premi&egrave;re collection ou que vous d&eacute;veloppiez une marque existante, nous serions ravis d&apos;&eacute;changer.
-            Aucun engagement, aucune pression commerciale — juste une conversation honn&ecirc;te sur ce qui est possible.
+            Aucun engagement, aucune pression commerciale -- juste une conversation honn&ecirc;te sur ce qui est possible.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/fr/contact" className="btn-primary">

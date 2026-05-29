@@ -18,7 +18,7 @@ export const metadata: Metadata = {
 const catEyeFaqs = [
   {
     question: 'Quais formatos de rosto combinam com óculos olho de gato?',
-    answer: 'Quase todos, honestamente. O olho de gato é um dos formatos mais favoráveis que existem. Rosto oval? Perfeito. Rosto redondo? Os ângulos elevados adicionam definição — fica ótimo. Formato de coração? Combinação ideal. Rosto quadrado? Escolha um olho de gato mais suave e arredondado para equilibrar os ângulos. O único formato de rosto que pode ser complicado é o muito alongado/estreito, onde um olho de gato oversized pode ficar excessivo. Mas mesmo assim, um olho de gato petite funciona bem.',
+    answer: 'Quase todos, honestamente. O olho de gato é um dos formatos mais favoráveis que existem. Rosto oval? Perfeito. Rosto redondo? Os ângulos elevados adicionam definição -- fica ótimo. Formato de coração? Combinação ideal. Rosto quadrado? Escolha um olho de gato mais suave e arredondado para equilibrar os ângulos. O único formato de rosto que pode ser complicado é o muito alongado/estreito, onde um olho de gato oversized pode ficar excessivo. Mas mesmo assim, um olho de gato petite funciona bem.',
   },
   {
     question: 'Qual é o MOQ para óculos olho de gato com marca personalizada?',
@@ -26,7 +26,7 @@ const catEyeFaqs = [
   },
   {
     question: 'Essas armações podem ser feitas com grau?',
-    answer: 'Sim! Todas as nossas armações olho de gato de acetato e metal podem ser enviadas com lentes de demonstração para que as óticas coloquem lentes com grau. Acomodamos prescrições monofocais, bifocais e progressivas. A profundidade da armação e a curvatura da lente são projetadas para isso. É um excelente upsell para óticas — armações fashion com capacidade de grau.',
+    answer: 'Sim! Todas as nossas armações olho de gato de acetato e metal podem ser enviadas com lentes de demonstração para que as óticas coloquem lentes com grau. Acomodamos prescrições monofocais, bifocais e progressivas. A profundidade da armação e a curvatura da lente são projetadas para isso. É um excelente upsell para óticas -- armações fashion com capacidade de grau.',
   },
   {
     question: 'Quais são as tendências em olho de gato para 2024-2025?',
@@ -34,7 +34,7 @@ const catEyeFaqs = [
   },
   {
     question: 'Posso obter amostras antes de me comprometer com um pedido grande?',
-    answer: 'Claro — nunca esperaríamos que você pedisse às cegas. Estilos existentes do catálogo? Amostras grátis, você só cobre o frete (normalmente $30-50 via DHL por 3-5 pares). Quer uma amostra personalizada com suas modificações específicas? Pequena taxa de $50-100 por design, que creditamos no seu primeiro pedido de produção. Então basicamente você recebe amostras personalizadas de graça se fizer pedido. O prazo é de 7-10 dias.',
+    answer: 'Claro -- nunca esperaríamos que você pedisse às cegas. Estilos existentes do catálogo? Amostras grátis, você só cobre o frete (normalmente $30-50 via DHL por 3-5 pares). Quer uma amostra personalizada com suas modificações específicas? Pequena taxa de $50-100 por design, que creditamos no seu primeiro pedido de produção. Então basicamente você recebe amostras personalizadas de graça se fizer pedido. O prazo é de 7-10 dias.',
   },
 ]
 
@@ -44,28 +44,28 @@ const products = [
     image: 'https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&h=400&fit=crop',
     price: '$8.00 - $12.00',
     moq: '100 pçs',
-    description: 'O que toda coleção precisa. Acetato preto, dobradiças polidas, aquele ângulo elevado perfeito. É o equivalente em óculos de sol do vestido preto básico — funciona com tudo, vende para todas. É consistentemente nosso número 1 em recompra em todos os mercados.',
+    description: 'O que toda coleção precisa. Acetato preto, dobradiças polidas, aquele ângulo elevado perfeito. É o equivalente em óculos de sol do vestido preto básico -- funciona com tudo, vende para todas. É consistentemente nosso número 1 em recompra em todos os mercados.',
   },
   {
     name: 'Olho de Gato Leopardo',
     image: 'https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 pçs',
-    description: 'Estampa animal bem feita. O padrão tartaruga não é pintado — é criado sobrepondo lâminas de acetato de cores diferentes, então cada par tem genuína profundidade e riqueza. Uma dona de boutique em Melbourne nos disse que esses superam as cores sólidas em vendas 2 para 1 durante a primavera.',
+    description: 'Estampa animal bem feita. O padrão tartaruga não é pintado -- é criado sobrepondo lâminas de acetato de cores diferentes, então cada par tem genuína profundidade e riqueza. Uma dona de boutique em Melbourne nos disse que esses superam as cores sólidas em vendas 2 para 1 durante a primavera.',
   },
   {
     name: 'Olho de Gato Metal Ouro Rosé',
     image: 'https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=600&h=400&fit=crop',
     price: '$10.00 - $14.00',
     moq: '100 pçs',
-    description: 'Armação metálica fina com galvanização em ouro rosé que parece que deveria custar $200. Não custa. A construção em fio fino dá uma versão moderna e refinada do olho de gato — perfeita para a mulher profissional que quer estilo sem exagero. Combina maravilhosamente tanto com blazers quanto com saídas de praia.',
+    description: 'Armação metálica fina com galvanização em ouro rosé que parece que deveria custar $200. Não custa. A construção em fio fino dá uma versão moderna e refinada do olho de gato -- perfeita para a mulher profissional que quer estilo sem exagero. Combina maravilhosamente tanto com blazers quanto com saídas de praia.',
   },
   {
     name: 'Olho de Gato Oversized',
     image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?w=600&h=400&fit=crop',
     price: '$9.50 - $13.50',
     moq: '100 pçs',
-    description: 'Vai grande ou vai pra casa. O olho de gato oversized é basicamente isca para Instagram — proporções ousadas, pontas dramaticamente elevadas, máxima cobertura facial. Um varejista online nos disse que este estilo recebe mais comentários de "onde você comprou?" do que qualquer outro da loja. Também oferece excelente proteção UV, o que é um belo bônus.',
+    description: 'Vai grande ou vai pra casa. O olho de gato oversized é basicamente isca para Instagram -- proporções ousadas, pontas dramaticamente elevadas, máxima cobertura facial. Um varejista online nos disse que este estilo recebe mais comentários de "onde você comprou?" do que qualquer outro da loja. Também oferece excelente proteção UV, o que é um belo bônus.',
   },
   {
     name: 'Olho de Gato com Cristais',
@@ -79,7 +79,7 @@ const products = [
     image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=400&fit=crop',
     price: '$9.00 - $13.00',
     moq: '100 pçs',
-    description: 'Direto de 1958. Estreitos, com ângulos pronunciados, com hastes grossas de acetato que dizem "eu conheço minha história da moda." São menores que a tendência oversized — intencionalmente. Colecionadoras e entusiastas do vintage arrebatam esses rapidamente. Se seu mercado é retrô, rockabilly ou pin-up, esta é sua armação.',
+    description: 'Direto de 1958. Estreitos, com ângulos pronunciados, com hastes grossas de acetato que dizem "eu conheço minha história da moda." São menores que a tendência oversized -- intencionalmente. Colecionadoras e entusiastas do vintage arrebatam esses rapidamente. Se seu mercado é retrô, rockabilly ou pin-up, esta é sua armação.',
   },
 ]
 
@@ -116,10 +116,10 @@ export default function OlhoDeGatoPagePt() {
               Óculos de Sol Olho de Gato no Atacado
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              O olho de gato nunca sai de moda. Sério — Audrey Hepburn usou nos
+              O olho de gato nunca sai de moda. Sério -- Audrey Hepburn usou nos
               anos 60 e continua sendo o formato #1 em óculos de sol femininos hoje. Fabricamos
               armações olho de gato em acetato, metal e materiais mistos com personalização OEM completa.
-              Seu logo, suas cores, sua marca — nossa fábrica.
+              Seu logo, suas cores, sua marca -- nossa fábrica.
             </p>
           </div>
 
@@ -139,7 +139,7 @@ export default function OlhoDeGatoPagePt() {
               <p>
                 Aqui vai um dado que surpreende as pessoas: o formato olho de gato tem sido a silhueta
                 de óculos de sol femininos mais vendida por mais de 70 anos. Não o aviador. Não o
-                wayfarer. O olho de gato. Por quê? Porque faz algo que nenhum outro formato consegue — eleva.
+                wayfarer. O olho de gato. Por quê? Porque faz algo que nenhum outro formato consegue -- eleva.
                 Aquele ângulo ascendente cria a ilusão de maçãs do rosto mais altas e uma mandíbula mais definida.
                 É basicamente um mini lifting que você pode comprar por $15.
               </p>
@@ -147,13 +147,13 @@ export default function OlhoDeGatoPagePt() {
                 O formato foi inventado em 1939 por uma designer nova-iorquina chamada Altina Schinasi que estava
                 cansada de óculos &quot;feios&quot;. Ela os chamou de armações &quot;Arlequim&quot;. Marilyn Monroe
                 os tornou famosos. Audrey Hepburn os tornou icônicos. E agora, em 2024, são maiores
-                do que nunca — literalmente. O olho de gato oversized domina Instagram, TikTok e
+                do que nunca -- literalmente. O olho de gato oversized domina Instagram, TikTok e
                 todas as semanas de moda de Milão a Seul.
               </p>
               <p>
                 Para compradores no atacado, óculos de sol olho de gato são o mais próximo de uma
                 aposta segura em óculos. Atraem todas as faixas etárias (20-60+), funcionam o ano inteiro e têm
-                forte valor percebido. Todas as nossas armações olho de gato atendem aos <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">padrões de proteção UV da FDA</a> —
+                forte valor percebido. Todas as nossas armações olho de gato atendem aos <a href="https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/sunglasses" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">padrões de proteção UV da FDA</a> --
                 porque ficar bonita não deveria significar comprometer a segurança ocular. Nossa fábrica
                 produz mais de 200.000 armações olho de gato por mês em mais de 40 países. Conhecemos este
                 formato por dentro e por fora.
@@ -197,19 +197,19 @@ export default function OlhoDeGatoPagePt() {
 
           {/* Material Guide */}
           <section className="bg-gray-100 rounded-2xl p-8 md:p-12 mb-16">
-            <h2 className="text-3xl font-bold text-center mb-8">Acetato vs. Metal vs. Misto — Qual é o Ideal?</h2>
+            <h2 className="text-3xl font-bold text-center mb-8">Acetato vs. Metal vs. Misto -- Qual é o Ideal?</h2>
             <div className="grid md:grid-cols-3 gap-8">
               <div className="bg-white rounded-xl p-6 shadow-sm">
                 <h3 className="text-xl font-semibold mb-4">🏛️ Acetato</h3>
                 <p className="text-gray-700 mb-4 leading-relaxed">
                   Se você quer cobrar preços premium no varejo, escolha acetato. É feito de <a href="https://en.wikipedia.org/wiki/Cellulose_acetate" target="_blank" rel="noopener" className="text-primary-600 underline hover:text-primary-800">algodão
                   e polpa de madeira</a> (sim, de verdade), e as cores e padrões que se pode conseguir são
-                  incríveis — tartaruga profundo, redemoinhos de mármore, tons caramelo translúcidos. Cada par
+                  incríveis -- tartaruga profundo, redemoinhos de mármore, tons caramelo translúcidos. Cada par
                   é polido à mão para aquele acabamento brilhante. O acetato <em>parece</em> caro. Suas
                   clientes vão notar. Também é hipoalergênico, então nada de reclamações sobre reações na pele.
                 </p>
                 <ul className="space-y-1 text-sm text-gray-600">
-                  <li>• Cores ricas — tartaruga, mármore, degradê</li>
+                  <li>• Cores ricas -- tartaruga, mármore, degradê</li>
                   <li>• Acabamento premium polido à mão</li>
                   <li>• Hipoalergênico, eco-friendly</li>
                   <li>• Ideal para: boutiques, posicionamento de luxo</li>
@@ -219,10 +219,10 @@ export default function OlhoDeGatoPagePt() {
                 <h3 className="text-xl font-semibold mb-4">⚙️ Metal</h3>
                 <p className="text-gray-700 mb-4 leading-relaxed">
                   Finas, elegantes, modernas. As olho de gato metálicas usam aço inoxidável ou liga livre de níquel com
-                  acabamentos galvanizados — dourado, prateado, ouro rosé, preto fosco. O perfil fino
+                  acabamentos galvanizados -- dourado, prateado, ouro rosé, preto fosco. O perfil fino
                   cria um visual refinado que o acetato não consegue igualar. São as armações para mulheres
                   que querem que seus óculos sussurrem, não gritem. Ótimas para linhas profissionais e de escritório.
-                  Mais leves que o acetato também — a maioria pesa menos de 22 gramas.
+                  Mais leves que o acetato também -- a maioria pesa menos de 22 gramas.
                 </p>
                 <ul className="space-y-1 text-sm text-gray-600">
                   <li>• Finas, elegantes, leves (menos de 22g)</li>
@@ -234,7 +234,7 @@ export default function OlhoDeGatoPagePt() {
               <div className="bg-white rounded-xl p-6 shadow-sm">
                 <h3 className="text-xl font-semibold mb-4">🔗 Material Misto</h3>
                 <p className="text-gray-700 mb-4 leading-relaxed">
-                  O melhor dos dois mundos. Frente de acetato com hastes finas de metal — ou vice-versa.
+                  O melhor dos dois mundos. Frente de acetato com hastes finas de metal -- ou vice-versa.
                   O contraste de dois materiais está super em alta agora. Pense: frente de
                   acetato rosa transparente com hastes finas douradas. Ou acetato preto com hastes de arame prateado.
                   São as armações que fazem as pessoas pararem e perguntarem &quot;onde você conseguiu esses?&quot;
@@ -270,7 +270,7 @@ export default function OlhoDeGatoPagePt() {
                     <ColorTrend color="bg-black" name="Preto Clássico" description="30-35% de todos os pedidos de olho de gato. Sempre. Toda. Temporada. Tenha em estoque ou se arrependa." />
                     <ColorTrend color="bg-amber-700" name="Tartaruga" description="O #2 em vendas. Os marrons multitom funcionam o ano inteiro, com todo mundo, em todo lugar." />
                     <ColorTrend color="bg-yellow-600" name="Metal Dourado" description="Essencial para qualquer linha de luxo ou profissional. Olho de gato dourados transpiram sofisticação." />
-                    <ColorTrend color="bg-gray-400" name="Degradê Bicolor" description="Armações que fazem degradê de uma cor para outra — preto para transparente, rosa para pêssego. Super Instagram." />
+                    <ColorTrend color="bg-gray-400" name="Degradê Bicolor" description="Armações que fazem degradê de uma cor para outra -- preto para transparente, rosa para pêssego. Super Instagram." />
                   </div>
                 </div>
               </div>
@@ -321,7 +321,7 @@ export default function OlhoDeGatoPagePt() {
               <Link href="/pt/produtos/infantil" className="card p-6 text-center hover:shadow-lg transition-shadow">
                 <div className="text-4xl mb-3">👧</div>
                 <h3 className="font-semibold mb-2">Olho de Gato Infantil</h3>
-                <p className="text-sm text-gray-600">Mini olho de gato para meninas — vendem sozinhos</p>
+                <p className="text-sm text-gray-600">Mini olho de gato para meninas -- vendem sozinhos</p>
               </Link>
             </div>
           </section>
@@ -343,7 +343,7 @@ export default function OlhoDeGatoPagePt() {
           <section className="text-center bg-primary-50 rounded-2xl p-8 md:p-12">
             <h2 className="text-3xl font-bold mb-4">Pronta para Vender o Formato que Se Vende Sozinho?</h2>
             <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-              Boutiques, lojas online, distribuidores de marcas — trabalhamos com todos eles. Nosso
+              Boutiques, lojas online, distribuidores de marcas -- trabalhamos com todos eles. Nosso
               programa atacado de olho de gato feminino oferece preços competitivos, produção rápida
               e personalização completa. Peça um catálogo grátis e descubra o que é possível.
             </p>

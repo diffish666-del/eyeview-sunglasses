@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Pricing Strategy: From Factory Cost to Retail Price',
-  description: 'A factory owner reveals the real economics of sunglasses pricing — factory costs, wholesale markup, retail margins, and pricing strategies that work for new and established brands.',
+  description: 'A factory owner reveals the real economics of sunglasses pricing -- factory costs, wholesale markup, retail margins, and pricing strategies that work for new and established brands.',
   keywords: 'sunglasses pricing, eyewear markup, wholesale sunglasses pricing, sunglasses profit margin, sunglasses retail price strategy',
   alternates: {
     canonical: '/blog/sunglasses-pricing-strategy',
@@ -27,7 +27,7 @@ export default function SunglassesPricingStrategyPage() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "A factory owner reveals the real economics of sunglasses pricing — from factory floor to retail shelf.",
+          "description": "A factory owner reveals the real economics of sunglasses pricing -- from factory floor to retail shelf.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/sunglasses-pricing-strategy" }
         })}} />
 
@@ -38,12 +38,12 @@ export default function SunglassesPricingStrategyPage() {
             {
               "@type": "Question",
               "name": "What is the typical markup on sunglasses?",
-              "acceptedAnswer": { "@type": "Answer", "text": "The typical markup chain: Factory cost × 2-3 = wholesale price × 2-2.5 = retail price. So a pair that costs $5 to manufacture might wholesale at $12-15 and retail at $25-35. Direct-to-consumer (DTC) brands skip the wholesale step and capture the full margin, selling that same $5 pair for $25-45. Luxury brands apply even higher markups — a $10-20 factory cost pair can retail for $200-500+." }
+              "acceptedAnswer": { "@type": "Answer", "text": "The typical markup chain: Factory cost × 2-3 = wholesale price × 2-2.5 = retail price. So a pair that costs $5 to manufacture might wholesale at $12-15 and retail at $25-35. Direct-to-consumer (DTC) brands skip the wholesale step and capture the full margin, selling that same $5 pair for $25-45. Luxury brands apply even higher markups -- a $10-20 factory cost pair can retail for $200-500+." }
             },
             {
               "@type": "Question",
               "name": "How much do sunglasses cost to manufacture?",
-              "acceptedAnswer": { "@type": "Answer", "text": "ODM sunglasses: $3-8 per pair (including polarized lenses and basic packaging). OEM custom designs: $5-15+ per pair depending on materials and complexity. Premium materials (Italian acetate, Zeiss lenses) can push costs to $15-30 per pair. These are FOB factory costs — add $2-5 per pair for shipping, duties, and packaging to get your landed cost." }
+              "acceptedAnswer": { "@type": "Answer", "text": "ODM sunglasses: $3-8 per pair (including polarized lenses and basic packaging). OEM custom designs: $5-15+ per pair depending on materials and complexity. Premium materials (Italian acetate, Zeiss lenses) can push costs to $15-30 per pair. These are FOB factory costs -- add $2-5 per pair for shipping, duties, and packaging to get your landed cost." }
             },
             {
               "@type": "Question",
@@ -69,7 +69,7 @@ export default function SunglassesPricingStrategyPage() {
             Sunglasses Pricing Strategy: From Factory Cost to Retail Price
           </h1>
           <p className="text-xl text-gray-600">
-            I see both sides of the pricing equation every day — what it costs to make sunglasses and 
+            I see both sides of the pricing equation every day -- what it costs to make sunglasses and 
             what they sell for. The gap is wider than most people realize, and understanding it is the 
             key to building a profitable brand.
           </p>
@@ -100,7 +100,7 @@ export default function SunglassesPricingStrategyPage() {
           <p className="text-xl text-gray-600 mb-8">
             Here&apos;s a fact that blows most people&apos;s minds: a pair of sunglasses that retails 
             for $150 typically costs $8-$15 to manufacture. That&apos;s a 10-20x markup. And the $300+ 
-            luxury pairs? Often $15-$30 to produce. The eyewear industry runs on massive margins — 
+            luxury pairs? Often $15-$30 to produce. The eyewear industry runs on massive margins -- 
             and that&apos;s exactly what makes it attractive for new brands.
           </p>
 
@@ -122,13 +122,13 @@ export default function SunglassesPricingStrategyPage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">Frame (material + labor)</td><td className="px-6 py-4">$1.00–$2.00</td><td className="px-6 py-4">$2.50–$5.00</td><td className="px-6 py-4">$5.00–$12.00</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Lenses (pair)</td><td className="px-6 py-4">$0.50–$1.50</td><td className="px-6 py-4">$1.50–$3.00</td><td className="px-6 py-4">$3.00–$8.00</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Hinges &amp; hardware</td><td className="px-6 py-4">$0.20–$0.50</td><td className="px-6 py-4">$0.50–$1.50</td><td className="px-6 py-4">$1.50–$3.00</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Nose pads</td><td className="px-6 py-4">$0.05–$0.10</td><td className="px-6 py-4">$0.10–$0.30</td><td className="px-6 py-4">$0.30–$0.80</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">Logo application</td><td className="px-6 py-4">$0.10–$0.20</td><td className="px-6 py-4">$0.20–$0.50</td><td className="px-6 py-4">$0.50–$1.50</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">Assembly &amp; QC</td><td className="px-6 py-4">$0.50–$1.00</td><td className="px-6 py-4">$1.00–$2.00</td><td className="px-6 py-4">$2.00–$4.00</td></tr>
-                <tr className="bg-white font-bold"><td className="px-6 py-4">FOB Total</td><td className="px-6 py-4">$2.35–$5.30</td><td className="px-6 py-4">$5.80–$12.30</td><td className="px-6 py-4">$12.30–$29.30</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Frame (material + labor)</td><td className="px-6 py-4">$1.00-$2.00</td><td className="px-6 py-4">$2.50-$5.00</td><td className="px-6 py-4">$5.00-$12.00</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Lenses (pair)</td><td className="px-6 py-4">$0.50-$1.50</td><td className="px-6 py-4">$1.50-$3.00</td><td className="px-6 py-4">$3.00-$8.00</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Hinges &amp; hardware</td><td className="px-6 py-4">$0.20-$0.50</td><td className="px-6 py-4">$0.50-$1.50</td><td className="px-6 py-4">$1.50-$3.00</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Nose pads</td><td className="px-6 py-4">$0.05-$0.10</td><td className="px-6 py-4">$0.10-$0.30</td><td className="px-6 py-4">$0.30-$0.80</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">Logo application</td><td className="px-6 py-4">$0.10-$0.20</td><td className="px-6 py-4">$0.20-$0.50</td><td className="px-6 py-4">$0.50-$1.50</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">Assembly &amp; QC</td><td className="px-6 py-4">$0.50-$1.00</td><td className="px-6 py-4">$1.00-$2.00</td><td className="px-6 py-4">$2.00-$4.00</td></tr>
+                <tr className="bg-white font-bold"><td className="px-6 py-4">FOB Total</td><td className="px-6 py-4">$2.35-$5.30</td><td className="px-6 py-4">$5.80-$12.30</td><td className="px-6 py-4">$12.30-$29.30</td></tr>
               </tbody>
             </table>
           </div>
@@ -158,12 +158,12 @@ export default function SunglassesPricingStrategyPage() {
               <li><strong>Import duty (2% US):</strong> $0.12</li>
               <li><strong>Insurance &amp; customs broker:</strong> $0.30</li>
               <li><strong>Domestic warehousing:</strong> $0.20</li>
-              <li className="font-bold pt-2 border-t border-blue-300">Total landed cost: $10.62–$13.12</li>
+              <li className="font-bold pt-2 border-t border-blue-300">Total landed cost: $10.62-$13.12</li>
             </ul>
           </div>
 
           <p>
-            This is the number you use for all pricing calculations — not the factory FOB price. 
+            This is the number you use for all pricing calculations -- not the factory FOB price. 
             I&apos;ve seen too many new brands price based on factory cost and then wonder why their 
             margins are thinner than expected. For more on import costs, see our{' '}
             <Link href="/blog/import-sunglasses-guide" className="text-primary-600 hover:underline">import guide</Link>.
@@ -171,7 +171,7 @@ export default function SunglassesPricingStrategyPage() {
 
           <h2 id="markup-chain" className="text-3xl font-bold mt-16 mb-6">The Markup Chain: Factory → Wholesale → Retail</h2>
           <p>
-            The traditional eyewear markup chain is brutal — in a good way if you&apos;re the brand:
+            The traditional eyewear markup chain is brutal -- in a good way if you&apos;re the brand:
           </p>
           <ol>
             <li><strong>Factory cost → Wholesale price:</strong> 2-3x markup. A $6 factory cost becomes a $12-$18 wholesale price.</li>
@@ -255,7 +255,7 @@ export default function SunglassesPricingStrategyPage() {
 
           <h2 id="pricing-psychology" className="text-3xl font-bold mt-16 mb-6">Pricing Psychology That Works</h2>
           <p>
-            Pricing isn&apos;t just math — it&apos;s psychology. Here are the strategies I&apos;ve seen 
+            Pricing isn&apos;t just math -- it&apos;s psychology. Here are the strategies I&apos;ve seen 
             our most successful clients use:
           </p>
           <ul>
@@ -309,7 +309,7 @@ export default function SunglassesPricingStrategyPage() {
               <h3 className="font-bold text-lg mb-2">What price should I sell my sunglasses for?</h3>
               <p className="text-gray-600">
                 Value: $15-$30. Mid-range: $30-$80. Premium: $80-$150. Luxury: $150+. Most new DTC 
-                brands succeed in the $30-$60 range — good margins, accessible pricing, room for 
+                brands succeed in the $30-$60 range -- good margins, accessible pricing, room for 
                 marketing spend.
               </p>
             </div>
@@ -326,7 +326,7 @@ export default function SunglassesPricingStrategyPage() {
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">Need Help With Your Pricing Model?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-              I&apos;ll give you a detailed cost breakdown for your specific product — materials, 
+              I&apos;ll give you a detailed cost breakdown for your specific product -- materials, 
               lenses, packaging, and shipping. With the real numbers, you can build a pricing 
               strategy that actually works.
             </p>
@@ -340,15 +340,15 @@ export default function SunglassesPricingStrategyPage() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/products/promotional" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Promotional Sunglasses</h3>
-                <p className="text-gray-600 text-sm">From $0.80/pair — perfect for budget-conscious brands and event marketing.</p>
+                <p className="text-gray-600 text-sm">From $0.80/pair -- perfect for budget-conscious brands and event marketing.</p>
               </Link>
               <Link href="/products/prescription" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Prescription Sunglasses</h3>
-                <p className="text-gray-600 text-sm">$8-28/pair — 2-3x retail price, highest margin category in eyewear.</p>
+                <p className="text-gray-600 text-sm">$8-28/pair -- 2-3x retail price, highest margin category in eyewear.</p>
               </Link>
               <Link href="/products/eco-friendly" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Eco-Friendly Sunglasses</h3>
-                <p className="text-gray-600 text-sm">30-50% retail premium — sustainable materials command higher prices.</p>
+                <p className="text-gray-600 text-sm">30-50% retail premium -- sustainable materials command higher prices.</p>
               </Link>
             </div>
           </div>

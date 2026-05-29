@@ -62,7 +62,7 @@ export default function ContactPageFr() {
               <p className="text-primary-700">
                 Notre équipe examinera vos besoins et vous enverra un devis détaillé 
                 avec les tarifs, le MOQ et les délais. Pour toute question urgente, 
-                n&apos;hésitez pas à nous contacter directement à jacky@eyeviewsunglasses.com
+                n&apos;hésitez pas à nous contacter directement à sales@eyeviewsunglasses.com
               </p>
             </div>
             <a href="/fr" className="btn-primary inline-block">
@@ -231,8 +231,8 @@ export default function ContactPageFr() {
                   <span className="text-2xl mr-3">📧</span>
                   <div>
                     <div className="text-sm text-gray-500">Email</div>
-                    <a href="mailto:jacky@eyeviewsunglasses.com" className="font-medium text-primary-600 hover:underline">
-                      jacky@eyeviewsunglasses.com
+                    <a href="mailto:sales@eyeviewsunglasses.com" className="font-medium text-primary-600 hover:underline">
+                      sales@eyeviewsunglasses.com
                     </a>
                   </div>
                 </div>

@@ -35,7 +35,7 @@ const features = [
   {
     emoji: '🎨',
     title: 'Vollständige Individualisierung',
-    description: 'Vom Fassungsdesign und der Glasfarbe bis zur Logogravur und individuellen Verpackung — wir verwirklichen Ihre Sonnenbrillen-Vision mit umfassenden OEM- und ODM-Fertigungskapazitäten.',
+    description: 'Vom Fassungsdesign und der Glasfarbe bis zur Logogravur und individuellen Verpackung -- wir verwirklichen Ihre Sonnenbrillen-Vision mit umfassenden OEM- und ODM-Fertigungskapazitäten.',
   },
   {
     emoji: '💰',
@@ -45,7 +45,7 @@ const features = [
   {
     emoji: '⚡',
     title: 'Schnelle Lieferung',
-    description: 'Unser optimierter Produktionsprozess liefert Muster in 5–7 Tagen und Großbestellungen in 15–25 Tagen. Eilbestellungen für saisonale Kollektionen und Markteinführungen verfügbar.',
+    description: 'Unser optimierter Produktionsprozess liefert Muster in 5-7 Tagen und Großbestellungen in 15-25 Tagen. Eilbestellungen für saisonale Kollektionen und Markteinführungen verfügbar.',
   },
   {
     emoji: '🔒',
@@ -55,7 +55,7 @@ const features = [
   {
     emoji: '📦',
     title: 'Niedrige Mindestbestellmenge',
-    description: 'Starten Sie mit nur 50 Stück pro Modell — ideal für neue Marken, die den Markt testen, Boutiquen und Werbekampagnen. Keine großen Lagerverpflichtungen.',
+    description: 'Starten Sie mit nur 50 Stück pro Modell -- ideal für neue Marken, die den Markt testen, Boutiquen und Werbekampagnen. Keine großen Lagerverpflichtungen.',
   },
   {
     emoji: '🌍',
@@ -79,21 +79,21 @@ const products = [
 ];
 
 const steps = [
-  { step: '01', title: 'Erstberatung', description: 'Teilen Sie uns Ihre Anforderungen mit — Stil, Menge, Individualisierungswünsche und Budget. Unser Team bietet fachkundige Beratung bei der Auswahl der richtigen Produkte für Ihren Markt.' },
-  { step: '02', title: 'Design & Muster', description: 'Wir erstellen detaillierte Designs nach Ihren Spezifikationen. Erhalten Sie physische Muster in 5–7 Werktagen zur Prüfung und Freigabe vor der Serienproduktion.' },
+  { step: '01', title: 'Erstberatung', description: 'Teilen Sie uns Ihre Anforderungen mit -- Stil, Menge, Individualisierungswünsche und Budget. Unser Team bietet fachkundige Beratung bei der Auswahl der richtigen Produkte für Ihren Markt.' },
+  { step: '02', title: 'Design & Muster', description: 'Wir erstellen detaillierte Designs nach Ihren Spezifikationen. Erhalten Sie physische Muster in 5-7 Werktagen zur Prüfung und Freigabe vor der Serienproduktion.' },
   { step: '03', title: 'Freigabe & Produktion', description: 'Nach Musterfreigabe starten wir die Serienproduktion. Unsere Kapazität bewältigt Bestellungen von 50 bis über 100.000 Stück bei gleichbleibender Qualitätskontrolle.' },
   { step: '04', title: 'Qualitätsprüfung', description: 'Jede Charge durchläuft eine umfassende 6-Punkte-Qualitätsprüfung einschließlich UV-Schutz-Tests, Scharnier-Haltbarkeit, Glasklarheit und Fassungsausrichtung.' },
-  { step: '05', title: 'Versand & Lieferung', description: 'Wir übernehmen Verpackung, Etikettierung und Logistik. Wählen Sie zwischen Express-Luftfracht (5–7 Tage) oder wirtschaftlichem Seeversand (20–30 Tage) mit vollständiger Sendungsverfolgung und Zollunterstützung.' },
+  { step: '05', title: 'Versand & Lieferung', description: 'Wir übernehmen Verpackung, Etikettierung und Logistik. Wählen Sie zwischen Express-Luftfracht (5-7 Tage) oder wirtschaftlichem Seeversand (20-30 Tage) mit vollständiger Sendungsverfolgung und Zollunterstützung.' },
 ];
 
 const faqs = [
   {
     question: 'Wie hoch ist die Mindestbestellmenge (MOQ) für Sonnenbrillen im Großhandel?',
-    answer: 'Unsere Standard-MOQ beträgt 50 Stück pro Modell und Farbkombination. Für Neukunden, die den Markt testen möchten, bieten wir flexible Starterpakete an. Bei individuellen OEM-Bestellungen mit Logogravur oder einzigartigen Designs kann die MOQ bei 100–300 Stück beginnen, je nach Komplexität. Kontaktieren Sie uns für spezifische Anforderungen.',
+    answer: 'Unsere Standard-MOQ beträgt 50 Stück pro Modell und Farbkombination. Für Neukunden, die den Markt testen möchten, bieten wir flexible Starterpakete an. Bei individuellen OEM-Bestellungen mit Logogravur oder einzigartigen Designs kann die MOQ bei 100-300 Stück beginnen, je nach Komplexität. Kontaktieren Sie uns für spezifische Anforderungen.',
   },
   {
     question: 'Wie lange dauert die Produktion einer Sonnenbrillen-Großhandelsbestellung?',
-    answer: 'Die Produktionszeiten variieren je nach Bestellgröße und Individualisierungsgrad. Standardbestellungen (vorhandene Designs) werden in der Regel innerhalb von 15–20 Werktagen versandt. Individuelle OEM-Bestellungen mit neuen Designs benötigen 20–30 Werktage inklusive Bemusterung. Eilproduktion ist gegen Aufpreis möglich und verkürzt die Zeit auf 10–15 Tage.',
+    answer: 'Die Produktionszeiten variieren je nach Bestellgröße und Individualisierungsgrad. Standardbestellungen (vorhandene Designs) werden in der Regel innerhalb von 15-20 Werktagen versandt. Individuelle OEM-Bestellungen mit neuen Designs benötigen 20-30 Werktage inklusive Bemusterung. Eilproduktion ist gegen Aufpreis möglich und verkürzt die Zeit auf 10-15 Tage.',
   },
   {
     question: 'Bieten Sie OEM- und ODM-Fertigungsdienstleistungen für Sonnenbrillen an?',
@@ -113,11 +113,11 @@ const faqs = [
   },
   {
     question: 'Liefern Sie international? Welche Versandoptionen gibt es?',
-    answer: 'Ja, wir versenden in über 60 Länder weltweit. Die Versandoptionen umfassen DHL Express (3–5 Werktage), FedEx (3–7 Werktage), UPS (5–8 Werktage) und Seefracht (20–35 Tage für Großbestellungen). Wir übernehmen die gesamte Exportdokumentation und können DDP (geliefert verzollt) oder FOB nach Ihrer Präferenz versenden.',
+    answer: 'Ja, wir versenden in über 60 Länder weltweit. Die Versandoptionen umfassen DHL Express (3-5 Werktage), FedEx (3-7 Werktage), UPS (5-8 Werktage) und Seefracht (20-35 Tage für Großbestellungen). Wir übernehmen die gesamte Exportdokumentation und können DDP (geliefert verzollt) oder FOB nach Ihrer Präferenz versenden.',
   },
   {
     question: 'Wie beginne ich mit einer Sonnenbrillen-Großhandelsbestellung?',
-    answer: 'Der Einstieg ist einfach: 1) Kontaktieren Sie uns per E-Mail an jacky@eyeviewsunglasses.com oder WhatsApp unter +86-18850281211 mit Ihren Anforderungen. 2) Unser Team erstellt Ihnen innerhalb von 24 Stunden ein detailliertes Angebot. 3) Prüfen und genehmigen Sie die Muster. 4) Geben Sie Ihre Bestellung auf und wir kümmern uns um den Rest. Wir heißen sowohl Erstkäufer als auch etablierte Marken willkommen.',
+    answer: 'Der Einstieg ist einfach: 1) Kontaktieren Sie uns per E-Mail an sales@eyeviewsunglasses.com oder WhatsApp unter +86-18850281211 mit Ihren Anforderungen. 2) Unser Team erstellt Ihnen innerhalb von 24 Stunden ein detailliertes Angebot. 3) Prüfen und genehmigen Sie die Muster. 4) Geben Sie Ihre Bestellung auf und wir kümmern uns um den Rest. Wir heißen sowohl Erstkäufer als auch etablierte Marken willkommen.',
   },
 ];
 
@@ -137,14 +137,14 @@ const howToJsonLd = {
       '@type': 'HowToStep',
       position: 1,
       name: 'Erstberatung',
-      text: 'Teilen Sie uns Ihre Anforderungen mit — Stil, Menge, Individualisierungswünsche und Budget. Unser Team bietet fachkundige Beratung.',
+      text: 'Teilen Sie uns Ihre Anforderungen mit -- Stil, Menge, Individualisierungswünsche und Budget. Unser Team bietet fachkundige Beratung.',
       url: 'https://eyeviewsunglasses.com/de/kontakt/',
     },
     {
       '@type': 'HowToStep',
       position: 2,
       name: 'Design & Muster',
-      text: 'Wir erstellen detaillierte Designs nach Ihren Spezifikationen. Erhalten Sie physische Muster in 5–7 Werktagen.',
+      text: 'Wir erstellen detaillierte Designs nach Ihren Spezifikationen. Erhalten Sie physische Muster in 5-7 Werktagen.',
     },
     {
       '@type': 'HowToStep',
@@ -162,7 +162,7 @@ const howToJsonLd = {
       '@type': 'HowToStep',
       position: 5,
       name: 'Versand & Lieferung',
-      text: 'Wir übernehmen Verpackung, Etikettierung und Logistik. Express-Luftfracht (5–7 Tage) oder Seeversand (20–30 Tage) mit vollständiger Sendungsverfolgung.',
+      text: 'Wir übernehmen Verpackung, Etikettierung und Logistik. Express-Luftfracht (5-7 Tage) oder Seeversand (20-30 Tage) mit vollständiger Sendungsverfolgung.',
     },
   ],
 };

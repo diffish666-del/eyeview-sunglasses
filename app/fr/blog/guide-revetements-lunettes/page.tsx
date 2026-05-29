@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Guide des Traitements de Verres : Miroir, Anti-Reflet, Hydrophobe et Plus',
-  description: 'Un propriétaire d\'usine détaille chaque type de traitement de verre — miroir, AR, hydrophobe, oléophobe, anti-buée, anti-rayures, filtre lumière bleue. Coûts réels par paire et combinaisons optimales.',
+  description: 'Un propriétaire d\'usine détaille chaque type de traitement de verre -- miroir, AR, hydrophobe, oléophobe, anti-buée, anti-rayures, filtre lumière bleue. Coûts réels par paire et combinaisons optimales.',
   keywords: 'traitements verres lunettes, revêtement miroir lunettes, anti-reflet lunettes, hydrophobe verre, oléophobe, anti-buée lunettes, anti-rayures verres, filtre lumière bleue',
   alternates: { canonical: '/fr/blog/guide-revetements-lunettes', languages: { 'en': '/blog/sunglasses-coating-guide', 'fr': '/fr/blog/guide-revetements-lunettes' } },
 }
@@ -31,13 +31,13 @@ export default function GuideRevetementsLunettesPage() {
           <p>La couche de base indispensable. Renforce la surface du verre contre les rayures du quotidien. <strong>Coût : 0,15-0,40 $.</strong> Incluez-le toujours.</p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">2. Anti-reflet (AR)</h3>
-          <p>Élimine les reflets parasites sur la face interne du verre — ceux qui vous éblouissent quand le soleil est derrière vous. <strong>Coût : 0,60-1,50 $.</strong> Fortement recommandé pour les verres non-miroir.</p>
+          <p>Élimine les reflets parasites sur la face interne du verre -- ceux qui vous éblouissent quand le soleil est derrière vous. <strong>Coût : 0,60-1,50 $.</strong> Fortement recommandé pour les verres non-miroir.</p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">3. Miroir (flash)</h3>
           <p>L&apos;effet miroir réduit la transmission lumineuse et donne un look distinctif. Disponible en argent, or, bleu, vert, rose, multicolore. <strong>Coût : 0,80-3,00 $</strong> selon le nombre de couches et la couleur.</p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">4. Hydrophobe</h3>
-          <p>Repousse l&apos;eau — les gouttes glissent au lieu de rester. Idéal pour les sports nautiques et le quotidien pluvieux. <strong>Coût : 0,20-0,50 $.</strong></p>
+          <p>Repousse l&apos;eau -- les gouttes glissent au lieu de rester. Idéal pour les sports nautiques et le quotidien pluvieux. <strong>Coût : 0,20-0,50 $.</strong></p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">5. Oléophobe</h3>
           <p>Résiste aux traces de doigts et aux huiles. Facilite le nettoyage. <strong>Coût : 0,30-0,60 $.</strong></p>
@@ -69,8 +69,8 @@ export default function GuideRevetementsLunettesPage() {
           <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">Depuis l&apos;Atelier</h2>
             <div className="grid md:grid-cols-2 gap-6">
-              <Link href="/fr/blog/guide-verres-lunettes" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Guide Complet des Verres</h3><p className="text-gray-600 text-sm">Matériaux, couleurs et polarisation — le guide de base.</p></Link>
-              <Link href="/fr/blog/uv400-vs-polarisees" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">UV400 vs Polarisées</h3><p className="text-gray-600 text-sm">Deux technologies différentes — comprenez la distinction.</p></Link>
+              <Link href="/fr/blog/guide-verres-lunettes" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Guide Complet des Verres</h3><p className="text-gray-600 text-sm">Matériaux, couleurs et polarisation -- le guide de base.</p></Link>
+              <Link href="/fr/blog/uv400-vs-polarisees" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">UV400 vs Polarisées</h3><p className="text-gray-600 text-sm">Deux technologies différentes -- comprenez la distinction.</p></Link>
             </div>
           </div>
         </div>

@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Strategia di Prezzo per Occhiali da Sole: Dal Costo di Fabbrica al Prezzo al Dettaglio',
-  description: 'Un proprietario di fabbrica rivela l\'economia reale dei prezzi degli occhiali — costi di fabbrica, markup all\'ingrosso, margini retail e strategie di prezzo che funzionano per brand nuovi e affermati.',
+  description: 'Un proprietario di fabbrica rivela l\'economia reale dei prezzi degli occhiali -- costi di fabbrica, markup all\'ingrosso, margini retail e strategie di prezzo che funzionano per brand nuovi e affermati.',
   keywords: 'prezzi occhiali da sole, markup eyewear, prezzi ingrosso occhiali, margine profitto occhiali, strategia prezzo retail occhiali',
   alternates: { canonical: '/it/blog/strategia-prezzi-occhiali', languages: { 'en': '/blog/sunglasses-pricing-strategy', 'it': '/it/blog/strategia-prezzi-occhiali' } },
 }
@@ -20,11 +20,11 @@ export default function StrategiaPrezziPage() {
 
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Strategia di Prezzo per Occhiali da Sole: Dal Costo di Fabbrica al Prezzo al Dettaglio", "datePublished": "2026-05-04", "dateModified": "2026-05-04", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica rivela l'economia reale dei prezzi degli occhiali — dal reparto produzione allo scaffale del negozio.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/strategia-prezzi-occhiali" }, "inLanguage": "it" })}} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Strategia di Prezzo per Occhiali da Sole: Dal Costo di Fabbrica al Prezzo al Dettaglio", "datePublished": "2026-05-04", "dateModified": "2026-05-04", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica rivela l'economia reale dei prezzi degli occhiali -- dal reparto produzione allo scaffale del negozio.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/strategia-prezzi-occhiali" }, "inLanguage": "it" })}} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Business</span><span>4 maggio 2026</span><span>•</span><span>13 min di lettura</span></div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Strategia di Prezzo per Occhiali da Sole: Dal Costo di Fabbrica al Prezzo al Dettaglio</h1>
-          <p className="text-xl text-gray-600">I numeri reali che nessun altro pubblica. Dal costo del materiale grezzo nella nostra fabbrica al prezzo sul cartellino nel tuo negozio — ecco come funziona davvero l&apos;economia degli occhiali da sole.</p>
+          <p className="text-xl text-gray-600">I numeri reali che nessun altro pubblica. Dal costo del materiale grezzo nella nostra fabbrica al prezzo sul cartellino nel tuo negozio -- ecco come funziona davvero l&apos;economia degli occhiali da sole.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200"><div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div><div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Fondatore, EyeView Sunglasses</div></div></div>
         </header>
         <div className="prose prose-lg max-w-none">
@@ -68,10 +68,10 @@ export default function StrategiaPrezziPage() {
             <table className="w-full border-collapse">
               <thead><tr className="bg-gray-900 text-white"><th className="px-6 py-4 text-left">Fascia Retail</th><th className="px-6 py-4 text-left">Budget Costo</th><th className="px-6 py-4 text-left">Posizionamento</th></tr></thead>
               <tbody className="divide-y divide-gray-200">
-                <tr className="bg-white"><td className="px-6 py-4">$19-39</td><td className="px-6 py-4">$3-8</td><td className="px-6 py-4">Value — TR90, lenti base, packaging minimo</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">$39-79</td><td className="px-6 py-4">$8-15</td><td className="px-6 py-4">Mid-range — acetato/TR90 premium, lenti polarizzate</td></tr>
-                <tr className="bg-white"><td className="px-6 py-4">$79-149</td><td className="px-6 py-4">$12-22</td><td className="px-6 py-4">Premium — acetato italiano, CR-39 polarizzate, packaging curato</td></tr>
-                <tr className="bg-gray-50"><td className="px-6 py-4">$149-249</td><td className="px-6 py-4">$18-35</td><td className="px-6 py-4">Lusso — titanio/acetato premium, vetro, packaging luxury</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">$19-39</td><td className="px-6 py-4">$3-8</td><td className="px-6 py-4">Value -- TR90, lenti base, packaging minimo</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">$39-79</td><td className="px-6 py-4">$8-15</td><td className="px-6 py-4">Mid-range -- acetato/TR90 premium, lenti polarizzate</td></tr>
+                <tr className="bg-white"><td className="px-6 py-4">$79-149</td><td className="px-6 py-4">$12-22</td><td className="px-6 py-4">Premium -- acetato italiano, CR-39 polarizzate, packaging curato</td></tr>
+                <tr className="bg-gray-50"><td className="px-6 py-4">$149-249</td><td className="px-6 py-4">$18-35</td><td className="px-6 py-4">Lusso -- titanio/acetato premium, vetro, packaging luxury</td></tr>
               </tbody>
             </table>
           </div>
@@ -99,5 +99,6 @@ export default function StrategiaPrezziPage() {
         </div>
       </div>
     </article>
+    </>
   )
 }

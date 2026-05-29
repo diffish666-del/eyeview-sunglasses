@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'TR90 vs Acétate vs Métal : Quel Matériau de Monture pour Votre Marque ?',
-  description: 'Un propriétaire d\'usine compare les montures TR90, acétate et métal — coûts réels, poids, durabilité et quel matériau convient le mieux à chaque stratégie de marque.',
+  description: 'Un propriétaire d\'usine compare les montures TR90, acétate et métal -- coûts réels, poids, durabilité et quel matériau convient le mieux à chaque stratégie de marque.',
   keywords: 'comparaison matériaux montures lunettes, lunettes TR90, montures acétate, montures métal, TR90 vs acétate, coût matériaux montures',
   alternates: {
     canonical: '/fr/blog/comparaison-materiaux-montures',
@@ -24,17 +24,17 @@ export default function ComparaisonMateriauxMonturesPage() {
           "datePublished": "2026-05-03", "dateModified": "2026-05-03",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondateur", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Comparaison détaillée des montures TR90, acétate et métal — coûts, poids, durabilité et recommandations par type de marque.",
+          "description": "Comparaison détaillée des montures TR90, acétate et métal -- coûts, poids, durabilité et recommandations par type de marque.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/fr/blog/comparaison-materiaux-montures" },
           "inLanguage": "fr"
         })}} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org", "@type": "FAQPage",
           "mainEntity": [
-            { "@type": "Question", "name": "Qu'est-ce que le TR90 et pourquoi est-il utilisé dans les lunettes de soleil ?", "acceptedAnswer": { "@type": "Answer", "text": "Le TR90 est un polyamide thermoplastique (polymère à base de nylon) développé à l'origine pour des applications médicales et militaires. Il est extrêmement léger — environ 15-20 grammes pour une monture complète — et pratiquement incassable en usage normal. C'est devenu le matériau de référence pour les lunettes de sport et lifestyle car il se plie au lieu de casser, résiste à la sueur et aux produits chimiques, et coûte 3-8 $ par monture en gros." } },
-            { "@type": "Question", "name": "L'acétate est-il mieux que le TR90 ?", "acceptedAnswer": { "@type": "Answer", "text": "Ça dépend de votre positionnement. L'acétate a un aspect et un toucher plus premium — couleurs plus riches, motifs plus profonds, un poids qui évoque la qualité. Mais le TR90 est plus léger, plus résistant et moins cher. Pour une marque mode/luxe, l'acétate l'emporte. Pour le sport ou l'entrée de gamme, le TR90 est le meilleur choix." } },
-            { "@type": "Question", "name": "Combien coûtent les différents matériaux de montures en gros ?", "acceptedAnswer": { "@type": "Answer", "text": "Prix usine réels : montures TR90 entre 3-8 $ la paire, acétate entre 5-11 $, métal entre 8-22 $ selon l'alliage et la construction. Ce sont des coûts monture seule — ajoutez 1,50-8 $ pour les verres selon le type et les traitements." } },
-            { "@type": "Question", "name": "Peut-on mélanger les matériaux dans sa gamme ?", "acceptedAnswer": { "@type": "Answer", "text": "Absolument — et la plupart des marques qui réussissent le font. Une gamme typique peut inclure des montures sport TR90 à 29-49 $ au détail, des montures mode en acétate à 79-149 $, et quelques aviateurs en métal à 99-179 $. Mélanger les matériaux permet de couvrir différents segments de prix et de clientèle." } }
+            { "@type": "Question", "name": "Qu'est-ce que le TR90 et pourquoi est-il utilisé dans les lunettes de soleil ?", "acceptedAnswer": { "@type": "Answer", "text": "Le TR90 est un polyamide thermoplastique (polymère à base de nylon) développé à l'origine pour des applications médicales et militaires. Il est extrêmement léger -- environ 15-20 grammes pour une monture complète -- et pratiquement incassable en usage normal. C'est devenu le matériau de référence pour les lunettes de sport et lifestyle car il se plie au lieu de casser, résiste à la sueur et aux produits chimiques, et coûte 3-8 $ par monture en gros." } },
+            { "@type": "Question", "name": "L'acétate est-il mieux que le TR90 ?", "acceptedAnswer": { "@type": "Answer", "text": "Ça dépend de votre positionnement. L'acétate a un aspect et un toucher plus premium -- couleurs plus riches, motifs plus profonds, un poids qui évoque la qualité. Mais le TR90 est plus léger, plus résistant et moins cher. Pour une marque mode/luxe, l'acétate l'emporte. Pour le sport ou l'entrée de gamme, le TR90 est le meilleur choix." } },
+            { "@type": "Question", "name": "Combien coûtent les différents matériaux de montures en gros ?", "acceptedAnswer": { "@type": "Answer", "text": "Prix usine réels : montures TR90 entre 3-8 $ la paire, acétate entre 5-11 $, métal entre 8-22 $ selon l'alliage et la construction. Ce sont des coûts monture seule -- ajoutez 1,50-8 $ pour les verres selon le type et les traitements." } },
+            { "@type": "Question", "name": "Peut-on mélanger les matériaux dans sa gamme ?", "acceptedAnswer": { "@type": "Answer", "text": "Absolument -- et la plupart des marques qui réussissent le font. Une gamme typique peut inclure des montures sport TR90 à 29-49 $ au détail, des montures mode en acétate à 79-149 $, et quelques aviateurs en métal à 99-179 $. Mélanger les matériaux permet de couvrir différents segments de prix et de clientèle." } }
           ]
         })}} />
 
@@ -44,7 +44,7 @@ export default function ComparaisonMateriauxMonturesPage() {
             <span>3 mai 2026</span><span>•</span><span>14 min de lecture</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">TR90 vs Acétate vs Métal : Quel Matériau de Monture pour Votre Marque ?</h1>
-          <p className="text-xl text-gray-600">Chaque semaine, on me demande : « Jacky, quel matériau de monture choisir ? » Après 20 ans et environ 12 millions de montures, voici la vraie réponse — avec les vrais chiffres de notre atelier.</p>
+          <p className="text-xl text-gray-600">Chaque semaine, on me demande : « Jacky, quel matériau de monture choisir ? » Après 20 ans et environ 12 millions de montures, voici la vraie réponse -- avec les vrais chiffres de notre atelier.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
             <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
             <div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Fondateur, EyeView Sunglasses</div></div>
@@ -72,11 +72,11 @@ export default function ComparaisonMateriauxMonturesPage() {
           <p>Les clients ne savent généralement pas nommer le matériau de leurs lunettes. Mais ils <em>sentent</em> la différence instantanément. En trois secondes, ils ont jugé : « ça fait cheap » ou « ça fait premium ». Cette réaction instinctive ? C&apos;est presque entièrement une question de matériau.</p>
 
           <h2 id="tr90" className="text-3xl font-bold mt-16 mb-6">TR90 : l&apos;athlète</h2>
-          <p><a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Le TR90 est un polyamide thermoplastique</a> — un nylon haute performance développé à l&apos;origine pour l&apos;équipement médical et militaire.</p>
+          <p><a href="https://en.wikipedia.org/wiki/Polyamide" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Le TR90 est un polyamide thermoplastique</a> -- un nylon haute performance développé à l&apos;origine pour l&apos;équipement médical et militaire.</p>
           <ul>
             <li><strong>Poids :</strong> 15-20 g. L&apos;équivalent de quatre pièces de monnaie. Des clients les portent 14 heures par jour sans les sentir.</li>
             <li><strong>Durabilité :</strong> On peut le plier, le tordre, s&apos;asseoir dessus. Il revient à sa forme d&apos;origine.</li>
-            <li><strong>Résistance chimique :</strong> Sueur, crème solaire, eau salée — rien ne l&apos;affecte.</li>
+            <li><strong>Résistance chimique :</strong> Sueur, crème solaire, eau salée -- rien ne l&apos;affecte.</li>
             <li><strong>Coût :</strong> 3-8 $ par monture. Production rapide par injection.</li>
           </ul>
           <p><strong>Les limites :</strong> Le TR90 ressemble à du plastique. Les options de couleurs sont plus limitées (~40 couleurs unies vs 200+ pour l&apos;acétate). Et la perception « luxe » est plus difficile à obtenir.</p>
@@ -92,7 +92,7 @@ export default function ComparaisonMateriauxMonturesPage() {
           </div>
 
           <h2 id="acetate" className="text-3xl font-bold mt-16 mb-6">Acétate : l&apos;icône mode</h2>
-          <p>L&apos;acétate est le matériau qui a bâti l&apos;industrie de la lunetterie de luxe. Quand vous pensez aux Ray-Ban Wayfarer ou aux montures Tom Ford — c&apos;est de l&apos;acétate. Le meilleur vient de <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Mazzucchelli en Italie</a>, qui le fabrique depuis 1849.</p>
+          <p>L&apos;acétate est le matériau qui a bâti l&apos;industrie de la lunetterie de luxe. Quand vous pensez aux Ray-Ban Wayfarer ou aux montures Tom Ford -- c&apos;est de l&apos;acétate. Le meilleur vient de <a href="https://www.mazzucchelli1849.it/en/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Mazzucchelli en Italie</a>, qui le fabrique depuis 1849.</p>
           <ul>
             <li><strong>Esthétique :</strong> Rien d&apos;autre ne s&apos;en approche. Profondeur des couleurs, motifs écaille uniques, sensation premium.</li>
             <li><strong>200+ couleurs et motifs</strong> disponibles, des classiques aux plus audacieux.</li>
@@ -112,12 +112,12 @@ export default function ComparaisonMateriauxMonturesPage() {
           </div>
 
           <h2 id="metal" className="text-3xl font-bold mt-16 mb-6">Métal : le classique</h2>
-          <p>Les montures métalliques existent depuis le XVIIIe siècle. L&apos;aviateur — sans doute la forme de lunettes la plus iconique — est une monture métallique.</p>
+          <p>Les montures métalliques existent depuis le XVIIIe siècle. L&apos;aviateur -- sans doute la forme de lunettes la plus iconique -- est une monture métallique.</p>
           <ul>
-            <li><strong>Profils fins et élégants :</strong> Le métal permet des montures de 1-2 mm d&apos;épaisseur — impossible en acétate ou TR90.</li>
+            <li><strong>Profils fins et élégants :</strong> Le métal permet des montures de 1-2 mm d&apos;épaisseur -- impossible en acétate ou TR90.</li>
             <li><strong>Attrait intemporel :</strong> Les aviateurs se vendent depuis 90 ans et comptent.</li>
             <li><strong>Très ajustable :</strong> Un bon opticien peut affiner l&apos;ajustement en quelques minutes.</li>
-            <li><strong>Poids variable :</strong> Le titane peut descendre à 12-15 g — plus léger que le TR90.</li>
+            <li><strong>Poids variable :</strong> Le titane peut descendre à 12-15 g -- plus léger que le TR90.</li>
           </ul>
           <p><strong>Les limites :</strong> Le plus cher des trois. Les alliages bon marché peuvent corroder. Se déforme de façon permanente au-delà de la limite élastique. Risque d&apos;allergie au nickel (10-15 % de la population).</p>
 
@@ -183,7 +183,7 @@ export default function ComparaisonMateriauxMonturesPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/fr/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM : Guide Complet</h3>
-                <p className="text-gray-600 text-sm">La version honnête depuis l&apos;atelier — depuis 2006.</p>
+                <p className="text-gray-600 text-sm">La version honnête depuis l&apos;atelier -- depuis 2006.</p>
               </Link>
               <Link href="/fr/blog/guide-verres-lunettes" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Guide des Verres de Lunettes de Soleil</h3>

@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Quanto Costa Lanciare un Brand di Occhiali da Sole nel 2026?',
-  description: 'Un proprietario di fabbrica analizza ogni costo per lanciare un brand di occhiali — dallo sviluppo prodotto al marketing. Numeri reali da $3.000 bootstrap a $50.000+ lancio premium.',
+  description: 'Un proprietario di fabbrica analizza ogni costo per lanciare un brand di occhiali -- dallo sviluppo prodotto al marketing. Numeri reali da $3.000 bootstrap a $50.000+ lancio premium.',
   keywords: 'costi avvio brand occhiali, costo lanciare brand occhiali, investimento business eyewear, budget brand occhiali',
   alternates: { canonical: '/it/blog/costi-avvio-brand-occhiali', languages: { 'en': '/blog/sunglasses-startup-cost', 'it': '/it/blog/costi-avvio-brand-occhiali' } },
 }
@@ -20,11 +20,11 @@ export default function CostiAvvioBrandPage() {
 
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Quanto Costa Lanciare un Brand di Occhiali da Sole nel 2026?", "datePublished": "2026-05-04", "dateModified": "2026-05-04", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica analizza ogni costo per lanciare un brand di occhiali — numeri reali da $3.000 a $50.000+.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/costi-avvio-brand-occhiali" }, "inLanguage": "it" })}} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Quanto Costa Lanciare un Brand di Occhiali da Sole nel 2026?", "datePublished": "2026-05-04", "dateModified": "2026-05-04", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica analizza ogni costo per lanciare un brand di occhiali -- numeri reali da $3.000 a $50.000+.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/costi-avvio-brand-occhiali" }, "inLanguage": "it" })}} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Business</span><span>4 maggio 2026</span><span>•</span><span>14 min di lettura</span></div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Quanto Costa Lanciare un Brand di Occhiali da Sole nel 2026?</h1>
-          <p className="text-xl text-gray-600">La risposta onesta: puoi partire con $3.000 o investire $50.000+. Entrambi possono funzionare — dipende dalla tua strategia. Ecco ogni singolo costo, senza nascondigli.</p>
+          <p className="text-xl text-gray-600">La risposta onesta: puoi partire con $3.000 o investire $50.000+. Entrambi possono funzionare -- dipende dalla tua strategia. Ecco ogni singolo costo, senza nascondigli.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200"><div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div><div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Fondatore, EyeView Sunglasses</div></div></div>
         </header>
         <div className="prose prose-lg max-w-none">
@@ -83,7 +83,7 @@ export default function CostiAvvioBrandPage() {
 
           <div className="bg-gray-100 rounded-xl p-8 my-12 text-center">
             <h3 className="text-2xl font-bold mb-4">Hai un Budget? Ti Aiuto a Massimizzarlo.</h3>
-            <p className="text-gray-600 mb-6 max-w-2xl mx-auto">Dimmi il tuo budget totale e ti mostrerò esattamente come allocarlo per il massimo impatto. Ho aiutato centinaia di brand a partire — so dove investire e dove risparmiare.</p>
+            <p className="text-gray-600 mb-6 max-w-2xl mx-auto">Dimmi il tuo budget totale e ti mostrerò esattamente come allocarlo per il massimo impatto. Ho aiutato centinaia di brand a partire -- so dove investire e dove risparmiare.</p>
             <Link href="/it/contatto" className="btn-primary">Pianifica il Tuo Budget con Jacky</Link>
           </div>
 
@@ -97,5 +97,6 @@ export default function CostiAvvioBrandPage() {
         </div>
       </div>
     </article>
+    </>
   )
 }

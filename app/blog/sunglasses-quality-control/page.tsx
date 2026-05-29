@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Quality Control: Factory Inspection Checklist',
-  description: 'A factory owner shares the complete sunglasses QC checklist — lens testing, frame inspection, hinge checks, UV verification, and what to look for before approving production.',
+  description: 'A factory owner shares the complete sunglasses QC checklist -- lens testing, frame inspection, hinge checks, UV verification, and what to look for before approving production.',
   keywords: 'sunglasses quality control, eyewear inspection, sunglasses testing standards, QC checklist sunglasses, sunglasses defects',
   alternates: {
     canonical: '/blog/sunglasses-quality-control',
@@ -27,7 +27,7 @@ export default function SunglassesQualityControlPage() {
           "dateModified": "2026-05-04",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "A factory owner shares the complete sunglasses QC checklist — from lens testing to packaging inspection.",
+          "description": "A factory owner shares the complete sunglasses QC checklist -- from lens testing to packaging inspection.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/sunglasses-quality-control" }
         })}} />
 
@@ -38,7 +38,7 @@ export default function SunglassesQualityControlPage() {
             {
               "@type": "Question",
               "name": "What should I check when inspecting sunglasses quality?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Key quality checks: lens clarity (no distortion, bubbles, or scratches), UV400 protection verification, hinge tension and smoothness, frame symmetry, color consistency across the batch, logo placement accuracy, nose pad alignment, and overall finish quality. Hold each pair up to text — any waviness or distortion in the text indicates poor optical quality." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Key quality checks: lens clarity (no distortion, bubbles, or scratches), UV400 protection verification, hinge tension and smoothness, frame symmetry, color consistency across the batch, logo placement accuracy, nose pad alignment, and overall finish quality. Hold each pair up to text -- any waviness or distortion in the text indicates poor optical quality." }
             },
             {
               "@type": "Question",
@@ -48,7 +48,7 @@ export default function SunglassesQualityControlPage() {
             {
               "@type": "Question",
               "name": "How much does third-party sunglasses inspection cost?",
-              "acceptedAnswer": { "@type": "Answer", "text": "A standard pre-shipment inspection by companies like SGS, Bureau Veritas, or QIMA costs $200-$400 per inspection (one man-day). This covers a statistical sample of your order based on AQL standards. Full-day inspections for larger orders cost $300-$600. It's one of the best investments you can make — catching quality issues before shipping saves 10-50x the inspection cost." }
+              "acceptedAnswer": { "@type": "Answer", "text": "A standard pre-shipment inspection by companies like SGS, Bureau Veritas, or QIMA costs $200-$400 per inspection (one man-day). This covers a statistical sample of your order based on AQL standards. Full-day inspections for larger orders cost $300-$600. It's one of the best investments you can make -- catching quality issues before shipping saves 10-50x the inspection cost." }
             },
             {
               "@type": "Question",
@@ -143,7 +143,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Polarization check:</strong> If polarized, verify with a phone screen — rotating the sunglasses 90° should darken/lighten the screen. Both lenses should react identically. See our{' '}
+                <div><strong>Polarization check:</strong> If polarized, verify with a phone screen -- rotating the sunglasses 90° should darken/lighten the screen. Both lenses should react identically. See our{' '}
                   <Link href="/blog/uv400-vs-polarized" className="text-primary-600 hover:underline">UV400 vs polarized guide</Link>{' '}
                   for more on polarization testing.
                 </div>
@@ -160,7 +160,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Lens fit:</strong> Lenses should sit flush in the frame with no gaps, rotation, or movement. Press gently — there should be zero play.</div>
+                <div><strong>Lens fit:</strong> Lenses should sit flush in the frame with no gaps, rotation, or movement. Press gently -- there should be zero play.</div>
               </li>
             </ul>
           </div>
@@ -176,7 +176,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Color consistency:</strong> Compare 5-10 pairs from the same batch. Color should be uniform. Acetate can vary slightly between sheets — acceptable within one shade.</div>
+                <div><strong>Color consistency:</strong> Compare 5-10 pairs from the same batch. Color should be uniform. Acetate can vary slightly between sheets -- acceptable within one shade.</div>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
@@ -208,7 +208,7 @@ export default function SunglassesQualityControlPage() {
             <ul className="space-y-3">
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Hinge tension:</strong> Open and close temples 10 times. Movement should be smooth but firm — not floppy, not stiff. Both sides should feel identical.</div>
+                <div><strong>Hinge tension:</strong> Open and close temples 10 times. Movement should be smooth but firm -- not floppy, not stiff. Both sides should feel identical.</div>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
@@ -216,7 +216,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Screw tightness:</strong> All screws should be tight. Use a jeweler&apos;s screwdriver to check — they shouldn&apos;t turn easily. Thread-locking compound should be applied.</div>
+                <div><strong>Screw tightness:</strong> All screws should be tight. Use a jeweler&apos;s screwdriver to check -- they shouldn&apos;t turn easily. Thread-locking compound should be applied.</div>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
@@ -224,7 +224,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Metal finish:</strong> Check hinge and screw finish for consistency — no rust, discoloration, or plating defects.</div>
+                <div><strong>Metal finish:</strong> Check hinge and screw finish for consistency -- no rust, discoloration, or plating defects.</div>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
@@ -252,7 +252,7 @@ export default function SunglassesQualityControlPage() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-green-500 font-bold mt-1">☐</span>
-                <div><strong>Paint/coating (if applicable):</strong> Even application, no drips, no thin spots, no peeling. Adhesion test: apply and remove tape — no coating should come off.</div>
+                <div><strong>Paint/coating (if applicable):</strong> Even application, no drips, no thin spots, no peeling. Adhesion test: apply and remove tape -- no coating should come off.</div>
               </li>
             </ul>
           </div>
@@ -262,7 +262,7 @@ export default function SunglassesQualityControlPage() {
           <ul>
             <li><strong>Wear test:</strong> Put them on your face. Do they sit level? Is the weight balanced? Do they pinch behind the ears? Are the nose pads comfortable? 30 seconds of wearing tells you more than 5 minutes of visual inspection.</li>
             <li><strong>Drop test:</strong> Drop from table height (75cm) onto a hard surface. They should survive without breaking, cracking, or losing lenses. This simulates real-world accidents.</li>
-            <li><strong>Flex test:</strong> Gently flex the frame front — it should have slight give and return to shape. Rigid = brittle. Too flexible = cheap material.</li>
+            <li><strong>Flex test:</strong> Gently flex the frame front -- it should have slight give and return to shape. Rigid = brittle. Too flexible = cheap material.</li>
             <li><strong>Temple retention:</strong> Hold the frame and shake gently. Temples should stay open. If they swing closed easily, hinge tension is too loose.</li>
           </ul>
 
@@ -271,7 +271,7 @@ export default function SunglassesQualityControlPage() {
             <li>☐ Case closes properly and protects sunglasses</li>
             <li>☐ Cleaning cloth is clean, correctly branded, right size</li>
             <li>☐ Hang tags and labels have correct information (UV, CE, brand, model)</li>
-            <li>☐ Box/pouch matches approved design — colors, text, barcodes</li>
+            <li>☐ Box/pouch matches approved design -- colors, text, barcodes</li>
             <li>☐ Sunglasses fit properly in case without excessive movement</li>
             <li>☐ No damage to packaging from handling</li>
             <li>☐ Correct quantity packed per carton</li>
@@ -326,13 +326,13 @@ export default function SunglassesQualityControlPage() {
             Based on our internal QC data from the past 3 years, here are the defects we catch most often:
           </p>
           <ol>
-            <li className="mb-3"><strong>Lens distortion (22% of defects):</strong> Optical waviness visible when looking through the lens. Caused by uneven lens thickness or poor molding. This is a MAJOR defect — automatic reject.</li>
+            <li className="mb-3"><strong>Lens distortion (22% of defects):</strong> Optical waviness visible when looking through the lens. Caused by uneven lens thickness or poor molding. This is a MAJOR defect -- automatic reject.</li>
             <li className="mb-3"><strong>Uneven hinge tension (18%):</strong> One temple tighter or looser than the other. Caused by inconsistent screw torque or hinge component variation. Major defect.</li>
             <li className="mb-3"><strong>Frame asymmetry (14%):</strong> One side sits higher than the other when placed on a flat surface. Caused by warping during cooling (acetate) or inconsistent molding (TR90).</li>
             <li className="mb-3"><strong>Surface scratches (12%):</strong> Fine scratches on lens or frame surface from handling during production. Minor if superficial, major if deep.</li>
             <li className="mb-3"><strong>Color inconsistency (8%):</strong> Slight shade variations between pairs in the same batch. Common with acetate due to natural material variation. Minor defect unless obvious.</li>
             <li className="mb-3"><strong>Logo defects (7%):</strong> Misaligned, smudged, or incomplete logos. Usually from pad printing issues. Ranges from minor to major depending on severity.</li>
-            <li className="mb-3"><strong>Loose screws (6%):</strong> Screws that aren&apos;t properly torqued or lack thread-locking compound. Major defect — they&apos;ll fall out in use.</li>
+            <li className="mb-3"><strong>Loose screws (6%):</strong> Screws that aren&apos;t properly torqued or lack thread-locking compound. Major defect -- they&apos;ll fall out in use.</li>
             <li className="mb-3"><strong>Nose pad issues (5%):</strong> Misaligned, loose, or uncomfortable nose pads. Minor to major depending on impact on fit.</li>
             <li className="mb-3"><strong>Poor polishing (5%):</strong> Rough spots, uneven gloss, or polish residue. Minor defect but affects perceived quality.</li>
             <li className="mb-3"><strong>Wrong specs (3%):</strong> Incorrect lens color, wrong frame color, or wrong size. Usually caught early but devastating if missed.</li>
@@ -344,7 +344,7 @@ export default function SunglassesQualityControlPage() {
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">What should I check when inspecting sunglasses quality?</h3>
               <p className="text-gray-600">
-                Lens clarity (hold up to text — zero distortion), UV400 verification, hinge tension 
+                Lens clarity (hold up to text -- zero distortion), UV400 verification, hinge tension 
                 and smoothness, frame symmetry, color consistency, logo accuracy, nose pad alignment, 
                 and overall finish. The text-through-lens test is the most important single check.
               </p>
@@ -361,7 +361,7 @@ export default function SunglassesQualityControlPage() {
               <h3 className="font-bold text-lg mb-2">How much does third-party sunglasses inspection cost?</h3>
               <p className="text-gray-600">
                 $200-$400 per inspection (one man-day) from companies like SGS, Bureau Veritas, or 
-                QIMA. The best $200-$400 you can spend — catching issues before shipping saves 
+                QIMA. The best $200-$400 you can spend -- catching issues before shipping saves 
                 10-50x the inspection cost.
               </p>
             </div>
@@ -370,7 +370,7 @@ export default function SunglassesQualityControlPage() {
               <p className="text-gray-600">
                 Top 5: lens distortion (22%), uneven hinge tension (18%), frame asymmetry (14%), 
                 surface scratches (12%), and color inconsistency (8%). Lens distortion and hinge 
-                problems are the most critical — they directly affect the user experience.
+                problems are the most critical -- they directly affect the user experience.
               </p>
             </div>
           </div>
@@ -379,7 +379,7 @@ export default function SunglassesQualityControlPage() {
             <h3 className="text-2xl font-bold mb-4">Want to See Our QC Process in Action?</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               We can walk you through our factory QC process on a video call, or send you a detailed 
-              QC report from a recent production run. Quality isn&apos;t just a claim — it&apos;s 
+              QC report from a recent production run. Quality isn&apos;t just a claim -- it&apos;s 
               something we can show you.
             </p>
             <Link href="/contact" className="btn-primary">
@@ -392,15 +392,15 @@ export default function SunglassesQualityControlPage() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/products/aviator" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Aviator Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Premium metal frames — 6-point quality inspection, FDA/CE certified.</p>
+                <p className="text-gray-600 text-sm">Premium metal frames -- 6-point quality inspection, FDA/CE certified.</p>
               </Link>
               <Link href="/products/polarized" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Polarized Sunglasses</h3>
-                <p className="text-gray-600 text-sm">Polarization tested for clarity and UV protection — meets ANSI Z80.3 standards.</p>
+                <p className="text-gray-600 text-sm">Polarization tested for clarity and UV protection -- meets ANSI Z80.3 standards.</p>
               </Link>
               <Link href="/certifications" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Our Certifications</h3>
-                <p className="text-gray-600 text-sm">FDA, CE, UV400, ISO 9001 — see the full compliance documentation.</p>
+                <p className="text-gray-600 text-sm">FDA, CE, UV400, ISO 9001 -- see the full compliance documentation.</p>
               </Link>
             </div>
           </div>
@@ -410,7 +410,7 @@ export default function SunglassesQualityControlPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/blog/fda-ce-certification-sunglasses" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">FDA &amp; CE Certification Guide</h3>
-                <p className="text-gray-600 text-sm">Compliance testing is part of quality control — here&apos;s what&apos;s required.</p>
+                <p className="text-gray-600 text-sm">Compliance testing is part of quality control -- here&apos;s what&apos;s required.</p>
               </Link>
               <Link href="/blog/find-sunglasses-manufacturer" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">How to Find a Reliable Manufacturer</h3>

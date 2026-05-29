@@ -18,7 +18,7 @@ export default function NotFound() {
         </h2>
         <p className="text-lg text-gray-600 mb-8 max-w-md mx-auto">
           The page you&apos;re looking for doesn&apos;t exist or has been moved. 
-          Don&apos;t worry — we&apos;ll help you find your way back.
+          Don&apos;t worry -- we&apos;ll help you find your way back.
         </p>
 
         {/* Action buttons */}

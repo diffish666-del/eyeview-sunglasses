@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Guida ai Rivestimenti per Occhiali da Sole: Specchio, Anti-Riflesso, Idrofobico e Altro',
-  description: 'Un proprietario di fabbrica analizza ogni tipo di rivestimento per occhiali — specchio, AR, idrofobico, oleofobico, anti-appannamento, hard coat, filtro luce blu. Costi reali per paio e quali rivestimenti si combinano.',
+  description: 'Un proprietario di fabbrica analizza ogni tipo di rivestimento per occhiali -- specchio, AR, idrofobico, oleofobico, anti-appannamento, hard coat, filtro luce blu. Costi reali per paio e quali rivestimenti si combinano.',
   keywords: 'tipi rivestimenti occhiali, rivestimento specchio occhiali, rivestimento anti-riflesso, rivestimento idrofobico lenti, rivestimento oleofobico, hard coat lenti',
   alternates: { canonical: '/it/blog/guida-rivestimenti-occhiali', languages: { 'en': '/blog/sunglasses-coating-guide', 'it': '/it/blog/guida-rivestimenti-occhiali' } },
 }
@@ -20,7 +20,7 @@ export default function GuidaRivestimentiPage() {
 
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Guida ai Rivestimenti per Occhiali da Sole: Specchio, Anti-Riflesso, Idrofobico e Altro", "datePublished": "2026-05-03", "dateModified": "2026-05-03", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica analizza ogni tipo di rivestimento per lenti — specchio, AR, idrofobico, oleofobico, anti-appannamento, hard coat. Costi reali e quali si combinano.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/guida-rivestimenti-occhiali" }, "inLanguage": "it" })}} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", "headline": "Guida ai Rivestimenti per Occhiali da Sole: Specchio, Anti-Riflesso, Idrofobico e Altro", "datePublished": "2026-05-03", "dateModified": "2026-05-03", "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Fondatore", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } }, "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" }, "description": "Un proprietario di fabbrica analizza ogni tipo di rivestimento per lenti -- specchio, AR, idrofobico, oleofobico, anti-appannamento, hard coat. Costi reali e quali si combinano.", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/it/blog/guida-rivestimenti-occhiali" }, "inLanguage": "it" })}} />
 
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
@@ -28,7 +28,7 @@ export default function GuidaRivestimentiPage() {
             <span>3 maggio 2026</span><span>•</span><span>13 min di lettura</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Guida ai Rivestimenti per Occhiali da Sole: Specchio, Anti-Riflesso, Idrofobico e Altro</h1>
-          <p className="text-xl text-gray-600">I rivestimenti delle lenti sono la differenza tra occhiali &quot;buoni&quot; e occhiali &quot;wow, questi sono fantastici.&quot; Ecco quali valgono la pena — e quali sono solo marketing.</p>
+          <p className="text-xl text-gray-600">I rivestimenti delle lenti sono la differenza tra occhiali &quot;buoni&quot; e occhiali &quot;wow, questi sono fantastici.&quot; Ecco quali valgono la pena -- e quali sono solo marketing.</p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200"><div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div><div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Fondatore, EyeView Sunglasses</div></div></div>
         </header>
 
@@ -36,11 +36,11 @@ export default function GuidaRivestimentiPage() {
           <h2 className="text-3xl font-bold mt-16 mb-6">I 7 Rivestimenti che Contano</h2>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">1. Rivestimento a Specchio (Mirror)</h3>
-          <p>Uno strato metallico riflettente applicato sulla superficie esterna della lente. Riduce la luce che passa del 10-60% aggiuntivo rispetto alla tinta base e aggiunge un appeal estetico innegabile. È il rivestimento più visibile — letteralmente quello che i clienti vedono per primo.</p>
-          <ul><li><strong>Costo:</strong> $0,30-1,00 per paio</li><li><strong>Colori disponibili:</strong> Argento, oro, blu, rosso, verde, arcobaleno, oro rosa</li><li><strong>Ideale per:</strong> Brand sportivi e fashion. I rivestimenti a specchio fotografano benissimo — ottimi per i brand guidati dai social media.</li><li><strong>Attenzione:</strong> I rivestimenti a specchio possono graffiarsi più facilmente. Consiglio sempre di combinarli con un hard coat.</li></ul>
+          <p>Uno strato metallico riflettente applicato sulla superficie esterna della lente. Riduce la luce che passa del 10-60% aggiuntivo rispetto alla tinta base e aggiunge un appeal estetico innegabile. È il rivestimento più visibile -- letteralmente quello che i clienti vedono per primo.</p>
+          <ul><li><strong>Costo:</strong> $0,30-1,00 per paio</li><li><strong>Colori disponibili:</strong> Argento, oro, blu, rosso, verde, arcobaleno, oro rosa</li><li><strong>Ideale per:</strong> Brand sportivi e fashion. I rivestimenti a specchio fotografano benissimo -- ottimi per i brand guidati dai social media.</li><li><strong>Attenzione:</strong> I rivestimenti a specchio possono graffiarsi più facilmente. Consiglio sempre di combinarli con un hard coat.</li></ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">2. Anti-Riflesso (AR)</h3>
-          <p>Riduce i riflessi sulla superficie <em>interna</em> della lente — quelli fastidiosi che vedi quando la luce arriva da dietro. Migliora il comfort visivo significativamente.</p>
+          <p>Riduce i riflessi sulla superficie <em>interna</em> della lente -- quelli fastidiosi che vedi quando la luce arriva da dietro. Migliora il comfort visivo significativamente.</p>
           <ul><li><strong>Costo:</strong> $0,20-0,60 per paio</li><li><strong>Ideale per:</strong> Guida, tutti gli occhiali da sole di qualità superiore</li></ul>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">3. Idrofobico</h3>
@@ -91,5 +91,6 @@ export default function GuidaRivestimentiPage() {
         </div>
       </div>
     </article>
+    </>
   )
 }

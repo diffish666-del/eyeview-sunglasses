@@ -28,7 +28,7 @@ export default function FindSunglassesManufacturerPage() {
           "dateModified": "2026-05-02",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "A factory owner reveals how to find, evaluate, and choose a sunglasses manufacturer — with 10 key criteria, scam warnings, and real negotiation tips.",
+          "description": "A factory owner reveals how to find, evaluate, and choose a sunglasses manufacturer -- with 10 key criteria, scam warnings, and real negotiation tips.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/find-sunglasses-manufacturer" }
         })}} />
 
@@ -40,17 +40,17 @@ export default function FindSunglassesManufacturerPage() {
             {
               "@type": "Question",
               "name": "Where can I find sunglasses manufacturers?",
-              "acceptedAnswer": { "@type": "Answer", "text": "The main channels are: Alibaba and Global Sources (largest online directories), industry trade shows like MIDO in Milan and Vision Expo in Las Vegas, Google search with specific keywords, industry associations like The Vision Council, and direct referrals from other brand owners. Each channel has pros and cons — Alibaba has the most options but requires careful vetting, while trade shows let you meet factories face-to-face." }
+              "acceptedAnswer": { "@type": "Answer", "text": "The main channels are: Alibaba and Global Sources (largest online directories), industry trade shows like MIDO in Milan and Vision Expo in Las Vegas, Google search with specific keywords, industry associations like The Vision Council, and direct referrals from other brand owners. Each channel has pros and cons -- Alibaba has the most options but requires careful vetting, while trade shows let you meet factories face-to-face." }
             },
             {
               "@type": "Question",
               "name": "How do I verify if a sunglasses manufacturer is legitimate?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Check for: verified business licenses, factory certifications (CE, FDA, ISO 9001), real factory photos and videos (not stock images), willingness to do a video call of the production floor, third-party audit reports (BSCI, Sedex), trade show participation history, and existing client references. Also order samples before committing to any production run — a legitimate factory will happily send samples." }
+              "acceptedAnswer": { "@type": "Answer", "text": "Check for: verified business licenses, factory certifications (CE, FDA, ISO 9001), real factory photos and videos (not stock images), willingness to do a video call of the production floor, third-party audit reports (BSCI, Sedex), trade show participation history, and existing client references. Also order samples before committing to any production run -- a legitimate factory will happily send samples." }
             },
             {
               "@type": "Question",
               "name": "What is a good MOQ for sunglasses manufacturing?",
-              "acceptedAnswer": { "@type": "Answer", "text": "For ODM (existing designs with your branding): 100-300 pieces per style is standard, though some factories offer 50 pieces for first orders. For OEM (custom designs): 300-1,000 pieces per style due to mold costs. Be wary of factories with extremely low MOQs (under 20 pieces) — they're often trading companies, not actual manufacturers." }
+              "acceptedAnswer": { "@type": "Answer", "text": "For ODM (existing designs with your branding): 100-300 pieces per style is standard, though some factories offer 50 pieces for first orders. For OEM (custom designs): 300-1,000 pieces per style due to mold costs. Be wary of factories with extremely low MOQs (under 20 pieces) -- they're often trading companies, not actual manufacturers." }
             },
             {
               "@type": "Question",
@@ -60,7 +60,7 @@ export default function FindSunglassesManufacturerPage() {
             {
               "@type": "Question",
               "name": "How long does it take to get sunglasses from a manufacturer?",
-              "acceptedAnswer": { "@type": "Answer", "text": "ODM: 20-45 days from order confirmation to shipment. OEM: 45-90 days including mold making, sampling, and production. Add 5-30 days for shipping depending on method (air freight vs sea freight). First orders always take longer due to sampling and approval rounds — budget an extra 2-3 weeks for back-and-forth." }
+              "acceptedAnswer": { "@type": "Answer", "text": "ODM: 20-45 days from order confirmation to shipment. OEM: 45-90 days including mold making, sampling, and production. Add 5-30 days for shipping depending on method (air freight vs sea freight). First orders always take longer due to sampling and approval rounds -- budget an extra 2-3 weeks for back-and-forth." }
             },
             {
               "@type": "Question",
@@ -82,7 +82,7 @@ export default function FindSunglassesManufacturerPage() {
             How to Find a Reliable Sunglasses Manufacturer in 2026
           </h1>
           <p className="text-xl text-gray-600">
-            I&apos;m going to tell you exactly how to find a factory like mine — and more importantly, 
+            I&apos;m going to tell you exactly how to find a factory like mine -- and more importantly, 
             how to avoid the ones that&apos;ll waste your money and your time.
           </p>
           <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
@@ -122,7 +122,7 @@ export default function FindSunglassesManufacturerPage() {
           </p>
           <p>
             Marcus found me through a Reddit thread. We fixed his product, rebuilt his line, and he&apos;s now doing 
-            well. But that $8,000 lesson didn&apos;t have to happen. And that&apos;s why I&apos;m writing this — from the 
+            well. But that $8,000 lesson didn&apos;t have to happen. And that&apos;s why I&apos;m writing this -- from the 
             perspective of someone who&apos;s been on the manufacturing side since 2006. I know every trick, every 
             shortcut, and every trap, because I&apos;ve watched them play out hundreds of times.
           </p>
@@ -161,7 +161,7 @@ export default function FindSunglassesManufacturerPage() {
           <p>
             <a href="https://thevisioncouncil.org/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">The Vision Council</a> (US) 
             and <a href="https://www.mido.com/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">MIDO</a> (Italy/global) 
-            maintain manufacturer directories. These tend to be more curated than Alibaba — you won&apos;t find 
+            maintain manufacturer directories. These tend to be more curated than Alibaba -- you won&apos;t find 
             fly-by-night operations in their listings. The{' '}
             <a href="https://www.anfao.it/en/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Italian eyewear association ANFAO</a> is 
             another solid resource if you&apos;re looking at European manufacturing.
@@ -182,7 +182,7 @@ export default function FindSunglassesManufacturerPage() {
           </p>
           <p>
             <a href="https://www.alibaba.com/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">Alibaba</a> is 
-            a marketplace, not a factory directory. Anyone can list on it — including trading companies. 
+            a marketplace, not a factory directory. Anyone can list on it -- including trading companies. 
             A trading company is essentially a middleman: they don&apos;t manufacture anything. They take your order, 
             find the cheapest factory that&apos;ll fill it, add a 15-30% markup, and ship it to you. You lose 
             control over quality, communication is slower, and problems are harder to resolve because there&apos;s 
@@ -196,7 +196,7 @@ export default function FindSunglassesManufacturerPage() {
           <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-red-900 mb-3">Trading Company Red Flags on Alibaba:</h3>
             <ul className="text-red-800 space-y-2">
-              <li><strong>Product range is absurdly wide.</strong> Sunglasses AND phone cases AND handbags AND jewelry? That&apos;s not a factory — that&apos;s a catalog.</li>
+              <li><strong>Product range is absurdly wide.</strong> Sunglasses AND phone cases AND handbags AND jewelry? That&apos;s not a factory -- that&apos;s a catalog.</li>
               <li><strong>Factory photos look generic or stock-ish.</strong> Real factories show messy, real production floors. Trading companies show pristine, suspiciously perfect photos.</li>
               <li><strong>Address is an office building, not an industrial zone.</strong> Plug their address into Google Maps. A factory should be in an industrial area, not the 15th floor of a commercial tower.</li>
               <li><strong>They dodge video calls.</strong> Ask for a live video tour of &quot;their&quot; factory. A real manufacturer will show you proudly. A trading company will make excuses.</li>
@@ -206,7 +206,7 @@ export default function FindSunglassesManufacturerPage() {
 
           <p>
             That said, Alibaba <em>can</em> work. Some legitimate factories do list there. Use it as a 
-            discovery tool — find potential suppliers, then verify them independently through video calls, 
+            discovery tool -- find potential suppliers, then verify them independently through video calls, 
             sample orders, and third-party audits.
           </p>
 
@@ -220,7 +220,7 @@ export default function FindSunglassesManufacturerPage() {
 
           <div className="space-y-6 my-8">
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">MIDO — Milan, Italy (February)</h3>
+              <h3 className="font-bold text-lg mb-2">MIDO -- Milan, Italy (February)</h3>
               <p className="text-gray-600 text-sm">
                 The biggest eyewear show in the world. 50,000+ attendees, 1,200+ exhibitors. If you&apos;re serious 
                 about eyewear, you need to go to MIDO at least once. The Italian and Chinese manufacturers 
@@ -228,7 +228,7 @@ export default function FindSunglassesManufacturerPage() {
               </p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">Vision Expo — Las Vegas & New York (March & October)</h3>
+              <h3 className="font-bold text-lg mb-2">Vision Expo -- Las Vegas & New York (March & October)</h3>
               <p className="text-gray-600 text-sm">
                 The main US eyewear shows. Smaller than MIDO but more focused on the American market. Good for 
                 meeting manufacturers who already understand US compliance requirements (FDA, ANSI Z80.3). The 
@@ -236,7 +236,7 @@ export default function FindSunglassesManufacturerPage() {
               </p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">Canton Fair — Guangzhou, China (April & October)</h3>
+              <h3 className="font-bold text-lg mb-2">Canton Fair -- Guangzhou, China (April & October)</h3>
               <p className="text-gray-600 text-sm">
                 The granddaddy of Chinese trade fairs. Not eyewear-specific, but the sunglasses section is massive. 
                 You&apos;ll find everything from $0.50 gas station sunglasses to premium acetate frames. Great for 
@@ -245,7 +245,7 @@ export default function FindSunglassesManufacturerPage() {
               </p>
             </div>
             <div className="border border-gray-200 rounded-lg p-6">
-              <h3 className="font-bold text-lg mb-2">SILMO — Paris, France (September)</h3>
+              <h3 className="font-bold text-lg mb-2">SILMO -- Paris, France (September)</h3>
               <p className="text-gray-600 text-sm">
                 Europe&apos;s second-biggest eyewear show. More design-focused than MIDO. If your brand leans fashion 
                 and you want to find manufacturers with strong design capabilities, SILMO is where you go. The 
@@ -257,7 +257,7 @@ export default function FindSunglassesManufacturerPage() {
           {/* 10 Criteria */}
           <h2 id="ten-criteria" className="text-3xl font-bold mt-16 mb-6">10 Things I&apos;d Check If I Were You</h2>
           <p>
-            If I were on the other side of the table — a brand owner evaluating a factory — here&apos;s exactly 
+            If I were on the other side of the table -- a brand owner evaluating a factory -- here&apos;s exactly 
             what I&apos;d look at. No fluff, just the stuff that actually predicts whether you&apos;ll get a good 
             product and a reliable partner.
           </p>
@@ -274,7 +274,7 @@ export default function FindSunglassesManufacturerPage() {
           <p>
             Sunglasses manufacturing isn&apos;t something you master in two years. I look for 8+ years minimum. 
             At that point, a factory has survived economic cycles, built supplier relationships, and worked 
-            out the kinks in their production process. We&apos;ve been at it since 2006 — and I&apos;m still learning.
+            out the kinks in their production process. We&apos;ve been at it since 2006 -- and I&apos;m still learning.
           </p>
 
           <h3 className="text-xl font-bold mt-8 mb-3">3. Certifications</h3>
@@ -299,21 +299,21 @@ export default function FindSunglassesManufacturerPage() {
 
           <h3 className="text-xl font-bold mt-8 mb-3">5. Sample Quality</h3>
           <p>
-            Order samples before committing to anything. Not one pair — order 3-5 pairs across different 
+            Order samples before committing to anything. Not one pair -- order 3-5 pairs across different 
             styles and materials. Check:
           </p>
           <ul>
-            <li>Hinge smoothness — open and close them 50 times. Do they get loose?</li>
-            <li>Lens clarity — hold them up to text. Any distortion or color shift?</li>
-            <li>Frame finish — run your finger along every edge. Any roughness or sharp spots?</li>
-            <li>Symmetry — lay them flat on a table. Do they sit evenly?</li>
-            <li>Logo application — is it crisp, centered, and durable? Try scratching it gently.</li>
+            <li>Hinge smoothness -- open and close them 50 times. Do they get loose?</li>
+            <li>Lens clarity -- hold them up to text. Any distortion or color shift?</li>
+            <li>Frame finish -- run your finger along every edge. Any roughness or sharp spots?</li>
+            <li>Symmetry -- lay them flat on a table. Do they sit evenly?</li>
+            <li>Logo application -- is it crisp, centered, and durable? Try scratching it gently.</li>
           </ul>
 
           <h3 className="text-xl font-bold mt-8 mb-3">6. Communication Quality</h3>
           <p>
             How fast do they respond? How clear is their English? Do they ask smart questions about 
-            your project, or just quote a price? Good manufacturers are curious about your brand — they 
+            your project, or just quote a price? Good manufacturers are curious about your brand -- they 
             want to understand what you&apos;re building so they can help you build it better. If the 
             communication feels like pulling teeth, production will feel like pulling teeth too.
           </p>
@@ -331,7 +331,7 @@ export default function FindSunglassesManufacturerPage() {
             Ask: &quot;How many active brand clients do you work with?&quot; &quot;What markets do they sell in?&quot; 
             A factory with 100+ active clients across multiple countries has proven itself. A factory 
             that can&apos;t name a single reference should make you nervous. We work with 500+ brands across 
-            50+ countries — and we&apos;re happy to share references.
+            50+ countries -- and we&apos;re happy to share references.
           </p>
 
           <h3 className="text-xl font-bold mt-8 mb-3">9. Quality Control Process</h3>
@@ -348,14 +348,14 @@ export default function FindSunglassesManufacturerPage() {
             <a href="https://www.sgs.com/" target="_blank" rel="noopener" className="text-primary-600 hover:underline">SGS</a> or Bureau Veritas) 
             to inspect your order before shipment? If yes, great sign. If they resist or make excuses, 
             ask yourself why a factory would be afraid of independent quality verification. We welcome 
-            third-party inspections — we actually encourage them for first orders because it builds trust faster.
+            third-party inspections -- we actually encourage them for first orders because it builds trust faster.
           </p>
 
           {/* Red Flags */}
           <h2 id="red-flags" className="text-3xl font-bold mt-16 mb-6">Red Flags: Walk Away Immediately</h2>
           <p>
             I&apos;ve been in this industry long enough to spot trouble from a mile away. If you see any 
-            of these, don&apos;t negotiate — just leave.
+            of these, don&apos;t negotiate -- just leave.
           </p>
 
           <div className="space-y-4 my-8">
@@ -391,7 +391,7 @@ export default function FindSunglassesManufacturerPage() {
               <span className="text-2xl">🚩</span>
               <div>
                 <h4 className="font-bold text-red-900">No certifications, or &quot;we can get them later&quot;</h4>
-                <p className="text-red-800 text-sm">CE, FDA, UV400 — these take months to obtain and require real testing infrastructure. A factory that doesn&apos;t already have them is either brand new or doesn&apos;t care about compliance.</p>
+                <p className="text-red-800 text-sm">CE, FDA, UV400 -- these take months to obtain and require real testing infrastructure. A factory that doesn&apos;t already have them is either brand new or doesn&apos;t care about compliance.</p>
               </div>
             </div>
             <div className="flex gap-4 items-start bg-red-50 p-4 rounded-lg">
@@ -414,9 +414,9 @@ export default function FindSunglassesManufacturerPage() {
           <h3 className="text-2xl font-bold mt-8 mb-4">How the Sample Process Should Work</h3>
           <ol>
             <li><strong>Request 3-5 sample pairs</strong> across different styles and materials. If you&apos;re evaluating ODM, pick from their catalog. For OEM, send your design specs.</li>
-            <li><strong>Pay for samples.</strong> Yes, samples cost money — $20-200 per pair depending on type. Factories that offer &quot;free samples&quot; are either desperate or factoring the cost into your production pricing. I charge for samples because I send real production-quality product, not junk.</li>
-            <li><strong>Inspect thoroughly.</strong> When samples arrive, don&apos;t just look at them — use them. Wear them for a week. Clean them. Drop them (gently). Open and close the hinges 100 times. Leave them in your car on a hot day. The goal is to simulate 3 months of real-world use in a week.</li>
-            <li><strong>Give detailed feedback.</strong> &quot;These are nice&quot; is not useful feedback. &quot;The temple tip digs into my ear after 20 minutes&quot; or &quot;the grey tint is too warm, I want a cooler grey&quot; — that&apos;s actionable. Good factories love detailed feedback because it means fewer production issues.</li>
+            <li><strong>Pay for samples.</strong> Yes, samples cost money -- $20-200 per pair depending on type. Factories that offer &quot;free samples&quot; are either desperate or factoring the cost into your production pricing. I charge for samples because I send real production-quality product, not junk.</li>
+            <li><strong>Inspect thoroughly.</strong> When samples arrive, don&apos;t just look at them -- use them. Wear them for a week. Clean them. Drop them (gently). Open and close the hinges 100 times. Leave them in your car on a hot day. The goal is to simulate 3 months of real-world use in a week.</li>
+            <li><strong>Give detailed feedback.</strong> &quot;These are nice&quot; is not useful feedback. &quot;The temple tip digs into my ear after 20 minutes&quot; or &quot;the grey tint is too warm, I want a cooler grey&quot; -- that&apos;s actionable. Good factories love detailed feedback because it means fewer production issues.</li>
             <li><strong>Review revised samples.</strong> If changes were needed, the factory should send updated samples before production. Compare them to the originals. Did they actually fix what you asked? Attention to sample feedback is a preview of attention to production quality.</li>
           </ol>
 
@@ -430,7 +430,7 @@ export default function FindSunglassesManufacturerPage() {
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg my-8">
             <h3 className="font-bold text-blue-900 mb-3">DIY Quality Checks:</h3>
             <ul className="text-blue-800 space-y-2">
-              <li><strong>UV test:</strong> Ask the factory for UV400 test reports. If you want to verify independently, UV testing cards cost about $10 on Amazon. Hold the lens over the card in sunlight — the card changes color based on UV transmission.</li>
+              <li><strong>UV test:</strong> Ask the factory for UV400 test reports. If you want to verify independently, UV testing cards cost about $10 on Amazon. Hold the lens over the card in sunlight -- the card changes color based on UV transmission.</li>
               <li><strong>Optical clarity:</strong> Hold the lens 12 inches from your eye and look at a straight edge (door frame, window edge). Slowly move the lens. If the straight line bends or warps, the lens has optical distortion. Reject it.</li>
               <li><strong>Polarization test:</strong> Hold two polarized lenses perpendicular to each other (90° angle). If they go completely dark, polarization is working. If light still passes through, the polarization is weak or fake.</li>
               <li><strong>Hinge test:</strong> Open and close the temples 200 times. The tension should remain consistent. If the hinge gets loose after 50 cycles, it&apos;ll be floppy within a month of customer use.</li>
@@ -451,14 +451,14 @@ export default function FindSunglassesManufacturerPage() {
           <h2 id="negotiation" className="text-3xl font-bold mt-16 mb-6">Negotiation Tips from the Other Side of the Table</h2>
           <p>
             I&apos;m going to give you an unfair advantage here: negotiation advice from someone who&apos;s 
-            been negotiated with thousands of times. Here&apos;s what actually moves the needle — and what 
+            been negotiated with thousands of times. Here&apos;s what actually moves the needle -- and what 
             doesn&apos;t.
           </p>
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What Works ✅</h3>
           <ul>
             <li><strong>Show long-term potential.</strong> &quot;We&apos;re starting with 300 pieces but plan to scale to 5,000 within a year if quality is good.&quot; I&apos;ll give better pricing for that because I&apos;m investing in a relationship, not just filling an order.</li>
-            <li><strong>Get quotes from 3-4 factories.</strong> Don&apos;t lie about it — just tell each factory you&apos;re comparing options. Competition keeps everyone honest. &quot;I have three quotes between $5.50 and $7.20 — where can you land?&quot; That&apos;s fair and direct.</li>
+            <li><strong>Get quotes from 3-4 factories.</strong> Don&apos;t lie about it -- just tell each factory you&apos;re comparing options. Competition keeps everyone honest. &quot;I have three quotes between $5.50 and $7.20 -- where can you land?&quot; That&apos;s fair and direct.</li>
             <li><strong>Offer to pay faster.</strong> Standard is 30% deposit, 70% before shipment. If you can do 50% deposit or full payment on approval, some factories will drop the price 3-5% because faster payment reduces their cash flow risk.</li>
             <li><strong>Increase volume per style.</strong> Going from 200 to 500 pieces of one style gives me a better price than 500 pieces split across 5 styles. Setup time per style is a real cost.</li>
             <li><strong>Be a good client.</strong> Clear communication, timely feedback on samples, payment on schedule. Factories remember good clients and give them priority when production slots are tight.</li>
@@ -468,8 +468,8 @@ export default function FindSunglassesManufacturerPage() {
           <ul>
             <li><strong>&quot;Your competitor quoted me 50% less.&quot;</strong> No they didn&apos;t. Materials cost what they cost. If someone quoted 50% less, they&apos;re using different (worse) materials or lying. We both know it.</li>
             <li><strong>Haggling over pennies on small orders.</strong> Fighting for $0.20 per unit on a 200-piece order saves you $40 total. That&apos;s not worth the goodwill you lose. Save the tough negotiating for when you&apos;re ordering 5,000+.</li>
-            <li><strong>Threatening to go elsewhere.</strong> We hear this weekly. The clients who actually leave over price are usually the ones no factory wants anyway — they&apos;ll be the first to dispute quality, pay late, and leave bad reviews.</li>
-            <li><strong>Asking for free everything.</strong> Free samples, free molds, free shipping, free design. Everything has a cost. A factory that gives everything away is building that cost into your unit price — you just can&apos;t see it.</li>
+            <li><strong>Threatening to go elsewhere.</strong> We hear this weekly. The clients who actually leave over price are usually the ones no factory wants anyway -- they&apos;ll be the first to dispute quality, pay late, and leave bad reviews.</li>
+            <li><strong>Asking for free everything.</strong> Free samples, free molds, free shipping, free design. Everything has a cost. A factory that gives everything away is building that cost into your unit price -- you just can&apos;t see it.</li>
           </ul>
 
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-lg my-8">
@@ -477,7 +477,7 @@ export default function FindSunglassesManufacturerPage() {
             <p className="text-amber-800">
               The sweet spot for negotiation is 5-12% off the initial quote. If a factory quotes $7.00/pair, 
               landing at $6.30-$6.65 is realistic. Below that, they&apos;re either cutting quality or eating 
-              their margin — neither is sustainable long-term. I&apos;d rather give you a fair price and deliver 
+              their margin -- neither is sustainable long-term. I&apos;d rather give you a fair price and deliver 
               a great product than win a price war and deliver garbage.
             </p>
           </div>
@@ -485,7 +485,7 @@ export default function FindSunglassesManufacturerPage() {
           {/* First Order */}
           <h2 id="first-order" className="text-3xl font-bold mt-16 mb-6">Your First Order: Step by Step</h2>
           <p>
-            Here&apos;s the exact sequence I walk every new client through. Bookmark this — you&apos;ll refer back to it.
+            Here&apos;s the exact sequence I walk every new client through. Bookmark this -- you&apos;ll refer back to it.
           </p>
 
           <ol className="space-y-4">
@@ -501,17 +501,17 @@ export default function FindSunglassesManufacturerPage() {
             </li>
             <li>
               <strong>Week 4-5: Evaluate samples.</strong> Use the quality checks above. Compare side by side. 
-              The winner isn&apos;t always the cheapest — it&apos;s the one with the best balance of quality, 
+              The winner isn&apos;t always the cheapest -- it&apos;s the one with the best balance of quality, 
               communication, and price.
             </li>
             <li>
               <strong>Week 5-6: Negotiate and sign.</strong> Discuss final pricing, payment terms, production timeline, 
-              and quality guarantees. Get everything in writing — a proper purchase agreement or proforma invoice 
+              and quality guarantees. Get everything in writing -- a proper purchase agreement or proforma invoice 
               with specifications attached.
             </li>
             <li>
               <strong>Week 6-7: Pay deposit and start production.</strong> Standard is 30% deposit via T/T (bank transfer). 
-              The factory begins production. Stay in communication — ask for progress photos at key milestones.
+              The factory begins production. Stay in communication -- ask for progress photos at key milestones.
             </li>
             <li>
               <strong>Week 8-12: Production, QC, and shipment.</strong> For ODM: production takes 15-25 days. For OEM: 
@@ -524,7 +524,7 @@ export default function FindSunglassesManufacturerPage() {
             <h3 className="text-2xl font-bold mb-4">Ready to Start Looking? Start Here.</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               I wrote this guide so you&apos;d know what to look for. But if you want to skip the search 
-              and talk to a factory directly — well, you&apos;re already on our website. We&apos;ve been doing this 
+              and talk to a factory directly -- well, you&apos;re already on our website. We&apos;ve been doing this 
               since 2006, we carry every certification on the list above, and we respond to inquiries within 
               12 hours. No trading company. No middleman. Just factory-direct.
             </p>
@@ -555,7 +555,7 @@ export default function FindSunglassesManufacturerPage() {
               <h3 className="font-bold text-lg mb-2">How do I verify if a sunglasses manufacturer is legitimate?</h3>
               <p className="text-gray-600">
                 Do a video call and ask to see the production floor live. Check for CE, FDA, and ISO certifications. 
-                Verify their factory address on Google Maps — it should be in an industrial zone, not an office 
+                Verify their factory address on Google Maps -- it should be in an industrial zone, not an office 
                 building. Order samples. Ask for client references. Check if they&apos;ve exhibited at trade shows. 
                 If they pass all of these, you&apos;re probably dealing with the real thing.
               </p>
@@ -564,7 +564,7 @@ export default function FindSunglassesManufacturerPage() {
               <h3 className="font-bold text-lg mb-2">What is a good MOQ for sunglasses manufacturing?</h3>
               <p className="text-gray-600">
                 ODM: 100-300 pieces per style is standard. We start at 50 for first orders. OEM: 300-1,000+ 
-                per style because of mold costs. Be suspicious of extremely low MOQs (under 20 pieces) — 
+                per style because of mold costs. Be suspicious of extremely low MOQs (under 20 pieces) -- 
                 that usually means trading company, not factory.
               </p>
             </div>
@@ -573,13 +573,13 @@ export default function FindSunglassesManufacturerPage() {
               <p className="text-gray-600">
                 ODM: $3-8 per unit. OEM: $5-15+ per unit plus $500-3,000 in mold fees per style. Don&apos;t forget 
                 to add shipping (15-25% for small orders), customs duties (2-5%), and packaging. Your actual 
-                landed cost is always higher than the factory quote — budget for a 20-30% markup on top.
+                landed cost is always higher than the factory quote -- budget for a 20-30% markup on top.
               </p>
             </div>
             <div className="bg-white border border-gray-200 rounded-lg p-6">
               <h3 className="font-bold text-lg mb-2">How long does it take to get sunglasses from a manufacturer?</h3>
               <p className="text-gray-600">
-                ODM: 20-45 days. OEM: 45-90 days. Add shipping time — 5-7 days by air, 20-30 days by sea. 
+                ODM: 20-45 days. OEM: 45-90 days. Add shipping time -- 5-7 days by air, 20-30 days by sea. 
                 First orders always take longer because of sample rounds. Budget an extra 2-3 weeks for 
                 the back-and-forth on your first order with any new factory.
               </p>
@@ -601,15 +601,15 @@ export default function FindSunglassesManufacturerPage() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/products" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">All Products</h3>
-                <p className="text-gray-600 text-sm">Browse our complete collection — 13 product categories, all customizable with your branding.</p>
+                <p className="text-gray-600 text-sm">Browse our complete collection -- 13 product categories, all customizable with your branding.</p>
               </Link>
               <Link href="/certifications" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Our Certifications</h3>
-                <p className="text-gray-600 text-sm">FDA, CE, ISO 9001, UV400 — see the compliance standards we meet.</p>
+                <p className="text-gray-600 text-sm">FDA, CE, ISO 9001, UV400 -- see the compliance standards we meet.</p>
               </Link>
               <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Contact Us</h3>
-                <p className="text-gray-600 text-sm">Get a custom quote — tell us about your brand and we'll recommend the right products.</p>
+                <p className="text-gray-600 text-sm">Get a custom quote -- tell us about your brand and we'll recommend the right products.</p>
               </Link>
             </div>
           </div>
@@ -620,11 +620,11 @@ export default function FindSunglassesManufacturerPage() {
             <div className="grid md:grid-cols-2 gap-6">
               <Link href="/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM Sunglasses: Complete Guide</h3>
-                <p className="text-gray-600 text-sm">Found a factory? Now decide how you want to work with them — custom designs or ready-made.</p>
+                <p className="text-gray-600 text-sm">Found a factory? Now decide how you want to work with them -- custom designs or ready-made.</p>
               </Link>
               <Link href="/blog/start-sunglasses-brand" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">How to Start a Sunglasses Brand</h3>
-                <p className="text-gray-600 text-sm">The full playbook from idea to first sale — manufacturing is just one piece of the puzzle.</p>
+                <p className="text-gray-600 text-sm">The full playbook from idea to first sale -- manufacturing is just one piece of the puzzle.</p>
               </Link>
             </div>
           </div>
