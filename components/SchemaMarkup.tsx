@@ -30,7 +30,7 @@ export function OrganizationSchema() {
   )
 }
 
-export function ProductSchema({ product }: { product: { name: string; description: string; minPrice: string; maxPrice: string } }) {
+export function ProductSchema({ product }: { product: { name: string; description: string; minPrice: string; maxPrice: string; currency?: string; moq?: string } }) {
   const schema = {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -118,15 +118,15 @@ export function FAQPageSchema({ faqs }: { faqs: { question: string; answer: stri
   )
 }
 
-export function BreadcrumbListSchema({ items }: { items: { name: string; url: string }[] }) {
+export function BreadcrumbListSchema({ items }: { items: { name: string; url?: string; item?: string }[] }) {
   const schema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": items.map((item, index) => ({
       "@type": "ListItem",
       "position": index + 1,
-      "name": item.name,
-      "item": item.url
+      "item": item.item || item.url,
+      "name": item.name
     }))
   }
 
