@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { ProductSchema, BreadcrumbListSchema, FAQPageSchema } from '../../components/SchemaMarkup'
 
 export const metadata: Metadata = {
   title: 'Blue Light Blocking Glasses Wholesale | Computer Eyewear Manufacturer - EyeView',
@@ -438,6 +439,7 @@ export default function BlueLightPage() {
         ]
       })}} />
     </main>
+    </>
   )
 }
 

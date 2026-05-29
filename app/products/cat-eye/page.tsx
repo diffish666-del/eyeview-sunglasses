@@ -429,6 +429,7 @@ export default function CatEyePage() {
         </div>
       </section>
     </main>
+    </>
   )
 }
 

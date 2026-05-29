@@ -393,6 +393,7 @@ export default function RoundPage() {
         ]
       })}} />
     </main>
+    </>
   )
 }
 

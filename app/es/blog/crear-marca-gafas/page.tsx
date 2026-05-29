@@ -271,5 +271,6 @@ export default function CrearMarcaGafasPage() {
         </section>
       </div>
     </article>
+    </>
   )
 }

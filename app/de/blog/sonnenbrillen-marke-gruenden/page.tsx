@@ -188,5 +188,6 @@ export default function SonnenbrillenMarkeGruendenPage() {
         </div>
       </div>
     </article>
+    </>
   )
 }

@@ -410,6 +410,7 @@ export default function KidsPage() {
         ]
       })}} />
     </main>
+    </>
   )
 }
 

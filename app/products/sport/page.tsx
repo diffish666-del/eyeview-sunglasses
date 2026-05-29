@@ -430,6 +430,7 @@ export default function SportPage() {
         </div>
       </section>
     </main>
+    </>
   )
 }
 

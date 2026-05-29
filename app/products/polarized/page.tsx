@@ -451,6 +451,7 @@ export default function PolarizedPage() {
         ]
       })}} />
     </main>
+    </>
   )
 }
 
