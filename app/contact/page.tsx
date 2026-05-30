@@ -33,8 +33,8 @@ export default function ContactPage() {
       formData.append('quantity', data.quantity || 'N/A')
       formData.append('message', data.message)
 
-      // Try Formspree first
-      let response = await fetch('https://formspree.io/f/mzdwdyyw', {
+      // Submit to formsubmit.co (delivers to sales@eyeviewsunglasses.com)
+      let response = await fetch('https://formsubmit.co/ajax/sales@eyeviewsunglasses.com', {
         method: 'POST',
         body: formData,
         headers: {
@@ -42,10 +42,10 @@ export default function ContactPage() {
         },
       })
       
-      // If Formspree fails, try backup endpoint
+      // If formsubmit fails, try backup
       if (!response.ok) {
-        console.warn('Formspree failed, trying backup...')
-        response = await fetch('https://formsubmit.co/ajax/sales@eyeviewsunglasses.com', {
+        console.warn('Formsubmit failed, trying backup...')
+        response = await fetch('https://formspree.io/f/mzdwdyyw', {
           method: 'POST',
           body: formData,
           headers: {
