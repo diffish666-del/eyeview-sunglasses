@@ -19,7 +19,7 @@
 #DONE 2026-05-28 oem-vs-odm
 
 # Week 5 - 行业趋势与合规
-2026-06-01 sunglasses-design-trends-2026
+#DONE 2026-06-01 sunglasses-design-trends-2026
 2026-06-04 fda-ce-certification-sunglasses
 
 # Week 6 - 行业趋势与合规
