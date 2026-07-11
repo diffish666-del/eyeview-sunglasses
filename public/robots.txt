@@ -1,40 +1,80 @@
 # robots.txt for EyeView Sunglasses
 # https://eyeviewsunglasses.com/robots.txt
+# Last updated: 2026-07-11
 
-User-agent: *
-Allow: /
-
-# Sitemap location
-Sitemap: https://eyeviewsunglasses.com/sitemap.xml
-
-# Crawl-delay for polite crawling
-Crawl-delay: 1
-
-# Disallow admin and private areas
-Disallow: /admin/
-Disallow: /private/
-Disallow: /_next/
-Disallow: /api/
-
-# Allow all search engines
+# ─── Primary Search Engines ───
 User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-News
 Allow: /
 
 User-agent: Bingbot
 Allow: /
+Crawl-delay: 1
 
 User-agent: DuckDuckBot
 Allow: /
+Crawl-delay: 1
 
 User-agent: Baiduspider
 Allow: /
+Crawl-delay: 1
 
 User-agent: YandexBot
 Allow: /
+Crawl-delay: 2
 
-# Allow SEO tools (fixed from previous config that blocked them)
+# ─── SEO & Analytics Tools ───
 User-agent: AhrefsBot
 Allow: /
+Crawl-delay: 2
 
 User-agent: SemrushBot
 Allow: /
+Crawl-delay: 2
+
+User-agent: Moz
+Allow: /
+Crawl-delay: 3
+
+User-agent: Majestic-12
+Allow: /
+Crawl-delay: 3
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+Crawl-delay: 3
+
+# ─── Social Media Crawlers (for OG tags) ───
+User-agent: Twitterbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: facebookexternalhit
+Allow: /
+Crawl-delay: 1
+
+User-agent: LinkedInBot
+Allow: /
+Crawl-delay: 1
+
+# ─── Default (all other bots) ───
+User-agent: *
+Allow: /
+Crawl-delay: 5
+
+# ─── Disallowed Paths ───
+Disallow: /admin/
+Disallow: /private/
+Disallow: /_next/
+Disallow: /api/
+Disallow: /submissions/
+
+# ─── Sitemaps ───
+Sitemap: https://eyeviewsunglasses.com/sitemap.xml

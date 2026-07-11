@@ -2,73 +2,74 @@
 
 ## Week 1 (2026-07-11 ~ 07-17) ✅ COMPLETED
 - [x] OG 图片 PNG 化（替代 SVG）
-- [x] 全站 BreadcrumbList 结构化数据
-- [x] 博客 dateModified 新鲜度更新
-- [x] Meta 描述长度优化（≤160 chars）
-- [x] 内链补充（博客→产品页）
+- [x] 全站 BreadcrumbList 结构化数据 (24页)
+- [x] 博客 dateModified 新鲜度更新 (19篇)
+- [x] Meta 描述优化 (4页修复)
+- [x] 内链补充（博客→产品页交叉链接）
 - [x] 联系表单 Honeypot 防垃圾
 - [x] 脚本路径修复
-- [x] 自动化 Cron 监控就绪
+- [x] 14张产品 SVG 图片 + ImageObject Schema
+- [x] 5篇新高价值 SEO 博客:
+  - [x] "How to Import Sunglasses from China" (进口指南)
+  - [x] "Wholesale Sunglasses Price Guide 2026" (定价指南)
+  - [x] "Private Label Sunglasses Complete Guide" (品牌建设)
+  - [x] "How Sunglasses Are Made: Inside a Chinese Factory" (制造流程)
+  - [x] "Sunglasses Packaging That Sells" (包装指南)
+- [x] robots.txt 优化 (SEO爬虫白名单+社交爬虫)
+- [x] 自动化 cron 监控就绪 (每日+每周)
 
 ## Week 2 (07-18 ~ 07-24) 📋 PLANNED
-### Technical SEO
-- [ ] 添加 ImageObject Schema 到产品页
-- [ ] 生成 WebP 格式产品占位图（替代 emoji）
-- [ ] robots.txt 增加更多 SEO 爬虫白名单
-- [ ] 验证所有 hreflang 标签正确性
-
 ### Content
-- [ ] 首页 H1 标题 A/B 测试优化
-- [ ] 产品页添加 FAQ Schema
-- [ ] 写 2 篇新博客（长尾关键词）
-  - [ ] "How to Import Sunglasses from China to [USA/EU/AU]"
-  - [ ] "Sunglasses Packaging Ideas for Retail Brands"
+- [ ] 写2篇新博客 (每周2篇节奏)
+  - [ ] "How to Sell Sunglasses on Shopify/Amazon 2026"
+  - [ ] "Sunglasses Lens Technology Guide: UV400 vs Polarized vs Photochromic"
+- [ ] audit所有产品页H1用词是否过度优化
+
+### Technical
+- [ ] Netlify _headers 缓存策略优化 (静态资源长缓存)
+- [ ] 产品页加载性能检查
+- [ ] 结构化数据验证 (Google Rich Results Test)
+- [ ] 检查所有 canonical 是否正确
 
 ### Off-Page
-- [ ] 注册 Google Search Console
-- [ ] 提交 sitemap 到 Google/Bing
-- [ ] B2B 目录开始注册（Tier 1: Alibaba, Made-in-China）
+- [ ] B2B 目录注册开始 (Alibaba, Made-in-China 等)
+- [ ] 社交媒体资料完善
 
 ## Week 3 (07-25 ~ 07-31) 📋 PLANNED
-- [ ] 产品页图片优化（WebP + lazy load）
-- [ ] 内部链接策略优化（silostructure）
-- [ ] 核心页面 Core Web Vitals 审计
-- [ ] 邮件联系表单送达测试
+- [ ] 产品页 WebP 图片生成 (如安装sharp成功)
+- [ ] 内部链接 silo 结构优化
+- [ ] Core Web Vitals 深度审计
 - [ ] 竞争对手关键词分析
 
 ## Week 4 (08-01 ~ 08-07) 📋 PLANNED
 - [ ] 多语言 SEO 对齐检查
 - [ ] 客户案例/证言页面
-- [ ] 视频 Schema 添加（如有视频）
-- [ ] 社交媒体 Open Graph 全面检查
 - [ ] 月度 SEO 报告
 
 ## Continuous (每周自动)
 - [x] 每日 09:00 运行监控
 - [x] 每周日 10:00 SEO 健康检查
 - [ ] 关键词排名追踪
-- [ ] 竞品监控
 
 ---
 
-## Google SEO 2026 核心关注点
+## 🎯 Ranking Targets
+| Keyword | Current | Target (3mo) | Target (6mo) |
+|---------|---------|-------------|-------------|
+| sunglasses manufacturer | >100 | Top 30 | Top 10 |
+| wholesale sunglasses | >100 | Top 50 | Top 20 |
+| OEM sunglasses | >100 | Top 30 | Top 10 |
+| custom sunglasses manufacturer | >100 | Top 50 | Top 20 |
+| sunglasses factory China | >100 | Top 30 | Top 10 |
+| private label sunglasses | >100 | Top 50 | Top 20 |
+| import sunglasses from China | New | Top 30 | Top 10 |
 
-### EEAT 信号
-- Experience: 创始人故事 ✅ | 工厂实景 ❌ (缺图片)
-- Expertise: 认证展示 ✅ | 行业经验数据 ✅
-- Authoritativeness: 客户评价 ✅ | 外部链接 ❌
-- Trust: 认证 ✅ | 联系方式 ✅ | 退款政策 ❌
-
-### 技术基础
-- 结构化数据: Organization ✅, LocalBusiness ✅, FAQ ✅, Breadcrumb ✅
-- Core Web Vitals: LCP ❓ | FID ❓ | CLS ❓ (待 Lighthouse 审计)
-- 移动端: 响应式 ✅ | Viewport ✅
-- 索引: robots.txt ✅ | sitemap.xml ✅ | canonical ✅
-
-### 内容策略
-- 搜索意图对齐 ✅ (交易型+信息型混合)
-- 内容深度: 博客用第一人称工厂主视角 ✅
-- 多语言: 6 语言覆盖 ✅ | 翻译质量 ❓
+## 📊 Content Inventory
+- 24 篇英文博客 (+5 this week)
+- 14 个产品分类页
+- 6 个标准页 (Home/About/Trust/Certifications/Contact/Blog)
+- 6 种语言全覆盖
+- 总计: 200+ 页面
 
 ---
 
