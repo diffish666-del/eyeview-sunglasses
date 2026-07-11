@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Coating Guide: Mirror, Anti-Reflective, Hydrophobic & More',
@@ -11,6 +12,9 @@ export default function SunglassesCoatingGuidePage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'Sunglasses Coating Guide: Mirror, Anti-Reflective, Hydrophobic <article className="py-12"> More' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* JSON-LD Article Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -18,7 +22,7 @@ export default function SunglassesCoatingGuidePage() {
           "@type": "Article",
           "headline": "Sunglasses Coating Guide: Mirror, Anti-Reflective, Hydrophobic & More",
           "datePublished": "2026-05-03",
-          "dateModified": "2026-05-03",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A factory owner breaks down every sunglasses coating type -- mirror, AR, hydrophobic, oleophobic, anti-fog, hard coat, blue light filter. Real costs per pair and which coatings stack together.",

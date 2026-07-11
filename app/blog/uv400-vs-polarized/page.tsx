@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'UV400 vs Polarized Sunglasses: What\'s the Difference and Do You Need Both?',
@@ -11,6 +12,9 @@ export default function Uv400VsPolarizedPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'UV400 vs Polarized Sunglasses: What's the Difference and Do You Need Both?' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* JSON-LD Article Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -18,7 +22,7 @@ export default function Uv400VsPolarizedPage() {
           "@type": "Article",
           "headline": "UV400 vs Polarized Sunglasses: What's the Difference and Do You Need Both?",
           "datePublished": "2026-05-03",
-          "dateModified": "2026-05-03",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A sunglasses factory owner explains UV400 vs polarized lenses -- what each does, cost impact on wholesale, and when your brand needs one or both.",

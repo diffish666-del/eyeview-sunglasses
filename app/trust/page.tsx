@@ -1,9 +1,10 @@
 import Link from 'next/link';
 import type { Metadata } from 'next';
+import Breadcrumb from '@/components/Breadcrumb';
 
 export const metadata: Metadata = {
   title: 'Trust & Credibility | EyeView Sunglasses Manufacturer',
-  description: 'EyeView Sunglasses is a certified manufacturer with FDA, CE, ISO 9001, UV400, and ANSI Z80.3 certifications. Read what our 500+ global clients say about working with us.',
+  description: 'Certified sunglasses manufacturer with FDA, CE, ISO 9001, UV400, and ANSI Z80.3 certifications. Read what 500+ global clients say about EyeView quality and service.',
   keywords: 'sunglasses manufacturer certification, FDA certified sunglasses, CE certified eyewear, ISO 9001 sunglasses factory, sunglasses quality control, eyewear manufacturer reviews',
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/trust',
@@ -14,6 +15,8 @@ export default function TrustPage() {
   return (
     <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Trust & Credibility' }]} />
 
         {/* FAQ Schema for GEO */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

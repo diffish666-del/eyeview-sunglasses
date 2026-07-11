@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'How to Find a Reliable Sunglasses Manufacturer in 2026',
@@ -18,6 +19,9 @@ export default function FindSunglassesManufacturerPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'How to Find a Reliable Sunglasses Manufacturer in 2026' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* JSON-LD Article Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -25,7 +29,7 @@ export default function FindSunglassesManufacturerPage() {
           "@type": "Article",
           "headline": "How to Find a Reliable Sunglasses Manufacturer in 2026",
           "datePublished": "2026-04-28",
-          "dateModified": "2026-05-02",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A factory owner reveals how to find, evaluate, and choose a sunglasses manufacturer -- with 10 key criteria, scam warnings, and real negotiation tips.",
@@ -599,17 +603,17 @@ export default function FindSunglassesManufacturerPage() {
           <div className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
             <div className="grid md:grid-cols-3 gap-6">
-              <Link href="/products" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
-                <h3 className="font-bold text-primary-600 mb-2">All Products</h3>
-                <p className="text-gray-600 text-sm">Browse our complete collection -- 13 product categories, all customizable with your branding.</p>
+              <Link href="/products/wayfarer/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Wayfarer Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Our best-selling style — classic acetate frames perfect for retail and promotional campaigns.</p>
+              </Link>
+              <Link href="/products/acetate/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+                <h3 className="font-bold text-primary-600 mb-2">Acetate Sunglasses</h3>
+                <p className="text-gray-600 text-sm">Premium handcrafted acetate frames with Italian Mazzucchelli materials available.</p>
               </Link>
               <Link href="/certifications" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Our Certifications</h3>
-                <p className="text-gray-600 text-sm">FDA, CE, ISO 9001, UV400 -- see the compliance standards we meet.</p>
-              </Link>
-              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
-                <h3 className="font-bold text-primary-600 mb-2">Contact Us</h3>
-                <p className="text-gray-600 text-sm">Get a custom quote -- tell us about your brand and we'll recommend the right products.</p>
+                <p className="text-gray-600 text-sm">FDA, CE, ISO 9001, UV400 — see the compliance standards we meet.</p>
               </Link>
             </div>
           </div>

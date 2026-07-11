@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'OEM vs ODM Sunglasses: What\'s the Difference? Complete Guide',
@@ -18,6 +19,9 @@ export default function OemVsOdmPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'OEM vs ODM Sunglasses: What's the Difference? Complete Guide' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* JSON-LD Article Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -25,7 +29,7 @@ export default function OemVsOdmPage() {
           "@type": "Article",
           "headline": "OEM vs ODM Sunglasses: What's the Difference? Complete Guide",
           "datePublished": "2026-04-20",
-          "dateModified": "2026-05-02",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A factory owner explains the real differences between OEM and ODM sunglasses manufacturing -- with honest cost breakdowns, timelines, and advice.",

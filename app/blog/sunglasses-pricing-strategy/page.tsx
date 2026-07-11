@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Pricing Strategy: From Factory Cost to Retail Price',
@@ -18,13 +19,16 @@ export default function SunglassesPricingStrategyPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'Sunglasses Pricing Strategy: From Factory Cost to Retail Price' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Article",
           "headline": "Sunglasses Pricing Strategy: From Factory Cost to Retail Price",
           "datePublished": "2026-05-04",
-          "dateModified": "2026-05-04",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A factory owner reveals the real economics of sunglasses pricing -- from factory floor to retail shelf.",

@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, FormEvent } from 'react'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export default function ContactPage() {
   const [submitting, setSubmitting] = useState(false)
@@ -114,6 +115,8 @@ export default function ContactPage() {
   return (
     <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Contact Us' }]} />
+
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">

@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'TR90 vs Acetate vs Metal Sunglasses Frames: The Complete 2026 Buyer\'s Guide',
@@ -11,6 +12,9 @@ export default function Tr90VsAcetateVsMetalPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'TR90 vs Acetate vs Metal Sunglasses Frames: The Complete 2026 Buyer's Guide' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* JSON-LD Article Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -18,7 +22,7 @@ export default function Tr90VsAcetateVsMetalPage() {
           "@type": "Article",
           "headline": "TR90 vs Acetate vs Metal Sunglasses Frames: The Complete 2026 Buyer's Guide",
           "datePublished": "2026-05-04",
-          "dateModified": "2026-05-04",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A sunglasses factory owner explains TR90 vs acetate vs metal frames -- durability, weight, cost, and which material is right for your brand.",

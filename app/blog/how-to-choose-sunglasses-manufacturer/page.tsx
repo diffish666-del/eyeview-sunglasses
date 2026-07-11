@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'How to Choose the Right Sunglasses Manufacturer in 2026 | Complete Guide',
@@ -16,6 +17,7 @@ export const metadata: Metadata = {
 export default function HowToChooseManufacturer() {
   return (
     <article className="max-w-4xl mx-auto px-4 py-12">
+      <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'How to Choose the Right Sunglasses Manufacturer in 2026' }]} />
       
         {/* Article Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -23,7 +25,7 @@ export default function HowToChooseManufacturer() {
           "@type": "Article",
           "headline": "How to Choose the Right Sunglasses Manufacturer in 2026",
           "datePublished": "2026-05-18",
-          "dateModified": "2026-05-18",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A factory owner reveals 10 things to check before choosing a sunglasses manufacturer. Red flags, quality indicators, and how to avoid costly mistakes.",

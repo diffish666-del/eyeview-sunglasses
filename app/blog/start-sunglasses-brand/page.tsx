@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'How to Start a Sunglasses Brand: Complete 2026 Guide',
@@ -18,6 +19,9 @@ export default function StartSunglassesBrandPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'How to Start a Sunglasses Brand: Complete 2026 Guide' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* JSON-LD Article Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -25,7 +29,7 @@ export default function StartSunglassesBrandPage() {
           "@type": "Article",
           "headline": "How to Start a Sunglasses Brand: Complete 2026 Guide",
           "datePublished": "2026-03-28",
-          "dateModified": "2026-03-28",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "Complete step-by-step guide to starting your own sunglasses brand. Market research, sourcing, OEM manufacturing, branding, and marketing strategies.",

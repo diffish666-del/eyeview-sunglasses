@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'How to Import Sunglasses from China: Complete 2026 Guide',
@@ -18,13 +19,16 @@ export default function ImportSunglassesGuidePage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'How to Import Sunglasses from China: Complete 2026 Guide' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Article",
           "headline": "How to Import Sunglasses from China: Complete 2026 Guide",
           "datePublished": "2026-05-04",
-          "dateModified": "2026-05-04",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A Chinese factory owner explains how to import sunglasses from China -- sourcing, shipping, duties, and avoiding costly mistakes.",

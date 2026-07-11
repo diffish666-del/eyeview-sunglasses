@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Lens Types: Complete Buyer\'s Guide for 2026',
@@ -18,6 +19,9 @@ export default function SunglassesLensGuidePage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'Sunglasses Lens Types: Complete Buyer's Guide for 2026' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* JSON-LD Article Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -25,7 +29,7 @@ export default function SunglassesLensGuidePage() {
           "@type": "Article",
           "headline": "Sunglasses Lens Types: Complete Buyer's Guide for 2026",
           "datePublished": "2026-04-25",
-          "dateModified": "2026-05-02",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A factory owner breaks down sunglasses lens materials, colors, coatings, and polarization -- with real costs and honest comparisons.",

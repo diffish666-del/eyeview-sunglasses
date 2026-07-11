@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'How Much Does It Cost to Start a Sunglasses Brand in 2026?',
@@ -18,6 +19,9 @@ export default function SunglassesStartupCostPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'How Much Does It Cost to Start a Sunglasses Brand in 2026?' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* JSON-LD Article Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -25,7 +29,7 @@ export default function SunglassesStartupCostPage() {
           "@type": "Article",
           "headline": "How Much Does It Cost to Start a Sunglasses Brand in 2026?",
           "datePublished": "2026-05-04",
-          "dateModified": "2026-05-04",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A factory owner breaks down every cost to start a sunglasses brand -- from product development to marketing. Real numbers from $3,000 bootstrap to $50,000+ premium launch.",

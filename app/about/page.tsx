@@ -1,9 +1,10 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'About EyeView | Sunglasses Manufacturer Since 2006 | OEM & ODM Factory',
-  description: 'EyeView Sunglasses is a leading OEM/ODM sunglasses manufacturer founded in 2006. 500+ brand clients in 50+ countries. CE, FDA, ISO 9001 certified. Factory-direct pricing.',
+  description: 'EyeView is a leading OEM/ODM sunglasses manufacturer founded in 2006. 500+ brand clients in 50+ countries. CE, FDA, ISO 9001 certified factory-direct pricing.',
   keywords: 'sunglasses manufacturer, eyewear factory, OEM sunglasses company, sunglasses supplier China, about EyeView, eyewear manufacturer',
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/about',
@@ -18,6 +19,8 @@ export default function AboutPage() {
   return (
     <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'About Us' }]} />
 
         {/* Organization Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

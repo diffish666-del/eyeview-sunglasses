@@ -1,9 +1,10 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Industry Blog | Expert Manufacturing & Branding Insights',
-  description: 'Expert insights from a 20-year sunglasses factory owner. OEM/ODM guides, lens technology, sourcing tips, and brand-building strategies for eyewear entrepreneurs.',
+  description: 'Expert insights from a 20-year sunglasses factory owner. OEM/ODM guides, lens technology, sourcing tips, and brand-building for eyewear entrepreneurs.',
   keywords: 'sunglasses blog, eyewear industry, sunglasses manufacturing, OEM sunglasses guide, start sunglasses brand, lens guide, find manufacturer',
   alternates: {
     canonical: '/blog',
@@ -198,6 +199,8 @@ export default function BlogPage() {
   return (
     <main className="py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog' }]} />
+
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">

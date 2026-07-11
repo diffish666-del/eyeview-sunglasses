@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Breadcrumb from '@/components/Breadcrumb'
 
 export const metadata: Metadata = {
   title: 'Custom Sunglasses Packaging: Complete Branding Guide for 2026',
@@ -11,6 +12,9 @@ export default function CustomSunglassesPackagingPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'Custom Sunglasses Packaging: Complete Branding Guide for 2026' }]} />
+      </div>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* JSON-LD Article Schema */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -18,7 +22,7 @@ export default function CustomSunglassesPackagingPage() {
           "@type": "Article",
           "headline": "Custom Sunglasses Packaging: Complete Branding Guide for 2026",
           "datePublished": "2026-05-03",
-          "dateModified": "2026-05-03",
+          "dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
           "description": "A factory owner breaks down every packaging option for sunglasses brands -- hard cases, soft pouches, retail boxes, hang tags, cleaning cloths, warranty cards. Real costs per piece and unboxing tips.",
