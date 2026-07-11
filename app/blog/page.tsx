@@ -45,6 +45,22 @@ const posts = [
     readTime: '6 min read',
   },
   {
+    slug: 'how-sunglasses-are-made',
+    title: 'How Sunglasses Are Made: Inside a Chinese Factory',
+    excerpt: 'Step-by-step factory tour from raw materials to finished sunglasses. Acetate cutting, metal welding, lens coating, polishing, QC testing — every step explained by a factory owner.',
+    date: 'July 11, 2026',
+    category: 'Manufacturing',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'custom-sunglasses-packaging-ideas',
+    title: 'Sunglasses Packaging That Sells: Budget to Premium Options',
+    excerpt: 'Complete packaging guide with real pricing. EVA cases, leather pouches, gift boxes, and unboxing strategies. $0.50-5.00/unit. 500+ brand examples.',
+    date: 'July 11, 2026',
+    category: 'Branding & Packaging',
+    readTime: '7 min read',
+  },
+  {
     slug: 'fda-ce-certification-sunglasses',
     title: 'FDA & CE Certification for Sunglasses: Complete Compliance Guide',
     excerpt: 'A factory owner explains FDA registration, CE marking, UV testing, and ANSI standards for sunglasses. Step-by-step compliance guide for selling eyewear in the US, EU, and globally.',

@@ -6,10 +6,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // --- English blog slugs ---
   const enBlogSlugs = [
+    'custom-sunglasses-packaging-ideas',
     'custom-sunglasses-packaging',
     'fda-ce-certification-sunglasses',
     'find-sunglasses-manufacturer',
     'frame-material-comparison',
+    'how-sunglasses-are-made',
     'how-to-choose-sunglasses-manufacturer',
     'import-sunglasses-from-china',
     'import-sunglasses-guide',
