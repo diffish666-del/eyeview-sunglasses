@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     url: 'https://eyeviewsunglasses.com',
     images: [
       {
-        url: 'https://eyeviewsunglasses.com/og-image.svg',
+        url: 'https://eyeviewsunglasses.com/og-image.png',
         width: 1200,
         height: 630,
         alt: 'EyeView Sunglasses - Wholesale OEM Custom Sunglasses Manufacturer',

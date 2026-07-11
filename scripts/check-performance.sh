@@ -2,7 +2,7 @@
 # Check website performance
 # Runs weekly on Wednesday at 3:00 AM Beijing time
 
-SITE_DIR="/home/admin/.openclaw/workspace/eyeview-site"
+SITE_DIR="/home/admin/.openclaw/workspace/eyeview-sunglasses"
 LOG_FILE="$SITE_DIR/scripts/performance.log"
 URL="https://eyeviewsunglasses.com"
 DATE=$(date '+%Y-%m-%d %H:%M:%S')

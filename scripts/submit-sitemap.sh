@@ -6,7 +6,7 @@
 export ALL_PROXY="socks5h://127.0.0.1:7890"
 export all_proxy="socks5h://127.0.0.1:7890"
 
-SITE_DIR="/home/admin/.openclaw/workspace/eyeview-site"
+SITE_DIR="/home/admin/.openclaw/workspace/eyeview-sunglasses"
 LOG_FILE="$SITE_DIR/scripts/sitemap-submit.log"
 SITEMAP_URL="https://eyeviewsunglasses.com/sitemap.xml"
 DATE=$(date '+%Y-%m-%d %H:%M:%S')

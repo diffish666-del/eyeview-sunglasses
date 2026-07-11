@@ -2,10 +2,10 @@
 # Full sync script - uploads ALL tracked files to GitHub via API
 set -e
 
-TOKEN=$(cat /home/admin/.openclaw/workspace/eyeview-site/.github-token)
+TOKEN=$(cat /home/admin/.openclaw/workspace/eyeview-sunglasses/.github-token)
 REPO="diffish666-del/eyeview-sunglasses"
 API="https://api.github.com/repos/$REPO"
-SITE_DIR="/home/admin/.openclaw/workspace/eyeview-site"
+SITE_DIR="/home/admin/.openclaw/workspace/eyeview-sunglasses"
 
 cd "$SITE_DIR"
 

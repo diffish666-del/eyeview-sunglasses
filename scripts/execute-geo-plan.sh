@@ -3,7 +3,7 @@
 # Runs daily at 9:00 AM Beijing time
 # Executes tasks based on the day of the week
 
-SITE_DIR="/home/admin/.openclaw/workspace/eyeview-site"
+SITE_DIR="/home/admin/.openclaw/workspace/eyeview-sunglasses"
 PLAN_FILE="$SITE_DIR/scripts/geo-weekly-plan.md"
 LOG_FILE="$SITE_DIR/scripts/geo-optimization.log"
 DATE=$(date '+%Y-%m-%d %H:%M:%S')

@@ -5,7 +5,7 @@
 
 set -e
 
-SITE_DIR="/home/admin/.openclaw/workspace/eyeview-site"
+SITE_DIR="/home/admin/.openclaw/workspace/eyeview-sunglasses"
 DRAFT_DIR="$SITE_DIR/drafts"
 BLOG_DIR="$SITE_DIR/app/blog"
 TOKEN_FILE="$SITE_DIR/.github-token"

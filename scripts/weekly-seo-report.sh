@@ -2,7 +2,7 @@
 # Generate weekly SEO report
 # Runs every Sunday at 6:00 PM Beijing time
 
-SITE_DIR="/home/admin/.openclaw/workspace/eyeview-site"
+SITE_DIR="/home/admin/.openclaw/workspace/eyeview-sunglasses"
 LOG_DIR="$SITE_DIR/scripts"
 REPORT_FILE="$LOG_DIR/weekly-report-$(date '+%Y-%m-%d').md"
 DATE=$(date '+%Y-%m-%d %H:%M:%S')

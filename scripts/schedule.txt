@@ -4,15 +4,15 @@
 
 # Week 1 - 材质与技术
 #DONE 2026-05-04 tr90-vs-acetate-vs-metal
-2026-05-07 uv400-vs-polarized
+#DONE 2026-05-07 uv400-vs-polarized
 
 # Week 2 - 材质与技术
-2026-05-11 sunglasses-coating-guide
-2026-05-14 sunglasses-lens-guide
+#DONE 2026-05-11 sunglasses-coating-guide
+#DONE 2026-05-14 sunglasses-lens-guide
 
 # Week 3 - 品牌商指南
-2026-05-18 sunglasses-startup-cost
-2026-05-21 sunglasses-moq-guide
+#DONE 2026-05-18 sunglasses-startup-cost
+#DONE 2026-05-21 sunglasses-moq-guide
 
 # Week 4 - 品牌商指南
 #DONE 2026-05-25 custom-sunglasses-packaging
@@ -20,16 +20,16 @@
 
 # Week 5 - 行业趋势与合规
 #DONE 2026-06-01 sunglasses-design-trends-2026
-2026-06-04 fda-ce-certification-sunglasses
+#DONE 2026-06-04 fda-ce-certification-sunglasses
 
 # Week 6 - 行业趋势与合规
-2026-06-08 import-sunglasses-guide
-2026-06-11 sustainable-sunglasses-manufacturing
+#DONE 2026-06-08 import-sunglasses-guide
+#DONE 2026-06-11 sustainable-sunglasses-manufacturing
 
 # Week 7 - 补充内容
-2026-06-15 sunglasses-pricing-strategy
-2026-06-18 start-sunglasses-brand
+#DONE 2026-06-15 sunglasses-pricing-strategy
+#DONE 2026-06-18 start-sunglasses-brand
 
 # Week 8 - 销售辅助
-2026-06-22 sunglasses-face-shape-guide
-2026-06-25 sunglasses-quality-control
+#DONE 2026-06-22 sunglasses-face-shape-guide
+#DONE 2026-06-25 sunglasses-quality-control

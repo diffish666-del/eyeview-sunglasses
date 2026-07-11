@@ -3,7 +3,7 @@
 # Runs every Monday at 8:00 AM Beijing time
 # Generates a weekly plan based on current GEO status
 
-SITE_DIR="/home/admin/.openclaw/workspace/eyeview-site"
+SITE_DIR="/home/admin/.openclaw/workspace/eyeview-sunglasses"
 PLAN_FILE="$SITE_DIR/scripts/geo-weekly-plan.md"
 LOG_FILE="$SITE_DIR/scripts/geo-optimization.log"
 DATE=$(date '+%Y-%m-%d %H:%M:%S')

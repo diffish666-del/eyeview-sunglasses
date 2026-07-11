@@ -1,7 +1,7 @@
 #!/bin/bash
 # Cron Blog Publisher - reads schedule.txt and publishes if today matches
 
-SCRIPT_DIR="/home/admin/.openclaw/workspace/eyeview-site/scripts"
+SCRIPT_DIR="/home/admin/.openclaw/workspace/eyeview-sunglasses/scripts"
 SCHEDULE_FILE="$SCRIPT_DIR/schedule.txt"
 LOG_FILE="$SCRIPT_DIR/publish.log"
 TODAY=$(date '+%Y-%m-%d')

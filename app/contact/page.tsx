@@ -13,6 +13,15 @@ export default function ContactPage() {
     setError('')
     
     const form = e.currentTarget
+    
+    // Honeypot check - bots fill hidden fields, humans don't
+    const honeypot = (form.elements.namedItem('website') as HTMLInputElement)?.value
+    if (honeypot) {
+      // Silently succeed so bots don't know they were blocked
+      setSucceeded(true)
+      return
+    }
+    
     const data = {
       name: (form.elements.namedItem('name') as HTMLInputElement)?.value,
       email: (form.elements.namedItem('email') as HTMLInputElement)?.value,
@@ -123,6 +132,12 @@ export default function ContactPage() {
               <h2 className="text-2xl font-bold mb-6">Send Us a Message</h2>
               
               <form onSubmit={handleSubmit} className="space-y-6">
+                {/* Honeypot - hidden from humans, filled by bots */}
+                <div style={{ position: 'absolute', left: '-9999px', opacity: 0 }} aria-hidden="true">
+                  <label htmlFor="website">Website</label>
+                  <input type="text" id="website" name="website" tabIndex={-1} autoComplete="off" />
+                </div>
+
                 <div className="grid md:grid-cols-2 gap-6">
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-2">

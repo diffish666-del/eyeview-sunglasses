@@ -2,7 +2,7 @@
 # Full SEO audit - runs monthly on 1st day at 10:00 AM
 # Checks: broken links, meta tags, schema, robots.txt, sitemap
 
-SITE_DIR="/home/admin/.openclaw/workspace/eyeview-site"
+SITE_DIR="/home/admin/.openclaw/workspace/eyeview-sunglasses"
 LOG_FILE="$SITE_DIR/scripts/seo-audit.log"
 DATE=$(date '+%Y-%m-%d %H:%M:%S')
 BASE_URL="https://eyeviewsunglasses.com"
