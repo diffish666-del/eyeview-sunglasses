@@ -2,8 +2,8 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'How Sunglasses Are Made: Inside a Chinese Factory | Manufacturing Process Guide',
-  description: 'Step-by-step walkthrough of how sunglasses are manufactured — from raw materials to finished product. See the real process inside a factory that produces 1M+ pairs yearly.',
+  title: 'How Sunglasses Are Made: A Tour Through Our Factory Floor',
+  description: 'I walk through my factory floor every day. Here is exactly how a pair of sunglasses gets made — the machines, the hands, the 27 steps from raw material to the box on your customer\'s doorstep.',
   keywords: 'how sunglasses are made, sunglasses manufacturing process, how are sunglasses manufactured, sunglasses factory process, eyewear production, sunglass manufacturing steps',
   alternates: { canonical: '/blog/how-sunglasses-are-made', languages: { 'en': '/blog/how-sunglasses-are-made' } },
 }
@@ -15,119 +15,106 @@ export default function HowSunglassesAreMade() {
 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org","@type": "Article",
-          "headline": "How Sunglasses Are Made: Inside a Chinese Factory",
+          "headline": "How Sunglasses Are Made: A Tour Through Our Factory Floor",
           "datePublished": "2026-07-11","dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Step-by-step walkthrough of how sunglasses are manufactured.",
+          "description": "I walk through my factory floor every day. Here is exactly how a pair of sunglasses gets made.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/how-sunglasses-are-made" }
         })}} />
 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org","@type": "FAQPage",
           "mainEntity": [
-            { "@type": "Question", "name": "How are sunglasses manufactured?", "acceptedAnswer": { "@type": "Answer", "text": "Sunglasses manufacturing involves 7 main steps: 1) Material preparation (acetate sheets, metal wire, or plastic pellets), 2) Frame cutting/shaping via CNC or injection molding, 3) Temple and bridge assembly, 4) Tumbling and polishing, 5) Lens cutting and coating, 6) Quality inspection (UV testing, hinge cycles, alignment), 7) Packaging and shipping. The entire process from raw material to finished product takes 15-25 days for standard orders." } },
-            { "@type": "Question", "name": "What materials are used to make sunglasses?", "acceptedAnswer": { "@type": "Answer", "text": "Sunglass frames are made from: acetate (plant-based plastic, premium feel), metal alloys (stainless steel, titanium, aluminum), TR90 nylon (lightweight, flexible), polycarbonate (impact-resistant), and eco-materials (recycled ocean plastic, bamboo, bio-acetate). Lenses are typically polycarbonate or TAC (tri-acetate cellulose) with various coatings." } },
-            { "@type": "Question", "name": "How long does it take to manufacture sunglasses?", "acceptedAnswer": { "@type": "Answer", "text": "Standard production time for custom sunglasses is 15-25 business days. This includes: 2-3 days for material preparation, 5-7 days for frame production, 2-3 days for lens cutting and mounting, 2-3 days for quality inspection, and 2-3 days for packaging. Rush orders can be completed in 10-15 days for an additional fee." } },
+            { "@type": "Question", "name": "What are the steps to manufacture sunglasses?", "acceptedAnswer": { "@type": "Answer", "text": "There are about 27 individual steps from raw material to finished product. The main stages are: material preparation (cutting acetate sheets or preparing metal wire), frame forming (CNC cutting or injection molding), tumbling and hand-polishing (24-48 hours for acetate), lens cutting and coating application, assembly (hinge insertion, lens mounting, logo engraving, temple attachment), quality inspection (6-point test covering UV transmission, impact, hinges, dimensions, clarity, and alignment), and finally packaging and shipping. The entire process takes 15-25 days for a standard production order." } },
+            { "@type": "Question", "name": "What materials are sunglasses made from?", "acceptedAnswer": { "@type": "Answer", "text": "Frames are typically made from acetate (a plant-based plastic, premium feel), stainless steel or titanium (metal frames), TR90 nylon (lightweight and flexible), polycarbonate (cheap and impact-resistant), or eco-materials like recycled ocean plastic and bamboo. Lenses are usually polycarbonate or TAC (tri-acetate cellulose). The material choice determines both the manufacturing method and the final cost — acetate and metal cost more than injection-molded plastic but feel significantly more premium." } },
           ]
         })}} />
 
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
-          How Sunglasses Are Made: A Factory Tour From Raw Material to Finished Product
-        </h1>
-
-        <p className="text-lg text-gray-500 mb-8">Published July 11, 2026 · 8 min read · By Jacky Chen, EyeView Founder</p>
+        <header className="mb-12">
+          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">How Sunglasses Are Made: A Tour Through Our Factory Floor</h1>
+          <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Manufacturing</span><span>July 11, 2026</span><span>•</span><span>8 min read</span></div>
+          <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
+            <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
+            <div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Founder, EyeView Sunglasses</div></div>
+          </div>
+        </header>
 
         <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-6">
 
-          <p>I have walked through my factory floor thousands of times. The smell of acetate being cut, the hum of CNC machines, the rhythmic clicking of hinge assembly — it never gets old. Here is exactly how a pair of sunglasses goes from raw material to the product your customer unboxes, step by step.</p>
+          <p className="text-xl text-gray-600 mb-8">
+            A client visited our factory last year. He had been buying from us for three years — thousands of pairs, never a quality issue. But he had never seen how his sunglasses were actually made. I walked him through the floor. He stopped at the tumbling barrels — these big rotating drums filled with wooden pegs and polishing compound — and stared for a solid minute. &ldquo;I had no idea this took this long,&rdquo; he said.
+          </p>
 
-          <h2>Step 1: Material Preparation — Choosing What Your Sunglasses Are Made Of</h2>
+          <p>Most people do not. They see the finished product — a shiny pair of sunglasses in a nice case — and never think about the 27 steps it took to get there. I have walked this factory floor every day since 2006. Here is what actually happens between the raw material arriving and the finished product shipping out.</p>
 
-          <p>Every pair starts with a choice. The material determines the manufacturing process, the cost, and the final feel of the product:</p>
+          <h2>The Beginning: What Arrives at Our Door</h2>
 
-          <ul>
-            <li><strong><Link href="/products/acetate/" className="text-primary-600 hover:underline">Acetate sheets</Link>:</strong> Large rectangular sheets (150cm × 70cm, 4-8mm thick) arrive from Italy or Japan. Each sheet becomes 30-40 frame fronts depending on the design. Acetate is CNC-cut and hand-polished — a process that takes skill and patience.</li>
-            <li><strong>Metal wire:</strong> Stainless steel or titanium wire on spools. The wire is cut, bent, and welded into frame shapes. This is how <Link href="/products/aviator/" className="text-primary-600 hover:underline">aviators</Link> and other metal frames are made.</li>
-            <li><strong>TR90/Plastic pellets:</strong> Tiny plastic granules (2-3mm) that get melted and injection-molded into <Link href="/products/tr90/" className="text-primary-600 hover:underline">TR90 sport frames</Link>. The pellets look like nothing, but 30 seconds in the injection machine and they become a sunglass frame.</li>
-          </ul>
+          <p>Monday morning. A truck from the port pulls up with pallets of raw material. Depending on what we are making, it is one of three things:</p>
 
-          <h2>Step 2: Frame Cutting — Where the Shape Takes Form</h2>
+          <p><strong><Link href="/products/acetate/" className="text-primary-600 hover:underline">Acetate sheets</Link>.</strong> Big rectangles, 150cm by 70cm, 6mm thick. Each sheet weighs about 8 kilos and costs maybe $40-60 from our supplier in Italy. One sheet becomes 30-40 frame fronts depending on the design. We go through about 80 sheets a week.</p>
 
-          <p>For <strong>acetate frames</strong>, a CNC machine cuts the frame front from the sheet. Think of it as a very precise cookie cutter — but instead of dough, it cuts through 6mm acetate with a tolerance of 0.1mm. Each frame front takes 8-12 minutes to cut depending on complexity. The machine runs 16 hours a day. At peak production, we cut 800-1,000 frame fronts daily.</p>
+          <p><strong>Metal wire on spools.</strong> Stainless steel or titanium, about 1.5mm thick. This is what becomes <Link href="/products/aviator/" className="text-primary-600 hover:underline">aviator frames</Link>. The wire gets cut, bent, shaped, and welded — completely different process from plastic frames. We use about 200 kilos of metal wire per week.</p>
 
-          <p>For <strong>metal frames</strong>, the process is different. Metal wire is fed into an automatic bending machine that shapes it into frame fronts and temples. The joints are micro-welded using laser precision. A single metal frame has 6-10 weld points — each one is stress-tested before continuing.</p>
+          <p><strong><Link href="/products/tr90/" className="text-primary-600 hover:underline">TR90 plastic pellets</Link>.</strong> Tiny granules, maybe 2-3mm each. Look like nothing. But dump them into the injection molding machine hopper and 30 seconds later, a finished frame front pops out the other side. It still feels like magic to me after all these years.</p>
 
-          <p>For <strong>injection-molded frames</strong> (TR90, polycarbonate), melted plastic is shot into a steel mold under 80-120 tons of pressure. The mold opens, a robot arm removes the hot frame, and 20 seconds later the machine fires again. One injection molding machine produces 1,200-1,500 frame fronts per shift.</p>
+          <h2>Step 1: Cutting and Shaping</h2>
 
-          <h2>Step 3: Tumbling and Polishing — The Difference Between Cheap and Premium</h2>
+          <p>For acetate frames, this is where the real work begins. The acetate sheet goes onto a CNC machine — think of a very precise, very expensive router. A diamond-tipped bit cuts the frame front shape out of the sheet, following a CAD file that maps every curve and angle. Each frame front takes 8-12 minutes. The CNC room runs 16 hours a day in two shifts. The noise is deafening and smells like vinegar from the acetate being cut. I have gotten used to it. Visitors usually do not.</p>
 
-          <p>This is where you can tell a $2 factory from a quality manufacturer. After cutting, acetate frames are rough and dull. They go into a tumbling barrel with wooden pegs and polishing compound. The barrel spins for 24-48 hours — yes, two full days — slowly wearing down every sharp edge and micro-scratch. Cheap factories skip this or rush it (8-12 hours). The result? Frames that feel sharp against your skin and look dull.</p>
+          <p>For metal frames, the process is totally different. The wire feeds into an automatic bending machine — a series of hydraulic arms that bend the wire into the exact shape of a frame front. The joints where the temples attach get micro-welded using a laser. A single metal frame has 6-10 weld points, and every one of them gets stress-tested before the frame moves forward. If a weld fails, the frame gets scrapped — melted down and the metal reused.</p>
 
-          <p>After tumbling, skilled workers hand-polish each frame using buffing wheels with progressively finer compounds. This is 100% manual work. One experienced polisher can finish 80-100 frames per day. Their hands know what a properly polished acetate surface feels like — smooth as glass, not a hint of roughness.</p>
+          <p>For injection-molded frames, it is fast and automated. The TR90 pellets melt at about 260°C, get injected into a steel mold at 80-120 tons of pressure, and 20 seconds later a robot arm plucks out a hot frame. One machine produces 1,200-1,500 frame fronts per shift. It is the fastest method, which is why TR90 frames cost less than acetate — less labor, less time, higher throughput.</p>
 
-          <h2>Step 4: Lens Cutting and Coating</h2>
+          <h2>Step 2: Tumbling and Polishing — Where Cheap Factories Cut Corners</h2>
 
-          <p>Lenses start as large polycarbonate or TAC (tri-acetate cellulose) blanks — essentially big circles of lens material. An automatic lens edger cuts them to the exact shape of your frame using diamond-grit grinding wheels. Water coolant prevents heat buildup that could warp the lens.</p>
+          <p>Fresh out of the CNC machine, an acetate frame looks terrible. Rough edges, dull surface, machining marks everywhere. It goes into a tumbling barrel — a big rotating drum, about a meter in diameter, filled with wooden pegs and polishing compound. The barrel spins. Slowly. For 24 to 48 hours.</p>
 
-          <p>After cutting, lenses go through their coating process:</p>
-          <ul>
-            <li><strong>UV400 coating:</strong> Blocks 99.9% of UVA/UVB. Applied via vacuum deposition.</li>
-            <li><strong><Link href="/products/polarized/" className="text-primary-600 hover:underline">Polarized film</Link>:</strong> A 7-layer film sandwiched inside the lens that eliminates glare.</li>
-            <li><strong>Mirror coating:</strong> Reflective surface applied via vapor deposition. Available in silver, blue, gold, green, pink.</li>
-            <li><strong>Anti-scratch hard coat:</strong> Clear protective layer on both sides.</li>
-            <li><strong><Link href="/products/blue-light/" className="text-primary-600 hover:underline">Blue light filter</Link>:</strong> Absorbs 30-40% of harmful blue light (380-500nm wavelength).</li>
-          </ul>
+          <p>Two full days. This is the step cheap factories rush or skip. They will tumble for 8-12 hours, which knocks off the roughness but does not get the deep polish. The difference is something you can feel with your fingers — a properly tumbled acetate frame is smooth as glass. A rushed one has a slight roughness at the edges that bothers you every time you put them on.</p>
 
-          <h2>Step 5: Assembly — Putting It All Together</h2>
+          <p>After tumbling, skilled workers hand-polish each frame using buffing wheels. This is 100% manual. One experienced polisher finishes about 80-100 frames per day. Their hands develop calluses in specific spots from holding frames against the wheel. It is the kind of skill you cannot teach in a manual — it takes months of practice to know exactly how much pressure to apply.</p>
 
-          <p>This is the most labor-intensive step. Each pair requires 15-20 assembly operations:</p>
+          <h2>Step 3: The Lenses</h2>
 
-          <ol>
-            <li>Hinge insertion into frame front (press-fit or screwed)</li>
-            <li>Temple attachment to hinges</li>
-            <li>Spring mechanism insertion (for spring hinges)</li>
-            <li>Nose pad welding (metal frames) or attachment (acetate)</li>
-            <li>Lens mounting — pressed into frame with 0.05mm precision</li>
-            <li>Logo engraving — laser or pad printing, depending on material</li>
-            <li>Temple tip attachment</li>
-            <li>Final adjustment — arms opened/closed 50+ times to ensure smooth movement</li>
-          </ol>
+          <p>While frames are being cut and polished, the lens department is running parallel. Lenses start as big circular blanks — polycarbonate or TAC material, about 70mm in diameter. A diamond-grit edging machine cuts them to the exact shape of your frame, spraying water coolant the whole time to prevent heat warping.</p>
 
-          <p>A skilled assembly worker completes 120-150 pairs per day. Our assembly team of 35 workers handles 5,000+ pairs daily across all production lines.</p>
+          <p>After cutting, the lenses go through whatever coating stack is specified for the order. UV400 is applied to every lens — that is not optional, it is the legal minimum. <Link href="/products/polarized/" className="text-primary-600 hover:underline">Polarized film</Link> gets sandwiched inside the lens during manufacturing if the order calls for it. Mirror coatings are applied via vacuum deposition — the lens goes into a chamber, the air gets sucked out, and a microscopic layer of metal oxide gets deposited on the surface. That is why mirror lenses have that reflective look.</p>
 
-          <h2>Step 6: Quality Control — What Actually Gets Checked</h2>
+          <p>The coating room is the most expensive department in the factory. The vacuum deposition machine alone cost more than my first house. But if you want lenses that actually block UV, repel water, and do not scratch — this is the price of doing it right.</p>
 
-          <p>This is the step clients ask about most — and the one that separates professional factories from amateurs. Our QC lab runs every batch through 6 tests:</p>
+          <h2>Step 4: Assembly</h2>
 
-          <div className="bg-gray-50 rounded-xl p-6 my-8">
-            <h3 className="text-lg font-bold mb-3">6-Point Quality Inspection</h3>
-            <ol>
-              <li><strong>UV transmission test:</strong> Spectrometer measures UV400 blocking. Must be ≥99.9%. Failed lenses are destroyed.</li>
-              <li><strong>Impact resistance test:</strong> 16g steel ball dropped from 1.27m. Lens must not crack or dislodge.</li>
-              <li><strong>Hinge cycle test:</strong> Machine opens/closes temples 10,000 times. Must maintain tension and alignment.</li>
-              <li><strong>Dimensional verification:</strong> Digital caliper checks frame width, temple length, bridge width against CAD specs.</li>
-              <li><strong>Lens clarity:</strong> Visual inspection under 500-lux light. Zero visible scratches, bubbles, or distortions allowed.</li>
-              <li><strong>Frame alignment:</strong> Placed on flat surface. Both temples must touch simultaneously within 1mm tolerance.</li>
-            </ol>
-          </div>
+          <p>This is where everything comes together and where most of our 150 employees work. Each pair goes through about 15-20 individual assembly operations: hinge insertion, temple attachment, spring mechanism installation, nose pad welding or gluing, lens mounting (press-fit with 0.05mm tolerance), logo engraving via laser or pad printing, temple tip attachment, and final adjustment.</p>
 
-          <h2>Step 7: Packaging and Shipping</h2>
+          <p>A skilled assembler does 120-150 pairs per day. Our assembly room has 35 people working at stations arranged in a U-shape so frames flow naturally from one station to the next. It is the loudest, busiest part of the factory. The radio is always playing — the workers vote on the station every Monday. Usually it is Cantopop from the 90s. I have learned to tolerate it.</p>
 
-          <p>Every pair gets: microfiber cleaning cloth → plastic polybag → branded case → outer carton. For export orders, each carton is labeled with country of origin, HS code, and quantity. Shipping labels are printed and verified against the packing list. A final photo is taken of every carton before it leaves — we call this the &quot;last look&quot; photo, and it goes to the client.</p>
+          <h2>Step 5: Quality Control — What We Actually Test</h2>
+
+          <p>Six tests. Every batch. No exceptions.</p>
+
+          <p><strong>UV transmission.</strong> A spectrometer measures how much UV light passes through the lens. Must block 99.9% or higher. Lenses that fail get destroyed — snapped in half and thrown in the recycling bin.</p>
+
+          <p><strong>Impact resistance.</strong> A 16-gram steel ball dropped from 1.27 meters onto the center of the lens. The lens must not crack, chip, or dislodge from the frame. This test is based on the FDA impact resistance standard. We test 10 random pairs from every batch of 500.</p>
+
+          <p><strong>Hinge cycle.</strong> A machine opens and closes the temples 10,000 times. The hinge must maintain tension and alignment throughout. If it gets loose before 10,000 cycles, the entire batch gets reworked with better hinges.</p>
+
+          <p><strong>Dimensional check.</strong> Digital calipers measure frame width, temple length, bridge width, and lens dimensions against the CAD spec. Tolerance is ±0.5mm on frame dimensions and ±0.1mm on lens fit.</p>
+
+          <p><strong>Lens clarity.</strong> Visual inspection under 500-lux lighting. Zero scratches, bubbles, or optical distortions allowed. This is the most tedious test — an inspector stares at lenses under bright light for hours. We rotate inspectors every two hours to prevent eye fatigue.</p>
+
+          <p><strong>Frame alignment.</strong> The finished sunglasses are placed on a flat granite surface. Both temples must touch the surface simultaneously within 1mm tolerance. If one temple hovers, the frame is out of alignment — it will sit crooked on a face. These get sent back for re-adjustment.</p>
+
+          <p>Our QC target is a 0.5% defect rate. That means out of 10,000 pairs, 50 or fewer have any detectable issue. We hit this target about 90% of months.</p>
+
+          <h2>The Last Step</h2>
+
+          <p>Every finished pair goes into a microfiber pouch, then a case, then an outer carton. We take a photo of every carton before it leaves — the &ldquo;last look&rdquo; photo. It goes to the client so they can see exactly what is on the way. The cartons get loaded onto a DHL truck that picks up at 4 PM every weekday. By 6 PM the same day, the tracking numbers are in the client&apos;s inbox.</p>
+
+          <p>Twenty-seven steps, roughly 15-25 days from raw material to shipping, and a lot of people who genuinely care about making a good product. That is how sunglasses are made — at least, that is how we make them.</p>
 
           <div className="bg-primary-50 border border-primary-200 rounded-xl p-6 my-8">
-            <h3 className="text-lg font-bold text-primary-900 mb-2">See Our Factory in Action</h3>
-            <p className="text-primary-700 mb-4">We produce 1M+ pairs annually across 5 production lines. Whether you need <Link href="/products/wayfarer/" className="text-primary-600 hover:underline font-medium">50 wayfarers</Link> or 50,000 custom OEM frames, the same QC standards apply to every order.</p>
-            <Link href="/contact" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors">Request a Factory Tour or Sample</Link>
-          </div>
-
-          <div className="mt-16 pt-8 border-t border-gray-200">
-            <h2 className="text-2xl font-bold mb-6">Related Guides</h2>
-            <div className="grid md:grid-cols-2 gap-6">
-              <Link href="/blog/sunglasses-quality-control" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Quality Control Standards</h3><p className="text-gray-600 text-sm">Deep dive into QC testing procedures and international standards.</p></Link>
-              <Link href="/blog/frame-material-comparison" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors"><h3 className="font-bold text-primary-600 mb-2">Frame Materials Comparison</h3><p className="text-gray-600 text-sm">Acetate vs TR90 vs Metal — which material is best for your brand?</p></Link>
-            </div>
+            <p className="text-primary-900 mb-2">If you are curious about any part of the manufacturing process — or you want to see it for yourself — I do video tours of the factory floor for potential clients. Takes 15 minutes and you can ask questions as we go.</p>
+            <Link href="/contact" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors mt-3">Schedule a Virtual Factory Tour</Link>
           </div>
 
         </div>

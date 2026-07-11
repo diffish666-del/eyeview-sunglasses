@@ -2,8 +2,8 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Private Label Sunglasses: Complete Guide to Building Your Own Eyewear Brand (2026)',
-  description: 'Step-by-step guide to launching your own private label sunglasses brand. Design, sourcing, pricing, and marketing. Everything you need from factory owner with 20 years experience.',
+  title: 'Private Label Sunglasses: How to Actually Launch Your Own Brand (2026)',
+  description: 'I have helped 500+ brands launch. Here is what works: picking products, getting samples, placing your first order, and avoiding the mistakes that kill most new brands.',
   keywords: 'private label sunglasses, build sunglasses brand, custom sunglasses brand, private label eyewear, white label sunglasses, create your own sunglasses line',
   alternates: { canonical: '/blog/private-label-sunglasses-guide', languages: { 'en': '/blog/private-label-sunglasses-guide' } },
 }
@@ -15,106 +15,80 @@ export default function PrivateLabelGuide() {
 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org","@type": "Article",
-          "headline": "Private Label Sunglasses: Complete Guide to Building Your Own Eyewear Brand",
+          "headline": "Private Label Sunglasses: How to Actually Launch Your Own Brand",
           "datePublished": "2026-07-11","dateModified": "2026-07-11",
           "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
           "publisher": { "@type": "Organization", "name": "EyeView Sunglasses" },
-          "description": "Step-by-step guide to launching your own private label sunglasses brand.",
+          "description": "I have helped 500+ brands launch. Here is what works and what does not.",
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/private-label-sunglasses-guide" }
         })}} />
 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org","@type": "FAQPage",
           "mainEntity": [
-            { "@type": "Question", "name": "What are private label sunglasses?", "acceptedAnswer": { "@type": "Answer", "text": "Private label sunglasses are existing sunglass designs manufactured by a factory and sold under your brand name with your logo, packaging, and marketing. Unlike OEM (fully custom designs), private label uses proven existing frame designs that you customize with your branding. This approach is faster (2-4 weeks to market), cheaper (no mold costs), and carries lower MOQ (50-200 pieces). It is the most popular starting point for new sunglasses brands." } },
-            { "@type": "Question", "name": "How much does it cost to start a private label sunglasses brand?", "acceptedAnswer": { "@type": "Answer", "text": "Starting a private label sunglasses brand typically costs $2,000-$8,000 total. This includes: 200-500 pairs at $4-12/pair manufacturing, $300-800 for custom packaging design, $200-500 for logo mold/plate fees, and $300-600 for shipping. Compared to OEM custom designs ($8,000-25,000 startup), private label is significantly more affordable and lower risk for first-time brand owners." } },
-            { "@type": "Question", "name": "How long does it take to launch a private label sunglasses brand?", "acceptedAnswer": { "@type": "Answer", "text": "Typical timeline: 1-2 weeks for product selection and logo design, 1-2 weeks for sample production and approval, 2-3 weeks for bulk production (200-500 pairs), and 3-7 days for express shipping. Total: approximately 5-7 weeks from initial contact to having branded inventory in hand. Rush timelines of 3-4 weeks are possible with expedited production and shipping." } },
+            { "@type": "Question", "name": "How much does it cost to start a private label sunglasses brand?", "acceptedAnswer": { "@type": "Answer", "text": "Plan on $2,000-8,000 total for your first run. This covers 200-500 pairs at $4-12/pair, a logo mold fee of $100-300, packaging design and production ($300-800), and DHL shipping ($300-600). This is significantly less than the $8,000-25,000 you would need for fully custom OEM designs. The lower investment means less risk — if the first batch does not sell the way you hoped, you are not stuck with a huge inventory loss." } },
+            { "@type": "Question", "name": "How long does it take to launch a private label sunglass brand?", "acceptedAnswer": { "@type": "Answer", "text": "From first contact to having branded inventory in your hands: about 5-7 weeks. Week 1-2 is product selection and logo design. Week 2-3 is sample production and approval. Week 3-5 is bulk production of 200-500 pairs. Week 5-6 is DHL express shipping (3-5 days). If you need it faster, rush production and shipping can compress this to 3-4 weeks for an additional fee." } },
           ]
         })}} />
 
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
-          Private Label Sunglasses: Build Your Own Eyewear Brand in 2026
-        </h1>
-
-        <p className="text-lg text-gray-500 mb-8">Published July 11, 2026 · 6 min read · By Jacky Chen, EyeView Founder</p>
+        <header className="mb-12">
+          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Private Label Sunglasses: How to Actually Launch Your Own Brand</h1>
+          <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Brand Building</span><span>July 11, 2026</span><span>•</span><span>6 min read</span></div>
+          <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
+            <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
+            <div><div className="font-medium text-gray-900">Jacky Chen</div><div className="text-sm text-gray-500">Founder, EyeView Sunglasses</div></div>
+          </div>
+        </header>
 
         <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-6">
 
-          <p>I have helped launch over 500 sunglass brands. Some became multi-million dollar companies. Others were passion projects that made their owners a nice side income. Almost all of them started the same way: private label. Here is why, and exactly how to do it.</p>
+          <p className="text-xl text-gray-600 mb-8">
+            I had a client who spent $18,000 on his first order. Custom OEM frames — his own design from scratch, Italian acetate, premium everything. Took four months from sketch to delivery. Beautiful product. He sold maybe 40 pairs. The problem? He designed what he liked, not what the market wanted. By the time he realized that, he was $18,000 in the hole with a garage full of inventory.
+          </p>
 
-          <h2>Private Label vs OEM vs ODM: Which Is Right for You?</h2>
+          <p>This happens more than you would think. I have shipped to over 500 brands across 50 countries, and the ones that succeed almost always do something the ones that fail do not: they start small and learn before they go big.</p>
 
-          <table className="min-w-full border-collapse border border-gray-200 my-6 text-sm">
-            <thead><tr className="bg-gray-50">
-              <th className="border px-3 py-2 text-left"></th>
-              <th className="border px-3 py-2 text-left font-bold">Private Label</th>
-              <th className="border px-3 py-2 text-left"><Link href="/blog/oem-vs-odm" className="text-primary-600 hover:underline">ODM</Link></th>
-              <th className="border px-3 py-2 text-left"><Link href="/blog/oem-vs-odm" className="text-primary-600 hover:underline">OEM</Link></th>
-            </tr></thead>
-            <tbody>
-              <tr><td className="border px-3 py-2 font-medium">Design</td><td className="border px-3 py-2">Existing design, your logo</td><td className="border px-3 py-2">Factory catalog, customized</td><td className="border px-3 py-2">Your design from scratch</td></tr>
-              <tr><td className="border px-3 py-2 font-medium">MOQ</td><td className="border px-3 py-2">50-200 pieces</td><td className="border px-3 py-2">100-300 pieces</td><td className="border px-3 py-2">300-500 pieces</td></tr>
-              <tr><td className="border px-3 py-2 font-medium">Timeline</td><td className="border px-3 py-2">2-4 weeks</td><td className="border px-3 py-2">3-5 weeks</td><td className="border px-3 py-2">6-10 weeks</td></tr>
-              <tr><td className="border px-3 py-2 font-medium">Startup Cost</td><td className="border px-3 py-2">$2,000-5,000</td><td className="border px-3 py-2">$5,000-10,000</td><td className="border px-3 py-2">$8,000-25,000</td></tr>
-              <tr><td className="border px-3 py-2 font-medium">Best For</td><td className="border px-3 py-2">First-time founders</td><td className="border px-3 py-2">Growing brands</td><td className="border px-3 py-2">Established brands</td></tr>
-            </tbody>
-          </table>
+          <p>If you want to launch your own sunglass brand, here is what actually works — not the Instagram version, not the guru version, but the version I have watched play out in real life hundreds of times.</p>
 
-          <p><strong>My honest recommendation:</strong> Start with private label. I have seen too many first-time founders spend $15,000 on custom OEM designs, only to realize their target market actually wanted something completely different. Private label lets you test the market with real inventory for a fraction of the cost. If it works, scale up. If it does not work the way you expected, you are only out $2,000-5,000 instead of $15,000.</p>
+          <h2>Private Label vs Custom: The Honest Comparison</h2>
 
-          <h2>The 5-Step Private Label Launch Process</h2>
+          <p>Most people confuse these terms. Let me clear it up in plain English:</p>
 
-          <h3>1. Pick Your Products (Week 1)</h3>
-          <p>Do NOT try to launch with 20 styles. I see this constantly — new brand owners want to offer everything. Pick 3-4 styles maximum for your first order. Here are the most popular private label starting combinations:</p>
-          <ul>
-            <li><strong>Fashion-focused brand:</strong> <Link href="/products/wayfarer/" className="text-primary-600 hover:underline">Wayfarer</Link> + <Link href="/products/cat-eye/" className="text-primary-600 hover:underline">Cat Eye</Link> + <Link href="/products/round/" className="text-primary-600 hover:underline">Round</Link></li>
-            <li><strong>Premium brand:</strong> <Link href="/products/acetate/" className="text-primary-600 hover:underline">Acetate</Link> + <Link href="/products/aviator/" className="text-primary-600 hover:underline">Aviator</Link> + <Link href="/products/polarized/" className="text-primary-600 hover:underline">Polarized</Link></li>
-            <li><strong>Active/sport brand:</strong> <Link href="/products/sport/" className="text-primary-600 hover:underline">Sport</Link> + <Link href="/products/tr90/" className="text-primary-600 hover:underline">TR90</Link> + Aviator</li>
-          </ul>
+          <p><strong>Private label</strong> means you take an existing frame design, put your logo on it, put it in your branded packaging, and sell it as your brand. The frame already exists. You are just claiming it. This is what most first-time brands do, and it is what I recommend starting with.</p>
 
-          <h3>2. Design Your Brand Identity (Week 1-2)</h3>
-          <p>You need: a brand name, a logo (vector format — AI or EPS, not JPEG), and a color palette. The logo will be engraved or printed on every pair, so keep it simple. Intricate logos look great on a computer screen but become unreadable when laser-engraved at 8mm wide on a temple. I have had to tell dozens of clients to simplify their logo. Learn from their mistake.</p>
+          <p><strong>OEM custom</strong> means you design a frame from scratch — your own shape, your own dimensions, your own everything. The factory builds molds just for you. This is what established brands do when they have a proven market.</p>
 
-          <h3>3. Order Samples (Week 2-3)</h3>
-          <p>Never, ever skip this step. Order 2-3 samples of each style with your logo applied. This costs $50-150 total including shipping. You are checking for: frame quality and finish, logo placement and clarity, lens tint and UV protection, and overall feel. If something is wrong at the sample stage, it costs nothing to fix. If you skip samples and discover a problem after 500 pairs arrive, you just lost $2,500-5,000.</p>
+          <p>The difference in cost and risk is dramatic. Private label: $2,000-5,000 startup, 2-3 weeks production, 50-200 piece minimum. Custom OEM: $8,000-25,000 startup, 6-10 weeks, 300-500 piece minimum. Same quality, same materials, same factory — completely different level of commitment.</p>
 
-          <h3>4. Place Your First Order (Week 3-4)</h3>
-          <p>For your very first order, I recommend 50-100 pieces per style across 3-4 styles. That is 150-400 total pieces. This keeps your investment manageable (~$2,000-5,000) while giving you enough inventory to actually sell and gather data on which styles perform best. Pay 30% deposit to start production, 70% before shipping. Standard terms with most factories.</p>
+          <p>I have watched dozens of first-timers blow their entire budget on custom designs that missed the market. The private label path lets you test what actually sells before you put a mortgage payment into custom molds.</p>
 
-          <h3>5. Prepare for Launch (Weeks 4-6)</h3>
-          <p>While your order is in production (2-3 weeks), use that time to build your Shopify store, create product photos, write product descriptions, and start building an audience on social media. By the time the sunglasses arrive, you should be ready to start selling immediately. Every day your inventory sits in boxes is money you are not making.</p>
+          <h2>How to Actually Do This</h2>
 
-          <h2>What Successful Private Label Brands Do Differently</h2>
+          <p><strong>Pick 3-4 styles. Not 20.</strong> Every new brand owner wants to launch with a full collection. It is a mistake. Focus on a tight core and go deeper on each style. Here is what works in the real world:</p>
 
-          <p><strong>They pick a niche.</strong> &quot;Sunglasses for everyone&quot; is not a brand — it is a commodity. The private label brands that succeed pick a specific audience: sunglasses for golfers, for boaters, for festival-goers, for minimalist design lovers. The narrower your niche, the easier your marketing.</p>
+          <p>If you are going for a premium look — <Link href="/products/acetate/" className="text-primary-600 hover:underline">acetate frames</Link> and <Link href="/products/aviator/" className="text-primary-600 hover:underline">metal aviators</Link>. If you want broad appeal — <Link href="/products/wayfarer/" className="text-primary-600 hover:underline">wayfarers</Link> and <Link href="/products/cat-eye/" className="text-primary-600 hover:underline">cat eyes</Link>. If you are targeting the active market — <Link href="/products/sport/" className="text-primary-600 hover:underline">sport wraps</Link> and <Link href="/products/tr90/" className="text-primary-600 hover:underline">TR90 frames</Link>.</p>
 
-          <p><strong>They invest in packaging.</strong> The difference between a $15 sunglass and a $50 sunglass is often 80% packaging. A <Link href="/products/sunglasses-case/" className="text-primary-600 hover:underline">premium case, a branded microfiber cloth</Link>, and good-looking hang tag transform the perceived value. Packaging typically adds $1.50-3.00 per unit — and can justify a $20-30 increase in retail price.</p>
+          <p>Order 50-100 pieces per style for your first run. That is 150-400 total. Costs about $2,000-5,000. Enough inventory to actually sell and learn which styles move fastest. The style that sold best in your first batch? Double down on that for the reorder.</p>
 
-          <p><strong>They tell a story.</strong> Your sunglasses did not appear out of thin air. Share the design process. Show photos of samples arriving. Talk about why you chose specific materials. Customers buy stories, not products.</p>
+          <p><strong>Do not overcomplicate the logo.</strong> I have had to tell dozens of people to simplify their logo because what looks great on a website at 200 pixels wide becomes a blurry mess when laser-engraved at 8mm on a temple. Simple logos — clean typography, bold shapes, no fine lines — reproduce beautifully on frames. Intricate logos look like a smudge. If you do not believe me, ask for a sample with your logo applied before you commit to production.</p>
+
+          <p><strong>Order samples. Always.</strong> This costs $50-150 and takes a week. You are checking that the frame quality is what you expected, the logo is placed correctly, the lens tint looks right, and the overall feel is premium. If something is wrong, you fix it before spending $3,000 on production. Skip the samples and discover a problem after 300 pairs arrive — that is a $3,000 mistake.</p>
+
+          <p><strong>Invest in the unboxing.</strong> I said this in my packaging guide and I will say it again because it is that important: the packaging makes the product. A decent frame in great packaging outsells a great frame in cheap packaging every single time. Spend the extra $1.50-2.50 per pair on a <Link href="/products/sunglasses-case/" className="text-primary-600 hover:underline">nice case and cleaning cloth</Link>. It adds maybe $500-750 to a 300-piece order, and it is the best marketing investment you will make because customers will post your unboxing on social media for free.</p>
+
+          <h2>What the Successful Ones Do Differently</h2>
+
+          <p>The brands that make it past the first year tend to do three things:</p>
+
+          <p><strong>They pick a niche and own it.</strong> &ldquo;Sunglasses for everyone&rdquo; means &ldquo;sunglasses for no one.&rdquo; The brands I have watched grow target something specific. Sunglasses for golfers. Sunglasses for festival season. Sunglasses made from recycled ocean plastic. The narrower the audience, the easier the marketing.</p>
+
+          <p><strong>They sell before they buy.</strong> Smart founders build an email list or Instagram following before their inventory arrives. They post behind-the-scenes factory content. They show design mockups. By the time the sunglasses land, there are people waiting to buy. The alternative — getting 300 pairs delivered and then thinking &ldquo;okay, now I need to figure out how to sell these&rdquo; — is backwards.</p>
+
+          <p><strong>They do not quit after the first order.</strong> Almost nobody gets it perfect on the first run. Maybe you picked the wrong lens color. Maybe one of your styles barely moved while another sold out immediately. The people who succeed are the ones who treat the first order as a learning exercise and use what they learned to make the second order better.</p>
 
           <div className="bg-primary-50 border border-primary-200 rounded-xl p-6 my-8">
-            <h3 className="text-lg font-bold text-primary-900 mb-2">Start Your Private Label Brand Today</h3>
-            <p className="text-primary-700 mb-4">We have helped 500+ brands launch their first sunglass line. Tell us your vision and we will recommend the right products and get samples to you within 7 days.</p>
-            <div className="flex flex-wrap gap-3">
-              <Link href="/contact" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors">Start Your Brand</Link>
-              <Link href="/products" className="inline-block border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-bold hover:bg-primary-50 transition-colors">Browse Products</Link>
-            </div>
-          </div>
-
-          {/* Related Products */}
-          <div className="mt-16 pt-8 border-t border-gray-200">
-            <h2 className="text-2xl font-bold mb-6">Best Styles for Private Label</h2>
-            <div className="grid md:grid-cols-3 gap-6">
-              <Link href="/products/wayfarer/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
-                <h3 className="font-bold text-primary-600 mb-2">Wayfarer</h3><p className="text-gray-600 text-sm">Universal appeal, unisex, best-selling shape of all time.</p>
-              </Link>
-              <Link href="/products/acetate/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
-                <h3 className="font-bold text-primary-600 mb-2">Acetate</h3><p className="text-gray-600 text-sm">Premium look and feel. Justifies higher retail pricing.</p>
-              </Link>
-              <Link href="/products/cat-eye/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
-                <h3 className="font-bold text-primary-600 mb-2">Cat Eye</h3><p className="text-gray-600 text-sm">Women&apos;s fashion staple. Strong social media appeal.</p>
-              </Link>
-            </div>
+            <p className="text-primary-900 mb-2">I have helped launch more sunglasses brands than I can count. If you have an idea, tell me about it. I will tell you honestly whether it makes sense, what it will cost, and how long it will take. No sales pitch — just straight answers from someone who has been on the factory floor since 2006.</p>
+            <Link href="/contact" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors mt-3">Tell Me About Your Brand Idea</Link>
           </div>
 
         </div>
