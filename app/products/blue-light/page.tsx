@@ -123,7 +123,7 @@ export default function BlueLightPage() {
         {/* Hero */}
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
           <img loading="lazy"
-            src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop"
+            src="/products/blue-light.svg"
             alt="Blue Light Blocking Glasses Wholesale - Computer Eyewear Collection"
             className="w-full h-96 object-cover"
           />
@@ -161,7 +161,7 @@ export default function BlueLightPage() {
           </div>
         </section>
 
-        {/* Hero Image */}
+        {/* Hero Image with Schema */}
         <div className="mb-12">
           <img src="https://images.unsplash.com/photo-1577803645773-f96470509666?w=1200&h=500&fit=crop" alt="Wholesale Blue Light Sunglasses" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
         </div>

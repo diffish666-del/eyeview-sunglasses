@@ -116,10 +116,10 @@ export default function PrescriptionSunglassesPage() {
             <span className="text-gray-900 font-medium">Prescription Sunglasses</span>
           </nav>
 
-          {/* Hero Image */}
+          {/* Hero Image with Schema */}
           <div className="mb-12">
             <img
-              src="https://images.unsplash.com/photo-1574258495973-f0100a8c79b1?w=1200&h=500&fit=crop"
+              src="/products/prescription.svg"
               alt="Prescription Sunglasses Manufacturer - Custom Rx Eyewear Wholesale"
               loading="lazy"
               className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"

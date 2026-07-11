@@ -10,8 +10,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'fda-ce-certification-sunglasses',
     'find-sunglasses-manufacturer',
     'frame-material-comparison',
+    'how-to-choose-sunglasses-manufacturer',
+    'import-sunglasses-from-china',
     'import-sunglasses-guide',
     'oem-vs-odm',
+    'private-label-sunglasses-guide',
     'start-sunglasses-brand',
     'sunglasses-coating-guide',
     'sunglasses-design-trends-2026',
@@ -22,8 +25,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'sunglasses-quality-control',
     'sunglasses-startup-cost',
     'sustainable-sunglasses-manufacturing',
+    'tr90-vs-acetate-vs-metal',
     'uv400-vs-polarized',
-    'how-to-choose-sunglasses-manufacturer',
+    'wholesale-sunglasses-pricing-guide',
   ]
 
   // --- Spanish blog slugs ---

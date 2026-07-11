@@ -120,10 +120,10 @@ export default function EcoFriendlyPage() {
             <span className="text-gray-900 font-medium">Eco-Friendly Sunglasses</span>
           </nav>
 
-          {/* Hero Image */}
+          {/* Hero Image with Schema */}
           <div className="mb-12">
             <img
-              src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop"
+              src="/products/eco-friendly.svg"
               alt="Eco-Friendly Sustainable Sunglasses Wholesale - Bamboo and Recycled Materials"
               loading="lazy"
               className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"

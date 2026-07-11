@@ -127,10 +127,10 @@ export default function SunglassCasePage() {
             </h1>
           </div>
 
-          {/* Hero Image */}
+          {/* Hero Image with Schema */}
           <div className="mb-12">
             <img
-              src="https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=1200&h=500&fit=crop"
+              src="/products/sunglasses-case.svg"
               alt="Wholesale Sunglasses Cases - Custom Eyewear Cases and Packaging Manufacturer"
               loading="lazy"
               className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"

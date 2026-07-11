@@ -126,10 +126,10 @@ export default function SportPage() {
           </p>
         </div>
 
-        {/* Hero Image */}
+        {/* Hero Image with Schema */}
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
           <img loading="lazy"
-            src="https://images.unsplash.com/photo-1625591348697-c75b4d7ea5f9?w=1200&h=500&fit=crop"
+            src="/products/sport.svg"
             alt="Sport Sunglasses Collection - Polarized Athletic Eyewear for Cycling Running Fishing"
             className="w-full h-96 object-cover"
           />

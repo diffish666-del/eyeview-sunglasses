@@ -120,10 +120,10 @@ export default function CatEyePage() {
           </p>
         </div>
 
-        {/* Hero Image */}
+        {/* Hero Image with Schema */}
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
           <img loading="lazy"
-            src="https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=1200&h=500&fit=crop"
+            src="/products/cat-eye.svg"
             alt="Wholesale Cat Eye Sunglasses Collection - Women's Fashion Eyewear"
             className="w-full h-96 object-cover"
           />

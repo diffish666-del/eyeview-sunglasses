@@ -123,7 +123,7 @@ export default function PolarizedPage() {
         {/* Hero */}
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
           <img loading="lazy"
-            src="https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=1200&h=500&fit=crop"
+            src="/products/polarized.svg"
             alt="Polarized Sunglasses Wholesale Collection - Premium TAC Lenses"
             className="w-full h-96 object-cover"
           />
@@ -187,7 +187,7 @@ export default function PolarizedPage() {
           </p>
         </section>
 
-        {/* Hero Image */}
+        {/* Hero Image with Schema */}
         <div className="mb-12">
           <img src="https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=1200&h=500&fit=crop" alt="Wholesale Polarized Sunglasses" loading="lazy" className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg" />
         </div>

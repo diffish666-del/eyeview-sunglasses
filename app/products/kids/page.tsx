@@ -120,10 +120,10 @@ export default function KidsPage() {
           </p>
         </div>
 
-        {/* Hero Image */}
+        {/* Hero Image with Schema */}
         <div className="mb-12 rounded-2xl overflow-hidden shadow-xl">
           <img loading="lazy"
-            src="https://images.unsplash.com/photo-1591076482161-42ce6da69f67?w=1200&h=500&fit=crop"
+            src="/products/kids.svg"
             alt="Kids Sunglasses Wholesale - Safe UV Protection for Children Ages 0-12"
             className="w-full h-96 object-cover"
           />

@@ -116,10 +116,10 @@ export default function PromotionalSunglassesPage() {
             <span className="text-gray-900 font-medium">Promotional Sunglasses</span>
           </nav>
 
-          {/* Hero Image */}
+          {/* Hero Image with Schema */}
           <div className="mb-12">
             <img
-              src="https://images.unsplash.com/photo-1511499767442-68b526219ea7?w=1200&h=500&fit=crop"
+              src="/products/promotional.svg"
               alt="Promotional Sunglasses - Custom Branded Eyewear for Events and Campaigns"
               loading="lazy"
               className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"

@@ -21,6 +21,30 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'import-sunglasses-from-china',
+    title: 'How to Import Sunglasses from China: Complete 2026 Guide',
+    excerpt: 'Step-by-step guide to importing sunglasses from China. Customs, duties, shipping costs, and quality control. Written by a factory owner with 20 years experience exporting to 50+ countries.',
+    date: 'July 11, 2026',
+    category: 'Import & Logistics',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'wholesale-sunglasses-pricing-guide',
+    title: 'Wholesale Sunglasses Price Guide 2026: Real Factory-Direct Numbers',
+    excerpt: 'Transparent factory-direct pricing by material, style, and quantity. MOQ requirements, per-unit costs, and real-world pricing examples for every type of sunglasses.',
+    date: 'July 11, 2026',
+    category: 'Pricing & Sourcing',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'private-label-sunglasses-guide',
+    title: 'Private Label Sunglasses: Build Your Own Eyewear Brand in 2026',
+    excerpt: 'Complete guide to launching your own private label sunglasses brand. Product selection, branding, samples, pricing strategy, and launch preparation.',
+    date: 'July 11, 2026',
+    category: 'Brand Building',
+    readTime: '6 min read',
+  },
+  {
     slug: 'fda-ce-certification-sunglasses',
     title: 'FDA & CE Certification for Sunglasses: Complete Compliance Guide',
     excerpt: 'A factory owner explains FDA registration, CE marking, UV testing, and ANSI standards for sunglasses. Step-by-step compliance guide for selling eyewear in the US, EU, and globally.',
