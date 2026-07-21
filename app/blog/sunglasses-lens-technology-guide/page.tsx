@@ -49,6 +49,7 @@ export default function SunglassesLensTechGuidePage() {
             "@type": "BlogPosting",
             "headline": "Sunglasses Lens Technology Guide: UV400 vs Polarized vs Photochromic (2026)",
             "datePublished": "2026-07-17",
+            "dateModified": "2026-07-17",
             "description": "UV400 vs polarized vs photochromic — what each actually does, which one you need, and the car windshield gotcha nobody explains.",
             "author": { "@type": "Organization", "name": "EyeView Sunglasses" },
             "publisher": { "@type": "Organization", "name": "EyeView Sunglasses", "logo": { "@type": "ImageObject", "url": "https://eyeviewsunglasses.com/logo.png" } }

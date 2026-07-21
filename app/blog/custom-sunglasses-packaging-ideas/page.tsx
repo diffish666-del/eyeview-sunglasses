@@ -24,6 +24,16 @@ export default function PackagingIdeasPage() {
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/custom-sunglasses-packaging-ideas" }
         })}} />
 
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org","@type": "FAQPage",
+          "mainEntity": [
+            {"@type": "Question","name": "What are the best custom sunglasses packaging options for brands?","acceptedAnswer": {"@type": "Answer","text": "For most brands, EVA hard cases ($1.50-2.00/unit) offer the best balance of protection, customization, and perceived value. Magnetic rigid boxes ($3-5) signal luxury for premium brands. Microfiber pouches ($0.50-0.80) work for promotional giveaways and budget lines. The sweet spot for 70% of brands is a custom EVA case with debossed logo."}},
+            {"@type": "Question","name": "How does packaging affect sunglasses retail pricing?","acceptedAnswer": {"@type": "Answer","text": "Packaging directly impacts perceived value and retail price. We've seen identical sunglasses sell for $25 in a plastic pouch vs $55 in a branded EVA case — a $30 retail price difference. Higher-end packaging like magnetic rigid boxes or leather cases can push retail prices above $80. The packaging IS the product experience for online brands."}},
+            {"@type": "Question","name": "What small packaging details give the highest ROI for sunglasses brands?","acceptedAnswer": {"@type": "Answer","text": "Three low-cost additions deliver outsized returns: 1) Branded thank-you cards ($0.05-0.10 each) create personal connection, 2) Logo stickers ($0.03-0.05) become free marketing when customers stick them on laptops and water bottles, 3) Microfiber cleaning cloths with your logo ($0.30-0.50) provide daily brand visibility. Combined under $0.50 per unit, these drive social sharing and repeat purchases."}},
+            {"@type": "Question","name": "What's the MOQ for custom sunglasses packaging from EyeView?","acceptedAnswer": {"@type": "Answer","text": "Custom EVA cases start at 500 units MOQ, custom magnetic boxes at 300 units, and branded microfiber pouches at 200 units. For brands launching with our MOQ of 100 sunglasses, we recommend starting with a branded EVA case — it's the most cost-effective way to elevate your product presentation from day one."}},
+            {"@type": "Question","name": "How do I create a memorable unboxing experience for sunglasses?","acceptedAnswer": {"@type": "Answer","text": "Layer your packaging: outer mailer → tissue paper or branded wrap → case → sunglasses → microfiber cloth underneath → surprise insert (sticker, discount code, adventure prompt). Each layer builds anticipation. The surprise insert at the bottom is key — it's the last thing they find, and the thing they're most likely to share on social media."}}
+          ]
+        })}} />
 
         {/* 🟢 GEO: Key Takeaways */}
         <KeyTakeaways items={[

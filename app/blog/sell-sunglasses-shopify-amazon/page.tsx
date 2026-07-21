@@ -49,6 +49,7 @@ export default function SellSunglassesShopifyAmazonPage() {
             "@type": "BlogPosting",
             "headline": "How to Sell Sunglasses on Shopify vs Amazon: 2026 Guide for Brand Owners",
             "datePublished": "2026-07-17",
+            "dateModified": "2026-07-17",
             "description": "Real factory perspective on selling sunglasses on Shopify vs Amazon. Margins, fees, fulfillment, brand control — honest comparison from someone who supplies both channels.",
             "author": { "@type": "Organization", "name": "EyeView Sunglasses" },
             "publisher": { "@type": "Organization", "name": "EyeView Sunglasses", "logo": { "@type": "ImageObject", "url": "https://eyeviewsunglasses.com/logo.png" } }
