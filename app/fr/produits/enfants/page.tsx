@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Fabricant de lunettes de soleil enfants en gros. Lunettes enfants sûres, sans BPA, certifiées CPSIA et EN71 pour 0-12 ans. Montures flexibles incassables, protection UV400. MOQ 100 pcs.',
   keywords: 'lunettes enfants en gros, fabricant lunettes enfants, lunettes bébé en gros, lunettes tout-petits, lunettes jeunesse en gros, lunettes protection UV enfants, lunettes sans BPA enfants, lunettes certifiées CPSIA',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/enfants',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/enfants/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/kids',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/enfants',

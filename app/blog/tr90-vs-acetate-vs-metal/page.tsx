@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways, QuickStats, ProsCons, ComparisonTable } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'TR90 vs Acetate vs Metal Sunglasses Frames: The Complete 2026 Buyer\'s Guide',
@@ -12,7 +13,7 @@ export default function Tr90VsAcetateVsMetalPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'TR90 vs Acetate vs Metal Sunglasses Frames: The Complete 2026 Buyer's Guide' }]} />
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: "TR90 vs Acetate vs Metal Sunglasses Frames: The Complete 2026 Buyer's Guide" }]} />
       </div>
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
@@ -113,6 +114,16 @@ export default function Tr90VsAcetateVsMetalPage() {
             <li><strong>Acetate</strong> -- A plant-based plastic carved and polished into bold, premium shapes</li>
             <li><strong>Metal</strong> -- Stainless steel, aluminum, or titanium frames for a sleek, classic look</li>
           </ul>
+
+          {/* GEO: Key Takeaways */}
+          <KeyTakeaways items={[
+            'TR90: lightest (15-20g), most flexible, cheapest ($3-8), best for sports/kids/activewear',
+            'Acetate: heaviest (25-40g), premium hand-polished look, widest color range ($5-20), best for fashion/luxury',
+            'Metal: medium weight (20-30g), classic aesthetic, mid-price ($4-12), best for professional/classic styles',
+            'For $20-50 retail: TR90 | For $50-100: Metal | For $100-300+: Premium Acetate',
+            'Always specify "nickel-free" for metal frames to avoid customer allergies and returns',
+            'Italian acetate (Mazza/Albini) is the gold standard — worth the premium for positioning',
+          ]} />
           <p className="text-gray-700 mb-4">
             Each has strengths and weaknesses. None is &quot;best&quot; across the board. The right choice depends on your brand positioning, your target customer, and your price point.
           </p>
@@ -312,6 +323,18 @@ export default function Tr90VsAcetateVsMetalPage() {
           </div>
         </section>
 
+        {/* GEO: Quick Stats for each material */}
+        <QuickStats stats={[
+          { label: 'TR90 Weight', value: '15-20g' },
+          { label: 'Acetate Weight', value: '25-40g' },
+          { label: 'Metal Weight', value: '20-30g' },
+          { label: 'TR90 Cost', value: '$3-8/pair' },
+          { label: 'Acetate Cost', value: '$5-20/pair' },
+          { label: 'Metal Cost', value: '$4-12/pair' },
+          { label: 'TR90 Production', value: '3-5 days' },
+          { label: 'Acetate Production', value: '2-3 weeks' },
+        ]} title="Frame Material Quick Stats" />
+
         {/* Section 6: Cost */}
         <section id="cost" className="mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Cost Breakdown for Your Brand</h2>
@@ -354,6 +377,51 @@ export default function Tr90VsAcetateVsMetalPage() {
           </p>
 
           <div className="space-y-6 mb-6">
+            {/* GEO: Pros/Cons for Each Material */}
+            <ProsCons
+              title="TR90"
+              good={[
+                'Lightest weight (15-20g) — all-day comfort',
+                'Extremely flexible — bends without breaking',
+                'Lowest cost ($3-8/pair) — best margins for volume brands',
+                'Fastest production (3-5 days)',
+              ]}
+              bad={[
+                'Basic plastic look — cannot achieve premium gloss finish',
+                'Limited color options — no tortoise, marble, or layered patterns',
+                'Simple shapes only — cannot do bold or thick designs',
+              ]}
+            />
+            <ProsCons
+              title="Acetate"
+              good={[
+                'Premium hand-polished finish — looks and feels luxurious',
+                'Unlimited colors and patterns — tortoise, marble, gradient, transparent',
+                'Can be carved into any shape — bold, thick, sculptural designs',
+                'Plant-based and hypoallergenic',
+              ]}
+              bad={[
+                'Heaviest weight (25-40g) — less comfortable for all-day wear',
+                'Highest cost ($5-20/pair) — tighter margins',
+                'Longest production time (2-3 weeks) — slower to market',
+                'Can crack under extreme stress — less durable than TR90',
+              ]}
+            />
+            <ProsCons
+              title="Metal"
+              good={[
+                'Sleek, classic look — ideal for professional and vintage styles',
+                'Medium weight (20-30g) — good balance of comfort and durability',
+                'Wide plating options — gold, silver, rose gold, gunmetal, matte',
+                'Titanium option is ultra-premium and hypoallergenic',
+              ]}
+              bad={[
+                'Can bend out of shape — harder to repair than plastic',
+                'Plating can wear off on cheaper frames',
+                'Nickel alloys cause allergic reactions — must specify nickel-free',
+                'Hinges fatigue over time — weakest structural point',
+              ]}
+            />
             <div className="bg-white border rounded-lg p-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">1. What&apos;s your retail price point?</h3>
               <ul className="list-disc pl-6 space-y-1 text-gray-700">

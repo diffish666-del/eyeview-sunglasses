@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'How Much Does It Cost to Start a Sunglasses Brand in 2026?',
@@ -69,6 +70,16 @@ export default function SunglassesStartupCostPage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Bootstrap launch: $3,000–5,000 for 2–3 ODM styles (200–300 pairs total), basic Shopify store, packaging, and initial marketing — enough to test market demand before scaling',
+          'Mid-range launch: $10,000–25,000 for some custom designs, professional photography, and stronger branding — the most common entry point for serious brand founders',
+          'Premium OEM launch: $30,000–50,000+ for full custom molds, premium materials, custom packaging, and launch marketing campaign — only recommended with proven audience or deep experience',
+          'Hidden costs add 20–30% to your budget: import duties (2–5%), product liability insurance ($500–2,000/year), product photography ($500–2,000), returns/defects (3–5% buffer), and FDA/CE compliance testing ($300–800/style)',
+          'Single highest cost variable is OEM vs ODM — custom molds cost $500–3,000 per style in tooling plus 50–100% higher per-unit costs versus choosing from existing designs',
+          'The lean startup playbook: launch with 2–3 ODM styles at $30–60 retail, reinvest first profits into custom OEM for bestsellers, and scale brand equity organically',
+        ]} />
         {/* Article Header */}
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">

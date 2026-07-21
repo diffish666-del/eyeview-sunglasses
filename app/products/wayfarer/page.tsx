@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Wholesale Wayfarer Sunglasses Manufacturer | Custom Wayfarer OEM - EyeView',
     description: 'Wholesale wayfarer sunglasses manufacturer. Premium acetate frames, custom logo, UV400/polarized lenses. MOQ 100pcs. Factory direct.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/products/wayfarer',
+    url: 'https://eyeviewsunglasses.com/products/wayfarer/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/products/wayfarer',
+    canonical: 'https://eyeviewsunglasses.com/products/wayfarer/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/wayfarer',
       'es': 'https://eyeviewsunglasses.com/es/productos/wayfarer',
@@ -96,12 +96,14 @@ export default function WayfarerPage() {
         name: 'Wholesale Wayfarer Sunglasses',
         description: 'Classic square wayfarer sunglasses with premium acetate frames. Over 200 colors and patterns available. UV400 and polarized lens options. Full OEM customization with logo printing.',
         minPrice: '5.50',
-        maxPrice: '11.00'
+        maxPrice: '11.00',
+        category: 'Wayfarer Sunglasses',
+        material: 'Acetate, TR90'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Home', url: 'https://eyeviewsunglasses.com' },
-        { name: 'Products', url: 'https://eyeviewsunglasses.com/products' },
-        { name: 'Wayfarer Sunglasses', url: 'https://eyeviewsunglasses.com/products/wayfarer' }
+        { name: 'Products', url: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Wayfarer Sunglasses', url: 'https://eyeviewsunglasses.com/products/wayfarer/' }
       ]} />
       <FAQPageSchema faqs={wayfarerFaqs} />
 

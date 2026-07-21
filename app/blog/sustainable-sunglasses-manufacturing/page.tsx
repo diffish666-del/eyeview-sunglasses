@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Sustainable Sunglasses Manufacturing: Eco-Friendly Materials & Processes',
@@ -67,6 +68,16 @@ export default function SustainableSunglassesPage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Sustainable materials add 10–25% to manufacturing costs — bio-acetate costs ~15% more than traditional acetate, recycled nylon 10–20% more than virgin — but retail premium can be 30–50%',
+          'Bio-acetate from Mazzucchelli M49 or Eastman Acetate Renew has identical mechanical properties to traditional acetate — same hardness, flexibility, polishing quality, and lifespan',
+          'Ocean-bound vs ocean-retrieved plastic: most frames use ocean-bound (collected from coastal areas before entering the sea) — true ocean-retrieved plastic costs significantly more to process',
+          'Key certifications to verify: GRS (Global Recycled Standard) for recycled content, ISCC PLUS for bio-based materials, FSC for wood/bamboo sourcing, OEKO-TEX for harmful substance testing, ISO 14001 for factory environmental management',
+          'Eco-friendly packaging options: recycled cardboard boxes, soy-based ink printing, bamboo fiber cases, and biodegradable poly bags — costs only $0.30–1.00 more per unit than standard',
+          'Greenwashing is rampant in eyewear — always verify supplier certifications with third-party registry lookup; \'eco-friendly\' claims without GRS or ISCC PLUS are marketing, not manufacturing reality',
+        ]} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
             <span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Sustainability</span>

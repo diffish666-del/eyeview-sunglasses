@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Las gafas de sol EyeView cumplen todos los estándares internacionales de seguridad. Registrados en FDA, certificados CE, ISO 9001, UV400, cumplimiento ANSI Z80.3. Documentación completa disponible.',
   keywords: 'certificaciones gafas de sol, cumplimiento FDA gafas, certificación CE gafas, UV400, ISO 9001 gafas, ANSI Z80.3, CPSIA gafas infantiles',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/es/certificaciones',
+    canonical: 'https://eyeviewsunglasses.com/es/certificaciones/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/certifications',
       'es': 'https://eyeviewsunglasses.com/es/certificaciones',
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: 'Certificaciones y Cumplimiento de Gafas de Sol | FDA, CE, ISO 9001, UV400 - EyeView',
     description: 'Las gafas de sol EyeView cumplen todos los estándares internacionales de seguridad. Registrados en FDA, certificados CE, ISO 9001, UV400.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/es/certificaciones',
+    url: 'https://eyeviewsunglasses.com/es/certificaciones/',
     locale: 'es_ES',
   },
 }

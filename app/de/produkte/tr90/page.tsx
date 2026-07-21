@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     title: 'TR90-Sonnenbrillen Großhandel | TR90-Brillen Hersteller - EyeView',
     description: 'Hersteller von TR90-Sonnenbrillen im Großhandel. Ultraleichte Nylonfassungen (15-20g), Memory-Flexibilität, hypoallergen. Grilamid von EMS-Grivory. OEM/ODM. MOQ 100 Stk.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/de/produkte/tr90',
+    url: 'https://eyeviewsunglasses.com/de/produkte/tr90/',
     locale: 'de_DE',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/de/produkte/tr90',
+    canonical: 'https://eyeviewsunglasses.com/de/produkte/tr90/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/tr90',
       'de': 'https://eyeviewsunglasses.com/de/produkte/tr90',
@@ -104,9 +104,9 @@ export default function TR90Page() {
         maxPrice: '11.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de' },
-        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte' },
-        { name: 'TR90 Sonnenbrillen', url: 'https://eyeviewsunglasses.com/de/produkte/tr90' }
+        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de/' },
+        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte/' },
+        { name: 'TR90 Sonnenbrillen', url: 'https://eyeviewsunglasses.com/de/produkte/tr90/' }
       ]} />
       <FAQPageSchema faqs={tr90Faqs} />
 

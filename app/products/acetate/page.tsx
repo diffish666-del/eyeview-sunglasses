@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Acetate Sunglasses Manufacturer | Handcrafted Acetate Eyewear Factory - EyeView',
     description: 'Custom acetate sunglasses manufacturer. Italian Mazzucchelli & premium Chinese acetate. Hand-polished, 200+ colors. MOQ 100pcs. Factory direct.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/products/acetate',
+    url: 'https://eyeviewsunglasses.com/products/acetate/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/products/acetate',
+    canonical: 'https://eyeviewsunglasses.com/products/acetate/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/acetate',
       'es': 'https://eyeviewsunglasses.com/es/productos/acetato',
@@ -100,12 +100,14 @@ export default function AcetatePage() {
         name: 'Custom Acetate Sunglasses',
         description: 'Handcrafted acetate sunglasses manufactured with Italian Mazzucchelli and premium Chinese acetate. CNC cut, barrel tumbled, hand polished. 200+ colors and patterns. Full OEM customization.',
         minPrice: '6.00',
-        maxPrice: '16.00'
+        maxPrice: '16.00',
+        category: 'Acetate Sunglasses',
+        material: 'Acetate (Cellulose Acetate)'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Home', url: 'https://eyeviewsunglasses.com' },
-        { name: 'Products', url: 'https://eyeviewsunglasses.com/products' },
-        { name: 'Acetate Sunglasses', url: 'https://eyeviewsunglasses.com/products/acetate' }
+        { name: 'Products', url: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Acetate Sunglasses', url: 'https://eyeviewsunglasses.com/products/acetate/' }
       ]} />
       <FAQPageSchema faqs={acetateFaqs} />
 

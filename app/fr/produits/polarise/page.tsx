@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Fabricant de lunettes de soleil polarisées en gros. Verres polarisés TAC premium 7 couches, 99 % de réduction de l\'éblouissement, protection UV400. Styles conduite, pêche, sport. MOQ 100 pcs. Direct usine.',
   keywords: 'lunettes polarisées en gros, verres polarisés TAC, fabricant lunettes polarisées, lunettes anti-éblouissement, lunettes polarisées conduite, lunettes polarisées pêche, verres polarisés CR-39 en gros',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/polarise',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/polarise/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/polarized',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/polarise',

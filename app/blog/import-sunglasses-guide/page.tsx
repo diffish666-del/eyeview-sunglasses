@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'How to Import Sunglasses from China: Complete 2026 Guide',
@@ -67,6 +68,16 @@ export default function ImportSunglassesGuidePage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'US import duty on non-prescription sunglasses (HTS 9004.10) is 2% standard; EU charges 2.9%; Australia charges 5% — always verify current rates with USITC or a customs broker before shipping',
+          'Total timeline from first contact to product in hand: 60–120 days — factory selection + sampling (15–30 days), production (20–45 days), shipping via air (5–7 days) or sea (25–35 days), plus 3–7 days customs clearance',
+          'Factory sourcing channels ranked: Alibaba with Verified Manufacturer + Gold Supplier (5+ years), Canton Fair (Guangzhou), SILMO (Paris), Vision Expo (US), and direct referrals from other brand owners',
+          'Order 3–5 physical samples from different factories before committing — a $50–150 sample investment prevents $3,000+ inventory disasters',
+          'Quality control non-negotiable: request pre-shipment inspection photos or hire third-party inspection (SGS/Bureau Veritas) at $200–400 per inspection — catches issues before shipping costs are locked in',
+          'Shipping cost breakdown: air freight $3–8/kg (5–7 days) for smaller orders, sea freight $0.50–2/kg (25–35 days) for large orders — at 500 pairs, DHL Express is usually the sweet spot',
+        ]} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
             <span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Sourcing</span>

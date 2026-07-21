@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     title: 'Lunettes de Soleil Aviateur en Gros | Fabricant OEM - EyeView',
     description: 'Fabricant leader de lunettes de soleil aviateur en gros. Logo personnalisé, montures métalliques, verres UV400/polarisés. MOQ 100 pcs. Prix direct usine.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/fr/produits/aviateur',
+    url: 'https://eyeviewsunglasses.com/fr/produits/aviateur/',
     locale: 'fr_FR',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/aviateur',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/aviateur/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/aviator',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/aviateur',
@@ -104,9 +104,9 @@ export default function AviatorPageFr() {
         maxPrice: '22.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr' },
-        { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits' },
-        { name: 'Lunettes Aviateur', url: 'https://eyeviewsunglasses.com/fr/produits/aviateur' }
+        { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr/' },
+        { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits/' },
+        { name: 'Lunettes Aviateur', url: 'https://eyeviewsunglasses.com/fr/produits/aviateur/' }
       ]} />
       <FAQPageSchema faqs={aviatorFaqs} />
 

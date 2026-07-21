@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     title: 'Fabricante de Gafas de Sol TR90 | Fábrica de Gafas Ultraligeras TR90 - EyeView',
     description: 'Fabricante de gafas de sol TR90. Armazones ultraligeros de Grilamid TR90 (15-20g), flexibles, hipoalergénicos. Gafas deportivas e infantiles. MOQ 100 piezas.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/es/productos/tr90',
+    url: 'https://eyeviewsunglasses.com/es/productos/tr90/',
     locale: 'es_ES',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/es/productos/tr90',
+    canonical: 'https://eyeviewsunglasses.com/es/productos/tr90/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/tr90',
       'es': 'https://eyeviewsunglasses.com/es/productos/tr90',
@@ -104,9 +104,9 @@ export default function TR90PageEs() {
         maxPrice: '11.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es' },
-        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos' },
-        { name: 'Gafas de Sol TR90', url: 'https://eyeviewsunglasses.com/es/productos/tr90' }
+        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es/' },
+        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos/' },
+        { name: 'Gafas de Sol TR90', url: 'https://eyeviewsunglasses.com/es/productos/tr90/' }
       ]} />
       <FAQPageSchema faqs={tr90Faqs} />
 

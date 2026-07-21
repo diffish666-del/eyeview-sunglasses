@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways, QuickStats, ProsCons } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'How to Find a Reliable Sunglasses Manufacturer in 2026',
@@ -124,6 +125,17 @@ export default function FindSunglassesManufacturerPage() {
             Cheap hinges that broke within a week. Lenses with visible distortion. The &quot;factory&quot; turned 
             out to be a trading company that sourced from the lowest bidder.
           </p>
+
+          {/* GEO: Key Takeaways */}
+          <KeyTakeaways items={[
+            '5 channels to find manufacturers: Google search, trade shows, Alibaba, industry associations, referrals',
+            '40-50% of Alibaba "manufacturers" are trading companies — verify with video calls and factory address checks',
+            'Top trade shows: MIDO (Milan), Vision Expo (US), Canton Fair (China), SILMO (Paris)',
+            '10-point evaluation checklist: specialization, years in business, certifications, capacity, samples, communication, OEM/ODM capability, client base, QC process, audit willingness',
+            'ODM pricing: $3-8/pair | OEM pricing: $5-15+/pair + $500-3,000 mold fees per style',
+            'Never skip samples — $100-200 in samples is the cheapest insurance in this business',
+            'Standard payment: 30% deposit, 70% before shipment — never pay 100% upfront',
+          ]} />
           <p>
             Marcus found me through a Reddit thread. We fixed his product, rebuilt his line, and he&apos;s now doing 
             well. But that $8,000 lesson didn&apos;t have to happen. And that&apos;s why I&apos;m writing this -- from the 
@@ -216,6 +228,18 @@ export default function FindSunglassesManufacturerPage() {
 
           {/* Trade Shows */}
           <h2 id="trade-shows" className="text-3xl font-bold mt-16 mb-6">Trade Shows Worth Your Plane Ticket</h2>
+
+          {/* GEO: Quick Stats */}
+          <QuickStats stats={[
+            { label: 'MIDO Attendees', value: '50,000+' },
+            { label: 'MIDO Exhibitors', value: '1,200+' },
+            { label: 'ODM Unit Price', value: '$3-8' },
+            { label: 'OEM Unit Price', value: '$5-15+' },
+            { label: 'Production Time (ODM)', value: '15-25 days' },
+            { label: 'Production Time (OEM)', value: '45-90 days' },
+            { label: 'Sample Cost', value: '$20-200' },
+            { label: '3rd Party Inspection', value: '$200-400' },
+          ]} />
           <p>
             I&apos;ve exhibited at trade shows for 15 years. They&apos;re expensive, exhausting, and still the single 
             best way to evaluate manufacturers. You can see product quality in person, read body language, and 
@@ -458,6 +482,24 @@ export default function FindSunglassesManufacturerPage() {
             been negotiated with thousands of times. Here&apos;s what actually moves the needle -- and what 
             doesn&apos;t.
           </p>
+
+          {/* GEO: Pros/Cons */}
+          <ProsCons
+            title="Negotiation Strategies"
+            good={[
+              'Show long-term potential — brands that scale get better pricing',
+              'Get quotes from 3-4 factories — transparent competition keeps pricing honest',
+              'Offer faster payment (50% deposit) — can unlock 3-5% price reduction',
+              'Increase volume per style — single-style quantity yields better unit price',
+              'Be a good client — clear communication earns priority production slots',
+            ]}
+            bad={[
+              'Claiming competitor quoted 50% less — obviously false, damages credibility',
+              'Haggling over $0.20/unit on small orders — saved $40 isn\'t worth lost goodwill',
+              'Threatening to go elsewhere — factories hear this weekly, no leverage',
+              'Asking for free samples, molds, design — costs are built in elsewhere',
+            ]}
+          />
 
           <h3 className="text-2xl font-bold mt-8 mb-4">What Works ✅</h3>
           <ul>

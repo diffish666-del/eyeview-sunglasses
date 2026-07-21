@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Fabricante de óculos de sol redondos no atacado. Armações circulares vintage em metal e acetato. Estilo retrô John Lennon, opções pequenas e oversized. MOQ 100 pçs. OEM/ODM direto de fábrica.',
   keywords: 'óculos de sol redondos no atacado, fabricante óculos circulares, armações redondas vintage, óculos retrô no atacado, óculos John Lennon, armações redondas metal, óculos redondos acetato atacado',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/pt/produtos/redondo',
+    canonical: 'https://eyeviewsunglasses.com/pt/produtos/redondo/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/round',
       'pt': 'https://eyeviewsunglasses.com/pt/produtos/redondo',

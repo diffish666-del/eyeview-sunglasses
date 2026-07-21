@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Hersteller von runden Sonnenbrillen im Großhandel. Vintage-Retro-Fassungen in Metall und Acetat. John-Lennon-Stil bis Oversize. OEM/ODM. MOQ 100 Stk. Fabrikpreise.',
   keywords: 'Runde Sonnenbrillen Großhandel, Retro Brillen Hersteller, Vintage Sonnenbrillen, runde Fassungen Großhandel, Brillen Hersteller',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/de/produkte/rund',
+    canonical: 'https://eyeviewsunglasses.com/de/produkte/rund/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/round',
       'de': 'https://eyeviewsunglasses.com/de/produkte/rund',

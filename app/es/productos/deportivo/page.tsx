@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Fabricante de gafas de sol deportivas al por mayor. Lentes polarizadas TAC, monturas TR90, diseño envolvente para ciclismo, running, pesca, golf, esquí y béisbol. MOQ 100 uds. OEM/ODM disponible.',
   keywords: 'gafas de sol deportivas al por mayor, gafas deportivas polarizadas, fabricante gafas deportivas, gafas ciclismo al por mayor, gafas running, gafas pesca mayorista, monturas deportivas TR90, gafas envolventes OEM',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/es/productos/deportivo',
+    canonical: 'https://eyeviewsunglasses.com/es/productos/deportivo/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/sport',
       'es': 'https://eyeviewsunglasses.com/es/productos/deportivo',

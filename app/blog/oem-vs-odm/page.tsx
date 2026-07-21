@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'OEM vs ODM Sunglasses: What\'s the Difference? Complete Guide',
@@ -19,7 +20,7 @@ export default function OemVsOdmPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'OEM vs ODM Sunglasses: What's the Difference? Complete Guide' }]} />
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: "OEM vs ODM Sunglasses: What's the Difference? Complete Guide" }]} />
       </div>
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
@@ -69,6 +70,16 @@ export default function OemVsOdmPage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'ODM (pick existing design, add logo): $3–8/unit, MOQ 100–300 pieces, 20–45 day turnaround, no mold fees — the recommended starting point for new brands',
+          'OEM (custom design from scratch): $5–15+/unit, MOQ 300–1,000+ pieces, 45–90 day turnaround, $500–3,000 mold fees per style — for established brands with proven demand',
+          'At 5,000+ units, OEM can actually be cheaper per pair than ODM because custom tooling costs are fully amortized across a large production run',
+          'ODM lets you test the market with 2–3 styles at $2,000–5,000 total investment — use first 2–3 orders to learn what sells before investing in custom OEM designs',
+          'About 40% of long-term OEM clients started with ODM — proved their market, then reinvested profits into unique custom designs',
+          'OEM advantages beyond uniqueness: you own the mold (preventing copycats), can optimize for your brand\'s fit and comfort specs, and build genuine brand equity',
+        ]} />
         {/* Article Header */}
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">

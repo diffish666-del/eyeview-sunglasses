@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Quality Control: Factory Inspection Checklist',
@@ -62,6 +63,16 @@ export default function SunglassesQualityControlPage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'AQL 2.5 for major defects (lens distortion, broken hinges), AQL 4.0 for minor defects (small scratches, slight color variation) — for a 1,000-pair batch, inspect ~80 randomly selected pairs',
+          'Top 10 defects: lens distortion, uneven hinge tension, frame asymmetry, scratches, color inconsistency, logo misalignment, loose screws, nose pad issues, poor polishing, and incorrect lens tint',
+          'Six-point factory QC test: UV spectrometer (99.9%+ blocking), 16g steel ball impact from 1.27m, 10,000 hinge cycles, dimensional check with digital calipers, lens clarity under 500-lux light, frame alignment on granite surface',
+          'Third-party inspection (SGS, Bureau Veritas, QIMA) costs $200–400 per inspection — catches issues before shipping costs are locked in, saving 10–50x the inspection cost in prevented returns',
+          'Hold each pair up to printed text — any waviness or distortion means poor optical quality; the simplest DIY QC test takes 3 seconds and catches the most common defect',
+          'Insist on pre-shipment photos of your exact batch (not catalog photos) and AQL inspection reports before releasing final payment — this alone eliminates 90% of post-delivery surprises',
+        ]} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
             <span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Manufacturing</span>

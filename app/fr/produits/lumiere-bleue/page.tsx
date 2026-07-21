@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Fabricant de lunettes anti lumière bleue en gros. Lunettes ordinateur, lunettes gaming pour soulager la fatigue visuelle numérique. Options verres clairs et ambrés. MOQ 100 pcs. OEM/ODM direct usine.',
   keywords: 'lunettes lumière bleue en gros, fabricant lunettes ordinateur, lunettes gaming en gros, lunettes anti lumière bleue, lunettes protection écran, lunettes fatigue visuelle numérique',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/lumiere-bleue',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/lumiere-bleue/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/blue-light',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/lumiere-bleue',

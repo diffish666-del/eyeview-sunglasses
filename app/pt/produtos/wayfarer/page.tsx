@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Óculos de Sol Wayfarer no Atacado | Fabricante OEM - EyeView',
     description: 'Fabricante de óculos de sol wayfarer no atacado. Armações premium de acetato, logo personalizado, lentes UV400/polarizadas. MOQ 100 pçs. Direto de fábrica.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/pt/produtos/wayfarer',
+    url: 'https://eyeviewsunglasses.com/pt/produtos/wayfarer/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/pt/produtos/wayfarer',
+    canonical: 'https://eyeviewsunglasses.com/pt/produtos/wayfarer/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/wayfarer',
       'pt': 'https://eyeviewsunglasses.com/pt/produtos/wayfarer',
@@ -99,9 +99,9 @@ export default function WayfarerPagePt() {
         maxPrice: '11.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Início', url: 'https://eyeviewsunglasses.com/pt' },
-        { name: 'Produtos', url: 'https://eyeviewsunglasses.com/pt/produtos' },
-        { name: 'Óculos Wayfarer', url: 'https://eyeviewsunglasses.com/pt/produtos/wayfarer' }
+        { name: 'Início', url: 'https://eyeviewsunglasses.com/pt/' },
+        { name: 'Produtos', url: 'https://eyeviewsunglasses.com/pt/produtos/' },
+        { name: 'Óculos Wayfarer', url: 'https://eyeviewsunglasses.com/pt/produtos/wayfarer/' }
       ]} />
       <FAQPageSchema faqs={wayfarerFaqs} />
 

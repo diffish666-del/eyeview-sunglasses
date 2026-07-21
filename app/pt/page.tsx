@@ -13,10 +13,10 @@ export const metadata: Metadata = {
     description: 'EyeView é um fabricante líder de óculos de sol no atacado com serviços OEM e ODM. Mais de 15 anos de experiência, mais de 500 clientes globais.',
     type: 'website',
     locale: 'pt_BR',
-    url: 'https://eyeviewsunglasses.com/pt',
+    url: 'https://eyeviewsunglasses.com/pt/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/pt',
+    canonical: 'https://eyeviewsunglasses.com/pt/',
     languages: {
       'en': 'https://eyeviewsunglasses.com',
       'pt': 'https://eyeviewsunglasses.com/pt',

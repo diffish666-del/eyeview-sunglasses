@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: 'Fabricante de óculos de sol olho de gato no atacado. Óculos olho de gato femininos em acetato, metal e materiais mistos. Cores tendência, OEM/ODM. MOQ 100 pçs. Direto de fábrica.',
   keywords: 'óculos de sol olho de gato no atacado, fabricante de óculos olho de gato, óculos femininos no atacado, armações olho de gato, óculos de sol no atacado, fabricante de óculos, óculos olho de gato acetato, óculos retro vintage',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/pt/produtos/olho-de-gato',
+    canonical: 'https://eyeviewsunglasses.com/pt/produtos/olho-de-gato/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/cat-eye',
       'pt': 'https://eyeviewsunglasses.com/pt/produtos/olho-de-gato',
@@ -93,9 +93,9 @@ export default function OlhoDeGatoPagePt() {
         maxPrice: '15.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Início', url: 'https://eyeviewsunglasses.com/pt' },
-        { name: 'Produtos', url: 'https://eyeviewsunglasses.com/pt/produtos' },
-        { name: 'Óculos Olho de Gato', url: 'https://eyeviewsunglasses.com/pt/produtos/olho-de-gato' }
+        { name: 'Início', url: 'https://eyeviewsunglasses.com/pt/' },
+        { name: 'Produtos', url: 'https://eyeviewsunglasses.com/pt/produtos/' },
+        { name: 'Óculos Olho de Gato', url: 'https://eyeviewsunglasses.com/pt/produtos/olho-de-gato/' }
       ]} />
       <FAQPageSchema faqs={catEyeFaqs} />
 

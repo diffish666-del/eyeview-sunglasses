@@ -211,6 +211,16 @@ const posts = [
     featured: false,
   },
   {
+    slug: 'sunglasses-lens-technology-guide',
+    title: 'Sunglasses Lens Technology Guide: UV400 vs Polarized vs Photochromic (2026)',
+    excerpt: 'UV400 = health, polarized = comfort, photochromic = convenience. The car windshield gotcha nobody explains. Factory breakdown of every lens type, what they actually do, and which one you need.',
+    date: 'July 17, 2026',
+    category: 'Technology',
+    readTime: '13 min read',
+    emoji: '🔬',
+    featured: true,
+  },
+  {
     slug: 'oem-vs-odm',
     title: 'OEM vs ODM Sunglasses: What\'s the Difference? Complete Guide',
     excerpt: 'After 3,000 conversations about OEM vs ODM, here\'s the honest version -- real costs, real timelines, and a decision framework that actually helps you choose.',
@@ -219,6 +229,16 @@ const posts = [
     readTime: '12 min read',
     emoji: '🏭',
     featured: false,
+  },
+  {
+    slug: 'sell-sunglasses-shopify-amazon',
+    title: 'How to Sell Sunglasses on Shopify vs Amazon: 2026 Guide for Brand Owners',
+    excerpt: 'Amazon gets you sales, Shopify builds you a brand. Real numbers on margins, fees, and launch costs from someone who supplies both channels. Which platform actually makes sense for your sunglasses business.',
+    date: 'July 17, 2026',
+    category: 'Business',
+    readTime: '12 min read',
+    emoji: '🛒',
+    featured: true,
   },
   {
     slug: 'start-sunglasses-brand',

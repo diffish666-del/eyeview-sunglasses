@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     title: 'Fabricant de Lunettes de Soleil en Acétate | Usine de Lunettes Artisanales - EyeView',
     description: 'Fabricant de lunettes de soleil en acétate personnalisées. Acétate italien Mazzucchelli et acétate chinois premium. Polies à la main, plus de 200 couleurs. MOQ 100 pcs. Direct usine.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/fr/produits/acetate',
+    url: 'https://eyeviewsunglasses.com/fr/produits/acetate/',
     locale: 'fr_FR',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/acetate',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/acetate/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/acetate',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/acetate',
@@ -104,9 +104,9 @@ export default function AcetatePageFr() {
         maxPrice: '16.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr' },
-        { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits' },
-        { name: 'Lunettes en Acétate', url: 'https://eyeviewsunglasses.com/fr/produits/acetate' }
+        { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr/' },
+        { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits/' },
+        { name: 'Lunettes en Acétate', url: 'https://eyeviewsunglasses.com/fr/produits/acetate/' }
       ]} />
       <FAQPageSchema faqs={acetateFaqs} />
 

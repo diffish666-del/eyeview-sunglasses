@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Fabricant de lunettes de soleil œil de chat en gros. Lunettes cat eye femme en acétate, métal et matériaux mixtes. Couleurs tendance, OEM/ODM. MOQ 100 pcs. Direct usine.',
   keywords: 'lunettes œil de chat en gros, fabricant lunettes cat eye, lunettes femme en gros, montures œil de chat, lunettes cat eye acétate, lunettes rétro vintage',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/oeil-de-chat',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/oeil-de-chat/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/cat-eye',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/oeil-de-chat',

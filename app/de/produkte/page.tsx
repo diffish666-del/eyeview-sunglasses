@@ -139,8 +139,8 @@ export default function ProductsPageDe() {
   return (
     <>
       <BreadcrumbListSchema items={[
-        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de' },
-        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte' },
+        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de/' },
+        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte/' },
       ]} />
 
       <Breadcrumb items={[

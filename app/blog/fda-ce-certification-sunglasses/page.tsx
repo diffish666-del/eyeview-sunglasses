@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'FDA & CE Certification for Sunglasses: Complete Compliance Guide',
@@ -67,6 +68,16 @@ export default function FdaCeCertificationPage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Sunglasses are FDA Class I medical devices (21 CFR 886.5850) — manufacturers must register their establishment and list products, but no pre-market approval is needed',
+          'CE marking requires compliance with EN ISO 12312-1, covering UV protection, optical quality, and mechanical strength — mandatory for all EU/EEA/UK sales',
+          'UV400 certification is the global baseline: block 99-100% of UVA/UVB up to 400nm — Australia\'s AS/NZS 1067 is the strictest standard worldwide',
+          'Basic UV400 testing costs $100–300 per style, full compliance testing with impact and optical checks runs $300–800 per style — most reputable factories include it in production costs',
+          'FDA requires impact resistance testing per 21 CFR 801.410 — a ⅝-inch steel ball dropped from 50 inches onto the lens with no fracture allowed',
+          'Common compliance mistakes: missing Declaration of Conformity for CE, using \'UV400\' label without spectrometer data, and importing without HS code 9004.10 classification',
+        ]} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
             <span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Compliance</span>

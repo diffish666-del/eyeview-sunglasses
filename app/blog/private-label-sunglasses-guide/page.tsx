@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Private Label Sunglasses: How to Actually Launch Your Own Brand (2026)',
@@ -31,6 +32,16 @@ export default function PrivateLabelGuide() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Launch budget: $2,000–8,000 total for 200–500 branded pairs at $4–12/pair — this is 60–80% less than the $8,000–25,000 needed for full custom OEM production',
+          'Logo setup costs just $100–300 for a mold insert — that single investment brands every pair you order from that mold forever',
+          'From first contact to branded inventory in hand: 5–7 weeks — Week 1–2 product selection and logo design, Week 2–3 sample approval, Week 3–5 bulk production, Week 5–6 DHL express shipping',
+          'Most brands that fail at launch made the same mistake: designing what they liked instead of what the market wanted — start with proven ODM styles, not custom designs',
+          'Packaging completes the brand: budget $300–800 for branded boxes, cases, pouches, and cleaning cloths across your first 200–500 pairs',
+          'Pick 3–5 styles for your first collection — enough variety to look like a real brand, not so many that inventory gets fragmented and hard to manage',
+        ]} />
         <header className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Private Label Sunglasses: How to Actually Launch Your Own Brand</h1>
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Brand Building</span><span>July 11, 2026</span><span>•</span><span>6 min read</span></div>

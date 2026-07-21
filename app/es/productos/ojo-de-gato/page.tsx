@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: 'Fabricante de gafas de sol ojo de gato al por mayor. Gafas cat eye para mujer en acetato, metal y materiales mixtos. Colores de tendencia, OEM/ODM. MOQ 100 uds. Directo de fábrica.',
   keywords: 'gafas de sol ojo de gato al por mayor, fabricante de gafas cat eye, gafas de mujer al por mayor, monturas ojo de gato, gafas de sol al por mayor, fabricante de gafas, gafas cat eye acetato, gafas retro vintage',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato',
+    canonical: 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/cat-eye',
       'es': 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato',
@@ -93,9 +93,9 @@ export default function OjoDeGatoPage() {
         maxPrice: '15.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es' },
-        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos' },
-        { name: 'Gafas Ojo de Gato', url: 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato' }
+        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es/' },
+        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos/' },
+        { name: 'Gafas Ojo de Gato', url: 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato/' }
       ]} />
       <FAQPageSchema faqs={catEyeFaqs} />
 

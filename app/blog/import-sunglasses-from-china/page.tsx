@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'How to Import Sunglasses from China: What I Tell Every New Client (2026)',
@@ -32,6 +33,16 @@ export default function ImportSunglassesGuide() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'A typical first order of 500 pairs costs $2,000–5,000 total landed: $3–12/pair manufacturing, $0.50–2.00/pair DHL Express shipping, and 0–10% customs duties depending on destination country',
+          'DHL Express delivers in 3–5 business days door-to-door with customs paperwork handled — ideal for first-time importers; sea freight (20–35 days) only makes sense for 10,000+ pairs',
+          'Know your 4 specs before contacting any factory: frame style (aviator vs wayfarer), material (plastic vs acetate vs metal), lens type (UV400 vs polarized), and target retail price',
+          'Gril TR90 (Swiss origin) vs generic TR90 matters — the Swiss material has better flexibility, color consistency, and less risk of frame deformation over time',
+          'Payment terms: standard is 30% deposit to start production, 70% before shipping — never pay 100% upfront; use Trade Assurance on Alibaba or a letter of credit for first orders',
+          'Common first-time mistakes: chasing the lowest price (counterfeit frames, non-UV400 lenses, weak hinges), skipping physical samples, and not budgeting for duties and shipping',
+        ]} />
         <header className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">How to Import Sunglasses from China: What I Tell Every New Client</h1>
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Import & Logistics</span><span>July 11, 2026</span><span>•</span><span>8 min read</span></div>

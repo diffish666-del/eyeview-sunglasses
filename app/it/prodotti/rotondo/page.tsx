@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: `Produttore di occhiali rotondi all'ingrosso. Montature circolari vintage in metallo e acetato. Stile retro John Lennon, opzioni piccole e oversize. MOQ 100 pezzi.`,
   keywords: `occhiali rotondi ingrosso, produttore montature circolari, occhiali vintage rotondi, occhiali retro ingrosso`,
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/it/prodotti/rotondo',
+    canonical: 'https://eyeviewsunglasses.com/it/prodotti/rotondo/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/round',
       'it': 'https://eyeviewsunglasses.com/it/prodotti/rotondo',

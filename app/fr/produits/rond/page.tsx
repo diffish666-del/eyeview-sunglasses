@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Fabricant de lunettes de soleil rondes en gros. Montures circulaires vintage en métal et acétate. Style rétro John Lennon, options petites et oversize. MOQ 100 pcs. OEM/ODM direct usine.',
   keywords: 'lunettes rondes en gros, fabricant lunettes circulaires, montures rondes vintage, lunettes rétro en gros, lunettes John Lennon, montures rondes métal, lunettes rondes acétate en gros',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/rond',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/rond/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/round',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/rond',

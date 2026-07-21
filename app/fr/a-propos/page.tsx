@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'EyeView Sunglasses est un fabricant leader de lunettes de soleil OEM/ODM fond\u00e9 en 2006. Plus de 500 clients de marques dans plus de 50 pays. Certifi\u00e9 CE, FDA, ISO 9001. Prix direct usine.',
   keywords: 'fabricant lunettes de soleil, usine lunetterie, entreprise lunettes OEM, fournisseur lunettes Chine, \u00e0 propos EyeView, fabricant lunettes',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/a-propos',
+    canonical: 'https://eyeviewsunglasses.com/fr/a-propos/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/about',
       'fr': 'https://eyeviewsunglasses.com/fr/a-propos',
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: '\u00c0 Propos d\u2019EyeView | Fabricant de Lunettes de Soleil Depuis 2006',
     description: 'EyeView Sunglasses est un fabricant leader de lunettes de soleil OEM/ODM fond\u00e9 en 2006. Plus de 500 clients de marques dans plus de 50 pays.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/fr/a-propos',
+    url: 'https://eyeviewsunglasses.com/fr/a-propos/',
     locale: 'fr_FR',
   },
 }

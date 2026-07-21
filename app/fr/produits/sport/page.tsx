@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Fabricant de lunettes de soleil sport en gros. Verres polarisés TAC, montures TR90, design enveloppant pour cyclisme, course, pêche, golf, ski et baseball. MOQ 100 pcs. OEM/ODM disponible.',
   keywords: 'lunettes sport en gros, lunettes sport polarisées, fabricant lunettes sport, lunettes cyclisme en gros, lunettes course, lunettes pêche en gros, montures sport TR90, lunettes enveloppantes OEM',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/sport',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/sport/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/sport',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/sport',

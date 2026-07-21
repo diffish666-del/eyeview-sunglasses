@@ -7,10 +7,10 @@ export const metadata: Metadata = {
     title: 'Contact EyeView | Get Free Quote & Samples for Custom Sunglasses',
     description: 'Contact EyeView Sunglasses for a free quote. We respond within 24 hours. WhatsApp: +86-18850281211. Email: sales@eyeviewsunglasses.com. Samples in 3-5 days.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/contact',
+    url: 'https://eyeviewsunglasses.com/contact/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/contact',
+    canonical: 'https://eyeviewsunglasses.com/contact/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/contact',
       'es': 'https://eyeviewsunglasses.com/es/contacto',

@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Wholesale Sunglasses Cases Manufacturer | Custom OEM - EyeView',
     description: 'Leading wholesale sunglass cases manufacturer. Custom logo, EVA/hard/soft/leather materials. MOQ 100pcs. Factory direct pricing.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/products/sunglasses-case',
+    url: 'https://eyeviewsunglasses.com/products/sunglasses-case/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/products/sunglasses-case',
+    canonical: 'https://eyeviewsunglasses.com/products/sunglasses-case/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/sunglasses-case',
       'es': 'https://eyeviewsunglasses.com/es/productos/funda-gafas',
@@ -100,12 +100,14 @@ export default function SunglassCasePage() {
         name: 'Wholesale Sunglasses Cases',
         description: 'Custom sunglass cases and eyewear packaging. Available in EVA hard case, ABS hard case, microfiber pouch, leather case, silicone case, and custom shapes. Full OEM branding with logo printing, embossing, and custom packaging.',
         minPrice: '0.30',
-        maxPrice: '6.00'
+        maxPrice: '6.00',
+        category: 'Sunglasses Cases',
+        material: 'EVA, Leather, Fabric, ABS'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Home', url: 'https://eyeviewsunglasses.com' },
-        { name: 'Products', url: 'https://eyeviewsunglasses.com/products' },
-        { name: 'Sunglasses Cases', url: 'https://eyeviewsunglasses.com/products/sunglasses-case' }
+        { name: 'Products', url: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Sunglasses Cases', url: 'https://eyeviewsunglasses.com/products/sunglasses-case/' }
       ]} />
       <FAQPageSchema faqs={caseFaqs} />
 

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: `Produttore di occhiali con filtro luce blu all'ingrosso. Occhiali computer e gaming per affaticamento visivo digitale. MOQ 100 pezzi.`,
   keywords: `occhiali luce blu ingrosso, produttore occhiali computer, occhiali gaming ingrosso, occhiali protezione schermo`,
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/it/prodotti/luce-blu',
+    canonical: 'https://eyeviewsunglasses.com/it/prodotti/luce-blu/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/blue-light',
       'it': 'https://eyeviewsunglasses.com/it/prodotti/luce-blu',

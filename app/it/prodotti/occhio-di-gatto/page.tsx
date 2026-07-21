@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: `Produttore di occhiali occhio di gatto all'ingrosso. Montature donna in acetato, metallo e materiali misti. Colori di tendenza, OEM/ODM. MOQ 100 pezzi.`,
   keywords: `occhiali occhio di gatto ingrosso, produttore cat eye, occhiali donna ingrosso, montature cat eye acetato`,
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/it/prodotti/occhio-di-gatto',
+    canonical: 'https://eyeviewsunglasses.com/it/prodotti/occhio-di-gatto/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/cat-eye',
       'it': 'https://eyeviewsunglasses.com/it/prodotti/occhio-di-gatto',

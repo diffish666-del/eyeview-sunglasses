@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Coating Guide: Mirror, Anti-Reflective, Hydrophobic & More',
@@ -62,6 +63,16 @@ export default function SunglassesCoatingGuidePage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Seven main coating types: mirror/flash ($0.60–3.00), anti-reflective ($0.60–1.50), hydrophobic ($0.20–0.50), oleophobic ($0.30–0.60), anti-fog ($0.40–0.80), hard coat ($0.15), and blue light filter ($0.50–1.20) — a full premium stack adds $2.50–5.00/pair',
+          'Standard layering order from lens surface outward: hard coat → AR → mirror (optional) → hydrophobic → oleophobic as outermost layers — anti-fog goes on the inner surface',
+          'The one combination that does not work: full mirror coat stacked with AR on the same side — the mirror already handles reflection; AR is for the back surface',
+          'Coating longevity varies: hard coat lasts the lens lifetime, AR lasts 2–3 years, mirror coatings 1–3 years, and hydrophobic/oleophobic wear fastest at 1–2 years since they\'re the outermost layer',
+          'Sport sunglasses ideal stack: hard coat + AR back surface + hydrophobic both sides + oleophobic outer + anti-fog inner — adds ~$3.00–4.50/pair at production scale',
+          'Trick to test coating quality: breathe on the lens — if fog lingers more than 2–3 seconds, the anti-fog coating is absent or low quality; water should bead and roll off immediately with hydrophobic coating',
+        ]} />
         {/* Article Header */}
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">

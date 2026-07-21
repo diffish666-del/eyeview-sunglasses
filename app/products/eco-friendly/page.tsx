@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Eco-Friendly Sunglasses Manufacturer | Sustainable Eyewear Wholesale - EyeView',
     description: 'Sustainable sunglasses manufacturer. Recycled ocean plastic, bamboo, bio-acetate frames. MOQ 200pcs. Factory direct pricing with green certifications.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/products/eco-friendly',
+    url: 'https://eyeviewsunglasses.com/products/eco-friendly/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/products/eco-friendly',
+    canonical: 'https://eyeviewsunglasses.com/products/eco-friendly/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/eco-friendly',
       'es': 'https://eyeviewsunglasses.com/es/productos/ecologico',
@@ -100,12 +100,14 @@ export default function EcoFriendlyPage() {
         name: 'Eco-Friendly Sustainable Sunglasses',
         description: 'Sustainable sunglasses made from recycled ocean plastic, bamboo, bio-acetate, and recycled aluminum. UV400 protection, full OEM customization. Green certifications available.',
         minPrice: '4.50',
-        maxPrice: '15.00'
+        maxPrice: '15.00',
+        category: 'Eco-Friendly Sunglasses',
+        material: 'Recycled Ocean Plastic, Bamboo, Bio-Acetate'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Home', url: 'https://eyeviewsunglasses.com' },
-        { name: 'Products', url: 'https://eyeviewsunglasses.com/products' },
-        { name: 'Eco-Friendly Sunglasses', url: 'https://eyeviewsunglasses.com/products/eco-friendly' }
+        { name: 'Products', url: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Eco-Friendly Sunglasses', url: 'https://eyeviewsunglasses.com/products/eco-friendly/' }
       ]} />
       <FAQPageSchema faqs={ecoFaqs} />
 

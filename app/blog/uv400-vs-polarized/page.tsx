@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'UV400 vs Polarized Sunglasses: What\'s the Difference and Do You Need Both?',
@@ -12,7 +13,7 @@ export default function Uv400VsPolarizedPage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'UV400 vs Polarized Sunglasses: What's the Difference and Do You Need Both?' }]} />
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: "UV400 vs Polarized Sunglasses: What's the Difference and Do You Need Both?" }]} />
       </div>
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
@@ -62,6 +63,16 @@ export default function Uv400VsPolarizedPage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'UV400 and polarization solve completely different problems: UV400 blocks harmful radiation (health protection), polarization reduces reflective glare (visual comfort) — they are not interchangeable',
+          'Polarized without UV400 is actually dangerous: darkened lenses dilate your pupils, letting in MORE UV radiation if UV protection is not present — every pair needs UV400 regardless',
+          'Factory wholesale cost: basic UV400 lenses $1.50–2.00/pair, polarized TAC $3–5/pair, polarized CR-39 (optical-grade) $5–8/pair — polarized adds $1.50–6 per pair at wholesale',
+          'For a brand retailing at $79+, the $3–5 upgrade to polarized TAC is a no-brainer — customers expect it and you can charge 30–60% more at retail',
+          'When polarized is worth it: driving, fishing, water sports, skiing, golf — any glare-heavy activity; UV400-only is fine for fashion/casual wear, frequent screen users, and budget lines',
+          'A $20 pair with proper UV400 protects your eyes exactly as well as a $200 polarized pair — according to WHO and FDA, UV protection (not polarization) is the critical safety standard',
+        ]} />
         {/* Article Header */}
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">

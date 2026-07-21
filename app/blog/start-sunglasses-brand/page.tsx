@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'How to Start a Sunglasses Brand: Complete 2026 Guide',
@@ -69,6 +70,16 @@ export default function StartSunglassesBrandPage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Step 1 market research: global eyewear market projected at $55B by 2027 — find a specific niche (eco-friendly, sport, luxury, fashion, kids, blue light) before ordering inventory',
+          'ODM is the smarter first step for new brands: 100–200 pieces MOQ, 3–7 day sample turnaround, established designs with proven quality — test demand before investing in custom OEM molds',
+          'Typical cost structure per unit: manufacturing $8–15, shipping and duties $2–4, packaging $1–2 — landed cost $11–21 per pair, retail at $49–129 for 60–80% gross margins',
+          'Manufacturer vetting: verify certifications (CE, FDA, ISO 9001, UV400), request client references, order physical samples, and check communication responsiveness and warranty terms',
+          'Production timeline: sample approval 1 week, production 15–25 days, QC inspection 2–3 days, shipping 5–10 days express or 30–40 days sea — total 6–8 weeks door-to-door',
+          'Launch checklist essentials: professional product photography, Shopify/WooCommerce store, social media accounts populated, pre-launch email list, and influencer partnerships in your niche',
+        ]} />
         {/* Article Header */}
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">

@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     title: 'Fabricante de Óculos de Sol TR90 | Fábrica de Óculos Ultraleves TR90 - EyeView',
     description: 'Fabricante de óculos de sol TR90. Armações ultraleves de Grilamid TR90 (15-20g), flexíveis, hipoalergênicos. Óculos esportivos e infantis. MOQ 100 peças.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/pt/produtos/tr90',
+    url: 'https://eyeviewsunglasses.com/pt/produtos/tr90/',
     locale: 'pt_BR',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/pt/produtos/tr90',
+    canonical: 'https://eyeviewsunglasses.com/pt/produtos/tr90/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/tr90',
       'pt': 'https://eyeviewsunglasses.com/pt/produtos/tr90',
@@ -104,9 +104,9 @@ export default function TR90PagePt() {
         maxPrice: '11.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Início', url: 'https://eyeviewsunglasses.com/pt' },
-        { name: 'Produtos', url: 'https://eyeviewsunglasses.com/pt/produtos' },
-        { name: 'Óculos de Sol TR90', url: 'https://eyeviewsunglasses.com/pt/produtos/tr90' }
+        { name: 'Início', url: 'https://eyeviewsunglasses.com/pt/' },
+        { name: 'Produtos', url: 'https://eyeviewsunglasses.com/pt/produtos/' },
+        { name: 'Óculos de Sol TR90', url: 'https://eyeviewsunglasses.com/pt/produtos/tr90/' }
       ]} />
       <FAQPageSchema faqs={tr90Faqs} />
 

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: 'Certified sunglasses manufacturer with FDA, CE, ISO 9001, UV400, and ANSI Z80.3 certifications. Read what 500+ global clients say about EyeView quality and service.',
   keywords: 'sunglasses manufacturer certification, FDA certified sunglasses, CE certified eyewear, ISO 9001 sunglasses factory, sunglasses quality control, eyewear manufacturer reviews',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/trust',
+    canonical: 'https://eyeviewsunglasses.com/trust/',
   },
 };
 

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: 'Wholesale cat eye sunglasses manufacturer. Women\'s cat eye sunglasses wholesale in acetate, metal & mixed materials. Trendy colors, OEM/ODM. MOQ 100pcs. Factory direct.',
   keywords: 'wholesale cat eye sunglasses, cat eye sunglasses manufacturer, women cat eye sunglasses wholesale, cat eye frames wholesale, fashion cat eye eyewear, acetate cat eye sunglasses, vintage cat eye glasses',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/products/cat-eye',
+    canonical: 'https://eyeviewsunglasses.com/products/cat-eye/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/cat-eye',
       'es': 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato',
@@ -71,6 +71,8 @@ export default function CatEyePage() {
         maxPrice: '15.00',
         currency: 'USD',
         moq: '100 pcs',
+        category: 'Cat Eye Sunglasses',
+        material: 'Acetate, Metal'
       }} />
 
       {/* BreadcrumbList Schema */}

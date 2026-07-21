@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Gafas de Sol Wayfarer al por Mayor | Fabricante OEM - EyeView',
     description: 'Fabricante de gafas de sol wayfarer al por mayor. Monturas premium de acetato, logo personalizado, lentes UV400/polarizadas. MOQ 100 uds. Directo de fábrica.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/es/productos/wayfarer',
+    url: 'https://eyeviewsunglasses.com/es/productos/wayfarer/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/es/productos/wayfarer',
+    canonical: 'https://eyeviewsunglasses.com/es/productos/wayfarer/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/wayfarer',
       'es': 'https://eyeviewsunglasses.com/es/productos/wayfarer',
@@ -99,9 +99,9 @@ export default function WayfarerPage() {
         maxPrice: '11.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es' },
-        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos' },
-        { name: 'Gafas Wayfarer', url: 'https://eyeviewsunglasses.com/es/productos/wayfarer' }
+        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es/' },
+        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos/' },
+        { name: 'Gafas Wayfarer', url: 'https://eyeviewsunglasses.com/es/productos/wayfarer/' }
       ]} />
       <FAQPageSchema faqs={wayfarerFaqs} />
 

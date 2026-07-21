@@ -5,7 +5,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import GoogleAnalytics from '@/components/GoogleAnalytics';
 
-const inter = Inter({ subsets: ['latin'] });
+const inter = Inter({ subsets: ['latin'], display: 'swap' });
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://eyeviewsunglasses.com'),
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     follow: true,
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com',
+    canonical: 'https://eyeviewsunglasses.com/',
     languages: {
       'en': 'https://eyeviewsunglasses.com',
       'es': 'https://eyeviewsunglasses.com/es',
@@ -74,6 +74,23 @@ const organizationJsonLd = {
     telephone: '+86-18850281211',
     contactType: 'sales',
     availableLanguage: ['English', 'Chinese'],
+  },
+};
+
+const webSiteJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'EyeView Sunglasses',
+  url: 'https://eyeviewsunglasses.com',
+  description: 'Leading wholesale sunglasses manufacturer offering OEM & ODM custom sunglasses with 15+ years of experience.',
+  inLanguage: ['en', 'es', 'fr', 'de', 'pt', 'it'],
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: 'https://eyeviewsunglasses.com/search?q={search_term_string}',
+    },
+    'query-input': 'required name=search_term_string',
   },
 };
 
@@ -166,6 +183,10 @@ export default function RootLayout({
         <link rel="preconnect" href="https://www.google-analytics.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <style dangerouslySetInnerHTML={{ __html: criticalCss }} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(webSiteJsonLd) }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}

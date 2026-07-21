@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Prescription Sunglasses Manufacturer | Custom Rx Eyewear Wholesale - EyeView',
     description: 'Prescription sunglasses manufacturer. Single vision, progressive, bifocal Rx lenses. Polarized and photochromic options. MOQ 100pcs. Factory direct pricing.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/products/prescription',
+    url: 'https://eyeviewsunglasses.com/products/prescription/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/products/prescription',
+    canonical: 'https://eyeviewsunglasses.com/products/prescription/',
   },
 }
 
@@ -96,12 +96,14 @@ export default function PrescriptionSunglassesPage() {
         name: 'Prescription Sunglasses',
         description: 'Custom prescription sunglasses manufactured to your exact Rx. Single vision, progressive, polarized, and photochromic options. UV400 protection, full OEM customization.',
         minPrice: '2.00',
-        maxPrice: '28.00'
+        maxPrice: '28.00',
+        category: 'Prescription Sunglasses',
+        material: 'CR-39, Polycarbonate, Glass'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Home', url: 'https://eyeviewsunglasses.com' },
-        { name: 'Products', url: 'https://eyeviewsunglasses.com/products' },
-        { name: 'Prescription Sunglasses', url: 'https://eyeviewsunglasses.com/products/prescription' }
+        { name: 'Products', url: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Prescription Sunglasses', url: 'https://eyeviewsunglasses.com/products/prescription/' }
       ]} />
       <FAQPageSchema faqs={rxFaqs} />
 

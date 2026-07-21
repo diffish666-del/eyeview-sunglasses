@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     title: 'Fabricant de Lunettes de Soleil TR90 | Usine de Lunettes Ultralégères TR90 - EyeView',
     description: 'Fabricant de lunettes de soleil TR90. Montures ultralégères en Grilamid TR90 (15-20g), flexibles, hypoallergéniques. Lunettes sport et enfants. MOQ 100 pièces.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/fr/produits/tr90',
+    url: 'https://eyeviewsunglasses.com/fr/produits/tr90/',
     locale: 'fr_FR',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/tr90',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/tr90/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/tr90',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/tr90',
@@ -104,9 +104,9 @@ export default function TR90PageFr() {
         maxPrice: '11.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr' },
-        { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits' },
-        { name: 'Lunettes de Soleil TR90', url: 'https://eyeviewsunglasses.com/fr/produits/tr90' }
+        { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr/' },
+        { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits/' },
+        { name: 'Lunettes de Soleil TR90', url: 'https://eyeviewsunglasses.com/fr/produits/tr90/' }
       ]} />
       <FAQPageSchema faqs={tr90Faqs} />
 

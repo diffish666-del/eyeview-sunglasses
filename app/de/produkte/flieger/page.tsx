@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Flieger-Sonnenbrillen Großhandel | OEM Hersteller - EyeView',
     description: 'Führender Hersteller von Flieger-Sonnenbrillen im Großhandel. Individuelles Logo, Metallfassungen, UV400/polarisierte Gläser. MOQ 100 Stk. Fabrikpreise.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/de/produkte/flieger',
+    url: 'https://eyeviewsunglasses.com/de/produkte/flieger/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/de/produkte/flieger',
+    canonical: 'https://eyeviewsunglasses.com/de/produkte/flieger/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/aviator',
       'de': 'https://eyeviewsunglasses.com/de/produkte/flieger',
@@ -103,9 +103,9 @@ export default function FliegerPage() {
         maxPrice: '22.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de' },
-        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte' },
-        { name: 'Flieger-Brillen', url: 'https://eyeviewsunglasses.com/de/produkte/flieger' }
+        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de/' },
+        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte/' },
+        { name: 'Flieger-Brillen', url: 'https://eyeviewsunglasses.com/de/produkte/flieger/' }
       ]} />
       <FAQPageSchema faqs={aviatorFaqs} />
 

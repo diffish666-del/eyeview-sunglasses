@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Lens Types: Complete Buyer\'s Guide for 2026',
@@ -19,7 +20,7 @@ export default function SunglassesLensGuidePage() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'Sunglasses Lens Types: Complete Buyer's Guide for 2026' }]} />
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: "Sunglasses Lens Types: Complete Buyer's Guide for 2026" }]} />
       </div>
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
@@ -69,6 +70,16 @@ export default function SunglassesLensGuidePage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Four main lens materials at factory cost: TAC polarized ($3–5/pair, best value), polycarbonate ($2–4/pair, most impact-resistant), CR-39 ($2.50–6/pair, sharpest optics), glass ($5–15+/pair, premium scratch resistance)',
+          'Lens colors ranked: grey (neutral, reduces brightness without color shift), brown/amber (boosts contrast, ideal for driving), green (classic balanced look), yellow (low-light only), blue/mirror (primarily fashion)',
+          'Polarized lenses add $0.50–6.00/pair at wholesale depending on material — brands can charge 30–60% more at retail, making polarized one of the highest-ROI lens upgrades',
+          'Photochromic (transition) lenses cost $5–10 more per pair at factory — they darken in sunlight and clear indoors, ideal for prescription eyewear and all-day wear brands',
+          'Every pair must have UV400 regardless of other features — UV400 without polarization is fine for safety; polarization without UV400 is actually dangerous (dilated pupils + UV exposure)',
+          'For brand owners launching with only two lens colors: pick grey and brown — they cover 70%+ of customer demand across all face shapes and styles',
+        ]} />
         {/* Article Header */}
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">

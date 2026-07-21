@@ -2,6 +2,8 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 import FAQSection from '@/components/FAQSection';
 import CTASection from '@/components/CTASection';
+import { KeyTakeaways, QuickStats } from '@/components/GEOContent';
+import { ServiceSchema } from '@/components/SchemaMarkup';
 
 export const metadata: Metadata = {
   title: {
@@ -15,7 +17,7 @@ export const metadata: Metadata = {
     url: 'https://eyeviewsunglasses.com',
     images: [
       {
-        url: 'https://eyeviewsunglasses.com/og-image.png',
+        url: 'https://eyeviewsunglasses.com/og-image.png/',
         width: 1200,
         height: 630,
         alt: 'EyeView Sunglasses - Wholesale OEM Custom Sunglasses Manufacturer',
@@ -188,6 +190,11 @@ export default function HomePage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(howToJsonLd) }}
       />
+      <ServiceSchema services={[
+        { name: 'OEM Custom Sunglasses Manufacturing', description: 'Full-service OEM sunglasses production: design sharing, mold making, injection molding, lens cutting, assembly, and quality control. Custom logos, shapes, colors, and materials.', areaServed: ['US', 'GB', 'DE', 'FR', 'ES', 'IT', 'PT', 'AU', 'CA', 'JP', 'KR'] },
+        { name: 'ODM Sunglasses Sourcing', description: 'Choose from 500+ existing designs with your branding. MOQ 50 pieces per style. Fast 15-25 day production turnaround.', areaServed: ['US', 'GB', 'DE', 'FR', 'ES', 'IT', 'PT', 'AU', 'CA', 'JP', 'KR'] },
+        { name: 'Wholesale Bulk Sunglasses Supply', description: 'Bulk sunglasses supply for distributors, retailers, and promotional campaigns. Volume discounts from 500+ pieces. Starting from $1.50/pair.', areaServed: ['US', 'GB', 'DE', 'FR', 'ES', 'IT', 'PT', 'AU', 'CA', 'JP', 'KR'] },
+      ]} />
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-primary-900 via-primary-700 to-primary-600 text-white section-padding">
         <div className="container-custom">
@@ -221,6 +228,22 @@ export default function HomePage() {
                 <div className="text-gray-500 font-medium mt-1">{stat.label}</div>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* GEO: Key Takeaways for AI Search */}
+      <section className="bg-white section-padding">
+        <div className="container-custom">
+          <div className="max-w-3xl mx-auto">
+            <KeyTakeaways items={[
+              'Direct manufacturer — no middlemen or trading companies involved',
+              '15+ years of OEM/ODM experience with 500+ global clients across 60+ countries',
+              'MOQ starts at 50 pieces per style, ideal for new brands and boutique retailers',
+              'Factory-direct pricing from $1.50/pair (promotional) to $20/pair (premium acetate)',
+              'Certified quality: CE, FDA, UV400, ANSI Z80.3, ISO 9001 compliant',
+              'Samples delivered in 5-7 days, bulk orders shipped in 15-25 days',
+            ]} />
           </div>
         </div>
       </section>

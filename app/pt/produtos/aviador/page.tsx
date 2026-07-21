@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Óculos de Sol Aviador no Atacado | Fabricante OEM - EyeView',
     description: 'Fabricante líder de óculos de sol aviador no atacado. Logo personalizado, armações metálicas, lentes UV400/polarizadas. MOQ 100 pçs. Preços de fábrica.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/pt/produtos/aviador',
+    url: 'https://eyeviewsunglasses.com/pt/produtos/aviador/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/pt/produtos/aviador',
+    canonical: 'https://eyeviewsunglasses.com/pt/produtos/aviador/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/aviator',
       'pt': 'https://eyeviewsunglasses.com/pt/produtos/aviador',
@@ -103,9 +103,9 @@ export default function AviadorPagePt() {
         maxPrice: '22.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Início', url: 'https://eyeviewsunglasses.com/pt' },
-        { name: 'Produtos', url: 'https://eyeviewsunglasses.com/pt/produtos' },
-        { name: 'Óculos Aviador', url: 'https://eyeviewsunglasses.com/pt/produtos/aviador' }
+        { name: 'Início', url: 'https://eyeviewsunglasses.com/pt/' },
+        { name: 'Produtos', url: 'https://eyeviewsunglasses.com/pt/produtos/' },
+        { name: 'Óculos Aviador', url: 'https://eyeviewsunglasses.com/pt/produtos/aviador/' }
       ]} />
       <FAQPageSchema faqs={aviatorFaqs} />
 

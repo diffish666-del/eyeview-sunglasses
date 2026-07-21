@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'TR90 Sunglasses Manufacturer | Lightweight TR90 Eyewear Factory - EyeView',
     description: 'TR90 sunglasses manufacturer. Ultra-lightweight Grilamid TR90 frames (15-20g), flexible, hypoallergenic. Sports & kids eyewear. MOQ 100pcs.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/products/tr90',
+    url: 'https://eyeviewsunglasses.com/products/tr90/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/products/tr90',
+    canonical: 'https://eyeviewsunglasses.com/products/tr90/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/tr90',
       'es': 'https://eyeviewsunglasses.com/es/productos/tr90',
@@ -100,12 +100,14 @@ export default function TR90Page() {
         name: 'TR90 Lightweight Sunglasses',
         description: 'Ultra-lightweight TR90 Grilamid sunglasses. 15-20g frames, flexible memory material, hypoallergenic. Sports, kids, and everyday styles. Full OEM customization.',
         minPrice: '3.50',
-        maxPrice: '11.00'
+        maxPrice: '11.00',
+        category: 'TR90 Sunglasses',
+        material: 'TR90 Nylon (Grilamid)'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Home', url: 'https://eyeviewsunglasses.com' },
-        { name: 'Products', url: 'https://eyeviewsunglasses.com/products' },
-        { name: 'TR90 Sunglasses', url: 'https://eyeviewsunglasses.com/products/tr90' }
+        { name: 'Products', url: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'TR90 Sunglasses', url: 'https://eyeviewsunglasses.com/products/tr90/' }
       ]} />
       <FAQPageSchema faqs={tr90Faqs} />
 

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'EyeView Sonnenbrillen erfüllen alle internationalen Sicherheitsstandards. FDA-registriert, CE-zertifiziert, ISO 9001, UV400, ANSI Z80.3-konform. Vollständige Dokumentation verfügbar.',
   keywords: 'Sonnenbrillen Zertifizierungen, FDA Brillen Konformität, CE Zertifizierung Brillen, UV400, ISO 9001 Brillen, ANSI Z80.3, CPSIA Kinderbrillen',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/de/zertifizierungen',
+    canonical: 'https://eyeviewsunglasses.com/de/zertifizierungen/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/certifications',
       'de': 'https://eyeviewsunglasses.com/de/zertifizierungen',
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: 'Sonnenbrillen-Zertifizierungen & Compliance | FDA, CE, ISO 9001, UV400 - EyeView',
     description: 'EyeView Sonnenbrillen erfüllen alle internationalen Sicherheitsstandards. FDA-registriert, CE-zertifiziert, ISO 9001, UV400.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/de/zertifizierungen',
+    url: 'https://eyeviewsunglasses.com/de/zertifizierungen/',
     locale: 'de_DE',
   },
 }

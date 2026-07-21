@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Packaging That Actually Sells: What I Tell Every Brand',
@@ -23,6 +24,16 @@ export default function PackagingIdeasPage() {
           "mainEntityOfPage": { "@type": "WebPage", "@id": "https://eyeviewsunglasses.com/blog/custom-sunglasses-packaging-ideas" }
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Two identical sunglasses — same frame, same lenses — sold for $25 in a plastic pouch vs $55 in a branded EVA case: packaging made a $30 retail price difference',
+          'Microfiber pouches ($0.50–0.80) double as cleaning cloths but say \'budget\' — fine for promotional giveaways, not for building a brand',
+          'EVA hard cases ($1.50–2.00) are the workhorse chosen by 70% of brands — crush-resistant, zippered, with debossed or printed logo',
+          'A thank-you card and branded sticker (under $0.10 combined) in every box drives social sharing and repeat purchases — one of the highest-ROI packaging investments',
+          'Magnetic rigid boxes ($3–5) and leather cases ($3–5) signal luxury and slow the customer down — that moment of pause builds brand loyalty',
+          'The best unboxing layers: outer mailer → tissue or wrap → case → sunglasses → cloth beneath → surprise insert (sticker, discount card, adventure prompt)',
+        ]} />
         <header className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Sunglasses Packaging That Actually Sells</h1>
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Branding & Packaging</span><span>July 11, 2026</span><span>•</span><span>7 min read</span></div>

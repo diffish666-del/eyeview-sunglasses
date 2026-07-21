@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Promotional Sunglasses Manufacturer | Custom Branded Eyewear Wholesale - EyeView',
     description: 'Promotional sunglasses for events, corporate gifts, and brand campaigns. Custom logo, bulk pricing from $0.80/pair. MOQ 500pcs. Fast turnaround.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/products/promotional',
+    url: 'https://eyeviewsunglasses.com/products/promotional/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/products/promotional',
+    canonical: 'https://eyeviewsunglasses.com/products/promotional/',
   },
 }
 
@@ -96,12 +96,14 @@ export default function PromotionalSunglassesPage() {
         name: 'Promotional Sunglasses',
         description: 'Custom branded promotional sunglasses for events, corporate gifts, and brand campaigns. UV400 protection, custom logo, bulk pricing. Full OEM service with fast turnaround.',
         minPrice: '0.80',
-        maxPrice: '8.00'
+        maxPrice: '8.00',
+        category: 'Promotional Sunglasses',
+        material: 'Plastic, Polycarbonate'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Home', url: 'https://eyeviewsunglasses.com' },
-        { name: 'Products', url: 'https://eyeviewsunglasses.com/products' },
-        { name: 'Promotional Sunglasses', url: 'https://eyeviewsunglasses.com/products/promotional' }
+        { name: 'Products', url: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Promotional Sunglasses', url: 'https://eyeviewsunglasses.com/products/promotional/' }
       ]} />
       <FAQPageSchema faqs={promoFaqs} />
 

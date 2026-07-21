@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'EyeView Sunglasses ist ein führender OEM/ODM-Sonnenbrillen-Hersteller, gegründet 2006. Über 500 Markenkunden in mehr als 50 Ländern. CE-, FDA-, ISO 9001-zertifiziert. Direkte Fabrikpreise.',
   keywords: 'Sonnenbrillen Hersteller, Brillenfabrik, OEM Brillenunternehmen, Brillen Lieferant China, über EyeView, Brillen Hersteller',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/de/ueber-uns',
+    canonical: 'https://eyeviewsunglasses.com/de/ueber-uns/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/about',
       'de': 'https://eyeviewsunglasses.com/de/ueber-uns',
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: 'Über EyeView | Sonnenbrillen-Hersteller seit 2006',
     description: 'EyeView Sunglasses ist ein führender OEM/ODM-Sonnenbrillen-Hersteller, gegründet 2006. Über 500 Markenkunden in mehr als 50 Ländern.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/de/ueber-uns',
+    url: 'https://eyeviewsunglasses.com/de/ueber-uns/',
     locale: 'de_DE',
   },
 }

@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Fabricante de Gafas de Sol Ecológicas | Gafas Sostenibles al por Mayor - EyeView',
     description: 'Fabricante de gafas sostenibles. Plástico reciclado del océano, bambú, monturas de bio-acetato. MOQ 200 uds. Precios directos de fábrica con certificaciones verdes.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/es/productos/ecologico',
+    url: 'https://eyeviewsunglasses.com/es/productos/ecologico/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/es/productos/ecologico',
+    canonical: 'https://eyeviewsunglasses.com/es/productos/ecologico/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/eco-friendly',
       'es': 'https://eyeviewsunglasses.com/es/productos/ecologico',
@@ -103,9 +103,9 @@ export default function EcologicoPage() {
         maxPrice: '15.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es' },
-        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos' },
-        { name: 'Gafas Ecológicas', url: 'https://eyeviewsunglasses.com/es/productos/ecologico' }
+        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es/' },
+        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos/' },
+        { name: 'Gafas Ecológicas', url: 'https://eyeviewsunglasses.com/es/productos/ecologico/' }
       ]} />
       <FAQPageSchema faqs={ecoFaqs} />
 

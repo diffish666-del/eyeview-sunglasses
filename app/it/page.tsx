@@ -13,10 +13,10 @@ export const metadata: Metadata = {
     description: 'EyeView è un produttore leader di occhiali da sole all\'ingrosso con servizi OEM e ODM. Oltre 15 anni di esperienza, più di 500 clienti globali.',
     type: 'website',
     locale: 'it_IT',
-    url: 'https://eyeviewsunglasses.com/it',
+    url: 'https://eyeviewsunglasses.com/it/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/it',
+    canonical: 'https://eyeviewsunglasses.com/it/',
     languages: {
       'en': 'https://eyeviewsunglasses.com',
       'it': 'https://eyeviewsunglasses.com/it',

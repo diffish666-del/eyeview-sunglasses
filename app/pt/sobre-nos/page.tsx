@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'EyeView Sunglasses é um fabricante líder de óculos de sol OEM/ODM fundado em 2006. Mais de 500 clientes de marcas em mais de 50 países. Certificados CE, FDA, ISO 9001. Preços diretos de fábrica.',
   keywords: 'fabricante de óculos de sol, fábrica de óculos, empresa de óculos OEM, fornecedor de óculos China, sobre EyeView, fabricante de óculos',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/pt/sobre-nos',
+    canonical: 'https://eyeviewsunglasses.com/pt/sobre-nos/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/about',
       'pt': 'https://eyeviewsunglasses.com/pt/sobre-nos',
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: 'Sobre a EyeView | Fabricante de Óculos de Sol Desde 2006',
     description: 'EyeView Sunglasses é um fabricante líder de óculos de sol OEM/ODM fundado em 2006. Mais de 500 clientes de marcas em mais de 50 países.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/pt/sobre-nos',
+    url: 'https://eyeviewsunglasses.com/pt/sobre-nos/',
     locale: 'pt_BR',
   },
 }

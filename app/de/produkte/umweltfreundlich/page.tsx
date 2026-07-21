@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Umweltfreundliche Sonnenbrillen Großhandel | Nachhaltige Brillen Hersteller - EyeView',
     description: 'Hersteller nachhaltiger Brillen. Recyceltes Ozeanplastik, Bambus, Bio-Acetat-Fassungen. MOQ 200 Stk. Fabrikdirektpreise mit Grün-Zertifizierungen.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/de/produkte/umweltfreundlich',
+    url: 'https://eyeviewsunglasses.com/de/produkte/umweltfreundlich/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/de/produkte/umweltfreundlich',
+    canonical: 'https://eyeviewsunglasses.com/de/produkte/umweltfreundlich/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/eco-friendly',
       'de': 'https://eyeviewsunglasses.com/de/produkte/umweltfreundlich',
@@ -103,9 +103,9 @@ export default function UmweltfreundlichPage() {
         maxPrice: '15.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de' },
-        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte' },
-        { name: 'Umweltfreundliche Sonnenbrillen', url: 'https://eyeviewsunglasses.com/de/produkte/umweltfreundlich' }
+        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de/' },
+        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte/' },
+        { name: 'Umweltfreundliche Sonnenbrillen', url: 'https://eyeviewsunglasses.com/de/produkte/umweltfreundlich/' }
       ]} />
       <FAQPageSchema faqs={ecoFaqs} />
 

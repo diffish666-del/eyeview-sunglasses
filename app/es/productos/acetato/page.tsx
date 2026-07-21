@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Fabricante de Gafas de Sol de Acetato | Fábrica de Gafas Artesanales - EyeView',
     description: 'Fabricante de gafas de sol de acetato personalizadas. Acetato italiano Mazzucchelli y acetato chino premium. Pulidas a mano, más de 200 colores. MOQ 100 uds. Directo de fábrica.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/es/productos/acetato',
+    url: 'https://eyeviewsunglasses.com/es/productos/acetato/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/es/productos/acetato',
+    canonical: 'https://eyeviewsunglasses.com/es/productos/acetato/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/acetate',
       'es': 'https://eyeviewsunglasses.com/es/productos/acetato',
@@ -103,9 +103,9 @@ export default function AcetatoPage() {
         maxPrice: '16.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es' },
-        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos' },
-        { name: 'Gafas de Acetato', url: 'https://eyeviewsunglasses.com/es/productos/acetato' }
+        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es/' },
+        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos/' },
+        { name: 'Gafas de Acetato', url: 'https://eyeviewsunglasses.com/es/productos/acetato/' }
       ]} />
       <FAQPageSchema faqs={acetateFaqs} />
 

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Hersteller von Katzenaugen-Sonnenbrillen im Großhandel. Damen Cat-Eye-Brillen in Acetat, Metall und MischMaterialien. Trendfarben, OEM/ODM. MOQ 100 Stk. Direkt ab Fabrik.',
   keywords: 'Katzenaugen Sonnenbrillen Großhandel, Cat-Eye Brillen Hersteller, Damen Sonnenbrillen Großhandel, Cat-Eye Fassungen, Sonnenbrillen Großhandel, Brillen Hersteller',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/de/produkte/katzenaugen',
+    canonical: 'https://eyeviewsunglasses.com/de/produkte/katzenaugen/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/cat-eye',
       'de': 'https://eyeviewsunglasses.com/de/produkte/katzenaugen',

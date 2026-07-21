@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'How to Choose the Right Sunglasses Manufacturer in 2026 | Complete Guide',
@@ -10,7 +11,7 @@ export const metadata: Metadata = {
     title: 'How to Choose the Right Sunglasses Manufacturer in 2026',
     description: 'A factory owner reveals 10 things to check before choosing a sunglasses manufacturer. Red flags, quality indicators, and how to avoid costly mistakes.',
     type: 'article',
-    url: 'https://eyeviewsunglasses.com/blog/how-to-choose-sunglasses-manufacturer',
+    url: 'https://eyeviewsunglasses.com/blog/how-to-choose-sunglasses-manufacturer/',
   },
 }
 
@@ -59,6 +60,16 @@ export default function HowToChooseManufacturer() {
         <Link href="/blog" className="text-primary-600 hover:underline text-sm">← Back to Blog</Link>
       </div>
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Evaluate over 2–4 weeks: Week 1 research and shortlist 5–10 factories, Week 2 request samples and quotes, Week 3 evaluate samples and check references, Week 4 negotiate terms and place trial order',
+          '10-point vetting checklist: years in business (5+), certifications (FDA/CE/ISO 9001), export experience (20+ countries), client references, sample quality, communication speed, production capacity, lead times, payment terms, and warranty policy',
+          'Physical factory visit recommended for orders over $10,000 — a 1–2 day visit verifies they\'re a real manufacturer, not a trading company, and many factories reimburse visit costs upon order',
+          'Red flags: refusal to do video factory tour, prices 40%+ below market average, stock photos instead of real factory images, push for full payment upfront, and no willingness to send physical samples',
+          'ODM (existing designs + your logo) is the safer start for new brands — 100–300 pieces MOQ, 20–45 day turnaround, no mold fees',
+          'Always start with a small trial order of 100–300 pieces before committing to large production — a bad manufacturer choice costs thousands, not hundreds',
+        ]} />
       <h1 className="text-4xl md:text-5xl font-bold mb-6">How to Choose the Right Sunglasses Manufacturer in 2026</h1>
       
       <div className="flex items-center gap-4 mb-8 text-gray-600">

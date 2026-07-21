@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Les lunettes de soleil EyeView répondent à toutes les normes internationales de sécurité. Enregistré FDA, certifié CE, ISO 9001, UV400, conforme ANSI Z80.3. Documentation complète disponible.',
   keywords: 'certifications lunettes de soleil, conformité FDA lunettes, certification CE lunettes, UV400, ISO 9001 lunettes, ANSI Z80.3, CPSIA lunettes enfants',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/certifications',
+    canonical: 'https://eyeviewsunglasses.com/fr/certifications/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/certifications',
       'fr': 'https://eyeviewsunglasses.com/fr/certifications',
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: 'Certifications et Conformité de Lunettes de Soleil | FDA, CE, ISO 9001, UV400 - EyeView',
     description: 'Las lunettes de soleil EyeView répondent à toutes les normes internationales de sécurité. Registrados en FDA, certificados CE, ISO 9001, UV400.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/fr/certifications',
+    url: 'https://eyeviewsunglasses.com/fr/certifications/',
     locale: 'fr_FR',
   },
 }

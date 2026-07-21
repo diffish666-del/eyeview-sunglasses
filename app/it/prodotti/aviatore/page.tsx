@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Wholesale Aviator Sunglasses Manufacturer | Custom Aviator OEM - EyeView',
     description: 'Leading wholesale aviator sunglasses manufacturer. Custom logo, metal frames, UV400/polarized lenses. MOQ 100pcs. Factory direct pricing.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/it/prodotti/aviatore',
+    url: 'https://eyeviewsunglasses.com/it/prodotti/aviatore/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/it/prodotti/aviatore',
+    canonical: 'https://eyeviewsunglasses.com/it/prodotti/aviatore/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/aviator',
       'it': 'https://eyeviewsunglasses.com/it/prodotti/aviatore',
@@ -104,8 +104,8 @@ export default function AviatorPageIt() {
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Home', url: 'https://eyeviewsunglasses.com' },
-        { name: 'Products', url: 'https://eyeviewsunglasses.com/products' },
-        { name: 'Aviator Sunglasses', url: 'https://eyeviewsunglasses.com/products/aviator' }
+        { name: 'Products', url: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Aviator Sunglasses', url: 'https://eyeviewsunglasses.com/products/aviator/' }
       ]} />
       <FAQPageSchema faqs={aviatorFaqs} />
 

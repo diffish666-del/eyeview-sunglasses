@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Hersteller von Sport-Sonnenbrillen im Großhandel. Wraparound-Sportbrillen mit TR90-Fassungen, stoßfesten Gläsern und rutschfestem Design. OEM/ODM. MOQ 100 Stk.',
   keywords: 'Sport Sonnenbrillen Großhandel, Sportbrillen Hersteller, Wraparound Brillen, TR90 Sportbrillen, Sonnenbrillen Großhandel',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/de/produkte/sport',
+    canonical: 'https://eyeviewsunglasses.com/de/produkte/sport/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/sport',
       'de': 'https://eyeviewsunglasses.com/de/produkte/sport',

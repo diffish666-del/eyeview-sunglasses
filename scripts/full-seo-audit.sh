@@ -1,6 +1,6 @@
 #!/bin/bash
 # Full SEO audit - runs monthly on 1st day at 10:00 AM
-# Checks: broken links, meta tags, schema, robots.txt, sitemap
+# Checks: broken links, meta tags, schema, robots.txt, sitemap, SSL cert
 
 SITE_DIR="/home/admin/.openclaw/workspace/eyeview-sunglasses"
 LOG_FILE="$SITE_DIR/scripts/seo-audit.log"
@@ -9,9 +9,19 @@ BASE_URL="https://eyeviewsunglasses.com"
 
 echo "[$DATE] Starting full SEO audit..." >> "$LOG_FILE"
 
-# 1. Check robots.txt
+# 0. Check SSL certificate (cert check uses strict mode, content checks use -sk to tolerate cert issues)
+echo "[$DATE] Checking SSL certificate..." >> "$LOG_FILE"
+SSL_OK=$(curl -s -o /dev/null -w "%{http_code}" "$BASE_URL" 2>&1 || echo "FAIL")
+if [ "$SSL_OK" = "200" ]; then
+    echo "[$DATE] ✅ SSL certificate valid" >> "$LOG_FILE"
+else
+    SSL_ISSUE=$(curl -v --connect-timeout 5 "$BASE_URL" 2>&1 | grep -i "error\|certificate\|SSL" | head -3)
+    echo "[$DATE] ❌ SSL certificate issue: $SSL_ISSUE" >> "$LOG_FILE"
+fi
+
+# 1. Check robots.txt (use -sk to tolerate cert issues for content checks)
 echo "[$DATE] Checking robots.txt..." >> "$LOG_FILE"
-ROBOTS=$(curl -s -o /dev/null -w "%{http_code}" "$BASE_URL/robots.txt")
+ROBOTS=$(curl -sk -o /dev/null -w "%{http_code}" "$BASE_URL/robots.txt")
 if [ "$ROBOTS" -eq 200 ]; then
     echo "[$DATE] ✅ robots.txt accessible" >> "$LOG_FILE"
 else
@@ -20,11 +30,11 @@ fi
 
 # 2. Check sitemap.xml
 echo "[$DATE] Checking sitemap.xml..." >> "$LOG_FILE"
-SITEMAP=$(curl -s -o /dev/null -w "%{http_code}" "$BASE_URL/sitemap.xml")
+SITEMAP=$(curl -sk -o /dev/null -w "%{http_code}" "$BASE_URL/sitemap.xml")
 if [ "$SITEMAP" -eq 200 ]; then
     echo "[$DATE] ✅ sitemap.xml accessible" >> "$LOG_FILE"
     # Count URLs in sitemap
-    URL_COUNT=$(curl -s "$BASE_URL/sitemap.xml" | grep -c "<loc>")
+    URL_COUNT=$(curl -sk "$BASE_URL/sitemap.xml" | grep -c "<loc>")
     echo "[$DATE] Sitemap contains $URL_COUNT URLs" >> "$LOG_FILE"
 else
     echo "[$DATE] ❌ sitemap.xml not accessible (HTTP $SITEMAP)" >> "$LOG_FILE"
@@ -32,7 +42,7 @@ fi
 
 # 3. Check homepage meta tags
 echo "[$DATE] Checking homepage meta tags..." >> "$LOG_FILE"
-HOMEPAGE=$(curl -s "$BASE_URL")
+HOMEPAGE=$(curl -sk "$BASE_URL")
 TITLE=$(echo "$HOMEPAGE" | grep -oP '<title>\K[^<]+')
 META_DESC=$(echo "$HOMEPAGE" | grep -oP '<meta name="description" content="\K[^"]+')
 
@@ -52,7 +62,7 @@ fi
 echo "[$DATE] Checking for broken links..." >> "$LOG_FILE"
 BROKEN_LINKS=0
 for URL in $(echo "$HOMEPAGE" | grep -oP 'href="https://eyeviewsunglasses.com[^"]*"' | sed 's/href="//;s/"//'); do
-    STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$URL")
+    STATUS=$(curl -sk -o /dev/null -w "%{http_code}" "$URL")
     if [ "$STATUS" -ge 400 ]; then
         echo "[$DATE] ❌ Broken link: $URL (HTTP $STATUS)" >> "$LOG_FILE"
         BROKEN_LINKS=$((BROKEN_LINKS + 1))
@@ -94,7 +104,7 @@ fi
 
 # 8. Check HTTPS
 echo "[$DATE] Checking HTTPS..." >> "$LOG_FILE"
-HTTPS_CHECK=$(curl -s -o /dev/null -w "%{http_code}" "https://eyeviewsunglasses.com")
+HTTPS_CHECK=$(curl -sk -o /dev/null -w "%{http_code}" "https://eyeviewsunglasses.com")
 if [ "$HTTPS_CHECK" -eq 200 ]; then
     echo "[$DATE] ✅ HTTPS working" >> "$LOG_FILE"
 else

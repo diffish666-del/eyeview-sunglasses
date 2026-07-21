@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Certificazioni e Conformità Occhiali da Sole | FDA, CE, ISO 9001, UV400 - EyeView',
   description: 'Gli occhiali EyeView rispettano tutti gli standard di sicurezza internazionali. Registrazione FDA, certificazione CE, ISO 9001, UV400, conformità ANSI Z80.3. Documentazione completa disponibile.',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/it/certificazioni',
+    canonical: 'https://eyeviewsunglasses.com/it/certificazioni/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/certifications',
       'it': 'https://eyeviewsunglasses.com/it/certificazioni',

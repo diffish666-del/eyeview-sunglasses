@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Top Sunglasses Design Trends for 2026: What\'s Selling Now',
@@ -19,7 +20,7 @@ export default function SunglassesDesignTrends2026Page() {
   return (
     <article className="py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: 'Top Sunglasses Design Trends for 2026: What's Selling Now' }]} />
+        <Breadcrumb items={[{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: "Top Sunglasses Design Trends for 2026: What's Selling Now" }]} />
       </div>
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
@@ -62,6 +63,16 @@ export default function SunglassesDesignTrends2026Page() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Oversized square and rectangular frames dominate 2026, accounting for 35% of all factory orders — up from 28% in 2025 — with square outperforming round in the oversized category',
+          'Frame materials in 2026: acetate leads at ~40% of orders, TR90/nylon at 30%, metal at 20%, and mixed materials at 10% — bio-based acetate and recycled nylon are the fastest-growing segments',
+          'Color trends: classic black and tortoiseshell still dominate at 50%+ of orders, but translucent/crystal frames and earthy tones (olive, sand, terracotta) are growing rapidly',
+          'Y2K revival is real: narrow oval frames, shield lenses, and rimless/minimalist styles are seeing double-digit growth in factory orders — especially for the 18–34 demographic',
+          'Lens color top sellers: gradient brown and grey lead, with green gradient and blue mirror showing the strongest growth in 2026 orders',
+          'Brand strategy: lead with proven bestsellers (black acetate wayfarers, tortoise oversized squares) for 60% of your collection, then experiment with 40% trend-driven styles',
+        ]} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
             <span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Trends</span>

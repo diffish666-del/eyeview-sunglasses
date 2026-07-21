@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Lunettes de Soleil Wayfarer en Gros | Fabricant OEM - EyeView',
     description: 'Fabricant de lunettes de soleil wayfarer en gros. Montures acétate premium, logo personnalisé, verres UV400/polarisés. MOQ 100 pcs. Prix direct usine.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/fr/produits/wayfarer',
+    url: 'https://eyeviewsunglasses.com/fr/produits/wayfarer/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/wayfarer',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/wayfarer/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/wayfarer',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/wayfarer',
@@ -99,9 +99,9 @@ export default function WayfarerPage() {
         maxPrice: '11.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr' },
-        { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits' },
-        { name: 'Lunettes Wayfarer', url: 'https://eyeviewsunglasses.com/fr/produits/wayfarer' }
+        { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr/' },
+        { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits/' },
+        { name: 'Lunettes Wayfarer', url: 'https://eyeviewsunglasses.com/fr/produits/wayfarer/' }
       ]} />
       <FAQPageSchema faqs={wayfarerFaqs} />
 

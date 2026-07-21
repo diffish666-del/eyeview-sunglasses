@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Acetat-Sonnenbrillen Großhandel | Acetat-Brillen Hersteller - EyeView',
     description: 'Hersteller von Acetat-Sonnenbrillen im Großhandel. Handgefertigte Fassungen, italienisches Mazzucchelli-Acetat, über 200 Farben und Muster. CNC-Schnitt, Handpolitur. OEM/ODM. MOQ 100 Stk.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/de/produkte/acetat',
+    url: 'https://eyeviewsunglasses.com/de/produkte/acetat/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/de/produkte/acetat',
+    canonical: 'https://eyeviewsunglasses.com/de/produkte/acetat/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/acetate',
       'de': 'https://eyeviewsunglasses.com/de/produkte/acetat',
@@ -103,9 +103,9 @@ export default function AcetatPageDe() {
         maxPrice: '16.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de' },
-        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte' },
-        { name: 'Acetat-Sonnenbrillen', url: 'https://eyeviewsunglasses.com/de/produkte/acetat' }
+        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de/' },
+        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte/' },
+        { name: 'Acetat-Sonnenbrillen', url: 'https://eyeviewsunglasses.com/de/produkte/acetat/' }
       ]} />
       <FAQPageSchema faqs={acetateFaqs} />
 

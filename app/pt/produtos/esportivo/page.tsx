@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Fabricante de óculos de sol esportivos no atacado. Lentes polarizadas TAC, armações TR90, design envolvente para ciclismo, corrida, pesca, golfe, esqui e beisebol. MOQ 100 pçs. OEM/ODM disponível.',
   keywords: 'óculos de sol esportivos no atacado, óculos esportivos polarizados, fabricante óculos esportivos, óculos ciclismo no atacado, óculos corrida, óculos pesca atacado, armações esportivas TR90, óculos envolventes OEM',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/pt/produtos/esportivo',
+    canonical: 'https://eyeviewsunglasses.com/pt/produtos/esportivo/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/sport',
       'pt': 'https://eyeviewsunglasses.com/pt/produtos/esportivo',

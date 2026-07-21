@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Best Sunglasses for Your Face Shape: Complete Buying Guide',
@@ -67,6 +68,16 @@ export default function SunglassesFaceShapeGuidePage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Match face shape to frame shape using the contrast principle: angular frames for round faces, round/curved frames for square faces, balanced proportions for oval faces',
+          'Round faces: choose square, rectangular, wayfarer, and cat-eye styles — avoid perfectly round frames; look for frames slightly wider than your face with strong corner angles',
+          'Oval faces: the most versatile shape — nearly any frame works; key rule is frames as wide as (or slightly wider than) the broadest part of your face',
+          'Square faces: round, oval, aviator, and curved cat-eye frames soften angular jawlines — thin metal frames and rimless styles also help balance strong features',
+          'Heart-shaped faces: bottom-heavy frames (aviators, wayfarers, round) and light-colored frames balance wider foreheads and narrow chins — avoid top-heavy styles',
+          'For brands: stock 60% universally-flattering shapes (wayfarers, aviators, moderate oversized) and 40% face-shape-specific styles to maximize your addressable market',
+        ]} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
             <span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Style Guide</span>

@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Sunglasses MOQ Guide: How Many Pairs Should You Order First?',
@@ -62,6 +63,16 @@ export default function SunglassesMoqGuidePage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'ODM (existing designs + your logo) starts at 50–200 pieces per style — the lowest barrier to entry for new brands testing the market',
+          'OEM using existing molds: 300–1,000+ pieces per style — higher MOQ because custom color and logo setup costs need volume to justify',
+          'Full custom mold OEM: 500+ pieces minimum — $500–3,000 in mold tooling per style must be amortized across enough units to make economic sense',
+          'Ordering below 100 pieces means 30–50% higher per-unit cost — the setup labor (calibrating machines, mixing colors) is fixed whether you make 10 pairs or 10,000',
+          'Lean first-order strategy: 3–5 styles, 50–100 pieces each (150–500 total pairs) — enough variety to test the market without drowning in unsold inventory',
+          'After 60–90 days of selling, identify your bestsellers and reorder those at 200–500 pieces while dropping underperformers — inventory turn speed matters more than order size',
+        ]} />
         {/* Article Header */}
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">

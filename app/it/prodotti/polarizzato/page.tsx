@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: `Produttore di occhiali polarizzati all'ingrosso. Lenti TAC polarizzate premium a 7 strati, riduzione riflesso 99%, protezione UV400. MOQ 100 pezzi.`,
   keywords: `occhiali polarizzati ingrosso, lenti TAC polarizzate, produttore occhiali polarizzati, occhiali guida polarizzati`,
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/it/prodotti/polarizzato',
+    canonical: 'https://eyeviewsunglasses.com/it/prodotti/polarizzato/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/polarized',
       'it': 'https://eyeviewsunglasses.com/it/prodotti/polarizzato',

@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Fabricante de Óculos de Sol Ecológicos | Óculos Sustentáveis no Atacado - EyeView',
     description: 'Fabricante de óculos sustentáveis. Plástico reciclado do oceano, bambu, armações de bio-acetato. MOQ 200 pçs. Preços diretos de fábrica com certificações verdes.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/pt/produtos/ecologico',
+    url: 'https://eyeviewsunglasses.com/pt/produtos/ecologico/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/pt/produtos/ecologico',
+    canonical: 'https://eyeviewsunglasses.com/pt/produtos/ecologico/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/eco-friendly',
       'pt': 'https://eyeviewsunglasses.com/pt/produtos/ecologico',
@@ -103,9 +103,9 @@ export default function EcologicoPagePt() {
         maxPrice: '15.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Início', url: 'https://eyeviewsunglasses.com/pt' },
-        { name: 'Produtos', url: 'https://eyeviewsunglasses.com/pt/produtos' },
-        { name: 'Óculos Ecológicos', url: 'https://eyeviewsunglasses.com/pt/produtos/ecologico' }
+        { name: 'Início', url: 'https://eyeviewsunglasses.com/pt/' },
+        { name: 'Produtos', url: 'https://eyeviewsunglasses.com/pt/produtos/' },
+        { name: 'Óculos Ecológicos', url: 'https://eyeviewsunglasses.com/pt/produtos/ecologico/' }
       ]} />
       <FAQPageSchema faqs={ecoFaqs} />
 

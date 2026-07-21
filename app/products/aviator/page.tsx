@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Wholesale Aviator Sunglasses Manufacturer | Custom Aviator OEM - EyeView',
     description: 'Leading wholesale aviator sunglasses manufacturer. Custom logo, metal frames, UV400/polarized lenses. MOQ 100pcs. Factory direct pricing.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/products/aviator',
+    url: 'https://eyeviewsunglasses.com/products/aviator/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/products/aviator',
+    canonical: 'https://eyeviewsunglasses.com/products/aviator/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/aviator',
       'es': 'https://eyeviewsunglasses.com/es/productos/aviador',
@@ -100,12 +100,14 @@ export default function AviatorPage() {
         name: 'Wholesale Aviator Sunglasses',
         description: 'Classic teardrop aviator sunglasses with metal frames. Available in stainless steel, aluminum alloy, and titanium. UV400 and polarized lens options. Full OEM customization with logo engraving.',
         minPrice: '8.50',
-        maxPrice: '22.00'
+        maxPrice: '22.00',
+        category: 'Aviator Sunglasses',
+        material: 'Metal (Stainless Steel, Aluminum Alloy, Titanium)'
       }} />
       <BreadcrumbListSchema items={[
         { name: 'Home', url: 'https://eyeviewsunglasses.com' },
-        { name: 'Products', url: 'https://eyeviewsunglasses.com/products' },
-        { name: 'Aviator Sunglasses', url: 'https://eyeviewsunglasses.com/products/aviator' }
+        { name: 'Products', url: 'https://eyeviewsunglasses.com/products/' },
+        { name: 'Aviator Sunglasses', url: 'https://eyeviewsunglasses.com/products/aviator/' }
       ]} />
       <FAQPageSchema faqs={aviatorFaqs} />
 

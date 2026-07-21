@@ -30,8 +30,17 @@ export function OrganizationSchema() {
   )
 }
 
-export function ProductSchema({ product }: { product: { name: string; description: string; minPrice: string; maxPrice: string; currency?: string; moq?: string } }) {
-  const schema = {
+export function ProductSchema({ product }: { product: {
+  name: string
+  description: string
+  minPrice: string
+  maxPrice: string
+  currency?: string
+  moq?: string
+  category?: string
+  material?: string
+} }) {
+  const schema: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": product.name,
@@ -40,17 +49,47 @@ export function ProductSchema({ product }: { product: { name: string; descriptio
       "@type": "Brand",
       "name": "EyeView"
     },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "EyeView Sunglasses",
+      "url": "https://eyeviewsunglasses.com"
+    },
     "offers": {
-      "@type": "Offer",
-      "priceCurrency": "USD",
-      "minPrice": product.minPrice,
-      "maxPrice": product.maxPrice,
+      "@type": "AggregateOffer",
+      "priceCurrency": product.currency || "USD",
+      "lowPrice": product.minPrice,
+      "highPrice": product.maxPrice,
+      "offerCount": "1",
       "availability": "https://schema.org/InStock",
       "seller": {
         "@type": "Organization",
         "name": "EyeView Sunglasses"
+      },
+      "eligibleQuantity": {
+        "@type": "QuantitativeValue",
+        "value": 100,
+        "unitCode": "C62"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": ["US", "GB", "DE", "FR", "AU", "CA", "JP", "KR", "BR", "MX"]
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": { "@type": "QuantitativeValue", "minValue": 3, "maxValue": 15, "unitCode": "DAY" },
+          "transitTime": { "@type": "QuantitativeValue", "minValue": 7, "maxValue": 30, "unitCode": "DAY" }
+        }
       }
     }
+  }
+
+  if (product.category) {
+    schema["category"] = product.category
+  }
+  if (product.material) {
+    schema["material"] = product.material
   }
 
   return (
@@ -127,6 +166,30 @@ export function BreadcrumbListSchema({ items }: { items: { name: string; url?: s
       "position": index + 1,
       "item": item.item || item.url,
       "name": item.name
+    }))
+  }
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  )
+}
+
+export function ServiceSchema({ services }: { services: { name: string; description: string; areaServed?: string[] }[] }) {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": services.map((service, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "item": {
+        "@type": "Service",
+        "name": service.name,
+        "description": service.description,
+        ...(service.areaServed && { "areaServed": service.areaServed.map(area => ({ "@type": "Country", "name": area })) })
+      }
     }))
   }
 

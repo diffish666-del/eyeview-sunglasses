@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Fabricante de gafas de sol redondas al por mayor. Monturas circulares vintage en metal y acetato. Estilo retro John Lennon, opciones pequeñas y oversize. MOQ 100 uds. OEM/ODM directo de fábrica.',
   keywords: 'gafas de sol redondas al por mayor, fabricante gafas circulares, monturas redondas vintage, gafas retro al por mayor, gafas John Lennon, monturas redondas metal, gafas redondas acetato mayorista',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/es/productos/redondo',
+    canonical: 'https://eyeviewsunglasses.com/es/productos/redondo/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/round',
       'es': 'https://eyeviewsunglasses.com/es/productos/redondo',

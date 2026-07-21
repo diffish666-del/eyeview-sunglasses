@@ -17,6 +17,10 @@ export default function FAQSection({ faqs, title = 'Frequently Asked Questions' 
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      xpath: ['/html/head/title', '/html/head/meta[@name="description"]/@content'],
+    },
     mainEntity: faqs.map((faq) => ({
       '@type': 'Question',
       name: faq.question,

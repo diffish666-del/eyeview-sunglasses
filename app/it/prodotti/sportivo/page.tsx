@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: `Produttore di occhiali sportivi all'ingrosso. Lenti polarizzate TAC, montature TR90, design avvolgente per ciclismo, corsa, pesca, golf, sci e baseball. MOQ 100 pezzi.`,
   keywords: `occhiali sportivi ingrosso, occhiali polarizzati sport, produttore occhiali atletici, occhiali ciclismo ingrosso`,
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/it/prodotti/sportivo',
+    canonical: 'https://eyeviewsunglasses.com/it/prodotti/sportivo/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/sport',
       'it': 'https://eyeviewsunglasses.com/it/prodotti/sportivo',

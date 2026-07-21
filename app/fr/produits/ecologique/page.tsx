@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     title: 'Fabricant de Lunettes de Soleil Écologiques | Lunettes Durables en Gros - EyeView',
     description: 'Fabricant de lunettes durables. Plastique océanique recyclé, bambou, montures en bio-acétate. MOQ 200 pcs. Prix direct usine avec certifications vertes.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/fr/produits/ecologique',
+    url: 'https://eyeviewsunglasses.com/fr/produits/ecologique/',
     locale: 'fr_FR',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/fr/produits/ecologique',
+    canonical: 'https://eyeviewsunglasses.com/fr/produits/ecologique/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/eco-friendly',
       'fr': 'https://eyeviewsunglasses.com/fr/produits/ecologique',
@@ -104,9 +104,9 @@ export default function EcoFriendlyPageFr() {
         maxPrice: '15.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr' },
-        { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits' },
-        { name: 'Lunettes Écologiques', url: 'https://eyeviewsunglasses.com/fr/produits/ecologique' }
+        { name: 'Accueil', url: 'https://eyeviewsunglasses.com/fr/' },
+        { name: 'Produits', url: 'https://eyeviewsunglasses.com/fr/produits/' },
+        { name: 'Lunettes Écologiques', url: 'https://eyeviewsunglasses.com/fr/produits/ecologique/' }
       ]} />
       <FAQPageSchema faqs={ecoFaqs} />
 

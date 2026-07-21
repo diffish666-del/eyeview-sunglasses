@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Gafas de Sol Aviador al por Mayor | Fabricante OEM - EyeView',
     description: 'Fabricante líder de gafas de sol aviador al por mayor. Logo personalizado, monturas metálicas, lentes UV400/polarizadas. MOQ 100 uds. Precios de fábrica.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/es/productos/aviador',
+    url: 'https://eyeviewsunglasses.com/es/productos/aviador/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/es/productos/aviador',
+    canonical: 'https://eyeviewsunglasses.com/es/productos/aviador/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/aviator',
       'es': 'https://eyeviewsunglasses.com/es/productos/aviador',
@@ -103,9 +103,9 @@ export default function AviadorPage() {
         maxPrice: '22.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es' },
-        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos' },
-        { name: 'Gafas Aviador', url: 'https://eyeviewsunglasses.com/es/productos/aviador' }
+        { name: 'Inicio', url: 'https://eyeviewsunglasses.com/es/' },
+        { name: 'Productos', url: 'https://eyeviewsunglasses.com/es/productos/' },
+        { name: 'Gafas Aviador', url: 'https://eyeviewsunglasses.com/es/productos/aviador/' }
       ]} />
       <FAQPageSchema faqs={aviatorFaqs} />
 

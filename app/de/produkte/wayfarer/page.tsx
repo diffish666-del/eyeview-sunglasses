@@ -10,10 +10,10 @@ export const metadata: Metadata = {
     title: 'Wayfarer-Sonnenbrillen Großhandel | OEM Hersteller - EyeView',
     description: 'Hersteller von Wayfarer-Sonnenbrillen im Großhandel. Premium-Acetat-Fassungen, individuelles Logo, UV400/polarisierte Gläser. MOQ 100 Stk. Direkt ab Fabrik.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com/de/produkte/wayfarer',
+    url: 'https://eyeviewsunglasses.com/de/produkte/wayfarer/',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/de/produkte/wayfarer',
+    canonical: 'https://eyeviewsunglasses.com/de/produkte/wayfarer/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/wayfarer',
       'de': 'https://eyeviewsunglasses.com/de/produkte/wayfarer',
@@ -99,9 +99,9 @@ export default function WayfarerPageDe() {
         maxPrice: '11.00'
       }} />
       <BreadcrumbListSchema items={[
-        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de' },
-        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte' },
-        { name: 'Wayfarer-Brillen', url: 'https://eyeviewsunglasses.com/de/produkte/wayfarer' }
+        { name: 'Startseite', url: 'https://eyeviewsunglasses.com/de/' },
+        { name: 'Produkte', url: 'https://eyeviewsunglasses.com/de/produkte/' },
+        { name: 'Wayfarer-Brillen', url: 'https://eyeviewsunglasses.com/de/produkte/wayfarer/' }
       ]} />
       <FAQPageSchema faqs={wayfarerFaqs} />
 

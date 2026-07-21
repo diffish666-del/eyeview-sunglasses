@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: 'EyeView is a leading OEM/ODM sunglasses manufacturer founded in 2006. 500+ brand clients in 50+ countries. CE, FDA, ISO 9001 certified factory-direct pricing.',
   keywords: 'sunglasses manufacturer, eyewear factory, OEM sunglasses company, sunglasses supplier China, about EyeView, eyewear manufacturer',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/about',
+    canonical: 'https://eyeviewsunglasses.com/about/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/about',
       'es': 'https://eyeviewsunglasses.com/es/sobre-nosotros',

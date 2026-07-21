@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'TR90 vs Acetate vs Metal Sunglasses: Which Frame Material Is Right for Your Brand?',
@@ -62,6 +63,16 @@ export default function Tr90VsAcetateVsMetalPage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'TR90: lightest at 15–20g, factory cost $3–8/pair, retail sweet spot $19–69 — injection-molded in seconds for sport, outdoor, and kids\' brands',
+          'Acetate: premium feel at 25–35g, factory cost $5–11/pair, retail sweet spot $49–199 — hand-polished from sheet stock with 200+ color options',
+          'Metal: widest range at 12–35g, factory cost $8–22/pair, retail sweet spot $59–249 — titanium as light as 12g, stainless steel at 30g, nickel-allergic risk in cheap alloys',
+          'Frame-only costs do not tell the full story: add $1.50–8 for lenses, $0.30–1.50 for packaging, and $0.50–2.00 for shipping — total landed cost is 40–60% above frame cost',
+          'Smart brand structure: 2–3 TR90 styles at $29–49, 3–4 acetate styles at $79–129, 1–2 metal styles at $99–179 — covering 3 price points without diluting your brand',
+          'Production lead times: TR90 25–35 days (fastest), metal 30–45 days, acetate 35–50 days (slowest — hand-polishing cannot be rushed without quality loss)',
+        ]} />
         {/* Article Header */}
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">

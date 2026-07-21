@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Wholesale Sunglasses Pricing: What These Actually Cost to Make (2026)',
@@ -32,6 +33,16 @@ export default function PricingGuide() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Factory price ladder by material: basic plastic/polycarbonate $0.80–1.80, TR90 $2.50–5.00, standard acetate $3–8, metal $5–14, Italian acetate $8–18, titanium $12–22 — all at 500+ piece quantities',
+          'Quantity discounts: unit costs drop 30–40% when scaling from 100 to 1,000 pieces — the single biggest pricing lever is order volume',
+          'Lens cost add-ons: basic UV400 adds $1–2, polarized TAC adds $3–5, polarized CR-39 adds $5–8, photochromic adds $5–10 — lenses can cost more than the frame itself',
+          'Retail markup standard: 3–5x landed cost for mass market ($6 landed = $18–30 retail), with premium branding and packaging enabling 6–10x markup ($6 landed = $36–60 retail)',
+          'Beware of \'acetate\' quotes below $3/pair — real acetate costs more than that; at $2.40/pair you are getting polycarbonate painted to look like acetate',
+          'For first-time brand buyers: 500 pieces is the volume sweet spot — good unit pricing, manageable shipping costs, and enough inventory to test multiple styles without overcommitting',
+        ]} />
         <header className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Wholesale Sunglasses Pricing: What These Actually Cost to Make</h1>
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Pricing & Sourcing</span><span>July 11, 2026</span><span>•</span><span>7 min read</span></div>

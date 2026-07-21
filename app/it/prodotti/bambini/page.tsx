@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: `Produttore di occhiali da sole per bambini all'ingrosso. Sicuri, privi di BPA, certificati CPSIA e EN71. Montature flessibili infrangibili, UV400. MOQ 100 pezzi.`,
   keywords: `occhiali bambini ingrosso, produttore occhiali bambini, occhiali neonato ingrosso, occhiali protezione UV bambini`,
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/it/prodotti/bambini',
+    canonical: 'https://eyeviewsunglasses.com/it/prodotti/bambini/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/kids',
       'it': 'https://eyeviewsunglasses.com/it/prodotti/bambini',

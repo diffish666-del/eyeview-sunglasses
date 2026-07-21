@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: 'Wholesale round sunglasses manufacturer. Vintage circular frames in metal & acetate. Retro John Lennon style, small & oversized options. MOQ 100pcs. OEM/ODM factory direct.',
   keywords: 'round sunglasses wholesale, circular sunglasses manufacturer, vintage round frames, retro sunglasses wholesale, John Lennon sunglasses, round metal frames, round acetate sunglasses bulk',
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/products/round',
+    canonical: 'https://eyeviewsunglasses.com/products/round/',
     languages: {
       'en': 'https://eyeviewsunglasses.com/products/round',
       'es': 'https://eyeviewsunglasses.com/es/productos/redondo',
@@ -71,6 +71,8 @@ export default function RoundPage() {
         maxPrice: '15.00',
         currency: 'USD',
         moq: '100 pcs',
+        category: 'Round Sunglasses',
+        material: 'Metal, Acetate'
       }} />
 
       {/* BreadcrumbList Schema */}

@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'How Sunglasses Are Made: A Tour Through Our Factory Floor',
@@ -31,6 +32,16 @@ export default function HowSunglassesAreMade() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'Complete manufacturing takes 27 individual steps across 15–25 days — from acetate sheets or TR90 pellets to the finished product on your customer\'s doorstep',
+          'Acetate frame production: CNC cutting (8–12 min per front), 24–48 hours of tumbling and hand-polishing — rushed factories tumble for only 8–12 hours, resulting in detectable roughness',
+          'TR90 injection molding: pellets melt at 260°C, injected at 80–120 tons of pressure, one machine produces 1,200–1,500 frame fronts per shift — fastest and cheapest method',
+          'Lens coating uses vacuum deposition — a microscope-thin layer of metal oxide applied in an airless chamber to create mirror, AR, and protective finishes',
+          'Six mandatory QC tests per batch: UV transmission (99.9%+ blocking), 16g steel ball impact test from 1.27m, 10,000 hinge cycles, dimensional check (±0.5mm), lens clarity under 500-lux light, and frame alignment on granite surface',
+          'Target defect rate is 0.5% — meaning ≤50 defective pairs per 10,000 shipped — achieved about 90% of months by testing 10 random pairs from every batch of 500',
+        ]} />
         <header className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">How Sunglasses Are Made: A Tour Through Our Factory Floor</h1>
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4"><span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Manufacturing</span><span>July 11, 2026</span><span>•</span><span>8 min read</span></div>

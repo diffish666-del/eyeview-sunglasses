@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import Breadcrumb from '@/components/Breadcrumb'
+import { KeyTakeaways } from '@/components/GEOContent'
 
 export const metadata: Metadata = {
   title: 'Sunglasses Pricing Strategy: From Factory Cost to Retail Price',
@@ -62,6 +63,16 @@ export default function SunglassesPricingStrategyPage() {
           ]
         })}} />
 
+
+        {/* 🟢 GEO: Key Takeaways */}
+        <KeyTakeaways items={[
+          'The markup chain: factory cost × 2–3 = wholesale price × 2–2.5 = retail price — a $5 factory cost pair typically retails at $25–35 through wholesale channels',
+          'DTC (direct-to-consumer) brands skip the wholesale middleman: that same $5 factory cost pair can sell for $25–45 directly, capturing 75–85% gross margins',
+          'Retail price by category: budget ($15–30), mid-range ($30–80) — the sweet spot for new DTC brands, premium ($80–150) with custom OEM designs, luxury ($150+) requiring exclusive everything',
+          'ODM factory cost $3–8/pair, OEM custom $5–15+/pair, premium materials (Italian acetate, glass lenses) can push to $15–30/pair — always add $2–5/pair for shipping, duties, and packaging to get true landed cost',
+          'Free shipping is table stakes in 2026: build the $3–7 shipping cost into your retail price — a $42 with free shipping outperforms $35 + $7 shipping despite identical customer cost',
+          'Most new DTC brands find the best margin-to-volume balance at $30–60 retail, which yields healthy profits on $5–10 factory cost products while staying accessible',
+        ]} />
         <header className="mb-12">
           <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
             <span className="bg-primary-100 text-primary-700 px-3 py-1 rounded-full font-medium">Business</span>
