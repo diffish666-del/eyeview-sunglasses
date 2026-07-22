@@ -182,6 +182,14 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://www.google-analytics.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
+        {/* Hreflang tags for multilingual SEO */}
+        <link rel="alternate" href="https://eyeviewsunglasses.com/" hrefLang="x-default" />
+        <link rel="alternate" href="https://eyeviewsunglasses.com/" hrefLang="en" />
+        <link rel="alternate" href="https://eyeviewsunglasses.com/es/" hrefLang="es" />
+        <link rel="alternate" href="https://eyeviewsunglasses.com/fr/" hrefLang="fr" />
+        <link rel="alternate" href="https://eyeviewsunglasses.com/de/" hrefLang="de" />
+        <link rel="alternate" href="https://eyeviewsunglasses.com/pt/" hrefLang="pt" />
+        <link rel="alternate" href="https://eyeviewsunglasses.com/it/" hrefLang="it" />
         <style dangerouslySetInnerHTML={{ __html: criticalCss }} />
         <script
           type="application/ld+json"
