@@ -4,3 +4,4 @@ out/
 *.log
 .vercel
 .github-token
+.netlify/
