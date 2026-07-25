@@ -46,7 +46,7 @@ export default function SunglassesLensTechGuidePage() {
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "BlogPosting",
+            "@type": "Article",
             "headline": "Sunglasses Lens Technology Guide: UV400 vs Polarized vs Photochromic (2026)",
             "datePublished": "2026-07-17",
             "dateModified": "2026-07-17",

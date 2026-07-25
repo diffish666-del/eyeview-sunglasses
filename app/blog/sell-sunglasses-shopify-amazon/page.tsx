@@ -46,7 +46,7 @@ export default function SellSunglassesShopifyAmazonPage() {
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "BlogPosting",
+            "@type": "Article",
             "headline": "How to Sell Sunglasses on Shopify vs Amazon: 2026 Guide for Brand Owners",
             "datePublished": "2026-07-17",
             "dateModified": "2026-07-17",
