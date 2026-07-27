@@ -23,7 +23,7 @@ echo "" >> "$LOG_FILE"
 echo "--- Schema Markup Coverage ---" >> "$LOG_FILE"
 
 # Check WebSite schema
-WEBSITE_SCHEMA=$(grep -c '"@type".*"WebSite"' "$SITE_DIR/app/layout.tsx" 2>/dev/null)
+WEBSITE_SCHEMA=$(grep -cE "['\"]@type['\"].*['\"]WebSite['\"]" "$SITE_DIR/app/layout.tsx" 2>/dev/null)
 MAX_SCORE=$((MAX_SCORE + 5))
 if [ "$WEBSITE_SCHEMA" -gt 0 ]; then
   echo "  ✅ WebSite schema: Present" >> "$LOG_FILE"
@@ -268,7 +268,7 @@ SCORE=$((SCORE + (LANG_WITH_WEBSITE * 5 / LANG_COUNT)))
 echo "" >> "$LOG_FILE"
 echo "--- Hreflang & International SEO ---" >> "$LOG_FILE"
 
-HREFLANG_COUNT=$(grep -c "hreflang" "$SITE_DIR/app/layout.tsx" 2>/dev/null)
+HREFLANG_COUNT=$(grep -ciE "(hreflang|hrefLang)" "$SITE_DIR/app/layout.tsx" 2>/dev/null)
 MAX_SCORE=$((MAX_SCORE + 5))
 if [ "$HREFLANG_COUNT" -gt 0 ]; then
   echo "  ✅ Hreflang tags: $HREFLANG_COUNT entries" >> "$LOG_FILE"
