@@ -16,6 +16,26 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'negociar-fabricantes-chinos',
+    title: 'Cómo Negociar con Fabricantes Chinos de Gafas de Sol: Guía Interna',
+    excerpt: 'Un dueño de fábrica revela exactamente cómo negociar con fabricantes chinos. Niveles reales de precios, flexibilidad de pedido mínimo, frases que funcionan y lo que realmente piensa la fábrica cuando pides "tu mejor precio".',
+    date: '20 de julio de 2026',
+    category: 'Aprovisionamiento',
+    readTime: '9 min de lectura',
+    emoji: '🤝',
+    featured: false,
+  },
+  {
+    slug: 'guias-ferias-comerciales-gafas-sol',
+    title: 'Ferias de Gafas de Sol 2026: Guía para Encontrar los Mejores Proveedores',
+    excerpt: 'Guía desde el lado de la fábrica sobre las principales ferias de gafas — MIDO, SILMO, Vision Expo, IOFT, Feria Óptica de Hong Kong. Costos de stand, cómo evaluar proveedores y seguimiento que realmente funciona.',
+    date: '20 de julio de 2026',
+    category: 'Aprovisionamiento',
+    readTime: '8 min de lectura',
+    emoji: '🏪',
+    featured: false,
+  },
+  {
     slug: 'tendencias-diseno-gafas-2026',
     title: 'Tendencias de Diseño de Gafas de Sol para 2026: Qué Se Vende Ahora',
     excerpt: 'Un dueño de fábrica revela las tendencias más calientes de gafas para 2026 con datos reales de ventas -- monturas oversize, revival Y2K, materiales sostenibles y más.',

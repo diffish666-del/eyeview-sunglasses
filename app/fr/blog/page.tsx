@@ -16,6 +16,26 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'guide-salons-professionnels-lunettes-soleil',
+    title: 'Salons Professionnels Lunettes de Soleil 2026 : Guide pour Trouver les Bons Fournisseurs',
+    excerpt: "Guide d'un fabricant chinois sur les salons de lunetterie — MIDO, SILMO, Vision Expo, IOFT, Hong Kong. Coûts des stands, stratégies d'évaluation et suivi qui fonctionne.",
+    date: '20 juillet 2026',
+    category: 'Approvisionnement',
+    readTime: '8 min de lecture',
+    emoji: '🎪',
+    featured: false,
+  },
+  {
+    slug: 'negocier-fabricants-chinois',
+    title: 'Comment Négocier avec les Fabricants Chinois de Lunettes : Guide Initiation',
+    excerpt: "Un propriétaire d'usine révèle comment négocier avec les fabricants chinois. Vraies grilles de prix, flexibilité des MOQ, phrases qui marchent et ce que pensent vraiment les patrons d'usine.",
+    date: '20 juillet 2026',
+    category: 'Approvisionnement',
+    readTime: '9 min de lecture',
+    emoji: '🤝',
+    featured: false,
+  },
+  {
     slug: 'packaging-lunettes-personnalise',
     title: 'Packaging Lunettes Personnalisé : Guide Complet du Branding 2026',
     excerpt: 'Chaque option de packaging pour les marques de lunettes -- étuis rigides, pochettes, boîtes retail, étiquettes. Coûts réels par pièce et conseils d\'unboxing.',

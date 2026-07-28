@@ -16,6 +16,26 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'guia-feiras-comerciais-oculos-sol',
+    title: 'Feiras de Óculos de Sol 2026: Guia do Fabricante para Encontrar Fornecedores',
+    excerpt: 'Guia de um fabricante chinês sobre as principais feiras de óculos em 2026 — MIDO, SILMO, Vision Expo, IOFT, Feira Óptica de Hong Kong. Custos de estande, estratégias de avaliação e follow-up que funciona.',
+    date: '20 de julho de 2026',
+    category: 'Fornecimento',
+    readTime: '8 min de leitura',
+    emoji: '🎪',
+    featured: false,
+  },
+  {
+    slug: 'negociar-fabricantes-chineses',
+    title: 'Como Negociar com Fabricantes Chineses de Óculos de Sol: Guia Interno',
+    excerpt: 'Dono de fábrica revela exatamente como negociar com fabricantes chineses. Faixas de preço reais, flexibilidade de MOQ, frases que funcionam e o que os donos de fábrica realmente pensam.',
+    date: '20 de julho de 2026',
+    category: 'Fornecimento',
+    readTime: '9 min de leitura',
+    emoji: '🤝',
+    featured: false,
+  },
+  {
     slug: 'certificacao-fda-ce-oculos-sol',
     title: 'Certificação FDA e CE para Óculos de Sol: Guia Completo de Conformidade',
     excerpt: 'Um dono de fábrica explica registro FDA, marcação CE, testes UV e normas ANSI para óculos de sol. Guia passo a passo para vender óculos nos EUA, UE e globalmente.',

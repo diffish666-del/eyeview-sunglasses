@@ -16,6 +16,26 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'guida-fiere-occhiali-sole',
+    title: 'Fiere degli Occhiali da Sole 2026: Guida per Trovare i Fornitori Giusti',
+    excerpt: 'Guida dall\'interno alle fiere dell\'eyewear — MIDO, SILMO, Vision Expo, IOFT, Fiera Ottica di HK. Costi degli stand, strategie di valutazione fornitori e follow-up che funzionano davvero.',
+    date: '20 luglio 2026',
+    category: 'Approvvigionamento',
+    readTime: '8 min di lettura',
+    emoji: '🎪',
+    featured: false,
+  },
+  {
+    slug: 'negoziare-produttori-cinesi',
+    title: 'Come Negoziare con i Produttori Cinesi di Occhiali da Sole',
+    excerpt: 'Un proprietario di fabbrica rivela le strategie di negoziazione che funzionano davvero — prezzi reali, flessibilità MOQ, frasi da evitare e l\'importanza del guanxi.',
+    date: '20 luglio 2026',
+    category: 'Approvvigionamento',
+    readTime: '9 min di lettura',
+    emoji: '🤝',
+    featured: false,
+  },
+  {
     slug: 'trovare-produttore-occhiali',
     title: 'Come Trovare un Produttore di Occhiali da Sole Affidabile nel 2026',
     excerpt: 'Un proprietario di fabbrica rivela dove trovare i produttori, come individuare gli intermediari su Alibaba, 10 criteri di valutazione e consigli di negoziazione dall\'altra parte del tavolo.',
