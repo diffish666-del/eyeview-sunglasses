@@ -52,6 +52,17 @@ export default function ImportSunglassesGuide() {
           </div>
         </header>
 
+        <nav className="bg-gray-100 rounded-xl p-6 mb-12">
+          <h2 className="font-bold mb-4">Table of Contents</h2>
+          <ul className="space-y-2">
+            <li><a href="#know-what" className="text-primary-600 hover:underline">First: Know What You Are Actually Buying</a></li>
+            <li><a href="#cost-breakdown" className="text-primary-600 hover:underline">The Real Cost Breakdown</a></li>
+            <li><a href="#not-get-burned" className="text-primary-600 hover:underline">How to Not Get Burned</a></li>
+            <li><a href="#shipping" className="text-primary-600 hover:underline">Shipping: What Actually Works</a></li>
+            <li><a href="#paperwork" className="text-primary-600 hover:underline">Quick Word on Paperwork</a></li>
+          </ul>
+        </nav>
+
         <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-6">
 
           <p className="text-xl text-gray-600 mb-8">
@@ -62,7 +73,7 @@ export default function ImportSunglassesGuide() {
 
           <p>I have been on the other side of this equation for 20 years. My factory has shipped to over 50 countries. I have seen what works and what goes wrong. Here is what I tell every person who contacts me about importing for the first time.</p>
 
-          <h2>First: Know What You Are Actually Buying</h2>
+          <h2 id="know-what">First: Know What You Are Actually Buying</h2>
 
           <p>This sounds obvious but you would be surprised how many people skip it. &ldquo;How much are sunglasses?&rdquo; is not a question I can answer. That is like asking how much a car costs — somewhere between $500 and $500,000 depending on what you want.</p>
 
@@ -76,7 +87,7 @@ export default function ImportSunglassesGuide() {
 
           <p><strong>Which market are you selling into?</strong> The FDA requirements for the US are different from CE requirements for Europe. Different countries need different lens certifications, packaging labels, and testing documentation. Tell your factory upfront where you are selling. If they do not ask, find another factory.</p>
 
-          <h2>The Real Cost Breakdown</h2>
+          <h2 id="cost-breakdown">The Real Cost Breakdown</h2>
 
           <p>Here is an actual order one of my clients placed last month — 500 pairs of acetate wayfarers with custom logo and polarized lenses:</p>
 
@@ -93,7 +104,7 @@ export default function ImportSunglassesGuide() {
 
           <p>At $10.35 landed per pair, selling at $35 retail gives a solid 70% margin. And here is the thing — at 2,000 pieces, the manufacturing cost drops to about $4.80/pair. The economics get much better as you scale.</p>
 
-          <h2>How to Not Get Burned</h2>
+          <h2 id="not-get-burned">How to Not Get Burned</h2>
 
           <p>I am a factory owner, and I am telling you: be skeptical. Here is my checklist for evaluating any Chinese manufacturer:</p>
 
@@ -107,7 +118,7 @@ export default function ImportSunglassesGuide() {
 
           <p><strong>Start small.</strong> Your first order should be 100-300 pieces, not 5,000. Even if you think you will sell thousands, start small. Test the factory. Test the market. The factory that performs well on your 200-piece order will perform even better on your 2,000-piece reorder. And if they do not? You learned that lesson for a few thousand dollars instead of tens of thousands.</p>
 
-          <h2>Shipping: What Actually Works</h2>
+          <h2 id="shipping">Shipping: What Actually Works</h2>
 
           <p>For first-time importers, I almost always recommend DHL Express. Is it the cheapest? No. But it is door-to-door, fully tracked, and the customs clearance is handled by DHL — you do not need your own customs broker. For orders under about 3,000 pairs (roughly 200kg), DHL is the best balance of speed and simplicity.</p>
 
@@ -115,7 +126,7 @@ export default function ImportSunglassesGuide() {
 
           <p>One thing nobody tells you: customs can hold your shipment for 1-5 days for random inspection. It happens maybe 5% of the time. Build that buffer into your launch timeline. If you are targeting a specific launch date, get your order shipped at least 2 weeks before you need it in hand.</p>
 
-          <h2>Quick Word on Paperwork</h2>
+          <h2 id="paperwork">Quick Word on Paperwork</h2>
 
           <p>The factory provides the commercial invoice and packing list. But here is what matters: you are the importer of record. If the HS codes are wrong or the product description does not match what customs finds in the box, you are legally responsible — not the factory. Take 30 seconds to verify the paperwork before the shipment goes out. It seems obvious, but I have seen boxes get held for weeks because someone typed the wrong digit in an HS code.</p>
 

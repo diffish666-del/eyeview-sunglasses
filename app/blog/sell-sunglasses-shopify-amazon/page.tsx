@@ -84,6 +84,20 @@ export default function SellSunglassesShopifyAmazonPage() {
       </h1>
       <p className="text-gray-500 mb-8">Published July 17, 2026 · 12 min read</p>
 
+        <nav className="bg-gray-100 rounded-xl p-6 mb-12">
+          <h2 className="font-bold mb-4">Table of Contents</h2>
+          <ul className="space-y-2">
+            <li><a href="#launch-costs" className="text-primary-600 hover:underline">What It Actually Costs to Launch (Real Numbers)</a></li>
+            <li><a href="#comparison" className="text-primary-600 hover:underline">Shopify vs Amazon: The Comparison That Actually Matters</a></li>
+            <li><a href="#shopify-playbook" className="text-primary-600 hover:underline">Selling on Shopify: The DTC Playbook</a></li>
+            <li><a href="#amazon-playbook" className="text-primary-600 hover:underline">Selling on Amazon: The FBA Reality</a></li>
+            <li><a href="#hybrid" className="text-primary-600 hover:underline">The Hybrid Play: Why Smart Brands Use Both</a></li>
+            <li><a href="#which-channel" className="text-primary-600 hover:underline">Which Channel Is Right for You?</a></li>
+            <li><a href="#mistakes" className="text-primary-600 hover:underline">4 Mistakes I See New Sellers Make</a></li>
+            <li><a href="#faq" className="text-primary-600 hover:underline">Questions I Get Every Week</a></li>
+          </ul>
+        </nav>
+
       {/* Quick Summary — Reddit-style TL;DR at top */}
       <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg mb-10">
         <p className="font-bold text-blue-900 mb-2">The Short Version (for people who hate fluff)</p>
@@ -103,7 +117,7 @@ export default function SellSunglassesShopifyAmazonPage() {
 
       {/* Section 1 — The setup cost reality check */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">What It Actually Costs to Launch (Real Numbers)</h2>
+        <h2 id="launch-costs" className="text-2xl font-bold mb-4">What It Actually Costs to Launch (Real Numbers)</h2>
         <p className="text-gray-700 mb-4">
           I've seen too many brand owners blow their entire budget on inventory with nothing left for marketing. Here's what a realistic launch budget looks like in 2026:
         </p>
@@ -163,7 +177,7 @@ export default function SellSunglassesShopifyAmazonPage() {
 
       {/* Section 2 — Channel comparison */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">Shopify vs Amazon: The Comparison That Actually Matters</h2>
+        <h2 id="comparison" className="text-2xl font-bold mb-4">Shopify vs Amazon: The Comparison That Actually Matters</h2>
         
         <div className="overflow-x-auto mb-6">
           <table className="w-full text-sm border-collapse">
@@ -222,7 +236,7 @@ export default function SellSunglassesShopifyAmazonPage() {
 
       {/* Section 3 — Shopify strategy */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">Selling on Shopify: The DTC Playbook</h2>
+        <h2 id="shopify-playbook" className="text-2xl font-bold mb-4">Selling on Shopify: The DTC Playbook</h2>
         
         <h3 className="text-xl font-semibold mt-6 mb-3">Why Sunglasses Crush on Shopify</h3>
         <p className="text-gray-700 mb-4">
@@ -280,7 +294,7 @@ export default function SellSunglassesShopifyAmazonPage() {
 
       {/* Section 4 — Amazon strategy */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">Selling on Amazon: The FBA Reality</h2>
+        <h2 id="amazon-playbook" className="text-2xl font-bold mb-4">Selling on Amazon: The FBA Reality</h2>
         
         <h3 className="text-xl font-semibold mt-6 mb-3">Amazon Makes You Money, Just Less of It</h3>
         <p className="text-gray-700 mb-4">
@@ -299,7 +313,7 @@ export default function SellSunglassesShopifyAmazonPage() {
 
       {/* Section 5 — The hybrid approach */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">The Hybrid Play: Why Smart Brands Use Both</h2>
+        <h2 id="hybrid" className="text-2xl font-bold mb-4">The Hybrid Play: Why Smart Brands Use Both</h2>
         <p className="text-gray-700 mb-4">
           Every serious sunglasses brand I supply runs both channels. Here's why: Amazon is a customer acquisition machine, but you don't own those customers. Shopify is where you build relationships and make real margin. The brands doing $500K+ annually follow this pattern:
         </p>
@@ -316,7 +330,7 @@ export default function SellSunglassesShopifyAmazonPage() {
 
       {/* Section 6 — Who should use what */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">Which Channel Is Right for You?</h2>
+        <h2 id="which-channel" className="text-2xl font-bold mb-4">Which Channel Is Right for You?</h2>
         
         <div className="grid md:grid-cols-2 gap-6 mb-6">
           <div className="bg-green-50 p-6 rounded-lg">
@@ -344,7 +358,7 @@ export default function SellSunglassesShopifyAmazonPage() {
 
       {/* Section 7 — Common mistakes */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">4 Mistakes I See New Sellers Make (Don't Be That Person)</h2>
+        <h2 id="mistakes" className="text-2xl font-bold mb-4">4 Mistakes I See New Sellers Make (Don't Be That Person)</h2>
         
         <div className="space-y-4">
           <div className="border-l-4 border-red-400 pl-4">
@@ -368,7 +382,7 @@ export default function SellSunglassesShopifyAmazonPage() {
 
       {/* FAQ */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">Questions I Get Every Week</h2>
+        <h2 id="faq" className="text-2xl font-bold mb-4">Questions I Get Every Week</h2>
         <div className="space-y-4">
           {blogFaqs.map((faq, i) => (
             <div key={i} className="border rounded-lg p-4">

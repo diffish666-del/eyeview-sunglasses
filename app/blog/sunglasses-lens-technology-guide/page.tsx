@@ -84,6 +84,20 @@ export default function SunglassesLensTechGuidePage() {
       </h1>
       <p className="text-gray-500 mb-8">Published July 17, 2026 · 13 min read</p>
 
+        <nav className="bg-gray-100 rounded-xl p-6 mb-12">
+          <h2 className="font-bold mb-4">Table of Contents</h2>
+          <ul className="space-y-2">
+            <li><a href="#uv400" className="text-primary-600 hover:underline">UV400: The Non-Negotiable Baseline</a></li>
+            <li><a href="#polarized" className="text-primary-600 hover:underline">Polarized: The Glare Killer</a></li>
+            <li><a href="#photochromic" className="text-primary-600 hover:underline">Photochromic: The Shape-Shifter (With a Big Catch)</a></li>
+            <li><a href="#comparison" className="text-primary-600 hover:underline">UV400 vs Polarized vs Photochromic: The Comparison</a></li>
+            <li><a href="#lens-colors" className="text-primary-600 hover:underline">Lens Colors: More Than Fashion</a></li>
+            <li><a href="#lens-categories" className="text-primary-600 hover:underline">Lens Categories (VLT): How Dark Is Too Dark?</a></li>
+            <li><a href="#what-to-buy" className="text-primary-600 hover:underline">What Should You Actually Buy?</a></li>
+            <li><a href="#faq" className="text-primary-600 hover:underline">Common Questions</a></li>
+          </ul>
+        </nav>
+
       {/* TL;DR */}
       <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg mb-10">
         <p className="font-bold text-blue-900 mb-2">The Short Version</p>
@@ -102,7 +116,7 @@ export default function SunglassesLensTechGuidePage() {
 
       {/* UV400 Explained */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">UV400: The Non-Negotiable Baseline</h2>
+        <h2 id="uv400" className="text-2xl font-bold mb-4">UV400: The Non-Negotiable Baseline</h2>
         <p className="text-gray-700 mb-4">
           UV400 isn't a lens type — it's a protection standard. It means the lens blocks 100% of UVA and UVB rays up to 400 nanometers in wavelength. That covers the entire UV spectrum that harms human eyes.
         </p>
@@ -149,7 +163,7 @@ export default function SunglassesLensTechGuidePage() {
 
       {/* Polarized Explained */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">Polarized: The Glare Killer</h2>
+        <h2 id="polarized" className="text-2xl font-bold mb-4">Polarized: The Glare Killer</h2>
         <p className="text-gray-700 mb-4">
           Polarized lenses have a chemical filter — a thin laminate layer — that blocks horizontally-polarized light waves. This is the light that bounces off flat surfaces: water, wet roads, car hoods, snow, sand. Without polarization, this reflected light hits your eyes as blinding glare. With it, the world looks sharper, colors are truer, and your eyes don't have to squint against the brightness.
         </p>
@@ -215,7 +229,7 @@ export default function SunglassesLensTechGuidePage() {
 
       {/* Photochromic Explained */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">Photochromic: The Shape-Shifter (With a Big Catch)</h2>
+        <h2 id="photochromic" className="text-2xl font-bold mb-4">Photochromic: The Shape-Shifter (With a Big Catch)</h2>
         <p className="text-gray-700 mb-4">
           Photochromic lenses — also called transition lenses — contain molecules (typically silver halide or organic photochromic compounds) that change shape when exposed to UV light. This molecular change makes the lens darker. Remove the UV, and the molecules return to their original shape, making the lens clear again.
         </p>
@@ -276,7 +290,7 @@ export default function SunglassesLensTechGuidePage() {
 
       {/* Head-to-head comparison */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">UV400 vs Polarized vs Photochromic: The Comparison</h2>
+        <h2 id="comparison" className="text-2xl font-bold mb-4">UV400 vs Polarized vs Photochromic: The Comparison</h2>
         <div className="overflow-x-auto mb-4">
           <table className="w-full text-sm border-collapse">
             <thead>
@@ -343,7 +357,7 @@ export default function SunglassesLensTechGuidePage() {
 
       {/* Lens Colors */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">Lens Colors: More Than Fashion</h2>
+        <h2 id="lens-colors" className="text-2xl font-bold mb-4">Lens Colors: More Than Fashion</h2>
         <p className="text-gray-700 mb-4">
           Lens tint color changes what you see — contrast, color perception, depth judgment. Here's what each color actually does:
         </p>
@@ -366,7 +380,7 @@ export default function SunglassesLensTechGuidePage() {
 
       {/* Category / VLT */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">Lens Categories (VLT): How Dark Is Too Dark?</h2>
+        <h2 id="lens-categories" className="text-2xl font-bold mb-4">Lens Categories (VLT): How Dark Is Too Dark?</h2>
         <p className="text-gray-700 mb-4">
           VLT = Visible Light Transmission. It's the percentage of light that passes through the lens. This is standardized into 5 categories:
         </p>
@@ -421,7 +435,7 @@ export default function SunglassesLensTechGuidePage() {
 
       {/* Decision Framework */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">What Should You Actually Buy?</h2>
+        <h2 id="what-to-buy" className="text-2xl font-bold mb-4">What Should You Actually Buy?</h2>
         <div className="space-y-4">
           <div className="bg-green-50 p-4 rounded-lg">
             <h3 className="font-bold text-green-800">Just want eye protection → UV400, non-polarized</h3>
@@ -452,7 +466,7 @@ export default function SunglassesLensTechGuidePage() {
 
       {/* FAQ */}
       <section className="mb-10">
-        <h2 className="text-2xl font-bold mb-4">Common Questions</h2>
+        <h2 id="faq" className="text-2xl font-bold mb-4">Common Questions</h2>
         <div className="space-y-4">
           {blogFaqs.map((faq, i) => (
             <div key={i} className="border rounded-lg p-4">

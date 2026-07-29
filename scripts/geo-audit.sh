@@ -74,10 +74,10 @@ BLOG_WITH_TOC=0
 
 for blog_dir in "$SITE_DIR/app/blog"/*/; do
   [ -d "$blog_dir" ] || continue
-  BLOG_COUNT=$((BLOG_COUNT + 1))
   
   page_file="$blog_dir/page.tsx"
   [ -f "$page_file" ] || continue
+  BLOG_COUNT=$((BLOG_COUNT + 1))
   
   # Check Article schema
   if grep -q '"@type".*"Article"' "$page_file" 2>/dev/null; then

@@ -52,6 +52,15 @@ export default function PricingGuide() {
           </div>
         </header>
 
+        <nav className="bg-gray-100 rounded-xl p-6 mb-12">
+          <h2 className="font-bold mb-4">Table of Contents</h2>
+          <ul className="space-y-2">
+            <li><a href="#material-ladder" className="text-primary-600 hover:underline">The Material Price Ladder</a></li>
+            <li><a href="#lens-upgrades" className="text-primary-600 hover:underline">Lens Upgrades: What They Add</a></li>
+            <li><a href="#real-orders" className="text-primary-600 hover:underline">Three Real Orders, Three Real Price Tags</a></li>
+          </ul>
+        </nav>
+
         <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-6">
 
           <p className="text-xl text-gray-600 mb-8">
@@ -60,7 +69,7 @@ export default function PricingGuide() {
 
           <p>I am going to do something most factories will not do: tell you exactly what sunglasses cost to make. Not &ldquo;send us an inquiry for pricing.&rdquo; Not &ldquo;it depends.&rdquo; Real numbers, based on 20 years of running a factory and quoting thousands of orders. If you are trying to figure out whether a quote is fair, or you are planning your first brand and need to budget, this is for you.</p>
 
-          <h2>The Material Price Ladder</h2>
+          <h2 id="material-ladder">The Material Price Ladder</h2>
 
           <p>The single biggest factor in what a pair of sunglasses costs is the frame material. Everything else — lenses, coatings, packaging — gets added on top. Here is what different materials cost at the factory, based on real quotes I give to clients:</p>
 
@@ -108,7 +117,7 @@ export default function PricingGuide() {
 
           <p className="text-sm text-gray-400">Prices are EXW (ex-works) — meaning the cost at our factory door. Logo customization, packaging, and shipping are additional. Prices assume standard UV400 lenses; lens upgrades add to the cost.</p>
 
-          <h2>Lens Upgrades: What They Add</h2>
+          <h2 id="lens-upgrades">Lens Upgrades: What They Add</h2>
 
           <p>Standard UV400 lenses are included in the base prices above. If you want something fancier, here is what it adds per pair:</p>
 
@@ -122,7 +131,7 @@ export default function PricingGuide() {
 
           <p>Polarized is the upgrade I recommend most often. It adds maybe $1.50 per pair and lets you charge $10-15 more at retail. The math is too good to ignore. My clients who launch with polarized sell out faster and reorder bigger.</p>
 
-          <h2>Three Real Orders, Three Real Price Tags</h2>
+          <h2 id="real-orders">Three Real Orders, Three Real Price Tags</h2>
 
           <p><strong>The startup brand.</strong> A couple in Toronto launched a minimalist eyewear brand last year. First order: 200 pairs of <Link href="/products/acetate/" className="text-primary-600 hover:underline">Italian acetate</Link> with polarized TAC lenses, custom logo, and premium packaging. Factory cost: about $12.50/pair. With DHL shipping and Canadian duties, landed at around $14/pair. They sell at $89-99 on their Shopify store. They sold out in six weeks. Second order was 500 pairs.</p>
 

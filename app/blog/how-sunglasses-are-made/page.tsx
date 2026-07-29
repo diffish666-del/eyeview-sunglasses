@@ -51,6 +51,19 @@ export default function HowSunglassesAreMade() {
           </div>
         </header>
 
+        <nav className="bg-gray-100 rounded-xl p-6 mb-12">
+          <h2 className="font-bold mb-4">Table of Contents</h2>
+          <ul className="space-y-2">
+            <li><a href="#raw-materials" className="text-primary-600 hover:underline">The Beginning: What Arrives at Our Door</a></li>
+            <li><a href="#cutting-shaping" className="text-primary-600 hover:underline">Step 1: Cutting and Shaping</a></li>
+            <li><a href="#tumbling-polishing" className="text-primary-600 hover:underline">Step 2: Tumbling and Polishing — Where Cheap Factories Cut Corners</a></li>
+            <li><a href="#lenses" className="text-primary-600 hover:underline">Step 3: The Lenses</a></li>
+            <li><a href="#assembly" className="text-primary-600 hover:underline">Step 4: Assembly</a></li>
+            <li><a href="#quality-control" className="text-primary-600 hover:underline">Step 5: Quality Control — What We Actually Test</a></li>
+            <li><a href="#last-step" className="text-primary-600 hover:underline">The Last Step</a></li>
+          </ul>
+        </nav>
+
         <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-6">
 
           <p className="text-xl text-gray-600 mb-8">
@@ -59,7 +72,7 @@ export default function HowSunglassesAreMade() {
 
           <p>Most people do not. They see the finished product — a shiny pair of sunglasses in a nice case — and never think about the 27 steps it took to get there. I have walked this factory floor every day since 2006. Here is what actually happens between the raw material arriving and the finished product shipping out.</p>
 
-          <h2>The Beginning: What Arrives at Our Door</h2>
+          <h2 id="raw-materials">The Beginning: What Arrives at Our Door</h2>
 
           <p>Monday morning. A truck from the port pulls up with pallets of raw material. Depending on what we are making, it is one of three things:</p>
 
@@ -69,7 +82,7 @@ export default function HowSunglassesAreMade() {
 
           <p><strong><Link href="/products/tr90/" className="text-primary-600 hover:underline">TR90 plastic pellets</Link>.</strong> Tiny granules, maybe 2-3mm each. Look like nothing. But dump them into the injection molding machine hopper and 30 seconds later, a finished frame front pops out the other side. It still feels like magic to me after all these years.</p>
 
-          <h2>Step 1: Cutting and Shaping</h2>
+          <h2 id="cutting-shaping">Step 1: Cutting and Shaping</h2>
 
           <p>For acetate frames, this is where the real work begins. The acetate sheet goes onto a CNC machine — think of a very precise, very expensive router. A diamond-tipped bit cuts the frame front shape out of the sheet, following a CAD file that maps every curve and angle. Each frame front takes 8-12 minutes. The CNC room runs 16 hours a day in two shifts. The noise is deafening and smells like vinegar from the acetate being cut. I have gotten used to it. Visitors usually do not.</p>
 
@@ -77,7 +90,7 @@ export default function HowSunglassesAreMade() {
 
           <p>For injection-molded frames, it is fast and automated. The TR90 pellets melt at about 260°C, get injected into a steel mold at 80-120 tons of pressure, and 20 seconds later a robot arm plucks out a hot frame. One machine produces 1,200-1,500 frame fronts per shift. It is the fastest method, which is why TR90 frames cost less than acetate — less labor, less time, higher throughput.</p>
 
-          <h2>Step 2: Tumbling and Polishing — Where Cheap Factories Cut Corners</h2>
+          <h2 id="tumbling-polishing">Step 2: Tumbling and Polishing — Where Cheap Factories Cut Corners</h2>
 
           <p>Fresh out of the CNC machine, an acetate frame looks terrible. Rough edges, dull surface, machining marks everywhere. It goes into a tumbling barrel — a big rotating drum, about a meter in diameter, filled with wooden pegs and polishing compound. The barrel spins. Slowly. For 24 to 48 hours.</p>
 
@@ -85,7 +98,7 @@ export default function HowSunglassesAreMade() {
 
           <p>After tumbling, skilled workers hand-polish each frame using buffing wheels. This is 100% manual. One experienced polisher finishes about 80-100 frames per day. Their hands develop calluses in specific spots from holding frames against the wheel. It is the kind of skill you cannot teach in a manual — it takes months of practice to know exactly how much pressure to apply.</p>
 
-          <h2>Step 3: The Lenses</h2>
+          <h2 id="lenses">Step 3: The Lenses</h2>
 
           <p>While frames are being cut and polished, the lens department is running parallel. Lenses start as big circular blanks — polycarbonate or TAC material, about 70mm in diameter. A diamond-grit edging machine cuts them to the exact shape of your frame, spraying water coolant the whole time to prevent heat warping.</p>
 
@@ -93,13 +106,13 @@ export default function HowSunglassesAreMade() {
 
           <p>The coating room is the most expensive department in the factory. The vacuum deposition machine alone cost more than my first house. But if you want lenses that actually block UV, repel water, and do not scratch — this is the price of doing it right.</p>
 
-          <h2>Step 4: Assembly</h2>
+          <h2 id="assembly">Step 4: Assembly</h2>
 
           <p>This is where everything comes together and where most of our 150 employees work. Each pair goes through about 15-20 individual assembly operations: hinge insertion, temple attachment, spring mechanism installation, nose pad welding or gluing, lens mounting (press-fit with 0.05mm tolerance), logo engraving via laser or pad printing, temple tip attachment, and final adjustment.</p>
 
           <p>A skilled assembler does 120-150 pairs per day. Our assembly room has 35 people working at stations arranged in a U-shape so frames flow naturally from one station to the next. It is the loudest, busiest part of the factory. The radio is always playing — the workers vote on the station every Monday. Usually it is Cantopop from the 90s. I have learned to tolerate it.</p>
 
-          <h2>Step 5: Quality Control — What We Actually Test</h2>
+          <h2 id="quality-control">Step 5: Quality Control — What We Actually Test</h2>
 
           <p>Six tests. Every batch. No exceptions.</p>
 
@@ -117,7 +130,7 @@ export default function HowSunglassesAreMade() {
 
           <p>Our QC target is a 0.5% defect rate. That means out of 10,000 pairs, 50 or fewer have any detectable issue. We hit this target about 90% of months.</p>
 
-          <h2>The Last Step</h2>
+          <h2 id="last-step">The Last Step</h2>
 
           <p>Every finished pair goes into a microfiber pouch, then a case, then an outer carton. We take a photo of every carton before it leaves — the &ldquo;last look&rdquo; photo. It goes to the client so they can see exactly what is on the way. The cartons get loaded onto a DHL truck that picks up at 4 PM every weekday. By 6 PM the same day, the tracking numbers are in the client&apos;s inbox.</p>
 

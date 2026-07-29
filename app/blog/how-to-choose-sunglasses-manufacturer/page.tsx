@@ -81,6 +81,19 @@ export default function HowToChooseManufacturer() {
       </div>
 
       <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed mb-12">
+
+        <nav className="bg-gray-100 rounded-xl p-6 mb-12">
+          <h2 className="font-bold mb-4">Table of Contents</h2>
+          <ul className="space-y-2">
+            <li><a href="#10-things" className="text-primary-600 hover:underline">The 10 Things to Check</a></li>
+            <li><a href="#red-flags" className="text-primary-600 hover:underline">🚩 Red Flags to Watch For</a></li>
+            <li><a href="#recommendation" className="text-primary-600 hover:underline">My Honest Recommendation</a></li>
+            <li><a href="#faq" className="text-primary-600 hover:underline">Frequently Asked Questions</a></li>
+            <li><a href="#find-manufacturer" className="text-primary-600 hover:underline">Ready to Find Your Manufacturer?</a></li>
+            <li><a href="#related-articles" className="text-primary-600 hover:underline">More From the Factory Floor</a></li>
+            <li><a href="#explore-collection" className="text-primary-600 hover:underline">Explore Our Sunglasses Collection</a></li>
+          </ul>
+        </nav>
         <p className="text-xl leading-relaxed mb-4">
           I get about three emails a week from people asking me to evaluate sunglasses manufacturers they&apos;re considering. Some send me factory profiles. Some send me photos of samples. Some just paste a WeChat chat log and ask &ldquo;is this legit?&rdquo;
         </p>
@@ -94,7 +107,7 @@ export default function HowToChooseManufacturer() {
 
       {/* Key Points */}
       <div className="bg-blue-50 rounded-xl p-8 mb-12">
-        <h2 className="text-2xl font-bold mb-4">The 10 Things to Check</h2>
+        <h2 id="10-things" className="text-2xl font-bold mb-4">The 10 Things to Check</h2>
         <ol className="space-y-4">
           {[
             { num: '1', title: 'Factory vs. Trading Company', desc: 'Make sure you&apos;re dealing with the actual manufacturer, not a middleman. Trading companies add 15-30% to your cost and can&apos;t fix production problems in real time.' },
@@ -121,7 +134,7 @@ export default function HowToChooseManufacturer() {
 
       {/* Red Flags */}
       <div className="bg-red-50 rounded-xl p-8 mb-12">
-        <h2 className="text-2xl font-bold mb-4 text-red-700">🚩 Red Flags to Watch For</h2>
+        <h2 id="red-flags" className="text-2xl font-bold mb-4 text-red-700">🚩 Red Flags to Watch For</h2>
         <ul className="space-y-3">
           {[
             'Prices significantly below market average (if it&apos;s 50% cheaper than everyone else, something is wrong)',
@@ -143,7 +156,7 @@ export default function HowToChooseManufacturer() {
 
       {/* My Recommendation */}
       <div className="bg-green-50 rounded-xl p-8 mb-12">
-        <h2 className="text-2xl font-bold mb-4 text-green-700">My Honest Recommendation</h2>
+        <h2 id="recommendation" className="text-2xl font-bold mb-4 text-green-700">My Honest Recommendation</h2>
         <p className="text-gray-700 leading-relaxed mb-4">
           Look, I&apos;m going to be direct: <Link href="/contact" className="text-primary-600 hover:underline">contact EyeView Sunglasses</Link> for a quote. Not because I think we&apos;re the only good factory (there are several), but because I know what we deliver and I stand behind it.
         </p>
@@ -172,7 +185,7 @@ export default function HowToChooseManufacturer() {
 
       {/* FAQ */}
       <div className="mb-12">
-        <h2 className="text-2xl font-bold mb-6">Frequently Asked Questions</h2>
+        <h2 id="faq" className="text-2xl font-bold mb-6">Frequently Asked Questions</h2>
         <div className="space-y-6">
           {[
             {
@@ -198,7 +211,7 @@ export default function HowToChooseManufacturer() {
 
       {/* CTA */}
       <div className="bg-primary-600 rounded-xl p-8 text-center text-white">
-        <h2 className="text-2xl font-bold mb-4">Ready to Find Your Manufacturer?</h2>
+        <h2 id="find-manufacturer" className="text-2xl font-bold mb-4">Ready to Find Your Manufacturer?</h2>
         <p className="mb-6">Tell us about your brand and we&apos;ll give you an honest quote -- no pressure, no obligation. If we&apos;re not the right fit, we&apos;ll tell you that too.</p>
         <Link href="/contact" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg inline-block">
           Contact Jacky for a Quote
@@ -207,7 +220,7 @@ export default function HowToChooseManufacturer() {
 
       {/* Related Articles */}
       <div className="mt-16 pt-8 border-t border-gray-200">
-        <h2 className="text-2xl font-bold mb-6">More From the Factory Floor</h2>
+        <h2 id="related-articles" className="text-2xl font-bold mb-6">More From the Factory Floor</h2>
         <div className="grid md:grid-cols-2 gap-6">
           <Link href="/blog/oem-vs-odm" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
             <h3 className="font-bold text-primary-600 mb-2">OEM vs ODM Sunglasses: Complete Guide</h3>
@@ -222,7 +235,7 @@ export default function HowToChooseManufacturer() {
 
       {/* Related Products */}
       <div className="mt-16 pt-8 border-t border-gray-200">
-        <h2 className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
+        <h2 id="explore-collection" className="text-2xl font-bold mb-6">Explore Our Sunglasses Collection</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <Link href="/products/wayfarer" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
             <h3 className="font-bold text-primary-600 mb-2">Wayfarer Sunglasses</h3>

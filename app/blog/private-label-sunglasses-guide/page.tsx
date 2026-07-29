@@ -51,6 +51,15 @@ export default function PrivateLabelGuide() {
           </div>
         </header>
 
+        <nav className="bg-gray-100 rounded-xl p-6 mb-12">
+          <h2 className="font-bold mb-4">Table of Contents</h2>
+          <ul className="space-y-2">
+            <li><a href="#comparison" className="text-primary-600 hover:underline">Private Label vs Custom: The Honest Comparison</a></li>
+            <li><a href="#how-to" className="text-primary-600 hover:underline">How to Actually Do This</a></li>
+            <li><a href="#successful" className="text-primary-600 hover:underline">What the Successful Ones Do Differently</a></li>
+          </ul>
+        </nav>
+
         <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-6">
 
           <p className="text-xl text-gray-600 mb-8">
@@ -61,7 +70,7 @@ export default function PrivateLabelGuide() {
 
           <p>If you want to launch your own sunglass brand, here is what actually works — not the Instagram version, not the guru version, but the version I have watched play out in real life hundreds of times.</p>
 
-          <h2>Private Label vs Custom: The Honest Comparison</h2>
+          <h2 id="comparison">Private Label vs Custom: The Honest Comparison</h2>
 
           <p>Most people confuse these terms. Let me clear it up in plain English:</p>
 
@@ -73,7 +82,7 @@ export default function PrivateLabelGuide() {
 
           <p>I have watched dozens of first-timers blow their entire budget on custom designs that missed the market. The private label path lets you test what actually sells before you put a mortgage payment into custom molds.</p>
 
-          <h2>How to Actually Do This</h2>
+          <h2 id="how-to">How to Actually Do This</h2>
 
           <p><strong>Pick 3-4 styles. Not 20.</strong> Every new brand owner wants to launch with a full collection. It is a mistake. Focus on a tight core and go deeper on each style. Here is what works in the real world:</p>
 
@@ -87,7 +96,7 @@ export default function PrivateLabelGuide() {
 
           <p><strong>Invest in the unboxing.</strong> I said this in my packaging guide and I will say it again because it is that important: the packaging makes the product. A decent frame in great packaging outsells a great frame in cheap packaging every single time. Spend the extra $1.50-2.50 per pair on a <Link href="/products/sunglasses-case/" className="text-primary-600 hover:underline">nice case and cleaning cloth</Link>. It adds maybe $500-750 to a 300-piece order, and it is the best marketing investment you will make because customers will post your unboxing on social media for free.</p>
 
-          <h2>What the Successful Ones Do Differently</h2>
+          <h2 id="successful">What the Successful Ones Do Differently</h2>
 
           <p>The brands that make it past the first year tend to do three things:</p>
 

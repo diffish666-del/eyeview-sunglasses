@@ -53,6 +53,15 @@ export default function PackagingIdeasPage() {
           </div>
         </header>
 
+        <nav className="bg-gray-100 rounded-xl p-6 mb-12">
+          <h2 className="font-bold mb-4">Table of Contents</h2>
+          <ul className="space-y-2">
+            <li><a href="#packaging-menu" className="text-primary-600 hover:underline">The Packaging Menu: What Exists, What It Costs</a></li>
+            <li><a href="#unboxing-stack" className="text-primary-600 hover:underline">The "Unboxing Stack"</a></li>
+            <li><a href="#packaging-mistakes" className="text-primary-600 hover:underline">Mistakes I See Brands Make</a></li>
+          </ul>
+        </nav>
+
         <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-6">
 
           <p className="text-xl text-gray-600 mb-8">
@@ -61,7 +70,7 @@ export default function PackagingIdeasPage() {
 
           <p>I have shipped to over 500 brands across 50 countries. If there is one thing I have learned, it is this: your packaging is doing more work than your sunglasses. The customer already bought the sunglasses. The packaging is what creates the moment — the thing they film, the thing they post, the reason they come back. Here is what I tell every brand about packaging.</p>
 
-          <h2>The Packaging Menu: What Exists, What It Costs</h2>
+          <h2 id="packaging-menu">The Packaging Menu: What Exists, What It Costs</h2>
 
           <div className="space-y-4 my-6">
             <div className="border rounded-lg p-4">
@@ -107,7 +116,7 @@ export default function PackagingIdeasPage() {
 
           <p className="text-sm text-gray-400">All prices are EXW factory. MOQ for custom packaging is usually 500 units. Lead time is 2-3 weeks for most case types.</p>
 
-          <h2>The &quot;Unboxing Stack&quot;</h2>
+          <h2 id="unboxing-stack">The &quot;Unboxing Stack&quot;</h2>
 
           <p>Smart brands do not just put sunglasses in a case and call it done. They layer the experience. Here is what I recommend for a mid-market brand ($30-60 retail):</p>
 
@@ -121,7 +130,7 @@ export default function PackagingIdeasPage() {
 
           <p>Total for that stack: about $2.50-3.50 per unit. At 300 pairs, that is $750-1,050 invested in packaging. If it lets you charge $10 more per pair, you make that back on the first 75 sales and everything after is pure margin. And — this is the part nobody calculates — good packaging generates free marketing. Customers post unboxing videos. Friends ask &ldquo;where did you get those?&rdquo; The packaging pays for itself multiple times over.</p>
 
-          <h2>Mistakes I See Brands Make</h2>
+          <h2 id="packaging-mistakes">Mistakes I See Brands Make</h2>
 
           <p><strong>The case is too small.</strong> This happens constantly with oversized styles like <Link href="/products/cat-eye/" className="text-primary-600 hover:underline">cat eyes</Link> and <Link href="/products/sport/" className="text-primary-600 hover:underline">sport wraps</Link>. If the customer has to force the sunglasses into the case, they will stop using it — and the sunglasses will get scratched in their bag. Always send your frame dimensions to the case supplier before ordering. Better yet, order samples of both the frame and the case together so you can test the fit.</p>
 
