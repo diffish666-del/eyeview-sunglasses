@@ -16,16 +16,6 @@ export const metadata: Metadata = {
 
 const posts = [
   {
-    slug: 'sonnenbrillen-fachmessen-leitfaden',
-    title: 'Sonnenbrillen-Fachmessen 2026: Leitfaden zur Lieferantensuche',
-    excerpt: 'Ein Fabrikinhaber führt Sie durch MIDO, SILMO, Vision Expo, IOFT und HK Optical Fair — Standkosten, Strategien zur Lieferantenprüfung und Follow-up, das wirklich funktioniert.',
-    date: '20. Juli 2026',
-    category: 'Beschaffung',
-    readTime: '8 Min. Lesezeit',
-    emoji: '🎪',
-    featured: false,
-  },
-  {
     slug: 'verhandeln-chinesische-hersteller',
     title: 'Verhandeln mit chinesischen Sonnenbrillen-Herstellern: Insider-Leitfaden',
     excerpt: 'Ein Fabrikinhaber verrät, was wirklich passiert, wenn Sie verhandeln — echte Preisstufen, MOQ-Flexibilität, Sätze die wirken und was Fabrikinhaber denken.',

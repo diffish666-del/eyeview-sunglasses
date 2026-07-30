@@ -18,8 +18,6 @@ const nextConfig = {
   experimental: {
     // Reduce CPU concurrency to save memory
     cpus: Math.max(1, (os.cpus()?.length ?? 4) - 1),
-    // Webpack memory optimizations (Next.js 14.1+)
-    webpackMemoryOptimizations: true,
   },
   webpack: (config, { dev }) => {
     // Disable webpack filesystem cache to reduce memory
