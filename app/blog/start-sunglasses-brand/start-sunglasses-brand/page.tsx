@@ -94,6 +94,13 @@ export default function StartSunglassesBrandPage() {
           <p className="text-xl text-gray-600">
             Everything you need to know about launching your own eyewear brand, from initial concept to first sale.
           </p>
+          <div className="flex items-center gap-3 mt-6 pt-6 border-t border-gray-200">
+            <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
+            <div>
+              <div className="font-medium text-gray-900">Jacky Chen</div>
+              <div className="text-sm text-gray-500">Founder, EyeView Sunglasses</div>
+            </div>
+          </div>
         </header>
 
         {/* Table of Contents */}

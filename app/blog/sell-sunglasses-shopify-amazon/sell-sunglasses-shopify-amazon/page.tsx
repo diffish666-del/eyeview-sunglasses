@@ -51,7 +51,7 @@ export default function SellSunglassesShopifyAmazonPage() {
             "datePublished": "2026-07-17",
             "dateModified": "2026-07-17",
             "description": "Real factory perspective on selling sunglasses on Shopify vs Amazon. Margins, fees, fulfillment, brand control — honest comparison from someone who supplies both channels.",
-            "author": { "@type": "Organization", "name": "EyeView Sunglasses" },
+            "author": { "@type": "Person", "name": "Jacky Chen", "jobTitle": "Founder", "worksFor": { "@type": "Organization", "name": "EyeView Sunglasses" } },
             "publisher": { "@type": "Organization", "name": "EyeView Sunglasses", "logo": { "@type": "ImageObject", "url": "https://eyeviewsunglasses.com/logo.png" } }
           })
         }}
@@ -83,6 +83,14 @@ export default function SellSunglassesShopifyAmazonPage() {
         How to Sell Sunglasses on Shopify vs Amazon: 2026 Guide for Brand Owners
       </h1>
       <p className="text-gray-500 mb-8">Published July 17, 2026 · 12 min read</p>
+
+        <div className="flex items-center gap-3 mb-8">
+          <div className="w-10 h-10 rounded-full bg-primary-600 flex items-center justify-center text-white font-bold text-sm">JC</div>
+          <div>
+            <div className="font-medium text-gray-900">Jacky Chen</div>
+            <div className="text-sm text-gray-500">Founder, EyeView Sunglasses</div>
+          </div>
+        </div>
 
         <nav className="bg-gray-100 rounded-xl p-6 mb-12">
           <h2 className="font-bold mb-4">Table of Contents</h2>

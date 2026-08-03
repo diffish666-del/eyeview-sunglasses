@@ -21,6 +21,26 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'sunglasses-retail-display-merchandising',
+    title: 'Sunglasses Retail Display & Merchandising: How to Make Wholesale Eyewear Move Off the Shelf',
+    excerpt: 'Practical guide to sunglasses retail displays: counter spinners, wall racks, lighting strategies, POP materials, and seasonal merchandising. Factory-tested display strategies that increase in-store sell-through for wholesale eyewear brands.',
+    date: 'August 4, 2026',
+    category: 'Retail Operations',
+    readTime: '12 min read',
+    emoji: '🏪',
+    featured: true,
+  },
+  {
+    slug: 'photochromic-sunglasses-wholesale-guide',
+    title: 'Photochromic Sunglasses Wholesale Guide: Transition Lenses Pricing, MOQ & Factory Sourcing',
+    excerpt: 'Factory-direct guide to photochromic sunglasses wholesale: lens quality grades (entry/mid/high), bulk pricing by quantity tier, MOQ minimums, fade-speed testing methods, and how to avoid cheap photochromic lenses that kill your brand reputation.',
+    date: 'August 4, 2026',
+    category: 'Product Guide',
+    readTime: '14 min read',
+    emoji: '🕶️',
+    featured: true,
+  },
+  {
     slug: 'kids-sunglasses-wholesale-guide',
     title: 'Kids Sunglasses Wholesale Guide: B2B Sourcing, Safety Standards & Bulk Pricing',
     excerpt: 'Complete B2B guide to sourcing kids sunglasses wholesale: FDA/CE safety requirements, age-specific sizing, flexible frame materials, bulk pricing by quantity tier, and the #1 mistake importers make with children\'s eyewear.',
