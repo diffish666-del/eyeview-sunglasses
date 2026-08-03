@@ -21,6 +21,16 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'kids-sunglasses-wholesale-guide',
+    title: 'Kids Sunglasses Wholesale Guide: B2B Sourcing, Safety Standards & Bulk Pricing',
+    excerpt: 'Complete B2B guide to sourcing kids sunglasses wholesale: FDA/CE safety requirements, age-specific sizing, flexible frame materials, bulk pricing by quantity tier, and the #1 mistake importers make with children\'s eyewear.',
+    date: 'August 4, 2026',
+    category: 'Wholesale Guide',
+    readTime: '11 min read',
+    emoji: '👶',
+    featured: true,
+  },
+  {
     slug: 'b2b-vs-b2c-sunglasses',
     title: 'B2B vs B2C Sunglasses: Which Business Model Actually Makes Money in 2026?',
     excerpt: 'A factory owner who supplies both B2B wholesalers and DTC brands compares the real numbers: margins, cash flow, customer acquisition costs, and which model survives a downturn.',
