@@ -132,7 +132,7 @@ export default function KidsSunglassesWholesaleGuide() {
           </p>
         </section>
 
-        <QuickStats items={quickStats} />
+        <QuickStats stats={quickStats} />
 
         {/* ═══════ SAFETY STANDARDS ═══════ */}
         <section className="mb-12">
