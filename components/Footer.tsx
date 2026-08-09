@@ -38,7 +38,7 @@ export default function Footer() {
             <h4 className="text-white font-semibold mb-3">Contact</h4>
             <ul className="space-y-2 text-sm">
               <li>📧 sales@eyeviewsunglasses.com</li>
-              <li>📱 WhatsApp: +86-18850281211</li>
+              <li>📱 <a href="https://wa.me/8618850281211?text=Hi%21+I%27m+interested+in+your+sunglasses.+%28From%3A+eyeviewsunglasses.com%29" target="_blank" rel="noopener noreferrer" class="hover:text-white transition">WhatsApp: +86 188-5028-1211</a></li>
               <li>⏰ Response within 24 hours</li>
             </ul>
           </div>
