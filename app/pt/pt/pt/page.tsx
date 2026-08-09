@@ -5,11 +5,11 @@ import CTASection from '@/components/CTASection';
 
 export const metadata: Metadata = {
   title: {
-    absolute: 'Fabricante de Óculos de Sol no Atacado | Fábrica OEM de Óculos Personalizados - EyeView',
+    absolute: 'Óculos de Sol no Atacado a partir de 100 unid. | Fábrica OEM China — EyeView',
   },
-  description: 'EyeView é um fabricante líder de óculos de sol no atacado com serviços OEM e ODM. Mais de 15 anos de experiência, mais de 500 clientes globais. Solicite seu orçamento grátis hoje.',
+  description: 'Fábrica de óculos de sol no atacado diretamente da China. OEM/ODM, MOQ 100 unid., UV400, polarizados, logotipos personalizados. 15+ anos, 500+ marcas. Amostras grátis.',
   openGraph: {
-    title: 'Fabricante de Óculos de Sol no Atacado | Fábrica OEM - EyeView',
+    title: 'Óculos de Sol no Atacado a partir de 100 unid. | Fábrica OEM China — EyeView',
     description: 'EyeView é um fabricante líder de óculos de sol no atacado com serviços OEM e ODM. Mais de 15 anos de experiência, mais de 500 clientes globais.',
     type: 'website',
     locale: 'pt_BR',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     canonical: 'https://eyeviewsunglasses.com/pt/',
     languages: {
       'en': 'https://eyeviewsunglasses.com',
-      'pt': 'https://eyeviewsunglasses.com/pt',
+      'pt': 'https://eyeviewsunglasses.com/pt/',
     },
   },
 };
@@ -171,7 +171,7 @@ const breadcrumbJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Início', item: 'https://eyeviewsunglasses.com/pt' },
+    { '@type': 'ListItem', position: 1, name: 'Início', item: 'https://eyeviewsunglasses.com/pt/' },
   ],
 };
 

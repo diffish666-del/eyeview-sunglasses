@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/products/round/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/round',
-      'es': 'https://eyeviewsunglasses.com/es/productos/redondo',
+      'en': 'https://eyeviewsunglasses.com/products/round/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/redondo/',
     },
   },
 }
@@ -79,7 +79,7 @@ export default function RoundPage() {
       <BreadcrumbListSchema items={[
         { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
         { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
-        { name: 'Round Sunglasses', item: 'https://eyeviewsunglasses.com/products/round' },
+        { name: 'Round Sunglasses', item: 'https://eyeviewsunglasses.com/products/round/' },
       ]} />
 
       {/* FAQPage Schema */}

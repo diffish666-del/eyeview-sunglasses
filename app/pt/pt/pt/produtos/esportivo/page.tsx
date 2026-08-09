@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/pt/produtos/esportivo/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/sport',
-      'pt': 'https://eyeviewsunglasses.com/pt/produtos/esportivo',
+      'en': 'https://eyeviewsunglasses.com/products/sport/',
+      'pt': 'https://eyeviewsunglasses.com/pt/produtos/esportivo/',
     },
   },
 }

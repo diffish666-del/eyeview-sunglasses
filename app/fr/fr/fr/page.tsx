@@ -5,12 +5,12 @@ import CTASection from '@/components/CTASection';
 
 export const metadata: Metadata = {
   title: {
-    absolute: 'Fabricant de Lunettes de Soleil en Gros | Usine OEM de Lunettes Personnalisées - EyeView',
+    absolute: 'Fabricant de Lunettes de Soleil en Gros | Usine OEM Chine dès 100 pcs — EyeView',
   },
-  description: 'EyeView est un fabricant leader de lunettes de soleil en gros offrant des services OEM et ODM. Plus de 15 ans d\'expérience, plus de 500 clients internationaux. Demandez votre devis gratuit aujourd\'hui.',
+  description: 'Fabricant de lunettes de soleil en gros directement d\'usine en Chine. OEM/ODM, MOQ 100 pcs, UV400, polarisées, logos personnalisés. 15+ ans, 500+ marques. Échantillons gratuits.',
   openGraph: {
-    title: 'Fabricant de Lunettes de Soleil en Gros | Usine OEM - EyeView',
-    description: 'EyeView est un fabricant leader de lunettes de soleil en gros avec services OEM et ODM. Plus de 15 ans d\'expérience, plus de 500 clients internationaux.',
+    title: 'Fabricant de Lunettes de Soleil en Gros | Usine OEM Chine — EyeView',
+    description: 'Fabricant de lunettes de soleil en gros directement d\'usine en Chine. OEM/ODM, MOQ 100 pcs. 15+ ans, 500+ marques.',
     type: 'website',
     locale: 'fr_FR',
     url: 'https://eyeviewsunglasses.com/fr/',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     canonical: 'https://eyeviewsunglasses.com/fr/',
     languages: {
       'en': 'https://eyeviewsunglasses.com',
-      'fr': 'https://eyeviewsunglasses.com/fr',
+      'fr': 'https://eyeviewsunglasses.com/fr/',
     },
   },
 };
@@ -171,7 +171,7 @@ const breadcrumbJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Accueil', item: 'https://eyeviewsunglasses.com/fr' },
+    { '@type': 'ListItem', position: 1, name: 'Accueil', item: 'https://eyeviewsunglasses.com/fr/' },
   ],
 };
 

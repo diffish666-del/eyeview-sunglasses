@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/it/prodotti/luce-blu/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/blue-light',
-      'it': 'https://eyeviewsunglasses.com/it/prodotti/luce-blu',
+      'en': 'https://eyeviewsunglasses.com/products/blue-light/',
+      'it': 'https://eyeviewsunglasses.com/it/prodotti/luce-blu/',
     },
   },
 }

@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/es/certificaciones/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/certifications',
-      'es': 'https://eyeviewsunglasses.com/es/certificaciones',
+      'en': 'https://eyeviewsunglasses.com/certifications/',
+      'es': 'https://eyeviewsunglasses.com/es/certificaciones/',
     },
   },
   openGraph: {
@@ -35,7 +35,7 @@ export default function CertificationsPageEs() {
               "@type": "ListItem",
               "position": 1,
               "name": "Inicio",
-              "item": "https://eyeviewsunglasses.com/es"
+              "item": "https://eyeviewsunglasses.com/es/"
             },
             {
               "@type": "ListItem",

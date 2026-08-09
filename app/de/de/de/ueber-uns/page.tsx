@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/de/ueber-uns/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/about',
-      'de': 'https://eyeviewsunglasses.com/de/ueber-uns',
+      'en': 'https://eyeviewsunglasses.com/about/',
+      'de': 'https://eyeviewsunglasses.com/de/ueber-uns/',
     },
   },
   openGraph: {

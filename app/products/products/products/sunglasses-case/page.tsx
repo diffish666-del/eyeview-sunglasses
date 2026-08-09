@@ -15,8 +15,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/products/sunglasses-case/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/sunglasses-case',
-      'es': 'https://eyeviewsunglasses.com/es/productos/funda-gafas',
+      'en': 'https://eyeviewsunglasses.com/products/sunglasses-case/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/funda-gafas/',
     },
   },
 }

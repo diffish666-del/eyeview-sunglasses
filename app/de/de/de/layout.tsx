@@ -5,7 +5,7 @@ const localBusinessJsonLd = {
   "@type": "LocalBusiness",
   "name": "EyeView Sunglasses Factory",
   "description": "Führender Großhandelshersteller von Sonnenbrillen mit maßgeschneiderten OEM- und ODM-Sonnenbrillen und über 15 Jahren Erfahrung.",
-  "url": "https://eyeviewsunglasses.com/de",
+  "url": "https://eyeviewsunglasses.com/de/",
   "telephone": "+86-18850281211",
   "email": "sales@eyeviewsunglasses.com",
   "address": {
@@ -26,7 +26,7 @@ const webSiteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "EyeView Sunglasses",
-  "url": "https://eyeviewsunglasses.com/de",
+  "url": "https://eyeviewsunglasses.com/de/",
   "description": "Führender Großhandelshersteller von Sonnenbrillen mit maßgeschneiderten OEM- und ODM-Sonnenbrillen und über 15 Jahren Erfahrung. Über 500 Kunden weltweit.",
   "inLanguage": "de",
   "potentialAction": {
@@ -43,7 +43,7 @@ const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "EyeView Sunglasses",
-  "url": "https://eyeviewsunglasses.com/de",
+  "url": "https://eyeviewsunglasses.com/de/",
   "logo": "https://eyeviewsunglasses.com/logo.png",
   "description": "Führender Großhandelshersteller von Sonnenbrillen mit über 15 Jahren Erfahrung in der OEM- und ODM-Fertigung.",
   "email": "sales@eyeviewsunglasses.com",

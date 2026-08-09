@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/de/produkte/rund/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/round',
-      'de': 'https://eyeviewsunglasses.com/de/produkte/rund',
+      'en': 'https://eyeviewsunglasses.com/products/round/',
+      'de': 'https://eyeviewsunglasses.com/de/produkte/rund/',
     },
   },
 }

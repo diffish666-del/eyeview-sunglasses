@@ -5,12 +5,12 @@ import CTASection from '@/components/CTASection';
 
 export const metadata: Metadata = {
   title: {
-    absolute: 'Sonnenbrillen Großhandel Hersteller | OEM Brillenfabrik für individuelle Sonnenbrillen - EyeView',
+    absolute: 'Sonnenbrillen Großhandel ab 100 Stück | OEM Fabrik China — EyeView',
   },
-  description: 'EyeView ist ein führender Sonnenbrillen-Großhandelshersteller mit OEM- und ODM-Dienstleistungen. Über 15 Jahre Erfahrung, mehr als 500 globale Kunden. Fordern Sie noch heute Ihr kostenloses Angebot an.',
+  description: 'Sonnenbrillen Großhandel direkt ab Fabrik. MOQ 100 Stück, UV400 + polarisiert, individuelle Logos. 15+ Jahre Erfahrung, 500+ Marken weltweit. Jetzt kostenloses Muster anfordern.',
   openGraph: {
-    title: 'Sonnenbrillen Großhandel Hersteller | OEM-Fabrik - EyeView',
-    description: 'EyeView ist ein führender Sonnenbrillen-Großhandelshersteller mit OEM- und ODM-Dienstleistungen. Über 15 Jahre Erfahrung, mehr als 500 globale Kunden.',
+    title: 'Sonnenbrillen Großhandel ab 100 Stück | OEM Fabrik China — EyeView',
+    description: 'Sonnenbrillen Großhandel direkt ab Fabrik. MOQ 100 Stück, UV400 + polarisiert, individuelle Logos. 15+ Jahre, 500+ Marken weltweit.',
     type: 'website',
     locale: 'de_DE',
     url: 'https://eyeviewsunglasses.com/de/',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     canonical: 'https://eyeviewsunglasses.com/de/',
     languages: {
       'en': 'https://eyeviewsunglasses.com',
-      'de': 'https://eyeviewsunglasses.com/de',
+      'de': 'https://eyeviewsunglasses.com/de/',
     },
   },
 };
@@ -171,7 +171,7 @@ const breadcrumbJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Startseite', item: 'https://eyeviewsunglasses.com/de' },
+    { '@type': 'ListItem', position: 1, name: 'Startseite', item: 'https://eyeviewsunglasses.com/de/' },
   ],
 };
 

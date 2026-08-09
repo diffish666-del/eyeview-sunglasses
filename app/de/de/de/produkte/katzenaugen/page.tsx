@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/de/produkte/katzenaugen/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/cat-eye',
-      'de': 'https://eyeviewsunglasses.com/de/produkte/katzenaugen',
+      'en': 'https://eyeviewsunglasses.com/products/cat-eye/',
+      'de': 'https://eyeviewsunglasses.com/de/produkte/katzenaugen/',
     },
   },
 }

@@ -15,8 +15,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/pt/produtos/acetato/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/acetate',
-      'pt': 'https://eyeviewsunglasses.com/pt/produtos/acetato',
+      'en': 'https://eyeviewsunglasses.com/products/acetate/',
+      'pt': 'https://eyeviewsunglasses.com/pt/produtos/acetato/',
     },
   },
 }

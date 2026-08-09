@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/products/kids/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/kids',
-      'es': 'https://eyeviewsunglasses.com/es/productos/ninos',
+      'en': 'https://eyeviewsunglasses.com/products/kids/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/ninos/',
     },
   },
 }
@@ -79,7 +79,7 @@ export default function KidsPage() {
       <BreadcrumbListSchema items={[
         { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
         { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
-        { name: 'Kids Sunglasses', item: 'https://eyeviewsunglasses.com/products/kids' },
+        { name: 'Kids Sunglasses', item: 'https://eyeviewsunglasses.com/products/kids/' },
       ]} />
 
       {/* FAQPage Schema */}

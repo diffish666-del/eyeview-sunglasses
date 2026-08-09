@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/products/blue-light/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/blue-light',
-      'es': 'https://eyeviewsunglasses.com/es/productos/luz-azul',
+      'en': 'https://eyeviewsunglasses.com/products/blue-light/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/luz-azul/',
     },
   },
 }
@@ -79,7 +79,7 @@ export default function BlueLightPage() {
       <BreadcrumbListSchema items={[
         { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
         { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
-        { name: 'Blue Light Blocking Glasses', item: 'https://eyeviewsunglasses.com/products/blue-light' },
+        { name: 'Blue Light Blocking Glasses', item: 'https://eyeviewsunglasses.com/products/blue-light/' },
       ]} />
 
       {/* FAQPage Schema */}

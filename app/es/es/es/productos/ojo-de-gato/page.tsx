@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/cat-eye',
-      'es': 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato',
+      'en': 'https://eyeviewsunglasses.com/products/cat-eye/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato/',
     },
   },
 }

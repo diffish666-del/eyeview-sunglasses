@@ -5,12 +5,12 @@ import CTASection from '@/components/CTASection';
 
 export const metadata: Metadata = {
   title: {
-    absolute: 'Fabricante de Gafas de Sol al Por Mayor | Fábrica OEM de Gafas Personalizadas - EyeView',
+    absolute: 'Fabricante de Gafas de Sol al Por Mayor | OEM China desde 100 uds. — EyeView',
   },
-  description: 'EyeView es un fabricante líder de gafas de sol al por mayor con servicios OEM y ODM. Más de 15 años de experiencia, más de 500 clientes globales. Solicita tu cotización gratis hoy.',
+  description: 'Fábrica de gafas de sol al por mayor directamente desde China. OEM/ODM, MOQ 100 uds., UV400, polarizadas, logotipos personalizados. 15+ años, 500+ marcas. Muestras gratis.',
   openGraph: {
-    title: 'Fabricante de Gafas de Sol al Por Mayor | Fábrica OEM - EyeView',
-    description: 'EyeView es un fabricante líder de gafas de sol al por mayor con servicios OEM y ODM. Más de 15 años de experiencia, más de 500 clientes globales.',
+    title: 'Fabricante de Gafas de Sol al Por Mayor | OEM China desde 100 uds. — EyeView',
+    description: 'Fábrica de gafas de sol al por mayor directamente desde China. OEM/ODM, MOQ 100 uds., UV400, polarizadas, logotipos personalizados. 15+ años, 500+ marcas.',
     type: 'website',
     locale: 'es_ES',
     url: 'https://eyeviewsunglasses.com/es/',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     canonical: 'https://eyeviewsunglasses.com/es/',
     languages: {
       'en': 'https://eyeviewsunglasses.com',
-      'es': 'https://eyeviewsunglasses.com/es',
+      'es': 'https://eyeviewsunglasses.com/es/',
     },
   },
 };
@@ -171,7 +171,7 @@ const breadcrumbJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Inicio', item: 'https://eyeviewsunglasses.com/es' },
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: 'https://eyeviewsunglasses.com/es/' },
   ],
 };
 

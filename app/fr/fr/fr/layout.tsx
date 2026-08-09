@@ -5,7 +5,7 @@ const localBusinessJsonLd = {
   "@type": "LocalBusiness",
   "name": "EyeView Sunglasses Factory",
   "description": "Fabricant leader de lunettes de soleil en gros proposant des lunettes de soleil OEM et ODM personnalisées avec plus de 15 ans d'expérience.",
-  "url": "https://eyeviewsunglasses.com/fr",
+  "url": "https://eyeviewsunglasses.com/fr/",
   "telephone": "+86-18850281211",
   "email": "sales@eyeviewsunglasses.com",
   "address": {
@@ -26,7 +26,7 @@ const webSiteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "EyeView Sunglasses",
-  "url": "https://eyeviewsunglasses.com/fr",
+  "url": "https://eyeviewsunglasses.com/fr/",
   "description": "Fabricant leader de lunettes de soleil en gros proposant des lunettes de soleil OEM et ODM personnalisées avec plus de 15 ans d'expérience. Plus de 500 clients dans le monde.",
   "inLanguage": "fr",
   "potentialAction": {
@@ -43,7 +43,7 @@ const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "EyeView Sunglasses",
-  "url": "https://eyeviewsunglasses.com/fr",
+  "url": "https://eyeviewsunglasses.com/fr/",
   "logo": "https://eyeviewsunglasses.com/logo.png",
   "description": "Fabricant leader de lunettes de soleil en gros avec plus de 15 ans d'expérience en fabrication OEM et ODM.",
   "email": "sales@eyeviewsunglasses.com",

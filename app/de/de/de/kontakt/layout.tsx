@@ -4,8 +4,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/de/kontakt/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/contact',
-      'de': 'https://eyeviewsunglasses.com/de/kontakt',
+      'en': 'https://eyeviewsunglasses.com/contact/',
+      'de': 'https://eyeviewsunglasses.com/de/kontakt/',
     },
   },
 }

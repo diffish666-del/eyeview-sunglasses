@@ -123,7 +123,7 @@ export function BlogPostingSchema({ post }: { post: { headline: string; datePubl
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://eyeviewsunglasses.com/blog"
+      "@id": "https://eyeviewsunglasses.com/blog/"
     }
   }
 

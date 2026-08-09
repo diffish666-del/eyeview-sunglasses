@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/fr/produits/sport/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/sport',
-      'fr': 'https://eyeviewsunglasses.com/fr/produits/sport',
+      'en': 'https://eyeviewsunglasses.com/products/sport/',
+      'fr': 'https://eyeviewsunglasses.com/fr/produits/sport/',
     },
   },
 }
@@ -329,7 +329,7 @@ export default function SportPageFr() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://eyeviewsunglasses.com/fr" },
+          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://eyeviewsunglasses.com/fr/" },
           { "@type": "ListItem", "position": 2, "name": "Produits", "item": "https://eyeviewsunglasses.com/fr/produits" },
           { "@type": "ListItem", "position": 3, "name": "Lunettes Sport", "item": "https://eyeviewsunglasses.com/fr/produits/sport" }
         ]

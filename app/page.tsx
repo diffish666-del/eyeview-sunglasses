@@ -7,14 +7,14 @@ import { ServiceSchema } from '@/components/SchemaMarkup';
 
 export const metadata: Metadata = {
   title: {
-    absolute: 'Wholesale Sunglasses Manufacturer | OEM Custom Sunglasses Factory - EyeView',
+    absolute: 'Wholesale Sunglasses Manufacturer | OEM Factory China, MOQ 100pcs — EyeView',
   },
-  description: 'EyeView is a leading wholesale sunglasses manufacturer offering OEM & ODM custom sunglasses. 15+ years experience, 500+ global clients. Get a free quote today.',
+  description: 'Wholesale sunglasses factory in China since 2006. OEM/ODM custom sunglasses, MOQ 100pcs, UV400 polarized, private label. 500+ brands worldwide. Free samples & quote.',
   openGraph: {
-    title: 'Wholesale Sunglasses Manufacturer | OEM Custom Sunglasses Factory - EyeView',
-    description: 'EyeView is a leading wholesale sunglasses manufacturer offering OEM & ODM custom sunglasses. 15+ years experience, 500+ global clients.',
+    title: 'Wholesale Sunglasses Manufacturer | OEM Factory China, MOQ 100pcs — EyeView',
+    description: 'Wholesale sunglasses factory in China since 2006. OEM/ODM custom sunglasses, MOQ 100pcs, UV400 polarized, private label. 500+ brands worldwide. Free samples & quote.',
     type: 'website',
-    url: 'https://eyeviewsunglasses.com',
+    url: 'https://eyeviewsunglasses.com/',
     images: [
       {
         url: 'https://eyeviewsunglasses.com/og-image.png/',
@@ -28,11 +28,11 @@ export const metadata: Metadata = {
     canonical: 'https://eyeviewsunglasses.com',
     languages: {
       'en': 'https://eyeviewsunglasses.com',
-      'es': 'https://eyeviewsunglasses.com/es',
-      'fr': 'https://eyeviewsunglasses.com/fr',
-      'de': 'https://eyeviewsunglasses.com/de',
-      'pt': 'https://eyeviewsunglasses.com/pt',
-      'it': 'https://eyeviewsunglasses.com/it',
+      'es': 'https://eyeviewsunglasses.com/es/',
+      'fr': 'https://eyeviewsunglasses.com/fr/',
+      'de': 'https://eyeviewsunglasses.com/de/',
+      'pt': 'https://eyeviewsunglasses.com/pt/',
+      'it': 'https://eyeviewsunglasses.com/it/',
     },
   },
 };

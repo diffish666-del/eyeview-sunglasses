@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/products/polarized/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/polarized',
-      'es': 'https://eyeviewsunglasses.com/es/productos/polarizado',
+      'en': 'https://eyeviewsunglasses.com/products/polarized/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/polarizado/',
     },
   },
 }
@@ -79,7 +79,7 @@ export default function PolarizedPage() {
       <BreadcrumbListSchema items={[
         { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
         { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
-        { name: 'Polarized Sunglasses', item: 'https://eyeviewsunglasses.com/products/polarized' },
+        { name: 'Polarized Sunglasses', item: 'https://eyeviewsunglasses.com/products/polarized/' },
       ]} />
 
       {/* FAQPage Schema */}

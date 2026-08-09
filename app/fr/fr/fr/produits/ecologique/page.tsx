@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/fr/produits/ecologique/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/eco-friendly',
-      'fr': 'https://eyeviewsunglasses.com/fr/produits/ecologique',
+      'en': 'https://eyeviewsunglasses.com/products/eco-friendly/',
+      'fr': 'https://eyeviewsunglasses.com/fr/produits/ecologique/',
     },
   },
 }

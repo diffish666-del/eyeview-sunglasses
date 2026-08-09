@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/it/prodotti/occhio-di-gatto/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/cat-eye',
-      'it': 'https://eyeviewsunglasses.com/it/prodotti/occhio-di-gatto',
+      'en': 'https://eyeviewsunglasses.com/products/cat-eye/',
+      'it': 'https://eyeviewsunglasses.com/it/prodotti/occhio-di-gatto/',
     },
   },
 }

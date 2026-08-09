@@ -15,8 +15,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/products/tr90/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/tr90',
-      'es': 'https://eyeviewsunglasses.com/es/productos/tr90',
+      'en': 'https://eyeviewsunglasses.com/products/tr90/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/tr90/',
     },
   },
 }

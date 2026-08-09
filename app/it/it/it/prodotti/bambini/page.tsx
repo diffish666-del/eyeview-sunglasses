@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/it/prodotti/bambini/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/kids',
-      'it': 'https://eyeviewsunglasses.com/it/prodotti/bambini',
+      'en': 'https://eyeviewsunglasses.com/products/kids/',
+      'it': 'https://eyeviewsunglasses.com/it/prodotti/bambini/',
     },
   },
 }

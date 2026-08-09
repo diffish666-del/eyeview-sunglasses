@@ -5,7 +5,7 @@ const localBusinessJsonLd = {
   "@type": "LocalBusiness",
   "name": "EyeView Sunglasses Factory",
   "description": "Fabricante líder de óculos de sol no atacado, oferecendo óculos de sol OEM e ODM personalizados com mais de 15 anos de experiência.",
-  "url": "https://eyeviewsunglasses.com/pt",
+  "url": "https://eyeviewsunglasses.com/pt/",
   "telephone": "+86-18850281211",
   "email": "sales@eyeviewsunglasses.com",
   "address": {
@@ -26,7 +26,7 @@ const webSiteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "EyeView Sunglasses",
-  "url": "https://eyeviewsunglasses.com/pt",
+  "url": "https://eyeviewsunglasses.com/pt/",
   "description": "Fabricante líder de óculos de sol no atacado, oferecendo óculos de sol OEM e ODM personalizados com mais de 15 anos de experiência. Mais de 500 clientes globais.",
   "inLanguage": "pt",
   "potentialAction": {
@@ -43,7 +43,7 @@ const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "EyeView Sunglasses",
-  "url": "https://eyeviewsunglasses.com/pt",
+  "url": "https://eyeviewsunglasses.com/pt/",
   "logo": "https://eyeviewsunglasses.com/logo.png",
   "description": "Fabricante líder de óculos de sol no atacado com mais de 15 anos de experiência em fabricação OEM e ODM.",
   "email": "sales@eyeviewsunglasses.com",

@@ -15,8 +15,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/es/productos/aviador/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/aviator',
-      'es': 'https://eyeviewsunglasses.com/es/productos/aviador',
+      'en': 'https://eyeviewsunglasses.com/products/aviator/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/aviador/',
     },
   },
 }

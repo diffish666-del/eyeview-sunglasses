@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     description: 'Comprehensive sunglasses industry glossary covering frame materials, lens technology, certifications, and manufacturing terms.',
   },
   alternates: {
-    canonical: 'https://eyeviewsunglasses.com/glossary',
+    canonical: 'https://eyeviewsunglasses.com/glossary/',
   },
 }
 

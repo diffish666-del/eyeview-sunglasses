@@ -2,13 +2,13 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Sunglasses Certifications & Compliance | FDA, CE, ISO 9001, UV400 - EyeView',
-  description: 'EyeView sunglasses meet all international safety standards. FDA registered, CE certified, ISO 9001, UV400, ANSI Z80.3 compliant. Full documentation available.',
+  title: 'FDA CE ISO 9001 Certified Sunglasses Factory | Free Compliance Docs — EyeView',
+  description: 'FDA registered, CE certified, ISO 9001, UV400, ANSI Z80.3 compliant sunglasses factory since 2006. 500+ brands trust our certifications. Free compliance docs for customs clearance, CPC certificates included.',
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/certifications/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/certifications',
-      'es': 'https://eyeviewsunglasses.com/es/certificaciones',
+      'en': 'https://eyeviewsunglasses.com/certifications/',
+      'es': 'https://eyeviewsunglasses.com/es/certificaciones/',
     },
   },
 }
@@ -33,7 +33,7 @@ export default function CertificationsPage() {
               "@type": "ListItem",
               "position": 2,
               "name": "Certifications",
-              "item": "https://eyeviewsunglasses.com/certifications"
+              "item": "https://eyeviewsunglasses.com/certifications/"
             }
           ]
         })}} />

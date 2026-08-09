@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/products/cat-eye/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/cat-eye',
-      'es': 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato',
+      'en': 'https://eyeviewsunglasses.com/products/cat-eye/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/ojo-de-gato/',
     },
   },
 }
@@ -79,7 +79,7 @@ export default function CatEyePage() {
       <BreadcrumbListSchema items={[
         { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
         { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
-        { name: 'Cat-Eye Sunglasses', item: 'https://eyeviewsunglasses.com/products/cat-eye' },
+        { name: 'Cat-Eye Sunglasses', item: 'https://eyeviewsunglasses.com/products/cat-eye/' },
       ]} />
 
       {/* FAQPage Schema */}

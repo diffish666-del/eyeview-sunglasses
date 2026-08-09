@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/it/prodotti/polarizzato/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/polarized',
-      'it': 'https://eyeviewsunglasses.com/it/prodotti/polarizzato',
+      'en': 'https://eyeviewsunglasses.com/products/polarized/',
+      'it': 'https://eyeviewsunglasses.com/it/prodotti/polarizzato/',
     },
   },
 }

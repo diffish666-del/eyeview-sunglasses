@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/fr/produits/lumiere-bleue/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/blue-light',
-      'fr': 'https://eyeviewsunglasses.com/fr/produits/lumiere-bleue',
+      'en': 'https://eyeviewsunglasses.com/products/blue-light/',
+      'fr': 'https://eyeviewsunglasses.com/fr/produits/lumiere-bleue/',
     },
   },
 }
@@ -363,7 +363,7 @@ export default function BlueLightPageFr() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://eyeviewsunglasses.com/fr" },
+          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://eyeviewsunglasses.com/fr/" },
           { "@type": "ListItem", "position": 2, "name": "Produits", "item": "https://eyeviewsunglasses.com/fr/produits" },
           { "@type": "ListItem", "position": 3, "name": "Lunettes Lumière Bleue", "item": "https://eyeviewsunglasses.com/fr/produits/lumiere-bleue" }
         ]

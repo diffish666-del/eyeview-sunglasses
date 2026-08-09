@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/pt/produtos/redondo/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/round',
-      'pt': 'https://eyeviewsunglasses.com/pt/produtos/redondo',
+      'en': 'https://eyeviewsunglasses.com/products/round/',
+      'pt': 'https://eyeviewsunglasses.com/pt/produtos/redondo/',
     },
   },
 }

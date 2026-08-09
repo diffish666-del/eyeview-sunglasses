@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/fr/produits/oeil-de-chat/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/cat-eye',
-      'fr': 'https://eyeviewsunglasses.com/fr/produits/oeil-de-chat',
+      'en': 'https://eyeviewsunglasses.com/products/cat-eye/',
+      'fr': 'https://eyeviewsunglasses.com/fr/produits/oeil-de-chat/',
     },
   },
 }
@@ -333,7 +333,7 @@ export default function CatEyePageFr() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://eyeviewsunglasses.com/fr" },
+          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://eyeviewsunglasses.com/fr/" },
           { "@type": "ListItem", "position": 2, "name": "Produits", "item": "https://eyeviewsunglasses.com/fr/produits" },
           { "@type": "ListItem", "position": 3, "name": "Lunettes Œil de Chat", "item": "https://eyeviewsunglasses.com/fr/produits/oeil-de-chat" }
         ]

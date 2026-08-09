@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/fr/produits/enfants/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/kids',
-      'fr': 'https://eyeviewsunglasses.com/fr/produits/enfants',
+      'en': 'https://eyeviewsunglasses.com/products/kids/',
+      'fr': 'https://eyeviewsunglasses.com/fr/produits/enfants/',
     },
   },
 }
@@ -333,7 +333,7 @@ export default function KidsPageFr() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://eyeviewsunglasses.com/fr" },
+          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://eyeviewsunglasses.com/fr/" },
           { "@type": "ListItem", "position": 2, "name": "Produits", "item": "https://eyeviewsunglasses.com/fr/produits" },
           { "@type": "ListItem", "position": 3, "name": "Lunettes Enfants", "item": "https://eyeviewsunglasses.com/fr/produits/enfants" }
         ]

@@ -15,8 +15,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/es/productos/wayfarer/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/wayfarer',
-      'es': 'https://eyeviewsunglasses.com/es/productos/wayfarer',
+      'en': 'https://eyeviewsunglasses.com/products/wayfarer/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/wayfarer/',
     },
   },
 }

@@ -5,7 +5,7 @@ const localBusinessJsonLd = {
   "@type": "LocalBusiness",
   "name": "EyeView Sunglasses Factory",
   "description": "Fabricante líder de gafas de sol al por mayor que ofrece gafas de sol OEM y ODM personalizadas con más de 15 años de experiencia.",
-  "url": "https://eyeviewsunglasses.com/es",
+  "url": "https://eyeviewsunglasses.com/es/",
   "telephone": "+86-18850281211",
   "email": "sales@eyeviewsunglasses.com",
   "address": {
@@ -26,7 +26,7 @@ const webSiteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "EyeView Sunglasses",
-  "url": "https://eyeviewsunglasses.com/es",
+  "url": "https://eyeviewsunglasses.com/es/",
   "description": "Fabricante líder de gafas de sol al por mayor que ofrece gafas de sol OEM y ODM personalizadas con más de 15 años de experiencia. Más de 500 clientes globales.",
   "inLanguage": "es",
   "potentialAction": {
@@ -43,7 +43,7 @@ const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "EyeView Sunglasses",
-  "url": "https://eyeviewsunglasses.com/es",
+  "url": "https://eyeviewsunglasses.com/es/",
   "logo": "https://eyeviewsunglasses.com/logo.png",
   "description": "Fabricante líder de gafas de sol al por mayor con más de 15 años de experiencia en fabricación OEM y ODM.",
   "email": "sales@eyeviewsunglasses.com",

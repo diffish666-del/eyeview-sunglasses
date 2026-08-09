@@ -5,12 +5,12 @@ import CTASection from '@/components/CTASection';
 
 export const metadata: Metadata = {
   title: {
-    absolute: 'Produttore di Occhiali da Sole all\'Ingrosso | Fabbrica OEM di Occhiali Personalizzati - EyeView',
+    absolute: 'Occhiali da Sole all\'Ingrosso da 100 pz | Fabbrica OEM Cina — EyeView',
   },
-  description: 'EyeView è un produttore leader di occhiali da sole all\'ingrosso con servizi OEM e ODM. Oltre 15 anni di esperienza, più di 500 clienti globali. Richiedi il tuo preventivo gratuito oggi.',
+  description: 'Produttore di occhiali da sole all\'ingrosso direttamente dalla fabbrica in Cina. OEM/ODM, MOQ 100 pz, UV400, polarizzati, loghi personalizzati. 15+ anni, 500+ marchi. Campioni gratuiti.',
   openGraph: {
-    title: 'Produttore di Occhiali da Sole all\'Ingrosso | Fabbrica OEM - EyeView',
-    description: 'EyeView è un produttore leader di occhiali da sole all\'ingrosso con servizi OEM e ODM. Oltre 15 anni di esperienza, più di 500 clienti globali.',
+    title: 'Occhiali da Sole all\'Ingrosso da 100 pz | Fabbrica OEM Cina — EyeView',
+    description: 'Produttore di occhiali da sole all\'ingrosso direttamente dalla fabbrica in Cina. OEM/ODM, MOQ 100 pz. 15+ anni, 500+ marchi.',
     type: 'website',
     locale: 'it_IT',
     url: 'https://eyeviewsunglasses.com/it/',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     canonical: 'https://eyeviewsunglasses.com/it/',
     languages: {
       'en': 'https://eyeviewsunglasses.com',
-      'it': 'https://eyeviewsunglasses.com/it',
+      'it': 'https://eyeviewsunglasses.com/it/',
     },
   },
 };
@@ -171,7 +171,7 @@ const breadcrumbJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://eyeviewsunglasses.com/it' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://eyeviewsunglasses.com/it/' },
   ],
 };
 

@@ -117,7 +117,7 @@ export function BlogPostingSchema({ post }: { post: { headline: string; datePubl
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://eyeviewsunglasses.com/blog"
+      "@id": "https://eyeviewsunglasses.com/blog/"
     }
   }
 
@@ -189,7 +189,7 @@ export function ServiceSchema({ services }: { services: { name: string; descript
       "areaServed": svc.areaServed.map(c => ({ "@type": "Country", "name": c }))
     } : {}),
     "serviceType": "Manufacturing",
-    "termsOfService": "https://eyeviewsunglasses.com/terms"
+    "termsOfService": "https://eyeviewsunglasses.com/terms/"
   }));
 
   return (

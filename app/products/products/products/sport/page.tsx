@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://eyeviewsunglasses.com/products/sport/',
     languages: {
-      'en': 'https://eyeviewsunglasses.com/products/sport',
-      'es': 'https://eyeviewsunglasses.com/es/productos/deportivo',
+      'en': 'https://eyeviewsunglasses.com/products/sport/',
+      'es': 'https://eyeviewsunglasses.com/es/productos/deportivo/',
     },
   },
 }
@@ -85,7 +85,7 @@ export default function SportPage() {
       <BreadcrumbListSchema items={[
         { name: 'Home', item: 'https://eyeviewsunglasses.com/' },
         { name: 'Products', item: 'https://eyeviewsunglasses.com/products/' },
-        { name: 'Sport Sunglasses', item: 'https://eyeviewsunglasses.com/products/sport' },
+        { name: 'Sport Sunglasses', item: 'https://eyeviewsunglasses.com/products/sport/' },
       ]} />
 
       {/* FAQPage Schema */}

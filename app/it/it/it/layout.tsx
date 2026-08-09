@@ -5,7 +5,7 @@ const localBusinessJsonLd = {
   "@type": "LocalBusiness",
   "name": "EyeView Sunglasses Factory",
   "description": "Produttore leader di occhiali da sole all'ingrosso che offre occhiali da sole OEM e ODM personalizzati con oltre 15 anni di esperienza.",
-  "url": "https://eyeviewsunglasses.com/it",
+  "url": "https://eyeviewsunglasses.com/it/",
   "telephone": "+86-18850281211",
   "email": "sales@eyeviewsunglasses.com",
   "address": {
@@ -26,7 +26,7 @@ const webSiteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "EyeView Sunglasses",
-  "url": "https://eyeviewsunglasses.com/it",
+  "url": "https://eyeviewsunglasses.com/it/",
   "description": "Produttore leader di occhiali da sole all'ingrosso che offre occhiali da sole OEM e ODM personalizzati con oltre 15 anni di esperienza. Oltre 500 clienti in tutto il mondo.",
   "inLanguage": "it",
   "potentialAction": {
@@ -43,7 +43,7 @@ const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "EyeView Sunglasses",
-  "url": "https://eyeviewsunglasses.com/it",
+  "url": "https://eyeviewsunglasses.com/it/",
   "logo": "https://eyeviewsunglasses.com/logo.png",
   "description": "Produttore leader di occhiali da sole all'ingrosso con oltre 15 anni di esperienza nella produzione OEM e ODM.",
   "email": "sales@eyeviewsunglasses.com",
