@@ -308,7 +308,7 @@ export default function PresentationCommercialeLunettesSoleil() {
             <h2 className="text-3xl font-bold mb-4">Vous voulez des présentoirs personnalisés avec votre commande en gros ?</h2>
             <p className="text-xl mb-6 opacity-90">Nous fabriquons des présentoirs rotatifs, des présentoirs muraux, de la signalétique PLV et des emballages personnalisés avec vos lunettes de soleil — un seul envoi, une seule usine, tout personnalisé selon vos spécifications. Envoyez-nous votre logo et vos exigences de présentation pour un devis.</p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Demander un devis présentoir &amp; PLV
@@ -327,7 +327,7 @@ export default function PresentationCommercialeLunettesSoleil() {
                 <h3 className="font-bold text-primary-600 mb-2">Comment lancer une marque de lunettes</h3>
                 <p className="text-gray-600 text-sm">La feuille de route complète, du concept à la première livraison, directement depuis l&#39;usine.</p>
               </Link>
-              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/contact/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Contactez-nous</h3>
                 <p className="text-gray-600 text-sm">Obtenez un devis pour vos lunettes de soleil personnalisées en gros et votre présentoir.</p>
               </Link>

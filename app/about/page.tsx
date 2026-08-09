@@ -368,10 +368,10 @@ export default function AboutPage() {
             No obligation, no hard sell -- just an honest conversation about what&apos;s possible.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Get in Touch
             </Link>
-            <Link href="/products" className="border-2 border-white text-white font-semibold px-6 py-3 rounded-lg hover:bg-white hover:text-gray-900 transition-colors">
+            <Link href="/products/" className="border-2 border-white text-white font-semibold px-6 py-3 rounded-lg hover:bg-white hover:text-gray-900 transition-colors">
               Browse Products
             </Link>
           </div>

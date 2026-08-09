@@ -108,7 +108,7 @@ export default function PrivateLabelGuide() {
 
           <div className="bg-primary-50 border border-primary-200 rounded-xl p-6 my-8">
             <p className="text-primary-900 mb-2">I have helped launch more sunglasses brands than I can count. If you have an idea, tell me about it. I will tell you honestly whether it makes sense, what it will cost, and how long it will take. No sales pitch — just straight answers from someone who has been on the factory floor since 2006.</p>
-            <Link href="/contact" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors mt-3">Tell Me About Your Brand Idea</Link>
+            <Link href="/contact/" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors mt-3">Tell Me About Your Brand Idea</Link>
           </div>
 
         </div>

@@ -397,7 +397,7 @@ export default function SunglassesQualityControlPage() {
               QC report from a recent production run. Quality isn&apos;t just a claim -- it&apos;s 
               something we can show you.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Request a Factory QC Tour
             </Link>
           </div>
@@ -413,7 +413,7 @@ export default function SunglassesQualityControlPage() {
                 <h3 className="font-bold text-primary-600 mb-2">Polarized Sunglasses</h3>
                 <p className="text-gray-600 text-sm">Polarization tested for clarity and UV protection -- meets ANSI Z80.3 standards.</p>
               </Link>
-              <Link href="/certifications" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/certifications/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Our Certifications</h3>
                 <p className="text-gray-600 text-sm">FDA, CE, UV400, ISO 9001 -- see the full compliance documentation.</p>
               </Link>

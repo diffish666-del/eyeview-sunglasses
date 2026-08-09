@@ -503,7 +503,7 @@ export default function SunglassesStartupCostPage() {
               quantities, materials, packaging. No surprises, no hidden fees. Just the real numbers you 
               need to make a smart decision.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Get Your Custom Quote from Jacky
             </Link>
           </div>

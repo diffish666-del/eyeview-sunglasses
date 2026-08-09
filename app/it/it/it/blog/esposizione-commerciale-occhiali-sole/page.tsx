@@ -308,7 +308,7 @@ export default function EsposizioneCommercialeOcchialiSole() {
             <h2 className="text-3xl font-bold mb-4">Vuoi Espositori Brandizzati con il Tuo Ordine all&apos;Ingrosso?</h2>
             <p className="text-xl mb-6 opacity-90">Produciamo espositori rotanti da banco, display a parete, segnaletica POP e imballaggi brandizzati insieme ai tuoi occhiali da sole — una spedizione, una fabbrica, tutto brandizzato secondo le tue specifiche. Inviaci il tuo logo e le tue esigenze espositive per un preventivo.</p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Richiedi Preventivo Espositori &amp; POP
@@ -327,7 +327,7 @@ export default function EsposizioneCommercialeOcchialiSole() {
                 <h3 className="font-bold text-primary-600 mb-2">Come Avviare un Marchio di Occhiali da Sole</h3>
                 <p className="text-gray-600 text-sm">La roadmap completa dal concept alla prima spedizione, direttamente dalla fabbrica.</p>
               </Link>
-              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/contact/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Contattaci</h3>
                 <p className="text-gray-600 text-sm">Richiedi un preventivo per i tuoi occhiali da sole all&apos;ingrosso personalizzati e il tuo ordine di espositori.</p>
               </Link>

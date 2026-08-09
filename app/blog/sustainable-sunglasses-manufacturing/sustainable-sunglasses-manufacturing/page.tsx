@@ -393,7 +393,7 @@ export default function SustainableSunglassesPage() {
               ODM and OEM products. I can help you find the right balance of sustainability, quality, 
               and cost for your brand&apos;s positioning.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Discuss Sustainable Options with Jacky
             </Link>
           </div>

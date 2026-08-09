@@ -105,7 +105,7 @@ export default function CertificationsPage() {
             but because their previous supplier hadn&apos;t provided proper CE documentation. Eight thousand 
             pairs, sitting in a warehouse, unsellable. That client came to us, and we made sure it 
             never happened again. Every pair we ship leaves our{' '}
-            <Link href="/about" className="text-primary-600 hover:underline">factory</Link> with 
+            <Link href="/about/" className="text-primary-600 hover:underline">factory</Link> with 
             the right paperwork, the right testing, and the right certifications. No exceptions.
           </p>
         </div>
@@ -246,7 +246,7 @@ export default function CertificationsPage() {
               <p className="text-gray-600 mb-6">
                 Compliance documentation isn&apos;t an afterthought -- it&apos;s part of our production process. 
                 Every shipment leaves our{' '}
-                <Link href="/about" className="text-primary-600 hover:underline">factory</Link> with 
+                <Link href="/about/" className="text-primary-600 hover:underline">factory</Link> with 
                 a complete documentation package. Your customs broker and retail partners will have 
                 everything they need on day one.
               </p>
@@ -330,10 +330,10 @@ export default function CertificationsPage() {
             the right paperwork, fast.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Request Documentation
             </Link>
-            <Link href="/products" className="border-2 border-white text-white font-semibold px-6 py-3 rounded-lg hover:bg-white hover:text-gray-900 transition-colors">
+            <Link href="/products/" className="border-2 border-white text-white font-semibold px-6 py-3 rounded-lg hover:bg-white hover:text-gray-900 transition-colors">
               Browse Products
             </Link>
           </div>

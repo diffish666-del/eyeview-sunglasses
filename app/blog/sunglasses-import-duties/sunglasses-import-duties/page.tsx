@@ -312,7 +312,7 @@ export default function SunglassesImportDutiesPage() {
             <h2 className="text-3xl font-bold mb-4">Shipping Documents? We Handle It.</h2>
             <p className="text-xl mb-6 opacity-90">Every EyeView order includes a CCPIT-stamped Certificate of Origin, commercial invoice with correct HS codes, and packing list formatted for your country&apos;s customs requirements. Tell us your destination and we&apos;ll optimize your paperwork to minimize duties.</p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Get a Free Quote
@@ -331,7 +331,7 @@ export default function SunglassesImportDutiesPage() {
                 <h3 className="font-bold text-primary-600 mb-2">Sunglasses MOQ Guide</h3>
                 <p className="text-gray-600 text-sm">How many pairs should you order first? Smart scaling strategies.</p>
               </Link>
-              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/contact/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Contact Us</h3>
                 <p className="text-gray-600 text-sm">Get a quote for your custom wholesale sunglasses order.</p>
               </Link>

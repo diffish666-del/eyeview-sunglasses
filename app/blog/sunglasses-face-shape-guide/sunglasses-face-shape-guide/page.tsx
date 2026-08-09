@@ -393,7 +393,7 @@ export default function SunglassesFaceShapeGuidePage() {
               your target market. Whether you&apos;re launching with 3 styles or 30, let&apos;s make 
               sure your lineup works for everyone.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Get Style Recommendations from Jacky
             </Link>
           </div>

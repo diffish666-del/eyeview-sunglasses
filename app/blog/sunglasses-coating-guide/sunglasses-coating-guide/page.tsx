@@ -530,7 +530,7 @@ export default function SunglassesCoatingGuidePage() {
               makes sense for your brand, your price point, and your customers -- without overselling you 
               on coatings you don&apos;t need.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Talk to Jacky About Coatings
             </Link>
           </div>

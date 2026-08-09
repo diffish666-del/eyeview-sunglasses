@@ -443,7 +443,7 @@ export default function SunglassesTradeShowsGuidePage() {
               sunglasses since 2006 — samples in 3–7 days, OEM from 300 pieces, and every pair UV400 certified.
             </p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Get a Free Quote
@@ -462,7 +462,7 @@ export default function SunglassesTradeShowsGuidePage() {
                 <h3 className="font-bold text-primary-600 mb-2">How to Find a Reliable Manufacturer</h3>
                 <p className="text-gray-600 text-sm">10 vetting criteria, Alibaba scams to avoid, and real negotiation tips from the factory side.</p>
               </Link>
-              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/contact/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Contact Us</h3>
                 <p className="text-gray-600 text-sm">Get a personalized quote for your custom sunglasses order. Samples in 3–7 days.</p>
               </Link>

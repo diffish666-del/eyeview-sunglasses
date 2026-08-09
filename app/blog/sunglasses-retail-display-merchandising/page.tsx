@@ -308,7 +308,7 @@ export default function SunglassesRetailDisplayMerchandising() {
             <h2 className="text-3xl font-bold mb-4">Want Branded Displays With Your Wholesale Order?</h2>
             <p className="text-xl mb-6 opacity-90">We produce counter spinners, wall displays, POP signage, and branded packaging alongside your sunglasses — one shipment, one factory, everything branded to your specs. Send us your logo and display requirements for a quote.</p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Request Display &amp; POP Quote
@@ -327,7 +327,7 @@ export default function SunglassesRetailDisplayMerchandising() {
                 <h3 className="font-bold text-primary-600 mb-2">How to Start a Sunglasses Brand</h3>
                 <p className="text-gray-600 text-sm">The complete roadmap from concept to first shipment, factory-direct.</p>
               </Link>
-              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/contact/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Contact Us</h3>
                 <p className="text-gray-600 text-sm">Get a quote for your custom wholesale sunglasses and display order.</p>
               </Link>

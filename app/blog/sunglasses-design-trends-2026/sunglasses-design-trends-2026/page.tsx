@@ -416,7 +416,7 @@ export default function SunglassesDesignTrends2026Page() {
               shapes and colors. Or if you have a specific trend in mind, let&apos;s talk about making 
               it happen -- OEM or ODM.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Get the 2026 Catalog
             </Link>
           </div>

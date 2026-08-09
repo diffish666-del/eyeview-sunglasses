@@ -30,13 +30,13 @@ export default function NotFound() {
             Back to Home
           </Link>
           <Link
-            href="/blog"
+            href="/blog/"
             className="border-2 border-primary-600 text-primary-600 px-8 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors"
           >
             Read Our Blog
           </Link>
           <Link
-            href="/contact"
+            href="/contact/"
             className="border-2 border-gray-300 text-gray-700 px-8 py-3 rounded-lg font-semibold hover:bg-gray-50 transition-colors"
           >
             Contact Us
@@ -53,7 +53,7 @@ export default function NotFound() {
             <span className="text-gray-300">•</span>
             <Link href="/blog/start-sunglasses-brand" className="text-sm text-primary-600 hover:underline">Start a Brand</Link>
             <span className="text-gray-300">•</span>
-            <Link href="/about" className="text-sm text-primary-600 hover:underline">About Us</Link>
+            <Link href="/about/" className="text-sm text-primary-600 hover:underline">About Us</Link>
           </div>
         </div>
       </div>

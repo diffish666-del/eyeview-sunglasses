@@ -205,7 +205,7 @@ export default function Uv400VsPolarizedPage() {
             Testamos cada lote de lentes com um espectrômetro UV antes de sair da nossa fábrica. A máquina emite luz UV 
             através da lente e mede o que passa do outro lado. Qualquer coisa acima de 1% de transmissão UV 
             a 400nm reprova. Nossa{' '}
-            <Link href="/certifications" className="text-primary-600 hover:underline">página de certificações</Link> mostra 
+            <Link href="/certifications/" className="text-primary-600 hover:underline">página de certificações</Link> mostra 
             exatamente o que testamos e os padrões que atendemos.
           </p>
 
@@ -478,7 +478,7 @@ export default function Uv400VsPolarizedPage() {
               medição de eficiência de polarização (amostra por lote) e inspeção visual sob iluminação 
               controlada. Fornecemos relatórios de teste com cada envio. Se seu fabricante não oferece 
               isso, pergunte por quê. Nossa{' '}
-              <Link href="/certifications" className="text-primary-600 hover:underline">página de certificações</Link> mostra 
+              <Link href="/certifications/" className="text-primary-600 hover:underline">página de certificações</Link> mostra 
               a lista completa de padrões que testamos.
             </p>
           </div>

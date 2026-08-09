@@ -523,7 +523,7 @@ export default function SunglassesMoqGuidePage() {
             loose, the polarization was inconsistent, and the UV protection was below spec. 
             They spent more on returns, refunds, and reputation damage than they saved on 
             unit price. The cheapest quote is almost never the best deal. Browse our{' '}
-            <Link href="/products" className="text-primary-600 hover:underline">product catalog</Link> to 
+            <Link href="/products/" className="text-primary-600 hover:underline">product catalog</Link> to 
             see what proper quality looks like at fair prices.
           </p>
 
@@ -544,7 +544,7 @@ export default function SunglassesMoqGuidePage() {
               in your shoes. No commitment, no pitch -- just 20 years of factory experience 
               in your corner.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Book a Free Call with Jacky
             </Link>
           </div>

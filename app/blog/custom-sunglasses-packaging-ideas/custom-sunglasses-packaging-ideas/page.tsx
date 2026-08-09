@@ -141,7 +141,7 @@ export default function PackagingIdeasPage() {
           <div className="bg-primary-50 border border-primary-200 rounded-xl p-6 my-8">
             <p className="text-primary-900 mb-2">We stock 50+ case styles in our factory. If you want to compare options, I can send you a packaging sample kit — 5-10 different case styles with your logo applied. You can touch them, open them, see how the logo looks, and decide which one fits your brand.</p>
             <div className="flex flex-wrap gap-3 mt-3">
-              <Link href="/contact" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors">Request a Packaging Sample Kit</Link>
+              <Link href="/contact/" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors">Request a Packaging Sample Kit</Link>
               <Link href="/products/sunglasses-case/" className="inline-block border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-bold hover:bg-primary-50 transition-colors">See Case Options</Link>
             </div>
           </div>

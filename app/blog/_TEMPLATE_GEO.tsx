@@ -188,7 +188,7 @@ export default function BlogPostPage() {
             <h2 className="text-3xl font-bold mb-4">【CTA 标题】</h2>
             <p className="text-xl mb-6 opacity-90">【CTA 描述】</p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Get a Free Quote
@@ -208,7 +208,7 @@ export default function BlogPostPage() {
                 <h3 className="font-bold text-primary-600 mb-2">【相关文章/产品】</h3>
                 <p className="text-gray-600 text-sm">【简短描述】</p>
               </Link>
-              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/contact/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Contact Us</h3>
                 <p className="text-gray-600 text-sm">Get a quote for your custom wholesale sunglasses order.</p>
               </Link>

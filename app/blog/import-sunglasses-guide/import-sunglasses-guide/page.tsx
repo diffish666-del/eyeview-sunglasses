@@ -396,7 +396,7 @@ export default function ImportSunglassesGuidePage() {
               We handle production, QC, compliance documentation, and can arrange shipping. You focus 
               on building your brand.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Start Your Import Journey with Jacky
             </Link>
           </div>

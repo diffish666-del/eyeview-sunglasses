@@ -308,7 +308,7 @@ export default function StartSunglassesBrandPage() {
             <li>Start small, validate, then scale</li>
           </ul>
           <p>
-            Ready to start your sunglasses brand? <Link href="/contact" className="text-primary-600 hover:underline">Contact EyeView</Link> for 
+            Ready to start your sunglasses brand? <Link href="/contact/" className="text-primary-600 hover:underline">Contact EyeView</Link> for 
             a free consultation and quote. We've helped 500+ brands launch successfully.
           </p>
         </div>

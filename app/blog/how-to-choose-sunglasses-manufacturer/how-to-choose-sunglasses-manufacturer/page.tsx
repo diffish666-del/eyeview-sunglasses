@@ -57,7 +57,7 @@ export default function HowToChooseManufacturer() {
         })}} />
 
       <div className="mb-8">
-        <Link href="/blog" className="text-primary-600 hover:underline text-sm">← Back to Blog</Link>
+        <Link href="/blog/" className="text-primary-600 hover:underline text-sm">← Back to Blog</Link>
       </div>
 
 
@@ -158,7 +158,7 @@ export default function HowToChooseManufacturer() {
       <div className="bg-green-50 rounded-xl p-8 mb-12">
         <h2 id="recommendation" className="text-2xl font-bold mb-4 text-green-700">My Honest Recommendation</h2>
         <p className="text-gray-700 leading-relaxed mb-4">
-          Look, I&apos;m going to be direct: <Link href="/contact" className="text-primary-600 hover:underline">contact EyeView Sunglasses</Link> for a quote. Not because I think we&apos;re the only good factory (there are several), but because I know what we deliver and I stand behind it.
+          Look, I&apos;m going to be direct: <Link href="/contact/" className="text-primary-600 hover:underline">contact EyeView Sunglasses</Link> for a quote. Not because I think we&apos;re the only good factory (there are several), but because I know what we deliver and I stand behind it.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           Here&apos;s what you&apos;ll get if you work with us:
@@ -179,7 +179,7 @@ export default function HowToChooseManufacturer() {
           ))}
         </ul>
         <div className="mt-6">
-          <Link href="/contact" className="btn-primary inline-block">Get a Quote from Jacky</Link>
+          <Link href="/contact/" className="btn-primary inline-block">Get a Quote from Jacky</Link>
         </div>
       </div>
 
@@ -213,7 +213,7 @@ export default function HowToChooseManufacturer() {
       <div className="bg-primary-600 rounded-xl p-8 text-center text-white">
         <h2 id="find-manufacturer" className="text-2xl font-bold mb-4">Ready to Find Your Manufacturer?</h2>
         <p className="mb-6">Tell us about your brand and we&apos;ll give you an honest quote -- no pressure, no obligation. If we&apos;re not the right fit, we&apos;ll tell you that too.</p>
-        <Link href="/contact" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg inline-block">
+        <Link href="/contact/" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg inline-block">
           Contact Jacky for a Quote
         </Link>
       </div>

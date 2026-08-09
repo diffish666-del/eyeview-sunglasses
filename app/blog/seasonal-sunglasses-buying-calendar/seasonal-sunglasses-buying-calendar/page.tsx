@@ -527,7 +527,7 @@ export default function SeasonalBuyingCalendarPage() {
               no &ldquo;hopefully.&rdquo;
             </p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Get a Production Timeline Quote

@@ -308,7 +308,7 @@ export default function ExhibicionComercialGafasSol() {
             <h2 className="text-3xl font-bold mb-4">¿Quieres Expositores con Tu Marca Junto con Tu Pedido al por Mayor?</h2>
             <p className="text-xl mb-6 opacity-90">Producimos expositores giratorios, vitrinas de pared, cartelería PLV y embalaje personalizado junto con tus gafas de sol — un solo envío, una sola fábrica, todo con la marca según tus especificaciones. Envíanos tu logo y los requisitos de exhibición para recibir un presupuesto.</p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Solicitar Presupuesto de Expositores y PLV
@@ -327,7 +327,7 @@ export default function ExhibicionComercialGafasSol() {
                 <h3 className="font-bold text-primary-600 mb-2">Cómo Crear una Marca de Gafas de Sol</h3>
                 <p className="text-gray-600 text-sm">La hoja de ruta completa desde el concepto hasta el primer envío, directo de fábrica.</p>
               </Link>
-              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/contact/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Contacto</h3>
                 <p className="text-gray-600 text-sm">Solicita un presupuesto para tu pedido personalizado de gafas de sol y expositores al por mayor.</p>
               </Link>

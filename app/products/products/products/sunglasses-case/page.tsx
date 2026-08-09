@@ -117,7 +117,7 @@ export default function SunglassCasePage() {
           <nav className="mb-8 text-sm text-gray-500">
             <Link href="/" className="hover:text-primary-600">Home</Link>
             <span className="mx-2">/</span>
-            <Link href="/products" className="hover:text-primary-600">Products</Link>
+            <Link href="/products/" className="hover:text-primary-600">Products</Link>
             <span className="mx-2">/</span>
             <span className="text-gray-900 font-medium">Sunglasses Cases</span>
           </nav>
@@ -176,7 +176,7 @@ export default function SunglassCasePage() {
                         <div className="text-primary-600 font-bold">{product.price}</div>
                         <div className="text-xs text-gray-400">MOQ: {product.moq}</div>
                       </div>
-                      <Link href="/contact" className="btn-primary text-sm">Get Quote</Link>
+                      <Link href="/contact/" className="btn-primary text-sm">Get Quote</Link>
                     </div>
                   </div>
                 </div>
@@ -437,10 +437,10 @@ export default function SunglassCasePage() {
               Samples ship in 3-5 days. No commitment until you are ready.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/contact" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
+              <Link href="/contact/" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
                 Get a Quote
               </Link>
-              <Link href="/products" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
+              <Link href="/products/" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
                 View All Products
               </Link>
             </div>

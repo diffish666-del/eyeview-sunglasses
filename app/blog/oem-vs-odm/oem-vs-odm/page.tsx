@@ -449,7 +449,7 @@ export default function OemVsOdmPage() {
             specifically to protect consumers, and customs officers take it seriously. 
             Selling sunglasses without proper UV certification in the EU can get your shipment seized at customs. 
             I&apos;ve seen it happen. Check out our{' '}
-            <Link href="/products" className="text-primary-600 hover:underline">product certifications</Link> to 
+            <Link href="/products/" className="text-primary-600 hover:underline">product certifications</Link> to 
             see what proper documentation looks like.
           </p>
 
@@ -483,7 +483,7 @@ export default function OemVsOdmPage() {
               on whether OEM or ODM makes sense for your specific situation. I&apos;ve been doing this for 20 years. 
               I&apos;ve seen what works and what doesn&apos;t.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Book a Free Call with Jacky
             </Link>
           </div>

@@ -345,7 +345,7 @@ export default function SunglassesPricingStrategyPage() {
               lenses, packaging, and shipping. With the real numbers, you can build a pricing 
               strategy that actually works.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Get a Detailed Cost Breakdown
             </Link>
           </div>

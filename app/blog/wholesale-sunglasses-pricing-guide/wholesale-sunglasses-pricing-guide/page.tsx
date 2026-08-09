@@ -141,7 +141,7 @@ export default function PricingGuide() {
 
           <div className="bg-primary-50 border border-primary-200 rounded-xl p-6 my-8">
             <p className="text-primary-900 mb-2">I quote orders like these every day. If you tell me your style, quantity, and what market you are selling into, I will send you a real price breakdown within 24 hours — no &ldquo;contact us for pricing&rdquo; games.</p>
-            <Link href="/contact" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors mt-3">Get an Actual Price Quote</Link>
+            <Link href="/contact/" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors mt-3">Get an Actual Price Quote</Link>
           </div>
 
         </div>

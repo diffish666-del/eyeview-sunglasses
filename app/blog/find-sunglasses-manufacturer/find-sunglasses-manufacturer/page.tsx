@@ -312,7 +312,7 @@ export default function FindSunglassesManufacturerPage() {
             CE marking (for EU sales), UV400 testing, and ISO 9001 quality management. If a factory 
             can&apos;t produce these certificates within a day of you asking, they either don&apos;t have them 
             or they&apos;re not organized enough to be your partner. Check our{' '}
-            <Link href="/products" className="text-primary-600 hover:underline">product standards page</Link> to 
+            <Link href="/products/" className="text-primary-600 hover:underline">product standards page</Link> to 
             see what a complete certification set looks like.
           </p>
 
@@ -575,10 +575,10 @@ export default function FindSunglassesManufacturerPage() {
               12 hours. No trading company. No middleman. Just factory-direct.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/contact" className="btn-primary">
+              <Link href="/contact/" className="btn-primary">
                 Get a Quote from EyeView
               </Link>
-              <Link href="/products" className="border-2 border-primary-600 text-primary-600 font-semibold px-6 py-3 rounded-lg hover:bg-primary-50 transition-colors">
+              <Link href="/products/" className="border-2 border-primary-600 text-primary-600 font-semibold px-6 py-3 rounded-lg hover:bg-primary-50 transition-colors">
                 Browse Our Products
               </Link>
             </div>
@@ -653,7 +653,7 @@ export default function FindSunglassesManufacturerPage() {
                 <h3 className="font-bold text-primary-600 mb-2">Acetate Sunglasses</h3>
                 <p className="text-gray-600 text-sm">Premium handcrafted acetate frames with Italian Mazzucchelli materials available.</p>
               </Link>
-              <Link href="/certifications" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/certifications/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Our Certifications</h3>
                 <p className="text-gray-600 text-sm">FDA, CE, ISO 9001, UV400 — see the compliance standards we meet.</p>
               </Link>

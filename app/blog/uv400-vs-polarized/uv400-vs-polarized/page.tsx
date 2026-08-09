@@ -212,7 +212,7 @@ export default function Uv400VsPolarizedPage() {
             We test every lens batch with a UV spectrometer before it leaves our factory. The machine shoots UV light 
             through the lens and measures what gets through on the other side. Anything above 1% UV transmission 
             at 400nm fails. Our{' '}
-            <Link href="/certifications" className="text-primary-600 hover:underline">certification page</Link> shows 
+            <Link href="/certifications/" className="text-primary-600 hover:underline">certification page</Link> shows 
             exactly what we test for and the standards we meet.
           </p>
 
@@ -485,7 +485,7 @@ export default function Uv400VsPolarizedPage() {
               polarization efficiency measurement (sample per batch), and visual inspection under controlled 
               lighting. We provide test reports with every shipment. If your manufacturer doesn&apos;t offer 
               this, ask why. Our{' '}
-              <Link href="/certifications" className="text-primary-600 hover:underline">certifications page</Link> shows 
+              <Link href="/certifications/" className="text-primary-600 hover:underline">certifications page</Link> shows 
               the full list of standards we test against.
             </p>
           </div>
@@ -538,7 +538,7 @@ export default function Uv400VsPolarizedPage() {
               material, polarization, coatings, tint -- that gives you the best product at your price 
               point. Takes me about 5 minutes. I do this every day.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Get a Free Lens Recommendation
             </Link>
           </div>

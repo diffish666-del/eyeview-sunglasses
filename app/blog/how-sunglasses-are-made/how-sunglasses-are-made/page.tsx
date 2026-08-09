@@ -138,7 +138,7 @@ export default function HowSunglassesAreMade() {
 
           <div className="bg-primary-50 border border-primary-200 rounded-xl p-6 my-8">
             <p className="text-primary-900 mb-2">If you are curious about any part of the manufacturing process — or you want to see it for yourself — I do video tours of the factory floor for potential clients. Takes 15 minutes and you can ask questions as we go.</p>
-            <Link href="/contact" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors mt-3">Schedule a Virtual Factory Tour</Link>
+            <Link href="/contact/" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors mt-3">Schedule a Virtual Factory Tour</Link>
           </div>
 
         </div>

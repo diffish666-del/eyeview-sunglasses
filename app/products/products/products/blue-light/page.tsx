@@ -104,7 +104,7 @@ export default function BlueLightPage() {
         <nav className="mb-8 text-sm text-gray-500">
           <Link href="/" className="hover:text-primary-600">Home</Link>
           <span className="mx-2">/</span>
-          <Link href="/products" className="hover:text-primary-600">Products</Link>
+          <Link href="/products/" className="hover:text-primary-600">Products</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-900">Blue Light Glasses</span>
         </nav>
@@ -193,7 +193,7 @@ export default function BlueLightPage() {
                     <span className="text-primary-600 font-semibold">{product.price}</span>
                     <span className="text-xs text-gray-500">MOQ: {product.moq}</span>
                   </div>
-                  <Link href="/contact" className="btn-primary w-full block text-center">Get Quote</Link>
+                  <Link href="/contact/" className="btn-primary w-full block text-center">Get Quote</Link>
                 </div>
               </div>
             ))}
@@ -388,8 +388,8 @@ export default function BlueLightPage() {
             now. Get samples, test them yourself, and see why this category converts so well.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/contact" className="btn-primary">Get Blue Light Catalog</Link>
-            <Link href="/products" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors">Browse All Products</Link>
+            <Link href="/contact/" className="btn-primary">Get Blue Light Catalog</Link>
+            <Link href="/products/" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors">Browse All Products</Link>
           </div>
         </section>
       </div>

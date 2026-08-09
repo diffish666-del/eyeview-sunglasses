@@ -306,10 +306,10 @@ export default function TrustPage() {
             so you can compare side by side -- no obligation, no pressure.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Request Samples
             </Link>
-            <Link href="/about" className="border-2 border-white text-white font-semibold px-6 py-3 rounded-lg hover:bg-white hover:text-gray-900 transition-colors">
+            <Link href="/about/" className="border-2 border-white text-white font-semibold px-6 py-3 rounded-lg hover:bg-white hover:text-gray-900 transition-colors">
               Learn About Us
             </Link>
           </div>

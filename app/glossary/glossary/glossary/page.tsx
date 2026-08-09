@@ -183,7 +183,7 @@ export default function GlossaryPage() {
             CE, FDA, ISO 9001 certified. MOQ from 300 pcs/style.
           </p>
           <a
-            href="/contact"
+            href="/contact/"
             className="inline-block bg-primary-600 hover:bg-primary-700 text-white px-8 py-3 rounded-lg font-semibold transition-colors"
           >
             Request a Quote →

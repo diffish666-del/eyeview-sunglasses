@@ -117,7 +117,7 @@ export default function EcoFriendlyPage() {
           <nav className="mb-8 text-sm text-gray-500">
             <Link href="/" className="hover:text-primary-600">Home</Link>
             <span className="mx-2">/</span>
-            <Link href="/products" className="hover:text-primary-600">Products</Link>
+            <Link href="/products/" className="hover:text-primary-600">Products</Link>
             <span className="mx-2">/</span>
             <span className="text-gray-900 font-medium">Eco-Friendly Sunglasses</span>
           </nav>
@@ -146,7 +146,7 @@ export default function EcoFriendlyPage() {
                 I will be straight with you -- five years ago, when brands asked me about &ldquo;sustainable sunglasses,&rdquo; I was skeptical. I thought it was a marketing gimmick that would fade out in a season or two. I was wrong. Dead wrong. In 2024, about 35% of our new client inquiries specifically mention sustainability as a requirement. Not a nice-to-have -- a requirement. The shift has been dramatic, and it is being driven by one thing: consumer demand, especially from Gen Z and millennial buyers who actually check what their sunglasses are made of.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                So we invested. Over the past three years, we have built out dedicated eco-material supply chains, earned <Link href="/certifications" className="text-primary-600 hover:underline">ISO 14001 environmental management certification</Link> for our factory, and developed production processes for four major sustainable materials: recycled ocean plastic (rPET), FSC-certified bamboo, <a href="https://www.eastman.com/brands/eastman-acetate-renew" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Eastman Acetate Renew</a> (bio-acetate), and recycled aluminum. Each one has different properties, different costs, and different stories -- and honestly, which one is right for you depends entirely on your brand positioning and your customers.
+                So we invested. Over the past three years, we have built out dedicated eco-material supply chains, earned <Link href="/certifications/" className="text-primary-600 hover:underline">ISO 14001 environmental management certification</Link> for our factory, and developed production processes for four major sustainable materials: recycled ocean plastic (rPET), FSC-certified bamboo, <a href="https://www.eastman.com/brands/eastman-acetate-renew" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:underline">Eastman Acetate Renew</a> (bio-acetate), and recycled aluminum. Each one has different properties, different costs, and different stories -- and honestly, which one is right for you depends entirely on your brand positioning and your customers.
               </p>
               <p className="text-lg leading-relaxed mb-4">
                 Here is the business case in one sentence: <strong>sustainable sunglasses</strong> typically cost $0.50-2.00 more per pair to produce, but they command 30-50% higher retail prices. A conventional wayfarer that retails at $35 can sell at $45-55 with legitimate eco credentials. I have watched dozens of our DTC clients make this math work beautifully. One brand in Amsterdam switched their entire line to bio-acetate in 2023 and saw their average order value jump 28% -- same frames, same lenses, just different material and a better story.
@@ -230,7 +230,7 @@ export default function EcoFriendlyPage() {
                         <div className="text-primary-600 font-bold">{product.price}</div>
                         <div className="text-xs text-gray-400">MOQ: {product.moq}</div>
                       </div>
-                      <Link href="/contact" className="btn-primary text-sm">Get Quote</Link>
+                      <Link href="/contact/" className="btn-primary text-sm">Get Quote</Link>
                     </div>
                   </div>
                 </div>
@@ -443,7 +443,7 @@ export default function EcoFriendlyPage() {
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Aviator Sunglasses</h3>
                 <p className="text-gray-600 text-sm">Metal aviators available in recycled aluminum. Same lightweight feel, same anodized finishes, with 95% less energy in material production.</p>
               </Link>
-              <Link href="/certifications" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+              <Link href="/certifications/" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">📋</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Our Certifications</h3>
                 <p className="text-gray-600 text-sm">CE, FDA, ISO 9001, ISO 14001, ISCC PLUS, FSC -- see the full list of certifications and compliance documentation we provide.</p>
@@ -458,10 +458,10 @@ export default function EcoFriendlyPage() {
               Tell us about your brand, your target customer, and your sustainability goals. We will recommend the right eco materials and send you samples within a week. No commitment, no pressure -- just honest advice from someone who has helped 100+ brands make this transition.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/contact" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
+              <Link href="/contact/" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
                 Get a Quote
               </Link>
-              <Link href="/products" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
+              <Link href="/products/" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
                 View All Products
               </Link>
             </div>

@@ -538,7 +538,7 @@ export default function Tr90VsAcetateVsMetalPage() {
             Whether you need TR90 for performance, acetate for fashion, or metal for classic style -- we&apos;ll help you find the perfect frame for your brand.
           </p>
           <Link 
-            href="/contact" 
+            href="/contact/" 
             className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
           >
             Get a Free Quote

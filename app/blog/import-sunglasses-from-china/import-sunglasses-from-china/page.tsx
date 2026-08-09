@@ -132,7 +132,7 @@ export default function ImportSunglassesGuide() {
 
           <div className="bg-primary-50 border border-primary-200 rounded-xl p-6 my-8">
             <p className="text-primary-900 mb-2">I have shipped sunglasses to 50+ countries over 20 years. If you have questions about importing to your specific country — duties, regulations, paperwork — just ask. It is literally what I do every day.</p>
-            <Link href="/contact" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors mt-3">Ask Me About Importing to Your Country</Link>
+            <Link href="/contact/" className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-primary-700 transition-colors mt-3">Ask Me About Importing to Your Country</Link>
           </div>
 
         </div>

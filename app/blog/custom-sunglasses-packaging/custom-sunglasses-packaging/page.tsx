@@ -495,7 +495,7 @@ export default function CustomSunglassesPackagingPage() {
           <p>
             That chain of logic runs in about two seconds, entirely subconsciously. And it starts the moment 
             someone touches your box. Browse our{' '}
-            <Link href="/products" className="text-primary-600 hover:underline">product catalog</Link> to see 
+            <Link href="/products/" className="text-primary-600 hover:underline">product catalog</Link> to see 
             how we package different tiers of sunglasses for our own clients.
           </p>
 
@@ -571,7 +571,7 @@ export default function CustomSunglassesPackagingPage() {
               tags. Send me your brand guidelines and I&apos;ll put together a packaging quote within 48 hours. 
               No minimums on your first sample set.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Get a Packaging Quote
             </Link>
           </div>
@@ -655,7 +655,7 @@ export default function CustomSunglassesPackagingPage() {
                 <h3 className="font-bold text-primary-600 mb-2">How to Start a Sunglasses Brand: Complete Guide</h3>
                 <p className="text-gray-600 text-sm">The full playbook -- from idea to first sale. Everything I wish someone told me in 2006.</p>
               </Link>
-              <Link href="/products" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/products/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Browse Our Sunglasses Collection</h3>
                 <p className="text-gray-600 text-sm">See how we package different product tiers -- from everyday classics to premium acetate frames.</p>
               </Link>

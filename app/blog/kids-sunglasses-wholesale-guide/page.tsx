@@ -468,7 +468,7 @@ export default function KidsSunglassesWholesaleGuide() {
             We produce FDA/CE-compliant children\'s sunglasses in TPEE, TR90, and acetate. CPSIA test reports, custom packaging, and neck straps included. Minimum order: 500 units per style.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <Link href="/contact" className="bg-white text-primary-700 px-8 py-4 rounded-xl font-bold text-lg hover:bg-primary-50 transition-colors">
+            <Link href="/contact/" className="bg-white text-primary-700 px-8 py-4 rounded-xl font-bold text-lg hover:bg-primary-50 transition-colors">
               Request a Quote
             </Link>
             <Link href="/wholesale-sunglasses" className="bg-primary-600 text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-primary-500 transition-colors border-2 border-primary-400">

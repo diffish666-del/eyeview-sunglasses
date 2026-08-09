@@ -308,7 +308,7 @@ export default function SonnenbrillenVerkaufsdisplayMerchandising() {
             <h2 className="text-3xl font-bold mb-4">Gebrandete Displays zu Ihrer Großhandelsbestellung?</h2>
             <p className="text-xl mb-6 opacity-90">Wir produzieren Thekenspinner, Wanddisplays, POS-Beschilderung und gebrandete Verpackungen zusammen mit Ihren Sonnenbrillen – eine Lieferung, eine Fabrik, alles nach Ihren Vorgaben gebrandet. Senden Sie uns Ihr Logo und Ihre Display-Anforderungen für ein Angebot.</p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Display- &amp; POS-Angebot anfordern
@@ -327,7 +327,7 @@ export default function SonnenbrillenVerkaufsdisplayMerchandising() {
                 <h3 className="font-bold text-primary-600 mb-2">Wie man eine Sonnenbrillen-Marke gründet</h3>
                 <p className="text-gray-600 text-sm">Die komplette Roadmap vom Konzept bis zur ersten Lieferung, direkt ab Werk.</p>
               </Link>
-              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/contact/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Kontakt</h3>
                 <p className="text-gray-600 text-sm">Holen Sie ein Angebot für Ihre individuelle Großhandels-Sonnenbrillen- und Display-Bestellung ein.</p>
               </Link>

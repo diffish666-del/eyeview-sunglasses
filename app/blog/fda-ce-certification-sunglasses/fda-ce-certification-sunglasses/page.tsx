@@ -481,7 +481,7 @@ export default function FdaCeCertificationPage() {
               through the requirements for your specific markets and provide all necessary documentation. 
               No extra charge for standard compliance -- it&apos;s part of doing business right.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Ask Jacky About Compliance
             </Link>
           </div>
@@ -497,7 +497,7 @@ export default function FdaCeCertificationPage() {
                 <h3 className="font-bold text-primary-600 mb-2">Polarized Sunglasses</h3>
                 <p className="text-gray-600 text-sm">UV400 certified -- blocks 100% of UVA/UVB radiation, meets ANSI Z80.3.</p>
               </Link>
-              <Link href="/certifications" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/certifications/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Our Certifications</h3>
                 <p className="text-gray-600 text-sm">Full compliance documentation -- FDA, CE, UV400, ISO 9001, ANSI Z80.3.</p>
               </Link>

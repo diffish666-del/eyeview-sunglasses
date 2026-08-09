@@ -271,7 +271,7 @@ export default function B2BvsB2CSunglassesPage() {
             <h2 className="text-3xl font-bold mb-4">Ready to Manufacture Your First Collection?</h2>
             <p className="text-xl mb-6 opacity-90">Whether you are launching wholesale, DTC, or hybrid — we will help you build the right product line for your business model. MOQ as low as 100 pieces per style.</p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Get a Free Quote

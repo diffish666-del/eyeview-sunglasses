@@ -590,7 +590,7 @@ export default function Tr90VsAcetateVsMetalPage() {
               material -- or combination of materials -- gives you the best product at your price point. 
               No charge, no obligation. I do this because it saves us both time later.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Get a Free Material Recommendation
             </Link>
           </div>

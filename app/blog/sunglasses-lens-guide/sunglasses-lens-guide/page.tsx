@@ -486,7 +486,7 @@ export default function SunglassesLensGuidePage() {
               Here&apos;s what I tell every brand owner: a full coating package (AR + hydrophobic + oleophobic + 
               scratch-resistant) adds $0.80-$2.50 per pair wholesale. You can charge $20-$40 more at retail. 
               That&apos;s the highest-margin upgrade in the entire sunglasses business. We offer customizable{' '}
-              <Link href="/products" className="text-amber-900 underline">coating packages</Link> for exactly this reason.
+              <Link href="/products/" className="text-amber-900 underline">coating packages</Link> for exactly this reason.
             </p>
           </div>
 
@@ -638,7 +638,7 @@ export default function SunglassesLensGuidePage() {
               setup maximizes your margins without sacrificing quality. I&apos;ve done this for 500+ brands -- 
               it takes about 10 minutes.
             </p>
-            <Link href="/contact" className="btn-primary">
+            <Link href="/contact/" className="btn-primary">
               Ask Jacky About Lenses
             </Link>
           </div>

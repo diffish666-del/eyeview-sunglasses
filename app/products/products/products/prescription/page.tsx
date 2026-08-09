@@ -113,7 +113,7 @@ export default function PrescriptionSunglassesPage() {
           <nav className="mb-8 text-sm text-gray-500">
             <Link href="/" className="hover:text-primary-600">Home</Link>
             <span className="mx-2">/</span>
-            <Link href="/products" className="hover:text-primary-600">Products</Link>
+            <Link href="/products/" className="hover:text-primary-600">Products</Link>
             <span className="mx-2">/</span>
             <span className="text-gray-900 font-medium">Prescription Sunglasses</span>
           </nav>
@@ -209,7 +209,7 @@ export default function PrescriptionSunglassesPage() {
                         <div className="text-primary-600 font-bold">{product.price}</div>
                         <div className="text-xs text-gray-400">MOQ: {product.moq}</div>
                       </div>
-                      <Link href="/contact" className="btn-primary text-sm">Get Quote</Link>
+                      <Link href="/contact/" className="btn-primary text-sm">Get Quote</Link>
                     </div>
                   </div>
                 </div>
@@ -358,7 +358,7 @@ export default function PrescriptionSunglassesPage() {
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Sport Sunglasses</h3>
                 <p className="text-gray-600 text-sm">Wraparound sport frames with prescription insert options. Ideal for athletes who need vision correction during outdoor training and competition.</p>
               </Link>
-              <Link href="/certifications" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
+              <Link href="/certifications/" className="bg-white rounded-xl p-6 border border-gray-100 hover:shadow-lg transition-all group">
                 <div className="text-4xl mb-3">📋</div>
                 <h3 className="text-xl font-bold group-hover:text-primary-600 transition-colors mb-2">Our Certifications</h3>
                 <p className="text-gray-600 text-sm">FDA, CE, UV400, ANSI Z80.3 -- see the compliance standards our prescription lenses meet for the US, EU, and global markets.</p>
@@ -373,10 +373,10 @@ export default function PrescriptionSunglassesPage() {
               Tell us your target market, price point, and frame preferences. We will recommend the right lens materials, prescription distribution, and coatings for your brand. Samples available in 7-10 business days.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/contact" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
+              <Link href="/contact/" className="bg-white text-primary-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg transition-colors">
                 Get a Quote
               </Link>
-              <Link href="/products" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
+              <Link href="/products/" className="border-2 border-white text-white hover:bg-white hover:text-primary-600 font-bold py-3 px-8 rounded-lg transition-colors">
                 View All Products
               </Link>
             </div>

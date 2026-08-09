@@ -110,7 +110,7 @@ export default function SportPage() {
         <nav className="mb-8 text-sm text-gray-500">
           <Link href="/" className="hover:text-primary-600">Home</Link>
           <span className="mx-2">/</span>
-          <Link href="/products" className="hover:text-primary-600">Products</Link>
+          <Link href="/products/" className="hover:text-primary-600">Products</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-900">Sport Sunglasses</span>
         </nav>
@@ -202,7 +202,7 @@ export default function SportPage() {
                     <span className="text-lg font-semibold text-primary-600">{product.price}</span>
                     <span className="text-sm text-gray-500">MOQ: {product.moq}</span>
                   </div>
-                  <Link href="/contact" className="btn-primary inline-block">
+                  <Link href="/contact/" className="btn-primary inline-block">
                     Get Quote
                   </Link>
                 </div>
@@ -357,8 +357,8 @@ export default function SportPage() {
             No pressure, no commitment on samples.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/contact" className="btn-primary">Get Team Pricing</Link>
-            <Link href="/products" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors">Browse All Products</Link>
+            <Link href="/contact/" className="btn-primary">Get Team Pricing</Link>
+            <Link href="/products/" className="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg font-semibold hover:bg-primary-50 transition-colors">Browse All Products</Link>
           </div>
         </section>
       </div>

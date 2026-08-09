@@ -375,7 +375,7 @@ export default function NegotiateChineseManufacturersPage() {
               Skip the &quot;what&apos;s your best price&quot; opener. Tell me about your brand, your timeline, and where you want to be in 12 months — and I&apos;ll give you a quote that actually reflects what we can build together.
             </p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Get a Quote
@@ -402,7 +402,7 @@ export default function NegotiateChineseManufacturersPage() {
                 <h3 className="font-bold text-primary-600 mb-2">How to Import Sunglasses from China</h3>
                 <p className="text-gray-600 text-sm">Shipping, customs, duties, and compliance — everything after the factory door, explained step by step.</p>
               </Link>
-              <Link href="/contact" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
+              <Link href="/contact/" className="block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 transition-colors">
                 <h3 className="font-bold text-primary-600 mb-2">Contact Us</h3>
                 <p className="text-gray-600 text-sm">Get a quote for your custom wholesale sunglasses order. Real pricing from a real factory owner.</p>
               </Link>

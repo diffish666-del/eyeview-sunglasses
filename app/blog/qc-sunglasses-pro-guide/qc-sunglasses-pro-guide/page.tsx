@@ -455,7 +455,7 @@ export default function QCProGuidePage() {
               production batch — live, unscripted, on your screen. See it before you order it.
             </p>
             <Link
-              href="/contact"
+              href="/contact/"
               className="inline-block bg-white text-primary-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-colors"
             >
               Schedule a Factory QC Tour
