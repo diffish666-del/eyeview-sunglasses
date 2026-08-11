@@ -35,7 +35,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'sustainable-sunglasses-manufacturing',
     'tr90-vs-acetate-vs-metal',
     'uv400-vs-polarized',
+    'sunglasses-frame-measurements-guide',
     'wholesale-sunglasses-pricing-guide',
+    'custom-sunglasses-manufacturing-process',
   ]
 
   // --- Spanish blog slugs ---
@@ -56,7 +58,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'guia-recubrimientos-gafas',
     'oem-vs-odm',
     'tendencias-diseno-gafas-2026',
+    'guia-medidas-monturas-gafas',
     'uv400-vs-polarizado',
+    'proceso-fabricacion-gafas-sol',
   ]
 
   // --- French blog slugs ---
@@ -77,7 +81,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'strategie-prix-lunettes',
     'tendances-lunettes-2026',
     'trouver-fabricant-lunettes',
+    'guide-mesures-montures-lunettes',
     'uv400-vs-polarisees',
+    'processus-fabrication-lunettes-soleil',
   ]
 
   // --- German blog slugs ---
@@ -98,7 +104,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'sonnenbrillen-preisstrategie',
     'sonnenbrillen-qualitaetskontrolle',
     'uv400-vs-polarisiert',
+    'sonnenbrillen-rahmenmessungen-leitfaden',
     'vergleich-rahmenmaterialien',
+    'sonnenbrillen-fertigungsprozess',
   ]
 
   // --- Portuguese blog slugs ---
@@ -119,7 +127,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'guia-revestimentos-oculos-sol',
     'oem-vs-odm',
     'tendencias-design-oculos-2026',
+    'guia-medidas-armacoes-oculos',
     'uv400-vs-polarizado',
+    'processo-fabricacao-oculos-sol',
   ]
 
   // --- Italian blog slugs ---
@@ -140,7 +150,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'strategia-prezzi-occhiali',
     'tendenze-design-occhiali-2026',
     'trovare-produttore-occhiali',
+    'guida-misure-montature-occhiali',
     'uv400-vs-polarizzate',
+    'processo-produzione-occhiali-sole',
   ]
 
   // Helper to create a sitemap entry

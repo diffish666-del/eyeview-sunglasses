@@ -21,6 +21,16 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'custom-sunglasses-manufacturing-process',
+    title: 'From Sketch to Sample: How Custom Sunglasses Are Manufactured in 4 Weeks',
+    excerpt: 'A factory owner walks you through the complete custom sunglasses manufacturing process — design review, mold making, material sourcing, assembly, QC, and shipping. Real timelines, real costs, no fluff.',
+    date: 'August 11, 2026',
+    category: 'Factory Know-How',
+    readTime: '9 min read',
+    emoji: '🏭',
+    featured: true,
+  },
+  {
     slug: 'sunglasses-retail-display-merchandising',
     title: 'Sunglasses Retail Display & Merchandising: How to Make Wholesale Eyewear Move Off the Shelf',
     excerpt: 'Practical guide to sunglasses retail displays: counter spinners, wall racks, lighting strategies, POP materials, and seasonal merchandising. Factory-tested display strategies that increase in-store sell-through for wholesale eyewear brands.',
@@ -28,6 +38,16 @@ const posts = [
     category: 'Retail Operations',
     readTime: '12 min read',
     emoji: '🏪',
+    featured: true,
+  },
+  {
+    slug: 'sunglasses-frame-measurements-guide',
+    title: 'Sunglasses Frame Measurements Explained: PD, Bridge Width, Temple Length — A Factory Buyer\'s Guide',
+    excerpt: 'A factory owner breaks down sunglasses frame measurements — PD, bridge width, temple length, frame width — with real wholesale data so you stop ordering frames that don\'t fit your customers.',
+    date: 'August 11, 2026',
+    category: 'Factory Know-How',
+    readTime: '8 min read',
+    emoji: '📐',
     featured: true,
   },
   {
