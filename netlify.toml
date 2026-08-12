@@ -1,9 +1,10 @@
 [build]
   publish = "out"
-  command = "npm run build"
+  command = "NODE_OPTIONS='--max-old-space-size=1200' npm run build"
 
 [build.environment]
   NODE_VERSION = "18.20.4"
+  NODE_OPTIONS = "--max-old-space-size=1200"
 
 [[headers]]
   for = "/*"
