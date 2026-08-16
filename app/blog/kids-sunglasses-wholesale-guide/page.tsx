@@ -113,11 +113,27 @@ export default function KidsSunglassesWholesaleGuide() {
           </p>
         </header>
 
+        {/* ═══════ TABLE OF CONTENTS ═══════ */}
+        <nav className="bg-gray-100 rounded-xl p-6 mb-12">
+          <h2 className="font-bold mb-4">Table of Contents</h2>
+          <ul className="space-y-2">
+            <li><a href="#market-growth" className="text-primary-600 hover:underline">Why the Kids Sunglasses Market Is Growing</a></li>
+            <li><a href="#safety-certifications" className="text-primary-600 hover:underline">Safety Certifications: The Non-Negotiable Foundation</a></li>
+            <li><a href="#frame-materials" className="text-primary-600 hover:underline">Frame Materials by Age Group</a></li>
+            <li><a href="#age-sizing" className="text-primary-600 hover:underline">Age-Specific Sizing: One Size Does Not Fit All</a></li>
+            <li><a href="#bulk-pricing" className="text-primary-600 hover:underline">Bulk Pricing: What Kids Sunglasses Actually Cost</a></li>
+            <li><a href="#styles-trends" className="text-primary-600 hover:underline">Popular Styles &amp; Trends (2026)</a></li>
+            <li><a href="#accessories" className="text-primary-600 hover:underline">Accessories: The $0.15 Add-Ons That Close Deals</a></li>
+            <li><a href="#buying-calendar" className="text-primary-600 hover:underline">Seasonal Buying Calendar</a></li>
+            <li><a href="#faq" className="text-primary-600 hover:underline">Frequently Asked Questions</a></li>
+          </ul>
+        </nav>
+
         <KeyTakeaways items={takeaways} />
 
         {/* ═══════ WHY KIDS SUNGLASSES IS A GROWING B2B MARKET ═══════ */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-6">Why the Kids Sunglasses Market Is Growing — and Why Most Wholesalers Ignore It</h2>
+          <h2 id="market-growth" className="text-3xl font-bold text-gray-900 mb-6">Why the Kids Sunglasses Market Is Growing — and Why Most Wholesalers Ignore It</h2>
           <p className="text-lg text-gray-700 mb-4">
             The global kids sunglasses market is projected to grow at 6.8% CAGR from 2026 to 2030, according to industry data. This is outpacing the adult sunglasses segment (4.2% CAGR) by a significant margin. The drivers are structural, not cyclical:
           </p>
@@ -136,7 +152,7 @@ export default function KidsSunglassesWholesaleGuide() {
 
         {/* ═══════ SAFETY STANDARDS ═══════ */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-6">Safety Certifications: The Non-Negotiable Foundation</h2>
+          <h2 id="safety-certifications" className="text-3xl font-bold text-gray-900 mb-6">Safety Certifications: The Non-Negotiable Foundation</h2>
           <p className="text-lg text-gray-700 mb-4">
             If you take one thing from this guide, make it this: children\'s sunglasses are regulated differently from adult sunglasses in every major market. The compliance burden is higher, the testing is more rigorous, and the consequences of getting it wrong — CPSC recall, customs seizure, liability claims — are severe.
           </p>
@@ -179,7 +195,7 @@ export default function KidsSunglassesWholesaleGuide() {
 
         {/* ═══════ MATERIALS ═══════ */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-6">Frame Materials by Age Group</h2>
+          <h2 id="frame-materials" className="text-3xl font-bold text-gray-900 mb-6">Frame Materials by Age Group</h2>
           <p className="text-lg text-gray-700 mb-6">
             The frame material decision is where wholesale buyers either save themselves a world of returns or walk into a customer service disaster. Here is the breakdown by age:
           </p>
@@ -231,7 +247,7 @@ export default function KidsSunglassesWholesaleGuide() {
 
         {/* ═══════ SIZING ═══════ */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-6">Age-Specific Sizing: One Size Does Not Fit All</h2>
+          <h2 id="age-sizing" className="text-3xl font-bold text-gray-900 mb-6">Age-Specific Sizing: One Size Does Not Fit All</h2>
           <p className="text-lg text-gray-700 mb-6">
             The single most common complaint from retailers about kids sunglasses is inconsistent sizing. A pair labeled "ages 4–10" that fits a 4-year-old will look absurd on a 9-year-old, and vice versa. Here is the sizing guide your factory needs to follow:
           </p>
@@ -290,7 +306,7 @@ export default function KidsSunglassesWholesaleGuide() {
 
         {/* ═══════ BULK PRICING ═══════ */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-6">Bulk Pricing: What Kids Sunglasses Actually Cost at the Factory</h2>
+          <h2 id="bulk-pricing" className="text-3xl font-bold text-gray-900 mb-6">Bulk Pricing: What Kids Sunglasses Actually Cost at the Factory</h2>
           <p className="text-lg text-gray-700 mb-6">
             Kids sunglasses are generally cheaper to manufacture than adult styles because they use less material and simpler construction. But the safety compliance premium — testing, certification, and material-grade requirements — partially offsets that savings. Here are real FOB price ranges from Chinese factories (Xiamen/Wenzhou clusters, as of 2026):
           </p>
@@ -344,7 +360,7 @@ export default function KidsSunglassesWholesaleGuide() {
 
         {/* ═══════ STYLES & TRENDS ═══════ */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-6">Popular Styles & Trends in Kids Sunglasses (2026)</h2>
+          <h2 id="styles-trends" className="text-3xl font-bold text-gray-900 mb-6">Popular Styles & Trends in Kids Sunglasses (2026)</h2>
           
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Top-Selling Kids Styles</h3>
           <ul className="list-disc pl-6 space-y-3 text-gray-700 mb-6">
@@ -363,7 +379,7 @@ export default function KidsSunglassesWholesaleGuide() {
 
         {/* ═══════ ACCESSORIES ═══════ */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-6">Accessories: The $0.15 Add-Ons That Close Retail Deals</h2>
+          <h2 id="accessories" className="text-3xl font-bold text-gray-900 mb-6">Accessories: The $0.15 Add-Ons That Close Retail Deals</h2>
           <p className="text-lg text-gray-700 mb-4">
             When a retail buyer is comparing your kids sunglasses line against a competitor\'s, the decision often comes down to what is <em>in the box</em>. These accessories cost almost nothing at factory pricing but create outsized perceived value:
           </p>
@@ -380,7 +396,7 @@ export default function KidsSunglassesWholesaleGuide() {
 
         {/* ═══════ SEASONAL STRATEGY ═══════ */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-6">Seasonal Buying Calendar for Kids Sunglasses Wholesale</h2>
+          <h2 id="buying-calendar" className="text-3xl font-bold text-gray-900 mb-6">Seasonal Buying Calendar for Kids Sunglasses Wholesale</h2>
           <p className="text-lg text-gray-700 mb-6">
             Kids sunglasses have a sharper seasonal curve than adult sunglasses because they are almost entirely an outdoor/summer purchase. Understanding the buying cycle is essential for inventory planning:
           </p>
@@ -450,7 +466,7 @@ export default function KidsSunglassesWholesaleGuide() {
 
         {/* ═══════ FAQ SECTION ═══════ */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-8">Frequently Asked Questions</h2>
+          <h2 id="faq" className="text-3xl font-bold text-gray-900 mb-8">Frequently Asked Questions</h2>
           <div className="space-y-6">
             {faqs.map((faq, i) => (
               <div key={i} className="border-b border-gray-200 pb-6">
