@@ -16,6 +16,7 @@ const enBlogSlugs = [
   'sunglasses-moq-guide', 'sunglasses-pricing-strategy', 'sunglasses-quality-control',
   'sunglasses-startup-cost', 'sunglasses-trade-shows-guide', 'sustainable-sunglasses-manufacturing',
   'tr90-vs-acetate-vs-metal', 'uv400-vs-polarized', 'wholesale-sunglasses-pricing-guide',
+  'sunglasses-factory-audit-checklist', 'sunglasses-incoterms-shipping-guide',
 ];
 
 const esBlogSlugs = [
@@ -24,6 +25,7 @@ const esBlogSlugs = [
   'encontrar-fabricante-gafas', 'estrategia-precios-gafas', 'fabricacion-sostenible-gafas',
   'gafas-segun-forma-rostro', 'guia-importar-gafas', 'guia-lentes-gafas', 'guia-moq-gafas',
   'guia-recubrimientos-gafas', 'oem-vs-odm', 'tendencias-diseno-gafas-2026', 'uv400-vs-polarizado',
+  'lista-auditoria-fabrica-gafas', 'guia-incoterms-envio-gafas-sol',
 ];
 
 const frBlogSlugs = [
@@ -33,6 +35,7 @@ const frBlogSlugs = [
   'guide-revetements-lunettes', 'guide-verres-lunettes', 'oem-vs-odm',
   'packaging-lunettes-personnalise', 'strategie-prix-lunettes', 'tendances-lunettes-2026',
   'trouver-fabricant-lunettes', 'uv400-vs-polarisees',
+  'checklist-audit-usine-lunettes', 'guide-incoterms-expedition-lunettes',
 ];
 
 const deBlogSlugs = [
@@ -43,6 +46,7 @@ const deBlogSlugs = [
   'sonnenbrillen-import-ratgeber', 'sonnenbrillen-marke-gruenden', 'sonnenbrillen-mindestbestellmenge-ratgeber',
   'sonnenbrillen-preisstrategie', 'sonnenbrillen-qualitaetskontrolle', 'uv400-vs-polarisiert',
   'vergleich-rahmenmaterialien',
+  'sonnenbrillen-fabrik-audit-checkliste', 'sonnenbrillen-incoterms-versand-ratgeber',
 ];
 
 const ptBlogSlugs = [
@@ -52,6 +56,7 @@ const ptBlogSlugs = [
   'guia-formato-rosto-oculos', 'guia-importacao-oculos-sol', 'guia-lentes-oculos-sol',
   'guia-moq-oculos-sol', 'guia-revestimentos-oculos-sol', 'oem-vs-odm',
   'tendencias-design-oculos-2026', 'uv400-vs-polarizado',
+  'checklist-auditoria-fabrica-oculos', 'guia-incoterms-envio-oculos',
 ];
 
 const itBlogSlugs = [
@@ -61,6 +66,7 @@ const itBlogSlugs = [
   'guida-rivestimenti-occhiali', 'oem-vs-odm', 'packaging-personalizzato-occhiali',
   'produzione-sostenibile-occhiali', 'strategia-prezzi-occhiali', 'tendenze-design-occhiali-2026',
   'trovare-produttore-occhiali', 'uv400-vs-polarizzate',
+  'checklist-audit-fabbrica-occhiali', 'guida-incoterms-spedizione-occhiali',
 ];
 
 function urlEntry(u, freq, pri) {

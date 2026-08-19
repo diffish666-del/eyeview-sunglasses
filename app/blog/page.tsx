@@ -21,6 +21,26 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'sunglasses-factory-audit-checklist',
+    title: 'Sunglasses Factory Audit: 20-Point Supplier Vetting Checklist',
+    excerpt: 'A factory owner\'s 20-point checklist to vet a sunglasses supplier before you wire money — facility, certifications, QC, samples, and trading-company red flags.',
+    date: 'August 19, 2026',
+    category: 'Sourcing',
+    readTime: '9 min read',
+    emoji: '🔍',
+    featured: true,
+  },
+  {
+    slug: 'sunglasses-incoterms-shipping-guide',
+    title: 'Sunglasses Incoterms & Shipping Guide: FOB, CIF, EXW, DDP Explained',
+    excerpt: 'A factory owner explains FOB, CIF, EXW, and DDP for sunglasses importers — real shipping numbers, who pays what, and how to choose the right Incoterm for your first order.',
+    date: 'August 19, 2026',
+    category: 'Import & Logistics',
+    readTime: '8 min read',
+    emoji: '🚢',
+    featured: true,
+  },
+  {
     slug: 'custom-sunglasses-manufacturing-process',
     title: 'From Sketch to Sample: How Custom Sunglasses Are Manufactured in 4 Weeks',
     excerpt: 'A factory owner walks you through the complete custom sunglasses manufacturing process — design review, mold making, material sourcing, assembly, QC, and shipping. Real timelines, real costs, no fluff.',

@@ -72,11 +72,13 @@ BLOG_WITH_TAKEAWAYS=0
 BLOG_WITH_ARTICLE=0
 BLOG_WITH_TOC=0
 
-for blog_dir in "$SITE_DIR/app/blog"/*/; do
-  [ -d "$blog_dir" ] || continue
-  
-  page_file="$blog_dir/page.tsx"
+# Use find to catch both flat (blog/slug/page.tsx) and nested (blog/slug/slug/page.tsx) structures
+for page_file in $(find "$SITE_DIR/app/blog" -name "page.tsx" 2>/dev/null); do
   [ -f "$page_file" ] || continue
+  # Skip blog index page (app/blog/page.tsx) or index sub-pages
+  [[ "$page_file" =~ /blog/page\.tsx$ ]] && continue
+  [[ "$page_file" =~ /blog/[^/]*index/page\.tsx$ ]] && continue
+  
   BLOG_COUNT=$((BLOG_COUNT + 1))
   
   # Check Article schema
@@ -152,12 +154,11 @@ if grep -q 'eligibleQuantity' "$SCHEMA_FILE" 2>/dev/null; then
   SCHEMA_HAS_ELIGIBLE_QTY=1
 fi
 
-for product_dir in "$SITE_DIR/app/products"/*/; do
-  [ -d "$product_dir" ] || continue
-  PRODUCT_COUNT=$((PRODUCT_COUNT + 1))
-  
-  page_file="$product_dir/page.tsx"
+for page_file in $(find "$SITE_DIR/app/products" -name "page.tsx" 2>/dev/null); do
   [ -f "$page_file" ] || continue
+  # Skip the products index/listing page (no product slug)
+  [[ "$page_file" =~ /products/products/products/page\.tsx$ ]] && continue
+  PRODUCT_COUNT=$((PRODUCT_COUNT + 1))
   
   # Detect ProductSchema component usage (component-based schema)
   if grep -q 'ProductSchema' "$page_file" 2>/dev/null; then
@@ -243,8 +244,9 @@ LANG_WITH_BUSINESS=0
 LANG_WITH_WEBSITE=0
 
 for lang in es fr de pt it; do
-  layout="$SITE_DIR/app/$lang/layout.tsx"
-  [ -f "$layout" ] || continue
+  # Multilingual layouts use nested path app/<lang>/<lang>/<lang>/layout.tsx
+  layout=$(find "$SITE_DIR/app/$lang" -name "layout.tsx" -mindepth 3 -maxdepth 3 2>/dev/null | head -1)
+  [ -n "$layout" ] && [ -f "$layout" ] || continue
   LANG_COUNT=$((LANG_COUNT + 1))
   
   if grep -q "LocalBusiness" "$layout" 2>/dev/null; then
@@ -256,13 +258,18 @@ for lang in es fr de pt it; do
   fi
 done
 
-MAX_SCORE=$((MAX_SCORE + 10))
-echo "  LocalBusiness schema: $LANG_WITH_BUSINESS/$LANG_COUNT languages" >> "$LOG_FILE"
-SCORE=$((SCORE + (LANG_WITH_BUSINESS * 10 / LANG_COUNT)))
+if [ "$LANG_COUNT" -gt 0 ]; then
+  MAX_SCORE=$((MAX_SCORE + 10))
+  echo "  LocalBusiness schema: $LANG_WITH_BUSINESS/$LANG_COUNT languages" >> "$LOG_FILE"
+  SCORE=$((SCORE + (LANG_WITH_BUSINESS * 10 / LANG_COUNT)))
 
-MAX_SCORE=$((MAX_SCORE + 5))
-echo "  WebSite schema: $LANG_WITH_WEBSITE/$LANG_COUNT languages" >> "$LOG_FILE"
-SCORE=$((SCORE + (LANG_WITH_WEBSITE * 5 / LANG_COUNT)))
+  MAX_SCORE=$((MAX_SCORE + 5))
+  echo "  WebSite schema: $LANG_WITH_WEBSITE/$LANG_COUNT languages" >> "$LOG_FILE"
+  SCORE=$((SCORE + (LANG_WITH_WEBSITE * 5 / LANG_COUNT)))
+else
+  MAX_SCORE=$((MAX_SCORE + 15))
+  echo "  LocalBusiness schema: 0/0 languages (no multilingual pages)" >> "$LOG_FILE"
+fi
 
 # ─── 5. Geo: hreflang tags ───
 echo "" >> "$LOG_FILE"
@@ -282,9 +289,11 @@ echo "" >> "$LOG_FILE"
 echo "--- Content Freshness ---" >> "$LOG_FILE"
 
 FRESH_BLOGS=0
-for blog_dir in "$SITE_DIR/app/blog"/*/; do
-  page_file="$blog_dir/page.tsx"
+for page_file in $(find "$SITE_DIR/app/blog" -name "page.tsx" 2>/dev/null); do
   [ -f "$page_file" ] || continue
+  # Skip blog index page
+  [[ "$page_file" =~ /blog/page\.tsx$ ]] && continue
+  [[ "$page_file" =~ /blog/[^/]*index/page\.tsx$ ]] && continue
   if grep -q "dateModified" "$page_file" 2>/dev/null; then
     FRESH_BLOGS=$((FRESH_BLOGS + 1))
   fi
